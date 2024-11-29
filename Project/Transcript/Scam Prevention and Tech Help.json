@@ -1,0 +1,2637 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.0,
+        "text": " This is an MPB Think Radio Podcast."
+    },
+    {
+        "start": 4.0,
+        "end": 10.64,
+        "text": " Here, previous shows, visit mpbonline.org or download the MPB Public Radio app to listen"
+    },
+    {
+        "start": 10.64,
+        "end": 14.4,
+        "text": " on your iPhone or Android phone on demand."
+    },
+    {
+        "start": 14.4,
+        "end": 18.56,
+        "text": " On Money Talks, we discuss money news and take your questions about personal finance."
+    },
+    {
+        "start": 18.56,
+        "end": 22.56,
+        "text": " For 15 years, we've provided free financial information from Mississippians."
+    },
+    {
+        "start": 22.56,
+        "end": 27.28,
+        "text": " I hope you can join me, Dr. Nancy Lottred Andersen, co-host of Money Talks, Tuesdays at 9am"
+    },
+    {
+        "start": 27.28,
+        "end": 34.88,
+        "text": " for any time on our podcast."
+    },
+    {
+        "start": 34.88,
+        "end": 39.52,
+        "text": " Hello, thanks for tuning in to Everyday Tech on MPB Think Radio."
+    },
+    {
+        "start": 39.52,
+        "end": 43.52,
+        "text": " Abraham Nanny here with my friends, Sabir Adouhak and IT expert."
+    },
+    {
+        "start": 43.52,
+        "end": 46.64,
+        "text": " Today on the show, we're really hoping to answer your tech questions."
+    },
+    {
+        "start": 46.64,
+        "end": 49.760000000000005,
+        "text": " We've gotten a few emails this week that we want to answer on air,"
+    },
+    {
+        "start": 49.760000000000005,
+        "end": 52.96,
+        "text": " but also would love to answer your phone call questions as well."
+    },
+    {
+        "start": 52.96,
+        "end": 57.2,
+        "text": " Email everydaytech at mpbonline.org if you have any questions or comments."
+    },
+    {
+        "start": 57.2,
+        "end": 61.84,
+        "text": " And of course, don't forget about the talk to us feature on the MPB Public Media app,"
+    },
+    {
+        "start": 61.84,
+        "end": 66.16,
+        "text": " where you can record a voice or video message and send it straight to us at everyday tech."
+    },
+    {
+        "start": 66.16,
+        "end": 70.48,
+        "text": " Sabir, how you doing, man? IT has been wild the past few days."
+    },
+    {
+        "start": 70.48,
+        "end": 74.08,
+        "text": " It has. It has. I'm just really grateful for, you know,"
+    },
+    {
+        "start": 74.08,
+        "end": 77.52000000000001,
+        "text": " opportunities to keep learning about different things and be aware of stuff."
+    },
+    {
+        "start": 78.47999999999999,
+        "end": 80.88,
+        "text": " I've been tracking down a lot more things."
+    },
+    {
+        "start": 80.88,
+        "end": 86.16,
+        "text": " There's a there's an open platform called TLTDR, T-D-L-R."
+    },
+    {
+        "start": 86.16,
+        "end": 91.52,
+        "text": " TLDR, excuse me. And they've got so many different things that I've learned more"
+    },
+    {
+        "start": 91.52,
+        "end": 96.0,
+        "text": " just on the way how we talk about things in security, like IT security,"
+    },
+    {
+        "start": 96.0,
+        "end": 99.28,
+        "text": " for there's been new changes in terms of what we call pin testing,"
+    },
+    {
+        "start": 99.28,
+        "end": 101.44,
+        "text": " which is short for penetration testing."
+    },
+    {
+        "start": 102.24,
+        "end": 106.08,
+        "text": " And what that is in terms of IT security is finding out different ways"
+    },
+    {
+        "start": 106.08,
+        "end": 112.16,
+        "text": " of seeing just how secure a network is so that IT support for a given organization"
+    },
+    {
+        "start": 112.16,
+        "end": 116.8,
+        "text": " will see just how malleable or just how easy it is or not,"
+    },
+    {
+        "start": 116.8,
+        "end": 120.08,
+        "text": " or how difficult it is to try to break into their own networks."
+    },
+    {
+        "start": 120.08,
+        "end": 124.48,
+        "text": " So when you do pin testing, there are there's a lot of things that you can learn about"
+    },
+    {
+        "start": 124.48,
+        "end": 128.0,
+        "text": " your vulnerabilities of your own network, of your own computers,"
+    },
+    {
+        "start": 128.0,
+        "end": 129.84,
+        "text": " or what we call them the Biz endpoints."
+    },
+    {
+        "start": 131.04,
+        "end": 135.6,
+        "text": " And you as a person that uses an endpoint would be considered in the user."
+    },
+    {
+        "start": 135.68,
+        "end": 142.56,
+        "text": " So how so there's a lot of new talk on the horizon that is evolving the way how"
+    },
+    {
+        "start": 142.56,
+        "end": 147.84,
+        "text": " pin testing works in terms of how end users a user of a computer or an endpoint,"
+    },
+    {
+        "start": 149.28,
+        "end": 154.48,
+        "text": " just looking at the evolving behaviors that they may accidentally compromise themselves."
+    },
+    {
+        "start": 154.48,
+        "end": 158.72,
+        "text": " I had one of my wife's cousins hit me up and it was saying like,"
+    },
+    {
+        "start": 158.72,
+        "end": 162.4,
+        "text": " hey, is it okay for me to open up this PDF file? I said do not open up that file."
+    },
+    {
+        "start": 163.36,
+        "end": 167.12,
+        "text": " So she actually texted her and she said, do you think"
+    },
+    {
+        "start": 167.12,
+        "end": 169.68,
+        "text": " Sabir would know how to shut down an IT company?"
+    },
+    {
+        "start": 169.68,
+        "end": 171.68,
+        "text": " No, I mean like, or like a hacker or something like that."
+    },
+    {
+        "start": 171.68,
+        "end": 175.76,
+        "text": " Well, I mean, that's another conversation, but there's another conversation,"
+    },
+    {
+        "start": 175.76,
+        "end": 179.68,
+        "text": " but your best bet is to contact law enforcement in a situation."
+    },
+    {
+        "start": 179.68,
+        "end": 183.36,
+        "text": " Lynn Fitch's cybercrime office is pretty good in terms of what they're doing."
+    },
+    {
+        "start": 183.36,
+        "end": 188.64000000000001,
+        "text": " So if you think you get the wrong things as I'm reading these different things about"
+    },
+    {
+        "start": 189.27999999999997,
+        "end": 194.72,
+        "text": " pin test how to some different things that are happening and the way how the"
+    },
+    {
+        "start": 194.72,
+        "end": 201.11999999999998,
+        "text": " pin test field is changing. If you feel any of our listeners I've had, I think I've told"
+    },
+    {
+        "start": 201.11999999999998,
+        "end": 206.56,
+        "text": " about on the show a couple of times, I had one client of mine called me crying because she was"
+    },
+    {
+        "start": 206.56,
+        "end": 211.2,
+        "text": " this like, in tears because someone was actively hacking her and telling her that he was going"
+    },
+    {
+        "start": 211.2,
+        "end": 215.6,
+        "text": " to come to her house and do da da da da da, and I said, no, no, let's just power off your computer."
+    },
+    {
+        "start": 215.6,
+        "end": 218.64,
+        "text": " It's going to be okay. We're going to be fine. I'll call you back in an hour."
+    },
+    {
+        "start": 218.64,
+        "end": 223.28,
+        "text": " Had another client who got hit for about down in Richland. They got hit for about five,"
+    },
+    {
+        "start": 223.28,
+        "end": 228.0,
+        "text": " six K someone hit them up and thankfully their bank got them their stuff squared away."
+    },
+    {
+        "start": 228.0,
+        "end": 232.24,
+        "text": " We fortified their defenses and I have not heard back from them. I probably need to call"
+    },
+    {
+        "start": 232.24,
+        "end": 236.0,
+        "text": " them and check out. But that's a good thing. That's a good thing. Yeah, yeah. When there's no"
+    },
+    {
+        "start": 236.0,
+        "end": 240.79999999999998,
+        "text": " problem, it's good. That's a question I have though, Sabir. Do you find yourself having to be"
+    },
+    {
+        "start": 240.88000000000002,
+        "end": 247.84,
+        "text": " somewhat of a psychologist for some, especially when you get somebody crying, who thinks somebody's"
+    },
+    {
+        "start": 247.84,
+        "end": 254.64000000000001,
+        "text": " going to literally come knock on their door and come get them. And that's it does. And this"
+    },
+    {
+        "start": 254.64000000000001,
+        "end": 259.28000000000003,
+        "text": " person lives alone. This person's client of mine originally lives alone. She's a retired"
+    },
+    {
+        "start": 259.28000000000003,
+        "end": 264.40000000000003,
+        "text": " you know, educator and everything. And she was in tears. But there is like a bit of like a"
+    },
+    {
+        "start": 264.40000000000003,
+        "end": 269.04,
+        "text": " psychology part of it, but she also carries, I ain't trying to put her stuff out there. She carries."
+    },
+    {
+        "start": 269.04,
+        "end": 275.68,
+        "text": " She carries the turrets from somebody to try to come to our house. We put it that way. But"
+    },
+    {
+        "start": 276.24,
+        "end": 281.20000000000005,
+        "text": " but yeah, I mean like to shit, her bigger thing was she was concerned that this person was"
+    },
+    {
+        "start": 281.20000000000005,
+        "end": 287.12,
+        "text": " actively like robbing her like while they were talking her turn on the phone. And as was my client"
+    },
+    {
+        "start": 287.12,
+        "end": 292.48,
+        "text": " in Richland, so Richland originally, he's two clients in particular. We fortified her defenses and"
+    },
+    {
+        "start": 292.48,
+        "end": 298.0,
+        "text": " I think any IT guy or gal that's doing this type of work, particularly when it comes to IT"
+    },
+    {
+        "start": 298.0,
+        "end": 302.56,
+        "text": " security, they need to be in a situation that yeah, sometimes they're on the clock to be able"
+    },
+    {
+        "start": 302.56,
+        "end": 307.44,
+        "text": " to support certain things, but you also have to speak with empathy because you have to understand"
+    },
+    {
+        "start": 307.44,
+        "end": 311.52,
+        "text": " what people are going through. If you work in healthcare and there's a breach, how do you deal"
+    },
+    {
+        "start": 311.52,
+        "end": 316.4,
+        "text": " with things? If you work in finance and you're in there's a breach, how do you deal with things?"
+    },
+    {
+        "start": 316.4,
+        "end": 323.04,
+        "text": " If you work with anything that's sensitive, and you got to be able to meet people where they are,"
+    },
+    {
+        "start": 323.04,
+        "end": 328.88,
+        "text": " and to not have that sense of empathy, which sadly some people in my field do not have. And they"
+    },
+    {
+        "start": 328.88,
+        "end": 333.84000000000003,
+        "text": " also don't know how to communicate. But they do their best because they're focusing on the problem,"
+    },
+    {
+        "start": 333.84000000000003,
+        "end": 339.04,
+        "text": " but they're not also speaking in a way that says, I got this. Calm is going to be okay."
+    },
+    {
+        "start": 339.04,
+        "end": 344.16,
+        "text": " Or I got you. I got you. I got you. No worry about it. We're going to get this situation. Even if"
+    },
+    {
+        "start": 344.16,
+        "end": 348.8,
+        "text": " you don't have the answer in their situations, I'm going to be completely candid. I'll be situation"
+    },
+    {
+        "start": 348.8,
+        "end": 352.56,
+        "text": " up scratching my head and everything else. So I'm talking to my system admins. I'm talking to other"
+    },
+    {
+        "start": 352.56,
+        "end": 358.56,
+        "text": " folks. The way and that's one of the reasons why I don't use the word should. Because coming from"
+    },
+    {
+        "start": 358.56,
+        "end": 365.04,
+        "text": " my background is actually communication. Should does not denote confidence. It does not. So if you"
+    },
+    {
+        "start": 365.04,
+        "end": 370.64,
+        "text": " say the word, that's what it should. And when you hear, anytime I hear some of my colleagues or anybody"
+    },
+    {
+        "start": 370.64,
+        "end": 375.12,
+        "text": " else use the word should, it is nails on the chalkboard for me. Because the first thing you need to do"
+    },
+    {
+        "start": 375.12,
+        "end": 379.6,
+        "text": " if there's a problem is to say, you know what, we're going to get you squared away, Abram. We're"
+    },
+    {
+        "start": 379.6,
+        "end": 383.76000000000005,
+        "text": " going to get you squared away, Jermaine. Don't worry about it. We got this covered. It's, you know,"
+    },
+    {
+        "start": 383.76000000000005,
+        "end": 388.96000000000004,
+        "text": " get try to give it ETA. You know, how long this is going to take. And then go from there. But the"
+    },
+    {
+        "start": 388.96000000000004,
+        "end": 394.24,
+        "text": " psychology of it, yes, is to be able to any of the confidence, any of their security that has been"
+    },
+    {
+        "start": 394.24,
+        "end": 400.16,
+        "text": " ripped to shreds. As in I'm have broke my heart here. And this this person is in her 70s. Now I'm"
+    },
+    {
+        "start": 400.16,
+        "end": 405.36,
+        "text": " talking about the couple that's down and rich on that. They got hit there in their 70s. So these"
+    },
+    {
+        "start": 405.36,
+        "end": 410.64,
+        "text": " are elders that are getting hit every day. And then and it's way too regular. And a lot of them,"
+    },
+    {
+        "start": 410.64,
+        "end": 414.8,
+        "text": " they're starting to be more savvy. You know, you know, shout out to them. They they're doing great. And"
+    },
+    {
+        "start": 414.8,
+        "end": 418.8,
+        "text": " and it's a great opportunity. But these folks are getting smarter. And so therefore, like I was"
+    },
+    {
+        "start": 418.8,
+        "end": 424.8,
+        "text": " saying in terms of pen test, a lot of pen test, the whole pen test culture is starting to evolve"
+    },
+    {
+        "start": 424.8,
+        "end": 429.28000000000003,
+        "text": " with evolving threats and threat actors that are out there. But it is you have to speak with"
+    },
+    {
+        "start": 429.28,
+        "end": 432.88,
+        "text": " empathy. There is a psychology. Come on. Some beer. M D. Come on."
+    },
+    {
+        "start": 432.88,
+        "end": 438.64,
+        "text": " Some M D. Look, we just we try to we try to I would say like an IT field. We have to be not only"
+    },
+    {
+        "start": 438.64,
+        "end": 444.79999999999995,
+        "text": " robust in terms of the offense of defense or defense of the work that we do. We also have to be"
+    },
+    {
+        "start": 444.79999999999995,
+        "end": 449.91999999999996,
+        "text": " robust in how we talk to people, how we talked to end users. Because you got some end users that"
+    },
+    {
+        "start": 449.91999999999996,
+        "end": 455.67999999999995,
+        "text": " are like hold up, chill out. And you got some end users who will be in tears and everything in"
+    },
+    {
+        "start": 455.68,
+        "end": 461.36,
+        "text": " between. So you have to meet people where they are. You have to be able to denote some sense of"
+    },
+    {
+        "start": 461.36,
+        "end": 465.76,
+        "text": " confidence in terms of what you're doing. And then speak to a way that says that, all right, we're"
+    },
+    {
+        "start": 465.76,
+        "end": 471.44,
+        "text": " going to get this going on. And sometimes I've had people say, well, I can do XYZ. I went to"
+    },
+    {
+        "start": 471.44,
+        "end": 475.52,
+        "text": " school for this, this, this, that, that that how come I can't figure how come you can't tell me how"
+    },
+    {
+        "start": 475.52,
+        "end": 482.8,
+        "text": " XYZ and they come from a sense of not arrogance, not braggadocio, but they're trying to tell you where"
+    },
+    {
+        "start": 482.8,
+        "end": 488.8,
+        "text": " they are in their life. And like, I can do XYZ with this thing, but you, but, but this happened"
+    },
+    {
+        "start": 488.8,
+        "end": 494.16,
+        "text": " to my computer. And I don't understand why. Like it's almost like as if they take it personally."
+    },
+    {
+        "start": 494.16,
+        "end": 499.44,
+        "text": " The fact they can't figure out because of where they are established in their life. Why can't I"
+    },
+    {
+        "start": 499.44,
+        "end": 505.76,
+        "text": " understand why my computer is doing XYZ? And that's a personal thing for them. Right. And that's not"
+    },
+    {
+        "start": 505.76,
+        "end": 511.04,
+        "text": " so, and that's a shot against their confidence. That's a shot against. So again, you have all kinds of"
+    },
+    {
+        "start": 511.04,
+        "end": 516.24,
+        "text": " folks that'll that'll have all kinds of things. And I think it's tech professionals. We have to"
+    },
+    {
+        "start": 516.24,
+        "end": 522.32,
+        "text": " not take it personally when people are in the RAM RAM stage or in the why can't I stage or in"
+    },
+    {
+        "start": 522.32,
+        "end": 527.44,
+        "text": " this end there just red deep breaths. And then, you know, try to fix it, meet them where they are."
+    },
+    {
+        "start": 527.44,
+        "end": 532.8000000000001,
+        "text": " And if we don't do it, on up to the fact that you don't, but you're going to get a support team"
+    },
+    {
+        "start": 532.8000000000001,
+        "end": 536.64,
+        "text": " that can be able to try to make things right. And give them a time frame. You give them a time frame"
+    },
+    {
+        "start": 536.64,
+        "end": 541.68,
+        "text": " and then also don't use the word should. Don't use the word should. Don't use the word should."
+    },
+    {
+        "start": 541.68,
+        "end": 547.36,
+        "text": " I tell people all the time, like at work and to my clients, I say it's supposed to. It's designed"
+    },
+    {
+        "start": 547.36,
+        "end": 553.76,
+        "text": " to I expect it to or whatever this time, the third. But should. I wouldn't even give them an"
+    },
+    {
+        "start": 553.76,
+        "end": 560.16,
+        "text": " ETA on the word should. I'd just be like, let me see if I can, okay. And you know what I'm saying?"
+    },
+    {
+        "start": 560.16,
+        "end": 566.24,
+        "text": " Yeah, just move on. If it should, because you are the one with the"
+    },
+    {
+        "start": 566.24,
+        "end": 569.84,
+        "text": " should or shouldn't. Right. So they don't even know whether it should."
+    },
+    {
+        "start": 569.84,
+        "end": 573.84,
+        "text": " Right. Well, I'm saying like as an IT person, I don't like the word should. I don't like you."
+    },
+    {
+        "start": 573.84,
+        "end": 577.92,
+        "text": " But as an IT person, you don't even have to use that with me. Right. Because I don't know"
+    },
+    {
+        "start": 577.92,
+        "end": 581.76,
+        "text": " correct. You could tell me anything."
+    },
+    {
+        "start": 581.76,
+        "end": 586.88,
+        "text": " Sure. Yeah. I guarantee you, if you call a big box store, and if you had an issue and you didn't"
+    },
+    {
+        "start": 586.88,
+        "end": 593.28,
+        "text": " call some IT guy named severe, but if you call the, if you call the big box store, I guarantee you,"
+    },
+    {
+        "start": 593.28,
+        "end": 598.4,
+        "text": " I'll bet you lunch somewhere. And you're saying like, so is my problem squared away? They're"
+    },
+    {
+        "start": 598.4,
+        "end": 602.72,
+        "text": " going to say, yeah, well, I should. I guarantee you, I bet you lunch for a week. They're going to"
+    },
+    {
+        "start": 602.72,
+        "end": 607.6,
+        "text": " say they're going to say the word should. I guarantee you after he's going to make me test it."
+    },
+    {
+        "start": 607.6,
+        "end": 611.92,
+        "text": " After doing this for about a year, I'd say you're out of several lunches at this point."
+    },
+    {
+        "start": 613.4399999999999,
+        "end": 618.4,
+        "text": " But like it's, but it's like I hear it happen from all my colleagues all the time. They say,"
+    },
+    {
+        "start": 618.48,
+        "end": 623.6,
+        "text": " well, it should, they don't understand. In my opinion, I've challenged my colleagues. I've"
+    },
+    {
+        "start": 623.6,
+        "end": 628.48,
+        "text": " challenged my managers. I'd be like, no, we really should stop saying the word should. And they'll"
+    },
+    {
+        "start": 628.48,
+        "end": 635.1999999999999,
+        "text": " just insist. We really should stop. But when it comes to, we really need to stop saying should,"
+    },
+    {
+        "start": 635.1999999999999,
+        "end": 640.24,
+        "text": " because there's no, there's no reason for it. You know, you're not conveying a sense of confidence."
+    },
+    {
+        "start": 640.24,
+        "end": 644.56,
+        "text": " You're not conveying you, and in my opinion, I would say you're not really understanding the"
+    },
+    {
+        "start": 644.56,
+        "end": 650.2399999999999,
+        "text": " empathy of what that person is. Well, you know what? In IT world, you're really given the computer,"
+    },
+    {
+        "start": 650.2399999999999,
+        "end": 656.16,
+        "text": " the hand, you know, the heads up, the hand up. I mean, with the word should, you're letting the"
+    },
+    {
+        "start": 656.16,
+        "end": 661.04,
+        "text": " computer run you and you not run the computer. That's correct. That's correct. There's no, there's no"
+    },
+    {
+        "start": 661.04,
+        "end": 666.4,
+        "text": " sense of like control, in my opinion. I say confidence, but there's also control. And there are a"
+    },
+    {
+        "start": 666.4,
+        "end": 673.4399999999999,
+        "text": " lot of different nuances in IT. He's also a grammar teacher. Oh, yeah. A medical doctor. And he's"
+    },
+    {
+        "start": 673.44,
+        "end": 677.6,
+        "text": " in English. Well, I was actually, that was actually my major was English. Yeah, you said,"
+    },
+    {
+        "start": 677.6,
+        "end": 683.2,
+        "text": " I was an English major minor in sociology. My track was in technical writing. I picked up the same"
+    },
+    {
+        "start": 683.2,
+        "end": 689.12,
+        "text": " with all the time. Literally communications major with a minor in sociology from Mississippi"
+    },
+    {
+        "start": 689.12,
+        "end": 693.6800000000001,
+        "text": " college. That's it. That's it. I saw the Mississippi music. You didn't mean, ain't, but you're"
+    },
+    {
+        "start": 693.6800000000001,
+        "end": 698.08,
+        "text": " an amazing and we still are going to make Abram nanny dot org. We are going to get that out there."
+    },
+    {
+        "start": 699.0400000000001,
+        "end": 703.6,
+        "text": " Well, we yesterday on money talks, we talked about a lot of what we're talking about right now,"
+    },
+    {
+        "start": 704.48,
+        "end": 710.32,
+        "text": " talking about cybersecurity and they had some people from the MSU extension service and state."
+    },
+    {
+        "start": 710.32,
+        "end": 715.6,
+        "text": " And they all, they talked about cybersecurity. So if you missed any of that, check that out,"
+    },
+    {
+        "start": 715.6,
+        "end": 723.76,
+        "text": " check out the podcast. But also, I would like to say, speaking to your point about having the,"
+    },
+    {
+        "start": 724.72,
+        "end": 728.8,
+        "text": " having the empathy towards the person who is going through something, I'm going to share a"
+    },
+    {
+        "start": 728.8,
+        "end": 742.16,
+        "text": " little bit of a story. What you got? In early 2022, 2023, 2023. And early 2023, I was approached with a"
+    },
+    {
+        "start": 742.16,
+        "end": 749.4399999999999,
+        "text": " fake job that I thought was real. And I thought I was getting this great deal. And I put myself in"
+    },
+    {
+        "start": 749.44,
+        "end": 758.0,
+        "text": " a situation to do this work at home job that I thought was legit. And I was putting the situation"
+    },
+    {
+        "start": 758.0,
+        "end": 764.1600000000001,
+        "text": " where like, I got to go talk to the main because I might have messed up. And the banker that I was"
+    },
+    {
+        "start": 764.1600000000001,
+        "end": 770.0,
+        "text": " talking to laughed in my face about the situation that was happening. And this is like online,"
+    },
+    {
+        "start": 770.0,
+        "end": 777.6800000000001,
+        "text": " complete, completely online cyber scam stuff. And I looked at him and said, yeah, I appreciate"
+    },
+    {
+        "start": 777.68,
+        "end": 781.8399999999999,
+        "text": " you laughing at me right now. And this is really cool that you're doing this. And like all my"
+    },
+    {
+        "start": 781.8399999999999,
+        "end": 788.4799999999999,
+        "text": " stuff is at risk right now. And I was sitting there and I was probably like your client. I was very"
+    },
+    {
+        "start": 788.4799999999999,
+        "end": 795.5999999999999,
+        "text": " close to tears. And I was very frustrated. So it's important for your IT people to have that"
+    },
+    {
+        "start": 795.5999999999999,
+        "end": 802.56,
+        "text": " empathy to be because I've experienced the other end of that. Yeah. And I would say, I would say,"
+    },
+    {
+        "start": 802.56,
+        "end": 808.56,
+        "text": " like not just even IT anybody deserves a modicum respect. Yeah. So they kept saying on"
+    },
+    {
+        "start": 808.56,
+        "end": 814.88,
+        "text": " money talks, not to shame the people that you're that you're that are being attacked. Right."
+    },
+    {
+        "start": 814.88,
+        "end": 819.52,
+        "text": " Don't shame them if they they may feel shame. So like what you do is you'd be like,"
+    },
+    {
+        "start": 819.52,
+        "end": 822.7199999999999,
+        "text": " hey, you try to coax. You know, hey, everything's going to be all right. You know, this end of"
+    },
+    {
+        "start": 822.7199999999999,
+        "end": 830.56,
+        "text": " third, don't don't be I hate that with any with any subject matter expert, you should always be"
+    },
+    {
+        "start": 830.56,
+        "end": 835.28,
+        "text": " able to treat people with a modicum of respect. Treat people imagine if that was your brother,"
+    },
+    {
+        "start": 835.28,
+        "end": 840.4,
+        "text": " your sister, your uncle, whatever that was up there dealing with that. How incensed and upset"
+    },
+    {
+        "start": 840.4,
+        "end": 846.0,
+        "text": " you'd be if you found out that XYZ was laughing. Like that's not. No, that's not cool. Yeah."
+    },
+    {
+        "start": 846.0,
+        "end": 849.8399999999999,
+        "text": " That's a little bit also. I really I really I really hate that you went through that,"
+    },
+    {
+        "start": 849.8399999999999,
+        "end": 856.0799999999999,
+        "text": " bro. Yeah. And I really think that folks, no matter if it's IT, no matter if it's what you do"
+    },
+    {
+        "start": 856.08,
+        "end": 860.4000000000001,
+        "text": " in terms of like production, everything else or anything else. If if somebody came through,"
+    },
+    {
+        "start": 860.4000000000001,
+        "end": 867.12,
+        "text": " I'm glad that we have a standard to uphold them. We're encouraging our listeners and encouraging"
+    },
+    {
+        "start": 867.12,
+        "end": 873.2,
+        "text": " our listeners to have that same kind of respect and to it to expect that kind of respect from the"
+    },
+    {
+        "start": 873.2,
+        "end": 877.2800000000001,
+        "text": " people they work with or don't work with them. Yeah. You don't have to work with those folks."
+    },
+    {
+        "start": 877.2800000000001,
+        "end": 881.76,
+        "text": " Or if they happen to be at your at your job and they think they make you feel, you know,"
+    },
+    {
+        "start": 881.76,
+        "end": 886.8,
+        "text": " terrible for an IT mistake you had or whatever mistake you had and go and touch basically"
+    },
+    {
+        "start": 886.8,
+        "end": 890.64,
+        "text": " super. You know what? Severe was terrible. Why would Severe? Severe made me feel like says,"
+    },
+    {
+        "start": 890.64,
+        "end": 894.4,
+        "text": " I have every reason please throw me under the bus. I need to be held accountable."
+    },
+    {
+        "start": 894.4,
+        "end": 899.76,
+        "text": " Right. Absolutely. Yeah. So we're going to I'm going to say we're going to pivot a little bit"
+    },
+    {
+        "start": 899.76,
+        "end": 906.24,
+        "text": " for the show. So let's if if you have an experience that you would like to share or if you have like"
+    },
+    {
+        "start": 906.24,
+        "end": 911.04,
+        "text": " a cautionary tale or something call us and you don't have to use your name or where you're from"
+    },
+    {
+        "start": 911.04,
+        "end": 915.04,
+        "text": " or anything like that you can make up an alias or anything or you can just leave a story for"
+    },
+    {
+        "start": 915.04,
+        "end": 922.88,
+        "text": " our producer to tell us. Right. And we'll we'll mention that and see, you know, we'll talk about"
+    },
+    {
+        "start": 922.88,
+        "end": 929.04,
+        "text": " how to prevent that and try to protect yourself from that situation. Right. I like I said we would"
+    },
+    {
+        "start": 929.04,
+        "end": 936.88,
+        "text": " love to also take your questions for from anything from IT to a cautionary tale of, you know,"
+    },
+    {
+        "start": 937.84,
+        "end": 942.72,
+        "text": " nightmares on the internet. Yeah. And there's so many of them in these these thread actors out here."
+    },
+    {
+        "start": 942.72,
+        "end": 949.04,
+        "text": " They don't care. They try to go ahead and and to be from what I'm understanding and learning more"
+    },
+    {
+        "start": 949.04,
+        "end": 955.4399999999999,
+        "text": " in the Penteas world and everything else, this is some folks jobs. They get paid to scam people."
+    },
+    {
+        "start": 955.4399999999999,
+        "end": 960.0,
+        "text": " I mean, of course, that's did you did you I know we talked about it on the show a couple of"
+    },
+    {
+        "start": 960.0,
+        "end": 964.24,
+        "text": " few weeks back. But do you remember did you ever see the movie Beekeeper? No, I did not."
+    },
+    {
+        "start": 964.24,
+        "end": 969.36,
+        "text": " With Jason Stadham. I did not. I know we mentioned it a couple times, but yeah, definitely watch it."
+    },
+    {
+        "start": 969.36,
+        "end": 975.04,
+        "text": " Like those folks like this their job. But that's that's on, you know, the Western Hemisphere side of"
+    },
+    {
+        "start": 975.04,
+        "end": 979.12,
+        "text": " things on the Eastern Hemisphere. These folks, I'm sure they probably don't get paid anywhere"
+    },
+    {
+        "start": 979.12,
+        "end": 985.2,
+        "text": " as much. But folks like Mark Rober, like that, the YouTuber Mark Rober, the engineer. Yeah. He is"
+    },
+    {
+        "start": 985.2,
+        "end": 991.6800000000001,
+        "text": " he has worked with like kind of anti hacker like folks who have actually they'll partner up and"
+    },
+    {
+        "start": 991.68,
+        "end": 999.52,
+        "text": " they'll play pranks on entire like basically a whole a whole work group of folks that are"
+    },
+    {
+        "start": 999.52,
+        "end": 1003.5999999999999,
+        "text": " that are scamming people. And so they've got those folks and they in their video and everything"
+    },
+    {
+        "start": 1003.5999999999999,
+        "end": 1009.8399999999999,
+        "text": " else and make a big scene and alert the authorities in that country. But it's it's it's some folks"
+    },
+    {
+        "start": 1009.8399999999999,
+        "end": 1014.0,
+        "text": " this is their job. Just like they clock in and they find ways to try to scam folks and look at"
+    },
+    {
+        "start": 1014.0,
+        "end": 1018.88,
+        "text": " different ways of social engineering. They get paid for it. You know what I mean? Yes. It's crazy."
+    },
+    {
+        "start": 1018.88,
+        "end": 1023.4399999999999,
+        "text": " That's crazy. There's another word or phrase that we kept hearing over and over again yesterday."
+    },
+    {
+        "start": 1023.4399999999999,
+        "end": 1027.44,
+        "text": " I'm only talks to social engineering. Social engineering. Just taking advantage of the"
+    },
+    {
+        "start": 1028.8,
+        "end": 1034.88,
+        "text": " politeness, the hospitality of people and like the the established rules that you think people would"
+    },
+    {
+        "start": 1034.88,
+        "end": 1041.92,
+        "text": " have unspoken. Yeah. But yeah. Yeah. Um, it's always something is always something. And in social"
+    },
+    {
+        "start": 1041.92,
+        "end": 1046.4,
+        "text": " engineering is always something. Generally the biggest scam. We want to try to let our listening"
+    },
+    {
+        "start": 1046.4,
+        "end": 1052.64,
+        "text": " audience know if you get a invoice for something that you know you didn't pay for from Amazon."
+    },
+    {
+        "start": 1052.64,
+        "end": 1057.92,
+        "text": " It'll say it came from Amazon or it'll say it came from somewhere or whatever. Um, it'll say it or"
+    },
+    {
+        "start": 1057.92,
+        "end": 1064.16,
+        "text": " it's it's they're renewing your contractor renewing your invoice for like Norton Antivirus or"
+    },
+    {
+        "start": 1064.16,
+        "end": 1068.96,
+        "text": " something like that. Those are some of the bigger scams. So please watch out for those folks. Don't"
+    },
+    {
+        "start": 1068.96,
+        "end": 1074.5600000000002,
+        "text": " don't download or open the PDF file that come with it. Don't contact those folks and give them access"
+    },
+    {
+        "start": 1074.56,
+        "end": 1080.8,
+        "text": " to your computer or your your financial information. It is not legit. It is not legit. It is not"
+    },
+    {
+        "start": 1080.8,
+        "end": 1084.6399999999999,
+        "text": " legit. Yeah, especially like when you don't even have an account. Of course. Of course people."
+    },
+    {
+        "start": 1084.6399999999999,
+        "end": 1090.24,
+        "text": " They'll be like, Oh, your account is up and yeah, we need to go ahead and renew your your copy of"
+    },
+    {
+        "start": 1090.24,
+        "end": 1095.12,
+        "text": " McAfee. No, you know, I don't have McAfee. Yeah. Yeah. Exactly. But the thing is is that most computers"
+    },
+    {
+        "start": 1095.12,
+        "end": 1099.9199999999998,
+        "text": " as they an age come with a version like a trial of Norton or a trial of McAfee. So they'd be like,"
+    },
+    {
+        "start": 1099.9199999999998,
+        "end": 1103.84,
+        "text": " wait, I do have McAfee on my computer. This must be legit. No click on it. They'll click on it. Open"
+    },
+    {
+        "start": 1104.56,
+        "end": 1108.48,
+        "text": " the PDF or they'll call the folks back and give them their number or give them their financial"
+    },
+    {
+        "start": 1108.48,
+        "end": 1114.1599999999999,
+        "text": " information. They got them at that point. Yeah. Absolutely. Yep. All right. Can we go to our first call."
+    },
+    {
+        "start": 1114.1599999999999,
+        "end": 1120.1599999999999,
+        "text": " We have Kathleen and O'Syca. Okay. Kathleen. I believe just wants to comment on the topic. What's"
+    },
+    {
+        "start": 1120.1599999999999,
+        "end": 1126.24,
+        "text": " going on, Kathleen? Well, one you have to know. I'm totally ignorant about special phones and"
+    },
+    {
+        "start": 1126.24,
+        "end": 1132.6399999999999,
+        "text": " computers. You and me both. I listen to I listen to y'all to try to get for me or with a"
+    },
+    {
+        "start": 1132.64,
+        "end": 1137.2,
+        "text": " least determined knowledge because somebody said, oh, is your motherboard out? I said, my mother's"
+    },
+    {
+        "start": 1137.2,
+        "end": 1146.3200000000002,
+        "text": " passed away. Oh, no. But you know, I didn't know. I'm that was that meant out. Anyway, we are so lucky"
+    },
+    {
+        "start": 1147.1200000000001,
+        "end": 1155.1200000000001,
+        "text": " for being listeners and advertisers out here in your audience to hear this going on. Yeah. Because"
+    },
+    {
+        "start": 1155.1200000000001,
+        "end": 1161.5200000000002,
+        "text": " it takes that communication where we see if we can get it. They be not giving it all the way."
+    },
+    {
+        "start": 1161.52,
+        "end": 1168.16,
+        "text": " But you have an idea. Yes, ma'am. You have to hit this and that. Yeah. But all both y'all are very,"
+    },
+    {
+        "start": 1168.16,
+        "end": 1173.84,
+        "text": " very educated in what you do. And I like how you make it friendly. Thank you. I'd like to hear"
+    },
+    {
+        "start": 1173.84,
+        "end": 1177.92,
+        "text": " from Abram and all the stuff he gets into and to be like something you're still here."
+    },
+    {
+        "start": 1180.8799999999999,
+        "end": 1187.04,
+        "text": " It makes it real for people when we turn in MPB. What's funny? We just listen to the"
+    },
+    {
+        "start": 1187.52,
+        "end": 1193.52,
+        "text": " what I want and say it. Pam was telling stories of different things she didn't like people doing"
+    },
+    {
+        "start": 1193.52,
+        "end": 1198.96,
+        "text": " other so we get educated. And I love it. I love it. And that cost me done."
+    },
+    {
+        "start": 1200.56,
+        "end": 1206.08,
+        "text": " Kathleen, I am so glad to hear you. I just had to say that. Someone, someone right down the time"
+    },
+    {
+        "start": 1206.08,
+        "end": 1212.0,
+        "text": " that this call came through, I am going to save this audio to my phone. Hey, Kathleen."
+    },
+    {
+        "start": 1212.4,
+        "end": 1219.92,
+        "text": " There are more people saying this than you can possibly imagine. And Geneza knew"
+    },
+    {
+        "start": 1219.92,
+        "end": 1228.64,
+        "text": " a how would you call it? Send for Tal Star. I heard you want to save this now. And a lot of people"
+    },
+    {
+        "start": 1228.64,
+        "end": 1236.16,
+        "text": " it the crew that y'all have now is really, really good. In fact, I've been in Barris Kevin. I"
+    },
+    {
+        "start": 1236.16,
+        "end": 1241.44,
+        "text": " always call him the Renaissance man because he can do just about Eddie show and projects and"
+    },
+    {
+        "start": 1241.44,
+        "end": 1249.0400000000002,
+        "text": " writing to form. I mean, he's my old buddy. I've been listening to this channel over 24 years."
+    },
+    {
+        "start": 1250.4,
+        "end": 1258.5600000000002,
+        "text": " I know you'd have to do a lot to kick me off the air. You may know I love her. I love her style,"
+    },
+    {
+        "start": 1258.5600000000002,
+        "end": 1265.28,
+        "text": " I love her energy. We just we're just very, very lucky here. Very lucky. Kathleen, we're lucky to"
+    },
+    {
+        "start": 1265.28,
+        "end": 1269.04,
+        "text": " have you as a listener for sure. You know that right? Yes, absolutely."
+    },
+    {
+        "start": 1272.56,
+        "end": 1278.72,
+        "text": " That's all right. We'll put you back on hold and get your information and send that straight to you."
+    },
+    {
+        "start": 1278.72,
+        "end": 1282.8799999999999,
+        "text": " Awesome. I talk to you later. Bye. Thank you so much. Thank you."
+    },
+    {
+        "start": 1282.8799999999999,
+        "end": 1288.0,
+        "text": " That's awesome. Thanks for listening. Thanks for listening. Yeah. That's always, and that's,"
+    },
+    {
+        "start": 1288.0,
+        "end": 1292.96,
+        "text": " I know in terms of I've actually had people ask this question, they'd be like, well, what is your"
+    },
+    {
+        "start": 1292.96,
+        "end": 1299.1200000000001,
+        "text": " favorite thing about being an IT professional? And I'm like, when you see that light comes on,"
+    },
+    {
+        "start": 1299.1200000000001,
+        "end": 1305.04,
+        "text": " or like the doubt and everything, you can read people's eyes sometimes and you can see the frustration."
+    },
+    {
+        "start": 1305.04,
+        "end": 1308.88,
+        "text": " You can see when they're telling you something. And then when they get it, that light that comes"
+    },
+    {
+        "start": 1308.88,
+        "end": 1314.88,
+        "text": " in their eyes is magical. It's like, yo, I'm glad you can see it. Like you can see it in their countenance."
+    },
+    {
+        "start": 1314.88,
+        "end": 1319.92,
+        "text": " You can see it in their voice. You can see their their worry lines and everything else. When you"
+    },
+    {
+        "start": 1319.92,
+        "end": 1324.48,
+        "text": " get that and they say, okay, cool. You know, again, I actually come from nonprofit work. Like I"
+    },
+    {
+        "start": 1324.48,
+        "end": 1331.44,
+        "text": " work for an NGO now, but I come from nonprofit work where folks, it is impressed upon us to be"
+    },
+    {
+        "start": 1331.44,
+        "end": 1336.0800000000002,
+        "text": " able to work on rapport with folks. You have to be able to have a sense of rapport to be able to"
+    },
+    {
+        "start": 1336.0800000000002,
+        "end": 1340.3200000000002,
+        "text": " give that sense of support and not no matter if it's technical support, whatever kind of support"
+    },
+    {
+        "start": 1340.3200000000002,
+        "end": 1345.8400000000001,
+        "text": " you're doing with community organizations. That's where I came from. And I try to bring that to"
+    },
+    {
+        "start": 1345.9199999999998,
+        "end": 1350.56,
+        "text": " anybody I'm talking to, whether it's here on the radio, people I'm at at work when I clock in"
+    },
+    {
+        "start": 1350.56,
+        "end": 1355.52,
+        "text": " or for my clients, try to be able to do that. I think every subject matter expert, no matter what"
+    },
+    {
+        "start": 1355.52,
+        "end": 1361.04,
+        "text": " it is, and shout out to Kathleen for for continuing other listeners like her for listening to MPB,"
+    },
+    {
+        "start": 1361.04,
+        "end": 1365.36,
+        "text": " for this program, and you're shouting out, giving y'all love too. So it's always good. Yeah,"
+    },
+    {
+        "start": 1365.36,
+        "end": 1370.72,
+        "text": " absolutely. And it's fun, like even on here on the air when we're having a conversation and"
+    },
+    {
+        "start": 1370.72,
+        "end": 1375.36,
+        "text": " someone asks a question and you go through it and then I say a little something and then you say"
+    },
+    {
+        "start": 1375.36,
+        "end": 1380.3999999999999,
+        "text": " a lot more. And then I'm just and then they they come through back. They they come back with a"
+    },
+    {
+        "start": 1380.3999999999999,
+        "end": 1386.24,
+        "text": " oh, that makes sense, right. And then you're just like, okay, well, cool. That's it. We could"
+    },
+    {
+        "start": 1386.24,
+        "end": 1392.08,
+        "text": " we could help out a little bit because the technology that we deal with now is such an integral part"
+    },
+    {
+        "start": 1392.08,
+        "end": 1398.4799999999998,
+        "text": " in people's lives. And it's hard to it's it's a complicated thing if you don't know what you're"
+    },
+    {
+        "start": 1398.56,
+        "end": 1404.72,
+        "text": " dealing with in the first place. Right. And it's it's it's it may seem to be a big deal to be like,"
+    },
+    {
+        "start": 1404.72,
+        "end": 1408.56,
+        "text": " oh, well, you know, I got to figure out this. I got to figure out that. But Google Assistant,"
+    },
+    {
+        "start": 1408.56,
+        "end": 1411.68,
+        "text": " I was just talking one of my best friends. We were talking about it off air. Like I was talking"
+    },
+    {
+        "start": 1411.68,
+        "end": 1416.16,
+        "text": " one of my best friends. And I was like, if you tell you he has a Android phone because he's"
+    },
+    {
+        "start": 1416.16,
+        "end": 1422.72,
+        "text": " awesome. I was like, tell your Google Assistant to say, hey, Google, blah, blah, blah, blah. And then"
+    },
+    {
+        "start": 1422.72,
+        "end": 1426.32,
+        "text": " it'll remind you and all those different things. You don't have to feel overworked. You don't"
+    },
+    {
+        "start": 1426.32,
+        "end": 1431.76,
+        "text": " have to feel stressed out or anything. It's going to work out. So yeah, I think or if you got"
+    },
+    {
+        "start": 1431.76,
+        "end": 1438.08,
+        "text": " an iPhone, that's okay. You know, we still love you too. But if you if you tell if you tell Siri,"
+    },
+    {
+        "start": 1438.08,
+        "end": 1444.24,
+        "text": " you know, say, Siri remind me this remind me that you don't have to we as we as humans, we are"
+    },
+    {
+        "start": 1444.24,
+        "end": 1448.96,
+        "text": " fallible. There are things that we we make mistakes on. There's things that we do. But sometimes"
+    },
+    {
+        "start": 1448.96,
+        "end": 1453.76,
+        "text": " your your smartphone that device that you carry in your hand can make your life so much easier."
+    },
+    {
+        "start": 1453.76,
+        "end": 1460.0,
+        "text": " You know, with with quick little reminders or dates or things like that, I love mine for"
+    },
+    {
+        "start": 1460.0,
+        "end": 1465.52,
+        "text": " scheduled text messages because I forget stuff. And my past mine, my past mine is always better"
+    },
+    {
+        "start": 1465.52,
+        "end": 1470.72,
+        "text": " than my current mine. Yes. That thing, that's the other thing that I think that iPhone does not have."
+    },
+    {
+        "start": 1470.72,
+        "end": 1475.28,
+        "text": " Yeah, I used to. Yeah, yeah, I used to ask you. Okay, maybe I just don't know how to do it."
+    },
+    {
+        "start": 1475.28,
+        "end": 1478.4,
+        "text": " It used to well, it was a while ago. It was a long while ago. Yeah, I used to. I think it was"
+    },
+    {
+        "start": 1478.4,
+        "end": 1483.2,
+        "text": " in the days of iPhone six. Yeah. So it was yeah, yeah, yeah, I had it. And I don't know why"
+    },
+    {
+        "start": 1483.2,
+        "end": 1486.4,
+        "text": " did I get rid of it? Because I know I know there's several times where I'm like, all right, I got to"
+    },
+    {
+        "start": 1486.4,
+        "end": 1491.44,
+        "text": " send this message. And then I'm like, okay, well, I don't want to bother this person by immediately"
+    },
+    {
+        "start": 1491.44,
+        "end": 1495.6000000000001,
+        "text": " following up with another message, but something else came to my mind. Yeah. And I'm going to forget"
+    },
+    {
+        "start": 1495.6000000000001,
+        "end": 1501.1200000000001,
+        "text": " about it. So yeah, I believe sorry. Well, I'm saying that's going to be that that'll, you know,"
+    },
+    {
+        "start": 1501.1200000000001,
+        "end": 1506.0,
+        "text": " to if you schedule in text message, anything that you can use, let it even if you're not sure,"
+    },
+    {
+        "start": 1506.0,
+        "end": 1511.36,
+        "text": " you go to good old YouTube University. And if you ask a question in YouTube University about,"
+    },
+    {
+        "start": 1511.36,
+        "end": 1517.04,
+        "text": " how can I do such and such and such? There's probably a way that someone can teach you on how to make"
+    },
+    {
+        "start": 1517.04,
+        "end": 1523.44,
+        "text": " your phone or your computers do the things that will make your life easier. Well, that's stressful."
+    },
+    {
+        "start": 1523.44,
+        "end": 1530.0,
+        "text": " Yeah, absolutely. And I believe we do have a caller on the line. Jam Patrick and Rankin,"
+    },
+    {
+        "start": 1530.0,
+        "end": 1536.88,
+        "text": " is that right? Yes. All right. What's going on? How's it going? I just have a quick question."
+    },
+    {
+        "start": 1536.88,
+        "end": 1542.32,
+        "text": " It sounds silly because you probably know the answer. This morning early, I was sitting in a doctor's"
+    },
+    {
+        "start": 1542.32,
+        "end": 1552.0,
+        "text": " office and I wanted to use my phone on the internet. And so they have a guest internet that you could"
+    },
+    {
+        "start": 1552.0,
+        "end": 1558.56,
+        "text": " use, but they gave you a morning that said it's not secure. And I was wondering, is it better"
+    },
+    {
+        "start": 1558.56,
+        "end": 1566.0,
+        "text": " to go to why, you know, to your phone and use that or is it okay just to play games or something to"
+    },
+    {
+        "start": 1566.0,
+        "end": 1572.1599999999999,
+        "text": " use that guest internet? Gotcha. I just wondered. Okay. That's, I didn't mean it broke too good."
+    },
+    {
+        "start": 1572.1599999999999,
+        "end": 1577.12,
+        "text": " What finished that last part you saying? No, I just wondered if it was, I mean, I wasn't going to be"
+    },
+    {
+        "start": 1577.12,
+        "end": 1582.56,
+        "text": " doing banking or anything. I'm kind of like games just past the time. And I thought it'd be easier"
+    },
+    {
+        "start": 1582.56,
+        "end": 1587.12,
+        "text": " just to click on that, but it gave me that security warning. So I just wondered about it. Gotcha."
+    },
+    {
+        "start": 1587.6799999999998,
+        "end": 1594.56,
+        "text": " Well, we call our, we call our guest Wi-Fi where I work. We call it the Wild Wild West because it's"
+    },
+    {
+        "start": 1594.56,
+        "end": 1599.9199999999998,
+        "text": " like, it's like when you use it, there's any number of things that now we've got a lot of rules on"
+    },
+    {
+        "start": 1599.9199999999998,
+        "end": 1605.04,
+        "text": " it. Like someone can't go and it doesn't mean that it's like completely unmonitoring that"
+    },
+    {
+        "start": 1605.04,
+        "end": 1610.9599999999998,
+        "text": " someone's doing all kinds of cultish or terrorists or whatever that's not happening or that someone's"
+    },
+    {
+        "start": 1610.96,
+        "end": 1617.3600000000001,
+        "text": " going to like, you know, NSFW sites that people shouldn't, that's not happening. But there are,"
+    },
+    {
+        "start": 1617.3600000000001,
+        "end": 1622.0,
+        "text": " just understand there's not a lot of privacy on it. It doesn't mean content-wise we'll be able to"
+    },
+    {
+        "start": 1622.0,
+        "end": 1626.56,
+        "text": " kind of hold things, but your privacy is not the best. If you've got a phone, again, I've talked"
+    },
+    {
+        "start": 1626.56,
+        "end": 1632.32,
+        "text": " about in this show, a VAST can do no wrong in my opinion. It's a company called AVAST that's AV"
+    },
+    {
+        "start": 1632.32,
+        "end": 1639.76,
+        "text": " like Victor AST like Tango. And they have a VPN that you can be able to download to your phone."
+    },
+    {
+        "start": 1639.76,
+        "end": 1646.48,
+        "text": " So a VPN is what's called a virtual private network. So even though you're on a public network,"
+    },
+    {
+        "start": 1646.48,
+        "end": 1651.04,
+        "text": " you can use a VAST VPN or there's a lot of other programs that are out there. Thunder VPN is"
+    },
+    {
+        "start": 1651.04,
+        "end": 1658.64,
+        "text": " another good one where it will make, basically, it puts up like a wall. So even though you're on a"
+    },
+    {
+        "start": 1658.64,
+        "end": 1663.6,
+        "text": " public network, you're still kind of like, imagine if you were in a coffee shop or in the middle of"
+    },
+    {
+        "start": 1663.6,
+        "end": 1667.92,
+        "text": " a bus station. But you said, you know what, if you're in the middle of a bus station, you have no"
+    },
+    {
+        "start": 1668.0,
+        "end": 1673.6000000000001,
+        "text": " privacy like in a big old busy bus station. But imagine if you were to erect your own cubicle."
+    },
+    {
+        "start": 1674.0800000000002,
+        "end": 1677.1200000000001,
+        "text": " Well, guess what? You got your own bit of privacy. Even though you're in the middle of that"
+    },
+    {
+        "start": 1677.1200000000001,
+        "end": 1682.16,
+        "text": " big old bus station, you still got to bid up, you got to mod a comma privacy. That's what a VPN"
+    },
+    {
+        "start": 1682.16,
+        "end": 1686.3200000000002,
+        "text": " will do on your phone or your computer. So yeah, you're absolutely right. They're probably warning"
+    },
+    {
+        "start": 1686.3200000000002,
+        "end": 1690.72,
+        "text": " you at that doctor's office or clinic or, you know, whatnot, the dentist or whatnot. They say,"
+    },
+    {
+        "start": 1690.72,
+        "end": 1695.76,
+        "text": " yeah, we got this guest network, but understand this is the Wild Wild West. You get out here,"
+    },
+    {
+        "start": 1695.76,
+        "end": 1701.92,
+        "text": " there's no, there's no privacy for you. But to get a VPN, a VPN app on your phone that may be"
+    },
+    {
+        "start": 1701.92,
+        "end": 1707.6,
+        "text": " free or if you want to, you don't mind spending a couple of bucks, I'll actually give Norton props."
+    },
+    {
+        "start": 1707.6,
+        "end": 1712.48,
+        "text": " Their VPN is actually good. Oh, so there's a couple of others that are out there. I don't usually,"
+    },
+    {
+        "start": 1712.48,
+        "end": 1717.36,
+        "text": " I'm not a big fan of Norton stuff, but their Norton VPN is pretty good. So there are a few things"
+    },
+    {
+        "start": 1717.36,
+        "end": 1723.12,
+        "text": " that are out there that are free or may cost you a few bucks. Get that VPN app and put it on your"
+    },
+    {
+        "start": 1723.12,
+        "end": 1728.08,
+        "text": " phone for a little bit extra privacy. And I'll take care of that one. Well, you have to learn"
+    },
+    {
+        "start": 1728.08,
+        "end": 1732.3999999999999,
+        "text": " something every day and I'll show you it. And thank you so much. I'll do that. Absolutely. Patrick,"
+    },
+    {
+        "start": 1732.3999999999999,
+        "end": 1735.76,
+        "text": " you have a good one. Thanks for calling. Thank you."
+    },
+    {
+        "start": 1737.28,
+        "end": 1744.8799999999999,
+        "text": " Yeah, especially if you are on public Wi-Fi often, VPN is a good idea. You know, whether you're pulling"
+    },
+    {
+        "start": 1744.8799999999999,
+        "end": 1752.0,
+        "text": " out your phone just to play a game or if you're on the public Wi-Fi on your laptop doing,"
+    },
+    {
+        "start": 1752.0,
+        "end": 1756.32,
+        "text": " doing work while you're in the doctor's office or something like that. One other thing that you can"
+    },
+    {
+        "start": 1756.32,
+        "end": 1761.52,
+        "text": " do to protect your privacy a little better. I know on all Windows 11 devices it has this and I"
+    },
+    {
+        "start": 1761.52,
+        "end": 1767.28,
+        "text": " know on Android, I feel like if they've got it, I'll give Apple they props, they probably have it to."
+    },
+    {
+        "start": 1767.28,
+        "end": 1775.76,
+        "text": " If you look up YouTube, how to enable randomizing your hardware address. So what that is is like a"
+    },
+    {
+        "start": 1775.76,
+        "end": 1780.16,
+        "text": " MAC address or a hardware address is like a digital thumbprint that says, oh yeah, this is"
+    },
+    {
+        "start": 1780.16,
+        "end": 1786.16,
+        "text": " severe phone or this is Abrams computer or whatever, you can still randomize that so that even if"
+    },
+    {
+        "start": 1786.16,
+        "end": 1792.0800000000002,
+        "text": " someone was trying to track you online, if you randomly change your hardware addresses, even if you're"
+    },
+    {
+        "start": 1792.0800000000002,
+        "end": 1796.72,
+        "text": " on a public network, that provides a little bit of extra security and it costs nothing. Yeah,"
+    },
+    {
+        "start": 1796.72,
+        "end": 1802.3200000000002,
+        "text": " there is no cost for that. Absolutely. So my question that follows up with that is what if you have a"
+    },
+    {
+        "start": 1802.32,
+        "end": 1811.36,
+        "text": " hotspot. So if you're like say I'm using my phone in public, I'm connected to my laptop is"
+    },
+    {
+        "start": 1811.36,
+        "end": 1819.84,
+        "text": " connected to my phone's hotspot. Is that secure if I'm in public? That is secure, especially if your"
+    },
+    {
+        "start": 1819.84,
+        "end": 1826.3999999999999,
+        "text": " hotspot doesn't have like a simple password like password or and if you have something that says"
+    },
+    {
+        "start": 1826.3999999999999,
+        "end": 1831.4399999999998,
+        "text": " there's usually a setting iPhone has this, I know that for sure. And Android has, if you're using"
+    },
+    {
+        "start": 1831.44,
+        "end": 1836.96,
+        "text": " your phone as a hotspot that your phone must allow, like you have to manually allow someone to add"
+    },
+    {
+        "start": 1836.96,
+        "end": 1842.72,
+        "text": " to join your network. If you got that setting on, then yeah, you got your password, you're fine."
+    },
+    {
+        "start": 1842.72,
+        "end": 1848.0,
+        "text": " Yeah. You'll be fine. So regular, a personal hotspot is always going to be better. But then of"
+    },
+    {
+        "start": 1848.0,
+        "end": 1852.3200000000002,
+        "text": " course, just keep in mind, watch your data. You know, you have to follow your data caps that your cell"
+    },
+    {
+        "start": 1852.3200000000002,
+        "end": 1859.44,
+        "text": " phone provider gives you. Yeah, even all of the previous hosts you still love to say even though you"
+    },
+    {
+        "start": 1859.44,
+        "end": 1868.48,
+        "text": " have unlimited data, data is not really unlimited. It is it is speedy to a certain point is what"
+    },
+    {
+        "start": 1868.48,
+        "end": 1872.72,
+        "text": " the unlimited data really is. Yeah. And then after a while, they'll turn that they'll turn that"
+    },
+    {
+        "start": 1872.72,
+        "end": 1876.64,
+        "text": " faucet off on you. So that happened with me with my old provider. I still don't like them."
+    },
+    {
+        "start": 1878.16,
+        "end": 1883.04,
+        "text": " Remember back in the day after five and after seven. Oh my God. See now, yeah, we're going to"
+    },
+    {
+        "start": 1883.04,
+        "end": 1887.68,
+        "text": " date ourselves. We're going to we're dating ourselves. Y'all aren't. So we got one point. Nobody on"
+    },
+    {
+        "start": 1887.68,
+        "end": 1894.8,
+        "text": " the radio saw the face that I just made. But I have no idea what we're talking about. So after five,"
+    },
+    {
+        "start": 1894.8,
+        "end": 1900.0,
+        "text": " let me tell you what you could do after five and after seven. You could call your mama. You"
+    },
+    {
+        "start": 1900.0,
+        "end": 1906.72,
+        "text": " could text your auntie. You could do everything because there was a time that unlimited data started"
+    },
+    {
+        "start": 1907.68,
+        "end": 1914.8,
+        "text": " unlimited calls and limited data. I began at five p.m. for some carriers or seven p.m. for other"
+    },
+    {
+        "start": 1914.8,
+        "end": 1920.24,
+        "text": " carriers. And until a certain time of the morning, I can't remember when the the cutoff was. It was"
+    },
+    {
+        "start": 1920.24,
+        "end": 1927.12,
+        "text": " like five or six maybe in the morning, six in the morning or something, you got unlimited calls."
+    },
+    {
+        "start": 1927.12,
+        "end": 1933.12,
+        "text": " So people would call they would wait all day before they pick up that phone to call you. And"
+    },
+    {
+        "start": 1933.12,
+        "end": 1937.12,
+        "text": " you know, it had to be after five or after seven. This is something I've never heard of before."
+    },
+    {
+        "start": 1937.12,
+        "end": 1941.9199999999998,
+        "text": " Three nights a week. Yeah, three nights a week. That's great. What was the what was the usage of that?"
+    },
+    {
+        "start": 1941.92,
+        "end": 1946.0800000000002,
+        "text": " Like why why would people wait until the end of the kid giving up talking about? No, I'm talking"
+    },
+    {
+        "start": 1946.0800000000002,
+        "end": 1950.72,
+        "text": " about. You know what I'm talking about. It's like three nights and weekends at one point. Like you"
+    },
+    {
+        "start": 1950.72,
+        "end": 1956.24,
+        "text": " only had like that's when people would try to get stuff going. So yeah, three nights and weekends"
+    },
+    {
+        "start": 1956.24,
+        "end": 1959.92,
+        "text": " when you can call the text for free. But any time during the day, what's your phone below?"
+    },
+    {
+        "start": 1961.68,
+        "end": 1966.24,
+        "text": " Everybody was waiting on that time because they would charge you per minute or"
+    },
+    {
+        "start": 1966.24,
+        "end": 1973.1200000000001,
+        "text": " per minute. Yeah. Before the time. So you waited. We need to we need to just do like a thing"
+    },
+    {
+        "start": 1973.1200000000001,
+        "end": 1978.4,
+        "text": " every week where you guys are just like, you guys remember something that Abram has no idea about."
+    },
+    {
+        "start": 1980.8,
+        "end": 1986.4,
+        "text": " I'm so like I'd never heard of this before. Retro. Yeah, you say things to Abram like"
+    },
+    {
+        "start": 1986.4,
+        "end": 1993.6,
+        "text": " M. Doss. Yeah. Yeah. You know, typing those codes in to get your to get your monopoly game to"
+    },
+    {
+        "start": 1993.6,
+        "end": 2000.0,
+        "text": " come up off your your floppy disk. That was actually floppy. Yeah. That was actually a floppy disk."
+    },
+    {
+        "start": 2000.0,
+        "end": 2004.7199999999998,
+        "text": " You had to have a whole code. You had a book with the codes. It just got to play Will Affortion."
+    },
+    {
+        "start": 2004.7199999999998,
+        "end": 2011.4399999999998,
+        "text": " You need the code for that. That's a little back. And the stargittek at some point. Yes."
+    },
+    {
+        "start": 2012.1599999999999,
+        "end": 2018.48,
+        "text": " But we do have a call coming in from Becky in Meridian. Becky, what's going on? You got you got a"
+    },
+    {
+        "start": 2018.48,
+        "end": 2025.92,
+        "text": " question for us? So Becky. Yes. First let me say I'm a sustainer and I think I can beat Kathleen"
+    },
+    {
+        "start": 2025.92,
+        "end": 2034.24,
+        "text": " when I say that I think I've been listening to mpv for close to 40 years. Becky wins. Becky wins."
+    },
+    {
+        "start": 2034.24,
+        "end": 2043.84,
+        "text": " Let's go. That's our wish. I had DJ sales. We go. Because my husband I've been married 39 years"
+    },
+    {
+        "start": 2043.84,
+        "end": 2052.4,
+        "text": " and his family that introduced me to mpv. That's awesome. Appreciate it. Sure. I appreciate y'all. So"
+    },
+    {
+        "start": 2053.04,
+        "end": 2061.52,
+        "text": " I'm calling to see if y'all if either y'all do this or if you know someone reliable who does this"
+    },
+    {
+        "start": 2061.52,
+        "end": 2069.36,
+        "text": " or if you would consider doing this preferably in person with especially the elderly like you"
+    },
+    {
+        "start": 2069.36,
+        "end": 2077.04,
+        "text": " were talking about earlier because my little mama in Q below who's 89 years old and is fairly tech"
+    },
+    {
+        "start": 2077.04,
+        "end": 2086.0,
+        "text": " savvy but she constantly gets things mixed up like oh I sent so into a text message. I'm like"
+    },
+    {
+        "start": 2086.0,
+        "end": 2090.56,
+        "text": " really I didn't even know you had their number. She's like well I don't. Now Michael you can't"
+    },
+    {
+        "start": 2090.56,
+        "end": 2095.92,
+        "text": " send him a text message if you don't have their cell phone number but she'll get text message email"
+    },
+    {
+        "start": 2096.4,
+        "end": 2104.32,
+        "text": " and Facebook Messenger all mixed up. She ordered something from Google. I'm like that's not possible."
+    },
+    {
+        "start": 2105.84,
+        "end": 2114.56,
+        "text": " For things like for safety reasons but make it like an ongoing series that you know that you can"
+    },
+    {
+        "start": 2114.56,
+        "end": 2121.12,
+        "text": " meet with folks in person in groups like either senior groups or church groups or something like"
+    },
+    {
+        "start": 2121.12,
+        "end": 2128.48,
+        "text": " that but also not just give them safety tips and everything and also provided in writing so"
+    },
+    {
+        "start": 2128.48,
+        "end": 2138.72,
+        "text": " they have something to refer to when they believe. But also just you know like check help right"
+    },
+    {
+        "start": 2138.72,
+        "end": 2146.96,
+        "text": " there on the spot. I think I've used up all my space or photos or whatever what do I do."
+    },
+    {
+        "start": 2147.12,
+        "end": 2153.92,
+        "text": " Yeah yeah I mean so and and I think that there I mean the state of Mississippi I've been in 80 of"
+    },
+    {
+        "start": 2153.92,
+        "end": 2160.2400000000002,
+        "text": " Mississippi's 82 counties and I've been I've never been a bit in their tip of what I want to"
+    },
+    {
+        "start": 2161.28,
+        "end": 2168.96,
+        "text": " but I think that there are a lot of places Macomb, Hattiesburg, the Gulf Coast, Meridian you're"
+    },
+    {
+        "start": 2168.96,
+        "end": 2173.36,
+        "text": " calling from Meridian there used to be a spot oh man I can't remember they even have a place."
+    },
+    {
+        "start": 2173.36,
+        "end": 2177.92,
+        "text": " But my mom's in Tupelo. Oh yeah I got you I said your mom I know you're calling from what say"
+    },
+    {
+        "start": 2177.92,
+        "end": 2182.6400000000003,
+        "text": " I was gonna say get the Tupelo. We got a couple of people that have called here saying that there"
+    },
+    {
+        "start": 2182.6400000000003,
+        "end": 2188.1600000000003,
+        "text": " was a tech shop up in Tupelo or in the Lee County area that they're familiar with but there are a lot"
+    },
+    {
+        "start": 2188.1600000000003,
+        "end": 2192.7200000000003,
+        "text": " of spots that kind of work as like hubs and some Grenada. I definitely know there's a no of one in"
+    },
+    {
+        "start": 2192.7200000000003,
+        "end": 2198.1600000000003,
+        "text": " Grenada. So there's all different spots around the state that you know some of these these tech"
+    },
+    {
+        "start": 2198.56,
+        "end": 2205.2799999999997,
+        "text": " companies and Metro Jackson is several and that are not franchise small independently operated"
+    },
+    {
+        "start": 2205.2799999999997,
+        "end": 2210.48,
+        "text": " mom and pop stores that you know need to have these kind of discussions and I agree with you I"
+    },
+    {
+        "start": 2210.48,
+        "end": 2214.0,
+        "text": " definitely agree with you back here I think we it would be great if we were to be able to do"
+    },
+    {
+        "start": 2214.0,
+        "end": 2217.3599999999997,
+        "text": " something like that and that's definitely give us something to think about. Yeah absolutely."
+    },
+    {
+        "start": 2217.3599999999997,
+        "end": 2222.16,
+        "text": " Think about and and to be able to work with and maybe even make like a coalition that would maybe"
+    },
+    {
+        "start": 2222.16,
+        "end": 2227.52,
+        "text": " we were to put together an app or something like that that would be easy and be able to regularly do"
+    },
+    {
+        "start": 2227.52,
+        "end": 2232.48,
+        "text": " some things like this. I mean I have 80 HD brain my brain says no no no no I'm saying you said"
+    },
+    {
+        "start": 2232.48,
+        "end": 2237.2799999999997,
+        "text": " maybe we can do an app that would be easy. Yeah yeah I'm like how right oh I do apps. I'm about to"
+    },
+    {
+        "start": 2237.2799999999997,
+        "end": 2242.72,
+        "text": " start doing I'm my organization my company's about to start doing apps so yeah so but yeah we um"
+    },
+    {
+        "start": 2242.72,
+        "end": 2247.92,
+        "text": " but to do something like that is a great idea um if you don't mind could you give us an email"
+    },
+    {
+        "start": 2248.0,
+        "end": 2253.76,
+        "text": " Becky if you've got some other ideas yeah can we um can we put yeah if you don't mind Becky can we"
+    },
+    {
+        "start": 2254.2400000000002,
+        "end": 2259.36,
+        "text": " either email everyday tech at npponline.org or your main can put you on hold and we'll get someone"
+    },
+    {
+        "start": 2259.36,
+        "end": 2265.6800000000003,
+        "text": " to write down your email yeah give it to Sabir yeah yeah that's a great idea. I'll pop to"
+    },
+    {
+        "start": 2265.6800000000003,
+        "end": 2273.44,
+        "text": " Giovanni. Okay all right cool very much very much appreciate that Becky also a long time"
+    },
+    {
+        "start": 2273.44,
+        "end": 2280.0,
+        "text": " sustainer listener so very very cool to have that as well that's wild. Here's my amazing"
+    },
+    {
+        "start": 2280.0,
+        "end": 2287.2000000000003,
+        "text": " great DJ button. But that's that that is and that's a great idea that's something that needs to"
+    },
+    {
+        "start": 2287.2000000000003,
+        "end": 2292.48,
+        "text": " happen. I know I mean again I'm give Lynn Fitch Lynn Fitch's office her props like they they"
+    },
+    {
+        "start": 2292.48,
+        "end": 2297.28,
+        "text": " have the office of cybercrime but I don't know that they're doing anything for like education."
+    },
+    {
+        "start": 2297.36,
+        "end": 2304.5600000000004,
+        "text": " I don't know that. I do think um Sally Dodie in her office. Yeah I believe they have a small"
+    },
+    {
+        "start": 2305.84,
+        "end": 2314.1600000000003,
+        "text": " like tech informative class that they do yeah um or maybe just a quick course or something like that"
+    },
+    {
+        "start": 2314.1600000000003,
+        "end": 2318.7200000000003,
+        "text": " they take care of that'd be cool um and then there's also organizations like the bean path"
+    },
+    {
+        "start": 2318.7200000000003,
+        "end": 2325.6800000000003,
+        "text": " bean path yeah they do stuff in the Jackson area absolutely and uh and you know several places"
+    },
+    {
+        "start": 2325.68,
+        "end": 2330.64,
+        "text": " around the state that are doing stuff like that and I think it'd be fun for us to try to try to"
+    },
+    {
+        "start": 2330.64,
+        "end": 2335.44,
+        "text": " also do that type of thing to do that and at least to be able to magnify or amplify their efforts if"
+    },
+    {
+        "start": 2335.44,
+        "end": 2339.7599999999998,
+        "text": " we yeah absolutely there's still the more that are being helped that they've got technical communicators"
+    },
+    {
+        "start": 2339.7599999999998,
+        "end": 2343.9199999999996,
+        "text": " that are doing this type of work and saying hey let's go ahead and get this going cool yeah so that's"
+    },
+    {
+        "start": 2343.9199999999996,
+        "end": 2353.44,
+        "text": " great. So speaking of if you are listening um and from the Tuplo area in no of yes of somewhere that"
+    },
+    {
+        "start": 2353.44,
+        "end": 2359.44,
+        "text": " could help out Becky and her mom yes you can email us at everyday tech at mpbeonline.org"
+    },
+    {
+        "start": 2360.0,
+        "end": 2367.12,
+        "text": " now everyday tech is just all one word and it's spelled how you spell it so it's very very simple"
+    },
+    {
+        "start": 2368.8,
+        "end": 2374.16,
+        "text": " we have a couple calls coming in I believe uh germane is buddy and natures ready"
+    },
+    {
+        "start": 2375.76,
+        "end": 2381.2000000000003,
+        "text": " I believe we've got buddy going so let's go yeah I've been having trouble trying to"
+    },
+    {
+        "start": 2381.7599999999998,
+        "end": 2389.4399999999996,
+        "text": " operate a computer I think mine was made in hell by Satan himself just to make Christians"
+    },
+    {
+        "start": 2389.4399999999996,
+        "end": 2395.6,
+        "text": " plus it's only saying very very rarely but I've been trying to send seven o'clock to order a"
+    },
+    {
+        "start": 2395.6,
+        "end": 2401.2,
+        "text": " water pump for a washing machine from Amazon and I've been at it at seven o'clock and I'm about"
+    },
+    {
+        "start": 2401.2,
+        "end": 2407.9199999999996,
+        "text": " to run out of blood pressure pills and I just wish somebody could show me I mean I'm in the 80 years old"
+    },
+    {
+        "start": 2408.7200000000003,
+        "end": 2415.44,
+        "text": " and it used to be the two go-to guy for technical information that company where I worked for 30 years"
+    },
+    {
+        "start": 2415.44,
+        "end": 2423.6800000000003,
+        "text": " and now this stuff just makes me feel like I'm an infant. I wish they'd had somebody here in"
+    },
+    {
+        "start": 2423.6800000000003,
+        "end": 2429.6800000000003,
+        "text": " natures they could help me learn how to operate these things here uh uh"
+    },
+    {
+        "start": 2430.7200000000003,
+        "end": 2434.96,
+        "text": " no is it you know one thing and something else pops up and then they walk"
+    },
+    {
+        "start": 2435.04,
+        "end": 2440.88,
+        "text": " send me a message on email with it takes me forever to get my email up and when I do I can't get"
+    },
+    {
+        "start": 2440.88,
+        "end": 2445.92,
+        "text": " back to the other page to be able to get finished the operations I have to start all over again"
+    },
+    {
+        "start": 2446.7200000000003,
+        "end": 2453.36,
+        "text": " and uh my son 13 years old he patted down the head said dad I'll be home after a while from"
+    },
+    {
+        "start": 2453.36,
+        "end": 2459.12,
+        "text": " school I'll do it for you there you go and this makes me find this one go get a beer and sit under"
+    },
+    {
+        "start": 2459.2,
+        "end": 2468.08,
+        "text": " I definitely understand it I definitely understand it I think uh again I hope that that like you say"
+    },
+    {
+        "start": 2468.08,
+        "end": 2476.08,
+        "text": " your son is gonna be able to assist you on this okay everybody you touch is you tag as"
+    },
+    {
+        "start": 2476.08,
+        "end": 2482.88,
+        "text": " us uh oh well I mean I think it's just a matter of I would always and if you have any questions"
+    },
+    {
+        "start": 2482.88,
+        "end": 2488.64,
+        "text": " please email us or I know we're running towards out of time on the show but please if we anytime"
+    },
+    {
+        "start": 2488.64,
+        "end": 2493.8399999999997,
+        "text": " you're not able to do something online like order uh make a purchase or something like that"
+    },
+    {
+        "start": 2493.8399999999997,
+        "end": 2499.12,
+        "text": " my brain immediately thinks that your browser may need to be updated and we can give you specifics"
+    },
+    {
+        "start": 2499.12,
+        "end": 2503.2,
+        "text": " on that if you don't mind emailing us or or maybe we can catch your number if you don't you don't"
+    },
+    {
+        "start": 2503.2,
+        "end": 2507.12,
+        "text": " mind touching basal with your main or one of our other callers to be able to we can get your"
+    },
+    {
+        "start": 2507.12,
+        "end": 2513.44,
+        "text": " information and follow back up with you but uh definitely uh if we can if you can call us back my"
+    },
+    {
+        "start": 2513.44,
+        "end": 2518.48,
+        "text": " my mind is telling me that we need to update that browser which sometimes doesn't happen a lot"
+    },
+    {
+        "start": 2518.88,
+        "end": 2523.76,
+        "text": " so if your browser is not updated it may not let you run that so if you don't mind leaving your"
+    },
+    {
+        "start": 2523.76,
+        "end": 2528.72,
+        "text": " information or you can you know drop us an email whatever is easier and we could probably follow"
+    },
+    {
+        "start": 2528.72,
+        "end": 2533.12,
+        "text": " back up with you I'm just looking at us in terms of low time yeah buddy I can get that info for"
+    },
+    {
+        "start": 2533.12,
+        "end": 2539.68,
+        "text": " you once I put you back on hold hunt okay also I do have a quick question how old is this computer"
+    },
+    {
+        "start": 2539.68,
+        "end": 2544.88,
+        "text": " buddy three years three years okay so it's probably up today on operating systems"
+    },
+    {
+        "start": 2544.88,
+        "end": 2549.84,
+        "text": " obviously but that browser but the browser might not be in that browser okay yeah okay"
+    },
+    {
+        "start": 2549.84,
+        "end": 2556.0,
+        "text": " I take it to a computer store they they completely erased everything on it and and I was able to"
+    },
+    {
+        "start": 2556.0,
+        "end": 2564.48,
+        "text": " load back and you know when the program again right and uh that didn't seem to help it's me instead"
+    },
+    {
+        "start": 2564.48,
+        "end": 2570.0,
+        "text": " of the computer but I hate to admit that well we'll see we'll see we we's not it let's not let's"
+    },
+    {
+        "start": 2570.0,
+        "end": 2573.6,
+        "text": " not throw you under the bus yet we're gonna go ahead and see if we could take a look at it we"
+    },
+    {
+        "start": 2573.6,
+        "end": 2578.08,
+        "text": " see what we can do and talk about it offline well good because I can see that bus coming"
+    },
+    {
+        "start": 2579.8399999999997,
+        "end": 2584.56,
+        "text": " yes indeed I like talking to this guy it's all right yeah there's several like just back in for"
+    },
+    {
+        "start": 2584.56,
+        "end": 2589.04,
+        "text": " it yeah yeah all right buddy we appreciate you calling in thank you"
+    },
+    {
+        "start": 2589.04,
+        "end": 2593.92,
+        "text": " no we'll get you back on hold stay on the line uh we'll get you back on hold and figure this out"
+    },
+    {
+        "start": 2593.92,
+        "end": 2600.24,
+        "text": " with you um so in the meantime with all of us talking about that we got a couple calls"
+    },
+    {
+        "start": 2600.24,
+        "end": 2607.3599999999997,
+        "text": " comment call in and leave comments okay um one person said the MSU Extension Service offers"
+    },
+    {
+        "start": 2607.3599999999997,
+        "end": 2614.56,
+        "text": " outreach for tech education excellent so um the Extension Service being there's the some of the"
+    },
+    {
+        "start": 2614.56,
+        "end": 2620.64,
+        "text": " extensions and Jackson correct I'm really confused as how the Extension Service works all over the"
+    },
+    {
+        "start": 2620.64,
+        "end": 2625.12,
+        "text": " state all over the state I mean I know them for Ag which culture stuff back from yeah I'm from"
+    },
+    {
+        "start": 2625.12,
+        "end": 2629.8399999999997,
+        "text": " which is near Columbia so I you they they covered all over the state they cover all over the state"
+    },
+    {
+        "start": 2629.8399999999997,
+        "end": 2634.72,
+        "text": " yes MSU but they're everywhere right so it's good to know MSU I'm gonna I'll see if I can find"
+    },
+    {
+        "start": 2634.72,
+        "end": 2640.7999999999997,
+        "text": " their information save their graphic and send it out yeah and also uh I had mentioned that someone"
+    },
+    {
+        "start": 2640.7999999999997,
+        "end": 2647.12,
+        "text": " from two local calling and and called in and said and you're gonna hate me for that that would"
+    },
+    {
+        "start": 2647.12,
+        "end": 2653.52,
+        "text": " neither of us said this but local libraries often offer classes for technology use as well that"
+    },
+    {
+        "start": 2653.52,
+        "end": 2659.68,
+        "text": " is always shout out shout out your local library we say that like every week just about"
+    },
+    {
+        "start": 2659.68,
+        "end": 2665.2,
+        "text": " library go to your library libraries wealth of knowledge man yeah yeah please don't sleep on your"
+    },
+    {
+        "start": 2665.2,
+        "end": 2670.0,
+        "text": " libraries library I wish I could bring like get it like what they call the uh the uh the"
+    },
+    {
+        "start": 2670.0,
+        "end": 2676.0,
+        "text": " edible arrangements I wish I could send every library right right now I owe every library"
+    },
+    {
+        "start": 2676.0,
+        "end": 2681.2,
+        "text": " edible arrangement because if you know me you know I used to steal books from libraries as a child"
+    },
+    {
+        "start": 2681.2,
+        "end": 2687.4399999999996,
+        "text": " no so I owed them an edible arrangement every single and my mom because she had to take the"
+    },
+    {
+        "start": 2687.4399999999996,
+        "end": 2693.3599999999997,
+        "text": " brun of all that the card was in her name yeah yeah that's hilarious you know what actually I'm"
+    },
+    {
+        "start": 2693.3599999999997,
+        "end": 2698.56,
+        "text": " a terrible person because I do have one uh the the branding library is probably mad at me because"
+    },
+    {
+        "start": 2698.56,
+        "end": 2703.6,
+        "text": " I've not returned a book that I just have read twice and I know yeah so they're gonna be like uh"
+    },
+    {
+        "start": 2703.6,
+        "end": 2712.3199999999997,
+        "text": " please send a $60 for the right yeah so your library is a great great local resource for more than"
+    },
+    {
+        "start": 2712.3199999999997,
+        "end": 2720.64,
+        "text": " just your your books and uh VHS tapes like I used to go to the library for love it yeah shout out"
+    },
+    {
+        "start": 2720.64,
+        "end": 2727.12,
+        "text": " to libraries the local library I believe uh I believe show number one that we did together uh"
+    },
+    {
+        "start": 2727.12,
+        "end": 2733.44,
+        "text": " was the way that came where we started yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah"
+    },
+    {
+        "start": 2733.6,
+        "end": 2741.2,
+        "text": " absolutely that's what's up so so yeah so if you are if you don't know where to reach out to you"
+    },
+    {
+        "start": 2742.64,
+        "end": 2747.7599999999998,
+        "text": " where to find a local IT person maybe go to your library find uh get some help from them"
+    },
+    {
+        "start": 2748.88,
+        "end": 2754.16,
+        "text": " and they can talk to you uh and try to get you in the point you in the right direction of a local"
+    },
+    {
+        "start": 2754.16,
+        "end": 2760.56,
+        "text": " IT person that's not necessarily someone that is just at a big box store that knows how to turn"
+    },
+    {
+        "start": 2760.56,
+        "end": 2765.52,
+        "text": " your computer off and back on right right and I hate that form because yes what folks will do"
+    },
+    {
+        "start": 2765.52,
+        "end": 2770.96,
+        "text": " sometimes they'll be you know I'm not gonna name names of stores of big box stores but I know one"
+    },
+    {
+        "start": 2770.96,
+        "end": 2775.7599999999998,
+        "text": " big box store in particular what charge you $99 is just to look at your computer they don't even"
+    },
+    {
+        "start": 2775.7599999999998,
+        "end": 2781.2799999999997,
+        "text": " they don't even do any they don't even say anything so I mean they don't even do anything so I think"
+    },
+    {
+        "start": 2781.2799999999997,
+        "end": 2786.0,
+        "text": " some of them I talk to somebody else about it and I say yeah do they charge like well actually"
+    },
+    {
+        "start": 2786.0,
+        "end": 2791.76,
+        "text": " it's only $39 so like so I wonder if they've heard us talk about them right that'd be good"
+    },
+    {
+        "start": 2791.76,
+        "end": 2796.88,
+        "text": " because they've dropped the price now yeah yeah it's the truth they heard severe and specifically"
+    },
+    {
+        "start": 2796.88,
+        "end": 2801.52,
+        "text": " on every day they look at I ain't naming them by name they know who they are they know who they are"
+    },
+    {
+        "start": 2802.08,
+        "end": 2807.28,
+        "text": " yeah absolutely oh man we've uh we've kind of just chatted the show away and I don't I don't"
+    },
+    {
+        "start": 2808.08,
+        "end": 2812.8,
+        "text": " we got like a minute and a half left what you uh anything any stories pop out in your head"
+    },
+    {
+        "start": 2812.8,
+        "end": 2818.6400000000003,
+        "text": " any any IT things that you worked on this past week this past week has been a week of like updates"
+    },
+    {
+        "start": 2818.6400000000003,
+        "end": 2825.44,
+        "text": " I actually had an issue with I had a big issue with um one of my clients that contacted me about"
+    },
+    {
+        "start": 2825.44,
+        "end": 2831.92,
+        "text": " I had a new client that was talking about like backups and for some reason her stuff was not"
+    },
+    {
+        "start": 2831.92,
+        "end": 2838.7200000000003,
+        "text": " backing up with the one-line cloud program that we were using so um but thankfully and I had"
+    },
+    {
+        "start": 2838.72,
+        "end": 2843.9199999999996,
+        "text": " another client amount unfortunately her business burned down um thankfully we've got like backups"
+    },
+    {
+        "start": 2843.9199999999996,
+        "end": 2853.7599999999998,
+        "text": " of her stuff right so um always always not only get a backup utility whether it's like drop box or"
+    },
+    {
+        "start": 2853.7599999999998,
+        "end": 2860.24,
+        "text": " one driver I personally love uh Google Drive because it's inexpensive and you get so much for it"
+    },
+    {
+        "start": 2860.24,
+        "end": 2865.8399999999997,
+        "text": " but uh get yourself a backup utility like one of these things subscribe to it and learn how to use"
+    },
+    {
+        "start": 2866.08,
+        "end": 2870.32,
+        "text": " it and if you don't touch base with an IT guy or guy like and help you walk through it so that"
+    },
+    {
+        "start": 2870.32,
+        "end": 2875.6800000000003,
+        "text": " way in the event of a disaster at least you got your files yeah and I would say touch base with"
+    },
+    {
+        "start": 2875.6800000000003,
+        "end": 2881.6800000000003,
+        "text": " someone who knows you know about how much of a drive you need to as well because you don't want to"
+    },
+    {
+        "start": 2881.6800000000003,
+        "end": 2890.08,
+        "text": " go in like you got several thousands of yeah gigs of uh of files that you buy a hundred gigs for"
+    },
+    {
+        "start": 2890.08,
+        "end": 2894.7200000000003,
+        "text": " yeah not a storage for you don't want to you know get get what you need learn how to use it the"
+    },
+    {
+        "start": 2894.72,
+        "end": 2899.3599999999997,
+        "text": " main thing go ahead and install it to your computer you'll be good to go yeah all right well this"
+    },
+    {
+        "start": 2899.3599999999997,
+        "end": 2904.3999999999996,
+        "text": " has been fun man I really appreciate all of our callers that called in um we appreciate the"
+    },
+    {
+        "start": 2904.3999999999996,
+        "end": 2912.3199999999997,
+        "text": " sustainers that uh that have contributed to MPB to help this show go on um so thanks to everyone who"
+    },
+    {
+        "start": 2912.3199999999997,
+        "end": 2918.48,
+        "text": " has contributed and called in and helped us make this show fun and have a good time so that's"
+    },
+    {
+        "start": 2918.48,
+        "end": 2922.08,
+        "text": " gonna wrap us up for the day thank you so be here for helping myself and our callers out if you"
+    },
+    {
+        "start": 2922.08,
+        "end": 2926.24,
+        "text": " missed any of the show make sure you listen back to it on your favorite podcasting app or download"
+    },
+    {
+        "start": 2926.24,
+        "end": 2931.04,
+        "text": " the MPB public media app everyday tech is brought to you by Mississippi public broadcasting think"
+    },
+    {
+        "start": 2931.04,
+        "end": 2935.92,
+        "text": " radio and generous contributions from listeners like I said our show today was engineered by"
+    },
+    {
+        "start": 2935.92,
+        "end": 2940.56,
+        "text": " Germaine flood I believe she was also having to be our call screener today this is off and on with"
+    },
+    {
+        "start": 2940.56,
+        "end": 2945.6,
+        "text": " Marissa Vaughn I've been your host Abram nanny also the podcast producer thank you for tuning in"
+    },
+    {
+        "start": 2945.6,
+        "end": 2950.88,
+        "text": " up next is Dr. Jimmy Stewart and stay tuned next Wednesday at 11th or at 10 right here on MPB think"
+    },
+    {
+        "start": 2950.88,
+        "end": 2958.6400000000003,
+        "text": " radio this is an MPB think radio podcast to hear previous shows visit mpbonline.org or download"
+    },
+    {
+        "start": 2958.6400000000003,
+        "end": 2963.36,
+        "text": " the MPB public radio app to listen on your iPhone or Android phone on demand"
+    }
+]

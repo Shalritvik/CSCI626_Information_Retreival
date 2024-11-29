@@ -1,0 +1,4237 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 17.240000000000002,
+        "end": 18.92,
+        "text": " Hello and welcome to Podcasting House."
+    },
+    {
+        "start": 18.92,
+        "end": 20.400000000000002,
+        "text": " And if you're with us for the first time,"
+    },
+    {
+        "start": 20.400000000000002,
+        "end": 23.84,
+        "text": " well, what's taking you so long, only joking."
+    },
+    {
+        "start": 23.84,
+        "end": 26.28,
+        "text": " Twice a week, we will play you a BBC podcast,"
+    },
+    {
+        "start": 26.28,
+        "end": 28.2,
+        "text": " which we have chosen especially for you,"
+    },
+    {
+        "start": 28.2,
+        "end": 29.44,
+        "text": " because we think you're like it."
+    },
+    {
+        "start": 29.44,
+        "end": 31.28,
+        "text": " And if you do, then you can search for it"
+    },
+    {
+        "start": 31.28,
+        "end": 33.800000000000004,
+        "text": " and subscribe to it wherever you got this."
+    },
+    {
+        "start": 33.800000000000004,
+        "end": 37.480000000000004,
+        "text": " So I'm Rian, and I have with me the faithful Eli."
+    },
+    {
+        "start": 37.480000000000004,
+        "end": 40.2,
+        "text": " Hi, that was my little earlier, sorry about that."
+    },
+    {
+        "start": 40.2,
+        "end": 41.44,
+        "text": " For, hmm, hmm."
+    },
+    {
+        "start": 41.44,
+        "end": 42.88,
+        "text": " That's okay, I've been informed."
+    },
+    {
+        "start": 42.88,
+        "end": 44.8,
+        "text": " Before I've been introduced."
+    },
+    {
+        "start": 44.8,
+        "end": 48.2,
+        "text": " So what I've got for you today is the Life Hacks podcast"
+    },
+    {
+        "start": 48.2,
+        "end": 51.36,
+        "text": " from Radio One at this moment of recording."
+    },
+    {
+        "start": 51.36,
+        "end": 53.16,
+        "text": " It is a brand new podcast."
+    },
+    {
+        "start": 53.16,
+        "end": 56.52,
+        "text": " It's Katie Thyslton and Dr. Radha from Radio One."
+    },
+    {
+        "start": 56.52,
+        "end": 59.720000000000006,
+        "text": " The idea is that they answer your questions about stuff."
+    },
+    {
+        "start": 59.720000000000006,
+        "end": 62.92,
+        "text": " That's so private that you might not even feel"
+    },
+    {
+        "start": 62.92,
+        "end": 64.56,
+        "text": " comfortable sharing it with your friends."
+    },
+    {
+        "start": 64.56,
+        "end": 66.48,
+        "text": " And it's a podcast rather than being on the radio"
+    },
+    {
+        "start": 66.48,
+        "end": 69.64,
+        "text": " because they push the boat out a little bit further"
+    },
+    {
+        "start": 69.64,
+        "end": 73.32000000000001,
+        "text": " than they could really get away with on daytime radio."
+    },
+    {
+        "start": 73.32000000000001,
+        "end": 75.16,
+        "text": " They say that they want to be like that naughty cousin"
+    },
+    {
+        "start": 75.16,
+        "end": 76.72,
+        "text": " that shows up to the family gathering,"
+    },
+    {
+        "start": 76.72,
+        "end": 78.16,
+        "text": " the one that you're always pleased to see"
+    },
+    {
+        "start": 78.16,
+        "end": 79.48,
+        "text": " when they walk through the door."
+    },
+    {
+        "start": 79.48,
+        "end": 80.16,
+        "text": " So give it a listen."
+    },
+    {
+        "start": 80.16,
+        "end": 82.72,
+        "text": " Here's Life Hacks from Radio One."
+    },
+    {
+        "start": 82.72,
+        "end": 85.76,
+        "text": " Welcome to the Life Hacks podcast brand new."
+    },
+    {
+        "start": 85.76,
+        "end": 87.88000000000001,
+        "text": " This is the first episode."
+    },
+    {
+        "start": 87.88000000000001,
+        "end": 89.68,
+        "text": " And then once I think when she did a few whys,"
+    },
+    {
+        "start": 89.68,
+        "end": 93.72,
+        "text": " she said to me, Katie, never let a man use you for one thing."
+    },
+    {
+        "start": 93.72,
+        "end": 96.08000000000001,
+        "text": " And I just remember this one teacher,"
+    },
+    {
+        "start": 96.08000000000001,
+        "end": 100.08000000000001,
+        "text": " I've really got, I've got totally drunk out of control,"
+    },
+    {
+        "start": 100.08000000000001,
+        "end": 102.4,
+        "text": " went outside and actually was sick in a bin."
+    },
+    {
+        "start": 104.92,
+        "end": 107.60000000000001,
+        "text": " You know, how some people have like a line on their lip"
+    },
+    {
+        "start": 107.60000000000001,
+        "end": 108.44,
+        "text": " in the middle of your lip?"
+    },
+    {
+        "start": 108.44,
+        "end": 109.44,
+        "text": " In the bottom, yeah."
+    },
+    {
+        "start": 109.44,
+        "end": 110.52000000000001,
+        "text": " On your bottom, yeah."
+    },
+    {
+        "start": 110.52000000000001,
+        "end": 113.68,
+        "text": " So a room went round that that meant that you could give"
+    },
+    {
+        "start": 113.68,
+        "end": 115.04,
+        "text": " in a blow chop."
+    },
+    {
+        "start": 115.04,
+        "end": 116.96000000000001,
+        "text": " OK, I need to go to school."
+    },
+    {
+        "start": 137.0,
+        "end": 138.04000000000002,
+        "text": " Well, hello."
+    },
+    {
+        "start": 138.04000000000002,
+        "end": 139.52,
+        "text": " Well, hello there."
+    },
+    {
+        "start": 139.52,
+        "end": 142.52,
+        "text": " Welcome to the Life Hacks podcast brand new."
+    },
+    {
+        "start": 142.52,
+        "end": 144.96,
+        "text": " This is the first episode, recating Doctor Ada."
+    },
+    {
+        "start": 144.96,
+        "end": 146.44,
+        "text": " Hi, I'm good."
+    },
+    {
+        "start": 146.44,
+        "end": 147.56,
+        "text": " This is really exciting."
+    },
+    {
+        "start": 147.56,
+        "end": 149.48000000000002,
+        "text": " This is so exciting because me and Radik"
+    },
+    {
+        "start": 149.48000000000002,
+        "end": 151.60000000000002,
+        "text": " can just chat for hours about any old nonsense."
+    },
+    {
+        "start": 151.60000000000002,
+        "end": 154.44,
+        "text": " And we always want a place where we can just talk."
+    },
+    {
+        "start": 154.44,
+        "end": 156.24,
+        "text": " Probably about the things that you wouldn't normally"
+    },
+    {
+        "start": 156.24,
+        "end": 157.72,
+        "text": " hear people talking about on the radio."
+    },
+    {
+        "start": 157.72,
+        "end": 160.16,
+        "text": " So you might be thinking Life Hacks is familiar."
+    },
+    {
+        "start": 160.16,
+        "end": 162.52,
+        "text": " Well, it is because we're a show on BBC Radio One"
+    },
+    {
+        "start": 162.52,
+        "end": 164.68,
+        "text": " every Sunday from 4 to 7."
+    },
+    {
+        "start": 164.68,
+        "end": 166.36,
+        "text": " But of course, that's a daytime show."
+    },
+    {
+        "start": 166.36,
+        "end": 168.4,
+        "text": " And even though we do like to push the boundaries of bit"
+    },
+    {
+        "start": 168.4,
+        "end": 170.36,
+        "text": " and talk about young people's issues"
+    },
+    {
+        "start": 170.36,
+        "end": 172.4,
+        "text": " and the things that really matter to you guys,"
+    },
+    {
+        "start": 172.4,
+        "end": 173.32,
+        "text": " there's a limit."
+    },
+    {
+        "start": 173.32,
+        "end": 175.35999999999999,
+        "text": " There's a limit to the things that you talk about."
+    },
+    {
+        "start": 175.35999999999999,
+        "end": 177.0,
+        "text": " And we don't want to limit in this podcast."
+    },
+    {
+        "start": 177.0,
+        "end": 178.51999999999998,
+        "text": " We're going to push the limit."
+    },
+    {
+        "start": 178.51999999999998,
+        "end": 179.4,
+        "text": " We're going to push the limits."
+    },
+    {
+        "start": 179.4,
+        "end": 182.28,
+        "text": " We want to talk about things that you perhaps don't hear people"
+    },
+    {
+        "start": 182.28,
+        "end": 183.2,
+        "text": " chatting about on the radio."
+    },
+    {
+        "start": 183.2,
+        "end": 185.2,
+        "text": " Perhaps even the things you don't talk about with your friends"
+    },
+    {
+        "start": 185.2,
+        "end": 186.07999999999998,
+        "text": " and your family."
+    },
+    {
+        "start": 186.07999999999998,
+        "end": 187.28,
+        "text": " So things like sex."
+    },
+    {
+        "start": 187.28,
+        "end": 189.23999999999998,
+        "text": " I mean, I want you sending into this podcast"
+    },
+    {
+        "start": 189.23999999999998,
+        "end": 191.2,
+        "text": " to your most embarrassing sex questions"
+    },
+    {
+        "start": 191.2,
+        "end": 192.72,
+        "text": " that you don't even want to Google"
+    },
+    {
+        "start": 192.72,
+        "end": 194.4,
+        "text": " because you're scared about your search history."
+    },
+    {
+        "start": 194.4,
+        "end": 195.48,
+        "text": " Give Brian a history."
+    },
+    {
+        "start": 195.48,
+        "end": 196.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 196.0,
+        "end": 196.76,
+        "text": " Put that down."
+    },
+    {
+        "start": 196.76,
+        "end": 197.64,
+        "text": " Don't you show anyone?"
+    },
+    {
+        "start": 197.64,
+        "end": 200.16,
+        "text": " Yeah, the things that you don't want to ask your doctor,"
+    },
+    {
+        "start": 200.16,
+        "end": 202.07999999999998,
+        "text": " maybe the things you don't want to ask your friends."
+    },
+    {
+        "start": 202.07999999999998,
+        "end": 203.07999999999998,
+        "text": " Don't worry about it."
+    },
+    {
+        "start": 203.08,
+        "end": 204.08,
+        "text": " We'll have a doctor here."
+    },
+    {
+        "start": 204.08,
+        "end": 205.36,
+        "text": " And we will be your friends."
+    },
+    {
+        "start": 205.36,
+        "end": 206.36,
+        "text": " And we don't want to be."
+    },
+    {
+        "start": 206.36,
+        "end": 207.20000000000002,
+        "text": " That's you."
+    },
+    {
+        "start": 207.20000000000002,
+        "end": 208.36,
+        "text": " You're the qualified doctor."
+    },
+    {
+        "start": 208.36,
+        "end": 209.84,
+        "text": " And we want to answer those questions"
+    },
+    {
+        "start": 209.84,
+        "end": 211.48000000000002,
+        "text": " and have a good, honest chat about it."
+    },
+    {
+        "start": 211.48000000000002,
+        "end": 212.76000000000002,
+        "text": " Nothing will make us blush."
+    },
+    {
+        "start": 212.76000000000002,
+        "end": 214.24,
+        "text": " We are used to hearing everything out."
+    },
+    {
+        "start": 214.24,
+        "end": 214.88000000000002,
+        "text": " We are our doctor."
+    },
+    {
+        "start": 214.88000000000002,
+        "end": 215.08,
+        "text": " We are."
+    },
+    {
+        "start": 215.08,
+        "end": 216.12,
+        "text": " We've had a lot."
+    },
+    {
+        "start": 216.12,
+        "end": 216.84,
+        "text": " We really have."
+    },
+    {
+        "start": 216.84,
+        "end": 219.48000000000002,
+        "text": " And we've taught a lot over the years."
+    },
+    {
+        "start": 219.48000000000002,
+        "end": 220.0,
+        "text": " In public."
+    },
+    {
+        "start": 220.0,
+        "end": 220.76000000000002,
+        "text": " In public."
+    },
+    {
+        "start": 220.76000000000002,
+        "end": 222.96,
+        "text": " In public."
+    },
+    {
+        "start": 222.96,
+        "end": 224.68,
+        "text": " So you can ask us questions about sex."
+    },
+    {
+        "start": 224.68,
+        "end": 226.72000000000003,
+        "text": " You can ask us questions about your mental health."
+    },
+    {
+        "start": 226.72000000000003,
+        "end": 228.4,
+        "text": " What to do if you fancy someone at school?"
+    },
+    {
+        "start": 228.4,
+        "end": 231.8,
+        "text": " Maybe you've got a strange phobia like a fear of ducks,"
+    },
+    {
+        "start": 231.8,
+        "end": 234.76000000000002,
+        "text": " which I can't pronounce, but apparently it's anti-daphobia."
+    },
+    {
+        "start": 234.76000000000002,
+        "end": 236.08,
+        "text": " That's right Katie."
+    },
+    {
+        "start": 236.08,
+        "end": 237.44,
+        "text": " It's like officially yes."
+    },
+    {
+        "start": 237.44,
+        "end": 238.60000000000002,
+        "text": " And it's it."
+    },
+    {
+        "start": 238.60000000000002,
+        "end": 239.44,
+        "text": " Do you have that?"
+    },
+    {
+        "start": 239.44,
+        "end": 241.12,
+        "text": " Anti-diophobia."
+    },
+    {
+        "start": 241.12,
+        "end": 242.24,
+        "text": " Do you actually know that?"
+    },
+    {
+        "start": 242.24,
+        "end": 244.68,
+        "text": " I just read it off as a bit of paper."
+    },
+    {
+        "start": 244.68,
+        "end": 248.20000000000002,
+        "text": " I was amazed then, Radha, because you always managed to amaze me"
+    },
+    {
+        "start": 248.20000000000002,
+        "end": 249.56,
+        "text": " and you are a fountain of knowledge."
+    },
+    {
+        "start": 249.56,
+        "end": 252.48000000000002,
+        "text": " But I was like, surely she doesn't know about fear of fear of fear."
+    },
+    {
+        "start": 252.48000000000002,
+        "end": 254.36,
+        "text": " No, but I'm going to even find out after this podcast."
+    },
+    {
+        "start": 254.36,
+        "end": 255.24,
+        "text": " I think you should."
+    },
+    {
+        "start": 255.24,
+        "end": 256.08000000000004,
+        "text": " Radha's brilliant."
+    },
+    {
+        "start": 256.08000000000004,
+        "end": 257.72,
+        "text": " I know I can just throw anything at you."
+    },
+    {
+        "start": 257.72,
+        "end": 259.8,
+        "text": " If we get an email or a text about anything,"
+    },
+    {
+        "start": 259.8,
+        "end": 261.16,
+        "text": " like you'll be able to talk about it."
+    },
+    {
+        "start": 261.16,
+        "end": 264.36,
+        "text": " But I've really physical stuff, chairs and bits of paper."
+    },
+    {
+        "start": 264.36,
+        "end": 267.04,
+        "text": " She throws it at me."
+    },
+    {
+        "start": 267.04,
+        "end": 269.6,
+        "text": " I would have been amazed if you'd known what a fear of ducks was"
+    },
+    {
+        "start": 269.6,
+        "end": 271.88000000000005,
+        "text": " and you would have known how to pronounce that word."
+    },
+    {
+        "start": 271.88000000000005,
+        "end": 273.36,
+        "text": " So we do what you get in touch with us."
+    },
+    {
+        "start": 273.36,
+        "end": 274.6,
+        "text": " We have an email address."
+    },
+    {
+        "start": 274.6,
+        "end": 277.36,
+        "text": " So get ready to write this down and you phone or whatever."
+    },
+    {
+        "start": 277.36,
+        "end": 279.96000000000004,
+        "text": " It's life hacks at bbc.co.uk."
+    },
+    {
+        "start": 279.96000000000004,
+        "end": 281.32000000000005,
+        "text": " It's pretty easy to remember to be honest."
+    },
+    {
+        "start": 281.32000000000005,
+        "end": 282.96000000000004,
+        "text": " You probably don't need to write that down."
+    },
+    {
+        "start": 282.96000000000004,
+        "end": 285.24,
+        "text": " These are the bits that you wouldn't want your grand to hear"
+    },
+    {
+        "start": 285.24,
+        "end": 286.16,
+        "text": " when she's eating with tea."
+    },
+    {
+        "start": 286.16,
+        "end": 288.68,
+        "text": " Like these are the bits like this is like the north."
+    },
+    {
+        "start": 288.68,
+        "end": 290.44000000000005,
+        "text": " It depends on your grand is though, doesn't it really?"
+    },
+    {
+        "start": 290.44,
+        "end": 291.4,
+        "text": " I mean, that's true."
+    },
+    {
+        "start": 291.4,
+        "end": 293.12,
+        "text": " Grands are sometimes pretty out there."
+    },
+    {
+        "start": 293.12,
+        "end": 294.76,
+        "text": " Some grands are quite with it, aren't they?"
+    },
+    {
+        "start": 294.76,
+        "end": 295.76,
+        "text": " Yeah."
+    },
+    {
+        "start": 295.76,
+        "end": 298.12,
+        "text": " So this is full of the grand as well out there."
+    },
+    {
+        "start": 298.12,
+        "end": 299.92,
+        "text": " Yeah, some people do have that kind of relationship"
+    },
+    {
+        "start": 299.92,
+        "end": 301.24,
+        "text": " with their parents or their grandparents"
+    },
+    {
+        "start": 301.24,
+        "end": 302.56,
+        "text": " where they can talk about sex and stuff,"
+    },
+    {
+        "start": 302.56,
+        "end": 303.76,
+        "text": " which always really unsettles me"
+    },
+    {
+        "start": 303.76,
+        "end": 305.72,
+        "text": " because I have not had that relationship"
+    },
+    {
+        "start": 305.72,
+        "end": 306.76,
+        "text": " with my family growing up."
+    },
+    {
+        "start": 306.76,
+        "end": 307.68,
+        "text": " I have neither."
+    },
+    {
+        "start": 307.68,
+        "end": 308.48,
+        "text": " No way."
+    },
+    {
+        "start": 308.48,
+        "end": 309.48,
+        "text": " Probably being the opposite."
+    },
+    {
+        "start": 309.48,
+        "end": 313.24,
+        "text": " Like the one birds in the beach chal that my mum had with me"
+    },
+    {
+        "start": 313.24,
+        "end": 317.44,
+        "text": " was sort of to ask me if I was having sex."
+    },
+    {
+        "start": 317.44,
+        "end": 318.8,
+        "text": " And I went, no."
+    },
+    {
+        "start": 318.8,
+        "end": 319.88,
+        "text": " And then she said, really?"
+    },
+    {
+        "start": 319.88,
+        "end": 321.88,
+        "text": " And I went, yeah."
+    },
+    {
+        "start": 321.88,
+        "end": 323.8,
+        "text": " And then she told me about how I should go on the pill."
+    },
+    {
+        "start": 323.8,
+        "end": 324.88,
+        "text": " And that was at the end of the chat."
+    },
+    {
+        "start": 324.88,
+        "end": 325.72,
+        "text": " And that was at the end of the chat."
+    },
+    {
+        "start": 325.72,
+        "end": 327.6,
+        "text": " And then once I think when she'd had a few wines,"
+    },
+    {
+        "start": 327.6,
+        "end": 330.92,
+        "text": " she said to me, Katie, never let a man use you for one thing."
+    },
+    {
+        "start": 330.92,
+        "end": 331.76,
+        "text": " And that's it."
+    },
+    {
+        "start": 331.76,
+        "end": 332.92,
+        "text": " Those are the only sex chats we've had."
+    },
+    {
+        "start": 332.92,
+        "end": 334.32,
+        "text": " She didn't know what one thing was."
+    },
+    {
+        "start": 334.32,
+        "end": 337.28000000000003,
+        "text": " I just assumed what she was on about there."
+    },
+    {
+        "start": 337.28000000000003,
+        "end": 339.76,
+        "text": " But that was the kind of chat that we've had."
+    },
+    {
+        "start": 339.76,
+        "end": 343.76,
+        "text": " But then some of my mates went to buy vibrators with their moms."
+    },
+    {
+        "start": 343.76,
+        "end": 346.92,
+        "text": " And I was like, this is the most absurd thing I've ever heard"
+    },
+    {
+        "start": 346.92,
+        "end": 349.04,
+        "text": " because that is not a relationship that I have with my family."
+    },
+    {
+        "start": 349.04,
+        "end": 349.56,
+        "text": " No."
+    },
+    {
+        "start": 349.56,
+        "end": 350.56,
+        "text": " And same here, actually."
+    },
+    {
+        "start": 350.56,
+        "end": 352.28000000000003,
+        "text": " So me, it's probably my eldest sister."
+    },
+    {
+        "start": 352.28000000000003,
+        "end": 355.2,
+        "text": " I used to go to if I had a question or as worried about something"
+    },
+    {
+        "start": 355.2,
+        "end": 356.84000000000003,
+        "text": " or but never used to my mum or dad."
+    },
+    {
+        "start": 356.84000000000003,
+        "end": 359.68,
+        "text": " I used to just totally go red, just hide."
+    },
+    {
+        "start": 359.68,
+        "end": 362.72,
+        "text": " And even to my eldest sister, I was like, yeah, I was going to say it."
+    },
+    {
+        "start": 362.72,
+        "end": 364.84000000000003,
+        "text": " Because I've got an eldest sister, but she's quite a lot older than me."
+    },
+    {
+        "start": 364.84000000000003,
+        "end": 368.28000000000003,
+        "text": " So it was almost like having a second mom, like a sort of younger cooler mom."
+    },
+    {
+        "start": 368.28000000000003,
+        "end": 371.0,
+        "text": " And she would sometimes be like, so do you have a boyfriend"
+    },
+    {
+        "start": 371.0,
+        "end": 372.16,
+        "text": " when I was a teenager and stuff?"
+    },
+    {
+        "start": 372.16,
+        "end": 373.64,
+        "text": " And try and draw those things out of me."
+    },
+    {
+        "start": 373.64,
+        "end": 375.6,
+        "text": " But again, I didn't even want to speak to her about it."
+    },
+    {
+        "start": 375.6,
+        "end": 379.08000000000004,
+        "text": " So I suppose what we want to do with this podcast is be the people that you can speak to"
+    },
+    {
+        "start": 379.08000000000004,
+        "end": 380.12,
+        "text": " if you feel the same way."
+    },
+    {
+        "start": 380.12,
+        "end": 382.44,
+        "text": " If you feel like you can't chat to your friends or your family"
+    },
+    {
+        "start": 382.44,
+        "end": 383.84000000000003,
+        "text": " because you feel a bit embarrassed."
+    },
+    {
+        "start": 383.84000000000003,
+        "end": 386.28000000000003,
+        "text": " This is like the naughty cousin to our life"
+    },
+    {
+        "start": 386.28000000000003,
+        "end": 387.52000000000004,
+        "text": " show that's on on a Sunday."
+    },
+    {
+        "start": 387.52000000000004,
+        "end": 390.48,
+        "text": " You know, like that one cousin that you wouldn't invite to a civilized family gathering."
+    },
+    {
+        "start": 390.48,
+        "end": 390.88,
+        "text": " Yeah."
+    },
+    {
+        "start": 390.88,
+        "end": 392.24,
+        "text": " But the one you always really piece to see"
+    },
+    {
+        "start": 392.24,
+        "end": 393.56,
+        "text": " when they come through the dogs are like, yes,"
+    },
+    {
+        "start": 393.56,
+        "end": 395.56,
+        "text": " it's going to be a little bit more interesting this afternoon."
+    },
+    {
+        "start": 395.56,
+        "end": 396.64000000000004,
+        "text": " It's going to be wild."
+    },
+    {
+        "start": 396.64000000000004,
+        "end": 400.08000000000004,
+        "text": " Like I've got a cousin who is wild and he makes every party a party."
+    },
+    {
+        "start": 400.08000000000004,
+        "end": 403.68,
+        "text": " But you know, he might drink before the church bit of a family celebration."
+    },
+    {
+        "start": 403.68,
+        "end": 405.40000000000003,
+        "text": " You just don't know what they're going to do."
+    },
+    {
+        "start": 405.4,
+        "end": 407.03999999999996,
+        "text": " That's what happens with naughty cousin."
+    },
+    {
+        "start": 407.03999999999996,
+        "end": 410.52,
+        "text": " He may be drunk in the church service for a chrysanid,"
+    },
+    {
+        "start": 410.52,
+        "end": 412.4,
+        "text": " which some people don't see as appropriate."
+    },
+    {
+        "start": 412.4,
+        "end": 415.0,
+        "text": " But it makes it interesting."
+    },
+    {
+        "start": 415.0,
+        "end": 417.23999999999995,
+        "text": " Oh, you know that one friend that like if you're having a party"
+    },
+    {
+        "start": 417.23999999999995,
+        "end": 418.4,
+        "text": " where your family are going to be there,"
+    },
+    {
+        "start": 418.4,
+        "end": 420.4,
+        "text": " like maybe it's your 18th or your 21st."
+    },
+    {
+        "start": 420.4,
+        "end": 422.0,
+        "text": " So you've got to invite like your family"
+    },
+    {
+        "start": 422.0,
+        "end": 423.52,
+        "text": " and you're like, oh, there's that one friend"
+    },
+    {
+        "start": 423.52,
+        "end": 425.44,
+        "text": " that I don't think I can mix with my family."
+    },
+    {
+        "start": 425.44,
+        "end": 428.47999999999996,
+        "text": " That's what this podcast is to all the other shows on Radio One."
+    },
+    {
+        "start": 428.47999999999996,
+        "end": 430.56,
+        "text": " And when you seem to do into your mum, you're like, no, get away."
+    },
+    {
+        "start": 430.56,
+        "end": 431.56,
+        "text": " Get away from my mum."
+    },
+    {
+        "start": 431.56,
+        "end": 433.47999999999996,
+        "text": " Don't tell them anything I've ever done."
+    },
+    {
+        "start": 433.47999999999996,
+        "end": 434.71999999999997,
+        "text": " Please."
+    },
+    {
+        "start": 434.72,
+        "end": 436.96000000000004,
+        "text": " It's always a dialogue when you need to make your friends and family."
+    },
+    {
+        "start": 441.36,
+        "end": 445.0,
+        "text": " Today we saw our theme for the show because this is our first podcast."
+    },
+    {
+        "start": 445.0,
+        "end": 447.76000000000005,
+        "text": " We thought the theme could be first time."
+    },
+    {
+        "start": 447.76000000000005,
+        "end": 448.72,
+        "text": " Did you love that?"
+    },
+    {
+        "start": 448.72,
+        "end": 449.44000000000005,
+        "text": " That's a great one."
+    },
+    {
+        "start": 449.44000000000005,
+        "end": 451.8,
+        "text": " Let's have the first time you in Rada Drift and a podcast."
+    },
+    {
+        "start": 451.8,
+        "end": 452.64000000000004,
+        "text": " It is."
+    },
+    {
+        "start": 452.64000000000004,
+        "end": 454.84000000000003,
+        "text": " But I've got a list of sort of first time things here"
+    },
+    {
+        "start": 454.84000000000003,
+        "end": 455.56,
+        "text": " that we can discuss."
+    },
+    {
+        "start": 455.56,
+        "end": 459.32000000000005,
+        "text": " And the first one on the list is the first time I got drunk."
+    },
+    {
+        "start": 459.32000000000005,
+        "end": 460.8,
+        "text": " Okay."
+    },
+    {
+        "start": 460.8,
+        "end": 462.24,
+        "text": " Can you remember the first time you got drunk?"
+    },
+    {
+        "start": 462.24,
+        "end": 465.2,
+        "text": " Well, I can and I can't because I was very drunk."
+    },
+    {
+        "start": 465.2,
+        "end": 467.68,
+        "text": " So you can't remember."
+    },
+    {
+        "start": 467.68,
+        "end": 468.68,
+        "text": " I can remember."
+    },
+    {
+        "start": 468.68,
+        "end": 472.24,
+        "text": " I can remember certain bits which I would rather forget"
+    },
+    {
+        "start": 472.24,
+        "end": 475.24,
+        "text": " because it was around teachers, which was really bad."
+    },
+    {
+        "start": 475.24,
+        "end": 476.04,
+        "text": " Oh, no."
+    },
+    {
+        "start": 476.04,
+        "end": 477.04,
+        "text": " I know."
+    },
+    {
+        "start": 477.04,
+        "end": 478.72,
+        "text": " Why was it like a promise something?"
+    },
+    {
+        "start": 478.72,
+        "end": 481.96000000000004,
+        "text": " It was a kind of end of kind of sick form thing"
+    },
+    {
+        "start": 481.96000000000004,
+        "end": 483.64,
+        "text": " where you went back and you had it in your kind of..."
+    },
+    {
+        "start": 483.64,
+        "end": 485.84000000000003,
+        "text": " This little centre we used to have in the head alcohol."
+    },
+    {
+        "start": 485.84000000000003,
+        "end": 487.56,
+        "text": " So I was like, woo, alcohol."
+    },
+    {
+        "start": 487.56,
+        "end": 490.16,
+        "text": " I would hate to be a teacher in that situation."
+    },
+    {
+        "start": 490.20000000000005,
+        "end": 492.52000000000004,
+        "text": " And I just remember getting a little bit too excited,"
+    },
+    {
+        "start": 492.52000000000004,
+        "end": 494.88000000000005,
+        "text": " a little bit too relieved that my exams were over."
+    },
+    {
+        "start": 494.88000000000005,
+        "end": 496.52000000000004,
+        "text": " My A level was at finish."
+    },
+    {
+        "start": 496.52000000000004,
+        "end": 498.92,
+        "text": " And I just remember this one teacher,"
+    },
+    {
+        "start": 498.92,
+        "end": 502.92,
+        "text": " I basically got totally drunk out of control,"
+    },
+    {
+        "start": 502.92,
+        "end": 505.56,
+        "text": " went outside and actually was sticking a bin."
+    },
+    {
+        "start": 505.56,
+        "end": 507.72,
+        "text": " And I turned around and there was a teacher"
+    },
+    {
+        "start": 507.72,
+        "end": 509.32000000000005,
+        "text": " who would always really liked me"
+    },
+    {
+        "start": 509.32000000000005,
+        "end": 512.0400000000001,
+        "text": " and always thought I'd very sensible and I was very reliable."
+    },
+    {
+        "start": 512.0400000000001,
+        "end": 513.2,
+        "text": " I went, hello."
+    },
+    {
+        "start": 513.2,
+        "end": 515.0,
+        "text": " I went, are you all right?"
+    },
+    {
+        "start": 515.0,
+        "end": 516.36,
+        "text": " I went, yeah, I'm fine, thanks."
+    },
+    {
+        "start": 516.36,
+        "end": 518.36,
+        "text": " Just went straight back in and started drinking again."
+    },
+    {
+        "start": 518.4,
+        "end": 521.04,
+        "text": " I love that you were doing that thing of trying to act like you were sober."
+    },
+    {
+        "start": 521.04,
+        "end": 522.88,
+        "text": " Oh, totally. And I still do this day."
+    },
+    {
+        "start": 522.88,
+        "end": 525.52,
+        "text": " Like, I'm just not going to let anyone know that I'm drunk,"
+    },
+    {
+        "start": 525.52,
+        "end": 527.2,
+        "text": " even though they totally know that I'm drunk."
+    },
+    {
+        "start": 527.2,
+        "end": 528.5600000000001,
+        "text": " I'm just like, no, I'm fine."
+    },
+    {
+        "start": 528.5600000000001,
+        "end": 531.64,
+        "text": " I'm fine. I get a proper drinker's guilt when I'm drunk."
+    },
+    {
+        "start": 531.64,
+        "end": 535.28,
+        "text": " And when you get to the point where you're being a little bit like you're falling over a bit,"
+    },
+    {
+        "start": 535.28,
+        "end": 536.48,
+        "text": " maybe you're..."
+    },
+    {
+        "start": 536.48,
+        "end": 538.48,
+        "text": " Or maybe you've dropped a drinker something and you think,"
+    },
+    {
+        "start": 538.48,
+        "end": 540.12,
+        "text": " oh no, I'm more drunk than everybody else."
+    },
+    {
+        "start": 540.12,
+        "end": 541.32,
+        "text": " I'm really annoying them."
+    },
+    {
+        "start": 541.32,
+        "end": 542.72,
+        "text": " And I get a real guilt about it."
+    },
+    {
+        "start": 542.72,
+        "end": 544.32,
+        "text": " Like, there was like a few months ago."
+    },
+    {
+        "start": 544.32,
+        "end": 546.64,
+        "text": " Me and my friend had this night out with our boyfriends,"
+    },
+    {
+        "start": 546.64,
+        "end": 549.12,
+        "text": " me and my best mate, and we went to the comedy store."
+    },
+    {
+        "start": 549.12,
+        "end": 550.3199999999999,
+        "text": " We went to the coming night."
+    },
+    {
+        "start": 550.3199999999999,
+        "end": 552.76,
+        "text": " And I think I just thought it was going to be a bit rubbish."
+    },
+    {
+        "start": 552.76,
+        "end": 555.36,
+        "text": " Because sometimes I just find them a bit cringe-worthy company nights."
+    },
+    {
+        "start": 555.36,
+        "end": 556.72,
+        "text": " It's just that you have to laugh."
+    },
+    {
+        "start": 556.72,
+        "end": 557.48,
+        "text": " Yeah."
+    },
+    {
+        "start": 557.48,
+        "end": 558.56,
+        "text": " But it was actually really good to..."
+    },
+    {
+        "start": 558.56,
+        "end": 561.64,
+        "text": " But we drank a bottle of wine each in the comedy store"
+    },
+    {
+        "start": 561.64,
+        "end": 563.56,
+        "text": " and just escalated."
+    },
+    {
+        "start": 563.56,
+        "end": 565.84,
+        "text": " I think at one point we suggested going to a strip club"
+    },
+    {
+        "start": 565.84,
+        "end": 568.76,
+        "text": " and then found out I was a tenor to get in and decided against it."
+    },
+    {
+        "start": 568.76,
+        "end": 570.24,
+        "text": " That's just too expensive."
+    },
+    {
+        "start": 570.24,
+        "end": 571.68,
+        "text": " No, exactly."
+    },
+    {
+        "start": 571.68,
+        "end": 573.24,
+        "text": " And then I remember it getting to a certain point of the night"
+    },
+    {
+        "start": 573.24,
+        "end": 574.96,
+        "text": " where I was kind of falling over a bit of a drop for drink"
+    },
+    {
+        "start": 574.96,
+        "end": 577.84,
+        "text": " and a balance of sort of said, or she's all right,"
+    },
+    {
+        "start": 577.84,
+        "end": 578.84,
+        "text": " I think you just take her out."
+    },
+    {
+        "start": 578.84,
+        "end": 581.24,
+        "text": " And then I saw like my best friend, my boyfriend, having a little chat"
+    },
+    {
+        "start": 581.24,
+        "end": 583.44,
+        "text": " and then me and my best friend went to toilet."
+    },
+    {
+        "start": 583.44,
+        "end": 584.44,
+        "text": " And I just started crying."
+    },
+    {
+        "start": 584.44,
+        "end": 586.88,
+        "text": " And I was like, you're all sick of me, aren't you?"
+    },
+    {
+        "start": 586.88,
+        "end": 587.72,
+        "text": " Because I'm drunk."
+    },
+    {
+        "start": 587.72,
+        "end": 590.2800000000001,
+        "text": " Because you were like, no, we were literally just talking about how great you are"
+    },
+    {
+        "start": 590.2800000000001,
+        "end": 591.44,
+        "text": " and how funny it is."
+    },
+    {
+        "start": 591.44,
+        "end": 593.44,
+        "text": " And I was like, everyone hates me."
+    },
+    {
+        "start": 593.44,
+        "end": 595.08,
+        "text": " Is that thing that alcohol does, doesn't it?"
+    },
+    {
+        "start": 595.08,
+        "end": 597.12,
+        "text": " It makes people just behave in such bizarre ways."
+    },
+    {
+        "start": 597.12,
+        "end": 599.2800000000001,
+        "text": " But also you get very emotional, you know?"
+    },
+    {
+        "start": 599.2800000000001,
+        "end": 602.2,
+        "text": " You either have a really good night where you're really hung loads of fun"
+    },
+    {
+        "start": 602.24,
+        "end": 606.0,
+        "text": " or you get really kind of emotional and everything just turns into disaster"
+    },
+    {
+        "start": 606.0,
+        "end": 607.9200000000001,
+        "text": " and you send up crying in front of a riverbed day."
+    },
+    {
+        "start": 607.9200000000001,
+        "end": 608.9200000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 608.9200000000001,
+        "end": 610.48,
+        "text": " And you think, I'd rather just stay in and watch the box set."
+    },
+    {
+        "start": 610.48,
+        "end": 613.5200000000001,
+        "text": " It's become a thing now with me and my best mate that we discuss it."
+    },
+    {
+        "start": 613.5200000000001,
+        "end": 616.2,
+        "text": " Because another night at her house, we went round and played like"
+    },
+    {
+        "start": 616.2,
+        "end": 618.0400000000001,
+        "text": " drinking games, like, ring a fire and stuff."
+    },
+    {
+        "start": 618.0400000000001,
+        "end": 619.9200000000001,
+        "text": " And then later in the evening, I felt when he drunk,"
+    },
+    {
+        "start": 619.9200000000001,
+        "end": 621.32,
+        "text": " I was like, oh, I need some food to sober up."
+    },
+    {
+        "start": 621.32,
+        "end": 622.5200000000001,
+        "text": " I was like, you get me some crisps."
+    },
+    {
+        "start": 622.5200000000001,
+        "end": 624.5600000000001,
+        "text": " And she got me some crisps and I went to open the packet."
+    },
+    {
+        "start": 624.5600000000001,
+        "end": 626.5200000000001,
+        "text": " And it's like, you don't know you're on strength when you're drunk"
+    },
+    {
+        "start": 626.5200000000001,
+        "end": 628.6400000000001,
+        "text": " and it just exploded over a kitchen."
+    },
+    {
+        "start": 628.6400000000001,
+        "end": 630.6,
+        "text": " And she, this is a parent's house and they were on holiday"
+    },
+    {
+        "start": 630.6,
+        "end": 632.5600000000001,
+        "text": " and her parents have a beautiful house."
+    },
+    {
+        "start": 632.5600000000001,
+        "end": 634.48,
+        "text": " She was like, my mum's chairs."
+    },
+    {
+        "start": 634.48,
+        "end": 635.88,
+        "text": " And that was like really upset."
+    },
+    {
+        "start": 635.88,
+        "end": 638.6800000000001,
+        "text": " Again, I remember I went inside of the living room with a dog sort of stroking it"
+    },
+    {
+        "start": 638.6800000000001,
+        "end": 640.44,
+        "text": " and started having a little cry to myself."
+    },
+    {
+        "start": 640.44,
+        "end": 642.72,
+        "text": " But everyone was like, oh, it's not even open a packet of crisps."
+    },
+    {
+        "start": 642.72,
+        "end": 646.12,
+        "text": " I get a real sort of like drinker's guilt when those things happen."
+    },
+    {
+        "start": 646.12,
+        "end": 648.72,
+        "text": " I don't think I definitely can't remember the first time I drank"
+    },
+    {
+        "start": 648.72,
+        "end": 650.8000000000001,
+        "text": " because the first time I drank would have been like"
+    },
+    {
+        "start": 650.8000000000001,
+        "end": 655.08,
+        "text": " on a field or like on the street sort of drinking a bit of,"
+    },
+    {
+        "start": 655.08,
+        "end": 657.64,
+        "text": " you know, cider or like a, you know,"
+    },
+    {
+        "start": 657.64,
+        "end": 660.24,
+        "text": " in a pan and alcopop of something yet exactly."
+    },
+    {
+        "start": 660.24,
+        "end": 662.44,
+        "text": " In that way that when you're a teenager, you do a bit of that"
+    },
+    {
+        "start": 662.44,
+        "end": 664.88,
+        "text": " and then you've had like, I don't know, half a WKD"
+    },
+    {
+        "start": 664.88,
+        "end": 667.52,
+        "text": " and then you're like, you're already drunk, but nobody actually is."
+    },
+    {
+        "start": 667.52,
+        "end": 669.88,
+        "text": " And the next thing you're like, oh, I've got such a bad hangover."
+    },
+    {
+        "start": 669.88,
+        "end": 671.32,
+        "text": " Oh, man, I was so drunk."
+    },
+    {
+        "start": 671.32,
+        "end": 675.08,
+        "text": " Oh, my god, I went out last night and just drank half a bottle of WKD."
+    },
+    {
+        "start": 675.08,
+        "end": 676.52,
+        "text": " No, no, look at me."
+    },
+    {
+        "start": 676.52,
+        "end": 677.36,
+        "text": " Look at me."
+    },
+    {
+        "start": 677.36,
+        "end": 678.52,
+        "text": " I was steaming."
+    },
+    {
+        "start": 678.52,
+        "end": 679.04,
+        "text": " Exactly."
+    },
+    {
+        "start": 679.04,
+        "end": 680.6800000000001,
+        "text": " So those are definitely the first times I drank."
+    },
+    {
+        "start": 680.6800000000001,
+        "end": 684.52,
+        "text": " But I do specifically remember the first time feeling the effects of alcohol"
+    },
+    {
+        "start": 684.52,
+        "end": 687.12,
+        "text": " and being like, oh, no, my mum's going to realise"
+    },
+    {
+        "start": 687.12,
+        "end": 689.28,
+        "text": " because I'd been like at a friend's house in college."
+    },
+    {
+        "start": 689.3199999999999,
+        "end": 691.0,
+        "text": " And I remember I took like a bottle of Malibu."
+    },
+    {
+        "start": 691.0,
+        "end": 695.72,
+        "text": " I think I had a fall out with my, I had a fall out with my boyfriend at the time."
+    },
+    {
+        "start": 695.72,
+        "end": 698.4,
+        "text": " And I was literally like, I'm just going to drink loads of this Malibu."
+    },
+    {
+        "start": 698.4,
+        "end": 701.56,
+        "text": " And Malibu kind of just doesn't taste like it's alcohol really."
+    },
+    {
+        "start": 701.56,
+        "end": 703.4,
+        "text": " No, it tastes like a soft drink."
+    },
+    {
+        "start": 703.4,
+        "end": 705.4,
+        "text": " It's kind of just a bit too nice to drink."
+    },
+    {
+        "start": 705.4,
+        "end": 707.8399999999999,
+        "text": " And I kind of, people were always like, oh, that's a bit of a soft drink."
+    },
+    {
+        "start": 707.8399999999999,
+        "end": 710.36,
+        "text": " People always used to just kind of talk as though that wasn't a proper drink."
+    },
+    {
+        "start": 710.36,
+        "end": 714.0799999999999,
+        "text": " So I just drank loads of it, not realising that it was getting me quite drunk."
+    },
+    {
+        "start": 714.0799999999999,
+        "end": 715.72,
+        "text": " And then my mum picked me up from my friend's house"
+    },
+    {
+        "start": 715.72,
+        "end": 718.24,
+        "text": " and I was really doing that thing of acting like I wasn't doing."
+    },
+    {
+        "start": 718.28,
+        "end": 721.08,
+        "text": " But I remember sitting in the coffee and like, oh, I'm going to spue off anything."
+    },
+    {
+        "start": 721.8,
+        "end": 723.96,
+        "text": " Just sat there really, really trying to knock on it."
+    },
+    {
+        "start": 723.96,
+        "end": 724.72,
+        "text": " Really quiet."
+    },
+    {
+        "start": 724.88,
+        "end": 727.44,
+        "text": " Breathing through your nose, opening the window."
+    },
+    {
+        "start": 728.44,
+        "end": 729.08,
+        "text": " It's hard for me."
+    },
+    {
+        "start": 729.08,
+        "end": 730.0,
+        "text": " Your mum's like, you're right."
+    },
+    {
+        "start": 730.0,
+        "end": 730.8,
+        "text": " Mmm, yeah."
+    },
+    {
+        "start": 730.8,
+        "end": 731.16,
+        "text": " Yeah, fine."
+    },
+    {
+        "start": 731.16,
+        "end": 731.72,
+        "text": " That's fine."
+    },
+    {
+        "start": 731.72,
+        "end": 731.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 731.96,
+        "end": 732.44,
+        "text": " Just fine."
+    },
+    {
+        "start": 732.64,
+        "end": 735.96,
+        "text": " And thinking back like your parents must obviously know what's going on."
+    },
+    {
+        "start": 736.36,
+        "end": 739.92,
+        "text": " It'd be really interesting when it's to go into the kind of brains of your parents"
+    },
+    {
+        "start": 739.92,
+        "end": 743.08,
+        "text": " just for those moments and thinking, actually, what do they know?"
+    },
+    {
+        "start": 743.08,
+        "end": 744.52,
+        "text": " What did they realise?"
+    },
+    {
+        "start": 744.52,
+        "end": 747.28,
+        "text": " You know, you never quite know if parents must have done."
+    },
+    {
+        "start": 747.4,
+        "end": 749.92,
+        "text": " Because even just to be a fly on the wall in that situation,"
+    },
+    {
+        "start": 749.92,
+        "end": 751.36,
+        "text": " it's kind of obvious."
+    },
+    {
+        "start": 751.36,
+        "end": 752.76,
+        "text": " People are just even a bit different."
+    },
+    {
+        "start": 752.76,
+        "end": 756.28,
+        "text": " People are more friendly than they usually would be or just talking differently"
+    },
+    {
+        "start": 756.28,
+        "end": 757.4,
+        "text": " or stumbling about a bit."
+    },
+    {
+        "start": 757.4,
+        "end": 758.76,
+        "text": " Just really hot and sweaty."
+    },
+    {
+        "start": 758.76,
+        "end": 759.72,
+        "text": " Yeah, lively."
+    },
+    {
+        "start": 759.72,
+        "end": 761.0,
+        "text": " And like, grown-ups have been drunk."
+    },
+    {
+        "start": 761.0,
+        "end": 763.04,
+        "text": " My mum and dad have been drunk, so they know what that's like."
+    },
+    {
+        "start": 763.04,
+        "end": 764.8,
+        "text": " So I think they would have noticed a difference in me"
+    },
+    {
+        "start": 764.8,
+        "end": 766.6,
+        "text": " from on the way to the party on the way back."
+    },
+    {
+        "start": 767.0799999999999,
+        "end": 770.0799999999999,
+        "text": " And for like, classic sneaking into the kitchen, like when you get home,"
+    },
+    {
+        "start": 770.3199999999999,
+        "end": 774.9599999999999,
+        "text": " kind of just raiding the crisp cupboard or like the chocolate drawer or whatever it might be,"
+    },
+    {
+        "start": 775.2,
+        "end": 777.8000000000001,
+        "text": " just being really hungry, pretending you're not that, actually, that hungry."
+    },
+    {
+        "start": 777.8000000000001,
+        "end": 779.08,
+        "text": " You just want to be quick."
+    },
+    {
+        "start": 779.08,
+        "end": 779.6,
+        "text": " Quick, eat!"
+    },
+    {
+        "start": 779.6,
+        "end": 781.08,
+        "text": " I don't want to come in and eat all this food."
+    },
+    {
+        "start": 781.08,
+        "end": 783.6800000000001,
+        "text": " I know, but more so when you drink alcohol."
+    },
+    {
+        "start": 783.6800000000001,
+        "end": 785.0400000000001,
+        "text": " Oh, yeah, definitely."
+    },
+    {
+        "start": 785.0400000000001,
+        "end": 785.6800000000001,
+        "text": " Oh, yeah, definitely."
+    },
+    {
+        "start": 785.6800000000001,
+        "end": 789.52,
+        "text": " I have to get food on the way home now and I've been drinking otherwise the next day is a bad time."
+    },
+    {
+        "start": 789.52,
+        "end": 792.24,
+        "text": " And I don't know whether, like, there's been like certain theories"
+    },
+    {
+        "start": 792.24,
+        "end": 794.0400000000001,
+        "text": " that people say and like, that doesn't actually do anything."
+    },
+    {
+        "start": 794.0400000000001,
+        "end": 796.2800000000001,
+        "text": " It's a myth that like eating loads of food so as you will."
+    },
+    {
+        "start": 796.2800000000001,
+        "end": 798.64,
+        "text": " But psychologically, it seems to work for me."
+    },
+    {
+        "start": 798.64,
+        "end": 799.52,
+        "text": " I think it does."
+    },
+    {
+        "start": 799.52,
+        "end": 800.2800000000001,
+        "text": " I think it does."
+    },
+    {
+        "start": 800.2800000000001,
+        "end": 802.2800000000001,
+        "text": " Well, people say it doesn't it absorbs the alcohol."
+    },
+    {
+        "start": 802.2800000000001,
+        "end": 803.48,
+        "text": " It kind of makes you feel a bit better."
+    },
+    {
+        "start": 803.52,
+        "end": 808.76,
+        "text": " There's something in your stomach, you know, and actually one of the worst things is drinking without eating, isn't it?"
+    },
+    {
+        "start": 808.76,
+        "end": 811.36,
+        "text": " And drinking things just goes your head so quickly."
+    },
+    {
+        "start": 811.36,
+        "end": 813.32,
+        "text": " You feel so much worse."
+    },
+    {
+        "start": 813.32,
+        "end": 819.16,
+        "text": " Is that a thing of trying to make yourself forcing yourself to drink water before you go to beds?"
+    },
+    {
+        "start": 819.16,
+        "end": 822.84,
+        "text": " You know, just so that the next day is not totally hideous."
+    },
+    {
+        "start": 822.84,
+        "end": 823.8000000000001,
+        "text": " But can you do it?"
+    },
+    {
+        "start": 823.8000000000001,
+        "end": 824.64,
+        "text": " Can you always do it?"
+    },
+    {
+        "start": 824.64,
+        "end": 825.6,
+        "text": " It's hard, isn't it?"
+    },
+    {
+        "start": 825.6,
+        "end": 829.0,
+        "text": " It's the last thing you want to be doing is drinking loads of water when you get in any drink."
+    },
+    {
+        "start": 829.0,
+        "end": 830.0,
+        "text": " It's going to be late."
+    },
+    {
+        "start": 830.0,
+        "end": 831.16,
+        "text": " You do not like it."
+    },
+    {
+        "start": 831.16,
+        "end": 832.64,
+        "text": " It almost makes you want to be sick, doesn't it?"
+    },
+    {
+        "start": 832.64,
+        "end": 834.76,
+        "text": " But you know you've got to do it."
+    },
+    {
+        "start": 834.76,
+        "end": 835.8399999999999,
+        "text": " You've got to get it down you."
+    },
+    {
+        "start": 835.8399999999999,
+        "end": 837.0799999999999,
+        "text": " Yeah, you do."
+    },
+    {
+        "start": 837.0799999999999,
+        "end": 837.9599999999999,
+        "text": " Oh, man, you're right."
+    },
+    {
+        "start": 837.9599999999999,
+        "end": 839.88,
+        "text": " It's best just to sit in with like..."
+    },
+    {
+        "start": 839.88,
+        "end": 840.7199999999999,
+        "text": " Just have it, yeah."
+    },
+    {
+        "start": 840.7199999999999,
+        "end": 841.24,
+        "text": " Tell me on."
+    },
+    {
+        "start": 841.24,
+        "end": 842.24,
+        "text": " What's your box there?"
+    },
+    {
+        "start": 847.48,
+        "end": 852.1999999999999,
+        "text": " The first time I had my period, I have quite a funny story about this actually because I remember like..."
+    },
+    {
+        "start": 852.1999999999999,
+        "end": 852.9599999999999,
+        "text": " It's so..."
+    },
+    {
+        "start": 852.9599999999999,
+        "end": 855.6,
+        "text": " You think it's so embarrassing and then as a grownup, you're like,"
+    },
+    {
+        "start": 855.6,
+        "end": 857.76,
+        "text": " no, it's not because half the population have a period."
+    },
+    {
+        "start": 857.76,
+        "end": 862.24,
+        "text": " I'm like, the other half of the population need the other half to have a period if they want to have children."
+    },
+    {
+        "start": 862.24,
+        "end": 863.48,
+        "text": " It's like, I know."
+    },
+    {
+        "start": 863.48,
+        "end": 867.56,
+        "text": " Actually, it's just a process that everyone has to go to in order to create more humans."
+    },
+    {
+        "start": 867.56,
+        "end": 869.48,
+        "text": " But yeah, we're just really embarrassed about it."
+    },
+    {
+        "start": 869.48,
+        "end": 871.04,
+        "text": " I remember like getting home from school."
+    },
+    {
+        "start": 871.04,
+        "end": 871.96,
+        "text": " And I'd like to talk to about it."
+    },
+    {
+        "start": 871.96,
+        "end": 873.12,
+        "text": " I went to an old girl's school."
+    },
+    {
+        "start": 873.12,
+        "end": 874.28,
+        "text": " So there was a lot of chat in my school."
+    },
+    {
+        "start": 874.28,
+        "end": 875.12,
+        "text": " Same period."
+    },
+    {
+        "start": 875.12,
+        "end": 875.88,
+        "text": " Did you?"
+    },
+    {
+        "start": 875.88,
+        "end": 879.96,
+        "text": " So there was a lot of like, I remember like all these sort of sanitary towel brands would come in every now and again"
+    },
+    {
+        "start": 879.96,
+        "end": 882.6,
+        "text": " and give out some free ones and give us a little talk about it."
+    },
+    {
+        "start": 882.6,
+        "end": 884.64,
+        "text": " So we were all pretty clued up about what was going to happen."
+    },
+    {
+        "start": 884.64,
+        "end": 886.6,
+        "text": " And there was all that, oh, are you a woman yet?"
+    },
+    {
+        "start": 886.6,
+        "end": 887.52,
+        "text": " Kind of chat."
+    },
+    {
+        "start": 887.52,
+        "end": 888.52,
+        "text": " Which is really crazy."
+    },
+    {
+        "start": 888.52,
+        "end": 890.52,
+        "text": " Are you a woman with a cap to a W."
+    },
+    {
+        "start": 890.52,
+        "end": 891.84,
+        "text": " What does that even mean?"
+    },
+    {
+        "start": 891.84,
+        "end": 893.48,
+        "text": " Because if you're not until that point."
+    },
+    {
+        "start": 893.48,
+        "end": 894.48,
+        "text": " I know."
+    },
+    {
+        "start": 894.48,
+        "end": 896.84,
+        "text": " And but I remember like getting home from school and realizing it."
+    },
+    {
+        "start": 896.84,
+        "end": 900.0799999999999,
+        "text": " And it's always a little bit of a shocking thing because it's blood and that's like scary looking."
+    },
+    {
+        "start": 900.0799999999999,
+        "end": 903.56,
+        "text": " I think when I even like the first few years of having a period, you're like, what?"
+    },
+    {
+        "start": 903.56,
+        "end": 905.84,
+        "text": " Because you're used to associating blood with like something bad."
+    },
+    {
+        "start": 905.84,
+        "end": 908.0799999999999,
+        "text": " Well, also, it looks a lot more than it actually is."
+    },
+    {
+        "start": 908.0799999999999,
+        "end": 911.68,
+        "text": " You know, when it's on a pad or when you take out a tampon or in the toilet for example,"
+    },
+    {
+        "start": 911.68,
+        "end": 913.16,
+        "text": " it looks a lot."
+    },
+    {
+        "start": 913.16,
+        "end": 914.84,
+        "text": " That's really, it's actually a very small amount, isn't it?"
+    },
+    {
+        "start": 914.84,
+        "end": 916.0,
+        "text": " It's a very small amount."
+    },
+    {
+        "start": 916.0,
+        "end": 917.3199999999999,
+        "text": " But it looks scary, totally."
+    },
+    {
+        "start": 917.32,
+        "end": 918.32,
+        "text": " Yeah, definitely."
+    },
+    {
+        "start": 918.32,
+        "end": 920.6800000000001,
+        "text": " And I remember like, so I've emailed my mum."
+    },
+    {
+        "start": 920.6800000000001,
+        "end": 922.5600000000001,
+        "text": " I used to email her every day when I got home from school."
+    },
+    {
+        "start": 922.5600000000001,
+        "end": 925.5200000000001,
+        "text": " So I know I was home and I sent her an email."
+    },
+    {
+        "start": 925.5200000000001,
+        "end": 931.24,
+        "text": " But in the subject line, it said, private and confidential email in like capital letters"
+    },
+    {
+        "start": 931.24,
+        "end": 935.48,
+        "text": " because I was so worried that like just another one of her colleagues would see it, you"
+    },
+    {
+        "start": 935.48,
+        "end": 939.12,
+        "text": " know, like, what would it matter if Tracy was next to her, saw it because she said, she's"
+    },
+    {
+        "start": 939.12,
+        "end": 940.6800000000001,
+        "text": " had a period for 40 years."
+    },
+    {
+        "start": 940.6800000000001,
+        "end": 945.2800000000001,
+        "text": " So, you remember we got the email and it said private, and she was like, look, look everyone,"
+    },
+    {
+        "start": 945.2800000000001,
+        "end": 946.2800000000001,
+        "text": " what's this?"
+    },
+    {
+        "start": 946.28,
+        "end": 949.04,
+        "text": " And she still decided to say they all gathered around and then she opened it and she's"
+    },
+    {
+        "start": 949.04,
+        "end": 952.3199999999999,
+        "text": " like, oh, I did the opposite, didn't it?"
+    },
+    {
+        "start": 952.3199999999999,
+        "end": 953.3199999999999,
+        "text": " It probably did."
+    },
+    {
+        "start": 953.3199999999999,
+        "end": 954.3199999999999,
+        "text": " It's a track to detention."
+    },
+    {
+        "start": 954.3199999999999,
+        "end": 955.72,
+        "text": " So modified about it."
+    },
+    {
+        "start": 955.72,
+        "end": 957.68,
+        "text": " And yeah, it's just like the most normal thing in the world."
+    },
+    {
+        "start": 957.68,
+        "end": 960.3199999999999,
+        "text": " It's funny how you make a massive deal about these things, which brings me on to the"
+    },
+    {
+        "start": 960.3199999999999,
+        "end": 961.3199999999999,
+        "text": " next one."
+    },
+    {
+        "start": 961.3199999999999,
+        "end": 965.22,
+        "text": " The first time I had a section experience or had sex, again, something that you make a"
+    },
+    {
+        "start": 965.22,
+        "end": 969.8,
+        "text": " massive, massive, massive deal about, I think and spend years of your life worrying about"
+    },
+    {
+        "start": 969.8,
+        "end": 970.8,
+        "text": " like will it hurt?"
+    },
+    {
+        "start": 970.8,
+        "end": 971.8,
+        "text": " Yeah."
+    },
+    {
+        "start": 971.8,
+        "end": 972.8,
+        "text": " What will happen?"
+    },
+    {
+        "start": 972.8,
+        "end": 973.8,
+        "text": " What will people think of me?"
+    },
+    {
+        "start": 973.8,
+        "end": 974.8,
+        "text": " Am I doing it too late?"
+    },
+    {
+        "start": 974.8,
+        "end": 975.8,
+        "text": " I'm doing it too early."
+    },
+    {
+        "start": 975.8,
+        "end": 977.4,
+        "text": " What's everyone else doing?"
+    },
+    {
+        "start": 977.4,
+        "end": 981.24,
+        "text": " And then like my first time having sex just wasn't particularly traumatic whatsoever."
+    },
+    {
+        "start": 981.24,
+        "end": 984.64,
+        "text": " And it's just a bit like, oh right, I'm not a different person now."
+    },
+    {
+        "start": 984.64,
+        "end": 988.1999999999999,
+        "text": " No, it's a weird, I think it's because there's such a big build up, isn't there?"
+    },
+    {
+        "start": 988.1999999999999,
+        "end": 991.12,
+        "text": " When people are talking about it for years and years, and when you're waiting for something"
+    },
+    {
+        "start": 991.12,
+        "end": 995.12,
+        "text": " to happen or you think you should be doing something, and there's this huge time in your"
+    },
+    {
+        "start": 995.12,
+        "end": 999.0799999999999,
+        "text": " head just to build it up with all these kind of worries and judgments and expectations,"
+    },
+    {
+        "start": 999.0799999999999,
+        "end": 1000.92,
+        "text": " I'm going to happen to you're like, oh, okay."
+    },
+    {
+        "start": 1000.92,
+        "end": 1001.92,
+        "text": " Is that it?"
+    },
+    {
+        "start": 1001.92,
+        "end": 1002.92,
+        "text": " Is that it?"
+    },
+    {
+        "start": 1002.92,
+        "end": 1003.92,
+        "text": " Oh, is that?"
+    },
+    {
+        "start": 1003.92,
+        "end": 1004.92,
+        "text": " Oh, what's everyone been talking about?"
+    },
+    {
+        "start": 1004.92,
+        "end": 1005.92,
+        "text": " Yeah, what's the fuss about?"
+    },
+    {
+        "start": 1005.92,
+        "end": 1006.92,
+        "text": " Yeah, I know."
+    },
+    {
+        "start": 1006.92,
+        "end": 1007.92,
+        "text": " I know."
+    },
+    {
+        "start": 1007.92,
+        "end": 1009.88,
+        "text": " But then having said that, it is scary, isn't it?"
+    },
+    {
+        "start": 1009.88,
+        "end": 1012.92,
+        "text": " Because you're putting yourself out there, it's the whole new thing."
+    },
+    {
+        "start": 1012.92,
+        "end": 1017.0799999999999,
+        "text": " You've got to think about contraception, you've got to think about keeping yourself safe"
+    },
+    {
+        "start": 1017.0799999999999,
+        "end": 1018.9599999999999,
+        "text": " in terms of STIs."
+    },
+    {
+        "start": 1018.9599999999999,
+        "end": 1023.16,
+        "text": " And people, there are lots of myths that fire around at school, from all these magazines"
+    },
+    {
+        "start": 1023.16,
+        "end": 1026.6399999999999,
+        "text": " that people sit there and read about what's going to happen."
+    },
+    {
+        "start": 1026.6399999999999,
+        "end": 1031.76,
+        "text": " And you know, for example, bleeding after you have sex because your hymen breaks."
+    },
+    {
+        "start": 1031.76,
+        "end": 1035.8799999999999,
+        "text": " I used to be massive stories in my school, oh, there's going to be so much blood,"
+    },
+    {
+        "start": 1035.8799999999999,
+        "end": 1037.28,
+        "text": " and you're going to bleed a lot."
+    },
+    {
+        "start": 1037.28,
+        "end": 1039.64,
+        "text": " And you know, people got really scared about that."
+    },
+    {
+        "start": 1039.64,
+        "end": 1041.0,
+        "text": " Like, what's actually going to happen?"
+    },
+    {
+        "start": 1041.0,
+        "end": 1042.0,
+        "text": " Yeah, they did."
+    },
+    {
+        "start": 1042.0,
+        "end": 1043.0,
+        "text": " Definitely."
+    },
+    {
+        "start": 1043.0,
+        "end": 1046.0,
+        "text": " And say out an old girl school, the two biggest fears from the girls were will it hurt?"
+    },
+    {
+        "start": 1046.0,
+        "end": 1047.0,
+        "text": " And will I bleed loads?"
+    },
+    {
+        "start": 1047.0,
+        "end": 1048.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1048.0,
+        "end": 1049.4,
+        "text": " And will that therefore be quite embarrassing?"
+    },
+    {
+        "start": 1049.4,
+        "end": 1050.4,
+        "text": " Yeah, totally."
+    },
+    {
+        "start": 1050.4,
+        "end": 1052.36,
+        "text": " And then I didn't really experience either of those things."
+    },
+    {
+        "start": 1052.36,
+        "end": 1056.28,
+        "text": " And I think I was quite relaxed, and that's the key to it is be, if you're going to have"
+    },
+    {
+        "start": 1056.28,
+        "end": 1059.8,
+        "text": " sex for the first time, try and make a comfortable situation with someone that you are comfortable"
+    },
+    {
+        "start": 1059.8,
+        "end": 1064.12,
+        "text": " with, in relationship with preferably someone that doesn't make you feel on edge, because"
+    },
+    {
+        "start": 1064.12,
+        "end": 1065.8799999999999,
+        "text": " I think that's the painful thing, isn't it?"
+    },
+    {
+        "start": 1065.8799999999999,
+        "end": 1069.32,
+        "text": " If you're on edge, if you're an edge, sex would hurt no matter whether you've done it"
+    },
+    {
+        "start": 1069.32,
+        "end": 1070.84,
+        "text": " a million times or never."
+    },
+    {
+        "start": 1070.84,
+        "end": 1073.3999999999999,
+        "text": " Totally, because your body actually contracts."
+    },
+    {
+        "start": 1073.3999999999999,
+        "end": 1077.24,
+        "text": " You know, you're the smooth muscle contracts and say you get this thing called vaginismus"
+    },
+    {
+        "start": 1077.24,
+        "end": 1081.72,
+        "text": " where you get pain when you have sex and everything is worse when you're tense."
+    },
+    {
+        "start": 1081.72,
+        "end": 1085.96,
+        "text": " And I'm assuming that's a rule for life, by the way, everybody out there."
+    },
+    {
+        "start": 1085.96,
+        "end": 1086.96,
+        "text": " Everything is worse when you're tense."
+    },
+    {
+        "start": 1086.96,
+        "end": 1087.96,
+        "text": " Yeah, basically."
+    },
+    {
+        "start": 1087.96,
+        "end": 1089.76,
+        "text": " And I'm assuming rather like, yeah."
+    },
+    {
+        "start": 1089.8,
+        "end": 1094.6,
+        "text": " That would be the case if either you were a virgin or you'd had sex for years, and"
+    },
+    {
+        "start": 1094.6,
+        "end": 1096.24,
+        "text": " have babies come out there and all sorts of things."
+    },
+    {
+        "start": 1096.24,
+        "end": 1098.04,
+        "text": " Totally, and still be painful."
+    },
+    {
+        "start": 1098.04,
+        "end": 1098.56,
+        "text": " Absolutely."
+    },
+    {
+        "start": 1098.56,
+        "end": 1101.92,
+        "text": " And there's such a strong link between your brain and sex."
+    },
+    {
+        "start": 1101.92,
+        "end": 1104.28,
+        "text": " You know, a lot of it is both ways."
+    },
+    {
+        "start": 1104.28,
+        "end": 1108.72,
+        "text": " So how much you enjoy sex is kind of, you know, related to what you're thinking and what"
+    },
+    {
+        "start": 1108.72,
+        "end": 1110.76,
+        "text": " you're feeling and vice versa."
+    },
+    {
+        "start": 1110.76,
+        "end": 1115.08,
+        "text": " How much do you kind of then think about you, how much you enjoyed it after is very much"
+    },
+    {
+        "start": 1115.08,
+        "end": 1116.08,
+        "text": " related to that."
+    },
+    {
+        "start": 1116.08,
+        "end": 1118.32,
+        "text": " So you've got to feel comfortable with that person."
+    },
+    {
+        "start": 1118.48,
+        "end": 1123.0,
+        "text": " And also dealing with the potential fallout, oh, she has sex for someone for the first"
+    },
+    {
+        "start": 1123.0,
+        "end": 1126.6799999999998,
+        "text": " time, you know, you've got to really sort of think about, well, what's going to happen?"
+    },
+    {
+        "start": 1126.6799999999998,
+        "end": 1127.6799999999998,
+        "text": " Can I trust this person?"
+    },
+    {
+        "start": 1127.6799999999998,
+        "end": 1130.04,
+        "text": " What are they going to potentially say to her friends?"
+    },
+    {
+        "start": 1130.04,
+        "end": 1133.28,
+        "text": " You know, and really make sure you're choosing the right person."
+    },
+    {
+        "start": 1133.28,
+        "end": 1135.9199999999998,
+        "text": " And you're not just doing it because everyone in class is like, oh, have you done it yet?"
+    },
+    {
+        "start": 1135.9199999999998,
+        "end": 1136.9199999999998,
+        "text": " Have you done it yet?"
+    },
+    {
+        "start": 1136.9199999999998,
+        "end": 1137.9199999999998,
+        "text": " You're like, no, it happened."
+    },
+    {
+        "start": 1137.9199999999998,
+        "end": 1139.3999999999999,
+        "text": " Because I feel like, leave me alone."
+    },
+    {
+        "start": 1139.3999999999999,
+        "end": 1143.4399999999998,
+        "text": " In that situation, what happens is there's a lot of like clinical sex goes on in your"
+    },
+    {
+        "start": 1143.44,
+        "end": 1148.2,
+        "text": " young years, I think, that's like, you know, just put it in, yeah, and get it over with."
+    },
+    {
+        "start": 1148.2,
+        "end": 1152.28,
+        "text": " The mechanism, yeah, the mechanism is that isn't going to feel nice for anybody."
+    },
+    {
+        "start": 1152.28,
+        "end": 1156.52,
+        "text": " No, no, no, no, I feel like a lot of the sexy my young years was like, not even like"
+    },
+    {
+        "start": 1156.52,
+        "end": 1159.76,
+        "text": " a lost snogging or not like a passionate sort of enjoyable situation."
+    },
+    {
+        "start": 1159.76,
+        "end": 1161.56,
+        "text": " It's just very, this goes in here."
+    },
+    {
+        "start": 1161.56,
+        "end": 1164.28,
+        "text": " It's a bit like a bargey lesson, isn't it?"
+    },
+    {
+        "start": 1164.28,
+        "end": 1165.28,
+        "text": " Or a sex head lesson."
+    },
+    {
+        "start": 1165.28,
+        "end": 1167.28,
+        "text": " It's like, right, here's a list."
+    },
+    {
+        "start": 1167.28,
+        "end": 1168.28,
+        "text": " We're done that, but it tick."
+    },
+    {
+        "start": 1168.28,
+        "end": 1169.28,
+        "text": " Next bit, we've done that."
+    },
+    {
+        "start": 1169.28,
+        "end": 1170.28,
+        "text": " I could have done that."
+    },
+    {
+        "start": 1170.28,
+        "end": 1175.2,
+        "text": " And you're so concerned with the actual mechanism of doing it and not kind of getting it wrong"
+    },
+    {
+        "start": 1175.2,
+        "end": 1180.36,
+        "text": " in inverted commas, that you actually forget to enjoy it and forget to kind of actually"
+    },
+    {
+        "start": 1180.36,
+        "end": 1182.92,
+        "text": " be there having the experience, if that makes sense."
+    },
+    {
+        "start": 1182.92,
+        "end": 1187.76,
+        "text": " It is like a tick list in another way as well, because I think that when you're young and"
+    },
+    {
+        "start": 1187.76,
+        "end": 1191.24,
+        "text": " you first start having sex or when people are at least saying that they have when they"
+    },
+    {
+        "start": 1191.24,
+        "end": 1192.24,
+        "text": " might not have done."
+    },
+    {
+        "start": 1192.24,
+        "end": 1194.04,
+        "text": " Which happens a lot, by the way, definitely."
+    },
+    {
+        "start": 1194.04,
+        "end": 1195.04,
+        "text": " Definitely."
+    },
+    {
+        "start": 1195.04,
+        "end": 1197.08,
+        "text": " There's like a tick list of like, who's done what as well?"
+    },
+    {
+        "start": 1197.08,
+        "end": 1199.08,
+        "text": " And it's like everyone's in competition."
+    },
+    {
+        "start": 1199.1599999999999,
+        "end": 1202.08,
+        "text": " Like I remember when I was in college and all the couples were almost in competition"
+    },
+    {
+        "start": 1202.08,
+        "end": 1204.08,
+        "text": " about like, oh, who's the dirtiest couple of?"
+    },
+    {
+        "start": 1204.08,
+        "end": 1205.08,
+        "text": " Have you guys done this?"
+    },
+    {
+        "start": 1205.08,
+        "end": 1206.08,
+        "text": " Have you done this?"
+    },
+    {
+        "start": 1206.08,
+        "end": 1207.08,
+        "text": " How often do you have sex?"
+    },
+    {
+        "start": 1207.08,
+        "end": 1208.08,
+        "text": " How many times do you have sex per hour?"
+    },
+    {
+        "start": 1208.08,
+        "end": 1209.08,
+        "text": " What?"
+    },
+    {
+        "start": 1209.08,
+        "end": 1210.08,
+        "text": " Exactly."
+    },
+    {
+        "start": 1210.08,
+        "end": 1212.6799999999998,
+        "text": " Yeah, there's like this real sort of competition stuff going on."
+    },
+    {
+        "start": 1212.6799999999998,
+        "end": 1216.08,
+        "text": " Whereas when you get older, you just don't do the stuff that you don't enjoy."
+    },
+    {
+        "start": 1216.08,
+        "end": 1217.08,
+        "text": " That's something you feel nice."
+    },
+    {
+        "start": 1217.08,
+        "end": 1219.32,
+        "text": " But I think when you're younger, like, I suppose you've got a trice to fight, you've got"
+    },
+    {
+        "start": 1219.32,
+        "end": 1221.56,
+        "text": " a fan of what you do like, but I think when you're younger, there's a lot of doing stuff"
+    },
+    {
+        "start": 1221.56,
+        "end": 1222.56,
+        "text": " you don't want to do."
+    },
+    {
+        "start": 1222.56,
+        "end": 1225.3999999999999,
+        "text": " In many areas of life, sex being one of them."
+    },
+    {
+        "start": 1225.3999999999999,
+        "end": 1227.76,
+        "text": " And then when you actually just figure out what's nice, you've got the confidence to be"
+    },
+    {
+        "start": 1227.76,
+        "end": 1228.76,
+        "text": " like, and actually I don't want to do that."
+    },
+    {
+        "start": 1228.76,
+        "end": 1229.76,
+        "text": " Yeah, it takes you."
+    },
+    {
+        "start": 1229.76,
+        "end": 1232.56,
+        "text": " But also sex with different people is also very different."
+    },
+    {
+        "start": 1232.56,
+        "end": 1235.92,
+        "text": " Even if you're the same person and you like certain things, for example, you're going"
+    },
+    {
+        "start": 1235.92,
+        "end": 1239.56,
+        "text": " to have a different experience with every single person who's different that you have sex"
+    },
+    {
+        "start": 1239.56,
+        "end": 1240.56,
+        "text": " with."
+    },
+    {
+        "start": 1240.56,
+        "end": 1242.76,
+        "text": " And so it's kind of like it's like a dynamic thing, isn't it?"
+    },
+    {
+        "start": 1242.76,
+        "end": 1243.76,
+        "text": " Yeah."
+    },
+    {
+        "start": 1243.76,
+        "end": 1248.32,
+        "text": " Kind of working out what works for you as a couple, rather than just you as a person."
+    },
+    {
+        "start": 1248.32,
+        "end": 1249.32,
+        "text": " It's always going to be different."
+    },
+    {
+        "start": 1249.32,
+        "end": 1250.32,
+        "text": " Yeah, certainly."
+    },
+    {
+        "start": 1250.32,
+        "end": 1254.36,
+        "text": " I do remember the first time I had sex afterwards thinking that my mum and dad would be able"
+    },
+    {
+        "start": 1254.36,
+        "end": 1256.24,
+        "text": " to know just from the look on my face."
+    },
+    {
+        "start": 1256.24,
+        "end": 1259.04,
+        "text": " I think it has the same thing in terms of periods as well."
+    },
+    {
+        "start": 1259.04,
+        "end": 1260.04,
+        "text": " Yeah."
+    },
+    {
+        "start": 1260.04,
+        "end": 1262.56,
+        "text": " So you sort of think that everyone's going to know, and they're going to notice just because"
+    },
+    {
+        "start": 1262.56,
+        "end": 1264.36,
+        "text": " you're smiling in a certain way."
+    },
+    {
+        "start": 1264.36,
+        "end": 1267.96,
+        "text": " And they're going to walk down the street and it's going to be like, look at her."
+    },
+    {
+        "start": 1267.96,
+        "end": 1268.96,
+        "text": " Look."
+    },
+    {
+        "start": 1268.96,
+        "end": 1269.96,
+        "text": " She's obviously had sex."
+    },
+    {
+        "start": 1269.96,
+        "end": 1270.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 1270.96,
+        "end": 1274.8,
+        "text": " I thought that it would be in the way I walk or like in my face or in my behaviour."
+    },
+    {
+        "start": 1274.8,
+        "end": 1278.16,
+        "text": " They'd just be able to smell it on me like I just thought somebody would know."
+    },
+    {
+        "start": 1278.16,
+        "end": 1282.64,
+        "text": " But I think it's because it's such a big thing is that people make it into such a, which"
+    },
+    {
+        "start": 1282.64,
+        "end": 1288.76,
+        "text": " obviously it is, but it's kind of like you expect something to be different, some kind"
+    },
+    {
+        "start": 1288.76,
+        "end": 1291.76,
+        "text": " of sign or something to happen."
+    },
+    {
+        "start": 1291.76,
+        "end": 1298.5200000000002,
+        "text": " And actually, it's okay, it's something that's private to you and you can just be with"
+    },
+    {
+        "start": 1298.5200000000002,
+        "end": 1299.5200000000002,
+        "text": " it yourself."
+    },
+    {
+        "start": 1299.5200000000002,
+        "end": 1312.44,
+        "text": " Two hilarious things went around my school when I was in secondary school."
+    },
+    {
+        "start": 1312.44,
+        "end": 1318.1200000000001,
+        "text": " And one was that if your knees didn't touch while you were walking, then you'd have sex."
+    },
+    {
+        "start": 1318.1200000000001,
+        "end": 1319.1200000000001,
+        "text": " Okay."
+    },
+    {
+        "start": 1319.1200000000001,
+        "end": 1321.3600000000001,
+        "text": " You know that's a serious thing and we're all on the set."
+    },
+    {
+        "start": 1321.3600000000001,
+        "end": 1325.3600000000001,
+        "text": " That means that a lot of people say that a lot of people have sex."
+    },
+    {
+        "start": 1325.3600000000001,
+        "end": 1327.04,
+        "text": " And a lot of people have an sex."
+    },
+    {
+        "start": 1327.04,
+        "end": 1328.04,
+        "text": " That definitely means I have sex."
+    },
+    {
+        "start": 1328.04,
+        "end": 1330.8,
+        "text": " So I need to look at it as a joke, sir, about the knees."
+    },
+    {
+        "start": 1330.8,
+        "end": 1334.68,
+        "text": " Well, I think that's actually probably something to do with your hip ratio."
+    },
+    {
+        "start": 1334.68,
+        "end": 1340.56,
+        "text": " So if your knees are not touching when you walk, yeah, because that's not, you can't"
+    },
+    {
+        "start": 1340.56,
+        "end": 1341.56,
+        "text": " walk."
+    },
+    {
+        "start": 1341.56,
+        "end": 1344.6399999999999,
+        "text": " And who was able to walk forward like that?"
+    },
+    {
+        "start": 1344.6399999999999,
+        "end": 1347.04,
+        "text": " It was to do with the spread of your legs, I think."
+    },
+    {
+        "start": 1347.04,
+        "end": 1349.6399999999999,
+        "text": " So like when you're walking, so I'm going to try it now."
+    },
+    {
+        "start": 1349.6399999999999,
+        "end": 1351.28,
+        "text": " Okay, Katie is actually doing this now."
+    },
+    {
+        "start": 1351.28,
+        "end": 1355.08,
+        "text": " I'm watching her and she, yeah, no, no, no, my knee's definitely, you look like you need"
+    },
+    {
+        "start": 1355.08,
+        "end": 1356.08,
+        "text": " to lose."
+    },
+    {
+        "start": 1356.08,
+        "end": 1357.08,
+        "text": " I'm walking away."
+    },
+    {
+        "start": 1357.08,
+        "end": 1358.08,
+        "text": " I'm walking away."
+    },
+    {
+        "start": 1358.08,
+        "end": 1359.08,
+        "text": " I'm walking away."
+    },
+    {
+        "start": 1359.08,
+        "end": 1360.08,
+        "text": " But yeah, that was one of them."
+    },
+    {
+        "start": 1360.08,
+        "end": 1364.8799999999999,
+        "text": " And you know how some people have like a line on their lip in the middle of your lip?"
+    },
+    {
+        "start": 1364.8799999999999,
+        "end": 1367.12,
+        "text": " And the bottom lip on your bottom lip."
+    },
+    {
+        "start": 1367.12,
+        "end": 1371.4399999999998,
+        "text": " So I remember that that meant that you'd given a blowjob."
+    },
+    {
+        "start": 1371.4399999999998,
+        "end": 1375.6799999999998,
+        "text": " Okay, I need to go to school and educate people because if it's still happening, if these"
+    },
+    {
+        "start": 1375.6799999999998,
+        "end": 1377.6799999999998,
+        "text": " things still going around, we need to start them out."
+    },
+    {
+        "start": 1377.6799999999998,
+        "end": 1378.6799999999998,
+        "text": " I really hope so."
+    },
+    {
+        "start": 1378.6799999999998,
+        "end": 1382.7199999999998,
+        "text": " But it was just a way of us basically being able to feel even more self conscious because"
+    },
+    {
+        "start": 1382.7199999999998,
+        "end": 1386.56,
+        "text": " then you need everybody was looking at your legs or your lips and trying to figure out"
+    },
+    {
+        "start": 1386.56,
+        "end": 1387.56,
+        "text": " your lines on their lips."
+    },
+    {
+        "start": 1387.56,
+        "end": 1390.52,
+        "text": " Just to cool like, yeah, yeah, yeah, yeah, I've given loads of my jobs."
+    },
+    {
+        "start": 1390.52,
+        "end": 1391.52,
+        "text": " Look at the lines."
+    },
+    {
+        "start": 1391.52,
+        "end": 1395.04,
+        "text": " But I do remember there's always kind of the first person in your class to have sex or"
+    },
+    {
+        "start": 1395.04,
+        "end": 1398.8799999999999,
+        "text": " to get their period is always kind of talked about or they might be like, oh, yeah, I've"
+    },
+    {
+        "start": 1398.8799999999999,
+        "end": 1399.8799999999999,
+        "text": " done that."
+    },
+    {
+        "start": 1399.8799999999999,
+        "end": 1401.52,
+        "text": " And they become this kind of legend in your class."
+    },
+    {
+        "start": 1401.52,
+        "end": 1406.76,
+        "text": " I remember the girl in my class who had sex the first time got her period for the first"
+    },
+    {
+        "start": 1406.76,
+        "end": 1408.08,
+        "text": " out of everybody."
+    },
+    {
+        "start": 1408.08,
+        "end": 1409.76,
+        "text": " And she is still a legend."
+    },
+    {
+        "start": 1409.76,
+        "end": 1413.08,
+        "text": " Like when we talk about her, you know, or reference, even though we're not in touch with"
+    },
+    {
+        "start": 1413.08,
+        "end": 1416.0,
+        "text": " her, I mean, my friends from school, like do you remember saying so?"
+    },
+    {
+        "start": 1416.0,
+        "end": 1417.0,
+        "text": " Oh, yeah, yeah."
+    },
+    {
+        "start": 1417.0,
+        "end": 1419.8,
+        "text": " Like, like, she's like a legend, you know, I don't know why."
+    },
+    {
+        "start": 1419.8,
+        "end": 1420.8,
+        "text": " I'm funny."
+    },
+    {
+        "start": 1420.8,
+        "end": 1423.8799999999999,
+        "text": " But it just becomes that person who's the first to do these things, which is ridiculous"
+    },
+    {
+        "start": 1423.88,
+        "end": 1425.64,
+        "text": " and you think about it really."
+    },
+    {
+        "start": 1425.64,
+        "end": 1429.0800000000002,
+        "text": " Also people that you go to school with do become like characters in your mind for the rest"
+    },
+    {
+        "start": 1429.0800000000002,
+        "end": 1430.0800000000002,
+        "text": " of time."
+    },
+    {
+        "start": 1430.0800000000002,
+        "end": 1431.8400000000001,
+        "text": " And you always remember their surname as well."
+    },
+    {
+        "start": 1431.8400000000001,
+        "end": 1432.8400000000001,
+        "text": " You do."
+    },
+    {
+        "start": 1432.8400000000001,
+        "end": 1433.8400000000001,
+        "text": " You reference both their names."
+    },
+    {
+        "start": 1433.8400000000001,
+        "end": 1435.3200000000002,
+        "text": " So it just doesn't ever stop."
+    },
+    {
+        "start": 1435.3200000000002,
+        "end": 1436.72,
+        "text": " Like it's always both their names."
+    },
+    {
+        "start": 1436.72,
+        "end": 1437.72,
+        "text": " You always do."
+    },
+    {
+        "start": 1437.72,
+        "end": 1440.48,
+        "text": " And when my school friends get together, we still want to gossip about what people from"
+    },
+    {
+        "start": 1440.48,
+        "end": 1441.48,
+        "text": " school are up to."
+    },
+    {
+        "start": 1441.48,
+        "end": 1442.48,
+        "text": " Of course."
+    },
+    {
+        "start": 1442.48,
+        "end": 1444.3200000000002,
+        "text": " And you can do that now with Facebook and stuff."
+    },
+    {
+        "start": 1444.3200000000002,
+        "end": 1448.3200000000002,
+        "text": " Like we know what people are up to when we get to like, it's still slightly like that."
+    },
+    {
+        "start": 1448.3200000000002,
+        "end": 1450.16,
+        "text": " Like it's still quite enjoyable."
+    },
+    {
+        "start": 1450.16,
+        "end": 1452.8000000000002,
+        "text": " I'm like, it's been like ten years or something."
+    },
+    {
+        "start": 1452.8,
+        "end": 1454.24,
+        "text": " We still quite enjoy talking about."
+    },
+    {
+        "start": 1454.24,
+        "end": 1455.24,
+        "text": " Why do we bother?"
+    },
+    {
+        "start": 1455.24,
+        "end": 1456.24,
+        "text": " Why?"
+    },
+    {
+        "start": 1456.24,
+        "end": 1459.8,
+        "text": " I think as in those years, it's you learn about what people are like from the people in"
+    },
+    {
+        "start": 1459.8,
+        "end": 1460.8,
+        "text": " your class."
+    },
+    {
+        "start": 1460.8,
+        "end": 1462.04,
+        "text": " And people have a big impact on you."
+    },
+    {
+        "start": 1462.04,
+        "end": 1466.84,
+        "text": " They like in terms of your self-esteem and confidence and mental health as well sometimes."
+    },
+    {
+        "start": 1466.84,
+        "end": 1467.84,
+        "text": " Yeah."
+    },
+    {
+        "start": 1467.84,
+        "end": 1471.48,
+        "text": " Some people, if you've had bullying in your class, for example, you've had very difficult"
+    },
+    {
+        "start": 1471.48,
+        "end": 1472.48,
+        "text": " character in your class."
+    },
+    {
+        "start": 1472.48,
+        "end": 1473.48,
+        "text": " Yeah."
+    },
+    {
+        "start": 1473.48,
+        "end": 1474.48,
+        "text": " Yeah."
+    },
+    {
+        "start": 1474.48,
+        "end": 1475.76,
+        "text": " You're growing up and it's quite a sensitive, vulnerable time."
+    },
+    {
+        "start": 1475.76,
+        "end": 1478.04,
+        "text": " So those people have a big impact."
+    },
+    {
+        "start": 1478.04,
+        "end": 1479.04,
+        "text": " They massively do."
+    },
+    {
+        "start": 1479.04,
+        "end": 1482.52,
+        "text": " The girl in my class, who was like the most popular girl, which thinking back, she was"
+    },
+    {
+        "start": 1482.52,
+        "end": 1484.6,
+        "text": " because she was a bit intimidating."
+    },
+    {
+        "start": 1484.6,
+        "end": 1487.8799999999999,
+        "text": " Like she would scare you, she would get into fights and stuff like that."
+    },
+    {
+        "start": 1487.8799999999999,
+        "end": 1491.76,
+        "text": " She was also quite attractive and she was the one whose parents let her die her hair."
+    },
+    {
+        "start": 1491.76,
+        "end": 1493.28,
+        "text": " She had like long, blonde straight hair."
+    },
+    {
+        "start": 1493.28,
+        "end": 1496.72,
+        "text": " It looked a bit like Christina Aguilera because it was that time like everybody wanted"
+    },
+    {
+        "start": 1496.72,
+        "end": 1498.32,
+        "text": " to look like her."
+    },
+    {
+        "start": 1498.32,
+        "end": 1499.32,
+        "text": " And she was the most popular."
+    },
+    {
+        "start": 1499.32,
+        "end": 1502.12,
+        "text": " Interestingly enough, I remember her not being one of the early ones to have sex."
+    },
+    {
+        "start": 1502.12,
+        "end": 1504.56,
+        "text": " And I remember that they can be feel loads better because I was like, oh, she's the"
+    },
+    {
+        "start": 1504.56,
+        "end": 1506.08,
+        "text": " most popular girl and she's not had sex yet."
+    },
+    {
+        "start": 1506.08,
+        "end": 1507.84,
+        "text": " She might open about it."
+    },
+    {
+        "start": 1507.84,
+        "end": 1510.72,
+        "text": " But I feel like she had a really big impact on one of my friends because they were both"
+    },
+    {
+        "start": 1510.72,
+        "end": 1511.72,
+        "text": " singers."
+    },
+    {
+        "start": 1511.72,
+        "end": 1513.8,
+        "text": " They both wanted to be singers when they grew up."
+    },
+    {
+        "start": 1513.8,
+        "end": 1517.28,
+        "text": " And like honestly, to this day, I think she's, she like resents her a bit like we still"
+    },
+    {
+        "start": 1517.28,
+        "end": 1518.28,
+        "text": " talk about her."
+    },
+    {
+        "start": 1518.28,
+        "end": 1520.48,
+        "text": " And I feel like those people do have an impact on you."
+    },
+    {
+        "start": 1520.48,
+        "end": 1523.88,
+        "text": " And I remember also her one day going round everyone in the class because this was the"
+    },
+    {
+        "start": 1523.88,
+        "end": 1527.64,
+        "text": " type of intimidating thing she did, pointing out everyone and going through them and being"
+    },
+    {
+        "start": 1527.64,
+        "end": 1529.76,
+        "text": " like, oh, Sarah, yeah, she's definitely had sex."
+    },
+    {
+        "start": 1529.76,
+        "end": 1532.04,
+        "text": " Oh, when Tina, no, she's a virgin."
+    },
+    {
+        "start": 1532.04,
+        "end": 1533.3600000000001,
+        "text": " Definitely look at the state of it."
+    },
+    {
+        "start": 1533.3600000000001,
+        "end": 1534.3600000000001,
+        "text": " I go kind of round everybody."
+    },
+    {
+        "start": 1534.3600000000001,
+        "end": 1537.04,
+        "text": " And we all start just sat there and it like, no."
+    },
+    {
+        "start": 1537.04,
+        "end": 1539.52,
+        "text": " I remember she got to me and she was like, you know what?"
+    },
+    {
+        "start": 1539.52,
+        "end": 1540.52,
+        "text": " I'm not sure about Katie."
+    },
+    {
+        "start": 1540.52,
+        "end": 1541.52,
+        "text": " She's a bit of a dark horse."
+    },
+    {
+        "start": 1541.52,
+        "end": 1542.52,
+        "text": " And I remember I was so proud."
+    },
+    {
+        "start": 1542.52,
+        "end": 1547.12,
+        "text": " Did you get out your lip line around and put a line on your lips and like put your knees"
+    },
+    {
+        "start": 1547.12,
+        "end": 1550.92,
+        "text": " together and be like, I was just so happy that I'd got away with either being told I was"
+    },
+    {
+        "start": 1550.92,
+        "end": 1553.44,
+        "text": " too ugly to have sex or being told I was a bit of a slag."
+    },
+    {
+        "start": 1553.44,
+        "end": 1554.44,
+        "text": " No, no."
+    },
+    {
+        "start": 1554.44,
+        "end": 1557.24,
+        "text": " I was like, yes, I'm neither a slag or a saddle virgin."
+    },
+    {
+        "start": 1557.24,
+        "end": 1562.24,
+        "text": " It is for these hierarchies though, like it's cool or in any group, you know, in any group."
+    },
+    {
+        "start": 1562.24,
+        "end": 1565.72,
+        "text": " There's a tendency isn't there for all of us to build a hierarchy about who's most"
+    },
+    {
+        "start": 1565.72,
+        "end": 1570.48,
+        "text": " popular, who's not popular and then judge ourselves on that, which can have a big impact"
+    },
+    {
+        "start": 1570.48,
+        "end": 1571.48,
+        "text": " as well, you know."
+    },
+    {
+        "start": 1571.48,
+        "end": 1574.2,
+        "text": " You don't forget those people who made you feel like that at school."
+    },
+    {
+        "start": 1574.2,
+        "end": 1575.2,
+        "text": " You do not forget those people."
+    },
+    {
+        "start": 1575.2,
+        "end": 1579.48,
+        "text": " And what's really interesting is like the lives people are living now, like if only at that"
+    },
+    {
+        "start": 1579.48,
+        "end": 1584.04,
+        "text": " time you could fast forward 10 years and see what people are up to and see who's blossomed"
+    },
+    {
+        "start": 1584.04,
+        "end": 1587.24,
+        "text": " into somebody really attractive and who's got a really fulfilling, nice life and a great"
+    },
+    {
+        "start": 1587.24,
+        "end": 1588.24,
+        "text": " job."
+    },
+    {
+        "start": 1588.24,
+        "end": 1591.24,
+        "text": " If only you could see those things, you would have such a different perspective on who's"
+    },
+    {
+        "start": 1591.24,
+        "end": 1593.44,
+        "text": " to be friends with and how you feel about yourself."
+    },
+    {
+        "start": 1593.44,
+        "end": 1595.44,
+        "text": " You just go over a lot of stuff, wouldn't you?"
+    },
+    {
+        "start": 1595.44,
+        "end": 1598.04,
+        "text": " If you knew that, when you were a school, you just wouldn't care so much."
+    },
+    {
+        "start": 1598.04,
+        "end": 1599.04,
+        "text": " Oh, you'd be like, screw that."
+    },
+    {
+        "start": 1599.04,
+        "end": 1600.04,
+        "text": " I'm going to be all right."
+    },
+    {
+        "start": 1600.04,
+        "end": 1603.04,
+        "text": " And the class bully is going to be like, in prison so."
+    },
+    {
+        "start": 1603.04,
+        "end": 1604.04,
+        "text": " I hope you all are still."
+    },
+    {
+        "start": 1604.04,
+        "end": 1607.76,
+        "text": " Oh, guys, we're keeping us anonymous."
+    },
+    {
+        "start": 1607.76,
+        "end": 1608.76,
+        "text": " Like, you know, I'm just funny."
+    },
+    {
+        "start": 1608.76,
+        "end": 1611.52,
+        "text": " It's so hard to say, not to say the names of people in my class."
+    },
+    {
+        "start": 1611.52,
+        "end": 1612.52,
+        "text": " I think it's probably quite obvious."
+    },
+    {
+        "start": 1612.52,
+        "end": 1614.52,
+        "text": " Some of you have talks about the views."
+    },
+    {
+        "start": 1614.52,
+        "end": 1616.52,
+        "text": " Hopefully they won't be listening."
+    },
+    {
+        "start": 1616.52,
+        "end": 1621.88,
+        "text": " I remember like first date with my first boyfriend, going to the cinema, talking to first"
+    },
+    {
+        "start": 1621.88,
+        "end": 1622.88,
+        "text": " first date."
+    },
+    {
+        "start": 1622.88,
+        "end": 1625.92,
+        "text": " And we got into the cinema and we watched it."
+    },
+    {
+        "start": 1625.92,
+        "end": 1627.16,
+        "text": " It was like an 18."
+    },
+    {
+        "start": 1627.16,
+        "end": 1629.16,
+        "text": " Some just crap film that you wanted to watch."
+    },
+    {
+        "start": 1629.16,
+        "end": 1632.92,
+        "text": " Like, you know, cars racing around and naked women kind of film that just I'm not interested"
+    },
+    {
+        "start": 1632.92,
+        "end": 1633.92,
+        "text": " in."
+    },
+    {
+        "start": 1633.92,
+        "end": 1637.0,
+        "text": " But like, you are interested in when you're like 18."
+    },
+    {
+        "start": 1637.0,
+        "end": 1641.3200000000002,
+        "text": " So we're sat there and the opening scene was basically like a man giving a woman like"
+    },
+    {
+        "start": 1641.3200000000002,
+        "end": 1643.5600000000002,
+        "text": " oral sex, like really graphically."
+    },
+    {
+        "start": 1643.5600000000002,
+        "end": 1646.44,
+        "text": " And that's so awkward on a first date."
+    },
+    {
+        "start": 1646.44,
+        "end": 1648.8000000000002,
+        "text": " Did your speed of eating popcorn just really rapidly increased?"
+    },
+    {
+        "start": 1648.8000000000002,
+        "end": 1649.8000000000002,
+        "text": " Oh, God."
+    },
+    {
+        "start": 1649.8000000000002,
+        "end": 1651.8000000000002,
+        "text": " I remember it was just like, I was thinking of a little bit of it."
+    },
+    {
+        "start": 1651.8,
+        "end": 1657.1599999999999,
+        "text": " It's horrible because on a first date when you're feeling a little bit like, oh, do we touch"
+    },
+    {
+        "start": 1657.1599999999999,
+        "end": 1658.1599999999999,
+        "text": " each other?"
+    },
+    {
+        "start": 1658.1599999999999,
+        "end": 1659.1599999999999,
+        "text": " Do we hitchhike?"
+    },
+    {
+        "start": 1659.1599999999999,
+        "end": 1660.1599999999999,
+        "text": " Do we kiss at the end of the night?"
+    },
+    {
+        "start": 1660.1599999999999,
+        "end": 1661.1599999999999,
+        "text": " What's going on?"
+    },
+    {
+        "start": 1661.1599999999999,
+        "end": 1663.68,
+        "text": " For the first thing you watch, you get that to be a really graphic sex scene."
+    },
+    {
+        "start": 1663.68,
+        "end": 1665.68,
+        "text": " Like, it's just really weird and comfortable."
+    },
+    {
+        "start": 1665.68,
+        "end": 1667.68,
+        "text": " Did it seem to come for hours now?"
+    },
+    {
+        "start": 1667.68,
+        "end": 1668.68,
+        "text": " Oh, it was horrible."
+    },
+    {
+        "start": 1668.68,
+        "end": 1672.0,
+        "text": " I think I remember, I think he like kissed me to like distract the situation actually."
+    },
+    {
+        "start": 1672.0,
+        "end": 1673.0,
+        "text": " Oh."
+    },
+    {
+        "start": 1673.0,
+        "end": 1674.0,
+        "text": " I know."
+    },
+    {
+        "start": 1674.0,
+        "end": 1675.0,
+        "text": " Bit forward actually."
+    },
+    {
+        "start": 1675.0,
+        "end": 1676.0,
+        "text": " Bit forward."
+    },
+    {
+        "start": 1676.0,
+        "end": 1680.48,
+        "text": " And also, I remember we left the film halfway through because I was just like, I'm not"
+    },
+    {
+        "start": 1680.48,
+        "end": 1681.48,
+        "text": " liking this film."
+    },
+    {
+        "start": 1681.48,
+        "end": 1683.8,
+        "text": " And because it was first date and he was trying to impress me, he was like, all right, let's"
+    },
+    {
+        "start": 1683.8,
+        "end": 1684.8,
+        "text": " just go then, shall we?"
+    },
+    {
+        "start": 1684.8,
+        "end": 1686.8,
+        "text": " Let's just go somewhere else because we just obviously wanted to snorkele."
+    },
+    {
+        "start": 1686.8,
+        "end": 1689.32,
+        "text": " On first date, you kind of feel like you have to agree to the person."
+    },
+    {
+        "start": 1689.32,
+        "end": 1690.32,
+        "text": " Just like, oh, yes, rubbish."
+    },
+    {
+        "start": 1690.32,
+        "end": 1691.32,
+        "text": " Let's go."
+    },
+    {
+        "start": 1691.32,
+        "end": 1692.32,
+        "text": " What do you want to do?"
+    },
+    {
+        "start": 1692.32,
+        "end": 1693.32,
+        "text": " I don't know."
+    },
+    {
+        "start": 1693.32,
+        "end": 1694.32,
+        "text": " What do you want to do?"
+    },
+    {
+        "start": 1694.32,
+        "end": 1695.32,
+        "text": " I don't know."
+    },
+    {
+        "start": 1695.32,
+        "end": 1696.32,
+        "text": " It did not continue that way."
+    },
+    {
+        "start": 1696.32,
+        "end": 1699.32,
+        "text": " I did not continue to get my own way for the rest of the relationship."
+    },
+    {
+        "start": 1699.32,
+        "end": 1700.32,
+        "text": " I really, OK."
+    },
+    {
+        "start": 1700.32,
+        "end": 1703.76,
+        "text": " I'm sort of start out on a different level, don't they?"
+    },
+    {
+        "start": 1703.76,
+        "end": 1706.32,
+        "text": " I think you've like a year in I'd have said, can we leave this film?"
+    },
+    {
+        "start": 1706.32,
+        "end": 1708.32,
+        "text": " You'd be like, what, you're about to pay your late quickness?"
+    },
+    {
+        "start": 1708.6799999999998,
+        "end": 1709.6799999999998,
+        "text": " I'm a pro."
+    },
+    {
+        "start": 1709.6799999999998,
+        "end": 1710.6799999999998,
+        "text": " I just want to shake these things."
+    },
+    {
+        "start": 1710.6799999999998,
+        "end": 1712.08,
+        "text": " We're just sexy in all the way through."
+    },
+    {
+        "start": 1712.08,
+        "end": 1713.52,
+        "text": " All right, and I'm not going to kiss you."
+    },
+    {
+        "start": 1713.52,
+        "end": 1716.24,
+        "text": " You will watch one of these dreadful fast-in-a-furious films."
+    },
+    {
+        "start": 1716.24,
+        "end": 1717.48,
+        "text": " I've paid a tenor."
+    },
+    {
+        "start": 1717.48,
+        "end": 1719.9199999999998,
+        "text": " I've paid a tenor for two drinks and one popcorn."
+    },
+    {
+        "start": 1719.9199999999998,
+        "end": 1721.12,
+        "text": " Kat is unlucky."
+    },
+    {
+        "start": 1721.12,
+        "end": 1724.56,
+        "text": " On first date, you can get away with whatever you want basically."
+    },
+    {
+        "start": 1724.56,
+        "end": 1725.56,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 1725.56,
+        "end": 1727.76,
+        "text": " Well, it's been lovely doing this first podcast together."
+    },
+    {
+        "start": 1727.76,
+        "end": 1728.76,
+        "text": " It's really fun."
+    },
+    {
+        "start": 1728.76,
+        "end": 1729.76,
+        "text": " I forgot I was doing it."
+    },
+    {
+        "start": 1729.76,
+        "end": 1730.76,
+        "text": " It's just me and you have a chat."
+    },
+    {
+        "start": 1730.76,
+        "end": 1731.76,
+        "text": " It's been a nice chat, yeah."
+    },
+    {
+        "start": 1732.76,
+        "end": 1735.76,
+        "text": " So, do you get in touch with us because, as lovely as it is,"
+    },
+    {
+        "start": 1735.76,
+        "end": 1737.76,
+        "text": " just chatting to my good friend, Radley here,"
+    },
+    {
+        "start": 1737.76,
+        "end": 1738.76,
+        "text": " and just having a little..."
+    },
+    {
+        "start": 1738.76,
+        "end": 1739.76,
+        "text": " She's bored."
+    },
+    {
+        "start": 1739.76,
+        "end": 1740.76,
+        "text": " Oh, never bored."
+    },
+    {
+        "start": 1740.76,
+        "end": 1741.76,
+        "text": " I can never be bored of you."
+    },
+    {
+        "start": 1741.76,
+        "end": 1744.76,
+        "text": " But we want you to join in as well and be our mates"
+    },
+    {
+        "start": 1744.76,
+        "end": 1746.76,
+        "text": " and tell us some really embarrassing stories."
+    },
+    {
+        "start": 1746.76,
+        "end": 1748.76,
+        "text": " So maybe you've been listening to this today and you think,"
+    },
+    {
+        "start": 1748.76,
+        "end": 1750.76,
+        "text": " hey, I've got a great first time story"
+    },
+    {
+        "start": 1750.76,
+        "end": 1751.76,
+        "text": " about the first time I did something."
+    },
+    {
+        "start": 1751.76,
+        "end": 1753.76,
+        "text": " You can tell us about it if you like."
+    },
+    {
+        "start": 1753.76,
+        "end": 1756.76,
+        "text": " But next week, we're actually going to be focusing on sex myths,"
+    },
+    {
+        "start": 1756.76,
+        "end": 1757.76,
+        "text": " aren't we, Radley?"
+    },
+    {
+        "start": 1757.76,
+        "end": 1758.76,
+        "text": " Oh, yes."
+    },
+    {
+        "start": 1758.76,
+        "end": 1759.76,
+        "text": " Going to be a good one that one."
+    },
+    {
+        "start": 1759.76,
+        "end": 1764.76,
+        "text": " So many myths, so many things, so many stories about sex."
+    },
+    {
+        "start": 1764.76,
+        "end": 1765.76,
+        "text": " So many."
+    },
+    {
+        "start": 1765.76,
+        "end": 1766.76,
+        "text": " But it's just not true."
+    },
+    {
+        "start": 1766.76,
+        "end": 1767.76,
+        "text": " Yes, definitely."
+    },
+    {
+        "start": 1767.76,
+        "end": 1770.76,
+        "text": " And I think you always, I like to think that I don't fall for sex myths,"
+    },
+    {
+        "start": 1770.76,
+        "end": 1772.76,
+        "text": " but then, sort of, looking through some,"
+    },
+    {
+        "start": 1772.76,
+        "end": 1773.76,
+        "text": " I kind of do."
+    },
+    {
+        "start": 1773.76,
+        "end": 1775.76,
+        "text": " Some of them I absolutely a little bit unsure about."
+    },
+    {
+        "start": 1775.76,
+        "end": 1776.76,
+        "text": " So they're like, hmm, maybe."
+    },
+    {
+        "start": 1776.76,
+        "end": 1777.76,
+        "text": " I could be right."
+    },
+    {
+        "start": 1777.76,
+        "end": 1778.76,
+        "text": " I don't know."
+    },
+    {
+        "start": 1778.76,
+        "end": 1779.76,
+        "text": " Maybe it will."
+    },
+    {
+        "start": 1779.76,
+        "end": 1780.76,
+        "text": " Oh."
+    },
+    {
+        "start": 1780.76,
+        "end": 1783.76,
+        "text": " Anyway, we will be just discussing that next week."
+    },
+    {
+        "start": 1783.76,
+        "end": 1784.76,
+        "text": " So, do you get in touch with us?"
+    },
+    {
+        "start": 1784.76,
+        "end": 1786.76,
+        "text": " You can just tell us a story about absolutely anything you like."
+    },
+    {
+        "start": 1786.76,
+        "end": 1789.76,
+        "text": " It doesn't even have to be about sex myths or about first times."
+    },
+    {
+        "start": 1789.76,
+        "end": 1790.76,
+        "text": " We just want to hear from you."
+    },
+    {
+        "start": 1790.76,
+        "end": 1793.76,
+        "text": " So the email address is lifehacksatvbc.co.uk"
+    },
+    {
+        "start": 1793.76,
+        "end": 1796.76,
+        "text": " And don't forget, as well, very important that you subscribe to this podcast"
+    },
+    {
+        "start": 1796.76,
+        "end": 1798.76,
+        "text": " to keep us in game full employment."
+    },
+    {
+        "start": 1798.76,
+        "end": 1801.76,
+        "text": " So, see you next Tuesday."
+    },
+    {
+        "start": 1801.76,
+        "end": 1811.76,
+        "text": " So that was Lifehacks from Radio One."
+    },
+    {
+        "start": 1812.76,
+        "end": 1814.76,
+        "text": " Rhianne, you've got kids."
+    },
+    {
+        "start": 1814.76,
+        "end": 1816.76,
+        "text": " Do you think that they would like this?"
+    },
+    {
+        "start": 1816.76,
+        "end": 1818.76,
+        "text": " I think it's a bit too advanced for them."
+    },
+    {
+        "start": 1818.76,
+        "end": 1820.76,
+        "text": " I think, yeah, I mean, they'll get there."
+    },
+    {
+        "start": 1820.76,
+        "end": 1822.76,
+        "text": " But maybe not quite yet."
+    },
+    {
+        "start": 1822.76,
+        "end": 1823.76,
+        "text": " Got it."
+    },
+    {
+        "start": 1823.76,
+        "end": 1824.76,
+        "text": " I look forward to that moment."
+    },
+    {
+        "start": 1824.76,
+        "end": 1825.76,
+        "text": " Maybe I'll learn more from it."
+    },
+    {
+        "start": 1825.76,
+        "end": 1826.76,
+        "text": " Okay."
+    },
+    {
+        "start": 1826.76,
+        "end": 1829.76,
+        "text": " Well, if you liked Lifehacks, please search for it and subscribe."
+    },
+    {
+        "start": 1829.76,
+        "end": 1833.76,
+        "text": " If you liked this, go ahead and subscribe to us too."
+    },
+    {
+        "start": 1833.76,
+        "end": 1834.76,
+        "text": " And we will see you next time."
+    },
+    {
+        "start": 1841.76,
+        "end": 1842.76,
+        "text": " Bye."
+    }
+]

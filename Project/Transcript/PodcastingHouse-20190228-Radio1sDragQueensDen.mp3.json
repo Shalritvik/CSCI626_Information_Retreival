@@ -1,0 +1,7307 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 17.28,
+        "end": 22.32,
+        "text": " Hello, this is Podcasting House and if you've never joined us before, this is a service we provide for you."
+    },
+    {
+        "start": 22.32,
+        "end": 28.0,
+        "text": " We put in front of you a suggestion, a first step of a podcast you might like to subscribe to."
+    },
+    {
+        "start": 28.08,
+        "end": 35.28,
+        "text": " And then if you like it, you can go on over to BBC Sounds if you're in the UK and subscribe there and download it."
+    },
+    {
+        "start": 35.28,
+        "end": 39.2,
+        "text": " With me, I have E-Live. Hello. And I'm Rian. I didn't introduce myself."
+    },
+    {
+        "start": 39.2,
+        "end": 43.84,
+        "text": " Hi, Rian. How are you? I'm Rian. But E-Live has today's suggestion."
+    },
+    {
+        "start": 43.84,
+        "end": 47.44,
+        "text": " Yeah, today we're going to listen to Drag Queen's Den."
+    },
+    {
+        "start": 47.44,
+        "end": 54.96,
+        "text": " Now, just a little audio warning at the top, there's some strong light and quick, some kind of crazy things discussed from time to time."
+    },
+    {
+        "start": 54.96,
+        "end": 67.12,
+        "text": " This is, well, it's by and large, it's a bunch of Drag Queen's talking about the drag scene, both in the UK and the US, in this episode we hear from Michelle Disage."
+    },
+    {
+        "start": 67.12,
+        "end": 69.36,
+        "text": " I know her. She's on RuPaul."
+    },
+    {
+        "start": 69.36,
+        "end": 74.0,
+        "text": " Yeah, yeah. She's kind of a serious eminence in the world of drag."
+    },
+    {
+        "start": 74.0,
+        "end": 76.0,
+        "text": " Absolutely. Do you watch RuPaul?"
+    },
+    {
+        "start": 76.0,
+        "end": 80.0,
+        "text": " I don't watch it regularly, Rian. I'm going to be entirely honest with you."
+    },
+    {
+        "start": 80.0,
+        "end": 81.36,
+        "text": " I love it. Yeah."
+    },
+    {
+        "start": 81.36,
+        "end": 82.72,
+        "text": " Anyway, four or eight, too."
+    },
+    {
+        "start": 82.72,
+        "end": 89.6,
+        "text": " So this isn't, the name might make you think that this is some kind of thing like, like, Drag and's Den, where somebody's investing in something else."
+    },
+    {
+        "start": 89.6,
+        "end": 93.03999999999999,
+        "text": " It's not like that. It's just people in for a chat, really."
+    },
+    {
+        "start": 93.03999999999999,
+        "end": 97.92,
+        "text": " They have great rapport. I really like the host. So give it a listen. You might like it, too."
+    },
+    {
+        "start": 97.92,
+        "end": 100.16,
+        "text": " This is Ready One's Drag Queen's Den."
+    },
+    {
+        "start": 100.16,
+        "end": 103.92,
+        "text": " Right, Queens. Just to give you the warning, Drag Queen's can be a little bit rude."
+    },
+    {
+        "start": 103.92,
+        "end": 105.12,
+        "text": " And we often say words like,"
+    },
+    {
+        "start": 105.92,
+        "end": 110.72,
+        "text": " and f***ing, if these things offend you, please go and listen to another show on BBC Sounds."
+    },
+    {
+        "start": 110.72,
+        "end": 114.64,
+        "text": " Kui! I'm Clint Fussle, and this is Ready One's Drag Queen's Den."
+    },
+    {
+        "start": 114.64,
+        "end": 119.36,
+        "text": " You're weekly dose of fabulous queens across the scene from RuPaul to Liverpool."
+    },
+    {
+        "start": 121.68,
+        "end": 126.4,
+        "text": " Coming up, we've got an extra special show for you, an extended interview with a first lady of drag,"
+    },
+    {
+        "start": 126.4,
+        "end": 131.44,
+        "text": " Michelle Visage. She'll be spending all her drag race UK secrets in the studio,"
+    },
+    {
+        "start": 131.44,
+        "end": 135.76,
+        "text": " alongside Jackie Potato. Plus, we're speaking to Jade from Little Mix."
+    },
+    {
+        "start": 137.76,
+        "end": 142.48,
+        "text": " I am a gagging for my first guest. She is the first lady of drag."
+    },
+    {
+        "start": 143.2,
+        "end": 146.16,
+        "text": " We are joined by Michelle Visage. Hi!"
+    },
+    {
+        "start": 146.16,
+        "end": 149.44,
+        "text": " Oh my god. It's so good to have you here. Thank you. Happy to be here."
+    },
+    {
+        "start": 149.44,
+        "end": 153.44,
+        "text": " And representing in the UK corner, Stoke on Trent. She's everybody's favourite,"
+    },
+    {
+        "start": 153.44,
+        "end": 158.64,
+        "text": " Carbohydrate. It's Jackie Potato. Wow! Stoke on Trent, the home of Robbie Williams."
+    },
+    {
+        "start": 158.64,
+        "end": 161.83999999999997,
+        "text": " Yeah, yeah. And let me from Motorhead. Yeah, oh well."
+    },
+    {
+        "start": 161.83999999999997,
+        "end": 163.83999999999997,
+        "text": " And Jackie Potato. And Jackie Potato."
+    },
+    {
+        "start": 163.83999999999997,
+        "end": 165.76,
+        "text": " So what do you know about Stoke on Trent, Michelle?"
+    },
+    {
+        "start": 165.76,
+        "end": 168.55999999999997,
+        "text": " Um, I know that Robbie Williams is from there."
+    },
+    {
+        "start": 168.55999999999997,
+        "end": 170.07999999999998,
+        "text": " Yeah. I know it's in the north."
+    },
+    {
+        "start": 170.07999999999998,
+        "end": 172.23999999999998,
+        "text": " Great sense of humour. Great sense of humour."
+    },
+    {
+        "start": 172.23999999999998,
+        "end": 175.2,
+        "text": " Very self-deprecating in Stoke on Trent. How are you, Jackie?"
+    },
+    {
+        "start": 175.2,
+        "end": 177.35999999999999,
+        "text": " Yeah, I'm really good. Thanks, marvellous to be here."
+    },
+    {
+        "start": 177.35999999999999,
+        "end": 179.27999999999997,
+        "text": " Well, it's nice to have you here."
+    },
+    {
+        "start": 179.27999999999997,
+        "end": 181.83999999999997,
+        "text": " Well, look, what an exciting time for drag."
+    },
+    {
+        "start": 181.83999999999997,
+        "end": 182.88,
+        "text": " Yeah. Right?"
+    },
+    {
+        "start": 182.88,
+        "end": 184.88,
+        "text": " Tis. You are currently in the West End."
+    },
+    {
+        "start": 185.68,
+        "end": 188.07999999999998,
+        "text": " You are getting rave reviews. Oh, go on."
+    },
+    {
+        "start": 188.07999999999998,
+        "end": 190.07999999999998,
+        "text": " In everybody's talking about Jamie. Thank you."
+    },
+    {
+        "start": 190.07999999999998,
+        "end": 194.32,
+        "text": " And it's been so insane, actually, because, um, believe it or not,"
+    },
+    {
+        "start": 194.32,
+        "end": 198.64,
+        "text": " that show in its very early days was researched at St."
+    },
+    {
+        "start": 198.64,
+        "end": 200.56,
+        "text": " MacPink at the club night that I went. What's it?"
+    },
+    {
+        "start": 200.56,
+        "end": 202.8,
+        "text": " It was. They sat there, well. In the Chaffeele days?"
+    },
+    {
+        "start": 202.8,
+        "end": 206.0,
+        "text": " No, well, no. So it's before it was, they used to come to weast"
+    },
+    {
+        "start": 206.0,
+        "end": 208.48,
+        "text": " have a club night in a working men's club."
+    },
+    {
+        "start": 208.48,
+        "end": 210.96,
+        "text": " Yeah. So it was the most similar thing in the East End."
+    },
+    {
+        "start": 210.96,
+        "end": 212.32,
+        "text": " You need to go. It was amazing."
+    },
+    {
+        "start": 212.4,
+        "end": 216.23999999999998,
+        "text": " And Jackie was there. I was there. And it was messy, like really messy."
+    },
+    {
+        "start": 216.23999999999998,
+        "end": 217.44,
+        "text": " They usually are, aren't they?"
+    },
+    {
+        "start": 217.44,
+        "end": 218.64,
+        "text": " Totally messy. Yeah."
+    },
+    {
+        "start": 218.64,
+        "end": 220.48,
+        "text": " And they used to come and just watch us."
+    },
+    {
+        "start": 220.48,
+        "end": 224.23999999999998,
+        "text": " What was going on? So, Dan and Tom McRae."
+    },
+    {
+        "start": 224.23999999999998,
+        "end": 224.95999999999998,
+        "text": " So the writers."
+    },
+    {
+        "start": 224.95999999999998,
+        "end": 228.07999999999998,
+        "text": " Yeah, exactly. And just kind of get a sense of what was going on."
+    },
+    {
+        "start": 228.07999999999998,
+        "end": 230.16,
+        "text": " They probably then ignored everything and just started again."
+    },
+    {
+        "start": 230.16,
+        "end": 232.32,
+        "text": " Well, probably quite wise."
+    },
+    {
+        "start": 232.32,
+        "end": 234.64,
+        "text": " So tell me about the show. You are playing."
+    },
+    {
+        "start": 234.64,
+        "end": 236.07999999999998,
+        "text": " I am playing Ms. Hedge."
+    },
+    {
+        "start": 236.07999999999998,
+        "end": 237.92,
+        "text": " Who is from Chaffeele? She's from Chaffeele."
+    },
+    {
+        "start": 237.92,
+        "end": 239.12,
+        "text": " So you're doing a Sheffield accent?"
+    },
+    {
+        "start": 239.12,
+        "end": 240.24,
+        "text": " I am. Go on."
+    },
+    {
+        "start": 240.24,
+        "end": 241.6,
+        "text": " She's a career's teacher."
+    },
+    {
+        "start": 242.72,
+        "end": 244.56,
+        "text": " Because that's a really difficult accent to do."
+    },
+    {
+        "start": 244.56,
+        "end": 245.68,
+        "text": " It's not that it's difficult."
+    },
+    {
+        "start": 245.68,
+        "end": 248.64,
+        "text": " I would think that a Scouse accent or a Glaswegian accent"
+    },
+    {
+        "start": 248.64,
+        "end": 250.95999999999998,
+        "text": " or Cardiff would be much more difficult."
+    },
+    {
+        "start": 250.95999999999998,
+        "end": 252.07999999999998,
+        "text": " But you're from New Jersey, right?"
+    },
+    {
+        "start": 252.07999999999998,
+        "end": 253.35999999999999,
+        "text": " I'm from New Jersey."
+    },
+    {
+        "start": 253.35999999999999,
+        "end": 254.56,
+        "text": " New Jersey to Sheffield."
+    },
+    {
+        "start": 254.56,
+        "end": 255.84,
+        "text": " Very different."
+    },
+    {
+        "start": 255.84,
+        "end": 261.6,
+        "text": " But our director, Johnny Buturelle, is from Sheffield."
+    },
+    {
+        "start": 261.6,
+        "end": 263.12,
+        "text": " Is a lovely guy. I've met him."
+    },
+    {
+        "start": 263.12,
+        "end": 264.15999999999997,
+        "text": " Gorgeous."
+    },
+    {
+        "start": 264.15999999999997,
+        "end": 265.28,
+        "text": " Everything about him."
+    },
+    {
+        "start": 265.28,
+        "end": 267.03999999999996,
+        "text": " His aura, his face, his hair."
+    },
+    {
+        "start": 267.03999999999996,
+        "end": 268.24,
+        "text": " That's just perfect hair."
+    },
+    {
+        "start": 268.24,
+        "end": 268.8,
+        "text": " You really?"
+    },
+    {
+        "start": 268.8,
+        "end": 270.08,
+        "text": " Stick on. Put it on. Take it on."
+    },
+    {
+        "start": 270.08,
+        "end": 271.35999999999996,
+        "text": " He's just so lovely."
+    },
+    {
+        "start": 271.35999999999996,
+        "end": 272.4,
+        "text": " He's from Sheffield."
+    },
+    {
+        "start": 272.4,
+        "end": 274.96,
+        "text": " Michaela, my vocal coach, my dialect coach."
+    },
+    {
+        "start": 274.96,
+        "end": 276.96,
+        "text": " She's from Sheffield."
+    },
+    {
+        "start": 276.96,
+        "end": 278.56,
+        "text": " A lot of the cast is from Sheffield."
+    },
+    {
+        "start": 278.56,
+        "end": 281.52,
+        "text": " So it got to a point when I auditioned and I had to audition."
+    },
+    {
+        "start": 281.52,
+        "end": 283.91999999999996,
+        "text": " I don't want people to think that I was just handed this."
+    },
+    {
+        "start": 283.91999999999996,
+        "end": 285.12,
+        "text": " Come on. Did you really?"
+    },
+    {
+        "start": 285.12,
+        "end": 285.59999999999997,
+        "text": " Where?"
+    },
+    {
+        "start": 285.59999999999997,
+        "end": 286.64,
+        "text": " I auditioned. Go on the show."
+    },
+    {
+        "start": 286.64,
+        "end": 289.44,
+        "text": " They offered it to me on the spot."
+    },
+    {
+        "start": 289.44,
+        "end": 291.03999999999996,
+        "text": " But I still had to audition."
+    },
+    {
+        "start": 291.03999999999996,
+        "end": 292.64,
+        "text": " And I was gigging in Brighton."
+    },
+    {
+        "start": 292.64,
+        "end": 295.59999999999997,
+        "text": " And I had to learn the song from the drive"
+    },
+    {
+        "start": 295.59999999999997,
+        "end": 297.28,
+        "text": " down from Brighton to London"
+    },
+    {
+        "start": 297.28,
+        "end": 298.96,
+        "text": " and pop into the audition."
+    },
+    {
+        "start": 298.96,
+        "end": 301.2,
+        "text": " Sing it. It was that intensive."
+    },
+    {
+        "start": 301.2,
+        "end": 303.12,
+        "text": " I had no time to learn it."
+    },
+    {
+        "start": 303.12,
+        "end": 306.0,
+        "text": " And I'm wheezing because I'm a bit pearly."
+    },
+    {
+        "start": 306.0,
+        "end": 308.47999999999996,
+        "text": " But as far as the accent goes, when I auditioned, I said,"
+    },
+    {
+        "start": 308.47999999999996,
+        "end": 311.12,
+        "text": " listen, I don't want to make a mockery out of the show"
+    },
+    {
+        "start": 311.12,
+        "end": 312.0,
+        "text": " or myself."
+    },
+    {
+        "start": 312.0,
+        "end": 313.03999999999996,
+        "text": " I'm from New Jersey."
+    },
+    {
+        "start": 313.03999999999996,
+        "end": 317.76,
+        "text": " I've worked really hard to get rid of my Northeastern accent."
+    },
+    {
+        "start": 317.76,
+        "end": 320.0,
+        "text": " So it's not really there."
+    },
+    {
+        "start": 320.0,
+        "end": 320.47999999999996,
+        "text": " Yeah."
+    },
+    {
+        "start": 320.47999999999996,
+        "end": 322.32,
+        "text": " If I talked like I was from New Jersey,"
+    },
+    {
+        "start": 322.32,
+        "end": 323.44,
+        "text": " it would sound like..."
+    },
+    {
+        "start": 323.44,
+        "end": 324.47999999999996,
+        "text": " I love it."
+    },
+    {
+        "start": 324.47999999999996,
+        "end": 325.35999999999996,
+        "text": " I love it."
+    },
+    {
+        "start": 325.35999999999996,
+        "end": 326.4,
+        "text": " It is my favorite accent."
+    },
+    {
+        "start": 326.4,
+        "end": 328.47999999999996,
+        "text": " I went to theater college"
+    },
+    {
+        "start": 328.48,
+        "end": 330.32,
+        "text": " and they banged it out of my body."
+    },
+    {
+        "start": 330.32,
+        "end": 331.36,
+        "text": " Because my mother's from Brooklyn"
+    },
+    {
+        "start": 331.36,
+        "end": 332.24,
+        "text": " and I grew up in New Jersey."
+    },
+    {
+        "start": 332.24,
+        "end": 336.24,
+        "text": " So it was a really big combo platter of horrendousness."
+    },
+    {
+        "start": 336.24,
+        "end": 340.8,
+        "text": " But I said to them, the teacher is not a nice character"
+    },
+    {
+        "start": 340.8,
+        "end": 341.6,
+        "text": " at the core of it."
+    },
+    {
+        "start": 341.6,
+        "end": 342.56,
+        "text": " And I think that..."
+    },
+    {
+        "start": 342.56,
+        "end": 344.32,
+        "text": " I don't think she's not a nice person."
+    },
+    {
+        "start": 344.32,
+        "end": 345.76,
+        "text": " I think the character..."
+    },
+    {
+        "start": 345.76,
+        "end": 347.36,
+        "text": " And we'll get into that in a minute in my..."
+    },
+    {
+        "start": 347.36,
+        "end": 348.88,
+        "text": " How I dissected her."
+    },
+    {
+        "start": 348.88,
+        "end": 350.96000000000004,
+        "text": " My point of view versus Tamsen,"
+    },
+    {
+        "start": 350.96000000000004,
+        "end": 353.36,
+        "text": " the amazing, amazing actress Tamsen."
+    },
+    {
+        "start": 353.36,
+        "end": 354.24,
+        "text": " Carol, who was the original..."
+    },
+    {
+        "start": 354.24,
+        "end": 354.88,
+        "text": " Yes."
+    },
+    {
+        "start": 354.88,
+        "end": 355.68,
+        "text": " Miss Hedge."
+    },
+    {
+        "start": 355.68,
+        "end": 356.24,
+        "text": " But the..."
+    },
+    {
+        "start": 356.24,
+        "end": 357.68,
+        "text": " And she's amazing."
+    },
+    {
+        "start": 357.76,
+        "end": 359.92,
+        "text": " The point is, I said to Johnny B,"
+    },
+    {
+        "start": 359.92,
+        "end": 361.68,
+        "text": " I was like, she can be American."
+    },
+    {
+        "start": 361.68,
+        "end": 364.16,
+        "text": " She'll be hated more if she's American."
+    },
+    {
+        "start": 364.16,
+        "end": 364.64,
+        "text": " Yeah."
+    },
+    {
+        "start": 364.64,
+        "end": 366.16,
+        "text": " And he was like, no."
+    },
+    {
+        "start": 367.12,
+        "end": 368.56,
+        "text": " He said, we'll talk about it."
+    },
+    {
+        "start": 368.56,
+        "end": 370.96000000000004,
+        "text": " But he said, do your worst to Northern accent."
+    },
+    {
+        "start": 370.96000000000004,
+        "end": 372.48,
+        "text": " And I love..."
+    },
+    {
+        "start": 372.48,
+        "end": 374.48,
+        "text": " I have an affinity for Northerners."
+    },
+    {
+        "start": 374.48,
+        "end": 376.48,
+        "text": " I love all of the UK obviously."
+    },
+    {
+        "start": 376.48,
+        "end": 378.32,
+        "text": " You are almost English, really."
+    },
+    {
+        "start": 378.32,
+        "end": 379.6,
+        "text": " That's the honest."
+    },
+    {
+        "start": 379.6,
+        "end": 380.48,
+        "text": " You're very long."
+    },
+    {
+        "start": 380.48,
+        "end": 381.44,
+        "text": " I have a affinity."
+    },
+    {
+        "start": 381.44,
+        "end": 382.8,
+        "text": " A lot of people are here a lot,"
+    },
+    {
+        "start": 382.8,
+        "end": 384.4,
+        "text": " but I've been here a lot since I was 13."
+    },
+    {
+        "start": 384.4,
+        "end": 386.32,
+        "text": " First time I came over and I fell in love."
+    },
+    {
+        "start": 386.4,
+        "end": 388.08,
+        "text": " And I often say that in a past life,"
+    },
+    {
+        "start": 388.08,
+        "end": 390.15999999999997,
+        "text": " oops, in a past life,"
+    },
+    {
+        "start": 390.15999999999997,
+        "end": 391.36,
+        "text": " I was obviously British."
+    },
+    {
+        "start": 391.36,
+        "end": 391.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 391.52,
+        "end": 393.12,
+        "text": " You know, whether you believe in it or not,"
+    },
+    {
+        "start": 393.12,
+        "end": 394.32,
+        "text": " I do in past lives."
+    },
+    {
+        "start": 395.36,
+        "end": 395.92,
+        "text": " I can't..."
+    },
+    {
+        "start": 395.92,
+        "end": 397.36,
+        "text": " I feel like that about Australia."
+    },
+    {
+        "start": 397.36,
+        "end": 398.71999999999997,
+        "text": " See, some people really do."
+    },
+    {
+        "start": 398.71999999999997,
+        "end": 399.52,
+        "text": " I feel like that."
+    },
+    {
+        "start": 399.52,
+        "end": 400.56,
+        "text": " I feel like that."
+    },
+    {
+        "start": 400.56,
+        "end": 401.76,
+        "text": " I'm like that over here."
+    },
+    {
+        "start": 401.76,
+        "end": 403.52,
+        "text": " I don't know why, because I hate the cold."
+    },
+    {
+        "start": 403.52,
+        "end": 403.92,
+        "text": " Yeah."
+    },
+    {
+        "start": 403.92,
+        "end": 405.28,
+        "text": " So when I was learning the accent,"
+    },
+    {
+        "start": 405.28,
+        "end": 407.03999999999996,
+        "text": " it was an honor for me that John McCree,"
+    },
+    {
+        "start": 407.03999999999996,
+        "end": 409.92,
+        "text": " who plays Jamie, the brilliant, brilliant John McCree,"
+    },
+    {
+        "start": 409.92,
+        "end": 411.44,
+        "text": " said he was doing a talk recently"
+    },
+    {
+        "start": 411.44,
+        "end": 414.08,
+        "text": " with a whole bunch of American people that were over"
+    },
+    {
+        "start": 414.08,
+        "end": 415.92,
+        "text": " and they had no idea that I was American."
+    },
+    {
+        "start": 416.56,
+        "end": 417.36,
+        "text": " That was the biggest..."
+    },
+    {
+        "start": 417.36,
+        "end": 417.52,
+        "text": " That was the biggest."
+    },
+    {
+        "start": 417.52,
+        "end": 418.24,
+        "text": " That was great."
+    },
+    {
+        "start": 418.24,
+        "end": 419.2,
+        "text": " I'm..."
+    },
+    {
+        "start": 419.2,
+        "end": 420.64,
+        "text": " I'm going to tell you something, actually."
+    },
+    {
+        "start": 420.64,
+        "end": 423.28,
+        "text": " A friend of mine went recently and they were like,"
+    },
+    {
+        "start": 424.48,
+        "end": 426.56,
+        "text": " the woman playing the teacher, I recognise though,"
+    },
+    {
+        "start": 426.56,
+        "end": 428.71999999999997,
+        "text": " I recognise all the way through and I was like,"
+    },
+    {
+        "start": 428.71999999999997,
+        "end": 429.76,
+        "text": " it's Michelle Visage."
+    },
+    {
+        "start": 430.56,
+        "end": 432.08,
+        "text": " Get the fuck out!"
+    },
+    {
+        "start": 432.08,
+        "end": 434.88,
+        "text": " So you're doing a great job because they did not know"
+    },
+    {
+        "start": 434.88,
+        "end": 437.84,
+        "text": " and they were big RuPaul fans, RuPaul Drag Race."
+    },
+    {
+        "start": 437.84,
+        "end": 439.6,
+        "text": " That says a lot about them if they didn't know"
+    },
+    {
+        "start": 439.6,
+        "end": 440.56,
+        "text": " that was me seeing..."
+    },
+    {
+        "start": 440.56,
+        "end": 441.44,
+        "text": " They're obviously very drunk."
+    },
+    {
+        "start": 442.88,
+        "end": 443.84,
+        "text": " But I'm playing..."
+    },
+    {
+        "start": 444.79999999999995,
+        "end": 447.44,
+        "text": " She's a teacher and in my head, she grew up"
+    },
+    {
+        "start": 447.44,
+        "end": 450.4,
+        "text": " in the council houses and she got out and she went to uni"
+    },
+    {
+        "start": 450.4,
+        "end": 452.79999999999995,
+        "text": " and she got a master's degree and she's a teacher"
+    },
+    {
+        "start": 452.79999999999995,
+        "end": 455.59999999999997,
+        "text": " and she ended up back in the council houses teaching herself."
+    },
+    {
+        "start": 455.59999999999997,
+        "end": 456.08,
+        "text": " Oh, right."
+    },
+    {
+        "start": 456.08,
+        "end": 456.88,
+        "text": " She's a bit..."
+    },
+    {
+        "start": 456.88,
+        "end": 457.84,
+        "text": " A biter and..."
+    },
+    {
+        "start": 457.84,
+        "end": 459.59999999999997,
+        "text": " Angry, can't hold a man."
+    },
+    {
+        "start": 459.59999999999997,
+        "end": 460.08,
+        "text": " Yeah."
+    },
+    {
+        "start": 460.08,
+        "end": 461.2,
+        "text": " So it's not that..."
+    },
+    {
+        "start": 461.2,
+        "end": 462.79999999999995,
+        "text": " In my eyes, the way I'm playing it is different"
+    },
+    {
+        "start": 462.79999999999995,
+        "end": 463.84,
+        "text": " to the way Tamsen played it."
+    },
+    {
+        "start": 463.84,
+        "end": 465.59999999999997,
+        "text": " In my eyes, she loves Jamie."
+    },
+    {
+        "start": 466.15999999999997,
+        "end": 467.76,
+        "text": " She loves that he's gay."
+    },
+    {
+        "start": 467.76,
+        "end": 469.28,
+        "text": " She doesn't have a problem with that."
+    },
+    {
+        "start": 469.28,
+        "end": 471.59999999999997,
+        "text": " She has a problem with him not listening to her."
+    },
+    {
+        "start": 471.59999999999997,
+        "end": 473.12,
+        "text": " She's trying to say, listen, I've done this."
+    },
+    {
+        "start": 473.2,
+        "end": 475.36,
+        "text": " It's not going to work out the way you think it is."
+    },
+    {
+        "start": 475.36,
+        "end": 476.08,
+        "text": " Save it."
+    },
+    {
+        "start": 476.08,
+        "end": 479.04,
+        "text": " The school is not the time or the place to do this."
+    },
+    {
+        "start": 479.04,
+        "end": 480.48,
+        "text": " Stop it and start listening to me."
+    },
+    {
+        "start": 480.48,
+        "end": 480.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 480.96,
+        "end": 481.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 481.44,
+        "end": 482.08,
+        "text": " I..."
+    },
+    {
+        "start": 482.08,
+        "end": 482.16,
+        "text": " I..."
+    },
+    {
+        "start": 482.16,
+        "end": 482.32,
+        "text": " I..."
+    },
+    {
+        "start": 482.32,
+        "end": 483.68,
+        "text": " You're good, but not here."
+    },
+    {
+        "start": 486.08,
+        "end": 487.28000000000003,
+        "text": " Right, you little buggers."
+    },
+    {
+        "start": 487.28000000000003,
+        "end": 490.72,
+        "text": " Get in touch with me at the hashtag R1 Drag Queen's Den."
+    },
+    {
+        "start": 494.64,
+        "end": 497.84000000000003,
+        "text": " So listen, I've spoken to a lot of people"
+    },
+    {
+        "start": 497.84000000000003,
+        "end": 500.0,
+        "text": " and a thing that really interests me always"
+    },
+    {
+        "start": 500.0,
+        "end": 502.0,
+        "text": " is the motivation for drag."
+    },
+    {
+        "start": 502.48,
+        "end": 502.8,
+        "text": " Why?"
+    },
+    {
+        "start": 502.8,
+        "end": 504.4,
+        "text": " Because I think everybody's is very different"
+    },
+    {
+        "start": 504.4,
+        "end": 506.4,
+        "text": " of why they get to that point."
+    },
+    {
+        "start": 506.4,
+        "end": 507.12,
+        "text": " You know?"
+    },
+    {
+        "start": 507.12,
+        "end": 510.48,
+        "text": " Like, mine was to just go wild"
+    },
+    {
+        "start": 510.48,
+        "end": 512.08,
+        "text": " and be a crazy nutbag and..."
+    },
+    {
+        "start": 512.08,
+        "end": 512.96,
+        "text": " So do you do drag?"
+    },
+    {
+        "start": 512.96,
+        "end": 513.76,
+        "text": " I used to."
+    },
+    {
+        "start": 513.76,
+        "end": 515.76,
+        "text": " What, if you call it drag, I don't know."
+    },
+    {
+        "start": 515.76,
+        "end": 516.4,
+        "text": " I mean, I do..."
+    },
+    {
+        "start": 516.4,
+        "end": 517.28,
+        "text": " Drag is relative."
+    },
+    {
+        "start": 517.28,
+        "end": 518.32,
+        "text": " I think so and I think..."
+    },
+    {
+        "start": 518.32,
+        "end": 519.04,
+        "text": " Personal."
+    },
+    {
+        "start": 519.04,
+        "end": 519.68,
+        "text": " Exactly."
+    },
+    {
+        "start": 519.68,
+        "end": 520.32,
+        "text": " I totally agree."
+    },
+    {
+        "start": 520.32,
+        "end": 523.76,
+        "text": " It's about your motivation and about your journey to get there."
+    },
+    {
+        "start": 523.76,
+        "end": 526.56,
+        "text": " You know, and I think that people come from all different places."
+    },
+    {
+        "start": 526.56,
+        "end": 527.52,
+        "text": " Do you..."
+    },
+    {
+        "start": 527.52,
+        "end": 529.92,
+        "text": " Because in a weird way, you get held"
+    },
+    {
+        "start": 529.92,
+        "end": 532.8,
+        "text": " in the same breath as all the drag queens."
+    },
+    {
+        "start": 532.8,
+        "end": 535.12,
+        "text": " You know, what was your route?"
+    },
+    {
+        "start": 535.12,
+        "end": 536.88,
+        "text": " I moved to New York City from New Jersey"
+    },
+    {
+        "start": 536.88,
+        "end": 538.88,
+        "text": " when I was 17 years old to go to musical theater."
+    },
+    {
+        "start": 538.88,
+        "end": 539.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 539.36,
+        "end": 541.28,
+        "text": " College, uni, you would call it."
+    },
+    {
+        "start": 541.28,
+        "end": 541.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 541.52,
+        "end": 544.16,
+        "text": " And my mother said to me,"
+    },
+    {
+        "start": 544.16,
+        "end": 547.12,
+        "text": " we didn't have computers back then because I'm old"
+    },
+    {
+        "start": 547.12,
+        "end": 549.92,
+        "text": " and we didn't have cell phones because I'm old."
+    },
+    {
+        "start": 549.92,
+        "end": 552.0,
+        "text": " But she said to me, you need to go out."
+    },
+    {
+        "start": 552.0,
+        "end": 554.56,
+        "text": " The place that we met people were bars and clubs."
+    },
+    {
+        "start": 554.56,
+        "end": 557.28,
+        "text": " And that's how you were discovered in New York City in the 80s"
+    },
+    {
+        "start": 557.28,
+        "end": 559.28,
+        "text": " and that's just what it was."
+    },
+    {
+        "start": 559.28,
+        "end": 559.76,
+        "text": " Yeah."
+    },
+    {
+        "start": 559.76,
+        "end": 561.4399999999999,
+        "text": " I didn't have an ID and I never drank."
+    },
+    {
+        "start": 561.4399999999999,
+        "end": 563.36,
+        "text": " I was never a drinker."
+    },
+    {
+        "start": 563.36,
+        "end": 565.04,
+        "text": " So my mother got me a fake ID"
+    },
+    {
+        "start": 565.04,
+        "end": 566.64,
+        "text": " and she sent it to my dorm."
+    },
+    {
+        "start": 566.64,
+        "end": 567.12,
+        "text": " Good mom."
+    },
+    {
+        "start": 567.12,
+        "end": 567.28,
+        "text": " Yeah."
+    },
+    {
+        "start": 567.28,
+        "end": 568.56,
+        "text": " And she said, now you're going to go."
+    },
+    {
+        "start": 568.56,
+        "end": 569.6,
+        "text": " You have no excuses."
+    },
+    {
+        "start": 569.6,
+        "end": 573.12,
+        "text": " I used to go home on the weekends to go to the underage clubs in New Jersey."
+    },
+    {
+        "start": 573.12,
+        "end": 574.72,
+        "text": " She said, you're in New York City now"
+    },
+    {
+        "start": 574.72,
+        "end": 575.84,
+        "text": " and you're going to make it happen."
+    },
+    {
+        "start": 575.84,
+        "end": 576.3199999999999,
+        "text": " Oh my god."
+    },
+    {
+        "start": 576.3199999999999,
+        "end": 576.88,
+        "text": " Go on."
+    },
+    {
+        "start": 576.88,
+        "end": 578.16,
+        "text": " So I just got me a fake ID."
+    },
+    {
+        "start": 578.16,
+        "end": 578.64,
+        "text": " I wore it."
+    },
+    {
+        "start": 578.64,
+        "end": 579.4399999999999,
+        "text": " She was amazing."
+    },
+    {
+        "start": 579.4399999999999,
+        "end": 580.4,
+        "text": " My mother, rest of these."
+    },
+    {
+        "start": 580.4,
+        "end": 584.08,
+        "text": " I go and I went by myself."
+    },
+    {
+        "start": 584.08,
+        "end": 585.2,
+        "text": " And I dragged."
+    },
+    {
+        "start": 585.2,
+        "end": 586.0,
+        "text": " That is bold."
+    },
+    {
+        "start": 586.0,
+        "end": 586.8,
+        "text": " I know it was."
+    },
+    {
+        "start": 586.8,
+        "end": 589.12,
+        "text": " But my roommate in college said, I'll meet you there."
+    },
+    {
+        "start": 589.28,
+        "end": 590.16,
+        "text": " And she did later on."
+    },
+    {
+        "start": 590.16,
+        "end": 592.88,
+        "text": " But I remember walking in a club called the Underground"
+    },
+    {
+        "start": 592.88,
+        "end": 594.64,
+        "text": " that obviously doesn't exist anymore."
+    },
+    {
+        "start": 594.64,
+        "end": 596.4,
+        "text": " But few do."
+    },
+    {
+        "start": 596.4,
+        "end": 598.32,
+        "text": " And I walked down these steps and I was nervous."
+    },
+    {
+        "start": 598.32,
+        "end": 600.88,
+        "text": " I didn't know anybody but I thought, well, I'm going to go dance."
+    },
+    {
+        "start": 600.88,
+        "end": 604.32,
+        "text": " So I go down these steps and this beautiful, beautiful brown skin."
+    },
+    {
+        "start": 604.32,
+        "end": 606.72,
+        "text": " Obviously, Femme, Flemme Boyant Lakeay."
+    },
+    {
+        "start": 606.72,
+        "end": 609.36,
+        "text": " Boy, comes up to me and he said, what's your name?"
+    },
+    {
+        "start": 609.36,
+        "end": 612.4,
+        "text": " And I was literally looking around like me?"
+    },
+    {
+        "start": 612.4,
+        "end": 613.2,
+        "text": " Yeah."
+    },
+    {
+        "start": 613.2,
+        "end": 616.96,
+        "text": " Because I was obviously New Jersey big frosted hair, baby pink lips,"
+    },
+    {
+        "start": 616.96,
+        "end": 617.44,
+        "text": " fake tan."
+    },
+    {
+        "start": 617.44,
+        "end": 618.24,
+        "text": " Yeah."
+    },
+    {
+        "start": 618.32,
+        "end": 619.6800000000001,
+        "text": " That was in big New York City."
+    },
+    {
+        "start": 619.6800000000001,
+        "end": 620.88,
+        "text": " New to here."
+    },
+    {
+        "start": 620.88,
+        "end": 621.12,
+        "text": " Yeah."
+    },
+    {
+        "start": 621.12,
+        "end": 622.72,
+        "text": " I was full on Essex, a little bull."
+    },
+    {
+        "start": 622.72,
+        "end": 623.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 623.44,
+        "end": 625.44,
+        "text": " But there, it was obviously New Jersey."
+    },
+    {
+        "start": 625.44,
+        "end": 627.6800000000001,
+        "text": " And they would call people Bridget Tunnel and that was not good."
+    },
+    {
+        "start": 627.6800000000001,
+        "end": 628.72,
+        "text": " I always say that to you."
+    },
+    {
+        "start": 628.72,
+        "end": 628.96,
+        "text": " To you."
+    },
+    {
+        "start": 628.96,
+        "end": 629.92,
+        "text": " Yeah."
+    },
+    {
+        "start": 629.92,
+        "end": 630.16,
+        "text": " Yeah."
+    },
+    {
+        "start": 630.16,
+        "end": 631.92,
+        "text": " So I was Bridget Tunnel full on."
+    },
+    {
+        "start": 631.92,
+        "end": 633.6800000000001,
+        "text": " But I owned it."
+    },
+    {
+        "start": 633.6800000000001,
+        "end": 635.2,
+        "text": " And I felt really hot."
+    },
+    {
+        "start": 635.2,
+        "end": 635.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 635.44,
+        "end": 637.04,
+        "text": " Like my stomach was out."
+    },
+    {
+        "start": 637.04,
+        "end": 639.36,
+        "text": " The guy at the door was like, I'm going to call you abs."
+    },
+    {
+        "start": 639.36,
+        "end": 640.88,
+        "text": " And I was like, OK."
+    },
+    {
+        "start": 640.88,
+        "end": 642.32,
+        "text": " So I walked into this beautiful boy."
+    },
+    {
+        "start": 642.32,
+        "end": 643.12,
+        "text": " His name is David."
+    },
+    {
+        "start": 643.12,
+        "end": 644.08,
+        "text": " He's no longer with us."
+    },
+    {
+        "start": 645.04,
+        "end": 646.08,
+        "text": " Brought me down the steps."
+    },
+    {
+        "start": 646.08,
+        "end": 648.0,
+        "text": " And he was like, come, come hang out with us."
+    },
+    {
+        "start": 648.08,
+        "end": 649.52,
+        "text": " And I was like, OK."
+    },
+    {
+        "start": 649.52,
+        "end": 653.28,
+        "text": " He literally looked at me in the face and said, you're the most beautiful face."
+    },
+    {
+        "start": 653.28,
+        "end": 655.28,
+        "text": " I have ever seen in my entire life."
+    },
+    {
+        "start": 655.28,
+        "end": 658.64,
+        "text": " And as a 17-year-old girl who grew up feeling ugly,"
+    },
+    {
+        "start": 658.64,
+        "end": 660.72,
+        "text": " feeling not wanted, never fit in."
+    },
+    {
+        "start": 660.72,
+        "end": 662.08,
+        "text": " Nobody understood my weirdness."
+    },
+    {
+        "start": 662.08,
+        "end": 663.52,
+        "text": " I was obsessed with Sid Vicious."
+    },
+    {
+        "start": 663.52,
+        "end": 666.08,
+        "text": " Nobody got my punk rock pass."
+    },
+    {
+        "start": 666.08,
+        "end": 669.28,
+        "text": " I finally felt like somebody is getting me."
+    },
+    {
+        "start": 669.28,
+        "end": 671.6,
+        "text": " And then he took me down the steps and brought me to this weird back room."
+    },
+    {
+        "start": 671.6,
+        "end": 672.88,
+        "text": " And it sounds like it's some sex shop."
+    },
+    {
+        "start": 672.88,
+        "end": 674.24,
+        "text": " I swear to it wasn't."
+    },
+    {
+        "start": 674.24,
+        "end": 677.04,
+        "text": " It was a room of like 20 to 30 of the weirdest"
+    },
+    {
+        "start": 677.5999999999999,
+        "end": 681.04,
+        "text": " craziest, gayest freaks I've ever seen in my life."
+    },
+    {
+        "start": 681.04,
+        "end": 684.9599999999999,
+        "text": " And I often say, Dorothy clicked her heels three times and ended up back,"
+    },
+    {
+        "start": 684.9599999999999,
+        "end": 686.3199999999999,
+        "text": " you know, in Kansas."
+    },
+    {
+        "start": 686.3199999999999,
+        "end": 689.1999999999999,
+        "text": " I clicked my heels three times and ended up on Christopher Street in New York City."
+    },
+    {
+        "start": 689.1999999999999,
+        "end": 689.5999999999999,
+        "text": " Yeah."
+    },
+    {
+        "start": 689.5999999999999,
+        "end": 693.92,
+        "text": " With the community, which is why I get a lot of flack"
+    },
+    {
+        "start": 693.92,
+        "end": 695.5999999999999,
+        "text": " for calling myself part of the community."
+    },
+    {
+        "start": 695.5999999999999,
+        "end": 699.12,
+        "text": " But I've always only known it to be part of the community."
+    },
+    {
+        "start": 699.12,
+        "end": 701.1999999999999,
+        "text": " That's where I felt at home."
+    },
+    {
+        "start": 701.1999999999999,
+        "end": 704.0799999999999,
+        "text": " That's why there have been people along the way"
+    },
+    {
+        "start": 704.0799999999999,
+        "end": 706.9599999999999,
+        "text": " that have used the community to garner them attention"
+    },
+    {
+        "start": 706.96,
+        "end": 708.48,
+        "text": " or a better career."
+    },
+    {
+        "start": 708.48,
+        "end": 710.88,
+        "text": " I will never, ever, ever leave the community"
+    },
+    {
+        "start": 710.88,
+        "end": 713.2800000000001,
+        "text": " because it's always been a home base for me."
+    },
+    {
+        "start": 713.2800000000001,
+        "end": 713.76,
+        "text": " Yeah."
+    },
+    {
+        "start": 713.76,
+        "end": 715.84,
+        "text": " Everything, even my days in radio,"
+    },
+    {
+        "start": 715.84,
+        "end": 719.0400000000001,
+        "text": " where I couldn't really focus on like in music,"
+    },
+    {
+        "start": 719.0400000000001,
+        "end": 721.36,
+        "text": " in my pop music I could, on the radio,"
+    },
+    {
+        "start": 721.36,
+        "end": 723.0400000000001,
+        "text": " you can't really focus on just the community."
+    },
+    {
+        "start": 723.0400000000001,
+        "end": 724.5600000000001,
+        "text": " My nails keep slashing the microphone."
+    },
+    {
+        "start": 724.5600000000001,
+        "end": 726.0,
+        "text": " Well, they are serious nails."
+    },
+    {
+        "start": 726.0,
+        "end": 727.52,
+        "text": " Thank you."
+    },
+    {
+        "start": 727.52,
+        "end": 729.2,
+        "text": " I felt like I'm home."
+    },
+    {
+        "start": 729.2,
+        "end": 731.44,
+        "text": " And this is where I was always meant to be."
+    },
+    {
+        "start": 731.44,
+        "end": 735.6,
+        "text": " So drag for me, I grew up on the cotton teats of drag queens."
+    },
+    {
+        "start": 735.6800000000001,
+        "end": 738.0,
+        "text": " So I guess there's an identifiable thing there"
+    },
+    {
+        "start": 738.0,
+        "end": 740.96,
+        "text": " about feeling like the weirdo or the underdog"
+    },
+    {
+        "start": 740.96,
+        "end": 742.48,
+        "text": " or feeling misrepresented."
+    },
+    {
+        "start": 742.48,
+        "end": 745.44,
+        "text": " I think that that is a lot of things that drag queens"
+    },
+    {
+        "start": 745.44,
+        "end": 746.72,
+        "text": " have little weird kids."
+    },
+    {
+        "start": 746.72,
+        "end": 749.6800000000001,
+        "text": " Jackie, I know that you were a very weird kid."
+    },
+    {
+        "start": 749.6800000000001,
+        "end": 750.48,
+        "text": " Yeah."
+    },
+    {
+        "start": 750.48,
+        "end": 752.5600000000001,
+        "text": " And you identify with the whole punk thing"
+    },
+    {
+        "start": 752.5600000000001,
+        "end": 753.6,
+        "text": " that Michelle's talking about."
+    },
+    {
+        "start": 753.6,
+        "end": 755.9200000000001,
+        "text": " So what was your motivation for getting into drag?"
+    },
+    {
+        "start": 755.9200000000001,
+        "end": 759.52,
+        "text": " Well, I'd sort of like always sort of touched on it,"
+    },
+    {
+        "start": 759.52,
+        "end": 761.6,
+        "text": " a little bit like playing with moms makeup"
+    },
+    {
+        "start": 761.6,
+        "end": 764.0,
+        "text": " in the mirror when no one was looking at home."
+    },
+    {
+        "start": 764.0,
+        "end": 766.56,
+        "text": " But then that turned into Halloween parties"
+    },
+    {
+        "start": 766.56,
+        "end": 769.76,
+        "text": " and wanting to be like gregarious and have fun."
+    },
+    {
+        "start": 769.76,
+        "end": 770.88,
+        "text": " Like come out of your shell."
+    },
+    {
+        "start": 770.88,
+        "end": 771.84,
+        "text": " Yeah, absolutely."
+    },
+    {
+        "start": 771.84,
+        "end": 773.68,
+        "text": " So Halloween parties, I would always dress as like"
+    },
+    {
+        "start": 773.68,
+        "end": 776.96,
+        "text": " free to Carlo or some sexy space fixer or this or suit you."
+    },
+    {
+        "start": 776.96,
+        "end": 777.84,
+        "text": " Me too."
+    },
+    {
+        "start": 777.84,
+        "end": 778.88,
+        "text": " And all that sort of stuff."
+    },
+    {
+        "start": 778.88,
+        "end": 780.08,
+        "text": " Did you do Dame Bible Cartlin?"
+    },
+    {
+        "start": 780.08,
+        "end": 781.6,
+        "text": " I did Dame Bible Cartlin."
+    },
+    {
+        "start": 781.6,
+        "end": 782.32,
+        "text": " And as well."
+    },
+    {
+        "start": 782.32,
+        "end": 783.12,
+        "text": " Yeah."
+    },
+    {
+        "start": 783.12,
+        "end": 784.48,
+        "text": " And you got her kids."
+    },
+    {
+        "start": 784.48,
+        "end": 787.08,
+        "text": " And then I started to sort of like hang out"
+    },
+    {
+        "start": 787.08,
+        "end": 789.44,
+        "text": " with some people in East London,"
+    },
+    {
+        "start": 789.44,
+        "end": 793.76,
+        "text": " like a lion from Vogue Fabrics and Johnny Wu and John Sizzle"
+    },
+    {
+        "start": 793.76,
+        "end": 795.76,
+        "text": " and saw the kind of drag that they were doing."
+    },
+    {
+        "start": 795.76,
+        "end": 799.36,
+        "text": " And the kind of drag that they were doing was very loose as well."
+    },
+    {
+        "start": 799.36,
+        "end": 800.64,
+        "text": " So it was kind of a..."
+    },
+    {
+        "start": 800.64,
+        "end": 801.52,
+        "text": " It's very British."
+    },
+    {
+        "start": 801.52,
+        "end": 802.3199999999999,
+        "text": " Yeah."
+    },
+    {
+        "start": 802.3199999999999,
+        "end": 802.72,
+        "text": " Yeah."
+    },
+    {
+        "start": 802.72,
+        "end": 806.64,
+        "text": " And very irreverent and like, you know,"
+    },
+    {
+        "start": 806.64,
+        "end": 807.92,
+        "text": " which is fabulous."
+    },
+    {
+        "start": 807.92,
+        "end": 810.96,
+        "text": " Even if we don't put together in the most amazing way,"
+    },
+    {
+        "start": 810.96,
+        "end": 811.6,
+        "text": " just my..."
+    },
+    {
+        "start": 811.6,
+        "end": 812.24,
+        "text": " Still fabulous."
+    },
+    {
+        "start": 812.24,
+        "end": 814.24,
+        "text": " Yeah, but it's the thing that's the confusion"
+    },
+    {
+        "start": 814.24,
+        "end": 817.36,
+        "text": " that we should talk upon."
+    },
+    {
+        "start": 817.36,
+        "end": 818.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 818.4,
+        "end": 820.8,
+        "text": " Drag has been around hundreds of years"
+    },
+    {
+        "start": 820.8,
+        "end": 822.4,
+        "text": " way before we've lost our eyes."
+    },
+    {
+        "start": 822.56,
+        "end": 825.1999999999999,
+        "text": " And it's going to be around way after RuPaul's Drag Race."
+    },
+    {
+        "start": 825.1999999999999,
+        "end": 827.84,
+        "text": " Even if we never have another drag television show."
+    },
+    {
+        "start": 827.84,
+        "end": 828.3199999999999,
+        "text": " Yeah."
+    },
+    {
+        "start": 828.3199999999999,
+        "end": 829.1999999999999,
+        "text": " It's going to be around."
+    },
+    {
+        "start": 829.1999999999999,
+        "end": 830.64,
+        "text": " It's going to exist."
+    },
+    {
+        "start": 830.64,
+        "end": 834.0,
+        "text": " So because of what you see on RuPaul's Drag Race,"
+    },
+    {
+        "start": 834.0,
+        "end": 835.84,
+        "text": " I think that there's a lot of people"
+    },
+    {
+        "start": 835.84,
+        "end": 838.24,
+        "text": " who feel that they're not good enough in drag or that."
+    },
+    {
+        "start": 838.24,
+        "end": 838.48,
+        "text": " Right."
+    },
+    {
+        "start": 838.48,
+        "end": 839.36,
+        "text": " But that's not true."
+    },
+    {
+        "start": 839.36,
+        "end": 840.56,
+        "text": " I think just like you're saying,"
+    },
+    {
+        "start": 841.6,
+        "end": 843.04,
+        "text": " there's all different angles of drag."
+    },
+    {
+        "start": 843.04,
+        "end": 844.8,
+        "text": " RuPaul's Drag Race as a television show."
+    },
+    {
+        "start": 844.8,
+        "end": 846.0799999999999,
+        "text": " We're very specific."
+    },
+    {
+        "start": 846.0799999999999,
+        "end": 846.72,
+        "text": " It's what we do."
+    },
+    {
+        "start": 846.72,
+        "end": 847.6,
+        "text": " That's what it's not."
+    },
+    {
+        "start": 847.6,
+        "end": 848.48,
+        "text": " It's a TV show."
+    },
+    {
+        "start": 848.48,
+        "end": 848.96,
+        "text": " Correct."
+    },
+    {
+        "start": 848.96,
+        "end": 850.0,
+        "text": " And it's what we're presenting."
+    },
+    {
+        "start": 850.0,
+        "end": 851.4399999999999,
+        "text": " It's not what drag is."
+    },
+    {
+        "start": 851.44,
+        "end": 853.84,
+        "text": " Ru started out as what you're describing."
+    },
+    {
+        "start": 853.84,
+        "end": 855.5200000000001,
+        "text": " Ru has always been that."
+    },
+    {
+        "start": 856.48,
+        "end": 857.36,
+        "text": " And Dr. Aginist,"
+    },
+    {
+        "start": 857.36,
+        "end": 858.5600000000001,
+        "text": " he's from New York Underground."
+    },
+    {
+        "start": 858.5600000000001,
+        "end": 858.8000000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 858.8000000000001,
+        "end": 860.72,
+        "text": " That's very much our background, actually,"
+    },
+    {
+        "start": 860.72,
+        "end": 862.72,
+        "text": " where we come in an R-Drag,"
+    },
+    {
+        "start": 862.72,
+        "end": 863.8800000000001,
+        "text": " Glogg, Glogg, Glogg, Glogg, Glogg, Glogg, Glogg,"
+    },
+    {
+        "start": 863.8800000000001,
+        "end": 865.0400000000001,
+        "text": " it's all water, it's all water."
+    },
+    {
+        "start": 865.0400000000001,
+        "end": 865.84,
+        "text": " You need to see."
+    },
+    {
+        "start": 865.84,
+        "end": 866.48,
+        "text": " Great, babes."
+    },
+    {
+        "start": 866.48,
+        "end": 867.6,
+        "text": " I've always your turn into powder."
+    },
+    {
+        "start": 868.64,
+        "end": 870.48,
+        "text": " But what are the biggest differences"
+    },
+    {
+        "start": 870.48,
+        "end": 873.2,
+        "text": " do you see in the UK and the US drag scene,"
+    },
+    {
+        "start": 873.2,
+        "end": 874.4,
+        "text": " regardless of television?"
+    },
+    {
+        "start": 874.4,
+        "end": 876.5600000000001,
+        "text": " Well, I think Jackie just hit upon it."
+    },
+    {
+        "start": 876.5600000000001,
+        "end": 880.08,
+        "text": " I think there's an unfinished edge to British drag,"
+    },
+    {
+        "start": 880.08,
+        "end": 882.08,
+        "text": " which makes it quintessentially British."
+    },
+    {
+        "start": 882.08,
+        "end": 882.64,
+        "text": " Yeah."
+    },
+    {
+        "start": 882.64,
+        "end": 884.48,
+        "text": " Which is what I love, you know what I mean?"
+    },
+    {
+        "start": 885.2800000000001,
+        "end": 887.6,
+        "text": " And I think that we'll see that"
+    },
+    {
+        "start": 887.6,
+        "end": 888.96,
+        "text": " on RuPaul's Drag Race UK."
+    },
+    {
+        "start": 888.96,
+        "end": 890.1600000000001,
+        "text": " I don't think that we're..."
+    },
+    {
+        "start": 890.1600000000001,
+        "end": 891.84,
+        "text": " I don't want people to think that we're just going"
+    },
+    {
+        "start": 891.84,
+        "end": 893.0400000000001,
+        "text": " for the fully polished..."
+    },
+    {
+        "start": 893.0400000000001,
+        "end": 893.6,
+        "text": " No, you know."
+    },
+    {
+        "start": 893.6,
+        "end": 894.32,
+        "text": " Right."
+    },
+    {
+        "start": 894.32,
+        "end": 897.2800000000001,
+        "text": " And RuPaul's Drag Race has had in the past some,"
+    },
+    {
+        "start": 897.2800000000001,
+        "end": 900.8000000000001,
+        "text": " like, really sort of like, out there characters."
+    },
+    {
+        "start": 900.8000000000001,
+        "end": 902.48,
+        "text": " Well, like Tommy Brown and..."
+    },
+    {
+        "start": 902.48,
+        "end": 904.88,
+        "text": " I mean, Sharon Needles, especially, like, I think that that was..."
+    },
+    {
+        "start": 904.88,
+        "end": 906.24,
+        "text": " But Sharon is polished, though."
+    },
+    {
+        "start": 906.24,
+        "end": 907.0400000000001,
+        "text": " Now, she..."
+    },
+    {
+        "start": 907.0400000000001,
+        "end": 909.6,
+        "text": " She even then, if you watch her season four,"
+    },
+    {
+        "start": 909.6,
+        "end": 911.6800000000001,
+        "text": " she was polished in her way."
+    },
+    {
+        "start": 911.6800000000001,
+        "end": 912.8000000000001,
+        "text": " That's what I'm saying."
+    },
+    {
+        "start": 912.8000000000001,
+        "end": 913.6,
+        "text": " It's all..."
+    },
+    {
+        "start": 913.6,
+        "end": 914.96,
+        "text": " Jinks was a bit..."
+    },
+    {
+        "start": 914.96,
+        "end": 916.96,
+        "text": " Jinks was very messy at the beginning."
+    },
+    {
+        "start": 916.96,
+        "end": 918.1600000000001,
+        "text": " But it's all..."
+    },
+    {
+        "start": 918.1600000000001,
+        "end": 919.6,
+        "text": " And I wrote her for it,"
+    },
+    {
+        "start": 919.6,
+        "end": 920.48,
+        "text": " but she ended up..."
+    },
+    {
+        "start": 920.48,
+        "end": 922.8000000000001,
+        "text": " It was a cocoon into a butterfly story."
+    },
+    {
+        "start": 922.8000000000001,
+        "end": 923.2800000000001,
+        "text": " I love J."
+    },
+    {
+        "start": 923.28,
+        "end": 923.92,
+        "text": " And it's not..."
+    },
+    {
+        "start": 923.92,
+        "end": 925.6,
+        "text": " Oh, she's one of my favorite people on the planet."
+    },
+    {
+        "start": 925.6,
+        "end": 928.48,
+        "text": " And it's not that it wasn't good then."
+    },
+    {
+        "start": 928.48,
+        "end": 929.68,
+        "text": " It was good then."
+    },
+    {
+        "start": 929.68,
+        "end": 930.16,
+        "text": " It just..."
+    },
+    {
+        "start": 930.16,
+        "end": 931.12,
+        "text": " I knew it could be better."
+    },
+    {
+        "start": 931.12,
+        "end": 931.68,
+        "text": " Yes."
+    },
+    {
+        "start": 931.68,
+        "end": 932.16,
+        "text": " Yeah, yeah."
+    },
+    {
+        "start": 932.16,
+        "end": 934.4,
+        "text": " You know, so why not strive for the best?"
+    },
+    {
+        "start": 934.4,
+        "end": 936.4,
+        "text": " How is it going to translate then onto the..."
+    },
+    {
+        "start": 936.4,
+        "end": 937.76,
+        "text": " onto the beab?"
+    },
+    {
+        "start": 937.76,
+        "end": 938.56,
+        "text": " How..."
+    },
+    {
+        "start": 938.56,
+        "end": 939.68,
+        "text": " What are you looking for this different?"
+    },
+    {
+        "start": 939.68,
+        "end": 940.8,
+        "text": " It's going to translate beautifully."
+    },
+    {
+        "start": 940.8,
+        "end": 941.6,
+        "text": " Yeah."
+    },
+    {
+        "start": 941.6,
+        "end": 943.12,
+        "text": " Marvelously."
+    },
+    {
+        "start": 943.12,
+        "end": 943.76,
+        "text": " It..."
+    },
+    {
+        "start": 943.76,
+        "end": 945.92,
+        "text": " The magic of drag is..."
+    },
+    {
+        "start": 945.92,
+        "end": 947.76,
+        "text": " It's like the language of love."
+    },
+    {
+        "start": 947.76,
+        "end": 949.12,
+        "text": " Everybody gets it at this point,"
+    },
+    {
+        "start": 949.12,
+        "end": 950.9599999999999,
+        "text": " thanks to RuPaul's Drag Race."
+    },
+    {
+        "start": 950.9599999999999,
+        "end": 953.1999999999999,
+        "text": " And I want, you know,"
+    },
+    {
+        "start": 953.44,
+        "end": 955.76,
+        "text": " along with the love comes tons of hate."
+    },
+    {
+        "start": 955.76,
+        "end": 956.6400000000001,
+        "text": " Because..."
+    },
+    {
+        "start": 956.6400000000001,
+        "end": 957.84,
+        "text": " Social media as well."
+    },
+    {
+        "start": 957.84,
+        "end": 959.6800000000001,
+        "text": " It's just an angry, angry place."
+    },
+    {
+        "start": 959.6800000000001,
+        "end": 959.84,
+        "text": " Yes."
+    },
+    {
+        "start": 959.84,
+        "end": 961.0400000000001,
+        "text": " And I wish it wasn't..."
+    },
+    {
+        "start": 961.0400000000001,
+        "end": 961.76,
+        "text": " Doesn't it just?"
+    },
+    {
+        "start": 961.76,
+        "end": 964.6400000000001,
+        "text": " Because it brings me back to what I was just saying about..."
+    },
+    {
+        "start": 964.6400000000001,
+        "end": 966.72,
+        "text": " When I first got involved with the community,"
+    },
+    {
+        "start": 966.72,
+        "end": 970.24,
+        "text": " they welcomed me with open arms, no matter."
+    },
+    {
+        "start": 970.24,
+        "end": 971.0400000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 971.0400000000001,
+        "end": 973.2800000000001,
+        "text": " It didn't matter that I was a cis-heterofemail."
+    },
+    {
+        "start": 973.2800000000001,
+        "end": 973.76,
+        "text": " Yeah."
+    },
+    {
+        "start": 973.76,
+        "end": 974.8000000000001,
+        "text": " I was just me."
+    },
+    {
+        "start": 974.8000000000001,
+        "end": 978.8000000000001,
+        "text": " It's not the beauty of our community."
+    },
+    {
+        "start": 978.8000000000001,
+        "end": 981.6800000000001,
+        "text": " But that's what we're missing now."
+    },
+    {
+        "start": 981.68,
+        "end": 983.68,
+        "text": " Because of the younger generation now,"
+    },
+    {
+        "start": 983.68,
+        "end": 984.9599999999999,
+        "text": " I'm not just going to blame the kids,"
+    },
+    {
+        "start": 984.9599999999999,
+        "end": 985.92,
+        "text": " because I love the kids."
+    },
+    {
+        "start": 985.92,
+        "end": 986.4799999999999,
+        "text": " I have two kids."
+    },
+    {
+        "start": 986.4799999999999,
+        "end": 987.5999999999999,
+        "text": " I have a queer daughter,"
+    },
+    {
+        "start": 987.5999999999999,
+        "end": 988.8,
+        "text": " and a cis-gender,"
+    },
+    {
+        "start": 988.8,
+        "end": 990.0,
+        "text": " a heteronormative daughter."
+    },
+    {
+        "start": 991.3599999999999,
+        "end": 994.16,
+        "text": " And we all get along famously."
+    },
+    {
+        "start": 994.16,
+        "end": 996.56,
+        "text": " But neither one of them know about hate,"
+    },
+    {
+        "start": 996.56,
+        "end": 997.4399999999999,
+        "text": " because..."
+    },
+    {
+        "start": 997.4399999999999,
+        "end": 998.4,
+        "text": " I mean, they know about it,"
+    },
+    {
+        "start": 998.4,
+        "end": 1000.8,
+        "text": " but not in regards to the community."
+    },
+    {
+        "start": 1000.8,
+        "end": 1005.28,
+        "text": " So what's missing is the all-encompassing open arms"
+    },
+    {
+        "start": 1005.28,
+        "end": 1007.3599999999999,
+        "text": " that was there in the early 80s."
+    },
+    {
+        "start": 1007.3599999999999,
+        "end": 1009.5999999999999,
+        "text": " We've got a nurture, I think, regardless."
+    },
+    {
+        "start": 1009.5999999999999,
+        "end": 1011.28,
+        "text": " Because I think if the one thing that we all know,"
+    },
+    {
+        "start": 1011.36,
+        "end": 1012.48,
+        "text": " it's oppression."
+    },
+    {
+        "start": 1012.48,
+        "end": 1015.36,
+        "text": " And so we've got to actually just be supporting each other."
+    },
+    {
+        "start": 1015.36,
+        "end": 1016.72,
+        "text": " Jack, have you felt support"
+    },
+    {
+        "start": 1016.72,
+        "end": 1019.36,
+        "text": " or have you felt ostracized by the scene at any point?"
+    },
+    {
+        "start": 1021.52,
+        "end": 1022.3199999999999,
+        "text": " I'm not asked."
+    },
+    {
+        "start": 1022.3199999999999,
+        "end": 1024.48,
+        "text": " I feel pretty well supported."
+    },
+    {
+        "start": 1024.48,
+        "end": 1026.56,
+        "text": " Because you are in the scene, you know?"
+    },
+    {
+        "start": 1026.56,
+        "end": 1027.28,
+        "text": " Yeah."
+    },
+    {
+        "start": 1027.28,
+        "end": 1030.0,
+        "text": " You have been propping up East London bars for 10 years."
+    },
+    {
+        "start": 1030.0,
+        "end": 1031.6,
+        "text": " What I see is that..."
+    },
+    {
+        "start": 1031.6,
+        "end": 1032.0,
+        "text": " And..."
+    },
+    {
+        "start": 1032.96,
+        "end": 1035.44,
+        "text": " I've seen you running in heels and jog and a jog strap,"
+    },
+    {
+        "start": 1035.44,
+        "end": 1037.52,
+        "text": " just a jog strap all the way down the kingdom road."
+    },
+    {
+        "start": 1037.52,
+        "end": 1038.8799999999999,
+        "text": " What are my favourite looks, darling?"
+    },
+    {
+        "start": 1038.8799999999999,
+        "end": 1040.0,
+        "text": " I love seeing."
+    },
+    {
+        "start": 1040.08,
+        "end": 1041.04,
+        "text": " Of course, I've seen you."
+    },
+    {
+        "start": 1041.04,
+        "end": 1041.84,
+        "text": " I've seen you."
+    },
+    {
+        "start": 1041.84,
+        "end": 1042.56,
+        "text": " I was a bit..."
+    },
+    {
+        "start": 1042.56,
+        "end": 1042.8,
+        "text": " I'm a bit..."
+    },
+    {
+        "start": 1042.8,
+        "end": 1043.68,
+        "text": " Christine like."
+    },
+    {
+        "start": 1043.68,
+        "end": 1044.88,
+        "text": " I was one of my favourite."
+    },
+    {
+        "start": 1044.88,
+        "end": 1046.4,
+        "text": " My entry into drag was very that,"
+    },
+    {
+        "start": 1046.4,
+        "end": 1047.76,
+        "text": " because I was like really hedonistic"
+    },
+    {
+        "start": 1047.76,
+        "end": 1049.76,
+        "text": " and yeah, just running around in a jog strap."
+    },
+    {
+        "start": 1049.76,
+        "end": 1050.4,
+        "text": " But always..."
+    },
+    {
+        "start": 1050.4,
+        "end": 1051.28,
+        "text": " So you're rude, by the way."
+    },
+    {
+        "start": 1051.28,
+        "end": 1051.92,
+        "text": " Yeah."
+    },
+    {
+        "start": 1051.92,
+        "end": 1052.64,
+        "text": " That was the worst thing,"
+    },
+    {
+        "start": 1052.64,
+        "end": 1053.28,
+        "text": " jog straps and..."
+    },
+    {
+        "start": 1054.16,
+        "end": 1055.12,
+        "text": " A bit of a shoulder pad."
+    },
+    {
+        "start": 1055.12,
+        "end": 1055.6,
+        "text": " A shoulder pad."
+    },
+    {
+        "start": 1055.6,
+        "end": 1056.32,
+        "text": " Yeah, a far..."
+    },
+    {
+        "start": 1057.12,
+        "end": 1059.6,
+        "text": " But I've always tried to sort of like be..."
+    },
+    {
+        "start": 1060.88,
+        "end": 1062.8,
+        "text": " Wild and a bit crazy, a bit hedonistic,"
+    },
+    {
+        "start": 1062.8,
+        "end": 1064.88,
+        "text": " but also try and have a few conversations with people."
+    },
+    {
+        "start": 1064.88,
+        "end": 1065.36,
+        "text": " Yes."
+    },
+    {
+        "start": 1065.36,
+        "end": 1066.24,
+        "text": " Before sort of like..."
+    },
+    {
+        "start": 1067.2,
+        "end": 1069.36,
+        "text": " I think now with social media and stuff like that,"
+    },
+    {
+        "start": 1069.76,
+        "end": 1072.32,
+        "text": " there's people are really ready to sort of like..."
+    },
+    {
+        "start": 1073.04,
+        "end": 1074.6399999999999,
+        "text": " Because there's power in a comment,"
+    },
+    {
+        "start": 1074.6399999999999,
+        "end": 1076.56,
+        "text": " and you can quickly slam someone for something."
+    },
+    {
+        "start": 1076.56,
+        "end": 1077.4399999999998,
+        "text": " But they're not dents, you know?"
+    },
+    {
+        "start": 1077.4399999999998,
+        "end": 1078.9599999999998,
+        "text": " They're not power in it."
+    },
+    {
+        "start": 1079.84,
+        "end": 1082.3999999999999,
+        "text": " There's not power in it if you don't give it the power."
+    },
+    {
+        "start": 1082.3999999999999,
+        "end": 1082.9599999999998,
+        "text": " Well, yeah."
+    },
+    {
+        "start": 1082.9599999999998,
+        "end": 1084.1599999999999,
+        "text": " Well, I feel that we're almost..."
+    },
+    {
+        "start": 1084.1599999999999,
+        "end": 1086.1599999999999,
+        "text": " I see a lot of people making statements,"
+    },
+    {
+        "start": 1086.1599999999999,
+        "end": 1088.0,
+        "text": " but not making conversations."
+    },
+    {
+        "start": 1088.0,
+        "end": 1088.24,
+        "text": " Yeah."
+    },
+    {
+        "start": 1088.24,
+        "end": 1088.9599999999998,
+        "text": " That's the problem."
+    },
+    {
+        "start": 1088.9599999999998,
+        "end": 1089.1999999999998,
+        "text": " Yeah."
+    },
+    {
+        "start": 1089.1999999999998,
+        "end": 1092.4799999999998,
+        "text": " You know, people just literally saying things for shock value."
+    },
+    {
+        "start": 1092.4799999999998,
+        "end": 1092.8799999999999,
+        "text": " Right."
+    },
+    {
+        "start": 1092.8799999999999,
+        "end": 1094.6399999999999,
+        "text": " But not really ever wanting the conversation."
+    },
+    {
+        "start": 1094.6399999999999,
+        "end": 1096.3999999999999,
+        "text": " You follow it up and it just gets stopped."
+    },
+    {
+        "start": 1096.3999999999999,
+        "end": 1096.8,
+        "text": " Right."
+    },
+    {
+        "start": 1096.8,
+        "end": 1097.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 1097.52,
+        "end": 1100.6399999999999,
+        "text": " I always said that I had my life before,"
+    },
+    {
+        "start": 1100.6399999999999,
+        "end": 1103.44,
+        "text": " Sink the Pink, which is the club that I started,"
+    },
+    {
+        "start": 1103.44,
+        "end": 1106.08,
+        "text": " and it was fucking boring."
+    },
+    {
+        "start": 1106.08,
+        "end": 1106.4,
+        "text": " Right."
+    },
+    {
+        "start": 1106.4,
+        "end": 1109.04,
+        "text": " And dull, and I didn't really like myself or know myself,"
+    },
+    {
+        "start": 1109.04,
+        "end": 1110.6399999999999,
+        "text": " but through my community, through people,"
+    },
+    {
+        "start": 1110.6399999999999,
+        "end": 1113.44,
+        "text": " because I've known Jackie for probably about eight years."
+    },
+    {
+        "start": 1113.44,
+        "end": 1114.6399999999999,
+        "text": " Nine years, nine years."
+    },
+    {
+        "start": 1114.6399999999999,
+        "end": 1116.8799999999999,
+        "text": " These are my friends for life."
+    },
+    {
+        "start": 1116.8799999999999,
+        "end": 1119.04,
+        "text": " We support each other, we are their thick and thin."
+    },
+    {
+        "start": 1119.04,
+        "end": 1120.08,
+        "text": " But I do see it."
+    },
+    {
+        "start": 1120.08,
+        "end": 1121.92,
+        "text": " It is worrying that..."
+    },
+    {
+        "start": 1121.92,
+        "end": 1124.32,
+        "text": " I feel like everything's accelerated now."
+    },
+    {
+        "start": 1124.32,
+        "end": 1125.84,
+        "text": " Everything's like a million times faster."
+    },
+    {
+        "start": 1125.84,
+        "end": 1126.8799999999999,
+        "text": " Because of social media."
+    },
+    {
+        "start": 1126.96,
+        "end": 1127.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 1127.44,
+        "end": 1127.7600000000002,
+        "text": " Yes."
+    },
+    {
+        "start": 1127.7600000000002,
+        "end": 1128.88,
+        "text": " So, what can..."
+    },
+    {
+        "start": 1128.88,
+        "end": 1129.7600000000002,
+        "text": " For better or for worse?"
+    },
+    {
+        "start": 1129.7600000000002,
+        "end": 1130.4,
+        "text": " What can we do?"
+    },
+    {
+        "start": 1130.4,
+        "end": 1130.96,
+        "text": " What can we do?"
+    },
+    {
+        "start": 1130.96,
+        "end": 1132.16,
+        "text": " Let's change the bloody world."
+    },
+    {
+        "start": 1132.16,
+        "end": 1135.1200000000001,
+        "text": " Well, what you can do is use your platform and be a voice"
+    },
+    {
+        "start": 1135.1200000000001,
+        "end": 1137.68,
+        "text": " and constantly say the same thing and drive it home"
+    },
+    {
+        "start": 1137.68,
+        "end": 1138.24,
+        "text": " and drive it home."
+    },
+    {
+        "start": 1138.24,
+        "end": 1140.16,
+        "text": " Panty Bliss is a great example of that."
+    },
+    {
+        "start": 1140.16,
+        "end": 1140.4,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 1140.4,
+        "end": 1142.16,
+        "text": " I saw her show in Australia recently."
+    },
+    {
+        "start": 1142.16,
+        "end": 1143.1200000000001,
+        "text": " She's just a brilliant..."
+    },
+    {
+        "start": 1143.1200000000001,
+        "end": 1144.5600000000002,
+        "text": " And I had tears in the front row."
+    },
+    {
+        "start": 1144.5600000000002,
+        "end": 1145.5200000000002,
+        "text": " She was powerful."
+    },
+    {
+        "start": 1145.5200000000002,
+        "end": 1146.48,
+        "text": " And funny too."
+    },
+    {
+        "start": 1146.48,
+        "end": 1147.8400000000001,
+        "text": " Amazing and relatable."
+    },
+    {
+        "start": 1147.8400000000001,
+        "end": 1148.72,
+        "text": " Yes, so I'd like to..."
+    },
+    {
+        "start": 1148.72,
+        "end": 1154.96,
+        "text": " Advocate, um, lecturer, drag queen, um, HIV positive."
+    },
+    {
+        "start": 1155.76,
+        "end": 1158.96,
+        "text": " She does all great things for many..."
+    },
+    {
+        "start": 1158.96,
+        "end": 1161.28,
+        "text": " She practices what she appreciates as well."
+    },
+    {
+        "start": 1161.28,
+        "end": 1164.8,
+        "text": " And I think that's important for us to do within the community."
+    },
+    {
+        "start": 1164.8,
+        "end": 1167.1200000000001,
+        "text": " But it's going to help the youth stop them in their tracks"
+    },
+    {
+        "start": 1167.1200000000001,
+        "end": 1169.52,
+        "text": " and say, stop that."
+    },
+    {
+        "start": 1169.52,
+        "end": 1170.32,
+        "text": " What you're doing..."
+    },
+    {
+        "start": 1170.32,
+        "end": 1171.92,
+        "text": " Listen, I was around, I'm 50."
+    },
+    {
+        "start": 1171.92,
+        "end": 1173.68,
+        "text": " I've been around for a long time in this community."
+    },
+    {
+        "start": 1173.68,
+        "end": 1175.92,
+        "text": " I think I started within the community."
+    },
+    {
+        "start": 1177.1200000000001,
+        "end": 1180.88,
+        "text": " The first time I realized that this was my place was in 1986."
+    },
+    {
+        "start": 1180.88,
+        "end": 1184.08,
+        "text": " In my senior year of high school, where I stuck up for the one gay boy"
+    },
+    {
+        "start": 1184.08,
+        "end": 1185.36,
+        "text": " that people knew was gay in high school."
+    },
+    {
+        "start": 1186.0,
+        "end": 1188.96,
+        "text": " And he was being made fun of by the straight boys"
+    },
+    {
+        "start": 1188.96,
+        "end": 1190.96,
+        "text": " who hated me anyway because I was a freak."
+    },
+    {
+        "start": 1190.96,
+        "end": 1193.1999999999998,
+        "text": " So they didn't relate to me and I wasn't, you know."
+    },
+    {
+        "start": 1194.0,
+        "end": 1197.28,
+        "text": " So I stuck up for him and I realized, oh, I got a rush."
+    },
+    {
+        "start": 1197.28,
+        "end": 1198.8,
+        "text": " This is what I'm supposed to be doing."
+    },
+    {
+        "start": 1198.8,
+        "end": 1200.24,
+        "text": " Somebody's telling me to do this."
+    },
+    {
+        "start": 1200.24,
+        "end": 1201.1999999999998,
+        "text": " I didn't know that kid."
+    },
+    {
+        "start": 1201.1999999999998,
+        "end": 1203.04,
+        "text": " We weren't friends because he was very quiet."
+    },
+    {
+        "start": 1203.6,
+        "end": 1204.96,
+        "text": " But something felt right."
+    },
+    {
+        "start": 1204.96,
+        "end": 1206.72,
+        "text": " So when I moved to New York and met David,"
+    },
+    {
+        "start": 1207.6,
+        "end": 1208.8799999999999,
+        "text": " that's where my journey began."
+    },
+    {
+        "start": 1208.8799999999999,
+        "end": 1212.1599999999999,
+        "text": " And that's where I realized these people are people too,"
+    },
+    {
+        "start": 1212.88,
+        "end": 1214.8000000000002,
+        "text": " despite who they love, despite who they're with,"
+    },
+    {
+        "start": 1214.8000000000002,
+        "end": 1217.2,
+        "text": " despite how they dress, despite what they look like."
+    },
+    {
+        "start": 1217.2,
+        "end": 1219.68,
+        "text": " And I've gotten a lot of flak over the years for that."
+    },
+    {
+        "start": 1219.68,
+        "end": 1221.68,
+        "text": " But I also got flak for dating black boys."
+    },
+    {
+        "start": 1221.68,
+        "end": 1223.44,
+        "text": " And I was always out of the box."
+    },
+    {
+        "start": 1223.44,
+        "end": 1224.88,
+        "text": " I think we're the same person, Michelle."
+    },
+    {
+        "start": 1226.64,
+        "end": 1228.0800000000002,
+        "text": " I think we probably dated the same people."
+    },
+    {
+        "start": 1228.0800000000002,
+        "end": 1229.2,
+        "text": " We may have money."
+    },
+    {
+        "start": 1229.2,
+        "end": 1230.0,
+        "text": " We may have."
+    },
+    {
+        "start": 1230.0,
+        "end": 1233.52,
+        "text": " So the point is, if you believe in something strongly enough,"
+    },
+    {
+        "start": 1233.8400000000001,
+        "end": 1236.16,
+        "text": " you're allowed to speak up for it and defend it."
+    },
+    {
+        "start": 1236.16,
+        "end": 1238.64,
+        "text": " I think especially if you see someone going through hardship,"
+    },
+    {
+        "start": 1238.64,
+        "end": 1239.76,
+        "text": " isn't that being a human?"
+    },
+    {
+        "start": 1240.24,
+        "end": 1242.64,
+        "text": " If you see someone vulnerable, you just want to help."
+    },
+    {
+        "start": 1242.64,
+        "end": 1243.12,
+        "text": " Of course."
+    },
+    {
+        "start": 1243.12,
+        "end": 1245.44,
+        "text": " I get a lot of flak from parents at school"
+    },
+    {
+        "start": 1246.08,
+        "end": 1250.8799999999999,
+        "text": " who will say to me, why are you such a gay rights supporter"
+    },
+    {
+        "start": 1250.8799999999999,
+        "end": 1252.8799999999999,
+        "text": " when you're a woman and you should be supporting women's rights?"
+    },
+    {
+        "start": 1252.8799999999999,
+        "end": 1256.08,
+        "text": " And I went, I didn't know gay rights was exclusive."
+    },
+    {
+        "start": 1256.08,
+        "end": 1256.72,
+        "text": " Human rights."
+    },
+    {
+        "start": 1256.72,
+        "end": 1257.76,
+        "text": " Human rights."
+    },
+    {
+        "start": 1257.76,
+        "end": 1258.16,
+        "text": " Yeah."
+    },
+    {
+        "start": 1258.16,
+        "end": 1260.96,
+        "text": " I said, I'm strong, starch feminist as well."
+    },
+    {
+        "start": 1260.96,
+        "end": 1266.08,
+        "text": " I believe in female rights and women's rights and mothers' rights."
+    },
+    {
+        "start": 1267.12,
+        "end": 1269.04,
+        "text": " But mothers include trans women."
+    },
+    {
+        "start": 1269.04,
+        "end": 1271.68,
+        "text": " Mother, you know, there's mothers include gay men."
+    },
+    {
+        "start": 1271.68,
+        "end": 1274.3999999999999,
+        "text": " It's for me, it's about humanity."
+    },
+    {
+        "start": 1274.3999999999999,
+        "end": 1275.52,
+        "text": " So why are you asking me?"
+    },
+    {
+        "start": 1275.52,
+        "end": 1277.36,
+        "text": " Why I do what I do."
+    },
+    {
+        "start": 1279.92,
+        "end": 1281.2,
+        "text": " Now it's time for Dragotics."
+    },
+    {
+        "start": 1281.2,
+        "end": 1284.0,
+        "text": " And this week's guest, the slut-dropping beauty,"
+    },
+    {
+        "start": 1284.0,
+        "end": 1285.12,
+        "text": " Jade from Little Mix."
+    },
+    {
+        "start": 1285.12,
+        "end": 1286.32,
+        "text": " What are you?"
+    },
+    {
+        "start": 1286.32,
+        "end": 1287.2,
+        "text": " What you need?"
+    },
+    {
+        "start": 1288.3999999999999,
+        "end": 1289.68,
+        "text": " Chucker in the Priory."
+    },
+    {
+        "start": 1289.68,
+        "end": 1290.8799999999999,
+        "text": " It's Dragotics."
+    },
+    {
+        "start": 1290.8799999999999,
+        "end": 1294.72,
+        "text": " Jade, my darling, thank you so much for joining us on Drag Queen's Den."
+    },
+    {
+        "start": 1294.72,
+        "end": 1296.72,
+        "text": " I understand that you're on a beach."
+    },
+    {
+        "start": 1296.72,
+        "end": 1297.6,
+        "text": " Is that correct?"
+    },
+    {
+        "start": 1297.6799999999998,
+        "end": 1299.04,
+        "text": " I am, I'm a mamiho."
+    },
+    {
+        "start": 1299.04,
+        "end": 1300.24,
+        "text": " Well, we've got a few questions for you."
+    },
+    {
+        "start": 1300.24,
+        "end": 1301.1999999999998,
+        "text": " Are you ready to take them?"
+    },
+    {
+        "start": 1301.1999999999998,
+        "end": 1301.6799999999998,
+        "text": " I am."
+    },
+    {
+        "start": 1301.6799999999998,
+        "end": 1302.56,
+        "text": " Always ready."
+    },
+    {
+        "start": 1302.56,
+        "end": 1306.32,
+        "text": " All right, so listen and tell us when did your addiction to Drag begin?"
+    },
+    {
+        "start": 1306.32,
+        "end": 1310.24,
+        "text": " Ooh, well, I think my first of experiences, Drag,"
+    },
+    {
+        "start": 1310.24,
+        "end": 1314.48,
+        "text": " was actually when I was really little and made my family before the Benadome,"
+    },
+    {
+        "start": 1314.48,
+        "end": 1315.12,
+        "text": " every year."
+    },
+    {
+        "start": 1316.24,
+        "end": 1319.4399999999998,
+        "text": " For a cheap and cheerful holiday, before I watched the Drag Race."
+    },
+    {
+        "start": 1319.4399999999998,
+        "end": 1322.3999999999999,
+        "text": " And even from like a young age, like five years old,"
+    },
+    {
+        "start": 1322.3999999999999,
+        "end": 1325.4399999999998,
+        "text": " I was just obsessed, like I absolutely loved it."
+    },
+    {
+        "start": 1325.44,
+        "end": 1329.1200000000001,
+        "text": " But it wasn't until I was like 20s really, a few years ago"
+    },
+    {
+        "start": 1329.1200000000001,
+        "end": 1330.96,
+        "text": " and I was just sitting at home and being a friend."
+    },
+    {
+        "start": 1331.68,
+        "end": 1334.88,
+        "text": " I was going through Netflix and we finally found Drag Race."
+    },
+    {
+        "start": 1335.8400000000001,
+        "end": 1337.92,
+        "text": " And the rest is history really."
+    },
+    {
+        "start": 1337.92,
+        "end": 1340.88,
+        "text": " I mean, I'm just absolutely obsessed."
+    },
+    {
+        "start": 1340.88,
+        "end": 1342.48,
+        "text": " It's really changed my life."
+    },
+    {
+        "start": 1342.48,
+        "end": 1344.4,
+        "text": " Do you think it's got a lot to do with your hair,"
+    },
+    {
+        "start": 1344.4,
+        "end": 1346.0,
+        "text": " your hair dresser as well, maybe?"
+    },
+    {
+        "start": 1346.0,
+        "end": 1346.72,
+        "text": " Oh, yes."
+    },
+    {
+        "start": 1346.72,
+        "end": 1350.64,
+        "text": " And my hair stylist Aaron Carlos, when I moved to London,"
+    },
+    {
+        "start": 1350.64,
+        "end": 1352.3200000000002,
+        "text": " he sort of took me under his wing,"
+    },
+    {
+        "start": 1352.3200000000002,
+        "end": 1354.64,
+        "text": " took me round London to all the fabulous"
+    },
+    {
+        "start": 1354.64,
+        "end": 1356.16,
+        "text": " day bars, all the drags."
+    },
+    {
+        "start": 1356.16,
+        "end": 1356.88,
+        "text": " And corrupted you."
+    },
+    {
+        "start": 1356.88,
+        "end": 1357.92,
+        "text": " And all the drags."
+    },
+    {
+        "start": 1357.92,
+        "end": 1359.76,
+        "text": " So I've got a lot to listen in as well."
+    },
+    {
+        "start": 1359.76,
+        "end": 1363.1200000000001,
+        "text": " Listen, what do you think makes you connect it to the art of drag?"
+    },
+    {
+        "start": 1363.1200000000001,
+        "end": 1365.76,
+        "text": " I just think it's absolutely incredible."
+    },
+    {
+        "start": 1365.76,
+        "end": 1370.48,
+        "text": " Like it's an art form, you know, how these people sort of transform themselves,"
+    },
+    {
+        "start": 1370.48,
+        "end": 1372.72,
+        "text": " you know, especially when they're just sort of"
+    },
+    {
+        "start": 1372.72,
+        "end": 1375.1200000000001,
+        "text": " adversely that they can face with the public eye."
+    },
+    {
+        "start": 1375.1200000000001,
+        "end": 1375.5200000000002,
+        "text": " Yeah."
+    },
+    {
+        "start": 1375.5200000000002,
+        "end": 1377.2,
+        "text": " I think it's incredibly brave."
+    },
+    {
+        "start": 1377.2,
+        "end": 1380.4,
+        "text": " And for me personally, it's made me a bit of a performer."
+    },
+    {
+        "start": 1380.4,
+        "end": 1383.68,
+        "text": " This sort of idea of, yeah, turning yourself into someone else,"
+    },
+    {
+        "start": 1383.68,
+        "end": 1385.44,
+        "text": " like an old Aurego on stage."
+    },
+    {
+        "start": 1385.44,
+        "end": 1387.2,
+        "text": " Yeah, I just love it."
+    },
+    {
+        "start": 1387.2,
+        "end": 1389.92,
+        "text": " I've seen you perform many times, and I've got to be honest."
+    },
+    {
+        "start": 1389.92,
+        "end": 1390.96,
+        "text": " You are a drag queen."
+    },
+    {
+        "start": 1392.72,
+        "end": 1393.2,
+        "text": " I am."
+    },
+    {
+        "start": 1393.2,
+        "end": 1394.88,
+        "text": " You are such a drag queen."
+    },
+    {
+        "start": 1395.92,
+        "end": 1398.48,
+        "text": " So listen, there's been, we spent lots of time together"
+    },
+    {
+        "start": 1398.48,
+        "end": 1403.28,
+        "text": " surrounded by drag queens, but I want to know what's your most memorable and fabulous story"
+    },
+    {
+        "start": 1403.28,
+        "end": 1404.88,
+        "text": " of drag that sticks out to you?"
+    },
+    {
+        "start": 1404.88,
+        "end": 1406.5600000000002,
+        "text": " Oh god, too many."
+    },
+    {
+        "start": 1406.5600000000002,
+        "end": 1409.92,
+        "text": " Well, I've got a top three, so I was pretty bashed in the walk."
+    },
+    {
+        "start": 1409.92,
+        "end": 1410.5600000000002,
+        "text": " All right, lovely."
+    },
+    {
+        "start": 1410.6399999999999,
+        "end": 1414.56,
+        "text": " But we first once probably when I did the power of music video,"
+    },
+    {
+        "start": 1414.56,
+        "end": 1416.8,
+        "text": " and the Triple League girls, great to be in it."
+    },
+    {
+        "start": 1416.8,
+        "end": 1417.6,
+        "text": " Yes, that was a moment."
+    },
+    {
+        "start": 1417.6,
+        "end": 1419.36,
+        "text": " And I was absolutely star struck."
+    },
+    {
+        "start": 1419.36,
+        "end": 1421.28,
+        "text": " We were shooting the music video on LA,"
+    },
+    {
+        "start": 1421.28,
+        "end": 1424.0,
+        "text": " and the director had come and tell me to sort of calm down,"
+    },
+    {
+        "start": 1424.0,
+        "end": 1426.56,
+        "text": " and like make sure I actually got in front of the camera,"
+    },
+    {
+        "start": 1427.2,
+        "end": 1428.3999999999999,
+        "text": " and remember it with my music."
+    },
+    {
+        "start": 1428.3999999999999,
+        "end": 1429.2,
+        "text": " You know, nothing."
+    },
+    {
+        "start": 1429.2,
+        "end": 1431.44,
+        "text": " So I was standing like an Aurego."
+    },
+    {
+        "start": 1431.44,
+        "end": 1432.32,
+        "text": " I love that."
+    },
+    {
+        "start": 1432.32,
+        "end": 1435.84,
+        "text": " And they were so lovely to me, and still good friends,"
+    },
+    {
+        "start": 1435.84,
+        "end": 1439.84,
+        "text": " supporting me and Willem, who's having time in LA messages."
+    },
+    {
+        "start": 1440.32,
+        "end": 1444.08,
+        "text": " Also, when I met RuPaul, that was..."
+    },
+    {
+        "start": 1444.08,
+        "end": 1444.72,
+        "text": " Get out."
+    },
+    {
+        "start": 1444.72,
+        "end": 1445.6799999999998,
+        "text": " When did that happen?"
+    },
+    {
+        "start": 1445.6799999999998,
+        "end": 1446.72,
+        "text": " Yeah, I would literally."
+    },
+    {
+        "start": 1446.72,
+        "end": 1450.32,
+        "text": " For me, like my two idols in life are RuPaul and Jaina Rass,"
+    },
+    {
+        "start": 1450.32,
+        "end": 1452.48,
+        "text": " and I'm just a sort of con for these."
+    },
+    {
+        "start": 1452.48,
+        "end": 1456.08,
+        "text": " I met, I was willing to buy a doll for $1,000"
+    },
+    {
+        "start": 1456.08,
+        "end": 1458.48,
+        "text": " at the drag conference just to meet RuPaul."
+    },
+    {
+        "start": 1459.6799999999998,
+        "end": 1460.72,
+        "text": " That's kind of a question."
+    },
+    {
+        "start": 1460.72,
+        "end": 1461.6799999999998,
+        "text": " That's right, I was."
+    },
+    {
+        "start": 1461.6799999999998,
+        "end": 1462.48,
+        "text": " Yeah."
+    },
+    {
+        "start": 1462.48,
+        "end": 1465.4399999999998,
+        "text": " But luckily Michelle got us in there to meet up with him,"
+    },
+    {
+        "start": 1465.4399999999998,
+        "end": 1467.04,
+        "text": " and he was so lovely."
+    },
+    {
+        "start": 1467.04,
+        "end": 1469.6,
+        "text": " He's very good at making anyone feel special."
+    },
+    {
+        "start": 1469.6,
+        "end": 1470.7199999999998,
+        "text": " Do you think he knew who you were?"
+    },
+    {
+        "start": 1470.7199999999998,
+        "end": 1473.52,
+        "text": " Oh, yeah, he did, which I was also like, featured this about."
+    },
+    {
+        "start": 1473.52,
+        "end": 1478.32,
+        "text": " He just, he thanked me for what I've been trying to do with my way in there."
+    },
+    {
+        "start": 1478.32,
+        "end": 1478.9599999999998,
+        "text": " And you do?"
+    },
+    {
+        "start": 1478.9599999999998,
+        "end": 1480.1599999999999,
+        "text": " You do so wonderfully."
+    },
+    {
+        "start": 1480.1599999999999,
+        "end": 1482.48,
+        "text": " And yeah, what I've been doing for the community."
+    },
+    {
+        "start": 1482.48,
+        "end": 1485.84,
+        "text": " Okay, so listen, finally, everybody needs a drag queen name."
+    },
+    {
+        "start": 1485.84,
+        "end": 1488.8,
+        "text": " So what would be your drag queen name, Jade?"
+    },
+    {
+        "start": 1488.8,
+        "end": 1492.1599999999999,
+        "text": " Oh, well, Willem did name his..."
+    },
+    {
+        "start": 1493.1999999999998,
+        "end": 1494.3999999999999,
+        "text": " She need a nibble."
+    },
+    {
+        "start": 1495.36,
+        "end": 1497.12,
+        "text": " Because every time I've gone in, I out,"
+    },
+    {
+        "start": 1497.12,
+        "end": 1499.1999999999998,
+        "text": " I have some sort of snack in my bag."
+    },
+    {
+        "start": 1499.2,
+        "end": 1501.2,
+        "text": " Do you know, I can actually vouch for you on that,"
+    },
+    {
+        "start": 1501.2,
+        "end": 1502.96,
+        "text": " because I remember when you came to think the pink"
+    },
+    {
+        "start": 1502.96,
+        "end": 1506.0,
+        "text": " and you opened your clutch bag and pulled out a derrily dunkle."
+    },
+    {
+        "start": 1508.16,
+        "end": 1509.1200000000001,
+        "text": " I'm like, what?"
+    },
+    {
+        "start": 1510.88,
+        "end": 1512.0,
+        "text": " I always love to have a snack."
+    },
+    {
+        "start": 1512.0,
+        "end": 1513.68,
+        "text": " You never know when you're going to need it."
+    },
+    {
+        "start": 1513.68,
+        "end": 1517.52,
+        "text": " If you're absolutely feeling you need a little snack."
+    },
+    {
+        "start": 1517.52,
+        "end": 1519.76,
+        "text": " Well, listen, babe, thank you so much."
+    },
+    {
+        "start": 1519.76,
+        "end": 1522.32,
+        "text": " You are officially a full-on drag addict."
+    },
+    {
+        "start": 1522.32,
+        "end": 1522.96,
+        "text": " I am."
+    },
+    {
+        "start": 1522.96,
+        "end": 1525.6000000000001,
+        "text": " I'm going to let you get back to the beach, enjoy the sun,"
+    },
+    {
+        "start": 1525.6000000000001,
+        "end": 1527.68,
+        "text": " and I will catch up with you in a drag bar soon."
+    },
+    {
+        "start": 1527.76,
+        "end": 1529.04,
+        "text": " Thank you so much."
+    },
+    {
+        "start": 1529.04,
+        "end": 1530.0,
+        "text": " It's a pleasure."
+    },
+    {
+        "start": 1530.0,
+        "end": 1531.04,
+        "text": " And I'll be soon."
+    },
+    {
+        "start": 1531.04,
+        "end": 1532.0800000000002,
+        "text": " Loads of love, Jade."
+    },
+    {
+        "start": 1532.0800000000002,
+        "end": 1532.72,
+        "text": " Kisses."
+    },
+    {
+        "start": 1532.72,
+        "end": 1533.92,
+        "text": " Bye, babe."
+    },
+    {
+        "start": 1536.0800000000002,
+        "end": 1537.1200000000001,
+        "text": " Oh, you big boy."
+    },
+    {
+        "start": 1537.1200000000001,
+        "end": 1538.5600000000002,
+        "text": " Greg, your radio show is..."
+    },
+    {
+        "start": 1540.0800000000002,
+        "end": 1541.28,
+        "text": " Thank you, Gordon."
+    },
+    {
+        "start": 1541.28,
+        "end": 1542.72,
+        "text": " Radio one breakfast."
+    },
+    {
+        "start": 1542.72,
+        "end": 1544.0,
+        "text": " With Greg James."
+    },
+    {
+        "start": 1544.0,
+        "end": 1547.3600000000001,
+        "text": " This podcast is a daily bit of nonsense."
+    },
+    {
+        "start": 1547.3600000000001,
+        "end": 1549.8400000000001,
+        "text": " Come and give us your unpopular opinion."
+    },
+    {
+        "start": 1549.8400000000001,
+        "end": 1552.3200000000002,
+        "text": " I believe that dinosaurs cannot exist."
+    },
+    {
+        "start": 1552.3200000000002,
+        "end": 1554.3200000000002,
+        "text": " Oh, come on."
+    },
+    {
+        "start": 1554.3200000000002,
+        "end": 1555.3600000000001,
+        "text": " Greg James."
+    },
+    {
+        "start": 1555.36,
+        "end": 1556.4799999999998,
+        "text": " If it sounds like your thing,"
+    },
+    {
+        "start": 1556.4799999999998,
+        "end": 1559.28,
+        "text": " then download it from the new BBC Sounds app."
+    },
+    {
+        "start": 1559.28,
+        "end": 1560.4799999999998,
+        "text": " That sounds fancy, doesn't it?"
+    },
+    {
+        "start": 1564.7199999999998,
+        "end": 1566.8799999999999,
+        "text": " I've seen you running in heels and a jockstrap,"
+    },
+    {
+        "start": 1566.8799999999999,
+        "end": 1569.1999999999998,
+        "text": " just a jockstrap all the way down the Kingsland Road before."
+    },
+    {
+        "start": 1572.56,
+        "end": 1573.84,
+        "text": " Look, I want to flip this now,"
+    },
+    {
+        "start": 1573.84,
+        "end": 1575.28,
+        "text": " because there is a lot of..."
+    },
+    {
+        "start": 1575.28,
+        "end": 1579.4399999999998,
+        "text": " A UK-Drag scene, for me, is so exciting."
+    },
+    {
+        "start": 1579.4399999999998,
+        "end": 1580.08,
+        "text": " Yeah."
+    },
+    {
+        "start": 1580.08,
+        "end": 1581.6799999999998,
+        "text": " You've traveled around the UK a fair bit."
+    },
+    {
+        "start": 1581.6799999999998,
+        "end": 1584.3999999999999,
+        "text": " So where are you loving in the UK for the drag scenes?"
+    },
+    {
+        "start": 1584.5600000000002,
+        "end": 1586.0,
+        "text": " Well, obviously London is great,"
+    },
+    {
+        "start": 1586.0,
+        "end": 1587.3600000000001,
+        "text": " and all different parts of London"
+    },
+    {
+        "start": 1587.3600000000001,
+        "end": 1588.8000000000002,
+        "text": " has kind of different parts of drag,"
+    },
+    {
+        "start": 1588.8000000000002,
+        "end": 1590.96,
+        "text": " but there's Liverpool, which is great."
+    },
+    {
+        "start": 1590.96,
+        "end": 1593.52,
+        "text": " There's Manchester, which is probably one of the strongest."
+    },
+    {
+        "start": 1593.52,
+        "end": 1595.1200000000001,
+        "text": " Yes, those girls are..."
+    },
+    {
+        "start": 1595.1200000000001,
+        "end": 1595.8400000000001,
+        "text": " They're up."
+    },
+    {
+        "start": 1595.8400000000001,
+        "end": 1597.8400000000001,
+        "text": " I mean, we're a bit scared of them, to be honest."
+    },
+    {
+        "start": 1597.8400000000001,
+        "end": 1598.96,
+        "text": " They're so good."
+    },
+    {
+        "start": 1598.96,
+        "end": 1599.8400000000001,
+        "text": " They're really good."
+    },
+    {
+        "start": 1599.8400000000001,
+        "end": 1600.64,
+        "text": " They're very good."
+    },
+    {
+        "start": 1600.64,
+        "end": 1601.44,
+        "text": " You should be scared,"
+    },
+    {
+        "start": 1601.44,
+        "end": 1602.96,
+        "text": " but they're a different kind of drag."
+    },
+    {
+        "start": 1602.96,
+        "end": 1605.92,
+        "text": " You know, London traditionally has that kind of..."
+    },
+    {
+        "start": 1606.96,
+        "end": 1608.48,
+        "text": " And don't take this the wrong way."
+    },
+    {
+        "start": 1608.48,
+        "end": 1609.1200000000001,
+        "text": " Sloppy."
+    },
+    {
+        "start": 1609.1200000000001,
+        "end": 1610.16,
+        "text": " Yeah."
+    },
+    {
+        "start": 1610.16,
+        "end": 1611.44,
+        "text": " It's set in my script."
+    },
+    {
+        "start": 1611.44,
+        "end": 1612.16,
+        "text": " Sloppy drag."
+    },
+    {
+        "start": 1612.16,
+        "end": 1613.0400000000002,
+        "text": " Yeah, it does, but..."
+    },
+    {
+        "start": 1613.0400000000002,
+        "end": 1613.8400000000001,
+        "text": " I wrote it."
+    },
+    {
+        "start": 1613.9199999999998,
+        "end": 1614.9599999999998,
+        "text": " But it's..."
+    },
+    {
+        "start": 1614.9599999999998,
+        "end": 1616.24,
+        "text": " That's not a bad thing."
+    },
+    {
+        "start": 1616.24,
+        "end": 1617.76,
+        "text": " No, because it's not without character."
+    },
+    {
+        "start": 1617.76,
+        "end": 1620.32,
+        "text": " A hundred percent, and I love going to the Admiral Duncan"
+    },
+    {
+        "start": 1620.32,
+        "end": 1623.6799999999998,
+        "text": " and just kind of peaking in and watching those girls just sing."
+    },
+    {
+        "start": 1623.6799999999998,
+        "end": 1625.6799999999998,
+        "text": " And it's amazing."
+    },
+    {
+        "start": 1625.6799999999998,
+        "end": 1627.1999999999998,
+        "text": " So there's that, and then there's Manchester,"
+    },
+    {
+        "start": 1627.1999999999998,
+        "end": 1631.9199999999998,
+        "text": " which is really gender F and fully adorned."
+    },
+    {
+        "start": 1631.9199999999998,
+        "end": 1632.3999999999999,
+        "text": " Yeah."
+    },
+    {
+        "start": 1632.3999999999999,
+        "end": 1635.9199999999998,
+        "text": " They very much embrace the whole Rupal's drag race,"
+    },
+    {
+        "start": 1635.9199999999998,
+        "end": 1637.1999999999998,
+        "text": " aesthetic,"
+    },
+    {
+        "start": 1637.1999999999998,
+        "end": 1640.1599999999999,
+        "text": " and giving it their own very British flair."
+    },
+    {
+        "start": 1640.1599999999999,
+        "end": 1640.56,
+        "text": " Yes."
+    },
+    {
+        "start": 1640.56,
+        "end": 1642.24,
+        "text": " I thought Manchester, those Manchester..."
+    },
+    {
+        "start": 1642.24,
+        "end": 1643.4399999999998,
+        "text": " If you met Lil Queen, she's..."
+    },
+    {
+        "start": 1643.52,
+        "end": 1644.24,
+        "text": " Of course."
+    },
+    {
+        "start": 1644.24,
+        "end": 1644.72,
+        "text": " Yeah."
+    },
+    {
+        "start": 1644.72,
+        "end": 1646.24,
+        "text": " Lil is the Ador Delano of the..."
+    },
+    {
+        "start": 1646.24,
+        "end": 1647.6000000000001,
+        "text": " Oh my god, she's an ador."
+    },
+    {
+        "start": 1647.6000000000001,
+        "end": 1648.64,
+        "text": " I mean, I just adore her."
+    },
+    {
+        "start": 1648.64,
+        "end": 1649.2,
+        "text": " She's amazing."
+    },
+    {
+        "start": 1649.2,
+        "end": 1649.68,
+        "text": " I do too."
+    },
+    {
+        "start": 1649.68,
+        "end": 1650.48,
+        "text": " And she's too..."
+    },
+    {
+        "start": 1650.48,
+        "end": 1651.1200000000001,
+        "text": " And I'm an pedagogist."
+    },
+    {
+        "start": 1651.1200000000001,
+        "end": 1651.68,
+        "text": " Is an unbelievable..."
+    },
+    {
+        "start": 1651.68,
+        "end": 1652.56,
+        "text": " Pedagogist, my friend."
+    },
+    {
+        "start": 1652.56,
+        "end": 1653.92,
+        "text": " Yes, there you go."
+    },
+    {
+        "start": 1653.92,
+        "end": 1657.76,
+        "text": " And I just think that those girls are absolutely nailing it."
+    },
+    {
+        "start": 1657.76,
+        "end": 1658.96,
+        "text": " Jackie, we've..."
+    },
+    {
+        "start": 1658.96,
+        "end": 1660.0,
+        "text": " We've done some chores with them."
+    },
+    {
+        "start": 1660.0,
+        "end": 1661.2,
+        "text": " There's like, which black, there's..."
+    },
+    {
+        "start": 1661.2,
+        "end": 1661.68,
+        "text": " Yeah."
+    },
+    {
+        "start": 1661.68,
+        "end": 1662.96,
+        "text": " And he's a lactic, there's, you know,"
+    },
+    {
+        "start": 1662.96,
+        "end": 1664.8,
+        "text": " Grace Onnie Smith, who's trans"
+    },
+    {
+        "start": 1664.8,
+        "end": 1666.56,
+        "text": " and one of my favorite Queen's, yeah."
+    },
+    {
+        "start": 1666.56,
+        "end": 1667.28,
+        "text": " My love, actually..."
+    },
+    {
+        "start": 1667.28,
+        "end": 1668.96,
+        "text": " You've actually been in the Bethel Greenwick men's club."
+    },
+    {
+        "start": 1668.96,
+        "end": 1669.6000000000001,
+        "text": " I have."
+    },
+    {
+        "start": 1669.6000000000001,
+        "end": 1670.24,
+        "text": " Yeah, I have."
+    },
+    {
+        "start": 1670.24,
+        "end": 1670.88,
+        "text": " I think you did it."
+    },
+    {
+        "start": 1670.88,
+        "end": 1672.0,
+        "text": " I think you made of..."
+    },
+    {
+        "start": 1672.0,
+        "end": 1672.8,
+        "text": " Recently."
+    },
+    {
+        "start": 1672.8,
+        "end": 1673.28,
+        "text": " Judd..."
+    },
+    {
+        "start": 1673.28,
+        "end": 1674.08,
+        "text": " I did."
+    },
+    {
+        "start": 1674.08,
+        "end": 1675.52,
+        "text": " Did you really?"
+    },
+    {
+        "start": 1675.52,
+        "end": 1676.72,
+        "text": " Margot was there."
+    },
+    {
+        "start": 1676.72,
+        "end": 1677.36,
+        "text": " Oh."
+    },
+    {
+        "start": 1677.36,
+        "end": 1679.68,
+        "text": " I mean, we messed that place up good and proper."
+    },
+    {
+        "start": 1679.68,
+        "end": 1680.32,
+        "text": " I mean, they're still going..."
+    },
+    {
+        "start": 1680.32,
+        "end": 1681.1200000000001,
+        "text": " It smells like it."
+    },
+    {
+        "start": 1681.1200000000001,
+        "end": 1682.16,
+        "text": " It stinks."
+    },
+    {
+        "start": 1682.16,
+        "end": 1683.2,
+        "text": " So I'll tell you,"
+    },
+    {
+        "start": 1683.2,
+        "end": 1684.56,
+        "text": " I'll dress in me, we used to be where they..."
+    },
+    {
+        "start": 1684.56,
+        "end": 1686.72,
+        "text": " This old dying cat used to be."
+    },
+    {
+        "start": 1686.72,
+        "end": 1687.04,
+        "text": " Oh."
+    },
+    {
+        "start": 1687.04,
+        "end": 1687.52,
+        "text": " And it was so..."
+    },
+    {
+        "start": 1687.52,
+        "end": 1688.0,
+        "text": " The cat room."
+    },
+    {
+        "start": 1688.0,
+        "end": 1688.64,
+        "text": " The cat room."
+    },
+    {
+        "start": 1688.64,
+        "end": 1689.84,
+        "text": " And it was so far from the toilet."
+    },
+    {
+        "start": 1689.84,
+        "end": 1690.88,
+        "text": " I can smell it without even being there."
+    },
+    {
+        "start": 1690.88,
+        "end": 1691.92,
+        "text": " Yeah, so far from the toilet,"
+    },
+    {
+        "start": 1691.92,
+        "end": 1694.08,
+        "text": " so we just used all we in the kitty litter tray."
+    },
+    {
+        "start": 1694.56,
+        "end": 1696.08,
+        "text": " Oh, defiantly."
+    },
+    {
+        "start": 1696.08,
+        "end": 1697.28,
+        "text": " Yeah, really nice."
+    },
+    {
+        "start": 1697.28,
+        "end": 1697.92,
+        "text": " Lovely."
+    },
+    {
+        "start": 1697.92,
+        "end": 1700.0,
+        "text": " How's Ru going to get on with the regional accent?"
+    },
+    {
+        "start": 1700.24,
+        "end": 1701.2,
+        "text": " He'll get it."
+    },
+    {
+        "start": 1701.2,
+        "end": 1702.32,
+        "text": " It's the scouse."
+    },
+    {
+        "start": 1702.32,
+        "end": 1703.36,
+        "text": " It's the Jordy."
+    },
+    {
+        "start": 1703.36,
+        "end": 1703.76,
+        "text": " Right."
+    },
+    {
+        "start": 1703.76,
+        "end": 1705.76,
+        "text": " It's the Northern Irish as well."
+    },
+    {
+        "start": 1705.76,
+        "end": 1706.96,
+        "text": " But this one of my favourite accents..."
+    },
+    {
+        "start": 1706.96,
+        "end": 1707.76,
+        "text": " I'm on the planet."
+    },
+    {
+        "start": 1707.76,
+        "end": 1708.56,
+        "text": " Hi, are you?"
+    },
+    {
+        "start": 1708.56,
+        "end": 1710.56,
+        "text": " I'm going to cantarga shed out of this."
+    },
+    {
+        "start": 1710.56,
+        "end": 1711.28,
+        "text": " I love it."
+    },
+    {
+        "start": 1711.28,
+        "end": 1712.16,
+        "text": " Hi, are you?"
+    },
+    {
+        "start": 1712.16,
+        "end": 1712.8,
+        "text": " Hi, are you?"
+    },
+    {
+        "start": 1712.8,
+        "end": 1714.72,
+        "text": " One of our best friends, John Bonne blonde,"
+    },
+    {
+        "start": 1714.72,
+        "end": 1717.36,
+        "text": " is she's got a really thick,"
+    },
+    {
+        "start": 1717.36,
+        "end": 1719.04,
+        "text": " thick accent that Ru would struggle with."
+    },
+    {
+        "start": 1719.04,
+        "end": 1720.0,
+        "text": " It's one of my favourite accents."
+    },
+    {
+        "start": 1720.0,
+        "end": 1720.64,
+        "text": " I love it."
+    },
+    {
+        "start": 1720.64,
+        "end": 1721.04,
+        "text": " It's great."
+    },
+    {
+        "start": 1721.04,
+        "end": 1723.52,
+        "text": " I don't think Northern Irish is as hard as Glasgow."
+    },
+    {
+        "start": 1723.52,
+        "end": 1724.48,
+        "text": " Oh, you got, yeah."
+    },
+    {
+        "start": 1724.48,
+        "end": 1724.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 1724.96,
+        "end": 1726.8,
+        "text": " And a drunken glasswee gin accent."
+    },
+    {
+        "start": 1726.8,
+        "end": 1727.04,
+        "text": " Oh, right."
+    },
+    {
+        "start": 1727.04,
+        "end": 1727.92,
+        "text": " If you've been to Bristol,"
+    },
+    {
+        "start": 1727.92,
+        "end": 1728.48,
+        "text": " yeah, I have to."
+    },
+    {
+        "start": 1728.48,
+        "end": 1729.6,
+        "text": " So I'm from Bristol."
+    },
+    {
+        "start": 1729.6799999999998,
+        "end": 1731.36,
+        "text": " But I've londoned out there."
+    },
+    {
+        "start": 1731.36,
+        "end": 1732.3999999999999,
+        "text": " Have you poshed it out?"
+    },
+    {
+        "start": 1732.3999999999999,
+        "end": 1733.28,
+        "text": " A little bit darling, too."
+    },
+    {
+        "start": 1733.28,
+        "end": 1734.08,
+        "text": " Yeah."
+    },
+    {
+        "start": 1734.08,
+        "end": 1737.84,
+        "text": " But a really thick, Bristol accent is just proper."
+    },
+    {
+        "start": 1737.84,
+        "end": 1740.7199999999998,
+        "text": " Yeah, but you can even go to West Country or Coxwolds"
+    },
+    {
+        "start": 1740.7199999999998,
+        "end": 1743.1999999999998,
+        "text": " and you get some of those farming queens up there."
+    },
+    {
+        "start": 1743.1999999999998,
+        "end": 1745.04,
+        "text": " I mean, that's the exciting thing, right?"
+    },
+    {
+        "start": 1745.04,
+        "end": 1745.9199999999998,
+        "text": " Imagine if, you know,"
+    },
+    {
+        "start": 1745.9199999999998,
+        "end": 1746.8,
+        "text": " Huddersfield queens,"
+    },
+    {
+        "start": 1746.8,
+        "end": 1748.6399999999999,
+        "text": " and we get a queen right from Lanzend."
+    },
+    {
+        "start": 1748.6399999999999,
+        "end": 1749.12,
+        "text": " Yeah."
+    },
+    {
+        "start": 1749.12,
+        "end": 1749.9199999999998,
+        "text": " That's what I want to see."
+    },
+    {
+        "start": 1749.9199999999998,
+        "end": 1750.48,
+        "text": " Yeah, same."
+    },
+    {
+        "start": 1752.8799999999999,
+        "end": 1754.56,
+        "text": " The magic of drag is,"
+    },
+    {
+        "start": 1754.56,
+        "end": 1755.84,
+        "text": " it's like the language of love."
+    },
+    {
+        "start": 1760.56,
+        "end": 1762.8,
+        "text": " So what are your thoughts on female drag?"
+    },
+    {
+        "start": 1762.8,
+        "end": 1764.0,
+        "text": " Well, I am a drag queen."
+    },
+    {
+        "start": 1764.0,
+        "end": 1765.12,
+        "text": " No, but I mean, yeah, you are."
+    },
+    {
+        "start": 1765.12,
+        "end": 1766.56,
+        "text": " I have a tattooed on my thigh."
+    },
+    {
+        "start": 1766.56,
+        "end": 1767.12,
+        "text": " Do you?"
+    },
+    {
+        "start": 1767.12,
+        "end": 1768.24,
+        "text": " Yeah, look, I'll show you."
+    },
+    {
+        "start": 1768.24,
+        "end": 1769.04,
+        "text": " Get it out."
+    },
+    {
+        "start": 1769.04,
+        "end": 1769.84,
+        "text": " I'm going to whip it out."
+    },
+    {
+        "start": 1769.84,
+        "end": 1770.8799999999999,
+        "text": " Yeah, do it."
+    },
+    {
+        "start": 1771.52,
+        "end": 1772.32,
+        "text": " Let's have a look."
+    },
+    {
+        "start": 1772.32,
+        "end": 1772.8,
+        "text": " Ready?"
+    },
+    {
+        "start": 1772.8,
+        "end": 1773.76,
+        "text": " Have a little look at this."
+    },
+    {
+        "start": 1773.76,
+        "end": 1774.32,
+        "text": " Good."
+    },
+    {
+        "start": 1774.32,
+        "end": 1775.1999999999998,
+        "text": " Oh my god."
+    },
+    {
+        "start": 1775.1999999999998,
+        "end": 1776.3999999999999,
+        "text": " Yes, you do."
+    },
+    {
+        "start": 1776.3999999999999,
+        "end": 1777.04,
+        "text": " Drag queen."
+    },
+    {
+        "start": 1777.04,
+        "end": 1777.76,
+        "text": " Are you been dancing?"
+    },
+    {
+        "start": 1777.76,
+        "end": 1778.24,
+        "text": " How many you go?"
+    },
+    {
+        "start": 1778.24,
+        "end": 1779.9199999999998,
+        "text": " That's sturdy thigh."
+    },
+    {
+        "start": 1779.9199999999998,
+        "end": 1781.6799999999998,
+        "text": " Well, you know me jumping up on tables."
+    },
+    {
+        "start": 1784.32,
+        "end": 1787.76,
+        "text": " Female drag is again all relative."
+    },
+    {
+        "start": 1787.76,
+        "end": 1789.4399999999998,
+        "text": " Because it's a real big thing right now."
+    },
+    {
+        "start": 1789.44,
+        "end": 1790.48,
+        "text": " Especially in London."
+    },
+    {
+        "start": 1790.48,
+        "end": 1791.04,
+        "text": " Especially over here."
+    },
+    {
+        "start": 1791.04,
+        "end": 1792.3200000000002,
+        "text": " Well, here's at the end of the day,"
+    },
+    {
+        "start": 1793.04,
+        "end": 1795.04,
+        "text": " I've always considered myself a drag queen"
+    },
+    {
+        "start": 1795.04,
+        "end": 1796.48,
+        "text": " because I've always been called a drag queen."
+    },
+    {
+        "start": 1796.48,
+        "end": 1798.64,
+        "text": " Not just by Rue, who calls me a drag queen all the time."
+    },
+    {
+        "start": 1799.2,
+        "end": 1802.16,
+        "text": " But by, you know, when I walked the whole ballroom circuit,"
+    },
+    {
+        "start": 1802.16,
+        "end": 1804.8,
+        "text": " I was always called a queen and a drag queen."
+    },
+    {
+        "start": 1804.8,
+        "end": 1807.68,
+        "text": " So for me, it wasn't because I never,"
+    },
+    {
+        "start": 1807.68,
+        "end": 1810.3200000000002,
+        "text": " it was never about genitalia."
+    },
+    {
+        "start": 1810.88,
+        "end": 1815.2,
+        "text": " It was never about birth identity, matching my gender."
+    },
+    {
+        "start": 1815.2,
+        "end": 1817.44,
+        "text": " It was just, she's a drag queen."
+    },
+    {
+        "start": 1817.44,
+        "end": 1817.76,
+        "text": " She's queen."
+    },
+    {
+        "start": 1817.76,
+        "end": 1818.0800000000002,
+        "text": " Yeah."
+    },
+    {
+        "start": 1818.0800000000002,
+        "end": 1818.8,
+        "text": " Always."
+    },
+    {
+        "start": 1818.96,
+        "end": 1822.56,
+        "text": " So this whole shift in society has me a little bit like,"
+    },
+    {
+        "start": 1822.56,
+        "end": 1823.2,
+        "text": " wait a minute."
+    },
+    {
+        "start": 1823.2,
+        "end": 1829.68,
+        "text": " So, you know, not to take anything away from the original,"
+    },
+    {
+        "start": 1829.68,
+        "end": 1831.76,
+        "text": " you know, the art of original drag,"
+    },
+    {
+        "start": 1831.76,
+        "end": 1834.0,
+        "text": " which is men and trans women."
+    },
+    {
+        "start": 1834.0,
+        "end": 1834.32,
+        "text": " Yeah."
+    },
+    {
+        "start": 1834.32,
+        "end": 1835.36,
+        "text": " Female expression."
+    },
+    {
+        "start": 1835.36,
+        "end": 1836.1599999999999,
+        "text": " Yes."
+    },
+    {
+        "start": 1836.1599999999999,
+        "end": 1838.0,
+        "text": " And I would never want to say,"
+    },
+    {
+        "start": 1838.0,
+        "end": 1839.52,
+        "text": " oh, you know, I've always,"
+    },
+    {
+        "start": 1839.52,
+        "end": 1842.56,
+        "text": " no, because it is what it is and I honor that."
+    },
+    {
+        "start": 1842.56,
+        "end": 1843.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 1843.52,
+        "end": 1847.76,
+        "text": " But I feel like it's grown now to anybody doing it."
+    },
+    {
+        "start": 1847.76,
+        "end": 1849.2,
+        "text": " And, you know, the thing is, you know,"
+    },
+    {
+        "start": 1849.2,
+        "end": 1850.8799999999999,
+        "text": " it wouldn't have grown without a real drag race."
+    },
+    {
+        "start": 1850.8799999999999,
+        "end": 1854.0,
+        "text": " That's the weird theme, because you go to the shows with all the girls."
+    },
+    {
+        "start": 1854.72,
+        "end": 1856.0,
+        "text": " And it's just girls."
+    },
+    {
+        "start": 1856.0,
+        "end": 1857.52,
+        "text": " And they need a lot of girls and young guys."
+    },
+    {
+        "start": 1857.52,
+        "end": 1858.56,
+        "text": " But you know why?"
+    },
+    {
+        "start": 1858.56,
+        "end": 1859.36,
+        "text": " It's so good."
+    },
+    {
+        "start": 1859.36,
+        "end": 1860.0,
+        "text": " For me,"
+    },
+    {
+        "start": 1861.84,
+        "end": 1864.8,
+        "text": " I've seen it shift when I started going out with the girls"
+    },
+    {
+        "start": 1866.4,
+        "end": 1869.2,
+        "text": " five years ago, six years ago, it was, you know,"
+    },
+    {
+        "start": 1869.2,
+        "end": 1871.04,
+        "text": " middle aged gay men and gay bars."
+    },
+    {
+        "start": 1871.04,
+        "end": 1872.24,
+        "text": " We didn't do big venues."
+    },
+    {
+        "start": 1872.24,
+        "end": 1872.72,
+        "text": " High."
+    },
+    {
+        "start": 1872.72,
+        "end": 1873.44,
+        "text": " Right."
+    },
+    {
+        "start": 1873.44,
+        "end": 1873.84,
+        "text": " Right."
+    },
+    {
+        "start": 1874.8,
+        "end": 1875.84,
+        "text": " My audience."
+    },
+    {
+        "start": 1876.8,
+        "end": 1878.0,
+        "text": " So it was home for me."
+    },
+    {
+        "start": 1878.0,
+        "end": 1878.1599999999999,
+        "text": " Yeah."
+    },
+    {
+        "start": 1878.1599999999999,
+        "end": 1879.9199999999998,
+        "text": " And then the audiences were getting younger and younger."
+    },
+    {
+        "start": 1879.9199999999998,
+        "end": 1881.84,
+        "text": " Then I started seeing head-or-roll couples coming together."
+    },
+    {
+        "start": 1881.84,
+        "end": 1882.24,
+        "text": " Yes."
+    },
+    {
+        "start": 1882.24,
+        "end": 1883.28,
+        "text": " Mothers and their kids,"
+    },
+    {
+        "start": 1883.28,
+        "end": 1884.8799999999999,
+        "text": " which to me being a mother of a queer kid"
+    },
+    {
+        "start": 1884.8799999999999,
+        "end": 1887.36,
+        "text": " means a lot to see a mother standing by their queer child,"
+    },
+    {
+        "start": 1887.36,
+        "end": 1889.6,
+        "text": " who is obviously struggling not just with identity,"
+    },
+    {
+        "start": 1889.6,
+        "end": 1891.28,
+        "text": " but with self-love and acceptance."
+    },
+    {
+        "start": 1891.28,
+        "end": 1893.52,
+        "text": " So the fact that their parents, sometimes fathers"
+    },
+    {
+        "start": 1893.52,
+        "end": 1894.3999999999999,
+        "text": " are there with their kid."
+    },
+    {
+        "start": 1894.3999999999999,
+        "end": 1897.6,
+        "text": " I take a second to always say thank you to mom and dad"
+    },
+    {
+        "start": 1897.6,
+        "end": 1898.56,
+        "text": " for being there for your kid,"
+    },
+    {
+        "start": 1898.56,
+        "end": 1900.0,
+        "text": " because more times than not, they're not."
+    },
+    {
+        "start": 1900.0,
+        "end": 1900.48,
+        "text": " I know."
+    },
+    {
+        "start": 1900.48,
+        "end": 1900.9599999999998,
+        "text": " That's powerful."
+    },
+    {
+        "start": 1900.9599999999998,
+        "end": 1901.6799999999998,
+        "text": " Really powerful."
+    },
+    {
+        "start": 1901.6799999999998,
+        "end": 1902.32,
+        "text": " Very powerful."
+    },
+    {
+        "start": 1902.32,
+        "end": 1904.08,
+        "text": " So, yes to the girls."
+    },
+    {
+        "start": 1904.08,
+        "end": 1905.04,
+        "text": " And I'm going to tell you why."
+    },
+    {
+        "start": 1905.12,
+        "end": 1907.92,
+        "text": " Me being a 13-year-old girl, again, was bullied."
+    },
+    {
+        "start": 1907.92,
+        "end": 1908.72,
+        "text": " Didn't fit in."
+    },
+    {
+        "start": 1908.72,
+        "end": 1909.92,
+        "text": " I mean, bullied beat up."
+    },
+    {
+        "start": 1909.92,
+        "end": 1910.32,
+        "text": " Bullied."
+    },
+    {
+        "start": 1910.32,
+        "end": 1912.24,
+        "text": " My parents had to step in quite a few times."
+    },
+    {
+        "start": 1913.44,
+        "end": 1916.6399999999999,
+        "text": " Eating disorders, self-harm, all that stuff."
+    },
+    {
+        "start": 1916.6399999999999,
+        "end": 1917.12,
+        "text": " Right."
+    },
+    {
+        "start": 1917.12,
+        "end": 1920.24,
+        "text": " Self-harm didn't exist then in my day the way it does now."
+    },
+    {
+        "start": 1920.24,
+        "end": 1923.12,
+        "text": " But my self-harm was eating disorders."
+    },
+    {
+        "start": 1923.12,
+        "end": 1923.92,
+        "text": " Very, very badly."
+    },
+    {
+        "start": 1925.04,
+        "end": 1926.8799999999999,
+        "text": " But because I never felt like I fit in"
+    },
+    {
+        "start": 1926.8799999999999,
+        "end": 1928.32,
+        "text": " and I didn't, boys didn't like me."
+    },
+    {
+        "start": 1928.32,
+        "end": 1931.28,
+        "text": " Boys would call me ugly and fat and make fun of me."
+    },
+    {
+        "start": 1931.28,
+        "end": 1933.2,
+        "text": " And I'm not trying to bring it down."
+    },
+    {
+        "start": 1933.2,
+        "end": 1934.08,
+        "text": " I'm trying to prove a point."
+    },
+    {
+        "start": 1934.1599999999999,
+        "end": 1937.6799999999998,
+        "text": " The point is, if I had something like RuPaul's Drag Race"
+    },
+    {
+        "start": 1937.6799999999998,
+        "end": 1941.1999999999998,
+        "text": " to look forward to, maybe that wouldn't have happened."
+    },
+    {
+        "start": 1941.1999999999998,
+        "end": 1942.3999999999999,
+        "text": " I can't say for sure."
+    },
+    {
+        "start": 1942.3999999999999,
+        "end": 1944.3999999999999,
+        "text": " I think it's that for all the weird kids."
+    },
+    {
+        "start": 1944.3999999999999,
+        "end": 1944.8,
+        "text": " Correct."
+    },
+    {
+        "start": 1944.8,
+        "end": 1947.04,
+        "text": " So the weirdos, the misfits, especially the girls"
+    },
+    {
+        "start": 1947.04,
+        "end": 1949.84,
+        "text": " who are at that tender age of 11, 12, 13, 14"
+    },
+    {
+        "start": 1949.84,
+        "end": 1952.08,
+        "text": " who don't fit in, the boys or girls don't like them."
+    },
+    {
+        "start": 1952.08,
+        "end": 1953.28,
+        "text": " They don't feel sexually attractive."
+    },
+    {
+        "start": 1953.28,
+        "end": 1954.6399999999999,
+        "text": " They look in the mirror, hate their body,"
+    },
+    {
+        "start": 1954.6399999999999,
+        "end": 1956.6399999999999,
+        "text": " because they're so used to looking at the Kardashians"
+    },
+    {
+        "start": 1956.6399999999999,
+        "end": 1958.72,
+        "text": " and knowing that they're never going to look like that."
+    },
+    {
+        "start": 1958.72,
+        "end": 1959.9199999999998,
+        "text": " Or the girls on town,"
+    },
+    {
+        "start": 1959.9199999999998,
+        "end": 1961.52,
+        "text": " they're just not going to look like that."
+    },
+    {
+        "start": 1961.52,
+        "end": 1962.48,
+        "text": " And she standards."
+    },
+    {
+        "start": 1962.48,
+        "end": 1963.12,
+        "text": " Correct."
+    },
+    {
+        "start": 1963.1999999999998,
+        "end": 1965.04,
+        "text": " So Drag Race makes them go,"
+    },
+    {
+        "start": 1965.04,
+        "end": 1967.1999999999998,
+        "text": " I can put Trixi Mattel's Makeup on and be okay."
+    },
+    {
+        "start": 1967.1999999999998,
+        "end": 1967.9199999999998,
+        "text": " This is such a..."
+    },
+    {
+        "start": 1967.9199999999998,
+        "end": 1969.76,
+        "text": " I said the other day that..."
+    },
+    {
+        "start": 1969.76,
+        "end": 1971.04,
+        "text": " Drag's like the new emo."
+    },
+    {
+        "start": 1971.04,
+        "end": 1972.3999999999999,
+        "text": " It's becoming a new counter culture."
+    },
+    {
+        "start": 1972.3999999999999,
+        "end": 1973.6,
+        "text": " Oh my God, that's so right."
+    },
+    {
+        "start": 1973.6,
+        "end": 1974.8,
+        "text": " It really is."
+    },
+    {
+        "start": 1974.8,
+        "end": 1977.04,
+        "text": " Do you think that that's why..."
+    },
+    {
+        "start": 1977.04,
+        "end": 1979.76,
+        "text": " I mean, do you think that one day we could have a girl"
+    },
+    {
+        "start": 1979.76,
+        "end": 1980.9599999999998,
+        "text": " on RuPaul's Drag Race tracks?"
+    },
+    {
+        "start": 1981.6799999999998,
+        "end": 1983.28,
+        "text": " You can decide."
+    },
+    {
+        "start": 1983.28,
+        "end": 1984.1599999999999,
+        "text": " You can decide."
+    },
+    {
+        "start": 1984.1599999999999,
+        "end": 1984.6399999999999,
+        "text": " Yeah."
+    },
+    {
+        "start": 1984.6399999999999,
+        "end": 1985.52,
+        "text": " You've got that power."
+    },
+    {
+        "start": 1985.52,
+        "end": 1986.32,
+        "text": " Yeah, absolutely."
+    },
+    {
+        "start": 1986.32,
+        "end": 1987.52,
+        "text": " George B. Funny Minkert."
+    },
+    {
+        "start": 1987.52,
+        "end": 1990.1599999999999,
+        "text": " There's no reason why they couldn't be there."
+    },
+    {
+        "start": 1990.88,
+        "end": 1991.68,
+        "text": " I agree."
+    },
+    {
+        "start": 1991.68,
+        "end": 1993.8400000000001,
+        "text": " But in my head,"
+    },
+    {
+        "start": 1993.8400000000001,
+        "end": 1996.3200000000002,
+        "text": " I feel like it should have its own identity."
+    },
+    {
+        "start": 1996.8000000000002,
+        "end": 1997.8400000000001,
+        "text": " Because I feel like..."
+    },
+    {
+        "start": 1998.64,
+        "end": 2000.4,
+        "text": " Because of the way drag started,"
+    },
+    {
+        "start": 2001.2,
+        "end": 2003.0400000000002,
+        "text": " it's an honoring that process."
+    },
+    {
+        "start": 2003.3600000000001,
+        "end": 2004.0,
+        "text": " Type of thing."
+    },
+    {
+        "start": 2004.0,
+        "end": 2004.48,
+        "text": " Yeah."
+    },
+    {
+        "start": 2004.48,
+        "end": 2005.68,
+        "text": " So maybe..."
+    },
+    {
+        "start": 2005.68,
+        "end": 2007.68,
+        "text": " I think trans women have gone through"
+    },
+    {
+        "start": 2008.48,
+        "end": 2010.72,
+        "text": " a different journey to get to where they are."
+    },
+    {
+        "start": 2011.8400000000001,
+        "end": 2012.96,
+        "text": " It's a different standard."
+    },
+    {
+        "start": 2012.96,
+        "end": 2013.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 2013.44,
+        "end": 2013.76,
+        "text": " Yeah."
+    },
+    {
+        "start": 2013.76,
+        "end": 2015.28,
+        "text": " So it could be a one-off show."
+    },
+    {
+        "start": 2015.28,
+        "end": 2017.2,
+        "text": " Well, I feel like it should have its own series."
+    },
+    {
+        "start": 2017.2,
+        "end": 2017.68,
+        "text": " Yeah."
+    },
+    {
+        "start": 2017.68,
+        "end": 2018.16,
+        "text": " Yeah."
+    },
+    {
+        "start": 2018.16,
+        "end": 2018.48,
+        "text": " Yeah."
+    },
+    {
+        "start": 2018.48,
+        "end": 2019.52,
+        "text": " Transwomen and..."
+    },
+    {
+        "start": 2019.52,
+        "end": 2020.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2020.8,
+        "end": 2022.64,
+        "text": " Bio-identifying women."
+    },
+    {
+        "start": 2022.64,
+        "end": 2022.8,
+        "text": " Yeah."
+    },
+    {
+        "start": 2022.8,
+        "end": 2023.6,
+        "text": " So..."
+    },
+    {
+        "start": 2023.6,
+        "end": 2024.08,
+        "text": " Yeah."
+    },
+    {
+        "start": 2024.08,
+        "end": 2024.96,
+        "text": " The reality is..."
+    },
+    {
+        "start": 2024.96,
+        "end": 2026.4,
+        "text": " And I would love to be the host."
+    },
+    {
+        "start": 2026.4,
+        "end": 2029.2,
+        "text": " Well, I think you're the only person that could be the host."
+    },
+    {
+        "start": 2029.2,
+        "end": 2032.08,
+        "text": " Well, there's plenty out there that are amazingly talented."
+    },
+    {
+        "start": 2032.08,
+        "end": 2034.24,
+        "text": " But I would love to be..."
+    },
+    {
+        "start": 2034.24,
+        "end": 2034.88,
+        "text": " To make that happen."
+    },
+    {
+        "start": 2034.88,
+        "end": 2036.24,
+        "text": " I mean, the crazy thing for me is that."
+    },
+    {
+        "start": 2036.24,
+        "end": 2037.28,
+        "text": " I try Kings as well."
+    },
+    {
+        "start": 2037.28,
+        "end": 2038.4,
+        "text": " Yeah, this is so true."
+    },
+    {
+        "start": 2038.4,
+        "end": 2038.88,
+        "text": " I love it."
+    },
+    {
+        "start": 2038.88,
+        "end": 2039.6,
+        "text": " I support it all."
+    },
+    {
+        "start": 2039.6,
+        "end": 2040.4,
+        "text": " You know what I think is amazing?"
+    },
+    {
+        "start": 2040.4,
+        "end": 2041.68,
+        "text": " Well, there is..."
+    },
+    {
+        "start": 2043.2,
+        "end": 2046.08,
+        "text": " Bio-Queen or sort of female drag and drag Kings."
+    },
+    {
+        "start": 2046.08,
+        "end": 2046.56,
+        "text": " Like..."
+    },
+    {
+        "start": 2047.44,
+        "end": 2049.44,
+        "text": " Is it as well that that's just a touch"
+    },
+    {
+        "start": 2049.52,
+        "end": 2050.7200000000003,
+        "text": " Mournish as well?"
+    },
+    {
+        "start": 2050.7200000000003,
+        "end": 2050.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 2050.96,
+        "end": 2051.84,
+        "text": " It is way more niche."
+    },
+    {
+        "start": 2051.84,
+        "end": 2052.08,
+        "text": " Yeah."
+    },
+    {
+        "start": 2052.08,
+        "end": 2053.12,
+        "text": " The transformation is a different..."
+    },
+    {
+        "start": 2053.12,
+        "end": 2054.16,
+        "text": " The transformation is a different..."
+    },
+    {
+        "start": 2054.16,
+        "end": 2056.08,
+        "text": " Reach the third TV program."
+    },
+    {
+        "start": 2056.08,
+        "end": 2058.16,
+        "text": " No, of course it doesn't, because it's newer."
+    },
+    {
+        "start": 2058.16,
+        "end": 2058.8,
+        "text": " Yeah."
+    },
+    {
+        "start": 2058.8,
+        "end": 2061.6,
+        "text": " So it took us 10 years to get drag race on the air."
+    },
+    {
+        "start": 2061.6,
+        "end": 2061.76,
+        "text": " Yeah."
+    },
+    {
+        "start": 2061.76,
+        "end": 2064.96,
+        "text": " So it's going to take time to get bio-females and drag Kings on the air."
+    },
+    {
+        "start": 2064.96,
+        "end": 2065.12,
+        "text": " It's very embryonic."
+    },
+    {
+        "start": 2065.12,
+        "end": 2066.4,
+        "text": " We're in the embryonic stage."
+    },
+    {
+        "start": 2066.4,
+        "end": 2067.04,
+        "text": " Correct."
+    },
+    {
+        "start": 2067.04,
+        "end": 2068.08,
+        "text": " So we're figuring it out."
+    },
+    {
+        "start": 2068.08,
+        "end": 2069.28,
+        "text": " Zygote, even."
+    },
+    {
+        "start": 2069.28,
+        "end": 2069.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 2069.52,
+        "end": 2072.32,
+        "text": " But because I think maybe it'll live online first."
+    },
+    {
+        "start": 2072.32,
+        "end": 2073.12,
+        "text": " Who knows?"
+    },
+    {
+        "start": 2073.12,
+        "end": 2074.48,
+        "text": " But at the end of the day,"
+    },
+    {
+        "start": 2074.48,
+        "end": 2075.92,
+        "text": " it has a place in my mind"
+    },
+    {
+        "start": 2075.92,
+        "end": 2077.84,
+        "text": " because that's how I identify and that's who I am."
+    },
+    {
+        "start": 2077.84,
+        "end": 2079.6000000000004,
+        "text": " And I want to see my people taking care of."
+    },
+    {
+        "start": 2079.6000000000004,
+        "end": 2082.6400000000003,
+        "text": " But if you think about the process of a girl getting it to drag versus"
+    },
+    {
+        "start": 2083.44,
+        "end": 2085.76,
+        "text": " a boy getting it to drag, it's a whole different process."
+    },
+    {
+        "start": 2085.76,
+        "end": 2088.08,
+        "text": " It's that motivation thing again that I was talking about earlier."
+    },
+    {
+        "start": 2088.08,
+        "end": 2088.48,
+        "text": " It is."
+    },
+    {
+        "start": 2089.36,
+        "end": 2091.36,
+        "text": " And that's what I'm so fascinated by it."
+    },
+    {
+        "start": 2091.36,
+        "end": 2092.32,
+        "text": " Because I think it's..."
+    },
+    {
+        "start": 2093.1200000000003,
+        "end": 2095.36,
+        "text": " A lot of my girlfriends that are doing it,"
+    },
+    {
+        "start": 2095.36,
+        "end": 2097.1200000000003,
+        "text": " their motivation is completely different."
+    },
+    {
+        "start": 2097.1200000000003,
+        "end": 2097.28,
+        "text": " Right."
+    },
+    {
+        "start": 2097.28,
+        "end": 2099.28,
+        "text": " And say why we wanted to do it, Jack."
+    },
+    {
+        "start": 2099.28,
+        "end": 2101.28,
+        "text": " But that's why I feel like it cuts them short,"
+    },
+    {
+        "start": 2101.76,
+        "end": 2102.88,
+        "text": " putting them in with..."
+    },
+    {
+        "start": 2103.84,
+        "end": 2105.2000000000003,
+        "text": " Boys on the house, right?"
+    },
+    {
+        "start": 2105.2000000000003,
+        "end": 2105.6000000000004,
+        "text": " Okay."
+    },
+    {
+        "start": 2105.6000000000004,
+        "end": 2105.84,
+        "text": " Yeah."
+    },
+    {
+        "start": 2105.84,
+        "end": 2106.96,
+        "text": " We're trans women and..."
+    },
+    {
+        "start": 2107.68,
+        "end": 2110.48,
+        "text": " Bio-identifying females should have their own"
+    },
+    {
+        "start": 2110.48,
+        "end": 2111.76,
+        "text": " so we can follow their journeys,"
+    },
+    {
+        "start": 2111.76,
+        "end": 2114.48,
+        "text": " especially the trans women that still do drag."
+    },
+    {
+        "start": 2114.48,
+        "end": 2116.8,
+        "text": " I love it's so fascinating to me."
+    },
+    {
+        "start": 2116.8,
+        "end": 2119.68,
+        "text": " Because there's a lot that struggle in their mind of thinking,"
+    },
+    {
+        "start": 2119.68,
+        "end": 2121.44,
+        "text": " if I still do drag and I'm still a showgirl,"
+    },
+    {
+        "start": 2121.44,
+        "end": 2122.96,
+        "text": " does that make me not a woman?"
+    },
+    {
+        "start": 2122.96,
+        "end": 2123.76,
+        "text": " Which is..."
+    },
+    {
+        "start": 2123.76,
+        "end": 2125.44,
+        "text": " In my mind, I think that..."
+    },
+    {
+        "start": 2125.44,
+        "end": 2127.44,
+        "text": " No, you are very much a woman."
+    },
+    {
+        "start": 2127.44,
+        "end": 2129.44,
+        "text": " You're just a showgirl sister, you know?"
+    },
+    {
+        "start": 2129.44,
+        "end": 2132.4,
+        "text": " And I think that they deserve their own journey."
+    },
+    {
+        "start": 2133.36,
+        "end": 2135.04,
+        "text": " Different to the Queen's on RuPaul's Drag Race."
+    },
+    {
+        "start": 2137.28,
+        "end": 2138.4,
+        "text": " Love, love, love, Jackie."
+    },
+    {
+        "start": 2138.4,
+        "end": 2139.2,
+        "text": " It's all water, guys."
+    },
+    {
+        "start": 2139.2,
+        "end": 2140.88,
+        "text": " It's all you need to hide, right, babe?"
+    },
+    {
+        "start": 2140.88,
+        "end": 2142.08,
+        "text": " That voice will turn into powder."
+    },
+    {
+        "start": 2146.08,
+        "end": 2147.84,
+        "text": " Look, can drag change the world?"
+    },
+    {
+        "start": 2148.8,
+        "end": 2149.76,
+        "text": " That's a big one."
+    },
+    {
+        "start": 2149.76,
+        "end": 2150.16,
+        "text": " Jackie?"
+    },
+    {
+        "start": 2151.68,
+        "end": 2152.4,
+        "text": " Yeah, maybe."
+    },
+    {
+        "start": 2153.44,
+        "end": 2154.8,
+        "text": " I can't tell exactly how,"
+    },
+    {
+        "start": 2154.8,
+        "end": 2159.28,
+        "text": " but it's about reaching more broadly,"
+    },
+    {
+        "start": 2159.28,
+        "end": 2162.64,
+        "text": " trying to be non-judgmental, trying to be inclusive."
+    },
+    {
+        "start": 2162.64,
+        "end": 2164.32,
+        "text": " If you said trying, that's the operative word."
+    },
+    {
+        "start": 2164.32,
+        "end": 2165.28,
+        "text": " Yeah, you know?"
+    },
+    {
+        "start": 2165.36,
+        "end": 2166.48,
+        "text": " So,"
+    },
+    {
+        "start": 2167.52,
+        "end": 2170.96,
+        "text": " yeah, we should have more drag queens in politics."
+    },
+    {
+        "start": 2171.52,
+        "end": 2172.48,
+        "text": " You can't politics."
+    },
+    {
+        "start": 2172.48,
+        "end": 2173.92,
+        "text": " Well, I think,"
+    },
+    {
+        "start": 2173.92,
+        "end": 2176.96,
+        "text": " every word, I think, we should have more drag queens everywhere."
+    },
+    {
+        "start": 2176.96,
+        "end": 2179.44,
+        "text": " Bringing people together and making things a little more like heart,"
+    },
+    {
+        "start": 2179.44,
+        "end": 2180.5600000000004,
+        "text": " eardough."
+    },
+    {
+        "start": 2180.5600000000004,
+        "end": 2185.44,
+        "text": " And I think it teaches you a lot of things about identity,"
+    },
+    {
+        "start": 2185.44,
+        "end": 2186.96,
+        "text": " forces you to be vulnerable."
+    },
+    {
+        "start": 2186.96,
+        "end": 2188.96,
+        "text": " There's a vulnerability as well, I think, to drag."
+    },
+    {
+        "start": 2189.52,
+        "end": 2190.7200000000003,
+        "text": " But also a power."
+    },
+    {
+        "start": 2190.7200000000003,
+        "end": 2191.1200000000003,
+        "text": " Of course."
+    },
+    {
+        "start": 2191.1200000000003,
+        "end": 2192.6400000000003,
+        "text": " But a power, a real power."
+    },
+    {
+        "start": 2192.6400000000003,
+        "end": 2194.88,
+        "text": " There's a lot of contradictions that I just think"
+    },
+    {
+        "start": 2195.04,
+        "end": 2197.12,
+        "text": " are unbelievably fascinating about drag."
+    },
+    {
+        "start": 2197.12,
+        "end": 2201.36,
+        "text": " And I think that everybody could learn a lot about themselves,"
+    },
+    {
+        "start": 2201.36,
+        "end": 2202.2400000000002,
+        "text": " a lot of straight men."
+    },
+    {
+        "start": 2202.2400000000002,
+        "end": 2203.84,
+        "text": " If we get a lot of straight men in drag,"
+    },
+    {
+        "start": 2204.48,
+        "end": 2206.32,
+        "text": " that's when it would all change."
+    },
+    {
+        "start": 2206.32,
+        "end": 2208.2400000000002,
+        "text": " Have we had a straight man on drag queens?"
+    },
+    {
+        "start": 2208.2400000000002,
+        "end": 2209.2000000000003,
+        "text": " No, we haven't."
+    },
+    {
+        "start": 2209.2000000000003,
+        "end": 2210.1600000000003,
+        "text": " Passing on a hard run."
+    },
+    {
+        "start": 2211.2000000000003,
+        "end": 2214.32,
+        "text": " I think Cynthia Lee Fontaine identifies as bisexual."
+    },
+    {
+        "start": 2215.04,
+        "end": 2217.52,
+        "text": " So, I think there's very few,"
+    },
+    {
+        "start": 2219.36,
+        "end": 2220.6400000000003,
+        "text": " but there have been a few."
+    },
+    {
+        "start": 2220.6400000000003,
+        "end": 2221.28,
+        "text": " We've got one in our crew."
+    },
+    {
+        "start": 2221.28,
+        "end": 2224.1600000000003,
+        "text": " We've actually got a married drag couple in our crew."
+    },
+    {
+        "start": 2224.16,
+        "end": 2226.3999999999996,
+        "text": " We'll find it fanning me and cut and run with a Y."
+    },
+    {
+        "start": 2226.3999999999996,
+        "end": 2227.04,
+        "text": " That's amazing."
+    },
+    {
+        "start": 2227.04,
+        "end": 2227.6,
+        "text": " Yeah."
+    },
+    {
+        "start": 2227.6,
+        "end": 2228.56,
+        "text": " Yeah, they're far better."
+    },
+    {
+        "start": 2228.56,
+        "end": 2229.2799999999997,
+        "text": " I love that."
+    },
+    {
+        "start": 2229.2799999999997,
+        "end": 2230.0,
+        "text": " Yeah, so good."
+    },
+    {
+        "start": 2230.0,
+        "end": 2230.48,
+        "text": " I love that."
+    },
+    {
+        "start": 2230.48,
+        "end": 2234.7999999999997,
+        "text": " It's very brave and ballsy of a straight man to do that,"
+    },
+    {
+        "start": 2234.7999999999997,
+        "end": 2236.56,
+        "text": " you know, in today's society."
+    },
+    {
+        "start": 2236.56,
+        "end": 2238.0,
+        "text": " And he is wonderful."
+    },
+    {
+        "start": 2238.0,
+        "end": 2239.6,
+        "text": " And he's also a massive campaigner."
+    },
+    {
+        "start": 2239.6,
+        "end": 2241.2,
+        "text": " He's just a wonderful human being."
+    },
+    {
+        "start": 2241.2,
+        "end": 2241.68,
+        "text": " That's great."
+    },
+    {
+        "start": 2241.68,
+        "end": 2243.68,
+        "text": " And I'm like, if that's what I mean about changing the world,"
+    },
+    {
+        "start": 2243.68,
+        "end": 2245.68,
+        "text": " if everyone could be a bit like that,"
+    },
+    {
+        "start": 2245.68,
+        "end": 2247.6,
+        "text": " we would not be in this pickle."
+    },
+    {
+        "start": 2247.6,
+        "end": 2247.8399999999997,
+        "text": " Yeah."
+    },
+    {
+        "start": 2247.8399999999997,
+        "end": 2251.04,
+        "text": " With way, I think it's more than a fucking pickle, to be honest."
+    },
+    {
+        "start": 2254.56,
+        "end": 2258.56,
+        "text": " Okay, look, what is your favourite ever drag performance"
+    },
+    {
+        "start": 2258.56,
+        "end": 2261.12,
+        "text": " that you've seen, not on Rupel's Drag Race, just in life?"
+    },
+    {
+        "start": 2261.8399999999997,
+        "end": 2264.7999999999997,
+        "text": " Oh, there's so many because I get to travel the world"
+    },
+    {
+        "start": 2264.7999999999997,
+        "end": 2266.3999999999996,
+        "text": " and see them all over the place."
+    },
+    {
+        "start": 2266.3999999999996,
+        "end": 2268.24,
+        "text": " Do you know some of my favourite ever drag performances?"
+    },
+    {
+        "start": 2268.24,
+        "end": 2269.7599999999998,
+        "text": " I'm not just saying it because you're here."
+    },
+    {
+        "start": 2269.7599999999998,
+        "end": 2271.3599999999997,
+        "text": " Off a new Jackie Potato."
+    },
+    {
+        "start": 2271.3599999999997,
+        "end": 2274.7999999999997,
+        "text": " Oh, I'm going to tell you about this amazing time"
+    },
+    {
+        "start": 2274.7999999999997,
+        "end": 2278.64,
+        "text": " that Jackie performed a lip sync of Halo with her A or Halo."
+    },
+    {
+        "start": 2278.64,
+        "end": 2279.6,
+        "text": " Oh!"
+    },
+    {
+        "start": 2279.6,
+        "end": 2280.64,
+        "text": " Yes."
+    },
+    {
+        "start": 2280.64,
+        "end": 2281.44,
+        "text": " Very British."
+    },
+    {
+        "start": 2281.44,
+        "end": 2282.24,
+        "text": " Yeah, very, very."
+    },
+    {
+        "start": 2282.24,
+        "end": 2284.08,
+        "text": " How would that go down on Rupel's track?"
+    },
+    {
+        "start": 2284.56,
+        "end": 2286.56,
+        "text": " Woodens, censor ship."
+    },
+    {
+        "start": 2287.2,
+        "end": 2288.48,
+        "text": " Well, it could be a late night version."
+    },
+    {
+        "start": 2288.48,
+        "end": 2288.7999999999997,
+        "text": " Yeah."
+    },
+    {
+        "start": 2288.7999999999997,
+        "end": 2290.4,
+        "text": " Good thing."
+    },
+    {
+        "start": 2290.4,
+        "end": 2292.08,
+        "text": " I just remember watching that thinking,"
+    },
+    {
+        "start": 2292.08,
+        "end": 2293.68,
+        "text": " this is happening."
+    },
+    {
+        "start": 2293.68,
+        "end": 2296.0,
+        "text": " Well, I've seen a lot of Christine like performance"
+    },
+    {
+        "start": 2296.0,
+        "end": 2301.6,
+        "text": " is rolling around in some substances."
+    },
+    {
+        "start": 2301.6,
+        "end": 2302.56,
+        "text": " Yeah, you see it."
+    },
+    {
+        "start": 2302.56,
+        "end": 2303.6,
+        "text": " Yeah, just biscuits."
+    },
+    {
+        "start": 2303.6,
+        "end": 2303.84,
+        "text": " Sure."
+    },
+    {
+        "start": 2305.44,
+        "end": 2306.4,
+        "text": " I love those though."
+    },
+    {
+        "start": 2306.4,
+        "end": 2307.68,
+        "text": " Me too, Li Barry."
+    },
+    {
+        "start": 2307.68,
+        "end": 2309.04,
+        "text": " We are, oh, Li Barry."
+    },
+    {
+        "start": 2309.04,
+        "end": 2311.36,
+        "text": " I mean, that was actually one of my biggest,"
+    },
+    {
+        "start": 2312.32,
+        "end": 2315.1200000000003,
+        "text": " like the first, I guess my first time I saw someone"
+    },
+    {
+        "start": 2315.1200000000003,
+        "end": 2317.52,
+        "text": " that was otherworldly, you know, and like,"
+    },
+    {
+        "start": 2317.52,
+        "end": 2319.52,
+        "text": " I want to be that human being."
+    },
+    {
+        "start": 2319.52,
+        "end": 2320.88,
+        "text": " I used to party with Li."
+    },
+    {
+        "start": 2320.88,
+        "end": 2321.6800000000003,
+        "text": " No, you didn't know."
+    },
+    {
+        "start": 2321.6800000000003,
+        "end": 2324.48,
+        "text": " Well, yeah, because I was one of Suzanne Barch's girls."
+    },
+    {
+        "start": 2324.48,
+        "end": 2327.76,
+        "text": " So that's how I met Ru at a Suzanne Barch party."
+    },
+    {
+        "start": 2327.76,
+        "end": 2329.1200000000003,
+        "text": " And we used to do the same parties together."
+    },
+    {
+        "start": 2329.1200000000003,
+        "end": 2331.52,
+        "text": " I was hired to run the Vogueing troupe and Vogue."
+    },
+    {
+        "start": 2331.52,
+        "end": 2334.56,
+        "text": " And Ru was Ru and Li was there and people were there."
+    },
+    {
+        "start": 2334.56,
+        "end": 2338.7200000000003,
+        "text": " But at the end of the day, I was raised on that type of drag."
+    },
+    {
+        "start": 2338.72,
+        "end": 2340.64,
+        "text": " Like that's what people forget."
+    },
+    {
+        "start": 2340.64,
+        "end": 2341.7599999999998,
+        "text": " The kids don't know."
+    },
+    {
+        "start": 2341.7599999999998,
+        "end": 2343.12,
+        "text": " And maybe people forget."
+    },
+    {
+        "start": 2343.12,
+        "end": 2343.9199999999996,
+        "text": " Or maybe not."
+    },
+    {
+        "start": 2343.9199999999996,
+        "end": 2345.2,
+        "text": " That Ru comes from that."
+    },
+    {
+        "start": 2345.2,
+        "end": 2346.72,
+        "text": " That's where Ru comes from."
+    },
+    {
+        "start": 2346.72,
+        "end": 2349.04,
+        "text": " You see this polished glamazon now."
+    },
+    {
+        "start": 2349.04,
+        "end": 2350.3199999999997,
+        "text": " But Ru had a journey."
+    },
+    {
+        "start": 2350.3199999999997,
+        "end": 2354.3999999999996,
+        "text": " I think that journey is why Ru can say anything he wants."
+    },
+    {
+        "start": 2354.3999999999996,
+        "end": 2356.56,
+        "text": " But any kind of drag because he's seen it all."
+    },
+    {
+        "start": 2356.56,
+        "end": 2357.52,
+        "text": " Of course, but people don't know that."
+    },
+    {
+        "start": 2357.52,
+        "end": 2359.2799999999997,
+        "text": " Or people forget that."
+    },
+    {
+        "start": 2359.2799999999997,
+        "end": 2362.64,
+        "text": " Ru is every challenge that we do on RuPaul's Drag Race comes"
+    },
+    {
+        "start": 2362.64,
+        "end": 2366.08,
+        "text": " from something that Ru has experienced in his career"
+    },
+    {
+        "start": 2366.08,
+        "end": 2367.4399999999996,
+        "text": " as twisted as it sounds."
+    },
+    {
+        "start": 2367.52,
+        "end": 2370.64,
+        "text": " Could we have ever imagined drag queens on the beab?"
+    },
+    {
+        "start": 2370.64,
+        "end": 2371.76,
+        "text": " Bravo to them, though."
+    },
+    {
+        "start": 2371.76,
+        "end": 2373.36,
+        "text": " And to be honest, I can't really lie."
+    },
+    {
+        "start": 2373.36,
+        "end": 2374.48,
+        "text": " That's the best thing."
+    },
+    {
+        "start": 2374.48,
+        "end": 2375.52,
+        "text": " It's really huge."
+    },
+    {
+        "start": 2378.0,
+        "end": 2378.7200000000003,
+        "text": " But you've been dancing."
+    },
+    {
+        "start": 2378.7200000000003,
+        "end": 2379.44,
+        "text": " How have you go?"
+    },
+    {
+        "start": 2379.44,
+        "end": 2380.32,
+        "text": " Sturdy thigh."
+    },
+    {
+        "start": 2380.32,
+        "end": 2382.16,
+        "text": " Well, you know me jumping up on tables."
+    },
+    {
+        "start": 2386.4,
+        "end": 2388.2400000000002,
+        "text": " So what are the differences, Michelle,"
+    },
+    {
+        "start": 2388.2400000000002,
+        "end": 2392.08,
+        "text": " between UK and the US drag scene when you're actually"
+    },
+    {
+        "start": 2392.08,
+        "end": 2392.96,
+        "text": " out on a night out?"
+    },
+    {
+        "start": 2392.96,
+        "end": 2395.92,
+        "text": " Well, I think the effects of RuPaul's Drag Race"
+    },
+    {
+        "start": 2396.08,
+        "end": 2400.0,
+        "text": " in a positive way have, I see no negative effects"
+    },
+    {
+        "start": 2400.0,
+        "end": 2401.04,
+        "text": " of RuPaul's Drag Race."
+    },
+    {
+        "start": 2401.04,
+        "end": 2406.96,
+        "text": " So for me, listen, I'm going to go back to me coming to New York City"
+    },
+    {
+        "start": 2406.96,
+        "end": 2409.6800000000003,
+        "text": " and being raised in the drag gay scene, right?"
+    },
+    {
+        "start": 2409.6800000000003,
+        "end": 2412.7200000000003,
+        "text": " And ballroom scene being raised by femme queens and butch queens"
+    },
+    {
+        "start": 2412.7200000000003,
+        "end": 2413.92,
+        "text": " and drag queens."
+    },
+    {
+        "start": 2413.92,
+        "end": 2416.16,
+        "text": " And for me, you know, drag was always in the margins."
+    },
+    {
+        "start": 2416.16,
+        "end": 2417.12,
+        "text": " It was never acceptable."
+    },
+    {
+        "start": 2417.12,
+        "end": 2418.08,
+        "text": " It was never mainstream."
+    },
+    {
+        "start": 2418.08,
+        "end": 2419.92,
+        "text": " And I don't think it'll ever be mainstream."
+    },
+    {
+        "start": 2419.92,
+        "end": 2421.6800000000003,
+        "text": " So if people say, well, drag is mainstream now."
+    },
+    {
+        "start": 2421.6800000000003,
+        "end": 2423.6800000000003,
+        "text": " It's absolutely not mainstream."
+    },
+    {
+        "start": 2423.6800000000003,
+        "end": 2424.7200000000003,
+        "text": " You might think it's mainstream."
+    },
+    {
+        "start": 2424.72,
+        "end": 2425.4399999999996,
+        "text": " We get paid more."
+    },
+    {
+        "start": 2425.4399999999996,
+        "end": 2426.24,
+        "text": " That's what I care about."
+    },
+    {
+        "start": 2426.24,
+        "end": 2427.8399999999997,
+        "text": " That's the only difference, but it's not."
+    },
+    {
+        "start": 2427.8399999999997,
+        "end": 2429.68,
+        "text": " It's mainstream is Julia Roberts."
+    },
+    {
+        "start": 2429.68,
+        "end": 2430.16,
+        "text": " Yes."
+    },
+    {
+        "start": 2430.16,
+        "end": 2431.12,
+        "text": " Let's be honest."
+    },
+    {
+        "start": 2431.12,
+        "end": 2431.9199999999996,
+        "text": " Yeah."
+    },
+    {
+        "start": 2431.9199999999996,
+        "end": 2433.9199999999996,
+        "text": " That's mainstream where every single person"
+    },
+    {
+        "start": 2433.9199999999996,
+        "end": 2435.12,
+        "text": " knows who you're talking about."
+    },
+    {
+        "start": 2435.12,
+        "end": 2437.7599999999998,
+        "text": " I can still say, do you ever hear RuPaul and people go,"
+    },
+    {
+        "start": 2437.7599999999998,
+        "end": 2438.64,
+        "text": " no, I'm sorry."
+    },
+    {
+        "start": 2438.64,
+        "end": 2439.12,
+        "text": " Yeah."
+    },
+    {
+        "start": 2439.12,
+        "end": 2441.4399999999996,
+        "text": " You know, it's rare, but it does happen."
+    },
+    {
+        "start": 2441.4399999999996,
+        "end": 2442.72,
+        "text": " So it's not mainstream."
+    },
+    {
+        "start": 2442.72,
+        "end": 2445.8399999999997,
+        "text": " So for me, drag was always like, oh, she's a drag queen."
+    },
+    {
+        "start": 2445.8399999999997,
+        "end": 2448.3999999999996,
+        "text": " And it was never taken seriously, which always maybe go,"
+    },
+    {
+        "start": 2448.3999999999996,
+        "end": 2449.12,
+        "text": " what?"
+    },
+    {
+        "start": 2449.12,
+        "end": 2451.2,
+        "text": " This is the most incredible art for me I've ever seen,"
+    },
+    {
+        "start": 2451.2,
+        "end": 2454.3999999999996,
+        "text": " which is why I was always drawn to it."
+    },
+    {
+        "start": 2454.48,
+        "end": 2456.64,
+        "text": " That in the bar room scene, and that's kind of what I grew up on."
+    },
+    {
+        "start": 2456.64,
+        "end": 2461.12,
+        "text": " So for me, it has changed obviously because of RuPaul's drag race,"
+    },
+    {
+        "start": 2461.12,
+        "end": 2463.36,
+        "text": " it's not the way it was when I first met Ru."
+    },
+    {
+        "start": 2463.36,
+        "end": 2465.44,
+        "text": " When I first met Ru, she was wearing an afro wig,"
+    },
+    {
+        "start": 2465.44,
+        "end": 2467.28,
+        "text": " put her own makeup on, wore a little mini skirts,"
+    },
+    {
+        "start": 2467.28,
+        "end": 2470.08,
+        "text": " no padding, no anything, no corsetry."
+    },
+    {
+        "start": 2470.08,
+        "end": 2470.2400000000002,
+        "text": " Yeah."
+    },
+    {
+        "start": 2470.2400000000002,
+        "end": 2471.84,
+        "text": " And Ru was just kind of Ru."
+    },
+    {
+        "start": 2472.88,
+        "end": 2474.48,
+        "text": " And things obviously have changed."
+    },
+    {
+        "start": 2474.48,
+        "end": 2475.28,
+        "text": " We all grow."
+    },
+    {
+        "start": 2475.28,
+        "end": 2475.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 2475.44,
+        "end": 2476.8,
+        "text": " So the scene has completely changed."
+    },
+    {
+        "start": 2476.8,
+        "end": 2477.52,
+        "text": " And it has to."
+    },
+    {
+        "start": 2477.52,
+        "end": 2478.0,
+        "text": " It has to."
+    },
+    {
+        "start": 2478.0,
+        "end": 2478.32,
+        "text": " Correct."
+    },
+    {
+        "start": 2478.32,
+        "end": 2479.52,
+        "text": " That's the evolution."
+    },
+    {
+        "start": 2479.52,
+        "end": 2480.0,
+        "text": " That's what it is."
+    },
+    {
+        "start": 2480.0,
+        "end": 2481.2000000000003,
+        "text": " So because of RuPaul's drag race,"
+    },
+    {
+        "start": 2481.2000000000003,
+        "end": 2483.2000000000003,
+        "text": " it's a whole different scene in the states."
+    },
+    {
+        "start": 2483.2799999999997,
+        "end": 2487.3599999999997,
+        "text": " And it's amazing to see even some of our girls who have left earlier,"
+    },
+    {
+        "start": 2487.3599999999997,
+        "end": 2488.8799999999997,
+        "text": " I see them two or three years later,"
+    },
+    {
+        "start": 2488.8799999999997,
+        "end": 2490.24,
+        "text": " and they're in a whole new queens."
+    },
+    {
+        "start": 2490.24,
+        "end": 2490.56,
+        "text": " Right."
+    },
+    {
+        "start": 2490.56,
+        "end": 2492.3999999999996,
+        "text": " It's unbelievable."
+    },
+    {
+        "start": 2492.3999999999996,
+        "end": 2493.52,
+        "text": " It's fantastic."
+    },
+    {
+        "start": 2493.9199999999996,
+        "end": 2497.2799999999997,
+        "text": " It makes me so happy and proud, like a mother to these kids, you know."
+    },
+    {
+        "start": 2497.2799999999997,
+        "end": 2501.2,
+        "text": " And here it has had some effect here, but not fully."
+    },
+    {
+        "start": 2501.7599999999998,
+        "end": 2504.0,
+        "text": " I think when did you feel the effect, Jackie,"
+    },
+    {
+        "start": 2504.0,
+        "end": 2506.0,
+        "text": " because I know about for me, about fight,"
+    },
+    {
+        "start": 2506.0,
+        "end": 2508.24,
+        "text": " because we started seeing the pink actually 10 years ago when..."
+    },
+    {
+        "start": 2508.24,
+        "end": 2509.6,
+        "text": " No, I know about the parties."
+    },
+    {
+        "start": 2509.6,
+        "end": 2510.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2510.0,
+        "end": 2514.8,
+        "text": " So my entry into drag was very, very loose and very hedonistic."
+    },
+    {
+        "start": 2514.8,
+        "end": 2515.44,
+        "text": " And we were..."
+    },
+    {
+        "start": 2515.44,
+        "end": 2516.32,
+        "text": " Loving."
+    },
+    {
+        "start": 2516.32,
+        "end": 2516.8,
+        "text": " ...forgetting."
+    },
+    {
+        "start": 2516.8,
+        "end": 2522.08,
+        "text": " ...for a while time and get all messy together and party, party, party."
+    },
+    {
+        "start": 2522.08,
+        "end": 2522.88,
+        "text": " And it was great."
+    },
+    {
+        "start": 2522.88,
+        "end": 2526.48,
+        "text": " I loved that energy and I loved the pungentness of it."
+    },
+    {
+        "start": 2527.36,
+        "end": 2532.48,
+        "text": " And to a certain extent, like, I'm interested in growing as a person"
+    },
+    {
+        "start": 2532.48,
+        "end": 2533.68,
+        "text": " and changing and moving,"
+    },
+    {
+        "start": 2533.68,
+        "end": 2538.32,
+        "text": " but I'm not super interested in taking it into massive professionality."
+    },
+    {
+        "start": 2538.4,
+        "end": 2540.56,
+        "text": " For me, I'd rather stay a bit culture,"
+    },
+    {
+        "start": 2540.56,
+        "end": 2542.32,
+        "text": " sure a bit, a little bit background."
+    },
+    {
+        "start": 2543.76,
+        "end": 2544.88,
+        "text": " But I've noticed..."
+    },
+    {
+        "start": 2544.88,
+        "end": 2545.6000000000004,
+        "text": " And that's fair."
+    },
+    {
+        "start": 2545.6000000000004,
+        "end": 2546.0800000000004,
+        "text": " And that's fair."
+    },
+    {
+        "start": 2546.0800000000004,
+        "end": 2546.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2546.4,
+        "end": 2551.04,
+        "text": " And but I noticed like the party changes, like you say, sort of like four,"
+    },
+    {
+        "start": 2551.04,
+        "end": 2553.1200000000003,
+        "text": " five years ago, whatever, RuPaul's effect,"
+    },
+    {
+        "start": 2553.1200000000003,
+        "end": 2556.1600000000003,
+        "text": " bought younger queens through who take it professionally"
+    },
+    {
+        "start": 2556.1600000000003,
+        "end": 2561.04,
+        "text": " and bypassed that hedonistic wild party variation."
+    },
+    {
+        "start": 2561.04,
+        "end": 2561.84,
+        "text": " They got strength for the coins."
+    },
+    {
+        "start": 2561.84,
+        "end": 2562.6400000000003,
+        "text": " ...of a few drinks."
+    },
+    {
+        "start": 2562.6400000000003,
+        "end": 2564.88,
+        "text": " But essentially, they're there to do the job."
+    },
+    {
+        "start": 2565.2000000000003,
+        "end": 2569.12,
+        "text": " And we used to really very half a quarter do that job."
+    },
+    {
+        "start": 2569.12,
+        "end": 2570.1600000000003,
+        "text": " But that was kind of..."
+    },
+    {
+        "start": 2570.1600000000003,
+        "end": 2571.6,
+        "text": " But that was funny to watch."
+    },
+    {
+        "start": 2571.6,
+        "end": 2572.32,
+        "text": " And America too."
+    },
+    {
+        "start": 2572.32,
+        "end": 2575.36,
+        "text": " When I met Ru at the Suzanne parties, so she paid us to..."
+    },
+    {
+        "start": 2576.32,
+        "end": 2579.12,
+        "text": " Okay, I used to vogue in the ballroom scene."
+    },
+    {
+        "start": 2579.12,
+        "end": 2580.96,
+        "text": " And I would compete with femme queens,"
+    },
+    {
+        "start": 2580.96,
+        "end": 2585.2000000000003,
+        "text": " being one of the first, if not the first biological female to walk a vogue category."
+    },
+    {
+        "start": 2585.2000000000003,
+        "end": 2586.32,
+        "text": " Oh, vogue in category."
+    },
+    {
+        "start": 2587.2000000000003,
+        "end": 2590.1600000000003,
+        "text": " And then girls started competing after that."
+    },
+    {
+        "start": 2590.1600000000003,
+        "end": 2591.6800000000003,
+        "text": " Then it got really competitive."
+    },
+    {
+        "start": 2592.64,
+        "end": 2597.44,
+        "text": " So point being, when we would Suzanne Barge hired me to have..."
+    },
+    {
+        "start": 2597.44,
+        "end": 2600.7999999999997,
+        "text": " There was about five of us vogueing all of her parties."
+    },
+    {
+        "start": 2600.7999999999997,
+        "end": 2602.0,
+        "text": " And Ru would be there."
+    },
+    {
+        "start": 2602.0,
+        "end": 2604.3199999999997,
+        "text": " We would vogue for, I don't know, half an hour."
+    },
+    {
+        "start": 2604.3199999999997,
+        "end": 2604.7999999999997,
+        "text": " Yeah."
+    },
+    {
+        "start": 2604.7999999999997,
+        "end": 2606.0,
+        "text": " Go off, they would all drink."
+    },
+    {
+        "start": 2606.0,
+        "end": 2607.2,
+        "text": " And we would get paid."
+    },
+    {
+        "start": 2607.2,
+        "end": 2609.04,
+        "text": " But literally the boys would say to me,"
+    },
+    {
+        "start": 2609.04,
+        "end": 2610.7999999999997,
+        "text": " because I never drank, they would say,"
+    },
+    {
+        "start": 2610.7999999999997,
+        "end": 2612.96,
+        "text": " you keep my $50."
+    },
+    {
+        "start": 2612.96,
+        "end": 2615.3599999999997,
+        "text": " It was like $300 to split between the five of us."
+    },
+    {
+        "start": 2615.3599999999997,
+        "end": 2616.48,
+        "text": " You do the maths."
+    },
+    {
+        "start": 2616.48,
+        "end": 2618.48,
+        "text": " And they go, can I have your drink tickets?"
+    },
+    {
+        "start": 2618.48,
+        "end": 2619.52,
+        "text": " So it was very that."
+    },
+    {
+        "start": 2619.52,
+        "end": 2620.0,
+        "text": " That was awesome."
+    },
+    {
+        "start": 2620.0,
+        "end": 2621.3599999999997,
+        "text": " We didn't get a lot of work done."
+    },
+    {
+        "start": 2621.44,
+        "end": 2622.2400000000002,
+        "text": " And it was a party."
+    },
+    {
+        "start": 2622.2400000000002,
+        "end": 2623.44,
+        "text": " Lee Bowrie's in the middle of the party."
+    },
+    {
+        "start": 2623.44,
+        "end": 2624.4,
+        "text": " You know, Ru's there."
+    },
+    {
+        "start": 2624.4,
+        "end": 2625.6800000000003,
+        "text": " And it's about meeting your people."
+    },
+    {
+        "start": 2625.6800000000003,
+        "end": 2626.6400000000003,
+        "text": " It's about being partying with your tribe."
+    },
+    {
+        "start": 2626.6400000000003,
+        "end": 2627.6800000000003,
+        "text": " That's what it's about."
+    },
+    {
+        "start": 2627.6800000000003,
+        "end": 2629.28,
+        "text": " And that's definitely why we started."
+    },
+    {
+        "start": 2629.28,
+        "end": 2630.2400000000002,
+        "text": " It was a group of friends."
+    },
+    {
+        "start": 2630.2400000000002,
+        "end": 2633.28,
+        "text": " And we, I think, all the broken biscuits in the biscuit,"
+    },
+    {
+        "start": 2633.28,
+        "end": 2634.88,
+        "text": " we all found each other."
+    },
+    {
+        "start": 2634.88,
+        "end": 2636.08,
+        "text": " And it was just like,"
+    },
+    {
+        "start": 2636.08,
+        "end": 2638.48,
+        "text": " I caught there's other people that are as mental as me."
+    },
+    {
+        "start": 2638.48,
+        "end": 2641.52,
+        "text": " And it just so turns out we're getting cab money at the end of the night."
+    },
+    {
+        "start": 2641.52,
+        "end": 2642.56,
+        "text": " That's all we cared about."
+    },
+    {
+        "start": 2645.6,
+        "end": 2647.6,
+        "text": " So that is the end of the show."
+    },
+    {
+        "start": 2647.6,
+        "end": 2648.4,
+        "text": " Thank you."
+    },
+    {
+        "start": 2648.4,
+        "end": 2649.92,
+        "text": " A camp indeed."
+    },
+    {
+        "start": 2650.0,
+        "end": 2653.6800000000003,
+        "text": " So I want to thank the amazing, the camp, Jackie Potato."
+    },
+    {
+        "start": 2653.6800000000003,
+        "end": 2654.56,
+        "text": " Thanks very much."
+    },
+    {
+        "start": 2654.56,
+        "end": 2656.7200000000003,
+        "text": " And of course the divine Michelle for Zod."
+    },
+    {
+        "start": 2656.7200000000003,
+        "end": 2657.52,
+        "text": " I'll go on."
+    },
+    {
+        "start": 2657.52,
+        "end": 2660.4,
+        "text": " Who, by the way, if you haven't seen, you need to,"
+    },
+    {
+        "start": 2660.4,
+        "end": 2662.08,
+        "text": " you need to go and watch it."
+    },
+    {
+        "start": 2662.08,
+        "end": 2663.12,
+        "text": " Everybody's talking about Jamie."
+    },
+    {
+        "start": 2663.12,
+        "end": 2664.64,
+        "text": " It's on to, are you on until the end of January?"
+    },
+    {
+        "start": 2664.64,
+        "end": 2665.28,
+        "text": " January?"
+    },
+    {
+        "start": 2665.28,
+        "end": 2665.76,
+        "text": " Exactly."
+    },
+    {
+        "start": 2665.76,
+        "end": 2666.96,
+        "text": " You have to watch her."
+    },
+    {
+        "start": 2666.96,
+        "end": 2668.32,
+        "text": " She's amazing."
+    },
+    {
+        "start": 2668.32,
+        "end": 2669.2000000000003,
+        "text": " Thank you."
+    },
+    {
+        "start": 2669.2000000000003,
+        "end": 2670.0,
+        "text": " Thank you."
+    },
+    {
+        "start": 2670.0,
+        "end": 2670.8,
+        "text": " Thank you."
+    },
+    {
+        "start": 2670.8,
+        "end": 2671.28,
+        "text": " Thank you."
+    },
+    {
+        "start": 2671.28,
+        "end": 2672.48,
+        "text": " Let's fat the world up with drag, shall we?"
+    },
+    {
+        "start": 2672.48,
+        "end": 2673.28,
+        "text": " Let's do it."
+    },
+    {
+        "start": 2673.28,
+        "end": 2676.8,
+        "text": " Join us next week when we're talking about the rise of the female drag queen"
+    },
+    {
+        "start": 2676.8,
+        "end": 2677.84,
+        "text": " with TTBANG."
+    },
+    {
+        "start": 2677.84,
+        "end": 2680.2400000000002,
+        "text": " And my wife Amy Zing will be in the studio."
+    },
+    {
+        "start": 2680.2400000000002,
+        "end": 2682.7200000000003,
+        "text": " Plus she looks amazing in a pair of stilettos."
+    },
+    {
+        "start": 2682.7200000000003,
+        "end": 2684.2400000000002,
+        "text": " It's Radio One's Nick Grimshaw."
+    },
+    {
+        "start": 2692.6400000000003,
+        "end": 2693.84,
+        "text": " So there you go."
+    },
+    {
+        "start": 2693.84,
+        "end": 2696.8,
+        "text": " And every episode they come back, it's new guests."
+    },
+    {
+        "start": 2697.52,
+        "end": 2698.88,
+        "text": " It's really nice."
+    },
+    {
+        "start": 2699.6800000000003,
+        "end": 2701.2000000000003,
+        "text": " It's niche maybe."
+    },
+    {
+        "start": 2701.2000000000003,
+        "end": 2704.1600000000003,
+        "text": " But I think one of the things about podcasts that I really like"
+    },
+    {
+        "start": 2704.1600000000003,
+        "end": 2707.6000000000004,
+        "text": " or a good podcast is that if they're good"
+    },
+    {
+        "start": 2707.6,
+        "end": 2712.56,
+        "text": " and I like this one, even if you're not part of that subculture or niche,"
+    },
+    {
+        "start": 2712.56,
+        "end": 2714.96,
+        "text": " it's fascinating to listen to."
+    },
+    {
+        "start": 2714.96,
+        "end": 2716.56,
+        "text": " Yeah, but niches can take over the world."
+    },
+    {
+        "start": 2716.56,
+        "end": 2719.36,
+        "text": " I mean, look at how popular RuPaul's drag den."
+    },
+    {
+        "start": 2719.36,
+        "end": 2720.4,
+        "text": " Right, right."
+    },
+    {
+        "start": 2720.4,
+        "end": 2721.8399999999997,
+        "text": " No RuPaul's drag drag."
+    },
+    {
+        "start": 2721.8399999999997,
+        "end": 2723.36,
+        "text": " They should call it RuPaul's drag queen."
+    },
+    {
+        "start": 2723.36,
+        "end": 2726.24,
+        "text": " Look how popular RuPaul's drag races."
+    },
+    {
+        "start": 2726.24,
+        "end": 2727.6,
+        "text": " It is massive."
+    },
+    {
+        "start": 2727.6,
+        "end": 2731.36,
+        "text": " In the United States, there was this show called Monster Garage."
+    },
+    {
+        "start": 2731.36,
+        "end": 2736.48,
+        "text": " And it was all about these guys souping up trucks in their garage."
+    },
+    {
+        "start": 2736.56,
+        "end": 2740.0,
+        "text": " Like so it was all about mechanics working on engines."
+    },
+    {
+        "start": 2740.0,
+        "end": 2742.2400000000002,
+        "text": " And I don't know anything about that."
+    },
+    {
+        "start": 2742.2400000000002,
+        "end": 2744.8,
+        "text": " I don't really even have any interesting things like that."
+    },
+    {
+        "start": 2744.8,
+        "end": 2746.72,
+        "text": " I'm never going to soup up a truck,"
+    },
+    {
+        "start": 2746.72,
+        "end": 2751.2,
+        "text": " but seeing people who are passionate about it, doing it was fascinating."
+    },
+    {
+        "start": 2751.2,
+        "end": 2754.48,
+        "text": " And for me, it's the same with drag queens den and podcasts like that."
+    },
+    {
+        "start": 2754.48,
+        "end": 2756.8,
+        "text": " Anyway, so if you like that and you want to hear more,"
+    },
+    {
+        "start": 2756.8,
+        "end": 2760.16,
+        "text": " just go search for it in BBC Sounds and subscribe."
+    },
+    {
+        "start": 2760.16,
+        "end": 2761.12,
+        "text": " We'll see you next time."
+    }
+]

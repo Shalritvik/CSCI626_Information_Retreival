@@ -1,0 +1,2732 @@
+[
+    {
+        "start": 0.0,
+        "end": 10.56,
+        "text": " Welcome to Practical AI, the podcast that makes artificial intelligence practical, productive,"
+    },
+    {
+        "start": 10.56,
+        "end": 12.0,
+        "text": " and accessible to all."
+    },
+    {
+        "start": 12.0,
+        "end": 16.88,
+        "text": " If you like this show, you will love the Change Log, its news on Mondays, deep technical"
+    },
+    {
+        "start": 16.88,
+        "end": 22.080000000000002,
+        "text": " interviews on Wednesdays, and on Friday's an awesome talk show for your weekend enjoyment."
+    },
+    {
+        "start": 22.080000000000002,
+        "end": 26.400000000000002,
+        "text": " Find us by searching for the Change Log wherever you get your podcasts."
+    },
+    {
+        "start": 26.400000000000002,
+        "end": 28.88,
+        "text": " Thanks to our partners at fly.io."
+    },
+    {
+        "start": 28.88,
+        "end": 31.279999999999998,
+        "text": " Launch your AI apps in five minutes or less."
+    },
+    {
+        "start": 31.279999999999998,
+        "end": 33.519999999999996,
+        "text": " Learn how at fly.io."
+    },
+    {
+        "start": 35.519999999999996,
+        "end": 40.16,
+        "text": " What's up nerds, I'm here with Kurt Mackie, co-founder, and CEO of Fly."
+    },
+    {
+        "start": 40.16,
+        "end": 41.44,
+        "text": " You know we love Fly."
+    },
+    {
+        "start": 41.44,
+        "end": 44.8,
+        "text": " So Kurt, I want to talk to you about the magic of the cloud."
+    },
+    {
+        "start": 44.8,
+        "end": 46.0,
+        "text": " Yeah, thought's in his right?"
+    },
+    {
+        "start": 46.0,
+        "end": 46.64,
+        "text": " Right."
+    },
+    {
+        "start": 46.64,
+        "end": 51.2,
+        "text": " I think it's valuable to understand the Magic Blinded Cloud because you can build better features"
+    },
+    {
+        "start": 51.2,
+        "end": 54.72,
+        "text": " for users, basically, if you'd understand that. You can do a lot of stuff,"
+    },
+    {
+        "start": 54.72,
+        "end": 58.72,
+        "text": " particularly now that people are doing LLM stuff, but you can do a lot of stuff if you get"
+    },
+    {
+        "start": 58.72,
+        "end": 60.48,
+        "text": " that and can be creative with it."
+    },
+    {
+        "start": 60.48,
+        "end": 65.76,
+        "text": " So when you say clouds aren't magic because you're building a public cloud for developers"
+    },
+    {
+        "start": 65.76,
+        "end": 70.0,
+        "text": " and you go on to explain exactly how it works, what does that mean to you?"
+    },
+    {
+        "start": 70.0,
+        "end": 74.72,
+        "text": " In some ways it means these all came from somewhere, like there was a simpler time before clouds"
+    },
+    {
+        "start": 74.72,
+        "end": 81.6,
+        "text": " where we'd get a server at Rackshack and we'd SSH or tell net into it even and put files somewhere"
+    },
+    {
+        "start": 81.6,
+        "end": 84.96000000000001,
+        "text": " and run the web servers ourselves to serve them up to users."
+    },
+    {
+        "start": 85.03999999999999,
+        "end": 86.96,
+        "text": " Clouds are not magic on top of that."
+    },
+    {
+        "start": 86.96,
+        "end": 91.52,
+        "text": " There's just more complicated ways of doing those same things in a way that meets the needs of a lot"
+    },
+    {
+        "start": 91.52,
+        "end": 95.91999999999999,
+        "text": " of people instead of just one. One of the things I think that people miss out on, and a lot of this"
+    },
+    {
+        "start": 95.91999999999999,
+        "end": 101.52,
+        "text": " is actually because AWS and GCP have created such big black box abstractions."
+    },
+    {
+        "start": 101.52,
+        "end": 105.6,
+        "text": " Like, Lambda's really black boxy. You can't like pick apart Lambda and see how it works for me"
+    },
+    {
+        "start": 105.6,
+        "end": 109.75999999999999,
+        "text": " outside. You have to sort of just use what's there. But the reality is like Lambda's not all that"
+    },
+    {
+        "start": 109.76,
+        "end": 115.36,
+        "text": " complicated. It's just a modern way to launch little VMs and serve some requests from them and let"
+    },
+    {
+        "start": 115.36,
+        "end": 121.68,
+        "text": " them pause and resume and free up physical compute time. The interesting thing about understanding"
+    },
+    {
+        "start": 121.68,
+        "end": 125.92,
+        "text": " how clouds work is it lets you build features for your users you'd ever would expect it."
+    },
+    {
+        "start": 125.92,
+        "end": 130.32,
+        "text": " An archononical version of this for us is that when we looked at how we wanted to isolate"
+    },
+    {
+        "start": 130.32,
+        "end": 134.72,
+        "text": " user code, we decided to just expose this machine's concept, which is a much lower level"
+    },
+    {
+        "start": 134.72,
+        "end": 138.8,
+        "text": " of abstraction than Lambda that you could use to build Lambda on top of. And what machines are"
+    },
+    {
+        "start": 138.88000000000002,
+        "end": 144.64000000000001,
+        "text": " just these VMs that are designed to start really fast or designed to stop and restart really fast"
+    },
+    {
+        "start": 144.64000000000001,
+        "end": 149.28,
+        "text": " or designed to suspend sort of like your laptop does when it closes and resume really fast when"
+    },
+    {
+        "start": 149.28,
+        "end": 154.0,
+        "text": " you tell them to. And what we found is that giving people those parameters actually there's like new"
+    },
+    {
+        "start": 154.0,
+        "end": 159.92000000000002,
+        "text": " apps being built that couldn't be built before specifically because we went solo level and made such"
+    },
+    {
+        "start": 159.92000000000002,
+        "end": 165.68,
+        "text": " a minimal abstraction on top of generally like Linux kernel features. A lot of our platform is"
+    },
+    {
+        "start": 165.68,
+        "end": 170.8,
+        "text": " actually just exposing a nice UX around Linux kernel features which I think is kind of interesting"
+    },
+    {
+        "start": 170.8,
+        "end": 174.32,
+        "text": " but like you still need to understand what they're doing to get the most use out of them."
+    },
+    {
+        "start": 174.32,
+        "end": 181.12,
+        "text": " Very cool. Okay, so experience the magic of fly and get told the secrets of fly because that's"
+    },
+    {
+        "start": 181.12,
+        "end": 185.44,
+        "text": " what they want you to do. They want to share all the secrets behind the magic of the fly cloud,"
+    },
+    {
+        "start": 185.44,
+        "end": 190.16,
+        "text": " the cloud for productive developers, the cloud for developers who ship, learn more and get started"
+    },
+    {
+        "start": 190.16,
+        "end": 194.96,
+        "text": " for free at fly.io again fly.io"
+    },
+    {
+        "start": 212.64,
+        "end": 218.56,
+        "text": " Welcome to another episode of the practical AI podcast. I'm Chris Benson. I'm a principal AI"
+    },
+    {
+        "start": 218.56,
+        "end": 224.48,
+        "text": " and autonomy research engineer at Lockheed Martin. And with me today I have two guests that are"
+    },
+    {
+        "start": 224.48,
+        "end": 230.24,
+        "text": " going to join in the conversation. They are both from Blackberry. One is Gregory Richardson who is"
+    },
+    {
+        "start": 230.24,
+        "end": 238.08,
+        "text": " Vice President and Global Advisory CISO at Blackberry. And there's also Ismail Valisuela. Did I get"
+    },
+    {
+        "start": 238.08,
+        "end": 244.8,
+        "text": " that correct? Yes, thank you Chris. And I normally have Daniel for that. And he is Vice President"
+    },
+    {
+        "start": 244.8,
+        "end": 249.36,
+        "text": " of threat research and intelligence at Blackberry. Gentlemen, welcome to the show. Thank you so"
+    },
+    {
+        "start": 249.36,
+        "end": 254.56,
+        "text": " much for joining. Honour to be here Chris. Thank you. Thank you Chris. Really glad to have you."
+    },
+    {
+        "start": 255.52,
+        "end": 262.32,
+        "text": " We're going to talk today all about security and threats and see issues like that. I know that"
+    },
+    {
+        "start": 262.96000000000004,
+        "end": 267.92,
+        "text": " there's a blog post to get us started and I'll let you guys kind of take it from there that"
+    },
+    {
+        "start": 268.64000000000004,
+        "end": 275.04,
+        "text": " you have on the Blackberry blog that was the AI standoff attackers versus defenders."
+    },
+    {
+        "start": 275.52000000000004,
+        "end": 280.56,
+        "text": " And I know Daniel was the first person to see it and said we got to get these guys on the show."
+    },
+    {
+        "start": 280.56,
+        "end": 285.04,
+        "text": " And then ironically he is not able to get here today. And I know he's disappointed about that."
+    },
+    {
+        "start": 285.52000000000004,
+        "end": 293.12,
+        "text": " But what did it kind of start off? And can you tell us a little bit about the topic in general before"
+    },
+    {
+        "start": 293.12,
+        "end": 298.0,
+        "text": " we dive into the specifics and the landscape and who does it affect and why should they care?"
+    },
+    {
+        "start": 298.0,
+        "end": 302.8,
+        "text": " So maybe it has to do a little bit with our backgrounds as well. So I cannot really say I'm an"
+    },
+    {
+        "start": 302.8,
+        "end": 307.28000000000003,
+        "text": " expert in AI. Well, I cannot really say I'm an expert on anything and the more I spend"
+    },
+    {
+        "start": 307.28000000000003,
+        "end": 314.72,
+        "text": " timing this industry, the less you feel you know. But I can say my career has been mostly dedicated"
+    },
+    {
+        "start": 314.72,
+        "end": 320.56,
+        "text": " to cyber defense. I started on the offensive side but then I quickly moved into the, well not"
+    },
+    {
+        "start": 320.64,
+        "end": 326.24,
+        "text": " quickly but over years I moved into the defensive side. So I've seen both sides and I still like to"
+    },
+    {
+        "start": 326.24,
+        "end": 330.8,
+        "text": " you know, pick on the offensive side to learn from it. I call that think right at blue,"
+    },
+    {
+        "start": 330.8,
+        "end": 336.64,
+        "text": " right? Think as an attacker to become a better defender. So obviously when I was writing about"
+    },
+    {
+        "start": 336.64,
+        "end": 342.56,
+        "text": " this, I had to bring the AI flavor to it. Like is it really, you say I go into represent an"
+    },
+    {
+        "start": 342.56,
+        "end": 348.56,
+        "text": " advantage to attackers or defenders and we usually get that question. So I wrote this from a cyber"
+    },
+    {
+        "start": 348.56,
+        "end": 354.72,
+        "text": " defense perspective, right? And that's what you see there. So before we dive fully into the"
+    },
+    {
+        "start": 354.72,
+        "end": 361.2,
+        "text": " article, what was driving the need? What are you seeing? You guys both at Blackberry,"
+    },
+    {
+        "start": 361.2,
+        "end": 367.68,
+        "text": " there's clearly a need driving addressing cyber. Tell us a little bit about how you see the lay of"
+    },
+    {
+        "start": 367.68,
+        "end": 373.6,
+        "text": " the world from a cyber standpoint and what it is that you know, what's the problem you're trying to"
+    },
+    {
+        "start": 373.6,
+        "end": 380.40000000000003,
+        "text": " solve in the large? Yeah, let me give you the contrasting kind of perspectives because I actually"
+    },
+    {
+        "start": 380.40000000000003,
+        "end": 384.8,
+        "text": " didn't know that Ismail who I've worked with for many years now, even at different companies before"
+    },
+    {
+        "start": 384.8,
+        "end": 390.48,
+        "text": " Blackberry, I didn't know that you were, you started on the offensive side and then switched to"
+    },
+    {
+        "start": 390.48,
+        "end": 396.48,
+        "text": " the defensive side. I am very much the opposite, well except for the switch. I started on the offensive"
+    },
+    {
+        "start": 396.48,
+        "end": 402.24,
+        "text": " side and I remain on the offensive side. The part that I am most intrigued by and always have been"
+    },
+    {
+        "start": 402.32,
+        "end": 409.12,
+        "text": " is what I call, well, what's called, uh, attacker ontology. So I've always wanted to understand"
+    },
+    {
+        "start": 409.12,
+        "end": 415.92,
+        "text": " what makes the attacker behave like an attacker so I can better defend, but my primary areas of"
+    },
+    {
+        "start": 415.92,
+        "end": 421.92,
+        "text": " research and areas of work and my primary focus has always been trying to anticipate what the"
+    },
+    {
+        "start": 421.92,
+        "end": 427.36,
+        "text": " attacker is going to do, um, you know, so that I can help our clients strategize, et cetera, et cetera."
+    },
+    {
+        "start": 427.36,
+        "end": 433.52000000000004,
+        "text": " It's always been like even before, uh, and just from a AI perspective, cybersecurity has been using"
+    },
+    {
+        "start": 433.52000000000004,
+        "end": 440.72,
+        "text": " AI for well over 20 years. I'd say probably 30 years almost. Um, so it's not as novel as it is to,"
+    },
+    {
+        "start": 440.72,
+        "end": 446.48,
+        "text": " you know, the average layperson, but even before the popularization or the democratization of AI"
+    },
+    {
+        "start": 446.48,
+        "end": 450.72,
+        "text": " that we've seen in the last two, three, four years with companies like OpenAI, et cetera,"
+    },
+    {
+        "start": 450.72,
+        "end": 458.24,
+        "text": " even before, you know, AI was so much in the forefront, I've been very intrigued with how we can"
+    },
+    {
+        "start": 458.24,
+        "end": 467.28000000000003,
+        "text": " build strategies that help customers, organizations, governments, anticipate earlier what they need to"
+    },
+    {
+        "start": 467.28000000000003,
+        "end": 473.84000000000003,
+        "text": " be protecting against and that's kind of where my perspective comes. So my, I didn't contribute to"
+    },
+    {
+        "start": 473.84000000000003,
+        "end": 478.56,
+        "text": " to the blog. I believe it was primarily ismails blog, uh, and maybe ismails in this team, but my"
+    },
+    {
+        "start": 478.56,
+        "end": 486.48,
+        "text": " perspective on the blog was very much how can we use AI to also help level the fields a little"
+    },
+    {
+        "start": 486.48,
+        "end": 491.84000000000003,
+        "text": " bit more? Um, it's a constant, you know, battle with the fields going back and forth and kind of"
+    },
+    {
+        "start": 491.84000000000003,
+        "end": 498.88,
+        "text": " who's winning the race between attackers, cyber criminals and defenders. So anything we can use"
+    },
+    {
+        "start": 498.88,
+        "end": 504.96,
+        "text": " to help balance that out, that's always been my interest. I'm curious before we fully dive into"
+    },
+    {
+        "start": 504.96,
+        "end": 510.88,
+        "text": " the AI stuff, can you describe, because you know, we, we have a very AI-focused audience, uh,"
+    },
+    {
+        "start": 510.88,
+        "end": 516.96,
+        "text": " diversely in that area, but a lot of folks maybe have never been really addressing cyber themselves."
+    },
+    {
+        "start": 516.96,
+        "end": 522.88,
+        "text": " And when you talked about that, the entology and kind of talked about maybe some of the motivators"
+    },
+    {
+        "start": 522.88,
+        "end": 528.0,
+        "text": " that, you know, why, what are these people out there? Who do they represent? What are they trying to do"
+    },
+    {
+        "start": 528.0,
+        "end": 532.0799999999999,
+        "text": " in a baseline like with or without AI? What's what are we dealing with in the world?"
+    },
+    {
+        "start": 532.08,
+        "end": 538.5600000000001,
+        "text": " I remember, and again, I've been at this for a while probably longer than most,"
+    },
+    {
+        "start": 539.2800000000001,
+        "end": 545.12,
+        "text": " um, you know, like your age, Chris, so I'm approaching 60 years old. Yeah, exactly. Old,"
+    },
+    {
+        "start": 545.12,
+        "end": 551.2,
+        "text": " comundity, um, get off my lawn. That's right. So I'm approaching that age, that, you know,"
+    },
+    {
+        "start": 551.2,
+        "end": 556.5600000000001,
+        "text": " scary age of 60, at least it's scary to me. So I remember a lot of things historically about"
+    },
+    {
+        "start": 556.56,
+        "end": 563.68,
+        "text": " the cyber security industry that give me perspective. One was, I want to say it was around 2010,"
+    },
+    {
+        "start": 563.68,
+        "end": 570.56,
+        "text": " 11 or 12 somewhere around there. It was the first time that I noticed, um, in the FBI's"
+    },
+    {
+        "start": 570.56,
+        "end": 576.8,
+        "text": " threat intelligence report that they used to release every year in that report around 2010,"
+    },
+    {
+        "start": 576.8,
+        "end": 585.1999999999999,
+        "text": " 11, 12 was the first time that they reported, the FBI reported that profits derived from cyber crime,"
+    },
+    {
+        "start": 585.9200000000001,
+        "end": 595.2800000000001,
+        "text": " surpassed globally, surpassed profits from heroin, cocaine, marijuana sales, some bind. Wow."
+    },
+    {
+        "start": 595.84,
+        "end": 602.08,
+        "text": " And for me, that, and I'm talking, this was, you know, 2010, like I said, that to me was a tipping"
+    },
+    {
+        "start": 602.08,
+        "end": 608.08,
+        "text": " point. That's in my mind, I've built the narrative that right around then or maybe a year or two,"
+    },
+    {
+        "start": 608.08,
+        "end": 615.12,
+        "text": " a year or three before then or after then, that's when a, uh, criminal organizations focused in"
+    },
+    {
+        "start": 615.12,
+        "end": 622.0,
+        "text": " on cyber crime and it switched from being, you know, the harmless hacker in the grandma's basement,"
+    },
+    {
+        "start": 622.0,
+        "end": 627.2800000000001,
+        "text": " um, you know, thinking like a Kevin Mittnik type of a guy, um, who, who kind of started off that"
+    },
+    {
+        "start": 627.2800000000001,
+        "end": 631.2,
+        "text": " for those who are in the cyber space, they know the name, you know, he was kind of like a quote,"
+    },
+    {
+        "start": 631.2,
+        "end": 635.5200000000001,
+        "text": " unquote, harmless hacker. He was arrested. I think he might have been one of the first cases of,"
+    },
+    {
+        "start": 635.52,
+        "end": 641.1999999999999,
+        "text": " of a full-fledged arrest and conviction for cyber crime, but, you know, his, his cyber crime was"
+    },
+    {
+        "start": 641.1999999999999,
+        "end": 646.48,
+        "text": " always focused on what can I learn? You know, what can I gain from these things that I'm illegally"
+    },
+    {
+        "start": 646.48,
+        "end": 652.88,
+        "text": " getting access into? Um, it was less, if I, if I know it was not about, um, you know, what can I"
+    },
+    {
+        "start": 652.88,
+        "end": 659.68,
+        "text": " financially gain? Now it is largely financially motivated. I'll let Ismail deal with this a little"
+    },
+    {
+        "start": 659.68,
+        "end": 665.4399999999999,
+        "text": " bit more because, you know, this is his forte. He runs our threat organization, but from my perspective,"
+    },
+    {
+        "start": 665.44,
+        "end": 670.96,
+        "text": " it is largely based on what can we monetize? Ismail, what do you have to add to that? Well,"
+    },
+    {
+        "start": 670.96,
+        "end": 674.72,
+        "text": " the first thing is I'm so happy to know that I'm the youngest one in the room, okay? So,"
+    },
+    {
+        "start": 676.08,
+        "end": 680.08,
+        "text": " it says me with a white beard, right? We're all showing it a little bit, but that's okay. We're on"
+    },
+    {
+        "start": 680.08,
+        "end": 687.0400000000001,
+        "text": " top of things, man. But yes, so what Greg says, my team, um, our job is to characterize the adversary and"
+    },
+    {
+        "start": 687.0400000000001,
+        "end": 692.96,
+        "text": " to translate that into, we call it countermeasures, right? So think about, you know, your"
+    },
+    {
+        "start": 692.96,
+        "end": 699.2,
+        "text": " analyzing, uh, or your goal is to design a vest to protect law enforcement, for example, right? So"
+    },
+    {
+        "start": 699.2,
+        "end": 704.08,
+        "text": " we, we analyze the weapons, we analyze their tools, we analyze the motivation, right? How they"
+    },
+    {
+        "start": 704.08,
+        "end": 709.44,
+        "text": " operate? And then we take all of that and we use this information to design the most effective"
+    },
+    {
+        "start": 709.44,
+        "end": 714.48,
+        "text": " vest to protect against those bullets, right? But it's not just about the bullets. It's about like"
+    },
+    {
+        "start": 714.48,
+        "end": 719.2800000000001,
+        "text": " who is using these weapons and what's the reason they're using them for? That's the motivation. That's"
+    },
+    {
+        "start": 719.28,
+        "end": 725.4399999999999,
+        "text": " really the key piece. And this financial motivation, as Greg has been saying, has been growing very fast,"
+    },
+    {
+        "start": 725.4399999999999,
+        "end": 730.3199999999999,
+        "text": " and that's what we all know about ransomware, for example. But there's a lot of other motivations,"
+    },
+    {
+        "start": 730.3199999999999,
+        "end": 737.04,
+        "text": " and maybe we don't talk about that much. Well, some of them we do, speonage, nation states, the so-called"
+    },
+    {
+        "start": 737.04,
+        "end": 742.4,
+        "text": " APTs, advanced persistent threats, that we often see in the news, and especially, you know, right now,"
+    },
+    {
+        "start": 742.4,
+        "end": 747.4399999999999,
+        "text": " around election times, there's a lot of talking about about this manipulation of information by"
+    },
+    {
+        "start": 748.24,
+        "end": 752.8800000000001,
+        "text": " these nation state actors. These are very well funded, and typically they're the most advanced"
+    },
+    {
+        "start": 752.8800000000001,
+        "end": 758.32,
+        "text": " of all of them. But there's other motivations too. There's activism, you know, we have seen"
+    },
+    {
+        "start": 758.32,
+        "end": 763.5200000000001,
+        "text": " groups like anonymous in the past, like many others, that they would target organizations just because"
+    },
+    {
+        "start": 763.5200000000001,
+        "end": 769.6,
+        "text": " they make money, I don't know, selling records, right? And they think that's evil. But at the end of"
+    },
+    {
+        "start": 769.6,
+        "end": 773.7600000000001,
+        "text": " the day, Cybers is just a weapon, right? It's a weapon that can be used for good, it's a weapon that"
+    },
+    {
+        "start": 773.76,
+        "end": 780.24,
+        "text": " could be used for evil, same as AI, right? AI is just one more tool in the arsenal of any of these"
+    },
+    {
+        "start": 780.8,
+        "end": 784.96,
+        "text": " people. So that's what I like to talk about the motivations because it helps us to understand"
+    },
+    {
+        "start": 785.52,
+        "end": 792.24,
+        "text": " what's the purpose of using a tool, in this case, like AI, in this, you know, cyberware, if you want."
+    },
+    {
+        "start": 792.24,
+        "end": 798.72,
+        "text": " So how does Blackberry, can you kind of layer in Blackberry, having kind of given us that landscape"
+    },
+    {
+        "start": 799.6,
+        "end": 804.1600000000001,
+        "text": " what you're looking at in the world, and how does Blackberry start layering into this?"
+    },
+    {
+        "start": 804.96,
+        "end": 808.64,
+        "text": " What are your interests in that capacity, and what are you trying to accomplish?"
+    },
+    {
+        "start": 808.64,
+        "end": 814.1600000000001,
+        "text": " Good question. Well, so we have been in the world of securing communications for quite some time,"
+    },
+    {
+        "start": 814.1600000000001,
+        "end": 820.1600000000001,
+        "text": " right? And I think everybody remembers those Blackberry devices. We don't do devices anymore,"
+    },
+    {
+        "start": 820.1600000000001,
+        "end": 825.52,
+        "text": " but we do software to protect devices, not just phones, but also"
+    },
+    {
+        "start": 825.6,
+        "end": 833.6,
+        "text": " endpoints of all over the world. And specifically, my team, what we do is to, as I mentioned before,"
+    },
+    {
+        "start": 833.6,
+        "end": 839.4399999999999,
+        "text": " try to characterize these attackers to be able to protect customers, right? And this takes the"
+    },
+    {
+        "start": 839.4399999999999,
+        "end": 846.64,
+        "text": " form of products, it takes health of the form of services. From endpoint software to zero-trust"
+    },
+    {
+        "start": 846.8,
+        "end": 854.0,
+        "text": " network access to, you know, high military-grade encryption to secure communications,"
+    },
+    {
+        "start": 854.88,
+        "end": 861.36,
+        "text": " to even software to manage a crisis could be, you know, instant response, like the environment is"
+    },
+    {
+        "start": 861.36,
+        "end": 865.4399999999999,
+        "text": " on fire, the attackers here, and we need to remediate that, or it could be even like a natural"
+    },
+    {
+        "start": 865.4399999999999,
+        "end": 870.24,
+        "text": " disaster. So when we talk about threats, we just even go beyond just the cyber security threats."
+    },
+    {
+        "start": 870.24,
+        "end": 874.8,
+        "text": " That's a high level overview. I don't know. Greg, if you want to go deeper into that."
+    },
+    {
+        "start": 874.8,
+        "end": 880.4799999999999,
+        "text": " I don't know if I'll go deeper. I may hang off of one of the branches. The side of Blackberry that"
+    },
+    {
+        "start": 880.4799999999999,
+        "end": 887.12,
+        "text": " I'm maniacally focused on is really just, I want to say, purely the cyber security part. So,"
+    },
+    {
+        "start": 887.12,
+        "end": 893.3599999999999,
+        "text": " obviously, Blackberry does a lot of other things. We have our automotive and IoT section segment that's"
+    },
+    {
+        "start": 893.3599999999999,
+        "end": 897.68,
+        "text": " very, very, very large, probably a billion dollar business in and of itself with, you know,"
+    },
+    {
+        "start": 898.88,
+        "end": 903.52,
+        "text": " operating systems that run in any car that has anything digital in it, et cetera."
+    },
+    {
+        "start": 904.16,
+        "end": 908.96,
+        "text": " The part that I'm focused on, though, is pretty much purely my area of expertise, which is"
+    },
+    {
+        "start": 908.96,
+        "end": 915.84,
+        "text": " cyber security. So, on what we've been doing from my side of the house, is helping customers"
+    },
+    {
+        "start": 916.56,
+        "end": 924.4,
+        "text": " build their defenses in a way that allows them to do something that I call preemptive security."
+    },
+    {
+        "start": 924.4,
+        "end": 929.36,
+        "text": " If you remember in my earlier preamble I referred to, you know, we need to be able to predict"
+    },
+    {
+        "start": 929.44,
+        "end": 935.36,
+        "text": " what the attackers are going to do so that we can defend against it. I help my customers strategize"
+    },
+    {
+        "start": 935.36,
+        "end": 943.44,
+        "text": " around building those platforms, those tools, those combination of different tools to do exactly"
+    },
+    {
+        "start": 943.44,
+        "end": 950.24,
+        "text": " that. The nuance of it with cyber security is just because of organically how the industry has grown"
+    },
+    {
+        "start": 950.24,
+        "end": 956.64,
+        "text": " and, you know, VC investment and a million other reasons. We've sprawled very much into, you know,"
+    },
+    {
+        "start": 956.64,
+        "end": 962.64,
+        "text": " there's thousands of tools to get the job done and there's probably thousands, if not tens of"
+    },
+    {
+        "start": 962.64,
+        "end": 968.56,
+        "text": " thousands of different little aspects that need to be protected in the average organization. You"
+    },
+    {
+        "start": 968.56,
+        "end": 973.52,
+        "text": " might have, you know, endpoint, you know, the computers, you might have servers, you might have a"
+    },
+    {
+        "start": 973.52,
+        "end": 979.92,
+        "text": " network, you might have stuff up in the cloud, you might have operational technology or IoT technology,"
+    },
+    {
+        "start": 979.92,
+        "end": 985.92,
+        "text": " all different aspects that all need to be protected, that all require completely different"
+    },
+    {
+        "start": 985.92,
+        "end": 993.52,
+        "text": " tool sets. That sprawl has made it difficult for customers to have a homogenous approach to how"
+    },
+    {
+        "start": 993.52,
+        "end": 998.64,
+        "text": " do we defend against it all. It's ultimately probably talk more about one of the things that"
+    },
+    {
+        "start": 998.64,
+        "end": 1006.64,
+        "text": " attackers do. I want to say very, very, very well is attack the gaps between our tools. So if"
+    },
+    {
+        "start": 1006.64,
+        "end": 1012.24,
+        "text": " they detect that you have a great tool that, you know, the foremost tool on protecting computers,"
+    },
+    {
+        "start": 1012.24,
+        "end": 1016.16,
+        "text": " your endpoints, but your network stack is a little bit weak. They're going to attack right in the"
+    },
+    {
+        "start": 1016.16,
+        "end": 1021.2,
+        "text": " middle of that network stack and gain access to the endpoints. The vice versa of the C or your"
+    },
+    {
+        "start": 1021.2,
+        "end": 1025.6,
+        "text": " network and your endpoint, you rock solid, but you have a weakness over in the cloud. You're going"
+    },
+    {
+        "start": 1025.6,
+        "end": 1031.36,
+        "text": " to start seeing cloud attacks. What the industry has not been very good at that Blackberries trying"
+    },
+    {
+        "start": 1031.36,
+        "end": 1039.2,
+        "text": " to help resolve is how do we help customers pull all of that telemetry in to be able to get, as I"
+    },
+    {
+        "start": 1039.2,
+        "end": 1045.68,
+        "text": " said, a homogenous few of everything that's attacking them and everything they're doing about"
+    },
+    {
+        "start": 1045.68,
+        "end": 1051.44,
+        "text": " defenses across all those little silos. That's what I help my customers strategize on. My"
+    },
+    {
+        "start": 1051.44,
+        "end": 1055.92,
+        "text": " customers vary from governments. I met with the government of Morocco a couple of weeks ago,"
+    },
+    {
+        "start": 1055.92,
+        "end": 1060.4,
+        "text": " to large corporations, the biggest banks in the world, the biggest airlines in the world,"
+    },
+    {
+        "start": 1060.4,
+        "end": 1068.16,
+        "text": " et cetera, et cetera. It just spans the range, but all of them have that problem. The most mature"
+    },
+    {
+        "start": 1068.16,
+        "end": 1076.24,
+        "text": " organizations have well developed tools that are unintegrated and the least, like the SMBs,"
+    },
+    {
+        "start": 1076.24,
+        "end": 1083.6000000000001,
+        "text": " which are also our targets, our customers, have six oftentimes less developed security stacks,"
+    },
+    {
+        "start": 1083.6000000000001,
+        "end": 1087.6000000000001,
+        "text": " but the problem is the same. Even if they say, well, you know, we can make an investment in this"
+    },
+    {
+        "start": 1087.6,
+        "end": 1092.8799999999999,
+        "text": " one little tool, then they have their gaps and they're not being able to ingest all of that"
+    },
+    {
+        "start": 1092.8799999999999,
+        "end": 1097.9199999999998,
+        "text": " intelligence that they have. It says something about the industry, and I'm going to kind of shoot at"
+    },
+    {
+        "start": 1097.9199999999998,
+        "end": 1104.8799999999999,
+        "text": " my own job now. It says something about the industry that a strategist at that level focused on"
+    },
+    {
+        "start": 1104.8799999999999,
+        "end": 1111.36,
+        "text": " those types of problems is even needed. Like you don't have that in the medical industry as far as"
+    },
+    {
+        "start": 1111.36,
+        "end": 1116.3999999999999,
+        "text": " I know. You definitely don't have that. And for example, the automotive industry, like there aren't"
+    },
+    {
+        "start": 1116.4,
+        "end": 1121.44,
+        "text": " integrators that need to help you with how to integrate, you know, your car to work properly."
+    },
+    {
+        "start": 1121.44,
+        "end": 1126.3200000000002,
+        "text": " You go to Ford, you say, I want to SUV, they give you the whole SUV. They don't say,"
+    },
+    {
+        "start": 1126.3200000000002,
+        "end": 1131.52,
+        "text": " buy the motor here and then go down the street and get four tires and go across the way and get a"
+    },
+    {
+        "start": 1131.52,
+        "end": 1136.8000000000002,
+        "text": " transmission. You glue it together and you make it work. They give you the whole thing. Cyber security"
+    },
+    {
+        "start": 1136.8000000000002,
+        "end": 1144.3200000000002,
+        "text": " doesn't do that. We don't give you the whole thing. So that necessitates a cross section of strategists"
+    },
+    {
+        "start": 1144.32,
+        "end": 1151.12,
+        "text": " like myself and the team that supports me to go out and actually help customers parse through"
+    },
+    {
+        "start": 1151.12,
+        "end": 1157.12,
+        "text": " this web of tools that they've built. If I you probably don't go to cybersecurity industry events,"
+    },
+    {
+        "start": 1157.12,
+        "end": 1163.9199999999998,
+        "text": " I do. Ismail does as well. Ismail speaks at many of them. The amount of vendors on the Expo floor,"
+    },
+    {
+        "start": 1163.9199999999998,
+        "end": 1170.48,
+        "text": " I remember going to RSA 13 years ago or so, handful of vendors was a small convention. Now,"
+    },
+    {
+        "start": 1171.04,
+        "end": 1176.0,
+        "text": " it's probably thousands, three, four, five thousand vendors. 40,000 people last year."
+    },
+    {
+        "start": 1176.0,
+        "end": 1182.64,
+        "text": " That's a lot. And dude, I thought it was bligg. I went to a conference called Gitex,"
+    },
+    {
+        "start": 1182.64,
+        "end": 1190.72,
+        "text": " holy spook, most a million people at Gitex at a conference talking about technology. It was"
+    },
+    {
+        "start": 1190.72,
+        "end": 1198.32,
+        "text": " crazy insane. The amount of boots, I think, was 40,000 vendor like insane that there's an appetite"
+    },
+    {
+        "start": 1198.32,
+        "end": 1205.2,
+        "text": " for all of these tools and customers are bubbling them up. And it makes their environment more complex."
+    },
+    {
+        "start": 1205.2,
+        "end": 1216.8799999999999,
+        "text": " And that's where we oftentimes come in. The noise too. Yeah, there's a lot of noise. This industry."
+    },
+    {
+        "start": 1217.5200000000002,
+        "end": 1228.88,
+        "text": " Okay, friends, here's what I love about notion. And I'm a big fan of notion. I think all the"
+    },
+    {
+        "start": 1228.88,
+        "end": 1234.16,
+        "text": " new improvements they've made recently with notion AI built right in is just astounding. Being able"
+    },
+    {
+        "start": 1234.16,
+        "end": 1239.92,
+        "text": " to have your notes, your docs, your projects, your to-dos, your tasks, your dashboards, all the things"
+    },
+    {
+        "start": 1239.92,
+        "end": 1246.4,
+        "text": " in one single place beautifully designed and then add on top of that notion AI with the ability to"
+    },
+    {
+        "start": 1246.4,
+        "end": 1252.16,
+        "text": " search, analyze, chat, and even describe to you how to build dashboards, you can ask it, hey,"
+    },
+    {
+        "start": 1252.16,
+        "end": 1258.48,
+        "text": " I want to do this. And it will help you build out a dashboard or a database or a template that"
+    },
+    {
+        "start": 1258.48,
+        "end": 1263.76,
+        "text": " makes sense for you, your workflows, your business, your orgs or whatever. Notion really is the"
+    },
+    {
+        "start": 1263.76,
+        "end": 1268.8000000000002,
+        "text": " perfect place to organize your tasks, track your habits, write beautiful docs, collaborative with your"
+    },
+    {
+        "start": 1268.8000000000002,
+        "end": 1276.0800000000002,
+        "text": " team. There's just so much you can do with it. And notion AI already has the context of all that work."
+    },
+    {
+        "start": 1276.08,
+        "end": 1281.76,
+        "text": " It's also connected to multiple knowledge sources. It uses AI knowledge from GPT-4 and"
+    },
+    {
+        "start": 1281.76,
+        "end": 1287.52,
+        "text": " Cloud to chat with you about any topic. I think a search across thousands of notion docs in seconds"
+    },
+    {
+        "start": 1287.52,
+        "end": 1294.24,
+        "text": " to quickly answer really any question you have about your context, which is all of your notion docs."
+    },
+    {
+        "start": 1294.24,
+        "end": 1299.6,
+        "text": " They also have AI connectors. This is now in beta. Notion AI can search across Slack discussions,"
+    },
+    {
+        "start": 1299.6799999999998,
+        "end": 1306.32,
+        "text": " Google documents, Google slides, Google sheets, and even tools like GitHub and Jira, those are coming"
+    },
+    {
+        "start": 1306.32,
+        "end": 1312.56,
+        "text": " soon. And the cool thing with notion is it could be used by small teams, individuals, or even"
+    },
+    {
+        "start": 1312.56,
+        "end": 1319.12,
+        "text": " Fortune 500 companies. It is a very scalable tool that can help you spend less time emailing,"
+    },
+    {
+        "start": 1319.12,
+        "end": 1325.9199999999998,
+        "text": " cancel more meetings, save your time searching for all your work, and reduce spending on multiple"
+    },
+    {
+        "start": 1326.5600000000002,
+        "end": 1330.72,
+        "text": " tools. And this helps everyone be on the same page. Try Notion today for free when you go to"
+    },
+    {
+        "start": 1330.72,
+        "end": 1338.96,
+        "text": " Notion.com slash practical AI. That's all of our case letters Notion.com slash practical AI"
+    },
+    {
+        "start": 1338.96,
+        "end": 1344.96,
+        "text": " to try the powerful, easy to use Notion AI today. And when you use our link, of course, you were"
+    },
+    {
+        "start": 1344.96,
+        "end": 1353.04,
+        "text": " supporting our show and we love that again, Notion.com slash practical AI."
+    },
+    {
+        "start": 1353.44,
+        "end": 1379.44,
+        "text": " Okay, so as you guys have watched the industry explode and you're dealing with these things that"
+    },
+    {
+        "start": 1379.8400000000001,
+        "end": 1385.76,
+        "text": " other industries don't necessarily have to address. You talked about just the sprawl of assets to"
+    },
+    {
+        "start": 1385.76,
+        "end": 1390.4,
+        "text": " defend and the gaps between them and the fact that there are so many tools addressing different"
+    },
+    {
+        "start": 1390.4,
+        "end": 1396.24,
+        "text": " components. I would imagine that's quite a challenge, which is one of the reasons I'm sure the"
+    },
+    {
+        "start": 1396.24,
+        "end": 1402.0,
+        "text": " industry has gotten as big as it is. As you're looking at that and you're starting to see these new"
+    },
+    {
+        "start": 1402.0,
+        "end": 1407.04,
+        "text": " things, and when I say new, meaning some of the more recent tools on the AI, realm and stuff like"
+    },
+    {
+        "start": 1407.12,
+        "end": 1414.8799999999999,
+        "text": " that as cyber experts, how is AI starting to layer into this ecosystem? What are you? How do you see"
+    },
+    {
+        "start": 1414.8799999999999,
+        "end": 1421.68,
+        "text": " that? What are the pros and cons, the risks and threats that it creates? Can you tell us a little"
+    },
+    {
+        "start": 1421.68,
+        "end": 1427.44,
+        "text": " bit about how those two converge? Yeah, as Greg was mentioning before and explained really well"
+    },
+    {
+        "start": 1427.44,
+        "end": 1433.04,
+        "text": " that this is an industry that is always like chasing the new shiny. What's the new thing that"
+    },
+    {
+        "start": 1433.04,
+        "end": 1439.12,
+        "text": " can solve all of my problems? There is no such a thing. It's a lot more complex than that. Every time"
+    },
+    {
+        "start": 1439.12,
+        "end": 1446.0,
+        "text": " that we try to find that single tool, that super bullet, we often fail because of a lack of an"
+    },
+    {
+        "start": 1446.0,
+        "end": 1450.8,
+        "text": " understanding of how all these things need to come together. We're in the middle of that hype,"
+    },
+    {
+        "start": 1450.8,
+        "end": 1458.0,
+        "text": " and now the tool is AI. I would say even more specifically, LLMs, generative AI, because we know,"
+    },
+    {
+        "start": 1458.0,
+        "end": 1462.8,
+        "text": " and you guys in this show know well, that we're talking about AI, it's not one thing. It's a lot of"
+    },
+    {
+        "start": 1462.96,
+        "end": 1467.84,
+        "text": " different things. For example, at Blackberry, we have been using for many years, coming from the"
+    },
+    {
+        "start": 1467.84,
+        "end": 1474.32,
+        "text": " Silence Engine, from the Silence Days, a predictive AI engine. We know we're talking about predictive"
+    },
+    {
+        "start": 1474.32,
+        "end": 1480.24,
+        "text": " machine learning essentially. I remember, well, I wasn't at Silence at that time, but some of the"
+    },
+    {
+        "start": 1480.24,
+        "end": 1486.8,
+        "text": " my colleagues aware told me that they were at Black Hat, I think probably 2000, 2016, or something"
+    },
+    {
+        "start": 1486.8,
+        "end": 1490.56,
+        "text": " like that. They were talking about Black Hat about this, and a lot of people were like,"
+    },
+    {
+        "start": 1491.36,
+        "end": 1498.96,
+        "text": " that's not possible, you're a Silence Smoke, that's not the way you detect malware. Fast forward to"
+    },
+    {
+        "start": 1499.28,
+        "end": 1505.76,
+        "text": " today, and everybody understands that you cannot fight malware with signatures. I mean, in our"
+    },
+    {
+        "start": 1505.76,
+        "end": 1510.8799999999999,
+        "text": " report, and we produce these reports on a quarterly basis, we talked about the latest increase in"
+    },
+    {
+        "start": 1510.8799999999999,
+        "end": 1516.8,
+        "text": " the last quarter. We're talking about a 53% increase in unique pieces of malware. I don't know if"
+    },
+    {
+        "start": 1516.8,
+        "end": 1521.68,
+        "text": " the audience is familiar with the concept of a hash or a fingerprint. You take a binary blob of"
+    },
+    {
+        "start": 1521.68,
+        "end": 1526.8,
+        "text": " data, and you create a fingerprint or a hash of that, and that says, okay, that's unique,"
+    },
+    {
+        "start": 1526.8,
+        "end": 1533.84,
+        "text": " right? Different hashes, different files. So we're talking about over 11,000 pieces of unique"
+    },
+    {
+        "start": 1533.84,
+        "end": 1539.52,
+        "text": " malware per quarter that we have seen with our telemetry. How in the world are you going to"
+    },
+    {
+        "start": 1540.3999999999999,
+        "end": 1545.9199999999998,
+        "text": " create a database, or maintain a database? It's unscalable issues. It's unscalable, right?"
+    },
+    {
+        "start": 1545.92,
+        "end": 1551.6000000000001,
+        "text": " So predictive machine learning helps us with that, and it's been helping us for many years to have"
+    },
+    {
+        "start": 1551.6000000000001,
+        "end": 1557.44,
+        "text": " like a really, really good detection of these type of things. Now, NLAMs can also be useful for"
+    },
+    {
+        "start": 1557.44,
+        "end": 1564.96,
+        "text": " different things. So once again, I think the summary is AI is a useful tool in the hands of"
+    },
+    {
+        "start": 1564.96,
+        "end": 1572.4,
+        "text": " defenders. It is also used by attackers, and we can maybe get into that if you want, but I would"
+    },
+    {
+        "start": 1572.4,
+        "end": 1578.48,
+        "text": " say that once we go over this hype cycle that we always have in this industry, we'll probably"
+    },
+    {
+        "start": 1578.48,
+        "end": 1584.0,
+        "text": " understand that it's just one more tooling in our arsenal, and that we need to remain problem-focused,"
+    },
+    {
+        "start": 1584.0,
+        "end": 1588.0,
+        "text": " just because we have a solution to a specific thing, it doesn't mean that it's going to be the"
+    },
+    {
+        "start": 1588.0,
+        "end": 1591.6000000000001,
+        "text": " solution to absolutely everything, right? But of course, it helps."
+    },
+    {
+        "start": 1592.64,
+        "end": 1596.3200000000002,
+        "text": " Yeah, I'll comment on that if I may, Chris. Sure, absolutely."
+    },
+    {
+        "start": 1596.32,
+        "end": 1603.28,
+        "text": " Ismail touched a little bit, he's kind of grazed over LLM's, and I'm glad you only grazed over it"
+    },
+    {
+        "start": 1603.28,
+        "end": 1608.8799999999999,
+        "text": " because of what I'm about to say. We think LLM's as good as they are, and they have some excellent"
+    },
+    {
+        "start": 1608.8799999999999,
+        "end": 1614.56,
+        "text": " use cases and value. I think they contribute to a lot of the noise and the hype machines"
+    },
+    {
+        "start": 1614.56,
+        "end": 1621.4399999999998,
+        "text": " that we hear in the industry right now. I'll speak specifically for cybersecurity. I am not yet"
+    },
+    {
+        "start": 1621.52,
+        "end": 1629.3600000000001,
+        "text": " convinced of the utility, the usefulness of an LLM, particularly for its natural language,"
+    },
+    {
+        "start": 1629.92,
+        "end": 1635.3600000000001,
+        "text": " ability to process things of IA natural language. I'm not sure that that was the problem we had."
+    },
+    {
+        "start": 1635.3600000000001,
+        "end": 1643.6000000000001,
+        "text": " I speak to some analysts and chief information security officers literally on a daily basis."
+    },
+    {
+        "start": 1643.6,
+        "end": 1651.76,
+        "text": " That's my job. I can't remember in the last 30 years doing this that a group of operators,"
+    },
+    {
+        "start": 1651.76,
+        "end": 1657.6,
+        "text": " sock analysts, et cetera, have told me, you know what, great, Greg? We don't know how to extract"
+    },
+    {
+        "start": 1657.6,
+        "end": 1662.3999999999999,
+        "text": " the data from our tools. If we could only say that in natural language, that would really help."
+    },
+    {
+        "start": 1662.3999999999999,
+        "end": 1667.36,
+        "text": " That's not the problem. The people that are doing these jobs in the socks, et cetera, et cetera,"
+    },
+    {
+        "start": 1667.36,
+        "end": 1672.08,
+        "text": " are very adept at their tools. They don't have the problem communicating with the tools and"
+    },
+    {
+        "start": 1672.08,
+        "end": 1677.9199999999998,
+        "text": " writing a parsing to man or a query or whatever to extract the data. That's not the issue."
+    },
+    {
+        "start": 1677.9199999999998,
+        "end": 1683.1999999999998,
+        "text": " There's other things that AI and machine learning can help with. Classification is a big one."
+    },
+    {
+        "start": 1683.1999999999998,
+        "end": 1689.04,
+        "text": " Ismail has already referred to prediction. I think that's a very, very big one that is underutilized"
+    },
+    {
+        "start": 1689.04,
+        "end": 1696.56,
+        "text": " today. But classification, how do we classify not only files and hashes but behaviors, indicators"
+    },
+    {
+        "start": 1696.56,
+        "end": 1702.0,
+        "text": " of attack, indicators of compromise? How are we able to classify, you know, these three things"
+    },
+    {
+        "start": 1702.0,
+        "end": 1708.1599999999999,
+        "text": " that are connected together or in the case of a cyber attack? These 50 things, these 50 behaviors"
+    },
+    {
+        "start": 1708.1599999999999,
+        "end": 1713.36,
+        "text": " of indicators we find, how can we pull them all together and say, listen, this is leading up,"
+    },
+    {
+        "start": 1713.36,
+        "end": 1718.8,
+        "text": " these will belong together, these 10 things that we found on your network and these 15 things that"
+    },
+    {
+        "start": 1718.8,
+        "end": 1723.76,
+        "text": " we found on your endpoints and these 12 other things that we found simultaneously in the same"
+    },
+    {
+        "start": 1723.76,
+        "end": 1728.48,
+        "text": " temporal window in your cloud environment. They all belong together and they're all part of one"
+    },
+    {
+        "start": 1728.48,
+        "end": 1735.12,
+        "text": " attack. That classification process, I think that's somewhere where AI can help because that's where"
+    },
+    {
+        "start": 1735.12,
+        "end": 1742.24,
+        "text": " the gap is. Taking the ton of data that comes in that swaps our security operation centers with"
+    },
+    {
+        "start": 1742.24,
+        "end": 1749.12,
+        "text": " alert fatigue, parsing through that to quote unquote make sense of it and kind of narrow it down to"
+    },
+    {
+        "start": 1749.1999999999998,
+        "end": 1755.28,
+        "text": " a few cases and when I say few, that few maybe thousands still, but it's an order of magnitude or"
+    },
+    {
+        "start": 1755.28,
+        "end": 1760.7199999999998,
+        "text": " more drop from the tens or hundreds of thousands of events that you get. If you can drop that down to"
+    },
+    {
+        "start": 1760.7199999999998,
+        "end": 1766.0,
+        "text": " a significantly smaller amount of cases and then tackle those cases, that's one of the problems"
+    },
+    {
+        "start": 1766.0,
+        "end": 1772.2399999999998,
+        "text": " that I see AI solving in cybersecurity extremely well. It's really interesting to hear you say that"
+    },
+    {
+        "start": 1772.4,
+        "end": 1779.2,
+        "text": " and I want to just as an aside for a moment for our audience who is going episode to episode."
+    },
+    {
+        "start": 1779.2,
+        "end": 1783.52,
+        "text": " This is a topic we talk about a lot. It sounds like you're going through, you know, you're familiar"
+    },
+    {
+        "start": 1783.52,
+        "end": 1788.96,
+        "text": " with the gardener hype cycle, you know, it goes up over the top, you know, maximal hype. People"
+    },
+    {
+        "start": 1788.96,
+        "end": 1793.6,
+        "text": " become frustrated, plunges down in the trough of disillusionment where they're very unhappy and they"
+    },
+    {
+        "start": 1793.6,
+        "end": 1799.04,
+        "text": " say the stinks, I don't want to deal with. And then people kind of take a second look and they go,"
+    },
+    {
+        "start": 1799.04,
+        "end": 1804.32,
+        "text": " well, it's good for some things. It's not the solve, you know, it doesn't solve everything and"
+    },
+    {
+        "start": 1804.32,
+        "end": 1809.44,
+        "text": " they find their plateau of productivity where it's actually useful and it sounds like you've been"
+    },
+    {
+        "start": 1809.44,
+        "end": 1815.12,
+        "text": " going through that same process like many other industries have and you're really practical. And"
+    },
+    {
+        "start": 1815.12,
+        "end": 1820.56,
+        "text": " you also drew out another point that I'd like to emphasize and that's that when it comes to generative"
+    },
+    {
+        "start": 1820.56,
+        "end": 1826.24,
+        "text": " AI and LLMs and such, we have a habit of forgetting that there are other techniques in the AI realm"
+    },
+    {
+        "start": 1826.24,
+        "end": 1832.32,
+        "text": " out there classification. Look at ways. Yeah, exactly. And you guys are like, we have other tools"
+    },
+    {
+        "start": 1832.32,
+        "end": 1836.64,
+        "text": " here that are really productive for what we're doing. Just maybe not the super-hype part of it."
+    },
+    {
+        "start": 1837.44,
+        "end": 1843.1200000000001,
+        "text": " So I'm really glad that you shared that with us because we are practical AI on the show and we're"
+    },
+    {
+        "start": 1843.1200000000001,
+        "end": 1848.4,
+        "text": " trying to get people on track. I'll just give you an example of how absurd this is getting. I saw"
+    },
+    {
+        "start": 1848.4,
+        "end": 1853.36,
+        "text": " a large vendor, and I'm really tempted to say the name, but I won't. That was showing,"
+    },
+    {
+        "start": 1854.08,
+        "end": 1860.32,
+        "text": " how cool these generative AI is applied to the SOC. So the SOC Security Operations Center,"
+    },
+    {
+        "start": 1860.32,
+        "end": 1864.8,
+        "text": " they typically use dashboards. They have dashboards and they're looking at, for example, number of"
+    },
+    {
+        "start": 1864.8,
+        "end": 1870.32,
+        "text": " DNS requests, so number of alerts for these or for that. So there's this dashboard and there's"
+    },
+    {
+        "start": 1870.32,
+        "end": 1879.04,
+        "text": " a peak of activity at 7 pm. So now the LLM is like, see, I saw a peak of activity at 7 pm and I'm like,"
+    },
+    {
+        "start": 1879.04,
+        "end": 1884.56,
+        "text": " how much money are you paying for that? There's a large cost in this type of subscriptions."
+    },
+    {
+        "start": 1884.56,
+        "end": 1891.68,
+        "text": " And I can easily train an analyst to catch that. And that person can give you a more context,"
+    },
+    {
+        "start": 1891.68,
+        "end": 1897.44,
+        "text": " and have probably more intuition, more maybe even knowledge of the strategy, talking about"
+    },
+    {
+        "start": 1897.44,
+        "end": 1903.36,
+        "text": " strategy Gregory, and even more creativity than that. So absolutely, you have to kind of know what"
+    },
+    {
+        "start": 1903.36,
+        "end": 1908.3999999999999,
+        "text": " the tool is useful for. It's very useful for context-solidization, summarization, pattern matching,"
+    },
+    {
+        "start": 1908.96,
+        "end": 1914.72,
+        "text": " generalization, hypothesis testing. I could go and say, hey, based on all of these reports that I"
+    },
+    {
+        "start": 1914.72,
+        "end": 1920.5600000000002,
+        "text": " have written on all of these database that I have, give me a, going to the offensive side Greg,"
+    },
+    {
+        "start": 1920.5600000000002,
+        "end": 1928.8000000000002,
+        "text": " give me a emulation plan for emulating this thread actor. And it's not going to be super creative"
+    },
+    {
+        "start": 1928.8000000000002,
+        "end": 1932.3200000000002,
+        "text": " because it's going to be based on things that have already been, the data that has already been"
+    },
+    {
+        "start": 1932.3200000000002,
+        "end": 1935.92,
+        "text": " gathered. But it will save me a lot of time because I will not have to go through all of these"
+    },
+    {
+        "start": 1935.92,
+        "end": 1941.1200000000001,
+        "text": " documents myself and have to extract all of these different things. So I may iterate over that"
+    },
+    {
+        "start": 1941.1200000000001,
+        "end": 1947.92,
+        "text": " faster and get to that faster. But yeah, there's a lot of hype. One of the things that I, and again,"
+    },
+    {
+        "start": 1948.5600000000002,
+        "end": 1953.68,
+        "text": " I've been in this industry for almost 40 years. So it's pretty much the only thing I've done"
+    },
+    {
+        "start": 1953.68,
+        "end": 1959.2,
+        "text": " professionally since I came out of college. So I'm very passionate about it in case that's not"
+    },
+    {
+        "start": 1959.2,
+        "end": 1966.0800000000002,
+        "text": " extremely evident to your audience yet. Therefore, I'm also, I also tend to look at myself and my"
+    },
+    {
+        "start": 1966.0800000000002,
+        "end": 1972.32,
+        "text": " industry with a really sometimes a bit of a harsh lens. And so I'm going to say something now that"
+    },
+    {
+        "start": 1972.32,
+        "end": 1979.44,
+        "text": " might be applicable outside a cyber, but I see it from inside a cyber. And we, not ourselves,"
+    },
+    {
+        "start": 1979.44,
+        "end": 1986.0800000000002,
+        "text": " we do legit arm to ourselves by feed. And when I say we, the vendors primarily,"
+    },
+    {
+        "start": 1986.08,
+        "end": 1994.24,
+        "text": " by feeding into the hype cycles and selling stuff that we know good and gosh darn well are"
+    },
+    {
+        "start": 1994.24,
+        "end": 2002.1599999999999,
+        "text": " absolute smoke and mirrors are have limited usefulness, but they sell well. You know, the notion of"
+    },
+    {
+        "start": 2002.1599999999999,
+        "end": 2006.72,
+        "text": " we're going to have a AI powered sock and you're not going to need sock operators anymore. You know,"
+    },
+    {
+        "start": 2007.6799999999998,
+        "end": 2012.08,
+        "text": " these analysts, you won't need them. You're going to get just less analysts because the AI is going"
+    },
+    {
+        "start": 2012.08,
+        "end": 2018.0,
+        "text": " to do all of that for you. The more we hype that up, the more you get that the gardener flip cycle"
+    },
+    {
+        "start": 2018.0,
+        "end": 2023.12,
+        "text": " where people try it, they get like, this doesn't work this way at all. I still need the humans. The"
+    },
+    {
+        "start": 2023.12,
+        "end": 2029.4399999999998,
+        "text": " humans at as this mail says context and awareness and situational strategy, not to mention things like"
+    },
+    {
+        "start": 2029.4399999999998,
+        "end": 2037.12,
+        "text": " morality, which AI is terrible at. Now, can the AI do bulk volume of data processing? It absolutely"
+    },
+    {
+        "start": 2037.12,
+        "end": 2041.9199999999998,
+        "text": " can. And that's where that's one of the places we should lead into. I've been touched on things like"
+    },
+    {
+        "start": 2041.9199999999998,
+        "end": 2047.6,
+        "text": " vision and you know, some of the more esoteric parts of AI that we don't speak about every single day."
+    },
+    {
+        "start": 2047.6,
+        "end": 2053.92,
+        "text": " So I'm not limiting it to prediction classification and large language models, but I'm just saying"
+    },
+    {
+        "start": 2053.92,
+        "end": 2060.16,
+        "text": " large language models are amazing. I use them regularly for processing anything having to do"
+    },
+    {
+        "start": 2060.48,
+        "end": 2067.8399999999997,
+        "text": " language, whether that's code language, indicator language, or spoken red language. One of my"
+    },
+    {
+        "start": 2068.56,
+        "end": 2075.44,
+        "text": " very practical things that I do with almost every piece of content I'm attempting to digest now"
+    },
+    {
+        "start": 2075.44,
+        "end": 2080.96,
+        "text": " is I try to get the audio and I run a transcript, send it to whispers, send it to whatever API,"
+    },
+    {
+        "start": 2080.96,
+        "end": 2085.68,
+        "text": " give me a transcript of it, analyze the transcript for me, give me some key talking points. What are"
+    },
+    {
+        "start": 2085.68,
+        "end": 2090.16,
+        "text": " the things that I said? What are some tweetable lines that I want to broadcast out? What are some"
+    },
+    {
+        "start": 2090.16,
+        "end": 2097.2,
+        "text": " key quotes that I said? And I build my brand on social media and I flavor my other talks with that"
+    },
+    {
+        "start": 2097.2,
+        "end": 2102.24,
+        "text": " content that I've said already. I'm going to do it with talk that I'm doing right now. That's why I'm"
+    },
+    {
+        "start": 2102.24,
+        "end": 2108.0,
+        "text": " in addition to as a backup. I'm also reporting my own audio here so that I can extract that. And so"
+    },
+    {
+        "start": 2108.0,
+        "end": 2114.72,
+        "text": " that I use LLMs. They have utility, but it's they're not the end all panacea. You know, oh my god,"
+    },
+    {
+        "start": 2114.72,
+        "end": 2121.04,
+        "text": " they're great. We should throw everything at an LLM. It's the more we do that, I think the more"
+    },
+    {
+        "start": 2121.04,
+        "end": 2127.9199999999996,
+        "text": " we do intrinsic harm to the industry and most importantly to our customers ability to defend"
+    },
+    {
+        "start": 2127.9199999999996,
+        "end": 2133.2,
+        "text": " themselves because the threat actors are not at least I don't see the threat actors out there"
+    },
+    {
+        "start": 2133.8399999999997,
+        "end": 2140.56,
+        "text": " building a hype cycle. I see them out there efficiently sharing threat intelligence and leveraging"
+    },
+    {
+        "start": 2140.56,
+        "end": 2146.56,
+        "text": " it to build new novel attacks so that there's unique ways that they can get their objective which"
+    },
+    {
+        "start": 2146.56,
+        "end": 2153.84,
+        "text": " is monetized weaknesses in our environment. We are not as monitely focused on our task at hand"
+    },
+    {
+        "start": 2153.84,
+        "end": 2156.48,
+        "text": " as that yet."
+    },
+    {
+        "start": 2171.04,
+        "end": 2176.08,
+        "text": " What's up friends? I've got something exciting to share with you today. A sleep technology that's"
+    },
+    {
+        "start": 2176.08,
+        "end": 2181.84,
+        "text": " pushing the boundaries of what's possible in our bedrooms. Let me introduce you to eight sleep"
+    },
+    {
+        "start": 2181.84,
+        "end": 2187.44,
+        "text": " and their cutting edge pod for ultra. I haven't gotten mine yet, but it's on its way. I'm literally"
+    },
+    {
+        "start": 2187.44,
+        "end": 2194.88,
+        "text": " counting the days. So what exactly is the pod for ultra? Imagine a high-tech mattress cover that you"
+    },
+    {
+        "start": 2194.88,
+        "end": 2201.2000000000003,
+        "text": " could easily add to any bed, but this isn't just any cover. It is packed with sensors, heating"
+    },
+    {
+        "start": 2201.2000000000003,
+        "end": 2206.96,
+        "text": " and cooling elements and it's all controlled by sophisticated AI algorithms. It's like having a"
+    },
+    {
+        "start": 2206.96,
+        "end": 2214.08,
+        "text": " sleep lab, a smart thermostat, and a personal sleep coach all rolled into a single device. It uses a"
+    },
+    {
+        "start": 2214.08,
+        "end": 2220.32,
+        "text": " network of sensors to track a wide array of biometrics while you sleep, sleep stages, heart rate"
+    },
+    {
+        "start": 2220.32,
+        "end": 2226.0800000000004,
+        "text": " variability, respiratory rate, temperature and more. It uses precision temperature control to"
+    },
+    {
+        "start": 2226.0800000000004,
+        "end": 2232.1600000000003,
+        "text": " regulate your body's sleep cycles. It can cool you down to a chili 55 degrees Fahrenheit or warm"
+    },
+    {
+        "start": 2232.1600000000003,
+        "end": 2239.6000000000004,
+        "text": " you up to a good, nice solid temperature of 110 Fahrenheit. And it does this separately for each"
+    },
+    {
+        "start": 2239.6000000000004,
+        "end": 2244.96,
+        "text": " side of the bed. This means you and your partner can have your own ideal sleep temperatures,"
+    },
+    {
+        "start": 2244.96,
+        "end": 2251.92,
+        "text": " but the really cool part is that the pod uses AI and it uses machine learning to learn your"
+    },
+    {
+        "start": 2251.92,
+        "end": 2257.68,
+        "text": " sleep patterns over time. And it uses this data to automatically adjust the temperature of your bed"
+    },
+    {
+        "start": 2257.68,
+        "end": 2262.8,
+        "text": " throughout the night according to your body's preferences. Instead of just giving you some stats,"
+    },
+    {
+        "start": 2262.8,
+        "end": 2268.32,
+        "text": " it understands them and it does something about it. Your bed literally gets smarter as you sleep"
+    },
+    {
+        "start": 2268.32,
+        "end": 2273.52,
+        "text": " over time. And all this functionality is accessible through a comprehensive mobile app, you get"
+    },
+    {
+        "start": 2273.52,
+        "end": 2279.68,
+        "text": " sleep analytics, trends over time, and you even get a daily sleep fitness score. Now, I don't have"
+    },
+    {
+        "start": 2279.68,
+        "end": 2285.12,
+        "text": " mind yet. It is on its way. Thanks for friends over eight sleep and I'm literally counting the days"
+    },
+    {
+        "start": 2285.12,
+        "end": 2289.52,
+        "text": " to get it. Because I love this stuff. But if you're ready to take your sleep and your recovery to"
+    },
+    {
+        "start": 2289.52,
+        "end": 2296.88,
+        "text": " the next level, head over to atsleep.com slash practical AI and use our code practical AI to get"
+    },
+    {
+        "start": 2296.88,
+        "end": 2303.6800000000003,
+        "text": " 350 bucks off your very own pod for ultra. And you can trap free for 30 days. I don't think"
+    },
+    {
+        "start": 2303.6800000000003,
+        "end": 2309.2000000000003,
+        "text": " you want to send it back, but you can if you want to. They're currently shipping to the US, Canada,"
+    },
+    {
+        "start": 2309.2000000000003,
+        "end": 2315.84,
+        "text": " United Kingdom, Europe, and Australia. Again, atsleep.com slash practical AI."
+    },
+    {
+        "start": 2327.6800000000003,
+        "end": 2339.12,
+        "text": " Greg, that was great explaining how you're approaching that. Trying to keep the AI practical,"
+    },
+    {
+        "start": 2339.12,
+        "end": 2345.12,
+        "text": " trying to have the right AI in the right place. And great call out for the fact that like so many"
+    },
+    {
+        "start": 2345.12,
+        "end": 2352.4,
+        "text": " other industries, there is a proclivity in your industry to also do the AI and everything."
+    },
+    {
+        "start": 2352.96,
+        "end": 2356.7200000000003,
+        "text": " You know, you said you used the phrase, you know, selling smoke and mirrors and stuff. And you"
+    },
+    {
+        "start": 2356.7200000000003,
+        "end": 2363.76,
+        "text": " guys working really hard to productively give solutions and strategies that are not built around"
+    },
+    {
+        "start": 2363.76,
+        "end": 2368.96,
+        "text": " the hype side of all this. Could you dive into a little bit more of that? And also,"
+    },
+    {
+        "start": 2368.96,
+        "end": 2374.64,
+        "text": " it's male, if you could also address a bit about the blog itself that you wrote so that we can draw"
+    },
+    {
+        "start": 2374.64,
+        "end": 2378.7200000000003,
+        "text": " some draw some of our listeners into that. And they can also read that as they're finishing up"
+    },
+    {
+        "start": 2378.7999999999997,
+        "end": 2384.56,
+        "text": " the episode and understand that. I really appreciate that. So kind of both the what are you doing"
+    },
+    {
+        "start": 2384.56,
+        "end": 2390.08,
+        "text": " in that practical sense? And what are you producing for your customers? And then kind of how is the"
+    },
+    {
+        "start": 2390.08,
+        "end": 2394.8799999999997,
+        "text": " blog contributing to that? You want to start me with the blog and then Greg, you can talk about the"
+    },
+    {
+        "start": 2394.8799999999997,
+        "end": 2400.72,
+        "text": " solutions we're building. Yeah, so the blog is essentially trying to address the hype that we're"
+    },
+    {
+        "start": 2400.72,
+        "end": 2405.6,
+        "text": " just talking before, right? And saying, okay, so what do you say you're being used for by the"
+    },
+    {
+        "start": 2405.6,
+        "end": 2410.56,
+        "text": " attackers? Let's start with that. Some people may think that, oh, you know, attackers are crafting"
+    },
+    {
+        "start": 2410.56,
+        "end": 2417.04,
+        "text": " these malware that is autonomous, that it just goes out and finds a vulnerability like a zero day,"
+    },
+    {
+        "start": 2417.04,
+        "end": 2421.8399999999997,
+        "text": " right? We call zero day this industry like something that we haven't found yet. It's no veil."
+    },
+    {
+        "start": 2421.8399999999997,
+        "end": 2426.64,
+        "text": " Nobody knows about that vulnerability. Now this autonomous agent is going to exploit it. It's"
+    },
+    {
+        "start": 2426.64,
+        "end": 2433.2,
+        "text": " going to get into the company steal the data, ran some of the environment and no, then you wake up,"
+    },
+    {
+        "start": 2433.2,
+        "end": 2439.3599999999997,
+        "text": " right? There's no such a thing. Not as of today at the very least. I think we're talking about"
+    },
+    {
+        "start": 2439.3599999999997,
+        "end": 2443.3599999999997,
+        "text": " people among the saying, I'm going to say around the same age. You probably remember Blade Runner"
+    },
+    {
+        "start": 2443.3599999999997,
+        "end": 2449.3599999999997,
+        "text": " from 90 Gold II, the original one, right? The replicants. There is no replicants as of today. There's"
+    },
+    {
+        "start": 2449.3599999999997,
+        "end": 2454.56,
+        "text": " deep fakes. That's a different thing that could look like humans. That's the closest thing. But"
+    },
+    {
+        "start": 2454.56,
+        "end": 2462.16,
+        "text": " there's no autonomous agents that can do all of these things. Or we don't see people that, I don't"
+    },
+    {
+        "start": 2462.16,
+        "end": 2468.24,
+        "text": " know. You're training dolphins for your entire life. Then all of a sudden, now because of AI,"
+    },
+    {
+        "start": 2468.24,
+        "end": 2472.7999999999997,
+        "text": " you can hack into companies and make a lot of profit out of that. Probably not."
+    },
+    {
+        "start": 2474.24,
+        "end": 2480.08,
+        "text": " What we see as attackers is that this is a tool essentially for the initial faces of the attack."
+    },
+    {
+        "start": 2481.12,
+        "end": 2486.64,
+        "text": " That means that they're getting a lot better at writing fishing emails. We have seen an"
+    },
+    {
+        "start": 2486.64,
+        "end": 2493.04,
+        "text": " increase in fishing emails with language that's non-English. For example, before we would see"
+    },
+    {
+        "start": 2493.92,
+        "end": 2499.8399999999997,
+        "text": " some of these Eastern European organizations or Russian criminals sending emails in English that"
+    },
+    {
+        "start": 2499.8399999999997,
+        "end": 2506.48,
+        "text": " was like broken English. You could quickly spot them and say, oh, yeah, this is Fischer Englundspan."
+    },
+    {
+        "start": 2506.48,
+        "end": 2512.0,
+        "text": " These days, everybody speaks not only perfect English, but also perfect Japanese. We have seen"
+    },
+    {
+        "start": 2512.0,
+        "end": 2517.44,
+        "text": " an increase in a number of fishing and Japanese companies where other languages that hardly"
+    },
+    {
+        "start": 2518.08,
+        "end": 2524.24,
+        "text": " would be used by these cyber criminals. That's a clear use of LLMs. Now, in terms of coding,"
+    },
+    {
+        "start": 2524.24,
+        "end": 2528.64,
+        "text": " there's a lot of debate. It's very controversial. Can you learn coding from scratch?"
+    },
+    {
+        "start": 2528.64,
+        "end": 2533.84,
+        "text": " Or can you just use this to create code from scratch? We'll do these things. Probably not today."
+    },
+    {
+        "start": 2533.84,
+        "end": 2539.04,
+        "text": " These models are getting better. But I still find out that every time I ask any of these agents"
+    },
+    {
+        "start": 2539.04,
+        "end": 2545.68,
+        "text": " to create some code for me, I still have to understand the code, understand what I'm trying to do,"
+    },
+    {
+        "start": 2545.68,
+        "end": 2552.96,
+        "text": " and being able to refine it and to tune it. Also, bear in mind that these models are crafting things"
+    },
+    {
+        "start": 2552.96,
+        "end": 2557.52,
+        "text": " based on the training that it has received, based on previous data that is already known."
+    },
+    {
+        "start": 2558.08,
+        "end": 2563.6,
+        "text": " Therefore, when Greg maybe talks about predictive solutions and AI, that makes us also even more"
+    },
+    {
+        "start": 2563.6,
+        "end": 2569.44,
+        "text": " successful in the use of our AI because we have trained these models with everything that has"
+    },
+    {
+        "start": 2569.44,
+        "end": 2576.0,
+        "text": " been seen in the past as well. At the end of the day, I think that AI is not going to be that much"
+    },
+    {
+        "start": 2576.0,
+        "end": 2580.7999999999997,
+        "text": " of an advantage to us hackers. There's always a little advantage, but just because they're attackers,"
+    },
+    {
+        "start": 2580.7999999999997,
+        "end": 2585.8399999999997,
+        "text": " because they take the first step and you're on the defense side and you don't know if they're coming"
+    },
+    {
+        "start": 2585.8399999999997,
+        "end": 2590.56,
+        "text": " tonight, if they're coming tomorrow morning, or if they're coming next month, you may anticipate"
+    },
+    {
+        "start": 2590.7999999999997,
+        "end": 2595.2,
+        "text": " that. That's where my team does the threat intelligence, which is looking at the geopolitics,"
+    },
+    {
+        "start": 2595.2,
+        "end": 2601.92,
+        "text": " looking at the weather forecast. What are the cloud signaling? Then based on that, you adapt your"
+    },
+    {
+        "start": 2601.92,
+        "end": 2606.7999999999997,
+        "text": " threat model. But you're always one step behind by nature. That's what defense is about."
+    },
+    {
+        "start": 2607.6,
+        "end": 2614.56,
+        "text": " But even though defenders may have that temporal advantage, I think when used properly by defenders,"
+    },
+    {
+        "start": 2614.56,
+        "end": 2620.32,
+        "text": " the field could be leveled and AI could be effectively used to do more things at scale,"
+    },
+    {
+        "start": 2621.04,
+        "end": 2626.32,
+        "text": " especially when you have a solid strategy. It's interesting that it's male referred to updating"
+    },
+    {
+        "start": 2626.32,
+        "end": 2632.88,
+        "text": " our threat model and he drew that analogy back to like the weather. Like you look at the clouds and"
+    },
+    {
+        "start": 2632.88,
+        "end": 2637.52,
+        "text": " based on what you see in the clouds, you react accordingly. You might pack an umbrella or something"
+    },
+    {
+        "start": 2637.6,
+        "end": 2643.6,
+        "text": " along those lines. I think that's such a proponent analogy because interestingly,"
+    },
+    {
+        "start": 2644.4,
+        "end": 2652.4,
+        "text": " as it killed in the 70s, growing up in the Caribbean in a hurricane zone, I remember sitting around"
+    },
+    {
+        "start": 2652.4,
+        "end": 2658.24,
+        "text": " the big box TV in the living room. I think it was even black and white at one point because I'm old"
+    },
+    {
+        "start": 2658.24,
+        "end": 2665.04,
+        "text": " and promulginy, as I said earlier, and watching the predicted hurricane track for some storm that left"
+    },
+    {
+        "start": 2665.6,
+        "end": 2670.96,
+        "text": " the western coast of Africa is barreling towards the Caribbean islands. My island is a small five"
+    },
+    {
+        "start": 2670.96,
+        "end": 2677.04,
+        "text": " mile by seven mile island we could get and routinely got decimated by a hurricane. So if a hurricane"
+    },
+    {
+        "start": 2677.04,
+        "end": 2682.56,
+        "text": " is coming, you need to know those predictive trucks with the little circles and saying the storm"
+    },
+    {
+        "start": 2682.56,
+        "end": 2690.24,
+        "text": " looks like it's going to go there. Those in the 70s already were drawn and calculated by AI."
+    },
+    {
+        "start": 2690.24,
+        "end": 2697.68,
+        "text": " It was one of the first very widely used use cases for predictive AI. So it's interesting that"
+    },
+    {
+        "start": 2697.68,
+        "end": 2703.7599999999998,
+        "text": " Ismail uses that as an analogy because that is exactly what we're doing. We're taking a use case"
+    },
+    {
+        "start": 2703.7599999999998,
+        "end": 2708.56,
+        "text": " that was well developed with weather prediction and that's what we're applying to attacker prediction."
+    },
+    {
+        "start": 2708.56,
+        "end": 2715.3599999999997,
+        "text": " So you asked how we can apply this to the customer environment. One of the things that I am"
+    },
+    {
+        "start": 2715.36,
+        "end": 2722.32,
+        "text": " maniacally focused on right now is helping customers as I said earlier draw this all together."
+    },
+    {
+        "start": 2722.32,
+        "end": 2726.32,
+        "text": " So I'm not going to get into product names because this is in the sales pitch. But we've just"
+    },
+    {
+        "start": 2726.32,
+        "end": 2731.92,
+        "text": " developed something in the category called a managed extended detected response tool set."
+    },
+    {
+        "start": 2732.48,
+        "end": 2738.2400000000002,
+        "text": " And what's unique about our approach to that that approach in that space is not unique at all."
+    },
+    {
+        "start": 2738.2400000000002,
+        "end": 2744.08,
+        "text": " It's been existed just about every large cybersecurity vendor has something that plays in that space."
+    },
+    {
+        "start": 2744.16,
+        "end": 2750.72,
+        "text": " What's unique about our take on it. We are heavily focused on regardless to what your"
+    },
+    {
+        "start": 2750.72,
+        "end": 2758.08,
+        "text": " security stack consists of. That's what we're going to ingest. Most of the other vendors use a XDR"
+    },
+    {
+        "start": 2758.08,
+        "end": 2763.6,
+        "text": " type tool to say listen to get the maximum benefits out of our tool. You should really be using all"
+    },
+    {
+        "start": 2763.6,
+        "end": 2767.6,
+        "text": " of our stuff. So you should get our firewalls, you should get our endpoints, you should get our cloud"
+    },
+    {
+        "start": 2767.6,
+        "end": 2773.2,
+        "text": " stuff. And then it's going to be maximized. Our take is different. Our take is we understand that you"
+    },
+    {
+        "start": 2773.2,
+        "end": 2780.08,
+        "text": " the customer probably struggle with two things a widely diverse ecosystem of security tools."
+    },
+    {
+        "start": 2780.08,
+        "end": 2785.2799999999997,
+        "text": " And the second thing, especially for medium to smaller companies, you're probably struggling with"
+    },
+    {
+        "start": 2785.2799999999997,
+        "end": 2792.3199999999997,
+        "text": " finding the human resources to do these jobs. So we we have a managed solution where our threat"
+    },
+    {
+        "start": 2792.3199999999997,
+        "end": 2799.7599999999998,
+        "text": " analysts, our security analysts are well trained human experts combined with predictive AI that,"
+    },
+    {
+        "start": 2799.76,
+        "end": 2806.2400000000002,
+        "text": " as you smell, says, I've been well trained on sensors and sensor data and threat data that we've"
+    },
+    {
+        "start": 2806.2400000000002,
+        "end": 2814.32,
+        "text": " been receiving for the last 10, 15 years. That's why we are able to not just ingest all of the data,"
+    },
+    {
+        "start": 2814.32,
+        "end": 2819.44,
+        "text": " classify and recognize that this is an attack that we've seen before, even if it's using novel"
+    },
+    {
+        "start": 2819.44,
+        "end": 2825.5200000000004,
+        "text": " and brand new on scene before malware. And then provide you defense defense strategies against it."
+    },
+    {
+        "start": 2825.52,
+        "end": 2832.4,
+        "text": " That's how I believe BlackBerry can help the market, the customers the most. I mentioned that I"
+    },
+    {
+        "start": 2832.4,
+        "end": 2839.6,
+        "text": " started as on the attacker side. I was never an illegal attacker. I started as a pen tester and then"
+    },
+    {
+        "start": 2839.6,
+        "end": 2844.32,
+        "text": " you know, pivoted into reversing code and doing some other things like that. And you know, I went"
+    },
+    {
+        "start": 2844.32,
+        "end": 2853.92,
+        "text": " from there. But most of my career was on the customer side. I proactively switched or maybe was convinced"
+    },
+    {
+        "start": 2853.92,
+        "end": 2861.04,
+        "text": " to switch to the vendor side probably about 10 years ago, but I saw that gap. I saw that as a"
+    },
+    {
+        "start": 2861.04,
+        "end": 2867.52,
+        "text": " customer, I took by all of these new widgets and toys and it really wasn't making me more secure."
+    },
+    {
+        "start": 2867.52,
+        "end": 2875.6,
+        "text": " So I came to the vendor side to try to influence the vendor defensive function and product strategy"
+    },
+    {
+        "start": 2875.6,
+        "end": 2881.92,
+        "text": " to put out more products that legitimately can help customers solve those two problems. The manpower"
+    },
+    {
+        "start": 2881.92,
+        "end": 2889.6,
+        "text": " problem, the diversity of tool set problem. The amount of times I am told by a customer Greg will rip"
+    },
+    {
+        "start": 2889.6,
+        "end": 2895.2000000000003,
+        "text": " everything out and put in whatever you tell us. That's infinitesim. It has happened. I have had a"
+    },
+    {
+        "start": 2895.2000000000003,
+        "end": 2900.48,
+        "text": " couple of green field customers that said listen, we're none of its work in taking all out and help us"
+    },
+    {
+        "start": 2900.48,
+        "end": 2906.64,
+        "text": " replace it. But that's rare. Most of the customers either have financial constraints, time constraints or"
+    },
+    {
+        "start": 2906.64,
+        "end": 2912.24,
+        "text": " some other constraint. So they need to make do with what they have. Let's build a tool set that"
+    },
+    {
+        "start": 2912.24,
+        "end": 2917.52,
+        "text": " allows customers to use what they have and maximize the value they extract out of it. So as you"
+    },
+    {
+        "start": 2917.52,
+        "end": 2923.6,
+        "text": " as we wrap up here and you've kind of you've done great kind of level setting how you guys are"
+    },
+    {
+        "start": 2923.6,
+        "end": 2930.56,
+        "text": " able to add value for your customers in this realm. This is such a fast changing arena. You've got AI"
+    },
+    {
+        "start": 2930.64,
+        "end": 2937.2799999999997,
+        "text": " playing at some productive place in your approach or strategy and your solutions. But this is a fast"
+    },
+    {
+        "start": 2937.2799999999997,
+        "end": 2943.12,
+        "text": " changing world that we're dealing with. As we wind up, do you have any thoughts from either of you"
+    },
+    {
+        "start": 2943.12,
+        "end": 2949.12,
+        "text": " or both of you about what you're expecting to see over the next few years? How you think things will"
+    },
+    {
+        "start": 2949.12,
+        "end": 2956.4,
+        "text": " change? What that outweighs a little bit looks like? Yeah, so I'll get started. I think we're"
+    },
+    {
+        "start": 2956.4,
+        "end": 2964.64,
+        "text": " going to see more deception used by attackers leveraging AI, especially with deep fakes. I think"
+    },
+    {
+        "start": 2964.64,
+        "end": 2971.76,
+        "text": " that's a very powerful application of AI to offensive capabilities. We already see a trend in the"
+    },
+    {
+        "start": 2971.76,
+        "end": 2978.1600000000003,
+        "text": " increase of volume and scale. I think that's one of the key things that AI also enables attackers"
+    },
+    {
+        "start": 2978.1600000000003,
+        "end": 2984.4,
+        "text": " with, which is the augmenting their existing capabilities, make them scale. But that's exactly what"
+    },
+    {
+        "start": 2984.4,
+        "end": 2990.32,
+        "text": " defenders can do as well. But the main thing is starting with the definition of the problem."
+    },
+    {
+        "start": 2990.32,
+        "end": 2995.6800000000003,
+        "text": " I think that's the most powerful question you can ask as a defender. What is the problem I'm"
+    },
+    {
+        "start": 2995.6800000000003,
+        "end": 3001.92,
+        "text": " trying to solve? Because AI or any other technology, it doesn't really change the mission of your"
+    },
+    {
+        "start": 3001.92,
+        "end": 3008.64,
+        "text": " organization. Are you a hospital, small hospital or large hospital? Your goal, your mission is to"
+    },
+    {
+        "start": 3009.52,
+        "end": 3016.7999999999997,
+        "text": " protect the citizens, the people that go to have care. You don't want this environment to get"
+    },
+    {
+        "start": 3016.7999999999997,
+        "end": 3022.7999999999997,
+        "text": " ransom and admissions to be done by pen and paper. People could effectively die because they"
+    },
+    {
+        "start": 3022.7999999999997,
+        "end": 3026.3199999999997,
+        "text": " didn't get admitted to the hospital. That's the kind of thing that we're looking at here."
+    },
+    {
+        "start": 3026.3199999999997,
+        "end": 3030.24,
+        "text": " Or protecting critical infrastructure, protecting the school where our kids go to."
+    },
+    {
+        "start": 3032.16,
+        "end": 3036.8799999999997,
+        "text": " AI doesn't change the mission of your organization. AI doesn't change even the approach, the"
+    },
+    {
+        "start": 3036.88,
+        "end": 3042.88,
+        "text": " strategic approach to cyber security. You just need to find out where are the areas that can help"
+    },
+    {
+        "start": 3042.88,
+        "end": 3048.8,
+        "text": " you to scale and maybe some cover some of the gaps that you have. I think we talked a little bit"
+    },
+    {
+        "start": 3048.8,
+        "end": 3054.2400000000002,
+        "text": " about that. But improving detection and response times, disrupting attacks at specific places of"
+    },
+    {
+        "start": 3054.2400000000002,
+        "end": 3060.08,
+        "text": " the attack chain, giving you the ability to contextualize a lot of data to give you some,"
+    },
+    {
+        "start": 3060.08,
+        "end": 3065.6800000000003,
+        "text": " I'm a firm believer in the human machine team, to give you some input. Now the human"
+    },
+    {
+        "start": 3065.68,
+        "end": 3071.04,
+        "text": " can, with that information, take an action. Then also the models, the machine learning models,"
+    },
+    {
+        "start": 3071.04,
+        "end": 3077.3599999999997,
+        "text": " learning from that to effectively combine that human machine team, that blade runner,"
+    },
+    {
+        "start": 3077.3599999999997,
+        "end": 3085.3599999999997,
+        "text": " or in this case, the replicant, that takes the best out of both worlds. That's my vision about that."
+    },
+    {
+        "start": 3085.3599999999997,
+        "end": 3092.08,
+        "text": " I'll chime in on that as well. The top five companies in the world by market capitalization right"
+    },
+    {
+        "start": 3092.08,
+        "end": 3099.7599999999998,
+        "text": " now are tech companies. All founded or co-founded by individuals with heavy, technical background."
+    },
+    {
+        "start": 3100.48,
+        "end": 3107.68,
+        "text": " This is very unique in this era that we find ourselves in now. This is changing leadership"
+    },
+    {
+        "start": 3107.68,
+        "end": 3112.96,
+        "text": " in a way that we, at leadership entrepreneurship and just vision and strategy in a way that we"
+    },
+    {
+        "start": 3112.96,
+        "end": 3121.36,
+        "text": " haven't seen before. I think we're at a unique precipice to where we can maximize some"
+    },
+    {
+        "start": 3121.36,
+        "end": 3128.48,
+        "text": " technological applications that 10, 20 years ago, we wouldn't have even been having the conversation."
+    },
+    {
+        "start": 3128.48,
+        "end": 3134.32,
+        "text": " The technology was there, was readily available, like AI that was written in textbooks in the late"
+    },
+    {
+        "start": 3134.32,
+        "end": 3142.32,
+        "text": " 1950s. The technology has been there. It's being popped into the forefront now because of that seismic"
+    },
+    {
+        "start": 3142.32,
+        "end": 3148.8,
+        "text": " shift where the biggest companies are tech companies. So my daughter who's 15 years old is maybe"
+    },
+    {
+        "start": 3148.8,
+        "end": 3154.7200000000003,
+        "text": " tech savvy. When I was 15 years old, I was an odd ball because I was tech savvy. They looked at me like,"
+    },
+    {
+        "start": 3154.7200000000003,
+        "end": 3163.2000000000003,
+        "text": " I had three heads. What do I predict? I predict we're going to see acceleration in how those types of"
+    },
+    {
+        "start": 3163.2000000000003,
+        "end": 3168.88,
+        "text": " use cases and opportunities and candidly business opportunities are going to appear. But I also see,"
+    },
+    {
+        "start": 3169.6800000000003,
+        "end": 3178.2400000000002,
+        "text": " so there's always a positive in the negative. I see a risk, a huge risk of moral and character failures"
+    },
+    {
+        "start": 3179.1200000000003,
+        "end": 3189.2000000000003,
+        "text": " at the level of those leaders who have a unbalanced sense of my technical prowess, but potentially"
+    },
+    {
+        "start": 3189.2000000000003,
+        "end": 3196.32,
+        "text": " low morals, potentially low leadership, Accument, potentially low spiritual Accument. There's an"
+    },
+    {
+        "start": 3196.32,
+        "end": 3202.2400000000002,
+        "text": " opportunity to balance that out as well. Personally, that's where my focus is. That's how I met Daniel"
+    },
+    {
+        "start": 3202.2400000000002,
+        "end": 3207.84,
+        "text": " from this podcast because he's, you know, we've spoken at events or met each other at events where"
+    },
+    {
+        "start": 3207.84,
+        "end": 3213.2000000000003,
+        "text": " we're trying to talk about those types of topics. How do you pull together technology and other"
+    },
+    {
+        "start": 3213.2000000000003,
+        "end": 3218.96,
+        "text": " things that are more from a moralistic perspective and help to have the technology but balance that out"
+    },
+    {
+        "start": 3218.96,
+        "end": 3224.6400000000003,
+        "text": " and vice versa? I think that's where we're going to have to be very cautious that we don't overrotate"
+    },
+    {
+        "start": 3224.6400000000003,
+        "end": 3230.4,
+        "text": " and end up accidentally, and I'm not talking about politics now at all, but end up accidentally"
+    },
+    {
+        "start": 3230.4,
+        "end": 3237.2000000000003,
+        "text": " handing the reins over to people who's gifting, got them to a place where their character potentially"
+    },
+    {
+        "start": 3237.2,
+        "end": 3242.0,
+        "text": " could not sustain them. And I think we're at very big risk of that. So those are the two things that"
+    },
+    {
+        "start": 3242.0,
+        "end": 3248.0,
+        "text": " I see kind of for the future, both opportunity and risk. Fantastic insights from both of you."
+    },
+    {
+        "start": 3248.0,
+        "end": 3253.2799999999997,
+        "text": " Gentlemen, thank you very, very much for coming on the show. It was a great conversation. I learned a"
+    },
+    {
+        "start": 3253.2799999999997,
+        "end": 3260.16,
+        "text": " lot. And I hope I can, as things progress going forward, I hope you guys would come back on and"
+    },
+    {
+        "start": 3260.16,
+        "end": 3265.2799999999997,
+        "text": " and give us updates on where cyber is going forward. Love happening on the show. Thank you."
+    },
+    {
+        "start": 3265.6000000000004,
+        "end": 3267.84,
+        "text": " I'm a pleasure. Thank you, Chris. Thank you, Chris."
+    },
+    {
+        "start": 3275.76,
+        "end": 3281.52,
+        "text": " All right, that is our show for this week. If you haven't checked out our Change Log News"
+    },
+    {
+        "start": 3281.52,
+        "end": 3290.0800000000004,
+        "text": " letter, head to changelog.com slash news. There you'll find 29 reasons. Yes, 29 reasons. Why you"
+    },
+    {
+        "start": 3290.08,
+        "end": 3295.52,
+        "text": " should subscribe. I'll tell you reason number 17, you might actually start looking forward to"
+    },
+    {
+        "start": 3295.52,
+        "end": 3301.2799999999997,
+        "text": " Mondays. Sounds like somebody's got a case of the Mondays. 28 more reasons are waiting for you"
+    },
+    {
+        "start": 3301.2799999999997,
+        "end": 3308.24,
+        "text": " at Change Log.com slash news. Thanks again to our partners at fly.io to break master cylinder for"
+    },
+    {
+        "start": 3308.24,
+        "end": 3318.7999999999997,
+        "text": " the beats and to you for listening. That is all for now, but we'll talk to you again next time."
+    }
+]

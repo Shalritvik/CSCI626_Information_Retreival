@@ -1,0 +1,2347 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.46,
+        "text": " I'd like to send a huge thanks to our friends at Juniper Networks for sponsoring today's show."
+    },
+    {
+        "start": 5.46,
+        "end": 12.4,
+        "text": " Juniper is a leader in AI-native networking, helping IT teams at companies like GAP, ServiceNow, and Verizon"
+    },
+    {
+        "start": 12.4,
+        "end": 16.28,
+        "text": " simplify network operations and make every connection count."
+    },
+    {
+        "start": 16.28,
+        "end": 26.84,
+        "text": " Powered by missed AI, Juniper delivers industry-leading AI ops, providing end-to-end insight into user experiences, and proactive anomaly detection."
+    },
+    {
+        "start": 27.08,
+        "end": 32.44,
+        "text": " Using a combination of network and application data along with custom-built ML and AI models,"
+    },
+    {
+        "start": 32.44,
+        "end": 40.76,
+        "text": " Juniper Miss can do things like pinpoint the network issues impacting Zoom calls, because choppy calls are the worst."
+    },
+    {
+        "start": 40.76,
+        "end": 45.24,
+        "text": " C&MO at Juniper.net-slash-twemble"
+    },
+    {
+        "start": 46.2,
+        "end": 57.32,
+        "text": " Recent nature is a pre-trend time-series anomaly model, right? That's also the exact same need, but there's a key difference that exists in pre-trend,"
+    },
+    {
+        "start": 57.32,
+        "end": 62.120000000000005,
+        "text": " or normally model time-series is for single-feature. What we are talking about is a multi-feature."
+    },
+    {
+        "start": 62.120000000000005,
+        "end": 66.68,
+        "text": " So for example, you want to look at the throughput for your given site."
+    },
+    {
+        "start": 66.68,
+        "end": 72.44,
+        "text": " You'll definitely should look at a number of clients and a total traffic warning we're going through,"
+    },
+    {
+        "start": 72.44,
+        "end": 78.84,
+        "text": " and how many destinations they are going through, and how many different applications they are, they're routing or traffic through."
+    },
+    {
+        "start": 78.84,
+        "end": 80.84,
+        "text": " So listen to the multiple features."
+    },
+    {
+        "start": 94.2,
+        "end": 98.03999999999999,
+        "text": " All right everyone, welcome to another episode of the Twemble AI podcast."
+    },
+    {
+        "start": 98.04,
+        "end": 102.2,
+        "text": " I am your host Sam Charrington. Today I'm joined by Shirley Wu."
+    },
+    {
+        "start": 102.2,
+        "end": 108.04,
+        "text": " Shirley is Senior Director for Marvis at Juniper Networks, where she leads the Data Science team."
+    },
+    {
+        "start": 108.04,
+        "end": 113.72,
+        "text": " Before we get going, be sure to take a moment to hit that subscribe button wherever you're listening to today's show."
+    },
+    {
+        "start": 113.72,
+        "end": 115.48,
+        "text": " Shirley, welcome to the podcast."
+    },
+    {
+        "start": 116.28,
+        "end": 119.48,
+        "text": " Hi Sam, it's a great player to be on your podcast."
+    },
+    {
+        "start": 119.48,
+        "end": 127.72,
+        "text": " I'm looking forward to jumping into our conversation. We're going to be talking about the many ways that you're applying data science"
+    },
+    {
+        "start": 127.72,
+        "end": 133.0,
+        "text": " and machine learning to the challenge of ensuring high quality network connections for your customers."
+    },
+    {
+        "start": 134.52,
+        "end": 139.88,
+        "text": " Before we jump into that topic, I'd love to have you share a little bit about your background."
+    },
+    {
+        "start": 139.88,
+        "end": 142.12,
+        "text": " Yeah, so yeah."
+    },
+    {
+        "start": 142.12,
+        "end": 151.96,
+        "text": " And so I started my career as a software engineer focusing on the data analysis, trying to find the insights from customer data."
+    },
+    {
+        "start": 151.96,
+        "end": 156.76,
+        "text": " That is beyond before the big data, Hadoop and the Cloud."
+    },
+    {
+        "start": 158.68,
+        "end": 164.84,
+        "text": " At that time, there are a lot of consistent challenges regarding the data volume and the latency issue."
+    },
+    {
+        "start": 164.84,
+        "end": 178.04,
+        "text": " Then big data Hadoop, technologies and the tools and the Cloud computing came to the world and quickly took over the whole industry of a big data analysis."
+    },
+    {
+        "start": 178.12,
+        "end": 188.44,
+        "text": " So the capability to process large amount of data really accelerated and the development and deployment of AI related applications."
+    },
+    {
+        "start": 188.44,
+        "end": 194.68,
+        "text": " So the primary application we're doing is the business insights are definitely not enough anymore."
+    },
+    {
+        "start": 194.68,
+        "end": 200.68,
+        "text": " We quickly moved to the capability to predict and forecast for customers needs."
+    },
+    {
+        "start": 201.48000000000002,
+        "end": 207.08,
+        "text": " So at that moment, I took the leap of my career to get into the startup."
+    },
+    {
+        "start": 207.08,
+        "end": 216.52,
+        "text": " I joined the early stage startup in cybersecurity, trying to use AI data to solve the cybersecurity related problem."
+    },
+    {
+        "start": 216.52,
+        "end": 224.36,
+        "text": " So we are one of the first industry trying to profile user behavior to identify security threat."
+    },
+    {
+        "start": 225.24,
+        "end": 229.0,
+        "text": " So that company eventually was acquired by Aruba Networks."
+    },
+    {
+        "start": 229.8,
+        "end": 232.76000000000002,
+        "text": " Then that's our first, the early stage startup."
+    },
+    {
+        "start": 232.76000000000002,
+        "end": 234.52,
+        "text": " Then I came to Mist."
+    },
+    {
+        "start": 234.52,
+        "end": 241.16000000000003,
+        "text": " Mist was a Wi-Fi company, but it's different from the Wi-Fi networking company."
+    },
+    {
+        "start": 241.16000000000003,
+        "end": 243.56,
+        "text": " It is also a cloud company."
+    },
+    {
+        "start": 243.56,
+        "end": 249.72000000000003,
+        "text": " So I joined the Mist to start to develop AI related technologies."
+    },
+    {
+        "start": 249.72,
+        "end": 258.44,
+        "text": " So the company spent quite a few times, quite a lot of the development to clarify all the networking"
+    },
+    {
+        "start": 258.44,
+        "end": 263.72,
+        "text": " Wi-Fi access points and build cloud infrastructures to be able to capture the data."
+    },
+    {
+        "start": 264.36,
+        "end": 270.68,
+        "text": " Then we have a data in the cloud that's pretty much the prime time to develop AI and ML solutions."
+    },
+    {
+        "start": 271.24,
+        "end": 278.28,
+        "text": " So I was kind of architected with a group of very talented data scientists and engineers to"
+    },
+    {
+        "start": 278.28,
+        "end": 282.59999999999997,
+        "text": " implement the Marvace, you know, self-driving network solutions."
+    },
+    {
+        "start": 282.59999999999997,
+        "end": 288.76,
+        "text": " And currently we continue expanding Marvace, you know, to the end to end the networking,"
+    },
+    {
+        "start": 288.76,
+        "end": 291.47999999999996,
+        "text": " starting with Mist was Wi-Fi only deployments."
+    },
+    {
+        "start": 291.47999999999996,
+        "end": 295.79999999999995,
+        "text": " Now we are developing to the Wi-Fi, wired and the VAN."
+    },
+    {
+        "start": 295.79999999999995,
+        "end": 303.15999999999997,
+        "text": " Trying to utilize the data and AI to help the customer to have a better networking experience,"
+    },
+    {
+        "start": 303.15999999999997,
+        "end": 304.84,
+        "text": " have a better internet experiences."
+    },
+    {
+        "start": 305.47999999999996,
+        "end": 312.67999999999995,
+        "text": " When I think about networking systems, and I spent my early career at AT&T working on data"
+    },
+    {
+        "start": 312.67999999999995,
+        "end": 318.84,
+        "text": " networks and, you know, configuring routers and all that stuff. So I have some degree of"
+    },
+    {
+        "start": 318.84,
+        "end": 326.76,
+        "text": " familiarity with all that. You know, I think a lot about the type of data that, you know,"
+    },
+    {
+        "start": 326.76,
+        "end": 333.55999999999995,
+        "text": " those systems tend to generate. And it, you know, mostly log files and like time series data."
+    },
+    {
+        "start": 335.08,
+        "end": 343.23999999999995,
+        "text": " And to a larger degree, you know, while that space is evolving, you know, rapidly,"
+    },
+    {
+        "start": 343.23999999999995,
+        "end": 350.91999999999996,
+        "text": " some of the most exciting changes in AI haven't necessarily, you know, included time series."
+    },
+    {
+        "start": 350.91999999999996,
+        "end": 356.59999999999997,
+        "text": " It's been about language and images. So I'd love to have you share a little bit about how you"
+    },
+    {
+        "start": 356.59999999999997,
+        "end": 364.28,
+        "text": " think about the evolution of ML and AI from a time series perspective and also more broadly,"
+    },
+    {
+        "start": 364.84,
+        "end": 369.88,
+        "text": " you know, networking as an application area for ML and AI."
+    },
+    {
+        "start": 369.88,
+        "end": 378.67999999999995,
+        "text": " Yeah. So your question is right spot on. Why networking is really the domain suitable for AI"
+    },
+    {
+        "start": 378.67999999999995,
+        "end": 386.2,
+        "text": " and ML? First is, networking is a matured domain, right? Not much the significant, you know,"
+    },
+    {
+        "start": 386.2,
+        "end": 391.55999999999995,
+        "text": " revolutionized the changes for the networking domain perspective. So because of a"
+    },
+    {
+        "start": 392.2,
+        "end": 402.36,
+        "text": " and heuristic and the domain, the level, its maturity. So that's capable for AI and ML,"
+    },
+    {
+        "start": 402.36,
+        "end": 409.0,
+        "text": " right? So this is, you know, the first layer. Second is the most way started to develop the"
+    },
+    {
+        "start": 409.0,
+        "end": 416.68,
+        "text": " network gears. Purely like IoT device. So purely we have visibility about the stats and events"
+    },
+    {
+        "start": 416.68,
+        "end": 425.40000000000003,
+        "text": " from a cloud. So as the device, you know, the starting to power it on and they auto connect to"
+    },
+    {
+        "start": 425.40000000000003,
+        "end": 432.12,
+        "text": " the cloud, the starting reported stats and events. So in the cloud, we have a large amount of data."
+    },
+    {
+        "start": 432.92,
+        "end": 440.52,
+        "text": " Purely can clearly identify current state of that device. So that's give us the capability to"
+    },
+    {
+        "start": 441.0,
+        "end": 450.44,
+        "text": " do the AI and ML. Now third piece is about, you know, the revolutionized from AI and ML perspective."
+    },
+    {
+        "start": 450.44,
+        "end": 457.24,
+        "text": " Like you said, currently a lot of revolution, you know, development in the AI and ML is focused on"
+    },
+    {
+        "start": 457.24,
+        "end": 462.91999999999996,
+        "text": " image and large language model time series from people's perspective. It's mature already. It's a"
+    },
+    {
+        "start": 462.92,
+        "end": 469.88,
+        "text": " down problem, right? But for networking, it's another domain. If you're talking about, you know,"
+    },
+    {
+        "start": 469.88,
+        "end": 477.56,
+        "text": " time story for to forecast, you know, particular stock market or for advertising, for financial"
+    },
+    {
+        "start": 477.56,
+        "end": 485.40000000000003,
+        "text": " marketing, that's pretty much is mature. But for networking, it's a special domain. A lot of,"
+    },
+    {
+        "start": 485.40000000000003,
+        "end": 491.24,
+        "text": " you know, you go to market, you can find a lot of the people that have a good experience with data"
+    },
+    {
+        "start": 491.24,
+        "end": 498.76,
+        "text": " science and the ML in advertising financial services, not necessarily networking domain. Networking"
+    },
+    {
+        "start": 498.76,
+        "end": 505.64,
+        "text": " domain is a very special domain. So it's really hard to find that type of talents, which is a known"
+    },
+    {
+        "start": 506.52,
+        "end": 514.04,
+        "text": " expert about networking and also about AI and ML. You know, when you think about time series as a"
+    },
+    {
+        "start": 514.04,
+        "end": 518.84,
+        "text": " problem class, a lot of the things that you're trying to do, like are very similar in terms of"
+    },
+    {
+        "start": 518.84,
+        "end": 523.96,
+        "text": " prediction are the problems fundamentally different in networking. Problems is fundamentally"
+    },
+    {
+        "start": 523.96,
+        "end": 531.0,
+        "text": " different. And for example, for Wi-Fi, how the Wi-Fi mobile client to join a network,"
+    },
+    {
+        "start": 531.64,
+        "end": 538.44,
+        "text": " their multiple phases is the ghost through. So this we have to sit together with our domain experts"
+    },
+    {
+        "start": 538.44,
+        "end": 543.8000000000001,
+        "text": " to understand multiple phases and each one of handshake between your Wi-Fi client"
+    },
+    {
+        "start": 543.88,
+        "end": 551.7199999999999,
+        "text": " ways, your access point, the acceptable latency, which layer they're going to retry. So the,"
+    },
+    {
+        "start": 551.7199999999999,
+        "end": 559.16,
+        "text": " this is the type of in the use case perspective is purely need well-defined while we work in the"
+    },
+    {
+        "start": 559.16,
+        "end": 564.68,
+        "text": " specific use case with our domain experts. So this is the one point. Second is, like you said,"
+    },
+    {
+        "start": 564.68,
+        "end": 570.8399999999999,
+        "text": " if we can't really interpret, interpret that domain's specific problem with the data,"
+    },
+    {
+        "start": 570.9200000000001,
+        "end": 575.5600000000001,
+        "text": " then the problem is pretty much done. A lot of times the data science, the data scientist team"
+    },
+    {
+        "start": 575.5600000000001,
+        "end": 581.0,
+        "text": " we're working together with the domain expert. First, to identify the choose problems they"
+    },
+    {
+        "start": 581.96,
+        "end": 588.2,
+        "text": " discover on the customer side, then we started the data to make sure our data be able to"
+    },
+    {
+        "start": 588.2,
+        "end": 593.48,
+        "text": " interpret have all the descriptions of the particular problem. So in the data science perspective,"
+    },
+    {
+        "start": 593.48,
+        "end": 598.2800000000001,
+        "text": " they call the feature engineering, right? So when we do the feature engineering, a lot of times we"
+    },
+    {
+        "start": 598.28,
+        "end": 604.12,
+        "text": " kind of really identify that hey, maybe we even don't have the right data. So our device did not"
+    },
+    {
+        "start": 604.12,
+        "end": 610.92,
+        "text": " send the particular stats or events to the cloud. Then we have to go back to work on the if,"
+    },
+    {
+        "start": 610.92,
+        "end": 616.1999999999999,
+        "text": " from where side to able to capture those stats send it to the cloud, then we send the redo"
+    },
+    {
+        "start": 616.1999999999999,
+        "end": 622.28,
+        "text": " the feature engineering. Then the third piece was that when we identify these type of issues,"
+    },
+    {
+        "start": 622.28,
+        "end": 629.16,
+        "text": " for example, for retail customer, because their Wi-Fi configuration is different compared to"
+    },
+    {
+        "start": 629.16,
+        "end": 636.8399999999999,
+        "text": " college campuses, which is also could be different compared to the business offices. So we take"
+    },
+    {
+        "start": 636.8399999999999,
+        "end": 643.88,
+        "text": " that particular domain, the deployments as a problem, we also trying to generalize for"
+    },
+    {
+        "start": 643.88,
+        "end": 651.64,
+        "text": " college campus and for the campus deployments for enterprise campus deployments. So in this case,"
+    },
+    {
+        "start": 651.64,
+        "end": 657.56,
+        "text": " that we have a generic solution, not just for a specific one customer, which is not going to work"
+    },
+    {
+        "start": 657.56,
+        "end": 662.6,
+        "text": " for customer B, right? So it's a three layers as a problem that we are talking about."
+    },
+    {
+        "start": 663.24,
+        "end": 668.68,
+        "text": " There's kind of layout problem. You've got these Wi-Fi access points that are spread throughout"
+    },
+    {
+        "start": 668.68,
+        "end": 676.6,
+        "text": " whatever facility. And you've got these clients that are trying to connect and you ultimately want to"
+    },
+    {
+        "start": 677.5600000000001,
+        "end": 684.12,
+        "text": " have the clients have the best experience possible. One aspect of the problem that's kind of offline"
+    },
+    {
+        "start": 684.12,
+        "end": 689.64,
+        "text": " is there also an online component where you're deploying models to either clients or access points"
+    },
+    {
+        "start": 689.64,
+        "end": 697.64,
+        "text": " that somehow aid them in making the right connections to one another that facilitates a better"
+    },
+    {
+        "start": 697.64,
+        "end": 703.8000000000001,
+        "text": " experience. Yeah, there's multiple fronts, multiple layers actually. AIML, it's not just the one"
+    },
+    {
+        "start": 703.8,
+        "end": 709.3199999999999,
+        "text": " solution, it's every front. So for example, let's say I can give you multiple examples. So first"
+    },
+    {
+        "start": 709.3199999999999,
+        "end": 714.4399999999999,
+        "text": " I started what is the feature you're talking about, the auto radio resource management. So when"
+    },
+    {
+        "start": 714.4399999999999,
+        "end": 719.88,
+        "text": " the mobile client trying to join the AIP, you need to make sure the client can hear the AIP"
+    },
+    {
+        "start": 719.88,
+        "end": 725.4799999999999,
+        "text": " on the particular channel, you can hear the Wi-Fi signal strength should be optimal, right?"
+    },
+    {
+        "start": 726.1999999999999,
+        "end": 730.8399999999999,
+        "text": " So you deploy the access point everywhere in the parking lot, inside the"
+    },
+    {
+        "start": 731.8000000000001,
+        "end": 741.08,
+        "text": " the ceiling of your room and in the dorms. So every environment that also maybe the other"
+    },
+    {
+        "start": 741.08,
+        "end": 748.6800000000001,
+        "text": " radio signals, if you close into the airport, if the shopping mall in the retail store,"
+    },
+    {
+        "start": 748.6800000000001,
+        "end": 753.5600000000001,
+        "text": " there's a next door, there's another access point maybe from the different vendors, right? So all"
+    },
+    {
+        "start": 753.5600000000001,
+        "end": 760.36,
+        "text": " this very dynamic environment, we need to make sure our access point have a right signal and"
+    },
+    {
+        "start": 760.36,
+        "end": 766.36,
+        "text": " on the right channel so that as a client for this particular store, they are able to hear you"
+    },
+    {
+        "start": 766.36,
+        "end": 775.16,
+        "text": " clearly. So in this case, we have the models deployed inside the cloud and they adopted for each"
+    },
+    {
+        "start": 775.16,
+        "end": 781.08,
+        "text": " environment and based on, you know, we will call the reinforcement learning. So we selected"
+    },
+    {
+        "start": 781.08,
+        "end": 788.04,
+        "text": " particular channel for every site and based on the feedback information from the stats and events,"
+    },
+    {
+        "start": 788.04,
+        "end": 795.4,
+        "text": " we continue to fine tune, the selected, you know, the channels and the models and the power"
+    },
+    {
+        "start": 795.4,
+        "end": 804.28,
+        "text": " strength. So this kind of more like a global model, but being fine tuned for each site and also"
+    },
+    {
+        "start": 804.28,
+        "end": 810.4399999999999,
+        "text": " based on the feedback loop based on the stats and the event data, we continue to fine tune for each"
+    },
+    {
+        "start": 810.4399999999999,
+        "end": 815.48,
+        "text": " environment. So it's kind of one of the use case, right? Of course, when we started this journey,"
+    },
+    {
+        "start": 815.5600000000001,
+        "end": 821.48,
+        "text": " first need to do the offline analysis to define that type of model, then we deployed to the cloud,"
+    },
+    {
+        "start": 821.48,
+        "end": 828.44,
+        "text": " then utilize each site data to fine tune the model. So this is kind of one of the use case. So this"
+    },
+    {
+        "start": 828.44,
+        "end": 834.2,
+        "text": " use case actually compared to traditional, you know, networking company for Wi-Fi, they typically"
+    },
+    {
+        "start": 834.2,
+        "end": 840.2,
+        "text": " use a controller. Controller is a piece of equipment, they deploy it and the customer's site,"
+    },
+    {
+        "start": 840.2,
+        "end": 846.2,
+        "text": " they need a network administrator to manually configure that controller, right? So in this case,"
+    },
+    {
+        "start": 846.2,
+        "end": 853.48,
+        "text": " our solution is purely utilized cloud, utilize data for each access point, we totally ennimulate"
+    },
+    {
+        "start": 854.44,
+        "end": 860.44,
+        "text": " that extra components. So this is kind of enable our customer, for example, one of the largest"
+    },
+    {
+        "start": 860.44,
+        "end": 867.24,
+        "text": " retail customers, they have very small teams, they can support the Wi-Fi deployment to"
+    },
+    {
+        "start": 867.24,
+        "end": 873.64,
+        "text": " globally, all their retail stores. So we are switching enable them to do that. And another,"
+    },
+    {
+        "start": 873.64,
+        "end": 880.2,
+        "text": " of course, that we, you know, we call it the AI for operation. So we use AI and now to support"
+    },
+    {
+        "start": 880.2,
+        "end": 886.84,
+        "text": " the customer's operation. What does it mean? Is that you first get your networking configured"
+    },
+    {
+        "start": 886.84,
+        "end": 893.64,
+        "text": " to deploy it ever since great, then our SC work away, so net is our networking running. But,"
+    },
+    {
+        "start": 893.72,
+        "end": 899.08,
+        "text": " you know, typically network hardware companies are doing is that if there's a problem, your"
+    },
+    {
+        "start": 899.08,
+        "end": 904.04,
+        "text": " IT administrator just pick up the phone working with the support to get the issue resolved, right?"
+    },
+    {
+        "start": 904.68,
+        "end": 912.4399999999999,
+        "text": " For us, actually, after the first initial site going alive, the data and the events continue"
+    },
+    {
+        "start": 912.4399999999999,
+        "end": 919.3199999999999,
+        "text": " streaming to the cloud, we monitor your network operations. If there's something's not right,"
+    },
+    {
+        "start": 919.4000000000001,
+        "end": 925.5600000000001,
+        "text": " we are supposed to be able to notify you ahead of time. So for example, we are monitoring the"
+    },
+    {
+        "start": 927.0,
+        "end": 933.48,
+        "text": " site number of client, you know, the accounts. This is just a, you know, if you use a college campus,"
+    },
+    {
+        "start": 933.48,
+        "end": 939.88,
+        "text": " you can see daily trending, right? Up and down, you go into the college room and go to your classroom,"
+    },
+    {
+        "start": 939.88,
+        "end": 946.2800000000001,
+        "text": " then they come home and to the back to the dorm. The, you know, the nine is up and down, up and down."
+    },
+    {
+        "start": 946.28,
+        "end": 952.12,
+        "text": " We can build that nine to build the normally detection model for every site. We can notify you"
+    },
+    {
+        "start": 952.12,
+        "end": 959.48,
+        "text": " some abnormal sudden drop of a client count that definitely indicates some say it's not right for"
+    },
+    {
+        "start": 959.48,
+        "end": 965.88,
+        "text": " your game inside, right? So this is kind of another back to your, you know, this is a time-series"
+    },
+    {
+        "start": 965.88,
+        "end": 973.24,
+        "text": " detection normally model. But here's a challenge for us, Zada. How you want to make sure your time-series"
+    },
+    {
+        "start": 973.24,
+        "end": 979.8,
+        "text": " are normally detection model is accurate. Think about our scale we're running. We have"
+    },
+    {
+        "start": 980.76,
+        "end": 987.88,
+        "text": " close to 100,000 different sites deployed across the world. And if we have every site, we have"
+    },
+    {
+        "start": 988.36,
+        "end": 995.48,
+        "text": " an anomaly model, which is a neural network based model. So which means we're going to have"
+    },
+    {
+        "start": 995.48,
+        "end": 1003.08,
+        "text": " 1000 neural based model. This is too expensive, right? It's one model is fine, but this is, you know,"
+    },
+    {
+        "start": 1003.64,
+        "end": 1010.6,
+        "text": " I scale it's too expensive, too costly to maintain. So it's a cost also is another factor. You know,"
+    },
+    {
+        "start": 1010.6,
+        "end": 1017.1600000000001,
+        "text": " efficacy is definitely the number one issue, but the cost is also second to the most important"
+    },
+    {
+        "start": 1017.1600000000001,
+        "end": 1023.96,
+        "text": " factor to make our decision. Can you elaborate on that? Where does the, what's the relationship"
+    },
+    {
+        "start": 1023.96,
+        "end": 1031.64,
+        "text": " between a single model and the cost? So for example, for, let's give you an example, say, hey,"
+    },
+    {
+        "start": 1031.64,
+        "end": 1039.16,
+        "text": " for the retail store, you have a daily pattern, you know, the customer going to your store to visit,"
+    },
+    {
+        "start": 1039.16,
+        "end": 1044.44,
+        "text": " daily pattern of properties a weekend should be higher, higher volume versus a weekday, right? And"
+    },
+    {
+        "start": 1044.44,
+        "end": 1049.88,
+        "text": " a weekday during the normal business, our property is not many people go to retail, go to your store,"
+    },
+    {
+        "start": 1049.88,
+        "end": 1055.4,
+        "text": " probably going to be even time. But versus for the... The university is going to be almost opposite,"
+    },
+    {
+        "start": 1055.4,
+        "end": 1061.5600000000002,
+        "text": " right? Yes, yes. And the trend is different. So for in that case, you can't have a new"
+    },
+    {
+        "start": 1061.56,
+        "end": 1069.32,
+        "text": " network based model to earn your daily pattern for the retail store versus for the university."
+    },
+    {
+        "start": 1069.32,
+        "end": 1075.3999999999999,
+        "text": " If the pattern is totally opposite, or totally not in line with each other. So in this case, the"
+    },
+    {
+        "start": 1075.3999999999999,
+        "end": 1082.9199999999998,
+        "text": " best efficacy training was that for each, you know, the nine each 29 we created their own your"
+    },
+    {
+        "start": 1082.9199999999998,
+        "end": 1089.48,
+        "text": " network model, right? To the forecasting. Same thing, you know, like say, hey, for stock market, you"
+    },
+    {
+        "start": 1089.48,
+        "end": 1095.48,
+        "text": " want to predict a particular stock, my stocks, trendy, you train on your network. But even the"
+    },
+    {
+        "start": 1095.48,
+        "end": 1101.8,
+        "text": " following multiple stocks, they're trendy. You probably need to train multiple neural networks,"
+    },
+    {
+        "start": 1101.8,
+        "end": 1108.44,
+        "text": " right? So we talked a little bit about time series as being somewhat of a, you know, solve problem,"
+    },
+    {
+        "start": 1108.44,
+        "end": 1115.16,
+        "text": " quote unquote, but that isn't to say that people aren't trying to create transformer based models for"
+    },
+    {
+        "start": 1115.24,
+        "end": 1122.3600000000001,
+        "text": " time series. Curious if you, you know, to what degree you've explored or found any interesting"
+    },
+    {
+        "start": 1122.3600000000001,
+        "end": 1129.8000000000002,
+        "text": " solutions there. Yeah, it sounds like that could be interesting for your problem where you've got"
+    },
+    {
+        "start": 1129.8000000000002,
+        "end": 1135.64,
+        "text": " some base level model that you can fine tune as opposed to creating many distinct models."
+    },
+    {
+        "start": 1136.28,
+        "end": 1142.6000000000001,
+        "text": " Yes. So that's exactly what you know, the here recent days, there's a pre-train the time"
+    },
+    {
+        "start": 1143.0,
+        "end": 1148.6,
+        "text": " series on OmniModel, right? That's also the exact is the need, but there's a key difference"
+    },
+    {
+        "start": 1148.6,
+        "end": 1156.28,
+        "text": " is that existing pre-train on OmniModel time series is for single feature. What we are talking about"
+    },
+    {
+        "start": 1156.28,
+        "end": 1164.1999999999998,
+        "text": " multi feature. So this is actually that's another piece of a lot of time series recent development"
+    },
+    {
+        "start": 1164.1999999999998,
+        "end": 1171.56,
+        "text": " advancement is only for single feature. Got it. So you've got a log of stock prices and you're trying"
+    },
+    {
+        "start": 1171.56,
+        "end": 1180.84,
+        "text": " to predict future stock prices or you've got, you know, in your case, a log of, what like RSSI,"
+    },
+    {
+        "start": 1181.3999999999999,
+        "end": 1187.48,
+        "text": " would that be one of your, I forget what that stands for, but it's a signal strength. Yeah."
+    },
+    {
+        "start": 1188.6,
+        "end": 1193.24,
+        "text": " And you're trying to predict the future RSSI so you can figure out which channel to join or"
+    },
+    {
+        "start": 1193.24,
+        "end": 1197.72,
+        "text": " something like that. But you're, I'm guessing that you've got this log with a lot of different"
+    },
+    {
+        "start": 1197.72,
+        "end": 1203.16,
+        "text": " features and you're trying to make multiple predictions based on as opposed to a single one."
+    },
+    {
+        "start": 1203.8,
+        "end": 1210.2,
+        "text": " Yeah. So this is the example you want to look at the throughput for your given site."
+    },
+    {
+        "start": 1210.2,
+        "end": 1214.92,
+        "text": " You'll definitely should look at a number of clients and the total traffic of all"
+    },
+    {
+        "start": 1214.92,
+        "end": 1221.56,
+        "text": " here we're going through and how many destinations they are going through and how many different"
+    },
+    {
+        "start": 1221.56,
+        "end": 1226.28,
+        "text": " applications they are, they're routing the traffic through. So this is going to be multiple features."
+    },
+    {
+        "start": 1226.92,
+        "end": 1232.52,
+        "text": " It's a real world problem. Right. So this is also the reason why the, you know,"
+    },
+    {
+        "start": 1232.84,
+        "end": 1238.04,
+        "text": " pre-trend time series normally model is very promising, but unfortunately it cannot work for us."
+    },
+    {
+        "start": 1238.04,
+        "end": 1243.0,
+        "text": " It's a single model. I'm relating it a little bit to my personal experience. I've got a small,"
+    },
+    {
+        "start": 1243.0,
+        "end": 1247.8799999999999,
+        "text": " you know, network here with multiple access points and I remember when I first"
+    },
+    {
+        "start": 1249.16,
+        "end": 1255.6399999999999,
+        "text": " installed this latest version, I would go into the management software and look at like what"
+    },
+    {
+        "start": 1255.64,
+        "end": 1263.64,
+        "text": " client was connecting where and to try to address performance issues and I'd notice that the"
+    },
+    {
+        "start": 1263.64,
+        "end": 1268.68,
+        "text": " decisions didn't really make sense to me. Like I would be, you know, connect, I would be in a one"
+    },
+    {
+        "start": 1268.68,
+        "end": 1277.16,
+        "text": " room and the laptop would connect to, you know, a distant access point. And I'm just thinking about like"
+    },
+    {
+        "start": 1278.5200000000002,
+        "end": 1282.76,
+        "text": " if it was that complex for me, like and I was never able to resolve it. I just had to wait for"
+    },
+    {
+        "start": 1282.76,
+        "end": 1289.56,
+        "text": " the software to get updated and it kind of resolved itself. But if it was that can complex for me,"
+    },
+    {
+        "start": 1289.56,
+        "end": 1296.12,
+        "text": " like at the scale of a, you know, a campus, the complexity multiplies, obviously. And so it seems"
+    },
+    {
+        "start": 1296.12,
+        "end": 1301.32,
+        "text": " like an obvious place to add some intelligence, I guess is the point that I was getting at."
+    },
+    {
+        "start": 1301.96,
+        "end": 1310.36,
+        "text": " So it's another thing that is, for example, we wanted to transform a network into a"
+    },
+    {
+        "start": 1311.1599999999999,
+        "end": 1316.6799999999998,
+        "text": " previous, it's just like I said, you need to really domain expert network administrators. They do a"
+    },
+    {
+        "start": 1316.6799999999998,
+        "end": 1322.04,
+        "text": " lot of troubleshooting, doing a lot of cool stuff, right, to find other data, to correlate, to find"
+    },
+    {
+        "start": 1322.04,
+        "end": 1330.36,
+        "text": " other root cause because that domain is mature enough so that we can write the software"
+    },
+    {
+        "start": 1331.0,
+        "end": 1337.3999999999999,
+        "text": " to embed those domain experts into the software to help some of the no-hanging fruits."
+    },
+    {
+        "start": 1337.4,
+        "end": 1342.92,
+        "text": " So that domain, so the network administrators, they can focus on more complex problems,"
+    },
+    {
+        "start": 1342.92,
+        "end": 1350.68,
+        "text": " like security related, like a large deployments configuration, right. So we are also transforming a"
+    },
+    {
+        "start": 1350.68,
+        "end": 1357.16,
+        "text": " lot of the network administrators from just the manually cool shell guy and understand the network"
+    },
+    {
+        "start": 1357.16,
+        "end": 1365.88,
+        "text": " gears to be API engineers because we export all our data to make it available through APIs to the"
+    },
+    {
+        "start": 1365.88,
+        "end": 1373.16,
+        "text": " customer. So they can use it as a data to develop a use case for their own specific environments."
+    },
+    {
+        "start": 1373.96,
+        "end": 1377.88,
+        "text": " So it's a key difference here as well, to empower our customers."
+    },
+    {
+        "start": 1378.5200000000002,
+        "end": 1384.3600000000001,
+        "text": " You mentioned in your earlier explanation, the use of reinforcement learning,"
+    },
+    {
+        "start": 1385.8000000000002,
+        "end": 1391.3200000000002,
+        "text": " that is sometimes associated with using simulation, a simulation, a technique that you"
+    },
+    {
+        "start": 1391.72,
+        "end": 1401.56,
+        "text": " used often there. Actually, we did not really utilize simulation, we just test our own."
+    },
+    {
+        "start": 1402.4399999999998,
+        "end": 1409.96,
+        "text": " So our office is a test lab, so we are all part of our test, you know, our latest algorithm to"
+    },
+    {
+        "start": 1409.96,
+        "end": 1416.9199999999998,
+        "text": " reinforcement learning. Reinforcement is a part of you develop that, you know, the awarding"
+    },
+    {
+        "start": 1416.92,
+        "end": 1424.1200000000001,
+        "text": " function, right. What is the positive and negative award? So this is the one that we can do"
+    },
+    {
+        "start": 1424.1200000000001,
+        "end": 1430.2,
+        "text": " in the cloud, we always do this type of API testing. So first, we put a smaller,"
+    },
+    {
+        "start": 1431.0,
+        "end": 1438.44,
+        "text": " frontally, and different type of deployments into this latest algorithm. So after we have a"
+    },
+    {
+        "start": 1438.44,
+        "end": 1444.2,
+        "text": " confidence, we deploy to the miss, we call the miss universe, which means the globality to all the"
+    },
+    {
+        "start": 1444.2,
+        "end": 1450.44,
+        "text": " cloud environment. And so miss is kind of an umbrella term for all of the Juniper AI related"
+    },
+    {
+        "start": 1451.0800000000002,
+        "end": 1456.6000000000001,
+        "text": " capabilities. So actually, missed was a startup, you know, actually this week will be hit our"
+    },
+    {
+        "start": 1456.6000000000001,
+        "end": 1463.64,
+        "text": " 10 years anniversary. We started as a Wi-Fi, only focus on the Wi-Fi, and but the next is a Wi-Fi"
+    },
+    {
+        "start": 1463.64,
+        "end": 1470.8400000000001,
+        "text": " is different, it's a Wi-Fi access point is totally cloud, cloud driven access point. So about"
+    },
+    {
+        "start": 1470.84,
+        "end": 1479.0,
+        "text": " five years ago, Juniper acquired the most. So this acquisition is a benefit of both sides,"
+    },
+    {
+        "start": 1479.0,
+        "end": 1485.48,
+        "text": " you know, for most, we used to just Wi-Fi after we parted the Juniper family, we got a switching"
+    },
+    {
+        "start": 1485.48,
+        "end": 1493.24,
+        "text": " wired and also get the van gateways. And for Juniper perspective, Juniper does not have a Wi-Fi,"
+    },
+    {
+        "start": 1493.24,
+        "end": 1498.52,
+        "text": " never been a Wi-Fi company. So now Juniper has got a Wi-Fi and also Juniper is not a cloud"
+    },
+    {
+        "start": 1498.52,
+        "end": 1504.28,
+        "text": " company. So now it's a cloud. And of course, Juniper continue to utilize the missed cloud,"
+    },
+    {
+        "start": 1504.28,
+        "end": 1512.04,
+        "text": " technology and AI ML to try to expand into not just for enterprise, which is wired and the van"
+    },
+    {
+        "start": 1512.04,
+        "end": 1518.68,
+        "text": " and also today the center. So this is kind of the currently the five years after acquisition,"
+    },
+    {
+        "start": 1518.68,
+        "end": 1525.8799999999999,
+        "text": " then we're going to be soon in part another journey to be part of the HPE family. But the acquisition"
+    },
+    {
+        "start": 1525.88,
+        "end": 1532.44,
+        "text": " is the same goal, wanting to continue utilizing the missed AI ML solution for networking to be"
+    },
+    {
+        "start": 1532.44,
+        "end": 1540.5200000000002,
+        "text": " exposed to the much larger networking deployments. I came across one of the initiatives under that"
+    },
+    {
+        "start": 1540.5200000000002,
+        "end": 1547.0800000000002,
+        "text": " umbrella called Marvis. Can you talk a little bit about Marvis and what that is aiming to accomplish?"
+    },
+    {
+        "start": 1547.0800000000002,
+        "end": 1553.24,
+        "text": " So now the, you know, one hand, we have a lot of banking jobs wrongly, right? Consular numbers"
+    },
+    {
+        "start": 1553.24,
+        "end": 1559.96,
+        "text": " to process user data to generate alerts, events. Now, second is how we want to make sure how we"
+    },
+    {
+        "start": 1559.96,
+        "end": 1568.84,
+        "text": " want to change the user interact with our application with their data. So we utilize the Marvis. Marvis"
+    },
+    {
+        "start": 1568.84,
+        "end": 1577.56,
+        "text": " is a think about is actually Marvis where came from is from Jarvis. Miss Jarvis? Yes. And it's about,"
+    },
+    {
+        "start": 1577.56,
+        "end": 1583.8799999999999,
+        "text": " they can understand a lot of languages and we replace the first letter is the MEST, right?"
+    },
+    {
+        "start": 1583.8799999999999,
+        "end": 1590.84,
+        "text": " It's a, that's why it's called a Marvis. So first, you know, Marvis is how user can interact"
+    },
+    {
+        "start": 1590.84,
+        "end": 1597.24,
+        "text": " with their networking, the network issues. So we first started with troubleshooting. So you can"
+    },
+    {
+        "start": 1597.24,
+        "end": 1603.56,
+        "text": " always go to the UI, just troubleshooting for you, and particular client, particular device,"
+    },
+    {
+        "start": 1603.56,
+        "end": 1609.8,
+        "text": " or particular issues. And that's early day uses a command that to do the troubleshooting."
+    },
+    {
+        "start": 1609.8,
+        "end": 1617.8,
+        "text": " Now we involve the into a chatbot. So you can just go to the, Mr. A UI, you can just go to the"
+    },
+    {
+        "start": 1617.8,
+        "end": 1624.84,
+        "text": " chatbot asking questions about why I cannot connect the Wi-Fi. Why my AP is continuous rebooting."
+    },
+    {
+        "start": 1625.8,
+        "end": 1632.6799999999998,
+        "text": " Why my AP was disconnected from cloud, right? Why my AP, can you, how can I do the AP for more"
+    },
+    {
+        "start": 1632.68,
+        "end": 1640.68,
+        "text": " upgrade? So we had the chatbot support, but the chatbot software that actually was developed"
+    },
+    {
+        "start": 1640.68,
+        "end": 1647.5600000000002,
+        "text": " even before this whole large language model took us a world. So now we are sort of another,"
+    },
+    {
+        "start": 1648.3600000000001,
+        "end": 1654.44,
+        "text": " you know, enhancements to our current chatbot to integrate with large language model. And,"
+    },
+    {
+        "start": 1654.44,
+        "end": 1661.0800000000002,
+        "text": " you know, I've just recently you had a great conversation with a NanQM CEO, right? NanGraph"
+    },
+    {
+        "start": 1661.96,
+        "end": 1670.6,
+        "text": " So actually we're integrated that NanGraph into our chatbot. So the, and also the, you know,"
+    },
+    {
+        "start": 1670.6,
+        "end": 1676.28,
+        "text": " you could go to the Marvis to ask questions about the specific networking domain, you know,"
+    },
+    {
+        "start": 1676.28,
+        "end": 1682.6799999999998,
+        "text": " or Marvis or Juniper related product questions. Instead of what we give you the documentation"
+    },
+    {
+        "start": 1682.6799999999998,
+        "end": 1690.6,
+        "text": " to grid three, we can summarize the specific answers and provide a real precise response to you."
+    },
+    {
+        "start": 1690.6,
+        "end": 1697.48,
+        "text": " So this is kind of, you know, the, just the way you, first we developed from our own rag solution"
+    },
+    {
+        "start": 1697.48,
+        "end": 1702.9199999999998,
+        "text": " to be able to do this type of summarization focus on our public, really, public, you know,"
+    },
+    {
+        "start": 1704.12,
+        "end": 1711.7199999999998,
+        "text": " documented the, you know, release new, release notes and documentation pages so that we can"
+    },
+    {
+        "start": 1712.1999999999998,
+        "end": 1719.1599999999999,
+        "text": " provide the precise Juniper related product features to our customers. So they don't have to"
+    },
+    {
+        "start": 1719.16,
+        "end": 1725.4,
+        "text": " read through all the technical documentation and the weekly page for yourself. This is one part,"
+    },
+    {
+        "start": 1725.4,
+        "end": 1731.0800000000002,
+        "text": " yeah, second part is that we want to utilize large language model to be better understand what"
+    },
+    {
+        "start": 1731.0800000000002,
+        "end": 1738.6000000000001,
+        "text": " customers are asking and also develop our own text to SQL, text to yes type of solutions. Because"
+    },
+    {
+        "start": 1738.6000000000001,
+        "end": 1748.52,
+        "text": " all data inside the SQL database or the long SQL database. We, so before you've,"
+    },
+    {
+        "start": 1748.52,
+        "end": 1753.56,
+        "text": " order to expose those type of data, we have to create a lot of different APIs. Why are we just"
+    },
+    {
+        "start": 1753.56,
+        "end": 1760.44,
+        "text": " use the large language model help us to expose all the data together with the customer, right?"
+    },
+    {
+        "start": 1760.44,
+        "end": 1766.2,
+        "text": " Yeah, so based on whatever the customer's intent is, you turn that into a query against the"
+    },
+    {
+        "start": 1766.84,
+        "end": 1774.92,
+        "text": " database. Yes, that's another use case. Because of now, we are not, that we committed, not"
+    },
+    {
+        "start": 1774.92,
+        "end": 1782.92,
+        "text": " sending the customer data to large language model. But we actually use a large language model"
+    },
+    {
+        "start": 1782.92,
+        "end": 1789.24,
+        "text": " to create a lot of embeddings for our internal metadata. So for example, how we store the data"
+    },
+    {
+        "start": 1790.04,
+        "end": 1796.44,
+        "text": " in our database? So we create this, we create data catalog or we actually create the embedding"
+    },
+    {
+        "start": 1796.44,
+        "end": 1803.4,
+        "text": " and also provide the rack solution so that we can match the customer what they're asking with our"
+    },
+    {
+        "start": 1803.4,
+        "end": 1809.88,
+        "text": " data much better. So a couple of follow up questions there. First, you mentioned working with"
+    },
+    {
+        "start": 1809.88,
+        "end": 1818.3600000000001,
+        "text": " Lank chain and Lank graph. I'd love to hear a little bit of your experience and motivation there."
+    },
+    {
+        "start": 1819.0800000000002,
+        "end": 1825.96,
+        "text": " I talk to, there seems to be bifurcation. Some folks appreciate the kind of standardization if"
+    },
+    {
+        "start": 1825.96,
+        "end": 1832.52,
+        "text": " you want to call it that, that the Lank chain offers. Other folks like to go straight to the"
+    },
+    {
+        "start": 1832.52,
+        "end": 1842.84,
+        "text": " metal and kind of do it themselves and skip an intermediate framework that might hide some of"
+    },
+    {
+        "start": 1844.12,
+        "end": 1850.2,
+        "text": " either complexier features that they need to know. What drove your decision to use that?"
+    },
+    {
+        "start": 1851.72,
+        "end": 1859.96,
+        "text": " So currently, our integration with NAN graph, we are did not go fully. So for example, a lot of"
+    },
+    {
+        "start": 1859.96,
+        "end": 1865.64,
+        "text": " large language more related features, we build our own smaller model. So it's kind of multi-model,"
+    },
+    {
+        "start": 1865.64,
+        "end": 1872.1200000000001,
+        "text": " multi-model type of scenario in order to, because like I said, first the networking is very special"
+    },
+    {
+        "start": 1872.1200000000001,
+        "end": 1880.6000000000001,
+        "text": " to me. And a lot of networking jargons that our fine tune model probably can do better. But on the"
+    },
+    {
+        "start": 1880.6000000000001,
+        "end": 1885.72,
+        "text": " other hand, some of other questions that the large language model can help us to close the gaps."
+    },
+    {
+        "start": 1886.3600000000001,
+        "end": 1894.1200000000001,
+        "text": " So we actually run in this as a large language model, our own fine tune model is running in parallel."
+    },
+    {
+        "start": 1894.1200000000001,
+        "end": 1904.44,
+        "text": " So because of this, we did not go fully into the NAN graph and with a large to handle all the"
+    },
+    {
+        "start": 1904.44,
+        "end": 1911.64,
+        "text": " dialog and also the assistant. So we kind of build those tools a little bit. Like I said, we feel"
+    },
+    {
+        "start": 1912.6000000000001,
+        "end": 1918.2,
+        "text": " don't have a confident or an all-in with a NAN graph. Like it's exactly what you said. You have"
+    },
+    {
+        "start": 1918.2,
+        "end": 1923.4,
+        "text": " some customer want it, some of the audiences want to go all-in with NAN graph. Some of them just,"
+    },
+    {
+        "start": 1924.1200000000001,
+        "end": 1931.24,
+        "text": " we are probably the second layer. We wanted to have our own control and do EI evaluation,"
+    },
+    {
+        "start": 1931.24,
+        "end": 1937.72,
+        "text": " then we integrate with NAN graph piece by piece. Got it, got it, got it. Yeah, here that quite a bit."
+    },
+    {
+        "start": 1937.72,
+        "end": 1946.92,
+        "text": " And then the other question is with regard to RAG. You've mentioned that a couple of times."
+    },
+    {
+        "start": 1948.68,
+        "end": 1958.1200000000001,
+        "text": " I have talked to many organizations that start down this journey with RAG and primarily expose it"
+    },
+    {
+        "start": 1958.12,
+        "end": 1969.3999999999999,
+        "text": " via a chatbot, but find that going beyond that chatbot and integrating more tightly into existing"
+    },
+    {
+        "start": 1969.3999999999999,
+        "end": 1977.7199999999998,
+        "text": " workflows and user interfaces without requiring that chat dialogue experience is a source of even"
+    },
+    {
+        "start": 1977.7199999999998,
+        "end": 1985.32,
+        "text": " more value from the RAG as a technology. I'm wondering if that's something that you've seen and if so,"
+    },
+    {
+        "start": 1985.32,
+        "end": 1990.76,
+        "text": " what are examples of those workflows that you're looking to enable?"
+    },
+    {
+        "start": 1993.8,
+        "end": 2001.0,
+        "text": " For example, for us, when customers try to open up a support ticket, before they open up a"
+    },
+    {
+        "start": 2001.0,
+        "end": 2006.52,
+        "text": " support ticket, when they look at their questions, they're asking the problems, they're anyways."
+    },
+    {
+        "start": 2006.52,
+        "end": 2014.84,
+        "text": " So if it's questions about our product and the features, then we just use RAG to generate response"
+    },
+    {
+        "start": 2014.84,
+        "end": 2020.6,
+        "text": " for them, just another layer to say, hey, maybe this is what you want, you don't have to create"
+    },
+    {
+        "start": 2020.6,
+        "end": 2026.36,
+        "text": " a support ticket. So this is kind of a lot of integration with a customer's support, good user experience"
+    },
+    {
+        "start": 2026.36,
+        "end": 2033.8799999999999,
+        "text": " as well, right? So we can expand that not just for the chatbot, we can integrate with a customer's"
+    },
+    {
+        "start": 2033.8799999999999,
+        "end": 2040.4399999999998,
+        "text": " support. Another example actually, this is a good question, is a large language model,"
+    },
+    {
+        "start": 2040.44,
+        "end": 2048.12,
+        "text": " how you're going to prevent the conversation. For networking, beyond the troubleshooting and"
+    },
+    {
+        "start": 2048.12,
+        "end": 2055.48,
+        "text": " customer support, good user experience, we are still hesitating or has not really"
+    },
+    {
+        "start": 2055.48,
+        "end": 2061.48,
+        "text": " privatized this feature like say, hey, can we just utilize RAG solutions to generate a"
+    },
+    {
+        "start": 2061.72,
+        "end": 2072.2,
+        "text": " config for my network? Well, even though we can get to the efficacy to 90% or 99%,"
+    },
+    {
+        "start": 2072.76,
+        "end": 2083.48,
+        "text": " but that 1% of failure is not acceptable, right? So because of this, we have some experiments,"
+    },
+    {
+        "start": 2084.28,
+        "end": 2089.72,
+        "text": " we're probably going to be just more like the recommendation perspective, still need a human"
+    },
+    {
+        "start": 2089.72,
+        "end": 2097.08,
+        "text": " to do the final validation before we can release it. So this kind of the channel, it depends how much"
+    },
+    {
+        "start": 2098.6,
+        "end": 2104.7599999999998,
+        "text": " the efficacy is acceptable for us, 0.1% of a failure rate is not acceptable."
+    },
+    {
+        "start": 2104.7599999999998,
+        "end": 2114.52,
+        "text": " Interesting. So you talked about a couple of examples so far. You talked about kind of channel"
+    },
+    {
+        "start": 2114.52,
+        "end": 2121.0,
+        "text": " selection, you talked a little bit about like proactive monitoring and fault detection."
+    },
+    {
+        "start": 2121.0,
+        "end": 2128.04,
+        "text": " Are there other examples that you can share with us about where you've integrated,"
+    },
+    {
+        "start": 2128.04,
+        "end": 2134.12,
+        "text": " you know, your integration of ML and AI have produced interesting results for your users?"
+    },
+    {
+        "start": 2134.84,
+        "end": 2141.08,
+        "text": " Yeah, so it's a normally detection, it's a general, right? So we are a monitor customer,"
+    },
+    {
+        "start": 2141.08,
+        "end": 2147.16,
+        "text": " but beyond that, for example, it's okay, after customer deploy the site in the beginning is perfect."
+    },
+    {
+        "start": 2147.64,
+        "end": 2154.7599999999998,
+        "text": " As number of users is going on and usage patterns different, then we kind of mirror"
+    },
+    {
+        "start": 2154.7599999999998,
+        "end": 2160.12,
+        "text": " like that your current deployment may not be optimal. So for example, there's suddenly a"
+    },
+    {
+        "start": 2160.12,
+        "end": 2167.0,
+        "text": " coverage hole showed up on the AP access point. So in this case, that we are, yeah, so how you"
+    },
+    {
+        "start": 2167.48,
+        "end": 2173.88,
+        "text": " detect that? So we continue the monitor your coverage usage and the capacity and also the"
+    },
+    {
+        "start": 2175.72,
+        "end": 2181.8,
+        "text": " RS, you know, the transmission failure rate. Then we'll report to you around this corner of the"
+    },
+    {
+        "start": 2181.8,
+        "end": 2188.28,
+        "text": " office. There is a coverage hole, your puppy needs to adjust your AP access point and also increase"
+    },
+    {
+        "start": 2188.28,
+        "end": 2195.24,
+        "text": " AP deployment on this side of the office, right? So it's in all the other very good use cases that we"
+    },
+    {
+        "start": 2195.24,
+        "end": 2201.3199999999997,
+        "text": " are monitoring your user experience. That's a key user experience. And the second point is that"
+    },
+    {
+        "start": 2201.3199999999997,
+        "end": 2206.52,
+        "text": " after you get a network configured, then you continue making the change to your network."
+    },
+    {
+        "start": 2206.52,
+        "end": 2211.4799999999996,
+        "text": " What if accidentally all this configuration, you're missing some configuration between us,"
+    },
+    {
+        "start": 2211.4799999999996,
+        "end": 2217.72,
+        "text": " switch, how you do it now? So that's the same. We always compare these are switched, every"
+    },
+    {
+        "start": 2217.72,
+        "end": 2224.12,
+        "text": " interface port configuration for the land. Then if there's an MSC or report to you."
+    },
+    {
+        "start": 2224.68,
+        "end": 2232.2,
+        "text": " What you're trying to identify there is like network engineers in a console and like fat"
+    },
+    {
+        "start": 2232.2,
+        "end": 2236.92,
+        "text": " fingers, a configuration and deletes a VLAN or something like that and all of a sudden like a segment"
+    },
+    {
+        "start": 2236.92,
+        "end": 2241.56,
+        "text": " of the campus disappears or connectivity to an application disappears like that. Interesting."
+    },
+    {
+        "start": 2241.56,
+        "end": 2247.7999999999997,
+        "text": " Yeah. Then other pieces, hey, you get everything's rhyming, but there's something is the cable"
+    },
+    {
+        "start": 2247.7999999999997,
+        "end": 2252.68,
+        "text": " somehow deteriorating the performance. How do you know? There's certain error counter"
+    },
+    {
+        "start": 2253.3199999999997,
+        "end": 2260.68,
+        "text": " that will give us indication. So we kind of based on the broken cable build for"
+    },
+    {
+        "start": 2260.68,
+        "end": 2267.72,
+        "text": " copper cable versus fiber cable build different normal models and based on the switch,"
+    },
+    {
+        "start": 2267.72,
+        "end": 2274.2,
+        "text": " the device reported the counters errors. Then we are able to identify the cable with the"
+    },
+    {
+        "start": 2274.2,
+        "end": 2280.3599999999997,
+        "text": " head of the broken cylinder replacement. Otherwise the user experience traffic will be"
+    },
+    {
+        "start": 2280.36,
+        "end": 2287.8,
+        "text": " get the impact. For that particular one, why is a ML model needed? It seems like either you"
+    },
+    {
+        "start": 2287.8,
+        "end": 2292.36,
+        "text": " would have the cables really broken like you have no electrical connectivity and the link is just"
+    },
+    {
+        "start": 2292.36,
+        "end": 2300.76,
+        "text": " down or maybe it's kind of not all the way broken and you just have a really high packet"
+    },
+    {
+        "start": 2300.76,
+        "end": 2307.4,
+        "text": " loss rate or something like that. And there's some threshold that you would set to know like what's"
+    },
+    {
+        "start": 2307.4,
+        "end": 2314.28,
+        "text": " the complexity that requires ML. So a packet drop could be a lot of reason. One of the reason could"
+    },
+    {
+        "start": 2314.28,
+        "end": 2321.8,
+        "text": " be the cable broken, right? The packet drop is specific for the SD van could be the ISP"
+    },
+    {
+        "start": 2321.8,
+        "end": 2328.04,
+        "text": " related service problem, ISP server problem. So not necessarily cable. Cable is really the"
+    },
+    {
+        "start": 2329.1600000000003,
+        "end": 2333.7200000000003,
+        "text": " so yeah that's the same fault. Never key if you look at the data, there's a lot of the issues you"
+    },
+    {
+        "start": 2333.72,
+        "end": 2338.3599999999997,
+        "text": " can find the negative packet drop always happens. If you build on normally model you probably could"
+    },
+    {
+        "start": 2338.3599999999997,
+        "end": 2345.56,
+        "text": " find hey suddenly there's one day the packet drop is you know it's suddenly increased but what is"
+    },
+    {
+        "start": 2345.56,
+        "end": 2352.2799999999997,
+        "text": " the cost, right? If you just want to look for problems a lot of problems but you truly identify the"
+    },
+    {
+        "start": 2353.3199999999997,
+        "end": 2358.6,
+        "text": " root cause, the reason contributed to this packet drop to be a cable issue that's a hard part."
+    },
+    {
+        "start": 2358.7599999999998,
+        "end": 2369.4,
+        "text": " Right. So that's the reason why for cable issue is specifically look at the device reported error"
+    },
+    {
+        "start": 2369.4,
+        "end": 2376.52,
+        "text": " counter such as error counter. So that's also the this type of problem is very vendor drain."
+    },
+    {
+        "start": 2377.64,
+        "end": 2385.72,
+        "text": " So for our device, Juniper device, we have a certain confidence about the stats reporting the"
+    },
+    {
+        "start": 2385.72,
+        "end": 2392.68,
+        "text": " way they're reporting the data and our model is pretty much tailored to our device. So for other"
+    },
+    {
+        "start": 2393.64,
+        "end": 2399.3999999999996,
+        "text": " you know, as vendors the device, how they reported those type of issues that may not going to be work."
+    },
+    {
+        "start": 2399.3999999999996,
+        "end": 2406.9199999999996,
+        "text": " That's also the challenge for this networking domain as well. Meaning you've got a specific"
+    },
+    {
+        "start": 2406.92,
+        "end": 2414.6800000000003,
+        "text": " way that you're collecting that error data. Yeah, so how the device report that error"
+    },
+    {
+        "start": 2415.8,
+        "end": 2424.12,
+        "text": " that is how frequent they report that error. So those going to impact our detection logic and those"
+    },
+    {
+        "start": 2424.12,
+        "end": 2429.0,
+        "text": " are more the wearability that pretty much the feature engineering that effort because this is"
+    },
+    {
+        "start": 2429.0,
+        "end": 2436.12,
+        "text": " more like a build up a supervised on learning based on the label data we build a supervised"
+    },
+    {
+        "start": 2436.12,
+        "end": 2441.88,
+        "text": " on learning, right. But also time series or not time series for this. This is not necessarily time"
+    },
+    {
+        "start": 2441.88,
+        "end": 2450.68,
+        "text": " series. Is it that a single instance of this of this error or the error is like class, the single"
+    },
+    {
+        "start": 2450.68,
+        "end": 2455.72,
+        "text": " class of error. It's going to be class of error and you look at actually you look at the"
+    },
+    {
+        "start": 2455.72,
+        "end": 2462.44,
+        "text": " same class of errors and also look at the duration of the error. So you kind of featureize those"
+    },
+    {
+        "start": 2462.6,
+        "end": 2469.32,
+        "text": " two things and based on that will flag a cable issue. Yes, yes. So this is a based on like I said,"
+    },
+    {
+        "start": 2469.32,
+        "end": 2475.64,
+        "text": " the based on label data. So we have a field of cable issue for copper and fiber, different type of"
+    },
+    {
+        "start": 2475.64,
+        "end": 2482.52,
+        "text": " cable. Interesting. Interesting. Yeah. So all this stuff is that is, yeah, it's a kind of AI"
+    },
+    {
+        "start": 2482.52,
+        "end": 2489.4,
+        "text": " ML related. It's very specific to networking domain problems to help the AI for operations. So"
+    },
+    {
+        "start": 2489.4,
+        "end": 2495.64,
+        "text": " after your network deployed and we are doing the monitoring for you instead of you know from"
+    },
+    {
+        "start": 2495.64,
+        "end": 2502.44,
+        "text": " customers at these maybe someday someone complaining how why my performance is going going bad."
+    },
+    {
+        "start": 2502.44,
+        "end": 2508.2000000000003,
+        "text": " Then the network administrator then you know doing some digging they realize oh must be cable"
+    },
+    {
+        "start": 2508.2000000000003,
+        "end": 2515.56,
+        "text": " issue. Oh, there's must be one of the real level we forgot, right. So this is kind of fundamentally"
+    },
+    {
+        "start": 2515.56,
+        "end": 2522.36,
+        "text": " enable our customers that be able to have a large deployments they can focus how much larger"
+    },
+    {
+        "start": 2522.36,
+        "end": 2530.12,
+        "text": " bigger scale problems. Got it. Got it. Do you track in the case of a you know larger scale"
+    },
+    {
+        "start": 2530.12,
+        "end": 2537.16,
+        "text": " customer that's like using all of the features that are available like how many ML models are"
+    },
+    {
+        "start": 2537.16,
+        "end": 2544.2,
+        "text": " coming into play and helping them manage their network. Like it's tens or hundreds or like where"
+    },
+    {
+        "start": 2544.4399999999996,
+        "end": 2549.3999999999996,
+        "text": " are you with that. You mean the numbers of the models we deploy in the production. I guess the"
+    },
+    {
+        "start": 2550.2,
+        "end": 2559.24,
+        "text": " the thought is that you know you've got some ML solutions where like it's you know it does one"
+    },
+    {
+        "start": 2559.24,
+        "end": 2565.96,
+        "text": " thing it's a big thing it is kind of central to the solution. In this case what's kind of interesting"
+    },
+    {
+        "start": 2565.96,
+        "end": 2572.3599999999997,
+        "text": " is that you know there are a lot of little things happening behind the scenes that are kind of silently"
+    },
+    {
+        "start": 2572.36,
+        "end": 2578.2000000000003,
+        "text": " made better by machine learning and I'm just wondering like how many of those you know how many"
+    },
+    {
+        "start": 2578.2000000000003,
+        "end": 2585.2400000000002,
+        "text": " models are required to to do that I'm assuming that it's a lot of different smaller models as opposed"
+    },
+    {
+        "start": 2585.2400000000002,
+        "end": 2590.44,
+        "text": " to one giant model we kind of talked about that earlier. Yes exactly. That's why I was asking. Yeah"
+    },
+    {
+        "start": 2590.44,
+        "end": 2598.6,
+        "text": " exactly. We have a lot of smaller models and to do this little magic not just one large model actually"
+    },
+    {
+        "start": 2599.16,
+        "end": 2606.2,
+        "text": " and we have you know large model is a large language model that's for you know that's actually we"
+    },
+    {
+        "start": 2606.2,
+        "end": 2613.72,
+        "text": " don't have one. We utilize a sort of party host in large language model. In turn only we have quite"
+    },
+    {
+        "start": 2613.72,
+        "end": 2619.08,
+        "text": " feel quite a lot of a neural network based model like I told you shared with you about the time"
+    },
+    {
+        "start": 2619.08,
+        "end": 2628.2799999999997,
+        "text": " serial normally detection but that one actually is we are at the stage we need to change the way we"
+    },
+    {
+        "start": 2628.28,
+        "end": 2634.0400000000004,
+        "text": " did the time serial normally detection model maybe the next episode I'll hear more about what we're"
+    },
+    {
+        "start": 2634.0400000000004,
+        "end": 2642.6000000000004,
+        "text": " doing. Yeah then on top of that we have a lot of small model like you know cable detection and"
+    },
+    {
+        "start": 2643.32,
+        "end": 2648.6000000000004,
+        "text": " misconfigure port even for radio resource management we have very special like the small model."
+    },
+    {
+        "start": 2648.6000000000004,
+        "end": 2655.4,
+        "text": " The reason is you know like I shared with you is actually three factors to decide for this."
+    },
+    {
+        "start": 2655.4,
+        "end": 2662.84,
+        "text": " One is efficacy. Second is latency. Smaller model and smallest model is third is"
+    },
+    {
+        "start": 2663.4,
+        "end": 2672.52,
+        "text": " debug ability, debug ability and also the cost as well. Yeah. So we got do got the problem"
+    },
+    {
+        "start": 2672.52,
+        "end": 2679.0,
+        "text": " question why you make this decision how we're going to debug so of course one is supporting evidence."
+    },
+    {
+        "start": 2679.16,
+        "end": 2686.2,
+        "text": " We have all the data we can show you the time series supporting evidence but a lot of times"
+    },
+    {
+        "start": 2686.2,
+        "end": 2692.76,
+        "text": " even though can support the evidence we kind of puzzled why the model behavior way it was. So that's"
+    },
+    {
+        "start": 2692.76,
+        "end": 2699.32,
+        "text": " also the debug capability for us to find your smaller model is much faster quicker to get the new"
+    },
+    {
+        "start": 2699.32,
+        "end": 2705.08,
+        "text": " solution deployed in the production. I'm imagining that for many of these features like there's a"
+    },
+    {
+        "start": 2705.08,
+        "end": 2710.68,
+        "text": " traditional way of doing things like maybe you know the traditional way to do faulty cable was"
+    },
+    {
+        "start": 2710.68,
+        "end": 2719.88,
+        "text": " some threshold on an error rate or something like that and then you know there's a machine learning"
+    },
+    {
+        "start": 2719.88,
+        "end": 2729.56,
+        "text": " based way to do it and I guess I want to get a sense from you like you know how you think about"
+    },
+    {
+        "start": 2729.56,
+        "end": 2736.52,
+        "text": " balancing you know the complexity versus the data requirements and like when to make the transition"
+    },
+    {
+        "start": 2736.52,
+        "end": 2741.88,
+        "text": " and that kind of thing like is it just a product management thing like if there's some gap that"
+    },
+    {
+        "start": 2741.88,
+        "end": 2747.56,
+        "text": " you're not able to you know to get in terms of capability and this is a way to get there then you"
+    },
+    {
+        "start": 2747.56,
+        "end": 2754.68,
+        "text": " know you kind of go in a direction or are there other ways that you think about making that transition."
+    },
+    {
+        "start": 2755.3999999999996,
+        "end": 2761.24,
+        "text": " Yeah so actually you brought a good good point is actually a lot of our product management they"
+    },
+    {
+        "start": 2761.7999999999997,
+        "end": 2768.6,
+        "text": " we are just working with them about the particular use case. How are we going to solve this problem?"
+    },
+    {
+        "start": 2768.6,
+        "end": 2776.12,
+        "text": " First is is data in the cloud? Do we have a right data? Then after we have a data in the cloud so"
+    },
+    {
+        "start": 2776.12,
+        "end": 2781.96,
+        "text": " data science team actually we working not just with the product management a lot of times we're working"
+    },
+    {
+        "start": 2782.04,
+        "end": 2790.52,
+        "text": " with a customer support team. So there then to then study the use case so like you said is maybe"
+    },
+    {
+        "start": 2790.52,
+        "end": 2796.76,
+        "text": " heuristic is good enough to solve this problem why we need to spend the effort to to train a model"
+    },
+    {
+        "start": 2796.76,
+        "end": 2807.88,
+        "text": " to utilize the AIMLs. So but anyways the key point is the first is the data second is do we have"
+    },
+    {
+        "start": 2808.44,
+        "end": 2813.56,
+        "text": " the heuristic do we have a solution does the matter is a human you know magically sift through"
+    },
+    {
+        "start": 2813.56,
+        "end": 2819.2400000000002,
+        "text": " all the data to find the problem or write a piece of software to solve the problem fundamentally we"
+    },
+    {
+        "start": 2819.2400000000002,
+        "end": 2826.84,
+        "text": " we need the data to solve the problem to make our customers internet experiences better so that's a key."
+    },
+    {
+        "start": 2828.52,
+        "end": 2833.4,
+        "text": " So the for the data science team actually a lot of times we are not really doing"
+    },
+    {
+        "start": 2834.36,
+        "end": 2840.28,
+        "text": " training a fancy model every day but actually a lot of times we are doing the is a feature engineer"
+    },
+    {
+        "start": 2840.28,
+        "end": 2845.32,
+        "text": " feature engineer you probably heard a lot from data science team ML a lot of times they are doing"
+    },
+    {
+        "start": 2845.32,
+        "end": 2851.4,
+        "text": " is a feature engineer trying to study the data does the data really contain the information we can"
+    },
+    {
+        "start": 2851.4,
+        "end": 2859.7200000000003,
+        "text": " solve the problem do we really need a newer network or just you know regression or heuristic"
+    },
+    {
+        "start": 2859.7999999999997,
+        "end": 2868.04,
+        "text": " baseline right that can solve the problem so we talked a little bit about some of the ways that"
+    },
+    {
+        "start": 2868.04,
+        "end": 2878.8399999999997,
+        "text": " you are incorporating LLMs and gen ai into your solutions are there any you know future directions"
+    },
+    {
+        "start": 2878.8399999999997,
+        "end": 2885.08,
+        "text": " that you can talk about where do you see all of this heading for juniper yeah so it's a two"
+    },
+    {
+        "start": 2885.08,
+        "end": 2892.04,
+        "text": " things I can share with you with juniper one is not related to gen ai but it's actually"
+    },
+    {
+        "start": 2892.6,
+        "end": 2899.0,
+        "text": " currently you know juniper we utilize the data and the events actually we are detect the problems"
+    },
+    {
+        "start": 2899.0,
+        "end": 2905.16,
+        "text": " which has already happened which already impact the customer experience so how can we take it to"
+    },
+    {
+        "start": 2905.16,
+        "end": 2912.12,
+        "text": " the next level we can proactively identify the problem before user experiences this issue so this"
+    },
+    {
+        "start": 2912.12,
+        "end": 2919.72,
+        "text": " is kind of you know we utilize all the devices with deployed in the globally we are able to"
+    },
+    {
+        "start": 2920.68,
+        "end": 2928.2,
+        "text": " inject you know from cloud push down a little piece of software to proactively test the customer's"
+    },
+    {
+        "start": 2928.2,
+        "end": 2935.24,
+        "text": " network so that way we can proactively identify the issues for example every night you did the"
+    },
+    {
+        "start": 2935.24,
+        "end": 2941.56,
+        "text": " configuration change for the network we can start it to automate the tests on your on your networking"
+    },
+    {
+        "start": 2941.56,
+        "end": 2947.32,
+        "text": " so before people show up at the clock in the morning in the office we pretty much report to you"
+    },
+    {
+        "start": 2947.32,
+        "end": 2953.88,
+        "text": " your office is ready for people to work or not if the issues you should already send the alerts"
+    },
+    {
+        "start": 2953.88,
+        "end": 2958.92,
+        "text": " to the network administrators to address this issue so this is called the Mavis digital 20 the"
+    },
+    {
+        "start": 2958.92,
+        "end": 2966.04,
+        "text": " Minis so that's why we are we already run an introduction but we are trying to proactively"
+    },
+    {
+        "start": 2966.52,
+        "end": 2975.48,
+        "text": " increase the capability of the Minis test scope where these Minis running are they running like"
+    },
+    {
+        "start": 2976.36,
+        "end": 2982.2,
+        "text": " our devices so you have from one access point to another that you're testing across as opposed to"
+    },
+    {
+        "start": 2982.2,
+        "end": 2989.08,
+        "text": " like from a client like a user laptop so it's inside access points we're going to have Minis"
+    },
+    {
+        "start": 2989.08,
+        "end": 2996.7599999999998,
+        "text": " inside the switches Minis inside the SDVS all the Juniper switches devices will capable to"
+    },
+    {
+        "start": 2996.7599999999998,
+        "end": 3005.3199999999997,
+        "text": " support the Minis yeah so this is kind of really proactive identify the issues before any user"
+    },
+    {
+        "start": 3005.3199999999997,
+        "end": 3013.3199999999997,
+        "text": " experience that's this networking problems yeah so this is the another the next big direction"
+    },
+    {
+        "start": 3013.32,
+        "end": 3021.2400000000002,
+        "text": " the company is moving to another you know for J&A eyes that right now our you know applications"
+    },
+    {
+        "start": 3021.2400000000002,
+        "end": 3028.84,
+        "text": " it's a little counter intuitive for example our application first is tailored for network administrators"
+    },
+    {
+        "start": 3028.84,
+        "end": 3034.2000000000003,
+        "text": " that typically if your network is running perfectly you don't need to log into our UI you don't"
+    },
+    {
+        "start": 3034.2000000000003,
+        "end": 3042.6800000000003,
+        "text": " need to look at the author graph charts right so the same won't move to the next level but"
+    },
+    {
+        "start": 3043.32,
+        "end": 3050.44,
+        "text": " then think about if you are college students you cannot join to your college classroom you cannot"
+    },
+    {
+        "start": 3050.44,
+        "end": 3055.2400000000002,
+        "text": " join the wifi what are you going to do you call your college i think administrator complaining about"
+    },
+    {
+        "start": 3055.2400000000002,
+        "end": 3063.2400000000002,
+        "text": " your problem so then we want to do this head net other each individual wifi user to be able to do"
+    },
+    {
+        "start": 3063.2400000000002,
+        "end": 3071.8,
+        "text": " self-service self identify the problem so we're going to build another feature so that as each"
+    },
+    {
+        "start": 3071.8,
+        "end": 3078.92,
+        "text": " individual user you can troubleshoot then we'll tell you specific what is wrong maybe your guess"
+    },
+    {
+        "start": 3078.92,
+        "end": 3085.96,
+        "text": " wifi password was changed you need to contact the IT administrator to find the correct password"
+    },
+    {
+        "start": 3085.96,
+        "end": 3092.36,
+        "text": " or your server expired so those have a problem you're that can give you much more information"
+    },
+    {
+        "start": 3092.36,
+        "end": 3100.1200000000003,
+        "text": " versus you call your network administrator so I'll tell you your device have a security patch"
+    },
+    {
+        "start": 3100.2,
+        "end": 3105.7999999999997,
+        "text": " didn't apply that's the reason why you cannot to your wifi cannot connect onto your network right"
+    },
+    {
+        "start": 3105.7999999999997,
+        "end": 3110.8399999999997,
+        "text": " so this type of problem that the net each individual wifi user to solve their problem instead of"
+    },
+    {
+        "start": 3110.8399999999997,
+        "end": 3117.96,
+        "text": " flooding the IT administrators so that's another one we are trying to utilize marvays to not just"
+    },
+    {
+        "start": 3117.96,
+        "end": 3125.0,
+        "text": " to serve the IT administrator also serve the individual and the user and I'm imagining that the logical"
+    },
+    {
+        "start": 3125.08,
+        "end": 3132.12,
+        "text": " next step there is you know some of these problems are going to be you know the result of network"
+    },
+    {
+        "start": 3132.12,
+        "end": 3137.32,
+        "text": " issues as opposed to user configuration issues and then you're just kind of collecting user experience"
+    },
+    {
+        "start": 3137.32,
+        "end": 3143.8,
+        "text": " data that you can use to either inform the you know the network administrators and like you already"
+    },
+    {
+        "start": 3143.8,
+        "end": 3148.2,
+        "text": " you know go figure out what the root cause is or you know at some point just fix it if it's"
+    },
+    {
+        "start": 3148.2,
+        "end": 3154.36,
+        "text": " fixable exactly that's when we wanted to collect the user input the data to they really have a"
+    },
+    {
+        "start": 3154.36,
+        "end": 3162.44,
+        "text": " capacity issue to have a really slow experience so for marvays and we try now we are doing"
+    },
+    {
+        "start": 3162.44,
+        "end": 3169.1600000000003,
+        "text": " very good job to identify why you cannot connect the network we saw that problem is pretty good"
+    },
+    {
+        "start": 3169.1600000000003,
+        "end": 3176.44,
+        "text": " well now we are moved to the second is a snowness snowness is very it's a hard problem first is"
+    },
+    {
+        "start": 3176.44,
+        "end": 3182.2000000000003,
+        "text": " different applications have a different tolerance for the networking capacity second is a"
+    },
+    {
+        "start": 3182.2,
+        "end": 3187.16,
+        "text": " snowness also is a per depends what type of applications we're using so there is a very"
+    },
+    {
+        "start": 3187.16,
+        "end": 3196.04,
+        "text": " persp you know subject day for each individual user's personal perception right so the user feedback"
+    },
+    {
+        "start": 3196.04,
+        "end": 3204.04,
+        "text": " can give us a lot of input data very cool well surely thanks so much for jumping on and sharing"
+    },
+    {
+        "start": 3204.04,
+        "end": 3212.12,
+        "text": " a bit about some of the ways that you're using data science ml and AI to help us get better"
+    },
+    {
+        "start": 3212.12,
+        "end": 3228.04,
+        "text": " networking experiences yeah it's a great pleasure to chat with you Sam so have a good day thanks so much"
+    }
+]

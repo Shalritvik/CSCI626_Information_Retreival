@@ -1,0 +1,4217 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 2.0,
+        "end": 23.0,
+        "text": " Hello and welcome to Podcasting House. If you've never listened to this podcast before, here's what we do."
+    },
+    {
+        "start": 23.0,
+        "end": 27.0,
+        "text": " We bring you an episode of a different BBC podcast a couple of times a week."
+    },
+    {
+        "start": 27.0,
+        "end": 36.0,
+        "text": " If you like what you hear, you can search for that podcast using whatever web page or app or service you're using right now and subscribe for more episodes."
+    },
+    {
+        "start": 36.0,
+        "end": 40.0,
+        "text": " My name's Eli and I'm joined as always by Riegan. What have you brought with you today, Riegan?"
+    },
+    {
+        "start": 40.0,
+        "end": 48.0,
+        "text": " I've got an episode of Blood on the Tracks. What is that? What is Blood on the Tracks? It's not an album. Well, it is an album by Bob Dylan."
+    },
+    {
+        "start": 48.0,
+        "end": 51.0,
+        "text": " It is an album, yeah. But we're not listening to Bob Dylan."
+    },
+    {
+        "start": 51.0,
+        "end": 54.0,
+        "text": " No, we're listening to Colin Murray in a new podcast from Radio 2."
+    },
+    {
+        "start": 54.0,
+        "end": 66.0,
+        "text": " Does he sing well? He sings beautifully. I have no idea where the he sings. But what he does do really, really well is drive along a great discussion with our, I'm going to call them a rum collection of guests."
+    },
+    {
+        "start": 66.0,
+        "end": 71.0,
+        "text": " I don't mean they are rumming themselves. Do you have that expression in America?"
+    },
+    {
+        "start": 71.0,
+        "end": 73.0,
+        "text": " I know what you mean. I know what you mean."
+    },
+    {
+        "start": 73.0,
+        "end": 84.0,
+        "text": " So an unexpected collective. So you've got Martin Bersier, skin from Skunk and Antsie, Colin, the comedian Josh Widdickham and they are in a room talking about various,"
+    },
+    {
+        "start": 84.0,
+        "end": 88.0,
+        "text": " as most topics of conversation to do with music. That's a Martley crew."
+    },
+    {
+        "start": 88.0,
+        "end": 90.0,
+        "text": " Is it a Martley crew?"
+    },
+    {
+        "start": 90.0,
+        "end": 100.0,
+        "text": " A rum collection. I think the Blood on the Tracks, it's a great title for a podcast, but I think it's about the passion I feel for the particular question you put in front of me Colin."
+    },
+    {
+        "start": 100.0,
+        "end": 106.0,
+        "text": " Do you have this conversation around the best female vocalist ever recorded?"
+    },
+    {
+        "start": 106.0,
+        "end": 109.0,
+        "text": " Oh, there's tracks like Music Tracks, like Tracks on a CD."
+    },
+    {
+        "start": 109.0,
+        "end": 115.0,
+        "text": " Oh, God it. And the conversation gets to intense that it's like Blood on the Tracks."
+    },
+    {
+        "start": 115.0,
+        "end": 122.0,
+        "text": " Yeah, intense, funny, deeply felt. I really, really like it. I'm going to listen to more."
+    },
+    {
+        "start": 122.0,
+        "end": 126.0,
+        "text": " All right, great. Here is Blood on the Tracks."
+    },
+    {
+        "start": 130.0,
+        "end": 138.0,
+        "text": " Hello everybody. Welcome to the first ever episode of Blood on the Tracks for BBC Radio 2."
+    },
+    {
+        "start": 138.0,
+        "end": 142.0,
+        "text": " I'm Colin Murray, owner of a record collection that runs from Chef Baker to Cheryl Baker."
+    },
+    {
+        "start": 142.0,
+        "end": 146.0,
+        "text": " And today I bring four music lovers together around the table."
+    },
+    {
+        "start": 146.0,
+        "end": 152.0,
+        "text": " They're only gold to emerge on the other side with their record collections stacked higher than the others."
+    },
+    {
+        "start": 152.0,
+        "end": 156.0,
+        "text": " Only one gets an encore. The other three will have the plug pulled."
+    },
+    {
+        "start": 156.0,
+        "end": 163.0,
+        "text": " We'll do this through a series of random rounds that give our guests the chance to just take control of the music and let it bleed through your speakers."
+    },
+    {
+        "start": 163.0,
+        "end": 168.0,
+        "text": " Now they wouldn't all naturally I don't think being a room together, but music makes them tick."
+    },
+    {
+        "start": 168.0,
+        "end": 173.0,
+        "text": " So let's not waste any more time. I'm joined by one of Snooker's all-time rock and roll stars."
+    },
+    {
+        "start": 173.0,
+        "end": 184.0,
+        "text": " He paints it pop black. He's Jimmy White. And beside him naturally, the BBC's religious affairs editor, whose idea of heaven is a least-grat-peri record."
+    },
+    {
+        "start": 184.0,
+        "end": 191.0,
+        "text": " Martin Vichier is here. Let's throw in a role model, a DJ and a singer of a band who had an album called Paranoid and Song Byrne,"
+    },
+    {
+        "start": 191.0,
+        "end": 196.0,
+        "text": " which is what Jimmy White was actually in a trip to Marbella in the mid-80s with Kirk Stevens."
+    },
+    {
+        "start": 196.0,
+        "end": 203.0,
+        "text": " Skin from Skunk and Ansey makes it three and the Balanced Outskins brilliance or APS completed."
+    },
+    {
+        "start": 203.0,
+        "end": 209.0,
+        "text": " By a comedian writer and a presenter who simply has the worst voice ever known, demand, woman and child."
+    },
+    {
+        "start": 209.0,
+        "end": 214.0,
+        "text": " He wanted to be Damon All-Barn but ended up with a voice of Damien from the Omen."
+    },
+    {
+        "start": 214.0,
+        "end": 216.0,
+        "text": " Josh, Josh Wittigam is here."
+    },
+    {
+        "start": 216.0,
+        "end": 222.0,
+        "text": " Now this is a first of four shows. It's called a pilot series so you have to approach it a bit like a demo where the record company"
+    },
+    {
+        "start": 222.0,
+        "end": 226.0,
+        "text": " haven't quite had enough faith to actually pay for the first album."
+    },
+    {
+        "start": 226.0,
+        "end": 230.0,
+        "text": " So let's show them. We're going to begin by asking you just for an open-and-track guy."
+    },
+    {
+        "start": 230.0,
+        "end": 234.0,
+        "text": " He's one bit of music that you're going to put forward to kind of represent you musically."
+    },
+    {
+        "start": 234.0,
+        "end": 238.0,
+        "text": " It sort of highlights what your collection is about or at least at the heart of it."
+    },
+    {
+        "start": 238.0,
+        "end": 244.0,
+        "text": " A musical hello. I just can't wait to see what Skimpix and Martin Pix and Josh Pix."
+    },
+    {
+        "start": 244.0,
+        "end": 248.0,
+        "text": " But Jimmy, which Rolling Stones track? I just know it's going to be a Rolling Stones."
+    },
+    {
+        "start": 248.0,
+        "end": 256.0,
+        "text": " Yeah, it's Out of Control. I went to Holland to watch and play and I never get it was a real muddy day."
+    },
+    {
+        "start": 256.0,
+        "end": 261.0,
+        "text": " And this was their opening song. Never heard it before and I listened to it all the time."
+    },
+    {
+        "start": 261.0,
+        "end": 263.0,
+        "text": " Out of Control by the stars."
+    },
+    {
+        "start": 264.0,
+        "end": 274.0,
+        "text": " I was food. I was angry. I was friend. I was chill. I was alone."
+    },
+    {
+        "start": 274.0,
+        "end": 279.0,
+        "text": " Tell me how I would try."
+    },
+    {
+        "start": 279.0,
+        "end": 287.0,
+        "text": " Now I'm out. I'm out of control."
+    },
+    {
+        "start": 287.0,
+        "end": 290.0,
+        "text": " Now I'm out."
+    },
+    {
+        "start": 290.0,
+        "end": 294.0,
+        "text": " Does it ever become normal, having Ronnie Woods as your best met?"
+    },
+    {
+        "start": 294.0,
+        "end": 300.0,
+        "text": " You know, I've been friends with him as you know. Our kids are in the same play together at school."
+    },
+    {
+        "start": 300.0,
+        "end": 303.0,
+        "text": " And I never fought for a minute that he knows anything about Snooker."
+    },
+    {
+        "start": 303.0,
+        "end": 309.0,
+        "text": " But he loves it. We've been pals for 30 years and they have a table backstage when they're playing."
+    },
+    {
+        "start": 309.0,
+        "end": 314.0,
+        "text": " They're all sober now but used to go there before and they'd be all like drinks all around the Snooker table."
+    },
+    {
+        "start": 314.0,
+        "end": 316.0,
+        "text": " Now it's all polished and lovely."
+    },
+    {
+        "start": 316.0,
+        "end": 320.0,
+        "text": " It's good to see that he's doing well and he loves his Snooker."
+    },
+    {
+        "start": 320.0,
+        "end": 322.0,
+        "text": " He's the best snooker player in the Rolling Stones."
+    },
+    {
+        "start": 322.0,
+        "end": 324.0,
+        "text": " Him and Keith Ritter to have a game of Snooker before."
+    },
+    {
+        "start": 324.0,
+        "end": 330.0,
+        "text": " Probably after they've done their soundtrack, you know, it's time to relax with Cutler Val's fully going on."
+    },
+    {
+        "start": 330.0,
+        "end": 335.0,
+        "text": " And I remember Keith Ritter and put it in a red pink and I'm sort of standing there just hanging out with him."
+    },
+    {
+        "start": 335.0,
+        "end": 339.0,
+        "text": " And he put 15 up instead of seven."
+    },
+    {
+        "start": 339.0,
+        "end": 343.0,
+        "text": " I think Keith wins more than Rurling. Of course he does."
+    },
+    {
+        "start": 343.0,
+        "end": 348.0,
+        "text": " It's interesting because we all show these things at Common Me Didn't Know because Josh, you went, wake, feel it aside."
+    },
+    {
+        "start": 348.0,
+        "end": 352.0,
+        "text": " You're a first of all just then, yeah, I don't know whether you want to go there or you open and track something."
+    },
+    {
+        "start": 352.0,
+        "end": 354.0,
+        "text": " No, I don't like to talk about my exes."
+    },
+    {
+        "start": 354.0,
+        "end": 355.0,
+        "text": " No."
+    },
+    {
+        "start": 355.0,
+        "end": 358.0,
+        "text": " It's good, isn't it? You get put in this position. What's your favourite song?"
+    },
+    {
+        "start": 358.0,
+        "end": 360.0,
+        "text": " You have to follow, I'm friends with the Rolling Stones."
+    },
+    {
+        "start": 360.0,
+        "end": 361.0,
+        "text": " I can hear that."
+    },
+    {
+        "start": 361.0,
+        "end": 363.0,
+        "text": " Wait, I quite like talking ads. That's good."
+    },
+    {
+        "start": 363.0,
+        "end": 372.0,
+        "text": " I love talking ads. I've had a baby and she's five months old and what people don't tell her about parenthood is it's quite boring early on."
+    },
+    {
+        "start": 372.0,
+        "end": 375.0,
+        "text": " There's a lot of just doing nothing while a baby lies there."
+    },
+    {
+        "start": 375.0,
+        "end": 383.0,
+        "text": " So under the guise of educating my five month old in music, I've just been playing her the back catalog of all my favourite bands."
+    },
+    {
+        "start": 383.0,
+        "end": 386.0,
+        "text": " Let's say that I've never taken any courses in childcare."
+    },
+    {
+        "start": 386.0,
+        "end": 388.0,
+        "text": " I don't know when it works for child protection."
+    },
+    {
+        "start": 388.0,
+        "end": 393.0,
+        "text": " But I'm pretty sure it's a cycle killer to your newborn child."
+    },
+    {
+        "start": 393.0,
+        "end": 394.0,
+        "text": " May have reached out to you."
+    },
+    {
+        "start": 394.0,
+        "end": 396.0,
+        "text": " She's got a few issues."
+    },
+    {
+        "start": 396.0,
+        "end": 400.0,
+        "text": " Oh, so I go out and leave. I just leave the music on. I go out for hours. Leave us to it."
+    },
+    {
+        "start": 400.0,
+        "end": 409.0,
+        "text": " No, so I, but it's talking heads of bizarrely become kind of for a kind of band that kind of distant and kind of awkward."
+    },
+    {
+        "start": 409.0,
+        "end": 414.0,
+        "text": " They've become associated to me with parenting, which I suppose I am distant and awkward at."
+    },
+    {
+        "start": 414.0,
+        "end": 424.0,
+        "text": " But I'd say that this song, this must be the place as a song I want to play, is the one kind of song which they've got which is probably a proper love song and a proper kind of soft, beautiful song."
+    },
+    {
+        "start": 424.0,
+        "end": 431.0,
+        "text": " It's one of the songs that it wasn't that big for them at the time, but it's kind of grown over the 30 years to perhaps be like almost their biggest song."
+    },
+    {
+        "start": 454.0,
+        "end": 461.0,
+        "text": " My first, my first man I used to play blind."
+    },
+    {
+        "start": 461.0,
+        "end": 463.0,
+        "text": " Oh, yeah. Yeah, great. So."
+    },
+    {
+        "start": 463.0,
+        "end": 468.0,
+        "text": " It was my first band and it was like the first song being on stage at the student union."
+    },
+    {
+        "start": 468.0,
+        "end": 473.0,
+        "text": " And the song came on and I walked on the stage and just forgot every single word."
+    },
+    {
+        "start": 473.0,
+        "end": 478.0,
+        "text": " So all I did was I'm blind. I'm blind. I'm blind. I'm blind. I'm blind. I'm blind."
+    },
+    {
+        "start": 478.0,
+        "end": 483.0,
+        "text": " I'm blind. I'm blind. Which is, yeah. And that's all I just did that for three minutes."
+    },
+    {
+        "start": 483.0,
+        "end": 487.0,
+        "text": " So anyway, I'm a member of the interpretation of blind. She's done that."
+    },
+    {
+        "start": 487.0,
+        "end": 490.0,
+        "text": " I got away with it as well. So much pure reverberation for the song."
+    },
+    {
+        "start": 490.0,
+        "end": 497.0,
+        "text": " Just before we move on, then talking to Ed's and runs through the whole family because your wife thinks a world in all world doesn't shit."
+    },
+    {
+        "start": 497.0,
+        "end": 500.0,
+        "text": " She thinks of the relationship. And she's blind."
+    },
+    {
+        "start": 500.0,
+        "end": 504.0,
+        "text": " We're actually not married. So she's for twisted."
+    },
+    {
+        "start": 504.0,
+        "end": 511.0,
+        "text": " Yeah. Trouble. No, I write skin. I think your bookies favorite the one for the first ever blood in the track. So no pressure. What do you got?"
+    },
+    {
+        "start": 511.0,
+        "end": 516.0,
+        "text": " One of my chosen, I just like molded my very soul is the first record I ever bought."
+    },
+    {
+        "start": 516.0,
+        "end": 520.0,
+        "text": " And I bought it from Maiden Brickston because he actually got a few off of back of a lorry."
+    },
+    {
+        "start": 520.0,
+        "end": 525.0,
+        "text": " Yes. And it was Nina Simone's. It was a teninch final. My baby just cares for me."
+    },
+    {
+        "start": 525.0,
+        "end": 530.0,
+        "text": " Love you. Leave me. Let me be lonely. And I love you, Paul G. Oh my god, what a classic."
+    },
+    {
+        "start": 530.0,
+        "end": 537.0,
+        "text": " Yes, I bought this record. So excited. And I took it home. I didn't listen to it for two years because I wasn't allowed in the front room."
+    },
+    {
+        "start": 537.0,
+        "end": 541.0,
+        "text": " You know, you've got your front room when your mom's got the plastic on the table."
+    },
+    {
+        "start": 541.0,
+        "end": 547.0,
+        "text": " Did she have the plastic on the table? And you know, the little doilies in the middle. And that was where the record play was."
+    },
+    {
+        "start": 547.0,
+        "end": 550.0,
+        "text": " And there was a bunch of records and none of us kids were allowed in there."
+    },
+    {
+        "start": 550.0,
+        "end": 555.0,
+        "text": " And it's one time she went out. She rushed out to work. You know, I was home alone because she was a nurse."
+    },
+    {
+        "start": 555.0,
+        "end": 561.0,
+        "text": " She went nights. There was no such thing as like, baby sisters. And I sneaked in there. And I played it for the first time."
+    },
+    {
+        "start": 561.0,
+        "end": 565.0,
+        "text": " She found out the next day. And I got the beat of my life for it."
+    },
+    {
+        "start": 565.0,
+        "end": 570.0,
+        "text": " But it was, love me, leave you. Let me be lonely by Nina Simone."
+    },
+    {
+        "start": 570.0,
+        "end": 577.0,
+        "text": " Say, love me, leave me. Let me be lonely. You won't believe me. But I love you only."
+    },
+    {
+        "start": 577.0,
+        "end": 582.0,
+        "text": " I'd rather be lonely than happy with somebody else."
+    },
+    {
+        "start": 582.0,
+        "end": 588.0,
+        "text": " You might find the night time the right time for kids in there. Night time is my time for just reminiscing."
+    },
+    {
+        "start": 588.0,
+        "end": 591.0,
+        "text": " This is how I learned to sing her harmony because I got a really high voice."
+    },
+    {
+        "start": 591.0,
+        "end": 597.0,
+        "text": " So I could only sing the harmony. I couldn't sing the melody."
+    },
+    {
+        "start": 597.0,
+        "end": 600.0,
+        "text": " She's a schoolgirl."
+    },
+    {
+        "start": 600.0,
+        "end": 603.0,
+        "text": " I intend to be independently blue."
+    },
+    {
+        "start": 603.0,
+        "end": 609.0,
+        "text": " I just want to be the only vocalist that can sing across three octaves. Nina Simone."
+    },
+    {
+        "start": 618.0,
+        "end": 622.0,
+        "text": " Josh, you're grieving. I had two thoughts during that, which was, oh my god, skin singing along."
+    },
+    {
+        "start": 622.0,
+        "end": 627.0,
+        "text": " So Nina Simone. And then my other thought was, oh my god, please don't let Jimmy White sing along."
+    },
+    {
+        "start": 628.0,
+        "end": 632.0,
+        "text": " Oh, my mind was the opposite. I wanted Jimmy harmonising."
+    },
+    {
+        "start": 632.0,
+        "end": 636.0,
+        "text": " So Nina Simone won a hot press lifetime achievement award."
+    },
+    {
+        "start": 636.0,
+        "end": 640.0,
+        "text": " And I was working as a journalist and got a go at the meter and I got to say her life."
+    },
+    {
+        "start": 640.0,
+        "end": 645.0,
+        "text": " But the best thing about it was they gave her the award. She was fairly nonplussed by the whole thing."
+    },
+    {
+        "start": 645.0,
+        "end": 652.0,
+        "text": " She was going to imagine she just took the award. She put it down. She opened two bottles of champagne, filled the award up and got a straw."
+    },
+    {
+        "start": 653.0,
+        "end": 658.0,
+        "text": " And when she played four hours later, she brought it on the stage, still drinking it. She was amazing."
+    },
+    {
+        "start": 658.0,
+        "end": 667.0,
+        "text": " Right, we got to complete the first ever round of the first ever blood on the tracks or the fourth last, depending whether or not your glasses half empty or half full, Martin Bichier."
+    },
+    {
+        "start": 667.0,
+        "end": 672.0,
+        "text": " I was growing up on a counsellor's state in South London, not very far from where Jimmy White grew up."
+    },
+    {
+        "start": 672.0,
+        "end": 676.0,
+        "text": " In fact, in Ballum, he grew up in Touting."
+    },
+    {
+        "start": 677.0,
+        "end": 685.0,
+        "text": " And I remember hearing this extraordinary vocalist, Gil Scott Heron, often described as a political poet."
+    },
+    {
+        "start": 685.0,
+        "end": 693.0,
+        "text": " And yet, as I listened to some of the music, I discovered that this man was just a genius touched by every single genre."
+    },
+    {
+        "start": 693.0,
+        "end": 699.0,
+        "text": " And there's one song he wrote, which I just think almost brings you to tears. It's called, I think I'll call it morning."
+    },
+    {
+        "start": 699.0,
+        "end": 706.0,
+        "text": " And for me, it encapsulates everything about music. It's rhythmic, it's harmonized, and it tells a tale of life."
+    },
+    {
+        "start": 730.0,
+        "end": 736.0,
+        "text": " I'm going to take the song from every bird and make them sing it just for me."
+    },
+    {
+        "start": 736.0,
+        "end": 738.0,
+        "text": " You singing for me, Martin?"
+    },
+    {
+        "start": 738.0,
+        "end": 739.0,
+        "text": " I can't."
+    },
+    {
+        "start": 739.0,
+        "end": 740.0,
+        "text": " Are you work?"
+    },
+    {
+        "start": 740.0,
+        "end": 741.0,
+        "text": " I play the bass, I don't sing."
+    },
+    {
+        "start": 741.0,
+        "end": 747.0,
+        "text": " Red's got something to teach us all about being free."
+    },
+    {
+        "start": 752.0,
+        "end": 754.0,
+        "text": " Be no race."
+    },
+    {
+        "start": 755.0,
+        "end": 760.0,
+        "text": " And I think I'll call it morning from now on."
+    },
+    {
+        "start": 761.0,
+        "end": 765.0,
+        "text": " It's a beautiful track, Martin, and during it, we were all caught up."
+    },
+    {
+        "start": 765.0,
+        "end": 769.0,
+        "text": " We started talking about, could we form a band?"
+    },
+    {
+        "start": 769.0,
+        "end": 772.0,
+        "text": " Skin, obviously, is lead vocals. You're going to be in bass, Josh. You're on good rudimentary guitar."
+    },
+    {
+        "start": 772.0,
+        "end": 774.0,
+        "text": " I'm going to pick up the ukulele."
+    },
+    {
+        "start": 774.0,
+        "end": 777.0,
+        "text": " I'm going to pick up the ukulele."
+    },
+    {
+        "start": 777.0,
+        "end": 779.0,
+        "text": " I'm going to pick up the ukulele."
+    },
+    {
+        "start": 779.0,
+        "end": 786.0,
+        "text": " It doesn't really fit, but we have Jimmy as the fixer. Anything you want, I can get you."
+    },
+    {
+        "start": 786.0,
+        "end": 787.0,
+        "text": " No problem."
+    },
+    {
+        "start": 787.0,
+        "end": 791.0,
+        "text": " Do you know what? I would be on drums because I'm not frightening that band."
+    },
+    {
+        "start": 791.0,
+        "end": 793.0,
+        "text": " Oh, thanks."
+    },
+    {
+        "start": 793.0,
+        "end": 796.0,
+        "text": " You never hit my bass playing."
+    },
+    {
+        "start": 796.0,
+        "end": 798.0,
+        "text": " Right, first off, friends, done."
+    },
+    {
+        "start": 798.0,
+        "end": 804.0,
+        "text": " It's Skin who's drawn first blood for me and Josh, whose first cut was unfortunately the deepest mainly for torture in your kid."
+    },
+    {
+        "start": 804.0,
+        "end": 805.0,
+        "text": " With talking aids."
+    },
+    {
+        "start": 805.0,
+        "end": 812.0,
+        "text": " Moving on then, this week marks the 25th anniversary of Swede, released in their debut album, which is widely seen as the birth of Bret Pop."
+    },
+    {
+        "start": 812.0,
+        "end": 814.0,
+        "text": " Here's just some examples."
+    },
+    {
+        "start": 836.0,
+        "end": 837.0,
+        "text": " What?"
+    },
+    {
+        "start": 837.0,
+        "end": 842.0,
+        "text": " I'm a shaker."
+    },
+    {
+        "start": 842.0,
+        "end": 845.0,
+        "text": " He's not a prince. He's not a king."
+    },
+    {
+        "start": 845.0,
+        "end": 847.0,
+        "text": " He's not a rocker."
+    },
+    {
+        "start": 847.0,
+        "end": 849.0,
+        "text": " I'm an idiot."
+    },
+    {
+        "start": 849.0,
+        "end": 853.0,
+        "text": " I've been chasing rainbows."
+    },
+    {
+        "start": 853.0,
+        "end": 858.0,
+        "text": " Oh, my love."
+    },
+    {
+        "start": 858.0,
+        "end": 865.0,
+        "text": " Just some examples so much to choose from. I want you to get me a slice of Bret Pop that is still in your collection all of these years later."
+    },
+    {
+        "start": 865.0,
+        "end": 870.0,
+        "text": " Just for the record, everyone has to pick a different track, so whoever gets northern uproar first."
+    },
+    {
+        "start": 870.0,
+        "end": 872.0,
+        "text": " The other three can't have them."
+    },
+    {
+        "start": 872.0,
+        "end": 874.0,
+        "text": " Okay? Skin."
+    },
+    {
+        "start": 874.0,
+        "end": 881.0,
+        "text": " The A-Class, the first round, there was some great band. I mean, elastico connection was there, but I would say for me, it would be pulp, common people."
+    },
+    {
+        "start": 881.0,
+        "end": 888.0,
+        "text": " When that came out, it was just a genuine slice of them and us."
+    },
+    {
+        "start": 888.0,
+        "end": 890.0,
+        "text": " I wanted to live with the common people."
+    },
+    {
+        "start": 890.0,
+        "end": 895.0,
+        "text": " And he's such an unlikely gangly weird juxtaposition kind of front person."
+    },
+    {
+        "start": 895.0,
+        "end": 898.0,
+        "text": " He's so weird and strange."
+    },
+    {
+        "start": 898.0,
+        "end": 902.0,
+        "text": " And you see him on stage, you're like, how is he getting away with this? But he did."
+    },
+    {
+        "start": 911.0,
+        "end": 915.0,
+        "text": " I've never watched your life, I've never seen you."
+    },
+    {
+        "start": 915.0,
+        "end": 922.0,
+        "text": " And that's the pick of the skin, because it's nothing else."
+    },
+    {
+        "start": 922.0,
+        "end": 927.0,
+        "text": " Completely individual, he's the weirdest style of anyone, but it just worked."
+    },
+    {
+        "start": 927.0,
+        "end": 929.0,
+        "text": " We just had his own thing going on."
+    },
+    {
+        "start": 929.0,
+        "end": 933.0,
+        "text": " I like all Quits in a singer. I don't want overconfident. I don't want Vom Bass."
+    },
+    {
+        "start": 933.0,
+        "end": 936.0,
+        "text": " I want to know that maybe they're a bit uncomfortable there."
+    },
+    {
+        "start": 936.0,
+        "end": 938.0,
+        "text": " You know what I mean? That's what Travis Cocker's got."
+    },
+    {
+        "start": 938.0,
+        "end": 941.0,
+        "text": " Yeah, he's kind of like the ultimate dad dance, aren't he?"
+    },
+    {
+        "start": 941.0,
+        "end": 943.0,
+        "text": " Yeah. The ultimate dad dancing."
+    },
+    {
+        "start": 943.0,
+        "end": 948.0,
+        "text": " The thing about him though was that it wasn't it seemed uncalculated."
+    },
+    {
+        "start": 948.0,
+        "end": 952.0,
+        "text": " So regardless of what he did, your eyes were drawn to it."
+    },
+    {
+        "start": 952.0,
+        "end": 958.0,
+        "text": " Rather than us Jimmy for his track, what do you think, Jimmy's track is?"
+    },
+    {
+        "start": 958.0,
+        "end": 971.0,
+        "text": " Right? Because if you give it one track from Breap Hot that you say, Jimmy White,"
+    },
+    {
+        "start": 971.0,
+        "end": 975.0,
+        "text": " give it what you know, or buy Jimmy White would pick as a track you related to what would it be?"
+    },
+    {
+        "start": 975.0,
+        "end": 976.0,
+        "text": " Snooker loopy."
+    },
+    {
+        "start": 976.0,
+        "end": 978.0,
+        "text": " No."
+    },
+    {
+        "start": 978.0,
+        "end": 981.0,
+        "text": " It's gonna be a loopy, anyone else? It's gonna be a list."
+    },
+    {
+        "start": 981.0,
+        "end": 982.0,
+        "text": " It's gonna be a list, right?"
+    },
+    {
+        "start": 982.0,
+        "end": 985.0,
+        "text": " It's gonna be a list, you're right. What track you can easily nail it?"
+    },
+    {
+        "start": 985.0,
+        "end": 989.0,
+        "text": " I quite hope Jimmy White's gonna live forever, but I'm gonna go rock and roll."
+    },
+    {
+        "start": 989.0,
+        "end": 990.0,
+        "text": " Yes!"
+    },
+    {
+        "start": 990.0,
+        "end": 994.0,
+        "text": " They were raw. They was raw to me. They had attitude and you know,"
+    },
+    {
+        "start": 994.0,
+        "end": 1000.0,
+        "text": " and I watched them live a couple of times and I really enjoyed it and I really got involved in the music."
+    },
+    {
+        "start": 1000.0,
+        "end": 1001.0,
+        "text": " I think they was brilliant."
+    },
+    {
+        "start": 1001.0,
+        "end": 1003.0,
+        "text": " Did you do it, Madam, at some stage?"
+    },
+    {
+        "start": 1003.0,
+        "end": 1009.0,
+        "text": " I met Null just briefly, where I'm on his house, because he knows everyone."
+    },
+    {
+        "start": 1009.0,
+        "end": 1012.0,
+        "text": " I know nobody. I know you've got it."
+    },
+    {
+        "start": 1012.0,
+        "end": 1017.0,
+        "text": " But he was a really nice, and you know, there you are."
+    },
+    {
+        "start": 1017.0,
+        "end": 1022.0,
+        "text": " Music's in it. I don't know Liam, but Null, there are music's in his blood."
+    },
+    {
+        "start": 1033.0,
+        "end": 1053.0,
+        "text": " I think Null tells a great story about this house."
+    },
+    {
+        "start": 1053.0,
+        "end": 1056.0,
+        "text": " This house, technically, I'm gonna say it right. He tells a story about,"
+    },
+    {
+        "start": 1056.0,
+        "end": 1060.0,
+        "text": " Hi, someone told him if you put a spoon in the Barclaysham pane,"
+    },
+    {
+        "start": 1060.0,
+        "end": 1062.0,
+        "text": " it would stop a gone flat."
+    },
+    {
+        "start": 1062.0,
+        "end": 1065.0,
+        "text": " And about four days later, Null went round to Liam's house and opened his fridge"
+    },
+    {
+        "start": 1065.0,
+        "end": 1071.0,
+        "text": " and Liam had put a spoon in the pint of milk."
+    },
+    {
+        "start": 1071.0,
+        "end": 1075.0,
+        "text": " Martin, what you got Brit Pop for is in your collection still."
+    },
+    {
+        "start": 1075.0,
+        "end": 1080.0,
+        "text": " It's interesting, because you've been talking about Oasis and Pop, big bands, big albums, big shows."
+    },
+    {
+        "start": 1080.0,
+        "end": 1086.0,
+        "text": " I go for one track wonders, and for me it was Wake Up Boo by the Boo Radlys."
+    },
+    {
+        "start": 1086.0,
+        "end": 1092.0,
+        "text": " For me, it was the horn part, the bass part, and the harmonies that in a way was like a Brit Pop"
+    },
+    {
+        "start": 1092.0,
+        "end": 1095.0,
+        "text": " re-versioning of a classic Motown track."
+    },
+    {
+        "start": 1095.0,
+        "end": 1100.0,
+        "text": " And it was upbeat. I remember that Tony Blair was reconstructing the Labour Party."
+    },
+    {
+        "start": 1100.0,
+        "end": 1104.0,
+        "text": " Margaret Thatcher was out of power as Prime Minister. There was a sense of optimism."
+    },
+    {
+        "start": 1104.0,
+        "end": 1110.0,
+        "text": " That was 1995. And I think the track came out just before the broadcast of,"
+    },
+    {
+        "start": 1110.0,
+        "end": 1114.0,
+        "text": " sorry, to be self-referential, the interview with the late Princess Diana."
+    },
+    {
+        "start": 1114.0,
+        "end": 1119.0,
+        "text": " And so this song was sort of just driving through me throughout the summer."
+    },
+    {
+        "start": 1144.0,
+        "end": 1153.0,
+        "text": " I'm giving you bonus points here, Martin, for going for it, because when people talk about Brit Pop,"
+    },
+    {
+        "start": 1153.0,
+        "end": 1158.0,
+        "text": " they get romantic. Look, we've had already Paul, when we found Oasis, it was Kinnickie."
+    },
+    {
+        "start": 1158.0,
+        "end": 1162.0,
+        "text": " It was bass. It was men's work. It was super physical."
+    },
+    {
+        "start": 1162.0,
+        "end": 1167.0,
+        "text": " Bloody Manson, right? And for every good record there was a bad record there as well."
+    },
+    {
+        "start": 1167.0,
+        "end": 1170.0,
+        "text": " So on that note, Josh, I'm going to go brave here."
+    },
+    {
+        "start": 1170.0,
+        "end": 1173.0,
+        "text": " Yeah, I'm going to go brave. I'm going to go daydreamer by men's work."
+    },
+    {
+        "start": 1173.0,
+        "end": 1177.0,
+        "text": " This is the question kind of I dreamed of answering."
+    },
+    {
+        "start": 1177.0,
+        "end": 1182.0,
+        "text": " Brit Pop got me into music the first proper album I bought was Park Life by Blur,"
+    },
+    {
+        "start": 1182.0,
+        "end": 1188.0,
+        "text": " when I would have been 10 or 11. And it kind of has, I think, defined my music taste."
+    },
+    {
+        "start": 1188.0,
+        "end": 1193.0,
+        "text": " Blur and my favourite band, they have Soundtracked my life. And I think, you know,"
+    },
+    {
+        "start": 1193.0,
+        "end": 1198.0,
+        "text": " Blur Park Life is an amazing album. The great escape was probably one of the lowest points of Brit Pop."
+    },
+    {
+        "start": 1198.0,
+        "end": 1203.0,
+        "text": " But actually, when you go back and listen to the great escape, for every bad track there are some great tracks."
+    },
+    {
+        "start": 1203.0,
+        "end": 1207.0,
+        "text": " There are lows, like I don't know if you remember the song, Earn All The Same."
+    },
+    {
+        "start": 1207.0,
+        "end": 1212.0,
+        "text": " Do you remember that? Yeah. With vocals by London Mayor Ken Livingston of all people."
+    },
+    {
+        "start": 1212.0,
+        "end": 1214.0,
+        "text": " It was the Colondale of that album."
+    },
+    {
+        "start": 1214.0,
+        "end": 1219.0,
+        "text": " It was very much the Colondale of that album. If Colondale had Diane Abbott doing the vocals."
+    },
+    {
+        "start": 1219.0,
+        "end": 1223.0,
+        "text": " Which would have actually improved, if we were honest."
+    },
+    {
+        "start": 1224.0,
+        "end": 1229.0,
+        "text": " If Great Escape had been cut down to like the seven best songs, there were some great songs."
+    },
+    {
+        "start": 1229.0,
+        "end": 1234.0,
+        "text": " And there's a great track which I argue you think is the best track Damon Albarn has ever written,"
+    },
+    {
+        "start": 1234.0,
+        "end": 1238.0,
+        "text": " called He Thought of Cars. Damon Albarn writing a beautiful song and Graham Cox"
+    },
+    {
+        "start": 1238.0,
+        "end": 1240.0,
+        "text": " I'm trying to mess it up with guitar."
+    },
+    {
+        "start": 1254.0,
+        "end": 1274.0,
+        "text": " I got to say Josh, you could add Chemical World, which is genius."
+    },
+    {
+        "start": 1274.0,
+        "end": 1279.0,
+        "text": " You could have this as a low. Even the Universal."
+    },
+    {
+        "start": 1279.0,
+        "end": 1284.0,
+        "text": " I feel like what you were given, Noah, is like I've had a said what's your favourite Beatles track and you picked up to Pusha's Guide."
+    },
+    {
+        "start": 1284.0,
+        "end": 1287.0,
+        "text": " No, but it was the wording of the question."
+    },
+    {
+        "start": 1287.0,
+        "end": 1289.0,
+        "text": " It was the wording of it."
+    },
+    {
+        "start": 1289.0,
+        "end": 1292.0,
+        "text": " It's what I thought of when we caught the idea for this song."
+    },
+    {
+        "start": 1292.0,
+        "end": 1295.0,
+        "text": " No, I told you it was going with this as a low."
+    },
+    {
+        "start": 1295.0,
+        "end": 1300.0,
+        "text": " But everyone's heard that I think one of the problems with Brit Pop is all of the best songs you've heard them too much."
+    },
+    {
+        "start": 1300.0,
+        "end": 1305.0,
+        "text": " Yeah. You know, Colond people is a great song, but I've heard it. The Boo Radlies."
+    },
+    {
+        "start": 1305.0,
+        "end": 1306.0,
+        "text": " That's great."
+    },
+    {
+        "start": 1306.0,
+        "end": 1311.0,
+        "text": " It is a great song. The Boo Radlies is a song that I've heard a lot as well."
+    },
+    {
+        "start": 1311.0,
+        "end": 1318.0,
+        "text": " I've got a lot of stuff. You know, I also want it to be flash."
+    },
+    {
+        "start": 1318.0,
+        "end": 1322.0,
+        "text": " Right, Devin Class from Skid and That Ryan. Definitely may be for Jimmy."
+    },
+    {
+        "start": 1322.0,
+        "end": 1328.0,
+        "text": " No one left to look back at Inge as we hand over the reins of the show now to different musical mice."
+    },
+    {
+        "start": 1328.0,
+        "end": 1333.0,
+        "text": " Hi, I'm Gary from Snow Patrol and it's my turn to put some blood on the tracks for BBC Radio 2."
+    },
+    {
+        "start": 1333.0,
+        "end": 1335.0,
+        "text": " Have a listen to this."
+    },
+    {
+        "start": 1336.0,
+        "end": 1365.0,
+        "text": " That's a Rita Franklin with Think."
+    },
+    {
+        "start": 1365.0,
+        "end": 1372.0,
+        "text": " My favorite 30 seconds of female vocal ever recorded. There's just no one that ever did a better than her."
+    },
+    {
+        "start": 1372.0,
+        "end": 1375.0,
+        "text": " Try to beat that. Your favorite female vocal ever."
+    },
+    {
+        "start": 1375.0,
+        "end": 1378.0,
+        "text": " Martin, take me to bed or lose me forever."
+    },
+    {
+        "start": 1378.0,
+        "end": 1383.0,
+        "text": " That's a fantastic vocal, but I think it has to be Nina Simone's."
+    },
+    {
+        "start": 1383.0,
+        "end": 1390.0,
+        "text": " My baby just cares for me. Probably the finest controlled delivery of any female vocal I've ever heard."
+    },
+    {
+        "start": 1391.0,
+        "end": 1400.0,
+        "text": " Incredible piano playing at the same time. Everything about it was sensuous, seductive and as I said controlled."
+    },
+    {
+        "start": 1400.0,
+        "end": 1405.0,
+        "text": " She was a romantic lyricist but she was also a political activist."
+    },
+    {
+        "start": 1405.0,
+        "end": 1411.0,
+        "text": " So at the age of 12 for example, when she was invited to play it a church her father was a Methodist minister."
+    },
+    {
+        "start": 1411.0,
+        "end": 1417.0,
+        "text": " Because her parents were told to sit at the back of the hall because they were African Americans, she refused to play."
+    },
+    {
+        "start": 1417.0,
+        "end": 1422.0,
+        "text": " And of course songs like Mississippi God damn why the King of Love is dead, young gifted and black."
+    },
+    {
+        "start": 1422.0,
+        "end": 1429.0,
+        "text": " All of those politically powerful but for that vocal it just does something to you."
+    },
+    {
+        "start": 1447.0,
+        "end": 1457.0,
+        "text": " I can't see a one-dollar tour with the baby."
+    },
+    {
+        "start": 1457.0,
+        "end": 1468.0,
+        "text": " My baby just cares for my baby just cares for me."
+    },
+    {
+        "start": 1468.0,
+        "end": 1476.0,
+        "text": " Right, I don't know whether we can beat that."
+    },
+    {
+        "start": 1476.0,
+        "end": 1479.0,
+        "text": " So I'm just looking at it with Kate Josh."
+    },
+    {
+        "start": 1479.0,
+        "end": 1481.0,
+        "text": " I'm picking on you."
+    },
+    {
+        "start": 1481.0,
+        "end": 1487.0,
+        "text": " No, no, it's fine. I'll follow the Ronnie Wood and the best option obviously."
+    },
+    {
+        "start": 1487.0,
+        "end": 1493.0,
+        "text": " Next round is going to be a song in a band. I have to follow Skid."
+    },
+    {
+        "start": 1493.0,
+        "end": 1500.0,
+        "text": " Let's just enjoy this round as a consolation. You know the final games of the season when you're already relegated."
+    },
+    {
+        "start": 1500.0,
+        "end": 1502.0,
+        "text": " Take it away."
+    },
+    {
+        "start": 1502.0,
+        "end": 1507.0,
+        "text": " Do you know what? This was the first song that came into my head when I saw this question."
+    },
+    {
+        "start": 1507.0,
+        "end": 1514.0,
+        "text": " I love a pop memoir. Any book really that is about debauchery and rock and roll."
+    },
+    {
+        "start": 1514.0,
+        "end": 1523.0,
+        "text": " I recently read a book called Meet Me in the Bathroom which if you haven't read it's a book about music in New York from 2001 to 2011."
+    },
+    {
+        "start": 1523.0,
+        "end": 1529.0,
+        "text": " And some of the best drug stories you have ever read in your life. Even Jimmy is nodding away."
+    },
+    {
+        "start": 1529.0,
+        "end": 1533.0,
+        "text": " Meet me in the bathroom."
+    },
+    {
+        "start": 1533.0,
+        "end": 1538.0,
+        "text": " Anyway, Karen O from The A-A-As is one of the great rock stars of the last 20 years."
+    },
+    {
+        "start": 1538.0,
+        "end": 1543.0,
+        "text": " And I want to saw a performer shed a pint of wine. That's what I want."
+    },
+    {
+        "start": 1543.0,
+        "end": 1549.0,
+        "text": " The only person I've ever seen with a pint of wine that was no Sam Alladice when he was caught on that video."
+    },
+    {
+        "start": 1549.0,
+        "end": 1552.0,
+        "text": " It was my other favourite singer."
+    },
+    {
+        "start": 1552.0,
+        "end": 1562.0,
+        "text": " Well, yeah, yeah, the one track that I think has touched more people than anyone else from them is the track maps which is completely different to everything else on the first album."
+    },
+    {
+        "start": 1562.0,
+        "end": 1566.0,
+        "text": " You have to wait. You win that round. That's a astonishing choice."
+    },
+    {
+        "start": 1566.0,
+        "end": 1573.0,
+        "text": " Oh, thank you very much. I'm an interesting person. Do you know how many people I've talked about that track? How amazing that track is."
+    },
+    {
+        "start": 1573.0,
+        "end": 1578.0,
+        "text": " Do you know what skin? I needed this."
+    },
+    {
+        "start": 1578.0,
+        "end": 1580.0,
+        "text": " I needed this."
+    },
+    {
+        "start": 1596.0,
+        "end": 1609.0,
+        "text": " Do you think that's the best 30 seconds of female vocal?"
+    },
+    {
+        "start": 1609.0,
+        "end": 1614.0,
+        "text": " Are you still reeling from the big Radlies?"
+    },
+    {
+        "start": 1614.0,
+        "end": 1618.0,
+        "text": " You're back in the game by the end of the week."
+    },
+    {
+        "start": 1618.0,
+        "end": 1623.0,
+        "text": " You talk about your new books, reveal all books. Jimmy said two autobiography so far."
+    },
+    {
+        "start": 1623.0,
+        "end": 1630.0,
+        "text": " The second one will peel the skin off your eyeballs. Unbelievable. Story after story after story."
+    },
+    {
+        "start": 1630.0,
+        "end": 1634.0,
+        "text": " I can't believe you're printing this. I'm around something a few weeks ago."
+    },
+    {
+        "start": 1634.0,
+        "end": 1638.0,
+        "text": " Jimmy said to me, I'm doing a third autobiography. I was like, right."
+    },
+    {
+        "start": 1638.0,
+        "end": 1641.0,
+        "text": " And he goes, I'm going to tell the truth in this one."
+    },
+    {
+        "start": 1641.0,
+        "end": 1644.0,
+        "text": " I've never refused ink."
+    },
+    {
+        "start": 1653.0,
+        "end": 1656.0,
+        "text": " I'm out of my mind."
+    },
+    {
+        "start": 1656.0,
+        "end": 1658.0,
+        "text": " I've got a few."
+    },
+    {
+        "start": 1658.0,
+        "end": 1660.0,
+        "text": " Hey, Jimmy, where you got from me?"
+    },
+    {
+        "start": 1660.0,
+        "end": 1668.0,
+        "text": " Whitney Houston. I just love, you know, once again, I get goosebumps when I hear a scene and she was just phenomenal."
+    },
+    {
+        "start": 1668.0,
+        "end": 1673.0,
+        "text": " And it sort of reminds me of a time in my life, you know, just an out and out beautiful song."
+    },
+    {
+        "start": 1673.0,
+        "end": 1675.0,
+        "text": " Did you have a party with her?"
+    },
+    {
+        "start": 1675.0,
+        "end": 1678.0,
+        "text": " No, no. I'm on a small time."
+    },
+    {
+        "start": 1678.0,
+        "end": 1680.0,
+        "text": " Did you?"
+    },
+    {
+        "start": 1680.0,
+        "end": 1682.0,
+        "text": " I can't say anything."
+    },
+    {
+        "start": 1682.0,
+        "end": 1684.0,
+        "text": " No, I don't know."
+    },
+    {
+        "start": 1684.0,
+        "end": 1687.0,
+        "text": " You all just looked at your silence. You will say something skinned."
+    },
+    {
+        "start": 1687.0,
+        "end": 1688.0,
+        "text": " You will."
+    },
+    {
+        "start": 1688.0,
+        "end": 1690.0,
+        "text": " The sweat is on."
+    },
+    {
+        "start": 1690.0,
+        "end": 1692.0,
+        "text": " No, I ran away from my cup of times."
+    },
+    {
+        "start": 1692.0,
+        "end": 1693.0,
+        "text": " I spit much."
+    },
+    {
+        "start": 1693.0,
+        "end": 1694.0,
+        "text": " Yeah, yeah, yeah."
+    },
+    {
+        "start": 1694.0,
+        "end": 1695.0,
+        "text": " She looked a bit."
+    },
+    {
+        "start": 1695.0,
+        "end": 1698.0,
+        "text": " I just thought, all right, I thought it was one time."
+    },
+    {
+        "start": 1698.0,
+        "end": 1699.0,
+        "text": " Here we go."
+    },
+    {
+        "start": 1699.0,
+        "end": 1700.0,
+        "text": " One time."
+    },
+    {
+        "start": 1700.0,
+        "end": 1703.0,
+        "text": " Actually, it was in Browns. It was me."
+    },
+    {
+        "start": 1703.0,
+        "end": 1704.0,
+        "text": " What's that?"
+    },
+    {
+        "start": 1704.0,
+        "end": 1706.0,
+        "text": " Browns, my club in East London."
+    },
+    {
+        "start": 1706.0,
+        "end": 1709.0,
+        "text": " Yeah, me, Whitney and Bobby Brown, actually."
+    },
+    {
+        "start": 1709.0,
+        "end": 1713.0,
+        "text": " And yeah, we were hanging out and, you know, until like, you know,"
+    },
+    {
+        "start": 1713.0,
+        "end": 1716.0,
+        "text": " like this weird, all kinds of stuff was going on."
+    },
+    {
+        "start": 1716.0,
+        "end": 1718.0,
+        "text": " And then last night, you know what?"
+    },
+    {
+        "start": 1718.0,
+        "end": 1719.0,
+        "text": " It's five of us."
+    },
+    {
+        "start": 1719.0,
+        "end": 1720.0,
+        "text": " I mean, you've got a gig in the morning."
+    },
+    {
+        "start": 1720.0,
+        "end": 1722.0,
+        "text": " It's like, oh, don't worry, my daughter will sing it."
+    },
+    {
+        "start": 1722.0,
+        "end": 1724.0,
+        "text": " You seem to skip over six hours of that party."
+    },
+    {
+        "start": 1724.0,
+        "end": 1726.0,
+        "text": " I don't think I speak up on behalf of everybody in here."
+    },
+    {
+        "start": 1726.0,
+        "end": 1727.0,
+        "text": " I said we want to know more."
+    },
+    {
+        "start": 1727.0,
+        "end": 1729.0,
+        "text": " She was hard work. She was hard work."
+    },
+    {
+        "start": 1729.0,
+        "end": 1730.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1730.0,
+        "end": 1731.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1731.0,
+        "end": 1732.0,
+        "text": " Let's break the track."
+    },
+    {
+        "start": 1733.0,
+        "end": 1742.0,
+        "text": " And I will always love you."
+    },
+    {
+        "start": 1742.0,
+        "end": 1749.0,
+        "text": " I will always love you."
+    },
+    {
+        "start": 1749.0,
+        "end": 1757.0,
+        "text": " I will always love you."
+    },
+    {
+        "start": 1757.0,
+        "end": 1767.0,
+        "text": " Whitney Houston, I will always love you."
+    },
+    {
+        "start": 1767.0,
+        "end": 1768.0,
+        "text": " I'll be on the track."
+    },
+    {
+        "start": 1768.0,
+        "end": 1771.0,
+        "text": " Jimmy White, Skyn from Skunk and Nancy Martin, Bishair."
+    },
+    {
+        "start": 1771.0,
+        "end": 1773.0,
+        "text": " And Josh Whitakim with me."
+    },
+    {
+        "start": 1773.0,
+        "end": 1776.0,
+        "text": " The best 30 seconds of female vocal ever."
+    },
+    {
+        "start": 1776.0,
+        "end": 1778.0,
+        "text": " We said Martin Burn the Guitar."
+    },
+    {
+        "start": 1778.0,
+        "end": 1781.0,
+        "text": " Just the way we all got so into Whitney talking about that."
+    },
+    {
+        "start": 1781.0,
+        "end": 1783.0,
+        "text": " We now have a bartender to the throne in this round."
+    },
+    {
+        "start": 1783.0,
+        "end": 1785.0,
+        "text": " Skyn, can you beat what we've heard so far?"
+    },
+    {
+        "start": 1785.0,
+        "end": 1788.0,
+        "text": " Well, yeah, well, you know, I've got a dust my shoulders off for this one."
+    },
+    {
+        "start": 1788.0,
+        "end": 1792.0,
+        "text": " I mean, this track, I don't know if you'd be, Davis was married to Sly Stone."
+    },
+    {
+        "start": 1792.0,
+        "end": 1796.0,
+        "text": " Well, she was with Sly Stone and Miles Davis stole her."
+    },
+    {
+        "start": 1796.0,
+        "end": 1799.0,
+        "text": " Because, you know, she would just sit there, he picked up and run off."
+    },
+    {
+        "start": 1799.0,
+        "end": 1803.0,
+        "text": " But she was kind of in that, see on this album, she's got Larry Gray and playing bass."
+    },
+    {
+        "start": 1803.0,
+        "end": 1806.0,
+        "text": " You know, she's got like the most incredible music musicians."
+    },
+    {
+        "start": 1806.0,
+        "end": 1809.0,
+        "text": " But it was in the time of high debauchery."
+    },
+    {
+        "start": 1809.0,
+        "end": 1814.0,
+        "text": " So, but I did discover her luckily until after I kind of got my voice and started singing."
+    },
+    {
+        "start": 1814.0,
+        "end": 1817.0,
+        "text": " Because if I had, I would just like just copy the last album."
+    },
+    {
+        "start": 1817.0,
+        "end": 1821.0,
+        "text": " Because this vocal, for me, is one of the best all-time vocals."
+    },
+    {
+        "start": 1821.0,
+        "end": 1824.0,
+        "text": " And there's a lot, you know, I'm an ever since Del's fan."
+    },
+    {
+        "start": 1824.0,
+        "end": 1827.0,
+        "text": " I'm a Dennis Joplin fan. I'm a king fan."
+    },
+    {
+        "start": 1827.0,
+        "end": 1830.0,
+        "text": " So, if one's flying a family stone, you know, if you want me to stay,"
+    },
+    {
+        "start": 1830.0,
+        "end": 1831.0,
+        "text": " that was another, that was on my list."
+    },
+    {
+        "start": 1831.0,
+        "end": 1833.0,
+        "text": " But this one, she starts off that song."
+    },
+    {
+        "start": 1833.0,
+        "end": 1838.0,
+        "text": " It's that the lyric, as well as that kind of range and scroll."
+    },
+    {
+        "start": 1838.0,
+        "end": 1842.0,
+        "text": " And just the energy, because I don't think like, like,"
+    },
+    {
+        "start": 1842.0,
+        "end": 1845.0,
+        "text": " like Kurt Cobain of Arda, you know, it's not about having the best voices,"
+    },
+    {
+        "start": 1845.0,
+        "end": 1848.0,
+        "text": " it's about getting across, you know, what are you going to get across to people?"
+    },
+    {
+        "start": 1848.0,
+        "end": 1850.0,
+        "text": " What are you going to make people feel?"
+    },
+    {
+        "start": 1850.0,
+        "end": 1852.0,
+        "text": " And I think this song is really nasty."
+    },
+    {
+        "start": 1852.0,
+        "end": 1854.0,
+        "text": " It's the lyrics are, he was a big freak."
+    },
+    {
+        "start": 1854.0,
+        "end": 1857.0,
+        "text": " I used to whip him with my turquoise chain."
+    },
+    {
+        "start": 1857.0,
+        "end": 1861.0,
+        "text": " And it's just about all the stuff, her and sliced stone."
+    },
+    {
+        "start": 1861.0,
+        "end": 1863.0,
+        "text": " And then Miles Davis used to get up to it."
+    },
+    {
+        "start": 1863.0,
+        "end": 1866.0,
+        "text": " He was a big freak."
+    },
+    {
+        "start": 1867.0,
+        "end": 1869.0,
+        "text": " Ah!"
+    },
+    {
+        "start": 1869.0,
+        "end": 1872.0,
+        "text": " Still being a winter turquoise chain."
+    },
+    {
+        "start": 1873.0,
+        "end": 1875.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1882.0,
+        "end": 1885.0,
+        "text": " When was this woman?"
+    },
+    {
+        "start": 1885.0,
+        "end": 1891.0,
+        "text": " Serious question. Do you think Miles Davis stole Betty Davis just to see Vaughn's station?"
+    },
+    {
+        "start": 1891.0,
+        "end": 1893.0,
+        "text": " Rather than all the sex stuff."
+    },
+    {
+        "start": 1894.0,
+        "end": 1896.0,
+        "text": " That was Steve Davis."
+    },
+    {
+        "start": 1906.0,
+        "end": 1908.0,
+        "text": " Wow, like the four choices, well, blown the tracks."
+    },
+    {
+        "start": 1908.0,
+        "end": 1909.0,
+        "text": " I want it to be."
+    },
+    {
+        "start": 1909.0,
+        "end": 1912.0,
+        "text": " It was like, it was all, you all came from the heart with those, didn't you?"
+    },
+    {
+        "start": 1912.0,
+        "end": 1914.0,
+        "text": " But the image of Jimmy,"
+    },
+    {
+        "start": 1914.0,
+        "end": 1916.0,
+        "text": " sitting with a glass of white wine"
+    },
+    {
+        "start": 1916.0,
+        "end": 1918.0,
+        "text": " and a solitary armchair in the dark,"
+    },
+    {
+        "start": 1918.0,
+        "end": 1921.0,
+        "text": " listening to Whitney Houston's greatest hits."
+    },
+    {
+        "start": 1921.0,
+        "end": 1924.0,
+        "text": " It's just, it's just for me."
+    },
+    {
+        "start": 1924.0,
+        "end": 1926.0,
+        "text": " No."
+    },
+    {
+        "start": 1926.0,
+        "end": 1929.0,
+        "text": " Listen, I'm going to spring a little surprise on you here."
+    },
+    {
+        "start": 1929.0,
+        "end": 1931.0,
+        "text": " So far you've been masters of your own destiny."
+    },
+    {
+        "start": 1931.0,
+        "end": 1935.0,
+        "text": " But now I want you to relinquish control of your record collections."
+    },
+    {
+        "start": 1935.0,
+        "end": 1938.0,
+        "text": " Because of course, I like to sit, listen a bit of vinyl."
+    },
+    {
+        "start": 1938.0,
+        "end": 1941.0,
+        "text": " But I'd say like at least half of what I listen to is as I'm walking about."
+    },
+    {
+        "start": 1941.0,
+        "end": 1945.0,
+        "text": " It's all digital because I actually want to walk and down the street, when I'm in the car, whatever."
+    },
+    {
+        "start": 1945.0,
+        "end": 1949.0,
+        "text": " So I have a lead now and each of you will plug your phones into it and hit shuffle."
+    },
+    {
+        "start": 1949.0,
+        "end": 1953.0,
+        "text": " Whatever track plays, it will be played on the show."
+    },
+    {
+        "start": 1953.0,
+        "end": 1954.0,
+        "text": " It is out of our hands."
+    },
+    {
+        "start": 1954.0,
+        "end": 1956.0,
+        "text": " So if you spent money on dollar,"
+    },
+    {
+        "start": 1956.0,
+        "end": 1958.0,
+        "text": " if you splashed it on wet, wet, wet, wet,"
+    },
+    {
+        "start": 1958.0,
+        "end": 1960.0,
+        "text": " secretly, there is no fake in it."
+    },
+    {
+        "start": 1960.0,
+        "end": 1961.0,
+        "text": " We're going to find out."
+    },
+    {
+        "start": 1961.0,
+        "end": 1962.0,
+        "text": " Here is the lead."
+    },
+    {
+        "start": 1962.0,
+        "end": 1963.0,
+        "text": " Skin."
+    },
+    {
+        "start": 1963.0,
+        "end": 1964.0,
+        "text": " You got first."
+    },
+    {
+        "start": 1964.0,
+        "end": 1965.0,
+        "text": " I'm not first."
+    },
+    {
+        "start": 1965.0,
+        "end": 1966.0,
+        "text": " Oh, good."
+    },
+    {
+        "start": 1966.0,
+        "end": 1967.0,
+        "text": " Really?"
+    },
+    {
+        "start": 1967.0,
+        "end": 1969.0,
+        "text": " This is skunk and antsy."
+    },
+    {
+        "start": 1969.0,
+        "end": 1972.0,
+        "text": " That's a fix."
+    },
+    {
+        "start": 1972.0,
+        "end": 1974.0,
+        "text": " Hold on, hold on."
+    },
+    {
+        "start": 1974.0,
+        "end": 1975.0,
+        "text": " Okay."
+    },
+    {
+        "start": 1975.0,
+        "end": 1976.0,
+        "text": " Here we go."
+    },
+    {
+        "start": 1976.0,
+        "end": 1977.0,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 1977.0,
+        "end": 1978.0,
+        "text": " It's waiting."
+    },
+    {
+        "start": 1978.0,
+        "end": 1979.0,
+        "text": " You're going well."
+    },
+    {
+        "start": 1979.0,
+        "end": 1980.0,
+        "text": " Thank you very much, sir."
+    },
+    {
+        "start": 1980.0,
+        "end": 1981.0,
+        "text": " I'm dusting shoulders."
+    },
+    {
+        "start": 1981.0,
+        "end": 1982.0,
+        "text": " I'm dusting shoulders."
+    },
+    {
+        "start": 1982.0,
+        "end": 1983.0,
+        "text": " I think you know what?"
+    },
+    {
+        "start": 1983.0,
+        "end": 1985.0,
+        "text": " I'm glad you can continue with it for real."
+    },
+    {
+        "start": 1985.0,
+        "end": 1986.0,
+        "text": " That's the main thing."
+    },
+    {
+        "start": 1986.0,
+        "end": 1987.0,
+        "text": " Exactly."
+    },
+    {
+        "start": 1987.0,
+        "end": 1988.0,
+        "text": " Oh."
+    },
+    {
+        "start": 1988.0,
+        "end": 1991.0,
+        "text": " It's close because I've got tido in there, it's way."
+    },
+    {
+        "start": 1991.0,
+        "end": 1992.0,
+        "text": " Oh."
+    },
+    {
+        "start": 1992.0,
+        "end": 1993.0,
+        "text": " Oh."
+    },
+    {
+        "start": 1993.0,
+        "end": 1994.0,
+        "text": " You saw me standing alone."
+    },
+    {
+        "start": 1994.0,
+        "end": 1996.0,
+        "text": " Without a dream in my heart."
+    },
+    {
+        "start": 1996.0,
+        "end": 1998.0,
+        "text": " Without a dream in my heart."
+    },
+    {
+        "start": 1998.0,
+        "end": 1999.0,
+        "text": " Without a dream in my heart."
+    },
+    {
+        "start": 1999.0,
+        "end": 2000.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2000.0,
+        "end": 2001.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2001.0,
+        "end": 2002.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2002.0,
+        "end": 2003.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2003.0,
+        "end": 2004.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2004.0,
+        "end": 2005.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2005.0,
+        "end": 2006.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2006.0,
+        "end": 2007.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2007.0,
+        "end": 2008.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2008.0,
+        "end": 2009.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2009.0,
+        "end": 2010.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2010.0,
+        "end": 2011.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2011.0,
+        "end": 2012.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2012.0,
+        "end": 2013.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2013.0,
+        "end": 2014.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2014.0,
+        "end": 2015.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2015.0,
+        "end": 2016.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2016.0,
+        "end": 2017.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2017.0,
+        "end": 2018.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2018.0,
+        "end": 2019.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2019.0,
+        "end": 2020.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2020.0,
+        "end": 2021.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2021.0,
+        "end": 2022.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2022.0,
+        "end": 2023.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2023.0,
+        "end": 2024.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2024.0,
+        "end": 2025.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2025.0,
+        "end": 2026.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2026.0,
+        "end": 2027.0,
+        "text": " Hello."
+    },
+    {
+        "start": 2027.0,
+        "end": 2028.0,
+        "text": " This is a song by Harry Christopher."
+    },
+    {
+        "start": 2028.0,
+        "end": 2029.0,
+        "text": " And we just have to move on."
+    },
+    {
+        "start": 2029.0,
+        "end": 2030.0,
+        "text": " There's no ready cool involved."
+    },
+    {
+        "start": 2030.0,
+        "end": 2031.0,
+        "text": " Right."
+    },
+    {
+        "start": 2031.0,
+        "end": 2032.0,
+        "text": " Martin."
+    },
+    {
+        "start": 2032.0,
+        "end": 2033.0,
+        "text": " Okay."
+    },
+    {
+        "start": 2033.0,
+        "end": 2034.0,
+        "text": " I'm worried about this because I share an account with my kids."
+    },
+    {
+        "start": 2034.0,
+        "end": 2035.0,
+        "text": " Oh."
+    },
+    {
+        "start": 2035.0,
+        "end": 2036.0,
+        "text": " So,"
+    },
+    {
+        "start": 2036.0,
+        "end": 2037.0,
+        "text": " Miley Starrer says on here, there's all kind of stuff."
+    },
+    {
+        "start": 2037.0,
+        "end": 2043.0,
+        "text": " This is a blick mid-winter by the 16 conducted by Harry Christopher."
+    },
+    {
+        "start": 2043.0,
+        "end": 2044.0,
+        "text": " Wow."
+    },
+    {
+        "start": 2044.0,
+        "end": 2045.0,
+        "text": " Party of Miley!"
+    },
+    {
+        "start": 2045.0,
+        "end": 2046.0,
+        "text": " Where did you listen to that, then?"
+    },
+    {
+        "start": 2046.0,
+        "end": 2048.0,
+        "text": " At Christmas time."
+    },
+    {
+        "start": 2048.0,
+        "end": 2049.0,
+        "text": " At Christmas time."
+    },
+    {
+        "start": 2049.0,
+        "end": 2051.0,
+        "text": " I've had a friend in the house."
+    },
+    {
+        "start": 2051.0,
+        "end": 2053.0,
+        "text": " and he's like,"
+    },
+    {
+        "start": 2053.0,
+        "end": 2058.76,
+        "text": " Christmas time. I'm a skin. I'm Christmas time. When you hate eyeless and say,"
+    },
+    {
+        "start": 2058.76,
+        "end": 2066.36,
+        "text": " Halloween. Halloween. That was my least favourite, him's character. So would anything to sing at"
+    },
+    {
+        "start": 2066.36,
+        "end": 2073.04,
+        "text": " school assembly? I used to hate singing in the bleak. I was, I'm an ex-quire girl so I used"
+    },
+    {
+        "start": 2073.04,
+        "end": 2078.88,
+        "text": " to hate that one too. Oh thanks. Yeah, sorry darling, sorry. I liked it. I liked it."
+    },
+    {
+        "start": 2078.88,
+        "end": 2083.12,
+        "text": " Do you know what? If I could go back in time, it'd be my favourite female vocal of all time."
+    },
+    {
+        "start": 2083.12,
+        "end": 2091.12,
+        "text": " Right, there you go. Martin, fantastic. You made that round worth it. Jimmy."
+    },
+    {
+        "start": 2091.12,
+        "end": 2097.8,
+        "text": " Well, we know where we're going. Oh, there you go. Jimmy, you've done."
+    },
+    {
+        "start": 2097.8,
+        "end": 2101.56,
+        "text": " Oh, I've enjoyed yourself, mate. It doesn't win you rounds."
+    },
+    {
+        "start": 2101.56,
+        "end": 2108.4,
+        "text": " Oh, what a tune. What a tune. Jimmy, how much music do you have on your phone?"
+    },
+    {
+        "start": 2108.4,
+        "end": 2114.48,
+        "text": " Not much at all. I'm just specifically, I'm much. Not much at all. Just nothing really."
+    },
+    {
+        "start": 2114.48,
+        "end": 2118.48,
+        "text": " So was that the only track you have in there? It's the only album that I've paid for."
+    },
+    {
+        "start": 2118.48,
+        "end": 2124.12,
+        "text": " So you're sitting for any of this? I'm sitting for any of this."
+    },
+    {
+        "start": 2124.12,
+        "end": 2129.1600000000003,
+        "text": " So Jimmy is talking, just talking about talking to Edzoleon. I've just got back in to"
+    },
+    {
+        "start": 2129.1600000000003,
+        "end": 2134.6800000000003,
+        "text": " listen to him and it's amazing. Your mindset goes back to when you was listening to him"
+    },
+    {
+        "start": 2134.68,
+        "end": 2138.96,
+        "text": " and you just relived the times and I think there was an outstanding band."
+    },
+    {
+        "start": 2138.96,
+        "end": 2145.16,
+        "text": " We were on the road to nowhere, and come on inside."
+    },
+    {
+        "start": 2147.3999999999996,
+        "end": 2153.7999999999997,
+        "text": " Taken that ride to nowhere, we'll take that ride."
+    },
+    {
+        "start": 2156.2,
+        "end": 2159.6,
+        "text": " We're feeling okay this morning."
+    },
+    {
+        "start": 2160.6,
+        "end": 2165.48,
+        "text": " And you know, one of the amazing things that happened to me was I was asked to play myself"
+    },
+    {
+        "start": 2165.48,
+        "end": 2171.04,
+        "text": " in a movie called Mike Bassett, England Manager, which was this, you know, mockumentary soap"
+    },
+    {
+        "start": 2171.04,
+        "end": 2175.88,
+        "text": " about an England soccer manager. And the director of that movie, Steve Bannon, actually"
+    },
+    {
+        "start": 2175.88,
+        "end": 2182.72,
+        "text": " barrensery directed one of the talking head music videos. He was an absolute genius and brilliant."
+    },
+    {
+        "start": 2182.72,
+        "end": 2184.72,
+        "text": " Where is Steve Bannon?"
+    },
+    {
+        "start": 2184.72,
+        "end": 2189.72,
+        "text": " In short, different."
+    },
+    {
+        "start": 2189.72,
+        "end": 2193.72,
+        "text": " That's an anecdote, Steve Bannon, director of Mike Bassett, England."
+    },
+    {
+        "start": 2213.72,
+        "end": 2220.72,
+        "text": " Nice one, James. Talking heads. Road to nowhere. The first ever blood on the tracks,"
+    },
+    {
+        "start": 2220.72,
+        "end": 2226.72,
+        "text": " Martin Bischair, skin from Skunk and Ansey, Jimmy White and Josh Wereckham and Josh,"
+    },
+    {
+        "start": 2226.72,
+        "end": 2231.72,
+        "text": " it's your turn. Plug in, say nothing, hit shuffle."
+    },
+    {
+        "start": 2234.72,
+        "end": 2237.72,
+        "text": " Oh, delighted. That's the last song, is it?"
+    },
+    {
+        "start": 2237.72,
+        "end": 2239.72,
+        "text": " It is the end by the Beatles."
+    },
+    {
+        "start": 2239.72,
+        "end": 2242.72,
+        "text": " Do you know what? That's a bit like there. He thought of cars."
+    },
+    {
+        "start": 2242.72,
+        "end": 2246.72,
+        "text": " It is. It's a way to sleep here."
+    },
+    {
+        "start": 2246.72,
+        "end": 2249.72,
+        "text": " It's astonishing. My phone is better at this than I am."
+    },
+    {
+        "start": 2270.72,
+        "end": 2280.72,
+        "text": " Well, I said I don't know whether that ride worked, but I can't tell you at the end of it."
+    },
+    {
+        "start": 2280.72,
+        "end": 2284.72,
+        "text": " Martin Roode, pretty much any chance he has a win in the first ever blood on the tracks."
+    },
+    {
+        "start": 2284.72,
+        "end": 2289.72,
+        "text": " One more round to go, though, to save it, Bischair, and earn a place in today's final."
+    },
+    {
+        "start": 2289.72,
+        "end": 2292.72,
+        "text": " And here in blood on the tracks, I just want to throw up the usual question."
+    },
+    {
+        "start": 2292.72,
+        "end": 2296.72,
+        "text": " So just close your eyes and imagine that the whole world forms a circle."
+    },
+    {
+        "start": 2297.72,
+        "end": 2300.72,
+        "text": " Everyone is watching. You're the only one in the middle."
+    },
+    {
+        "start": 2300.72,
+        "end": 2305.72,
+        "text": " What track from your collection are you dancing to?"
+    },
+    {
+        "start": 2305.72,
+        "end": 2310.72,
+        "text": " Josh, this is your moment to put everything that's happened so far in this show behind you"
+    },
+    {
+        "start": 2310.72,
+        "end": 2315.72,
+        "text": " and deliver the Nina Simone of this ride, the answer that we all go, that's the song."
+    },
+    {
+        "start": 2315.72,
+        "end": 2317.72,
+        "text": " Correct. A Monday."
+    },
+    {
+        "start": 2317.72,
+        "end": 2320.72,
+        "text": " Right. It won't surprise you, so no, I'm not a dancer."
+    },
+    {
+        "start": 2320.72,
+        "end": 2325.72,
+        "text": " I hate it. However, I do know the moves to one song."
+    },
+    {
+        "start": 2325.72,
+        "end": 2328.72,
+        "text": " I don't know how this happened, but I've absorbed them over time."
+    },
+    {
+        "start": 2328.72,
+        "end": 2331.72,
+        "text": " I somehow know the moves to stop by the spice girls."
+    },
+    {
+        "start": 2331.72,
+        "end": 2334.72,
+        "text": " There are moves. There are moves. Of course there are moves. Stop."
+    },
+    {
+        "start": 2334.72,
+        "end": 2336.72,
+        "text": " I thought you were going to say the Macarena."
+    },
+    {
+        "start": 2336.72,
+        "end": 2339.72,
+        "text": " No, I don't know the Macarena. I'm not Anton DeBeck. Come on."
+    },
+    {
+        "start": 2339.72,
+        "end": 2344.72,
+        "text": " I'm not that level. Stop by the spice girls. Do you know what?"
+    },
+    {
+        "start": 2344.72,
+        "end": 2349.72,
+        "text": " I obviously at the time in the 90s, I was a teenager. I hated the spice girls."
+    },
+    {
+        "start": 2349.72,
+        "end": 2351.72,
+        "text": " I defined myself as against the spice girls."
+    },
+    {
+        "start": 2351.72,
+        "end": 2354.72,
+        "text": " A few weeks ago, I was bored and on Spotify."
+    },
+    {
+        "start": 2354.72,
+        "end": 2357.72,
+        "text": " We were recording the last leg. We recorded it on Friday night."
+    },
+    {
+        "start": 2357.72,
+        "end": 2361.72,
+        "text": " There's a lot of downtime. So I sat with Matthew and Tommy were right with."
+    },
+    {
+        "start": 2361.72,
+        "end": 2365.72,
+        "text": " And we decided to listen to all of the spice girls singles in chronological order."
+    },
+    {
+        "start": 2365.72,
+        "end": 2367.72,
+        "text": " Absolute bangers. Every single one of them."
+    },
+    {
+        "start": 2367.72,
+        "end": 2371.72,
+        "text": " They're great pop songs with the exception of Mama, which is a bit weird."
+    },
+    {
+        "start": 2371.72,
+        "end": 2374.72,
+        "text": " But they're absolutely... Who wants to be best friends with their mom?"
+    },
+    {
+        "start": 2374.72,
+        "end": 2376.72,
+        "text": " Grow up. Now, like..."
+    },
+    {
+        "start": 2376.72,
+        "end": 2379.72,
+        "text": " They're absolutely brilliant. And I'd say to stop is their best single."
+    },
+    {
+        "start": 2379.72,
+        "end": 2383.72,
+        "text": " And it's the one song I feel I could confidently dance to without hating myself."
+    },
+    {
+        "start": 2383.72,
+        "end": 2385.72,
+        "text": " What would the 14-year-old Josh Whitaker say to you?"
+    },
+    {
+        "start": 2385.72,
+        "end": 2387.72,
+        "text": " You would hate me. You think I'd lost my edge."
+    },
+    {
+        "start": 2410.72,
+        "end": 2412.72,
+        "text": " Hey you, always on the run."
+    },
+    {
+        "start": 2412.72,
+        "end": 2416.72,
+        "text": " Gotta slow it down, baby, gotta have some fun."
+    },
+    {
+        "start": 2416.72,
+        "end": 2419.72,
+        "text": " Why do you know them as well, Martin?"
+    },
+    {
+        "start": 2419.72,
+        "end": 2421.72,
+        "text": " I don't. I taught them. I'm a pool."
+    },
+    {
+        "start": 2421.72,
+        "end": 2423.72,
+        "text": " I used to do the moves. What the hell is going on in this room?"
+    },
+    {
+        "start": 2423.72,
+        "end": 2424.72,
+        "text": " That was embarrassing."
+    },
+    {
+        "start": 2424.72,
+        "end": 2427.72,
+        "text": " Do you know what I'm saying, you're dancing, but there was three of you at the time."
+    },
+    {
+        "start": 2427.72,
+        "end": 2433.72,
+        "text": " So I can't remember. So I'm intrigued to know what makes you cut some rug."
+    },
+    {
+        "start": 2433.72,
+        "end": 2437.72,
+        "text": " Okay, mine is because it was a great song at the time."
+    },
+    {
+        "start": 2437.72,
+        "end": 2439.72,
+        "text": " Everyone used to get up on the floor and it was..."
+    },
+    {
+        "start": 2439.72,
+        "end": 2443.72,
+        "text": " I remember everyone, all the family and that, whenever this song come up,"
+    },
+    {
+        "start": 2443.72,
+        "end": 2446.72,
+        "text": " everyone got on the grannies, everyone got on the drums."
+    },
+    {
+        "start": 2446.72,
+        "end": 2448.72,
+        "text": " Yeah, it was like..."
+    },
+    {
+        "start": 2448.72,
+        "end": 2450.72,
+        "text": " And my mom really loved the tune as well."
+    },
+    {
+        "start": 2450.72,
+        "end": 2452.72,
+        "text": " So, thanks for a reminder there."
+    },
+    {
+        "start": 2452.72,
+        "end": 2457.72,
+        "text": " It's great to be a reminder. Yeah, it was a sort of a song which got everyone in a good mood."
+    },
+    {
+        "start": 2467.72,
+        "end": 2486.72,
+        "text": " I'm seeing you jamming in like bell bottoms or maybe just like that."
+    },
+    {
+        "start": 2486.72,
+        "end": 2488.72,
+        "text": " No, that's the 70s. We're not that cool."
+    },
+    {
+        "start": 2488.72,
+        "end": 2490.72,
+        "text": " Where are we going with this? The 80s."
+    },
+    {
+        "start": 2490.72,
+        "end": 2491.72,
+        "text": " The drain pipe."
+    },
+    {
+        "start": 2491.72,
+        "end": 2498.72,
+        "text": " Ain't no stopping us now. We're on the move."
+    },
+    {
+        "start": 2498.72,
+        "end": 2505.72,
+        "text": " Ain't no stopping us now. We got the groove."
+    },
+    {
+        "start": 2505.72,
+        "end": 2509.72,
+        "text": " Harold Melvin and the Blue Notes ain't no stopping us now."
+    },
+    {
+        "start": 2509.72,
+        "end": 2513.72,
+        "text": " I track the Jimmy White and every granny loves the dance too."
+    },
+    {
+        "start": 2513.72,
+        "end": 2517.72,
+        "text": " But now it looks like things are finally coming around."
+    },
+    {
+        "start": 2517.72,
+        "end": 2521.72,
+        "text": " I know we've got a long, long way to go."
+    },
+    {
+        "start": 2521.72,
+        "end": 2525.72,
+        "text": " And where we're in double, I don't know."
+    },
+    {
+        "start": 2525.72,
+        "end": 2529.72,
+        "text": " But we won't let nothing hold us back."
+    },
+    {
+        "start": 2529.72,
+        "end": 2534.72,
+        "text": " We want to put ourselves together, gonna polish up our land."
+    },
+    {
+        "start": 2534.72,
+        "end": 2537.72,
+        "text": " Okay, Skin, take me to the dance floor of the world who's watching."
+    },
+    {
+        "start": 2537.72,
+        "end": 2539.72,
+        "text": " This for me is an absolute no-brainer."
+    },
+    {
+        "start": 2539.72,
+        "end": 2543.72,
+        "text": " It's just one of the songs that many of you are watching."
+    },
+    {
+        "start": 2543.72,
+        "end": 2545.72,
+        "text": " There's this one, we're jamming."
+    },
+    {
+        "start": 2545.72,
+        "end": 2547.72,
+        "text": " Everybody butthons by Sheik."
+    },
+    {
+        "start": 2547.72,
+        "end": 2549.72,
+        "text": " Starts the bass line."
+    },
+    {
+        "start": 2549.72,
+        "end": 2551.72,
+        "text": " Do do do do do do do do do."
+    },
+    {
+        "start": 2551.72,
+        "end": 2555.72,
+        "text": " The minute you do that, you see the hip start going and the shoulder start going."
+    },
+    {
+        "start": 2555.72,
+        "end": 2562.72,
+        "text": " Are an Injisonized cases moved to the back of the world?"
+    },
+    {
+        "start": 2562.72,
+        "end": 2565.72,
+        "text": " Because you're like, oh, it's a party point."
+    },
+    {
+        "start": 2565.72,
+        "end": 2569.72,
+        "text": " It's so funny, a dancer's head is yes, or brilliant."
+    },
+    {
+        "start": 2569.72,
+        "end": 2573.72,
+        "text": " People like Josh and I go, someone's gonna ask me to dance."
+    },
+    {
+        "start": 2573.72,
+        "end": 2577.72,
+        "text": " Like any big dance track you're like, move away from the dance floor."
+    },
+    {
+        "start": 2577.72,
+        "end": 2581.72,
+        "text": " Is it true? Is it a right tempo bass line?"
+    },
+    {
+        "start": 2581.72,
+        "end": 2583.72,
+        "text": " It's just geniuses song."
+    },
+    {
+        "start": 2595.72,
+        "end": 2599.72,
+        "text": " Everybody dance."
+    },
+    {
+        "start": 2599.72,
+        "end": 2603.72,
+        "text": " Do do do do do do."
+    },
+    {
+        "start": 2603.72,
+        "end": 2605.72,
+        "text": " Everybody dance."
+    },
+    {
+        "start": 2605.72,
+        "end": 2609.72,
+        "text": " Do do do do do do."
+    },
+    {
+        "start": 2609.72,
+        "end": 2611.72,
+        "text": " Everybody dance."
+    },
+    {
+        "start": 2611.72,
+        "end": 2613.72,
+        "text": " Yeah, great song."
+    },
+    {
+        "start": 2613.72,
+        "end": 2615.72,
+        "text": " Brilliant song."
+    },
+    {
+        "start": 2615.72,
+        "end": 2616.72,
+        "text": " Wow."
+    },
+    {
+        "start": 2616.72,
+        "end": 2618.72,
+        "text": " No, Rogers."
+    },
+    {
+        "start": 2618.72,
+        "end": 2622.72,
+        "text": " Do do do do do do do."
+    },
+    {
+        "start": 2622.72,
+        "end": 2624.72,
+        "text": " Everybody dance."
+    },
+    {
+        "start": 2624.72,
+        "end": 2627.72,
+        "text": " Do do do do do do do do do."
+    },
+    {
+        "start": 2627.72,
+        "end": 2630.72,
+        "text": " I know, it makes me nervous."
+    },
+    {
+        "start": 2630.72,
+        "end": 2632.72,
+        "text": " What? Dance single disco?"
+    },
+    {
+        "start": 2632.72,
+        "end": 2633.72,
+        "text": " Dance like."
+    },
+    {
+        "start": 2633.72,
+        "end": 2634.72,
+        "text": " Oh, I can't."
+    },
+    {
+        "start": 2634.72,
+        "end": 2637.72,
+        "text": " I can enjoy it in a static manner."
+    },
+    {
+        "start": 2637.72,
+        "end": 2639.72,
+        "text": " What?"
+    },
+    {
+        "start": 2639.72,
+        "end": 2642.72,
+        "text": " Yeah."
+    },
+    {
+        "start": 2642.72,
+        "end": 2644.72,
+        "text": " Great track."
+    },
+    {
+        "start": 2644.72,
+        "end": 2648.72,
+        "text": " Listen to those dancing feet, close your eyes."
+    },
+    {
+        "start": 2648.72,
+        "end": 2650.72,
+        "text": " And let go."
+    },
+    {
+        "start": 2650.72,
+        "end": 2652.72,
+        "text": " But it's don't mean a thing."
+    },
+    {
+        "start": 2652.72,
+        "end": 2655.72,
+        "text": " Yeah, but ain't got that swing."
+    },
+    {
+        "start": 2655.72,
+        "end": 2657.72,
+        "text": " I'm sure."
+    },
+    {
+        "start": 2657.72,
+        "end": 2659.72,
+        "text": " I'm sure."
+    },
+    {
+        "start": 2659.72,
+        "end": 2662.72,
+        "text": " Everybody dance."
+    },
+    {
+        "start": 2662.72,
+        "end": 2664.72,
+        "text": " Do do do do do do do do do do."
+    },
+    {
+        "start": 2664.72,
+        "end": 2668.72,
+        "text": " Everybody dance."
+    },
+    {
+        "start": 2668.72,
+        "end": 2671.72,
+        "text": " Do do do do do do do do do do."
+    },
+    {
+        "start": 2671.72,
+        "end": 2673.72,
+        "text": " Martin."
+    },
+    {
+        "start": 2673.72,
+        "end": 2676.72,
+        "text": " Jimmy and I went to the same nightclubs I've just discovered."
+    },
+    {
+        "start": 2676.72,
+        "end": 2682.72,
+        "text": " And I remember dancing on my own to a fantastic track by Roy Ayers called Running Away."
+    },
+    {
+        "start": 2682.72,
+        "end": 2686.72,
+        "text": " Roy Ayers ubiquity and he played the vibes and it was an amazing track."
+    },
+    {
+        "start": 2686.72,
+        "end": 2692.72,
+        "text": " But a few years ago my wife contracted cancer and then suffered a very serious liver injury following medication."
+    },
+    {
+        "start": 2692.72,
+        "end": 2697.72,
+        "text": " And we always loved the song Have I Told You Lately by Van Morrison."
+    },
+    {
+        "start": 2697.72,
+        "end": 2702.72,
+        "text": " And if I had to dance again because of what we've been through and we'll be married"
+    },
+    {
+        "start": 2702.72,
+        "end": 2709.72,
+        "text": " for 32 years next year then it will be to dance with my Deborah to that song by Van the Man Have I Told You Lately."
+    },
+    {
+        "start": 2709.72,
+        "end": 2718.72,
+        "text": " And how could I be a stickler to the rules after that and only have one person in the middle when you're just saying you just want to take her hand and dance to this."
+    },
+    {
+        "start": 2718.72,
+        "end": 2721.72,
+        "text": " Let's see."
+    },
+    {
+        "start": 2721.72,
+        "end": 2728.72,
+        "text": " Have I told you lately that I told you."
+    },
+    {
+        "start": 2728.72,
+        "end": 2735.72,
+        "text": " Have I told you there's no wonder of you."
+    },
+    {
+        "start": 2735.72,
+        "end": 2739.72,
+        "text": " Tell my husband's badness."
+    },
+    {
+        "start": 2739.72,
+        "end": 2748.72,
+        "text": " If I wear my shirt and all these things, he's my troubles. That's what you do."
+    },
+    {
+        "start": 2749.72,
+        "end": 2752.72,
+        "text": " Well that track is stun and stun and track."
+    },
+    {
+        "start": 2752.72,
+        "end": 2759.72,
+        "text": " I've listened to the third time I heard that track in 15 years because I heard it the moment my grandfather died and I can't listen to it."
+    },
+    {
+        "start": 2759.72,
+        "end": 2762.72,
+        "text": " So we showed that track."
+    },
+    {
+        "start": 2762.72,
+        "end": 2765.72,
+        "text": " Yeah I took their phones off."
+    },
+    {
+        "start": 2765.72,
+        "end": 2769.72,
+        "text": " And it was such a beautiful story to go with it for the end of that round."
+    },
+    {
+        "start": 2769.72,
+        "end": 2774.72,
+        "text": " But your dance moves Josh to spice go."
+    },
+    {
+        "start": 2774.72,
+        "end": 2777.72,
+        "text": " Yeah."
+    },
+    {
+        "start": 2777.72,
+        "end": 2780.72,
+        "text": " Okay."
+    },
+    {
+        "start": 2780.72,
+        "end": 2783.72,
+        "text": " I was going to work now."
+    },
+    {
+        "start": 2783.72,
+        "end": 2792.72,
+        "text": " I've deliberated for about two seconds to pick two of you to go into the final round of blood on the tracks where you'll compete for the title of the first ever winner of blood on the tracks."
+    },
+    {
+        "start": 2792.72,
+        "end": 2795.72,
+        "text": " But I think it's a very emotional thing."
+    },
+    {
+        "start": 2795.72,
+        "end": 2798.72,
+        "text": " The winner will also be given as a present."
+    },
+    {
+        "start": 2798.72,
+        "end": 2801.72,
+        "text": " Which is always a very personal thing to do."
+    },
+    {
+        "start": 2801.72,
+        "end": 2804.72,
+        "text": " So two are going to be into the final round."
+    },
+    {
+        "start": 2804.72,
+        "end": 2811.72,
+        "text": " But in a cruel twist the other two will become part of my three-man jury to choose who wins today's blood in the track."
+    },
+    {
+        "start": 2811.72,
+        "end": 2818.72,
+        "text": " So if you've been slagging off someone else's music, if you've been picking at someone it's going to be pay back time right here."
+    },
+    {
+        "start": 2818.72,
+        "end": 2819.72,
+        "text": " Win-win."
+    },
+    {
+        "start": 2819.72,
+        "end": 2821.72,
+        "text": " Okay it's skin in the final for sure."
+    },
+    {
+        "start": 2821.72,
+        "end": 2825.72,
+        "text": " For common people, for chic, for need someone."
+    },
+    {
+        "start": 2825.72,
+        "end": 2827.72,
+        "text": " For need someone."
+    },
+    {
+        "start": 2827.72,
+        "end": 2829.72,
+        "text": " I never would have anything."
+    },
+    {
+        "start": 2829.72,
+        "end": 2835.72,
+        "text": " Betty Davis made me feel a bit like Steve Davis, but apart from that I can't fault you and even get through the shuffle rinds."
+    },
+    {
+        "start": 2835.72,
+        "end": 2838.72,
+        "text": " So then it's one from the chaff."
+    },
+    {
+        "start": 2838.72,
+        "end": 2845.72,
+        "text": " Josh you came back strongly, but you never recovered from a thought of cars you sort of thought a little bit more about that choice."
+    },
+    {
+        "start": 2845.72,
+        "end": 2847.72,
+        "text": " Martin you were amazing."
+    },
+    {
+        "start": 2847.72,
+        "end": 2852.72,
+        "text": " A touch and touch and story in the last round, but you were undone by the shuffle mate."
+    },
+    {
+        "start": 2852.72,
+        "end": 2855.72,
+        "text": " We want to have a Monica McCooler show, right?"
+    },
+    {
+        "start": 2855.72,
+        "end": 2857.72,
+        "text": " I never got to recover from that."
+    },
+    {
+        "start": 2857.72,
+        "end": 2863.72,
+        "text": " We've given the winner to the BBC religious first editor who played in the bleak mid-winter."
+    },
+    {
+        "start": 2863.72,
+        "end": 2864.72,
+        "text": " That's not going to happen."
+    },
+    {
+        "start": 2864.72,
+        "end": 2866.72,
+        "text": " So don't be too pleased yourself, Jamie."
+    },
+    {
+        "start": 2866.72,
+        "end": 2869.72,
+        "text": " By default, you and Whitney are into the final round."
+    },
+    {
+        "start": 2869.72,
+        "end": 2871.72,
+        "text": " I'm going to be in the final round."
+    },
+    {
+        "start": 2871.72,
+        "end": 2875.72,
+        "text": " Josh, Martin and I will now judge you on the final question."
+    },
+    {
+        "start": 2875.72,
+        "end": 2877.72,
+        "text": " It's the first ever blood in the tracks."
+    },
+    {
+        "start": 2877.72,
+        "end": 2883.72,
+        "text": " So we want the best 30 seconds to an open and track on an album ever."
+    },
+    {
+        "start": 2883.72,
+        "end": 2885.72,
+        "text": " Jamie, you're first."
+    },
+    {
+        "start": 2885.72,
+        "end": 2886.72,
+        "text": " Okay."
+    },
+    {
+        "start": 2886.72,
+        "end": 2889.72,
+        "text": " I don't have his headphones on that."
+    },
+    {
+        "start": 2889.72,
+        "end": 2890.72,
+        "text": " Okay."
+    },
+    {
+        "start": 2890.72,
+        "end": 2891.72,
+        "text": " Steele will is the album."
+    },
+    {
+        "start": 2891.72,
+        "end": 2892.72,
+        "text": " I was very lucky."
+    },
+    {
+        "start": 2892.72,
+        "end": 2894.72,
+        "text": " I was hanging out of Ronnie Wood at the time."
+    },
+    {
+        "start": 2894.72,
+        "end": 2897.72,
+        "text": " I'm still had to keep dropping his name, but he is a bit of a music god."
+    },
+    {
+        "start": 2897.72,
+        "end": 2903.72,
+        "text": " And it was in cue and they was making the album called Steele wills."
+    },
+    {
+        "start": 2903.72,
+        "end": 2909.72,
+        "text": " And lucky, I've made the T for four or five days with a guy called Tony Mio."
+    },
+    {
+        "start": 2909.72,
+        "end": 2914.72,
+        "text": " And we watched these guys, you know, perfectionists coming in at different times,"
+    },
+    {
+        "start": 2914.72,
+        "end": 2919.72,
+        "text": " doing the guitar bit, Mick coming and doing these singing."
+    },
+    {
+        "start": 2919.72,
+        "end": 2924.72,
+        "text": " And you know, at the time, I didn't think too much of it, but as life's gone on,"
+    },
+    {
+        "start": 2924.72,
+        "end": 2928.72,
+        "text": " I blessed and how lucky I was to witness a stone's album being made."
+    },
+    {
+        "start": 2928.72,
+        "end": 2929.72,
+        "text": " A kid from two, ten."
+    },
+    {
+        "start": 2929.72,
+        "end": 2930.72,
+        "text": " Where might I come from?"
+    },
+    {
+        "start": 2931.72,
+        "end": 2933.72,
+        "text": " Stop trying to curry favor with the judge."
+    },
+    {
+        "start": 2933.72,
+        "end": 2936.72,
+        "text": " Straighten in, he's just moved up already by the way."
+    },
+    {
+        "start": 2936.72,
+        "end": 2937.72,
+        "text": " No, no, no."
+    },
+    {
+        "start": 2937.72,
+        "end": 2939.72,
+        "text": " Don't trust him as far as you can throw him."
+    },
+    {
+        "start": 2939.72,
+        "end": 2942.72,
+        "text": " But you know, so, then just so bizarre, I can't get my head round that."
+    },
+    {
+        "start": 2942.72,
+        "end": 2944.72,
+        "text": " Because then I'm going to track sad, sad, sad."
+    },
+    {
+        "start": 2944.72,
+        "end": 2946.72,
+        "text": " And I was thinking, well, why would you pick that?"
+    },
+    {
+        "start": 2946.72,
+        "end": 2950.72,
+        "text": " My head I was thinking, open and tracks of albums by the Rolling Stones,"
+    },
+    {
+        "start": 2950.72,
+        "end": 2953.72,
+        "text": " simply for the devil, brown sugar."
+    },
+    {
+        "start": 2953.72,
+        "end": 2954.72,
+        "text": " Right?"
+    },
+    {
+        "start": 2954.72,
+        "end": 2957.72,
+        "text": " That could be, but you see, he didn't make the tea in those records."
+    },
+    {
+        "start": 2957.72,
+        "end": 2959.72,
+        "text": " So for me, that's a home run."
+    },
+    {
+        "start": 2988.72,
+        "end": 2992.72,
+        "text": " I've got my head now, Mick Jai goes, just pouring his soul out,"
+    },
+    {
+        "start": 2992.72,
+        "end": 2994.72,
+        "text": " putting down another Rolling Stones lyric."
+    },
+    {
+        "start": 2994.72,
+        "end": 2997.72,
+        "text": " And then Jimmy White and Tony Mayo, sugar?"
+    },
+    {
+        "start": 2997.72,
+        "end": 3003.72,
+        "text": " Brown, milk or cream, Mick, milk or cream, bright sugar or fricking."
+    },
+    {
+        "start": 3003.72,
+        "end": 3007.72,
+        "text": " Right, see, this story's with it, and that's what he's done there."
+    },
+    {
+        "start": 3007.72,
+        "end": 3009.72,
+        "text": " I know, I know, I was supposed to put it back."
+    },
+    {
+        "start": 3009.72,
+        "end": 3012.72,
+        "text": " I don't want to involve in the record."
+    },
+    {
+        "start": 3012.72,
+        "end": 3016.72,
+        "text": " I'm not a legendary moment, is that?"
+    },
+    {
+        "start": 3016.72,
+        "end": 3019.72,
+        "text": " Gosh, my moment, my moment."
+    },
+    {
+        "start": 3019.72,
+        "end": 3023.72,
+        "text": " Do you know when this track came out, you know, it was in London,"
+    },
+    {
+        "start": 3023.72,
+        "end": 3027.72,
+        "text": " we were rehearsing in this place, that was one by a Nazi long story."
+    },
+    {
+        "start": 3027.72,
+        "end": 3029.72,
+        "text": " And we've got time."
+    },
+    {
+        "start": 3029.72,
+        "end": 3034.72,
+        "text": " This song just came out, and it just obliterated everything else."
+    },
+    {
+        "start": 3034.72,
+        "end": 3037.72,
+        "text": " Before that, it was this overblown, cockroach, cockroach music,"
+    },
+    {
+        "start": 3037.72,
+        "end": 3039.72,
+        "text": " you know, spandax, hairspray."
+    },
+    {
+        "start": 3039.72,
+        "end": 3043.72,
+        "text": " And I think it was one of the quickest, kind of moments in history,"
+    },
+    {
+        "start": 3043.72,
+        "end": 3047.72,
+        "text": " musical history where you see one chain from one genre of music to another,"
+    },
+    {
+        "start": 3047.72,
+        "end": 3051.72,
+        "text": " was when this came out, the first few bars of this song,"
+    },
+    {
+        "start": 3051.72,
+        "end": 3054.72,
+        "text": " just obliterated everything else that was gone before it."
+    },
+    {
+        "start": 3073.72,
+        "end": 3080.72,
+        "text": " That's a were-were you moment, the first time you ever heard that."
+    },
+    {
+        "start": 3080.72,
+        "end": 3093.72,
+        "text": " Could you imagine sitting in a room and doing your track list in for an album and going,"
+    },
+    {
+        "start": 3093.72,
+        "end": 3096.72,
+        "text": " do you know what we should do? Let's put that first."
+    },
+    {
+        "start": 3096.72,
+        "end": 3101.72,
+        "text": " That's what blows me away about the fact that it smells like things for it was the first track I never mind."
+    },
+    {
+        "start": 3101.72,
+        "end": 3130.72,
+        "text": " I remember where I was, Blerey I,"
+    },
+    {
+        "start": 3130.72,
+        "end": 3133.72,
+        "text": " the first time I was in the music,"
+    },
+    {
+        "start": 3133.72,
+        "end": 3163.72,
+        "text": " I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I was like, I"
+    },
+    {
+        "start": 3163.72,
+        "end": 3172.3199999999997,
+        "text": " was like, I was like, I was like, I was like, I'd go, I would go for stay.\u660e\u767d? notice that notice just now, it was like using my Instagram and then telling me your last name. Just because of how I want it all right?"
+    },
+    {
+        "start": 3172.3199999999997,
+        "end": 3193.5,
+        "text": "orderJesus \u0361"
+    },
+    {
+        "start": 3193.5,
+        "end": 3205.86,
+        "text": " Let me refer tonight to the jury of Josh Whitdickham and Martin Bessier."
+    },
+    {
+        "start": 3205.86,
+        "end": 3211.54,
+        "text": " Oh, I don't want to be responsible for Jimmy White losing another final."
+    },
+    {
+        "start": 3211.54,
+        "end": 3212.54,
+        "text": " But..."
+    },
+    {
+        "start": 3212.54,
+        "end": 3216.1,
+        "text": " Oh, I'm just feeling fantastic."
+    },
+    {
+        "start": 3216.1,
+        "end": 3217.1,
+        "text": " So..."
+    },
+    {
+        "start": 3217.1,
+        "end": 3219.1,
+        "text": " That was horrible."
+    },
+    {
+        "start": 3219.1,
+        "end": 3221.1,
+        "text": " So I'm going to go with Jimmy White."
+    },
+    {
+        "start": 3221.1,
+        "end": 3222.1,
+        "text": " Oh, oh."
+    },
+    {
+        "start": 3222.1,
+        "end": 3224.1,
+        "text": " Oh, thank you."
+    },
+    {
+        "start": 3224.1,
+        "end": 3226.1,
+        "text": " Well, it's a three-man jury."
+    },
+    {
+        "start": 3226.1,
+        "end": 3227.1,
+        "text": " Okay, well, listen, quick..."
+    },
+    {
+        "start": 3227.1,
+        "end": 3229.1,
+        "text": " I'm not sure at the moment."
+    },
+    {
+        "start": 3229.1,
+        "end": 3232.1,
+        "text": " Skyn, did you make Kirk Abin T when he was recording it?"
+    },
+    {
+        "start": 3232.1,
+        "end": 3233.1,
+        "text": " Um..."
+    },
+    {
+        "start": 3233.1,
+        "end": 3234.1,
+        "text": " Um..."
+    },
+    {
+        "start": 3234.1,
+        "end": 3235.1,
+        "text": " He would know I didn't see."
+    },
+    {
+        "start": 3235.1,
+        "end": 3236.1,
+        "text": " Yeah, exactly."
+    },
+    {
+        "start": 3236.1,
+        "end": 3237.1,
+        "text": " I didn't."
+    },
+    {
+        "start": 3237.1,
+        "end": 3246.1,
+        "text": " I have to say, with this round and going through open and tracks of an album, I didn't find much better than that."
+    },
+    {
+        "start": 3246.1,
+        "end": 3248.1,
+        "text": " So I think it..."
+    },
+    {
+        "start": 3248.1,
+        "end": 3251.1,
+        "text": " Arguably in the top five answers you could give."
+    },
+    {
+        "start": 3251.1,
+        "end": 3256.1,
+        "text": " So Skyn gets my vote, which means Martin Bessier, you decide the winner."
+    },
+    {
+        "start": 3256.1,
+        "end": 3257.1,
+        "text": " This one's just..."
+    },
+    {
+        "start": 3257.1,
+        "end": 3258.1,
+        "text": " Oh, I planned it."
+    },
+    {
+        "start": 3258.1,
+        "end": 3259.1,
+        "text": " Let me..."
+    },
+    {
+        "start": 3259.1,
+        "end": 3260.1,
+        "text": " Don't even get where you've got it."
+    },
+    {
+        "start": 3260.1,
+        "end": 3262.1,
+        "text": " Did I tell you about she from Brixton?"
+    },
+    {
+        "start": 3262.1,
+        "end": 3266.1,
+        "text": " Remember the look of the scene she gave you when you said Boo Radley's."
+    },
+    {
+        "start": 3266.1,
+        "end": 3267.1,
+        "text": " It's a rembourshi."
+    },
+    {
+        "start": 3267.1,
+        "end": 3269.1,
+        "text": " She looked at you like you were scum."
+    },
+    {
+        "start": 3269.1,
+        "end": 3276.1,
+        "text": " It's really difficult because from a music point of view, and as Skyn says, the impact of that track,"
+    },
+    {
+        "start": 3276.1,
+        "end": 3281.1,
+        "text": " just had ripples at every level, both musically, culturally, dress everything."
+    },
+    {
+        "start": 3281.1,
+        "end": 3284.1,
+        "text": " So one could say that was more influential."
+    },
+    {
+        "start": 3284.1,
+        "end": 3291.1,
+        "text": " But what I'm tickled by and can't get over is Jimmy White talking about it in such a nonchalant manner,"
+    },
+    {
+        "start": 3291.1,
+        "end": 3297.1,
+        "text": " as if, you know, yeah, when an armadem's empty, and then we played a bit of snooker,"
+    },
+    {
+        "start": 3297.1,
+        "end": 3304.1,
+        "text": " and it's like, hang on a minute, you're in the studio with Ronnie Wood, with Keith Richard, with Mick."
+    },
+    {
+        "start": 3305.1,
+        "end": 3307.1,
+        "text": " So I'm afraid..."
+    },
+    {
+        "start": 3307.1,
+        "end": 3310.1,
+        "text": " Yours is better than his, but his story's better than you."
+    },
+    {
+        "start": 3310.1,
+        "end": 3313.1,
+        "text": " Yeah, you never get over the Boo Radley's."
+    },
+    {
+        "start": 3313.1,
+        "end": 3314.1,
+        "text": " I did it."
+    },
+    {
+        "start": 3314.1,
+        "end": 3316.1,
+        "text": " You're for reminding him."
+    },
+    {
+        "start": 3316.1,
+        "end": 3319.1,
+        "text": " Martin Bissier, the winner of the first ever Blunder Tracks is..."
+    },
+    {
+        "start": 3319.1,
+        "end": 3321.1,
+        "text": " It's Skyn."
+    },
+    {
+        "start": 3321.1,
+        "end": 3322.1,
+        "text": " Yes!"
+    },
+    {
+        "start": 3322.1,
+        "end": 3325.1,
+        "text": " Thank you very much."
+    },
+    {
+        "start": 3325.1,
+        "end": 3326.1,
+        "text": " Thank you very much."
+    },
+    {
+        "start": 3326.1,
+        "end": 3327.1,
+        "text": " Thank you very much."
+    },
+    {
+        "start": 3327.1,
+        "end": 3328.1,
+        "text": " You drink all around."
+    },
+    {
+        "start": 3328.1,
+        "end": 3332.1,
+        "text": " You get to choose the last track of the show, which we will play in for,"
+    },
+    {
+        "start": 3332.1,
+        "end": 3335.1,
+        "text": " except for in the podcast, because we get sued."
+    },
+    {
+        "start": 3335.1,
+        "end": 3337.1,
+        "text": " You also get a bit of vinyl from my collection."
+    },
+    {
+        "start": 3337.1,
+        "end": 3338.1,
+        "text": " Oh, thank you very much, darling."
+    },
+    {
+        "start": 3338.1,
+        "end": 3339.1,
+        "text": " And there it is."
+    },
+    {
+        "start": 3339.1,
+        "end": 3340.1,
+        "text": " Can I look and see what it is?"
+    },
+    {
+        "start": 3340.1,
+        "end": 3341.1,
+        "text": " Absolutely."
+    },
+    {
+        "start": 3341.1,
+        "end": 3342.1,
+        "text": " All right."
+    },
+    {
+        "start": 3342.1,
+        "end": 3343.1,
+        "text": " It's a nice M&S bag."
+    },
+    {
+        "start": 3343.1,
+        "end": 3344.1,
+        "text": " It is."
+    },
+    {
+        "start": 3344.1,
+        "end": 3345.1,
+        "text": " Ooh."
+    },
+    {
+        "start": 3345.1,
+        "end": 3346.1,
+        "text": " Ah!"
+    },
+    {
+        "start": 3346.1,
+        "end": 3348.1,
+        "text": " Chasin' Day's greatest hit."
+    },
+    {
+        "start": 3348.1,
+        "end": 3349.1,
+        "text": " Come on. Wow."
+    },
+    {
+        "start": 3349.1,
+        "end": 3350.1,
+        "text": " Look at that."
+    },
+    {
+        "start": 3350.1,
+        "end": 3351.1,
+        "text": " Right? They're all on there."
+    },
+    {
+        "start": 3351.1,
+        "end": 3353.1,
+        "text": " Is it obvious to say I haven't actually got this one."
+    },
+    {
+        "start": 3353.1,
+        "end": 3355.1,
+        "text": " Yeah."
+    },
+    {
+        "start": 3355.1,
+        "end": 3357.1,
+        "text": " Double album as well with the wall of lyrics."
+    },
+    {
+        "start": 3357.1,
+        "end": 3358.1,
+        "text": " Yeah."
+    },
+    {
+        "start": 3358.1,
+        "end": 3360.1,
+        "text": " It's got the lyrics in it getting full."
+    },
+    {
+        "start": 3360.1,
+        "end": 3361.1,
+        "text": " Do you know what?"
+    },
+    {
+        "start": 3361.1,
+        "end": 3363.1,
+        "text": " When I was pulling it out, I thought it was Parliament Funkadelic."
+    },
+    {
+        "start": 3363.1,
+        "end": 3364.1,
+        "text": " I did."
+    },
+    {
+        "start": 3364.1,
+        "end": 3365.1,
+        "text": " Sorry, man."
+    },
+    {
+        "start": 3365.1,
+        "end": 3366.1,
+        "text": " Music was very similar."
+    },
+    {
+        "start": 3366.1,
+        "end": 3367.1,
+        "text": " Because of the writing and the squirreliness."
+    },
+    {
+        "start": 3367.1,
+        "end": 3370.1,
+        "text": " I thought it was going to give me a Parliament Funkadelic Chasin' Day's."
+    },
+    {
+        "start": 3370.1,
+        "end": 3371.1,
+        "text": " Thank you very much."
+    },
+    {
+        "start": 3371.1,
+        "end": 3372.1,
+        "text": " Listen."
+    },
+    {
+        "start": 3372.1,
+        "end": 3373.1,
+        "text": " There's no Bootsley Collin's on that one."
+    },
+    {
+        "start": 3373.1,
+        "end": 3374.1,
+        "text": " No, no."
+    },
+    {
+        "start": 3374.1,
+        "end": 3382.1,
+        "text": " That is the first ever Blood on the Tracks, Mark Mischier, Josh Widick-Kim, Jimmy White,"
+    },
+    {
+        "start": 3382.1,
+        "end": 3383.1,
+        "text": " Skin from Skunk and Anci."
+    },
+    {
+        "start": 3383.1,
+        "end": 3385.1,
+        "text": " You own me, Colin."
+    },
+    {
+        "start": 3385.1,
+        "end": 3386.1,
+        "text": " Yeah."
+    },
+    {
+        "start": 3386.1,
+        "end": 3387.1,
+        "text": " Thank you very much."
+    },
+    {
+        "start": 3387.1,
+        "end": 3388.1,
+        "text": " Don't forget."
+    },
+    {
+        "start": 3388.1,
+        "end": 3391.1,
+        "text": " If you enjoyed it, it's available as a podcast and the BBC website."
+    },
+    {
+        "start": 3391.1,
+        "end": 3392.1,
+        "text": " All the usual places."
+    },
+    {
+        "start": 3392.1,
+        "end": 3393.1,
+        "text": " Get Dine Loan Net."
+    },
+    {
+        "start": 3393.1,
+        "end": 3395.1,
+        "text": " Maybe we'll get more than four episodes."
+    },
+    {
+        "start": 3395.1,
+        "end": 3401.1,
+        "text": " We finished the first ever with any track that Skin wants from our collection."
+    },
+    {
+        "start": 3401.1,
+        "end": 3404.1,
+        "text": " I'm going to go for a band I saw a couple of years ago."
+    },
+    {
+        "start": 3404.1,
+        "end": 3405.1,
+        "text": " Well, a few years ago now."
+    },
+    {
+        "start": 3405.1,
+        "end": 3407.1,
+        "text": " For the first time, I grew up with this band."
+    },
+    {
+        "start": 3407.1,
+        "end": 3412.1,
+        "text": " This band got me into music because it was one of the first bands like the specials"
+    },
+    {
+        "start": 3412.1,
+        "end": 3414.1,
+        "text": " where you saw like White With Playing Riggay."
+    },
+    {
+        "start": 3414.1,
+        "end": 3417.1,
+        "text": " And I was like, as I'm from a Scar background and a Riggay background,"
+    },
+    {
+        "start": 3417.1,
+        "end": 3420.1,
+        "text": " that got me into what music via the police."
+    },
+    {
+        "start": 3420.1,
+        "end": 3424.1,
+        "text": " And this song was an absolute storm, it's called Message in a Bottle."
+    },
+    {
+        "start": 3424.1,
+        "end": 3425.1,
+        "text": " What a way to end."
+    },
+    {
+        "start": 3425.1,
+        "end": 3430.1,
+        "text": " And what a story at the end that Skin was brought up by Sting in a house in London."
+    },
+    {
+        "start": 3430.1,
+        "end": 3432.1,
+        "text": " Wow, it's made of tea."
+    },
+    {
+        "start": 3448.1,
+        "end": 3453.1,
+        "text": " More Lordliness, any man could bear."
+    },
+    {
+        "start": 3454.1,
+        "end": 3459.1,
+        "text": " But you leave before I fall into this bed."
+    },
+    {
+        "start": 3460.1,
+        "end": 3463.1,
+        "text": " I've sent men this voice to work."
+    },
+    {
+        "start": 3463.1,
+        "end": 3466.1,
+        "text": " Well, just before we go, I'd like to say thank you so much for Dine Loan"
+    },
+    {
+        "start": 3466.1,
+        "end": 3471.1,
+        "text": " in this first ever episode of Blood on the Tracks, part one of four of a pilot series."
+    },
+    {
+        "start": 3471.1,
+        "end": 3474.1,
+        "text": " Which means if you have less than this long, you probably like it."
+    },
+    {
+        "start": 3474.1,
+        "end": 3479.1,
+        "text": " So please review it if you can on the website that you downloaded it from,"
+    },
+    {
+        "start": 3479.1,
+        "end": 3483.1,
+        "text": " read it, tweet about it using the hashtag BOTT"
+    },
+    {
+        "start": 3483.1,
+        "end": 3486.1,
+        "text": " and tell your friends about it, spread the word."
+    },
+    {
+        "start": 3505.1,
+        "end": 3509.1,
+        "text": " Blood on the Tracks is a shooting shot production for BBC Radio Tables."
+    },
+    {
+        "start": 3516.1,
+        "end": 3518.1,
+        "text": " So that was Blood on the Tracks."
+    },
+    {
+        "start": 3518.1,
+        "end": 3521.1,
+        "text": " And I really, really disagreed with the whole female vocalist thing."
+    },
+    {
+        "start": 3521.1,
+        "end": 3523.1,
+        "text": " Where's Kate Bush? Where's Johnny Mitchell?"
+    },
+    {
+        "start": 3523.1,
+        "end": 3525.1,
+        "text": " So you think I got to get you on the show again?"
+    },
+    {
+        "start": 3525.1,
+        "end": 3527.1,
+        "text": " So have Colin, wait and see you call."
+    },
+    {
+        "start": 3527.1,
+        "end": 3532.1,
+        "text": " If you'd like that search for Blood on the Tracks and probably tag BBC onto the end of it,"
+    },
+    {
+        "start": 3532.1,
+        "end": 3537.1,
+        "text": " don't get the Bob Dylan album and subscribe to it to hear future episodes."
+    },
+    {
+        "start": 3537.1,
+        "end": 3540.1,
+        "text": " And if you're not subscribed to us yet, why not?"
+    },
+    {
+        "start": 3540.1,
+        "end": 3544.1,
+        "text": " Do it now somehow. However, it is that you do it using the thing that you use."
+    },
+    {
+        "start": 3544.1,
+        "end": 3546.1,
+        "text": " And we'll see you next time."
+    }
+]

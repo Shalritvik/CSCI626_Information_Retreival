@@ -1,0 +1,4407 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.0,
+        "text": " This is an MPB Think Radio Podcast."
+    },
+    {
+        "start": 4.0,
+        "end": 10.64,
+        "text": " Here, previous shows, visit mpbonline.org or download the MPB Public Radio app to listen"
+    },
+    {
+        "start": 10.64,
+        "end": 15.64,
+        "text": " on your iPhone or Android phone on demand."
+    },
+    {
+        "start": 15.64,
+        "end": 17.14,
+        "text": " It's MPB Think Radio."
+    },
+    {
+        "start": 17.14,
+        "end": 18.56,
+        "text": " I'm Charles Arnold."
+    },
+    {
+        "start": 18.56,
+        "end": 24.8,
+        "text": " This is a special Fall Pledge Drive podcast episode, asking you to support the MPB news"
+    },
+    {
+        "start": 24.8,
+        "end": 27.560000000000002,
+        "text": " and information you rely on each day."
+    },
+    {
+        "start": 27.56,
+        "end": 29.2,
+        "text": " It's so easy to contribute."
+    },
+    {
+        "start": 29.2,
+        "end": 37.48,
+        "text": " Call 888-372-4483 or spend just three minutes online at mpbonline.org."
+    },
+    {
+        "start": 37.48,
+        "end": 39.28,
+        "text": " Thank you for your contribution."
+    },
+    {
+        "start": 39.28,
+        "end": 47.08,
+        "text": " Hello, thanks for tuning in to Everyday Tech on MPB Think Radio."
+    },
+    {
+        "start": 47.08,
+        "end": 50.519999999999996,
+        "text": " Abraham Nanny here with my friends Shane Chisholm, a telecommunication professional"
+    },
+    {
+        "start": 50.519999999999996,
+        "end": 53.239999999999995,
+        "text": " and Sabirvdohok and IT expert."
+    },
+    {
+        "start": 53.239999999999995,
+        "end": 57.2,
+        "text": " Few weeks ago, we spoke a little bit about how the pandemic affected work life and required"
+    },
+    {
+        "start": 57.2,
+        "end": 59.36,
+        "text": " many people to start working remotely."
+    },
+    {
+        "start": 59.36,
+        "end": 62.92,
+        "text": " And today, I'd like to go more in depth about that and talk about what we know about remote"
+    },
+    {
+        "start": 62.92,
+        "end": 65.24000000000001,
+        "text": " work now in the year 2023."
+    },
+    {
+        "start": 65.24000000000001,
+        "end": 68.24000000000001,
+        "text": " And compare it to what we all thought about it back at the beginning of the pandemic in"
+    },
+    {
+        "start": 68.24000000000001,
+        "end": 69.24000000000001,
+        "text": " 2020."
+    },
+    {
+        "start": 69.24000000000001,
+        "end": 73.92,
+        "text": " And if you do have any questions, make sure you send us an email to everydaytech at mpbonline.org"
+    },
+    {
+        "start": 73.92,
+        "end": 77.80000000000001,
+        "text": " because we're not taking your phone calls today because this week, we here at MPB Think"
+    },
+    {
+        "start": 77.80000000000001,
+        "end": 80.56,
+        "text": " Radio are doing our special drive time."
+    },
+    {
+        "start": 80.56,
+        "end": 83.72,
+        "text": " It only comes once in a while so make sure you stick around to hear more details about"
+    },
+    {
+        "start": 83.72,
+        "end": 91.32,
+        "text": " how you can help out by calling 888-3724483 or give online at mpbonline.org."
+    },
+    {
+        "start": 91.32,
+        "end": 97.4,
+        "text": " Now first things first, let's check in with the guys as Sabir walks in but Shane Chisholm,"
+    },
+    {
+        "start": 97.4,
+        "end": 99.12,
+        "text": " you are in person today, man."
+    },
+    {
+        "start": 99.12,
+        "end": 100.12,
+        "text": " What is up?"
+    },
+    {
+        "start": 100.12,
+        "end": 101.6,
+        "text": " Oh man, I'm living the dream out here today."
+    },
+    {
+        "start": 101.6,
+        "end": 103.32,
+        "text": " Do you know how it always is?"
+    },
+    {
+        "start": 103.32,
+        "end": 105.28,
+        "text": " Some old vacation for like 11 days."
+    },
+    {
+        "start": 105.28,
+        "end": 107.64,
+        "text": " That's always fun to not be at work."
+    },
+    {
+        "start": 107.64,
+        "end": 108.64,
+        "text": " Yeah."
+    },
+    {
+        "start": 108.64,
+        "end": 112.52,
+        "text": " Well, Sabir don't know much about that today, does he?"
+    },
+    {
+        "start": 112.52,
+        "end": 114.67999999999999,
+        "text": " No, Sabir doesn't know anything about that."
+    },
+    {
+        "start": 114.67999999999999,
+        "end": 118.96,
+        "text": " Yeah, and not today specifically had to have to step in a little late because of that."
+    },
+    {
+        "start": 118.96,
+        "end": 119.96,
+        "text": " Fightin' fires."
+    },
+    {
+        "start": 119.96,
+        "end": 121.67999999999999,
+        "text": " Yeah, how's it going, Sabir?"
+    },
+    {
+        "start": 121.67999999999999,
+        "end": 122.67999999999999,
+        "text": " Fightin' fires."
+    },
+    {
+        "start": 122.67999999999999,
+        "end": 123.67999999999999,
+        "text": " That's how it's going."
+    },
+    {
+        "start": 123.67999999999999,
+        "end": 124.67999999999999,
+        "text": " That's how it's going."
+    },
+    {
+        "start": 124.67999999999999,
+        "end": 125.67999999999999,
+        "text": " But glad to be here, guys."
+    },
+    {
+        "start": 125.67999999999999,
+        "end": 126.67999999999999,
+        "text": " Glad to finally meet you, Shane."
+    },
+    {
+        "start": 126.67999999999999,
+        "end": 127.67999999999999,
+        "text": " Oh no, man."
+    },
+    {
+        "start": 127.67999999999999,
+        "end": 128.68,
+        "text": " I know man."
+    },
+    {
+        "start": 128.68,
+        "end": 129.68,
+        "text": " I know man."
+    },
+    {
+        "start": 129.68,
+        "end": 130.68,
+        "text": " That's what's up, brother."
+    },
+    {
+        "start": 130.68,
+        "end": 131.68,
+        "text": " That's what's up."
+    },
+    {
+        "start": 131.68,
+        "end": 135.51999999999998,
+        "text": " Yeah, so of course, you know, with all of us here in person, the ideal topic to talk"
+    },
+    {
+        "start": 135.51999999999998,
+        "end": 136.51999999999998,
+        "text": " about is remote work."
+    },
+    {
+        "start": 136.51999999999998,
+        "end": 137.51999999999998,
+        "text": " Right."
+    },
+    {
+        "start": 137.51999999999998,
+        "end": 138.51999999999998,
+        "text": " Now that we're all together."
+    },
+    {
+        "start": 138.51999999999998,
+        "end": 139.51999999999998,
+        "text": " We're all in person."
+    },
+    {
+        "start": 139.51999999999998,
+        "end": 141.04,
+        "text": " We're talking about not being here."
+    },
+    {
+        "start": 141.04,
+        "end": 142.04,
+        "text": " Not that we're here."
+    },
+    {
+        "start": 142.04,
+        "end": 146.67999999999998,
+        "text": " So, let's recap a little bit what we talked about with remote work previously on the show"
+    },
+    {
+        "start": 146.67999999999998,
+        "end": 148.6,
+        "text": " for people that may have missed it."
+    },
+    {
+        "start": 148.6,
+        "end": 154.28,
+        "text": " You know, I had online school before and during the pandemic but never worked remotely."
+    },
+    {
+        "start": 154.28,
+        "end": 156.23999999999998,
+        "text": " So what about you guys?"
+    },
+    {
+        "start": 156.23999999999998,
+        "end": 157.95999999999998,
+        "text": " Sabir, we talked about it a little bit."
+    },
+    {
+        "start": 157.95999999999998,
+        "end": 158.95999999999998,
+        "text": " We did."
+    },
+    {
+        "start": 158.95999999999998,
+        "end": 159.95999999999998,
+        "text": " We did."
+    },
+    {
+        "start": 159.95999999999998,
+        "end": 164.39999999999998,
+        "text": " I did a little bit of, I was actually trying to go back for an associates for some IT stuff"
+    },
+    {
+        "start": 164.39999999999998,
+        "end": 166.07999999999998,
+        "text": " to pick up some IT stuff."
+    },
+    {
+        "start": 166.07999999999998,
+        "end": 168.44,
+        "text": " And I was working on it and it worked out pretty good."
+    },
+    {
+        "start": 168.44,
+        "end": 170.51999999999998,
+        "text": " Plus some little side hustles and everything when IT."
+    },
+    {
+        "start": 170.52,
+        "end": 173.8,
+        "text": " So anything that you can be able to do remote stuff, what is always good?"
+    },
+    {
+        "start": 173.8,
+        "end": 174.8,
+        "text": " Yeah."
+    },
+    {
+        "start": 174.8,
+        "end": 175.8,
+        "text": " Yeah."
+    },
+    {
+        "start": 175.8,
+        "end": 176.8,
+        "text": " For sure."
+    },
+    {
+        "start": 176.8,
+        "end": 178.60000000000002,
+        "text": " Me and Abraham worked together and it was not at home work."
+    },
+    {
+        "start": 178.60000000000002,
+        "end": 179.60000000000002,
+        "text": " It was not remote."
+    },
+    {
+        "start": 179.60000000000002,
+        "end": 182.08,
+        "text": " We worked construction together at the same time."
+    },
+    {
+        "start": 182.08,
+        "end": 183.8,
+        "text": " It was as outside as you could be."
+    },
+    {
+        "start": 183.8,
+        "end": 184.8,
+        "text": " Yep."
+    },
+    {
+        "start": 184.8,
+        "end": 185.8,
+        "text": " I think during that."
+    },
+    {
+        "start": 185.8,
+        "end": 186.8,
+        "text": " Got you."
+    },
+    {
+        "start": 186.8,
+        "end": 187.8,
+        "text": " Hot or cold?"
+    },
+    {
+        "start": 187.8,
+        "end": 188.8,
+        "text": " Hot or cold?"
+    },
+    {
+        "start": 188.8,
+        "end": 189.8,
+        "text": " We are there regardless."
+    },
+    {
+        "start": 189.8,
+        "end": 190.8,
+        "text": " Yeah."
+    },
+    {
+        "start": 190.8,
+        "end": 191.8,
+        "text": " We are there."
+    },
+    {
+        "start": 191.8,
+        "end": 192.8,
+        "text": " Yeah."
+    },
+    {
+        "start": 192.8,
+        "end": 193.96,
+        "text": " So like I said, I did online school."
+    },
+    {
+        "start": 193.96,
+        "end": 198.92000000000002,
+        "text": " So like, and I was enrolled in online school before the pandemic even hit."
+    },
+    {
+        "start": 198.92,
+        "end": 202.39999999999998,
+        "text": " So I was kind of used to it by the time, you know, the pandemic."
+    },
+    {
+        "start": 202.39999999999998,
+        "end": 205.83999999999997,
+        "text": " I was not really personally affected by the COVID-19."
+    },
+    {
+        "start": 205.83999999999997,
+        "end": 206.83999999999997,
+        "text": " Yeah."
+    },
+    {
+        "start": 206.83999999999997,
+        "end": 207.83999999999997,
+        "text": " In crisis."
+    },
+    {
+        "start": 207.83999999999997,
+        "end": 208.83999999999997,
+        "text": " In crisis."
+    },
+    {
+        "start": 208.83999999999997,
+        "end": 209.83999999999997,
+        "text": " Yeah."
+    },
+    {
+        "start": 209.83999999999997,
+        "end": 210.83999999999997,
+        "text": " But I mean, I've got my youngest son."
+    },
+    {
+        "start": 210.83999999999997,
+        "end": 213.83999999999997,
+        "text": " He's in, when COVID first, he was 10 years old."
+    },
+    {
+        "start": 213.83999999999997,
+        "end": 216.32,
+        "text": " So here he was, fifth grade, whatever."
+    },
+    {
+        "start": 216.32,
+        "end": 217.88,
+        "text": " And they were working on how we're going to do."
+    },
+    {
+        "start": 217.88,
+        "end": 222.92,
+        "text": " So we're looking at how that worked in terms of, I mean, schooling is one thing."
+    },
+    {
+        "start": 222.92,
+        "end": 225.35999999999999,
+        "text": " But yeah, they were all having to do the hybrid and everything."
+    },
+    {
+        "start": 225.35999999999999,
+        "end": 226.35999999999999,
+        "text": " That was very serious."
+    },
+    {
+        "start": 226.35999999999999,
+        "end": 228.35999999999999,
+        "text": " So that took some getting used to."
+    },
+    {
+        "start": 228.4,
+        "end": 230.92000000000002,
+        "text": " I can touch on that because my son was starting kindergarten."
+    },
+    {
+        "start": 230.92000000000002,
+        "end": 231.92000000000002,
+        "text": " So they were."
+    },
+    {
+        "start": 231.92000000000002,
+        "end": 232.92000000000002,
+        "text": " Yeah."
+    },
+    {
+        "start": 232.92000000000002,
+        "end": 233.92000000000002,
+        "text": " My son was in kindergarten."
+    },
+    {
+        "start": 233.92000000000002,
+        "end": 235.92000000000002,
+        "text": " So they had kindergartners on Zoom calls."
+    },
+    {
+        "start": 235.92000000000002,
+        "end": 236.92000000000002,
+        "text": " That's great."
+    },
+    {
+        "start": 236.92000000000002,
+        "end": 238.16000000000003,
+        "text": " That had been interesting."
+    },
+    {
+        "start": 238.16000000000003,
+        "end": 240.16000000000003,
+        "text": " It was a very interesting thing to witness."
+    },
+    {
+        "start": 240.16000000000003,
+        "end": 241.16000000000003,
+        "text": " Yeah."
+    },
+    {
+        "start": 241.16000000000003,
+        "end": 246.56,
+        "text": " So did he, was he in kindergarten and then the pandemic hit or what did he have to enroll"
+    },
+    {
+        "start": 246.56,
+        "end": 247.56,
+        "text": " in kindergarten?"
+    },
+    {
+        "start": 247.56,
+        "end": 249.88000000000002,
+        "text": " They started kindergarten and then like the whole school didn't go back."
+    },
+    {
+        "start": 249.88000000000002,
+        "end": 252.96,
+        "text": " They didn't go back after I think it was Thanksgiving or Christmas break."
+    },
+    {
+        "start": 252.96,
+        "end": 253.96,
+        "text": " They knew about that."
+    },
+    {
+        "start": 253.96,
+        "end": 254.96,
+        "text": " I think it's spring break."
+    },
+    {
+        "start": 254.96,
+        "end": 255.96,
+        "text": " Yeah, spring break."
+    },
+    {
+        "start": 255.96,
+        "end": 256.96000000000004,
+        "text": " They never went back to school."
+    },
+    {
+        "start": 256.96000000000004,
+        "end": 257.96000000000004,
+        "text": " Right."
+    },
+    {
+        "start": 257.96,
+        "end": 260.96,
+        "text": " They never went back to school and then they started doing school from a computer."
+    },
+    {
+        "start": 260.96,
+        "end": 261.96,
+        "text": " So they started school."
+    },
+    {
+        "start": 261.96,
+        "end": 262.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 262.96,
+        "end": 265.96,
+        "text": " I'm sure he enjoyed that because that's what he's usually playing like or blocks or whatever."
+    },
+    {
+        "start": 265.96,
+        "end": 266.96,
+        "text": " He's playing."
+    },
+    {
+        "start": 266.96,
+        "end": 267.96,
+        "text": " He's playing."
+    },
+    {
+        "start": 267.96,
+        "end": 268.96,
+        "text": " He's like, oh really?"
+    },
+    {
+        "start": 268.96,
+        "end": 270.96,
+        "text": " I get to go to school on the same thing I'm having fun on."
+    },
+    {
+        "start": 270.96,
+        "end": 271.96,
+        "text": " What?"
+    },
+    {
+        "start": 271.96,
+        "end": 272.96,
+        "text": " Yeah, right."
+    },
+    {
+        "start": 272.96,
+        "end": 273.96,
+        "text": " That's what's up."
+    },
+    {
+        "start": 273.96,
+        "end": 274.96,
+        "text": " A little different form."
+    },
+    {
+        "start": 274.96,
+        "end": 275.96,
+        "text": " Yeah, that's what's up."
+    },
+    {
+        "start": 275.96,
+        "end": 276.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 276.96,
+        "end": 281.96,
+        "text": " So was there anything specific severe that helped you with, you know, any device or anything"
+    },
+    {
+        "start": 281.96,
+        "end": 283.96,
+        "text": " that helped you during the pandemic with your work?"
+    },
+    {
+        "start": 283.96,
+        "end": 285.96,
+        "text": " I would have to say my cell phone."
+    },
+    {
+        "start": 285.96,
+        "end": 286.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 286.96,
+        "end": 290.88,
+        "text": " So it became my saving grace between that plus COVID."
+    },
+    {
+        "start": 290.88,
+        "end": 295.28,
+        "text": " There were companies that started doing like more like remote appointment options."
+    },
+    {
+        "start": 295.28,
+        "end": 297.52,
+        "text": " Like I live and die by my calendar."
+    },
+    {
+        "start": 297.52,
+        "end": 299.15999999999997,
+        "text": " I live and die by square."
+    },
+    {
+        "start": 299.15999999999997,
+        "end": 302.71999999999997,
+        "text": " And so square started pushing the appointment feature."
+    },
+    {
+        "start": 302.71999999999997,
+        "end": 307.67999999999995,
+        "text": " So being able to, for me to be able to have appointments with folks and do remote appointments"
+    },
+    {
+        "start": 307.67999999999995,
+        "end": 312.67999999999995,
+        "text": " and everything and automatically do that, I actually saw an uptick in business at least"
+    },
+    {
+        "start": 312.67999999999995,
+        "end": 313.67999999999995,
+        "text": " 30%, 40%."
+    },
+    {
+        "start": 313.67999999999995,
+        "end": 314.67999999999995,
+        "text": " Really?"
+    },
+    {
+        "start": 315.0,
+        "end": 319.48,
+        "text": " But that helped so that I can be able to still help people with IT needs and be able to"
+    },
+    {
+        "start": 319.48,
+        "end": 325.64,
+        "text": " go and fight fires remotely with programs like team viewer or any desk so that you can"
+    },
+    {
+        "start": 325.64,
+        "end": 329.12,
+        "text": " be able to remote in the folk stuff and help them out."
+    },
+    {
+        "start": 329.12,
+        "end": 332.72,
+        "text": " Both on my main work and also for, you know, my business."
+    },
+    {
+        "start": 332.72,
+        "end": 333.72,
+        "text": " Yeah."
+    },
+    {
+        "start": 333.72,
+        "end": 334.72,
+        "text": " That's awesome."
+    },
+    {
+        "start": 334.72,
+        "end": 335.72,
+        "text": " Yeah."
+    },
+    {
+        "start": 335.72,
+        "end": 341.04,
+        "text": " Well, I know like even now here at MPB we use team viewer a lot to just because if I don't"
+    },
+    {
+        "start": 341.04,
+        "end": 346.36,
+        "text": " want to get up from my office, I can access one of these production studios over here to"
+    },
+    {
+        "start": 346.36,
+        "end": 348.52000000000004,
+        "text": " use for the computer like that."
+    },
+    {
+        "start": 348.52000000000004,
+        "end": 354.72,
+        "text": " And I know during the pandemic they had to do a lot of team viewer and a lot of remote work"
+    },
+    {
+        "start": 354.72,
+        "end": 355.72,
+        "text": " for the office."
+    },
+    {
+        "start": 355.72,
+        "end": 356.72,
+        "text": " Right, right, right."
+    },
+    {
+        "start": 356.72,
+        "end": 359.84000000000003,
+        "text": " I would imagine they probably had jobs doing some of the same stuff."
+    },
+    {
+        "start": 359.84000000000003,
+        "end": 361.52000000000004,
+        "text": " No, I didn't work there yet."
+    },
+    {
+        "start": 361.52000000000004,
+        "end": 362.52000000000004,
+        "text": " Really?"
+    },
+    {
+        "start": 362.52000000000004,
+        "end": 363.52000000000004,
+        "text": " Okay."
+    },
+    {
+        "start": 363.52000000000004,
+        "end": 364.52000000000004,
+        "text": " Well, I'll touch on this then."
+    },
+    {
+        "start": 364.52000000000004,
+        "end": 367.84000000000003,
+        "text": " So the place that I work at, we had a lot of folks working from home."
+    },
+    {
+        "start": 367.84000000000003,
+        "end": 368.84000000000003,
+        "text": " A lot."
+    },
+    {
+        "start": 368.84000000000003,
+        "end": 369.84000000000003,
+        "text": " Yeah."
+    },
+    {
+        "start": 369.84,
+        "end": 373.67999999999995,
+        "text": " So we basically worked from home and then we had to support their remote work from home"
+    },
+    {
+        "start": 373.67999999999995,
+        "end": 374.67999999999995,
+        "text": " remotely."
+    },
+    {
+        "start": 374.67999999999995,
+        "end": 380.2,
+        "text": " So and we had to deal with everything from computers not working right and like these were people's"
+    },
+    {
+        "start": 380.2,
+        "end": 381.67999999999995,
+        "text": " personal computers."
+    },
+    {
+        "start": 381.67999999999995,
+        "end": 385.64,
+        "text": " They were trying to do that to do their everyday jobs to be able to, if they need to remote"
+    },
+    {
+        "start": 385.64,
+        "end": 390.12,
+        "text": " in to be able to access the systems that we use and everything else."
+    },
+    {
+        "start": 390.12,
+        "end": 391.52,
+        "text": " They were like, well, why isn't this working?"
+    },
+    {
+        "start": 391.52,
+        "end": 394.2,
+        "text": " We'd have to do a couple quick troubleshoot and be like, well, you know what, the computer"
+    },
+    {
+        "start": 394.2,
+        "end": 397.35999999999996,
+        "text": " is kind of dated or well, you know what, you have no antivirus."
+    },
+    {
+        "start": 397.35999999999996,
+        "end": 398.35999999999996,
+        "text": " You know, yeah."
+    },
+    {
+        "start": 398.44,
+        "end": 404.12,
+        "text": " This was, that became a whole new like room for us to walk through for people to be able"
+    },
+    {
+        "start": 404.12,
+        "end": 406.12,
+        "text": " to say, well, we're going to go ahead and go this way."
+    },
+    {
+        "start": 406.12,
+        "end": 407.72,
+        "text": " We're going to go that way."
+    },
+    {
+        "start": 407.72,
+        "end": 411.36,
+        "text": " We had to go ahead and really just troubleshoot their personal computers, which kind of got"
+    },
+    {
+        "start": 411.36,
+        "end": 415.92,
+        "text": " kind of touchy because we weren't supposed to be always using personal computers for certain"
+    },
+    {
+        "start": 415.92,
+        "end": 416.92,
+        "text": " things."
+    },
+    {
+        "start": 416.92,
+        "end": 421.92,
+        "text": " So we had to, we had to upgrade them, update them and then educate them at the same time."
+    },
+    {
+        "start": 421.92,
+        "end": 422.92,
+        "text": " Yeah."
+    },
+    {
+        "start": 422.92,
+        "end": 427.48,
+        "text": " I'm sure IT picked up a whole lot during the pandemic because everyone's computer, everyone"
+    },
+    {
+        "start": 427.48,
+        "end": 429.08000000000004,
+        "text": " had to work on their computers."
+    },
+    {
+        "start": 429.08000000000004,
+        "end": 432.76,
+        "text": " Yeah, I've heard stories from work where like it was all appointment based and you weren't"
+    },
+    {
+        "start": 432.76,
+        "end": 434.56,
+        "text": " really allowed to touch people's phone devices."
+    },
+    {
+        "start": 434.56,
+        "end": 435.56,
+        "text": " Right."
+    },
+    {
+        "start": 435.56,
+        "end": 436.56,
+        "text": " If you did, you had to wear gloves and everything."
+    },
+    {
+        "start": 436.56,
+        "end": 438.56,
+        "text": " So it was super, it was super hard."
+    },
+    {
+        "start": 438.56,
+        "end": 439.56,
+        "text": " Yeah."
+    },
+    {
+        "start": 439.56,
+        "end": 440.56,
+        "text": " But I wasn't there for it."
+    },
+    {
+        "start": 440.56,
+        "end": 441.56,
+        "text": " I've heard the rumors in the stories."
+    },
+    {
+        "start": 441.56,
+        "end": 445.84000000000003,
+        "text": " Well, I've heard them tell stories here when we weren't sure about how much it like,"
+    },
+    {
+        "start": 445.84000000000003,
+        "end": 447.64000000000004,
+        "text": " how much the virus worked."
+    },
+    {
+        "start": 447.64000000000004,
+        "end": 452.28000000000003,
+        "text": " They had like covers over the headphones and stuff that they had to use because you just,"
+    },
+    {
+        "start": 452.28000000000003,
+        "end": 454.40000000000003,
+        "text": " you just could not touch anything."
+    },
+    {
+        "start": 454.40000000000003,
+        "end": 455.40000000000003,
+        "text": " Anything."
+    },
+    {
+        "start": 455.4,
+        "end": 456.84,
+        "text": " They weren't, they weren't bland on it."
+    },
+    {
+        "start": 456.84,
+        "end": 458.91999999999996,
+        "text": " The whole, the full PDC and everything else."
+    },
+    {
+        "start": 458.91999999999996,
+        "end": 462.32,
+        "text": " I mean, I was, you know, it was definitely, and I was wondering folks, they got pulled"
+    },
+    {
+        "start": 462.32,
+        "end": 463.67999999999995,
+        "text": " to work at the fairground."
+    },
+    {
+        "start": 463.67999999999995,
+        "end": 470.84,
+        "text": " So here we are doing what we do in my field and we had to be able to support the institution"
+    },
+    {
+        "start": 470.84,
+        "end": 474.88,
+        "text": " at the fairground and ground one while people are, yeah."
+    },
+    {
+        "start": 474.88,
+        "end": 475.88,
+        "text": " Yeah."
+    },
+    {
+        "start": 475.88,
+        "end": 476.88,
+        "text": " Oh, hold on a way to be."
+    },
+    {
+        "start": 476.88,
+        "end": 478.56,
+        "text": " So it was, it was interesting."
+    },
+    {
+        "start": 478.56,
+        "end": 482.52,
+        "text": " I was like, I don't, I don't miss the days of looking around your shoulder and like,"
+    },
+    {
+        "start": 482.52,
+        "end": 487.59999999999997,
+        "text": " you know, had to like, very like, intense six feet stuff."
+    },
+    {
+        "start": 487.59999999999997,
+        "end": 492.4,
+        "text": " But well, I will say now I still try to stand about six feet apart from people, but"
+    },
+    {
+        "start": 492.4,
+        "end": 493.91999999999996,
+        "text": " not because I'm scared of anything."
+    },
+    {
+        "start": 493.91999999999996,
+        "end": 494.91999999999996,
+        "text": " Yeah."
+    },
+    {
+        "start": 494.91999999999996,
+        "end": 495.91999999999996,
+        "text": " Just like, I just don't like being close to people."
+    },
+    {
+        "start": 495.91999999999996,
+        "end": 499.96,
+        "text": " I will say that the one time I got COVID, it was when I went to cover at another store for"
+    },
+    {
+        "start": 499.96,
+        "end": 503.56,
+        "text": " someone that was out with COVID and I got COVID two days later."
+    },
+    {
+        "start": 503.56,
+        "end": 504.56,
+        "text": " Wow."
+    },
+    {
+        "start": 504.56,
+        "end": 505.56,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 505.56,
+        "end": 506.56,
+        "text": " And I was like, John Cleanser's tablet off from the thing."
+    },
+    {
+        "start": 506.56,
+        "end": 507.56,
+        "text": " Well, actually, no."
+    },
+    {
+        "start": 507.56,
+        "end": 508.56,
+        "text": " Oh, you do."
+    },
+    {
+        "start": 508.56,
+        "end": 509.56,
+        "text": " Oh, my gosh."
+    },
+    {
+        "start": 509.56,
+        "end": 510.56,
+        "text": " That's hilarious."
+    },
+    {
+        "start": 510.56,
+        "end": 511.56,
+        "text": " That's hilarious."
+    },
+    {
+        "start": 511.72,
+        "end": 515.88,
+        "text": " So, so the guy that you covered for was out because of COVID."
+    },
+    {
+        "start": 515.88,
+        "end": 518.16,
+        "text": " And then I get there and use his device."
+    },
+    {
+        "start": 518.16,
+        "end": 519.92,
+        "text": " They're like, you can just use his."
+    },
+    {
+        "start": 519.92,
+        "end": 522.16,
+        "text": " And so I use it instinctively, not really super thinking."
+    },
+    {
+        "start": 522.16,
+        "end": 523.16,
+        "text": " And that's our thing."
+    },
+    {
+        "start": 523.16,
+        "end": 524.96,
+        "text": " I'm like, do you want to wipe this off or anything from?"
+    },
+    {
+        "start": 524.96,
+        "end": 525.96,
+        "text": " Oh, no."
+    },
+    {
+        "start": 525.96,
+        "end": 526.96,
+        "text": " Oh, my gosh."
+    },
+    {
+        "start": 526.96,
+        "end": 527.96,
+        "text": " Congratulations."
+    },
+    {
+        "start": 527.96,
+        "end": 529.96,
+        "text": " You're going to be home for a week."
+    },
+    {
+        "start": 529.96,
+        "end": 530.96,
+        "text": " Yeah."
+    },
+    {
+        "start": 530.96,
+        "end": 531.96,
+        "text": " That's a while."
+    },
+    {
+        "start": 531.96,
+        "end": 532.96,
+        "text": " Got what I went to cover."
+    },
+    {
+        "start": 532.96,
+        "end": 540.04,
+        "text": " And the crazy thing, the crazy thing to touch on that is also like the sociology of it."
+    },
+    {
+        "start": 540.04,
+        "end": 545.56,
+        "text": " And you know, COVID started socializing us towards how we were going to operate remotely."
+    },
+    {
+        "start": 545.56,
+        "end": 549.04,
+        "text": " How are we going to operate in terms of physical distance, everything else, it changed our"
+    },
+    {
+        "start": 549.04,
+        "end": 550.04,
+        "text": " minds."
+    },
+    {
+        "start": 550.04,
+        "end": 552.4399999999999,
+        "text": " But then think about how that also affect like our kids, right?"
+    },
+    {
+        "start": 552.4399999999999,
+        "end": 555.04,
+        "text": " That also socialized in a different way."
+    },
+    {
+        "start": 555.04,
+        "end": 556.04,
+        "text": " Yeah."
+    },
+    {
+        "start": 556.04,
+        "end": 557.04,
+        "text": " For sure."
+    },
+    {
+        "start": 557.04,
+        "end": 558.5999999999999,
+        "text": " Well, let's go to our first break of the hour."
+    },
+    {
+        "start": 558.5999999999999,
+        "end": 561.92,
+        "text": " Everyday tech at mpbo on line.org for your questions or comments."
+    },
+    {
+        "start": 561.92,
+        "end": 565.68,
+        "text": " We appreciate you listening to us here at Everyday Tech on mpbthinkradio."
+    },
+    {
+        "start": 565.68,
+        "end": 566.8399999999999,
+        "text": " It's drive time this week."
+    },
+    {
+        "start": 566.8399999999999,
+        "end": 569.5999999999999,
+        "text": " So please consider giving to our nonprofit station."
+    },
+    {
+        "start": 569.84,
+        "end": 571.6,
+        "text": " Now this drive is only going on for this week."
+    },
+    {
+        "start": 571.6,
+        "end": 575.48,
+        "text": " So make sure you call in or go online as soon as you can to contribute really any amount"
+    },
+    {
+        "start": 575.48,
+        "end": 576.48,
+        "text": " to help."
+    },
+    {
+        "start": 576.48,
+        "end": 583.12,
+        "text": " The number the number to call is 888-372-4483 or if you prefer, you can go online at mpboonline.org."
+    },
+    {
+        "start": 583.12,
+        "end": 585.88,
+        "text": " I'm Abraham Naney here with Shane Chism and Sabir Abdul-Hawk."
+    },
+    {
+        "start": 585.88,
+        "end": 591.44,
+        "text": " If you have questions or comments, email them to everydaytech at mpboonline.org or download"
+    },
+    {
+        "start": 591.44,
+        "end": 595.24,
+        "text": " the mpb public media app and use the talk to his feature to leave us an audio or video"
+    },
+    {
+        "start": 595.24,
+        "end": 596.24,
+        "text": " message."
+    },
+    {
+        "start": 596.24,
+        "end": 599.96,
+        "text": " And then talking about our own experiences with remote work from the beginning of the"
+    },
+    {
+        "start": 599.96,
+        "end": 606.8,
+        "text": " pandemic, but what was y'all's like initial reaction to the concept of working remotely?"
+    },
+    {
+        "start": 606.8,
+        "end": 609.44,
+        "text": " Like what what I would have enjoyed it."
+    },
+    {
+        "start": 609.44,
+        "end": 610.84,
+        "text": " Oh, I would have loved it."
+    },
+    {
+        "start": 610.84,
+        "end": 611.84,
+        "text": " How would have loved it?"
+    },
+    {
+        "start": 611.84,
+        "end": 614.28,
+        "text": " It is nothing for me to do 40 work miles a day."
+    },
+    {
+        "start": 614.28,
+        "end": 615.28,
+        "text": " I see."
+    },
+    {
+        "start": 615.28,
+        "end": 616.28,
+        "text": " It is."
+    },
+    {
+        "start": 616.28,
+        "end": 617.28,
+        "text": " I'm very serious."
+    },
+    {
+        "start": 617.28,
+        "end": 619.48,
+        "text": " It's nothing for me to do a slow day."
+    },
+    {
+        "start": 619.48,
+        "end": 621.88,
+        "text": " 10, 15 miles a day."
+    },
+    {
+        "start": 621.88,
+        "end": 622.88,
+        "text": " Work day."
+    },
+    {
+        "start": 622.88,
+        "end": 626.2,
+        "text": " You going to tell me I can work remotely?"
+    },
+    {
+        "start": 626.2,
+        "end": 627.2,
+        "text": " I can do it."
+    },
+    {
+        "start": 627.2,
+        "end": 628.2,
+        "text": " Really?"
+    },
+    {
+        "start": 628.2,
+        "end": 631.6400000000001,
+        "text": " Bro, we'll talk about this at all."
+    },
+    {
+        "start": 631.6400000000001,
+        "end": 632.6400000000001,
+        "text": " Alright."
+    },
+    {
+        "start": 632.6400000000001,
+        "end": 633.6400000000001,
+        "text": " Oh my God."
+    },
+    {
+        "start": 633.6400000000001,
+        "end": 634.6400000000001,
+        "text": " That's a lot."
+    },
+    {
+        "start": 634.6400000000001,
+        "end": 635.6400000000001,
+        "text": " Yeah, it's a lot."
+    },
+    {
+        "start": 635.6400000000001,
+        "end": 636.6400000000001,
+        "text": " It's a lot."
+    },
+    {
+        "start": 636.6400000000001,
+        "end": 638.1600000000001,
+        "text": " And I explain the nuances to what I mean."
+    },
+    {
+        "start": 638.1600000000001,
+        "end": 642.12,
+        "text": " But yeah, it's nothing for me and some of my teammates to do."
+    },
+    {
+        "start": 642.12,
+        "end": 646.6800000000001,
+        "text": " Five bare minimum, bare bones minimum, five to seven miles a day."
+    },
+    {
+        "start": 646.6800000000001,
+        "end": 648.6800000000001,
+        "text": " But that's bare bone."
+    },
+    {
+        "start": 648.6800000000001,
+        "end": 649.6800000000001,
+        "text": " 40 usually."
+    },
+    {
+        "start": 649.6800000000001,
+        "end": 650.6800000000001,
+        "text": " 20, 30."
+    },
+    {
+        "start": 650.6800000000001,
+        "end": 652.5200000000001,
+        "text": " 20, 30 is as a norm."
+    },
+    {
+        "start": 652.84,
+        "end": 656.84,
+        "text": " It is weird because I figure like IT, you do a lot of phone calls."
+    },
+    {
+        "start": 656.84,
+        "end": 658.88,
+        "text": " And so I would have said it was all phone calls."
+    },
+    {
+        "start": 658.88,
+        "end": 662.0,
+        "text": " Well, I'm not always like on that on the help side."
+    },
+    {
+        "start": 662.0,
+        "end": 663.24,
+        "text": " I'm on the field side."
+    },
+    {
+        "start": 663.24,
+        "end": 664.24,
+        "text": " Okay."
+    },
+    {
+        "start": 664.24,
+        "end": 665.76,
+        "text": " Which means I'm flitting the door."
+    },
+    {
+        "start": 665.76,
+        "end": 667.0799999999999,
+        "text": " First person you see."
+    },
+    {
+        "start": 667.0799999999999,
+        "end": 669.28,
+        "text": " And my folks, I'd rather not have."
+    },
+    {
+        "start": 669.28,
+        "end": 670.28,
+        "text": " My folks all know."
+    },
+    {
+        "start": 670.28,
+        "end": 674.04,
+        "text": " Like some of my coworkers follow me on social media."
+    },
+    {
+        "start": 674.04,
+        "end": 675.3199999999999,
+        "text": " They know certain things or whatever."
+    },
+    {
+        "start": 675.3199999999999,
+        "end": 677.4399999999999,
+        "text": " I'd be like, look, don't send me no ticket."
+    },
+    {
+        "start": 677.4399999999999,
+        "end": 678.4399999999999,
+        "text": " Call me."
+    },
+    {
+        "start": 678.4399999999999,
+        "end": 679.4399999999999,
+        "text": " Text me."
+    },
+    {
+        "start": 679.4399999999999,
+        "end": 680.4399999999999,
+        "text": " Right."
+    },
+    {
+        "start": 680.4399999999999,
+        "end": 681.4399999999999,
+        "text": " And that's generally how it is."
+    },
+    {
+        "start": 681.44,
+        "end": 684.7600000000001,
+        "text": " You can get inundated with the paperwork."
+    },
+    {
+        "start": 684.7600000000001,
+        "end": 692.48,
+        "text": " The good thing, scare quotes, the good thing about what remote work did was it allowed for"
+    },
+    {
+        "start": 692.48,
+        "end": 696.5600000000001,
+        "text": " us to be able to really meet people where they were."
+    },
+    {
+        "start": 696.5600000000001,
+        "end": 703.0,
+        "text": " The biggest thing in IT, in my experience, has been people have a sense of xenophobia."
+    },
+    {
+        "start": 703.0,
+        "end": 706.8800000000001,
+        "text": " What they don't trust, what they can't fix, what they don't know."
+    },
+    {
+        "start": 706.8800000000001,
+        "end": 709.8800000000001,
+        "text": " I've had folks with googobs."
+    },
+    {
+        "start": 709.88,
+        "end": 710.88,
+        "text": " That's a technical order."
+    },
+    {
+        "start": 710.88,
+        "end": 711.88,
+        "text": " I've never heard of it."
+    },
+    {
+        "start": 711.88,
+        "end": 712.88,
+        "text": " I've never heard of it."
+    },
+    {
+        "start": 712.88,
+        "end": 713.88,
+        "text": " I've never heard of it."
+    },
+    {
+        "start": 713.88,
+        "end": 714.88,
+        "text": " Googobs, boo-goo education."
+    },
+    {
+        "start": 714.88,
+        "end": 715.88,
+        "text": " That is saying, wait a minute."
+    },
+    {
+        "start": 715.88,
+        "end": 716.88,
+        "text": " Oh yeah, oh, we're definitely."
+    },
+    {
+        "start": 716.88,
+        "end": 719.96,
+        "text": " I'm gonna go ahead and I'm gonna talk some kind of words."
+    },
+    {
+        "start": 719.96,
+        "end": 723.52,
+        "text": " Googobs, boo-goo education, they're saying, look, I can explain."
+    },
+    {
+        "start": 723.52,
+        "end": 725.28,
+        "text": " I know why this, this, this, this, this."
+    },
+    {
+        "start": 725.28,
+        "end": 728.36,
+        "text": " I went to school and picked this much amount of money and did this, this, this."
+    },
+    {
+        "start": 728.36,
+        "end": 729.6,
+        "text": " And I know I do this."
+    },
+    {
+        "start": 729.6,
+        "end": 732.72,
+        "text": " And you can't tell me why my computer is doing XYZ design the third."
+    },
+    {
+        "start": 732.72,
+        "end": 734.24,
+        "text": " I can't understand that."
+    },
+    {
+        "start": 734.24,
+        "end": 736.44,
+        "text": " So generally I break it down to a certain way."
+    },
+    {
+        "start": 736.44,
+        "end": 738.44,
+        "text": " And then there's xenophobia."
+    },
+    {
+        "start": 738.44,
+        "end": 739.44,
+        "text": " Relaxes."
+    },
+    {
+        "start": 739.48,
+        "end": 740.48,
+        "text": " You can see it on their face."
+    },
+    {
+        "start": 740.48,
+        "end": 742.2800000000001,
+        "text": " You can see it in their eyes."
+    },
+    {
+        "start": 742.2800000000001,
+        "end": 746.48,
+        "text": " When they understand that light bulb clicks and says, okay, this isn't as bad as I thought."
+    },
+    {
+        "start": 746.48,
+        "end": 748.0400000000001,
+        "text": " Or it is as bad as I thought."
+    },
+    {
+        "start": 748.0400000000001,
+        "end": 749.4000000000001,
+        "text": " And he's gonna help make me fix it."
+    },
+    {
+        "start": 749.4000000000001,
+        "end": 752.12,
+        "text": " He and his teammates are gonna help make me fix it."
+    },
+    {
+        "start": 752.12,
+        "end": 756.6800000000001,
+        "text": " That right there, the xenophobia was less."
+    },
+    {
+        "start": 756.6800000000001,
+        "end": 760.5600000000001,
+        "text": " People were, the xenophobia that I see day to day, that people have in terms of things."
+    },
+    {
+        "start": 760.5600000000001,
+        "end": 761.5600000000001,
+        "text": " It was less."
+    },
+    {
+        "start": 761.5600000000001,
+        "end": 763.9200000000001,
+        "text": " It was less than they felt calmer."
+    },
+    {
+        "start": 763.9200000000001,
+        "end": 767.36,
+        "text": " And a lot of times they're kicked back in their jammies."
+    },
+    {
+        "start": 767.44,
+        "end": 772.44,
+        "text": " And you know, with their greatest dad or greatest mom in the world mug."
+    },
+    {
+        "start": 772.44,
+        "end": 775.92,
+        "text": " And they're like, hey, hey, can you explain to me, Saber, why this is working the center?"
+    },
+    {
+        "start": 775.92,
+        "end": 778.28,
+        "text": " And we'll fix it for them in their back on their way."
+    },
+    {
+        "start": 778.28,
+        "end": 779.28,
+        "text": " Right."
+    },
+    {
+        "start": 779.28,
+        "end": 780.28,
+        "text": " That's good."
+    },
+    {
+        "start": 780.28,
+        "end": 782.64,
+        "text": " So in your field, do you, does everyone in slants doing something wrong?"
+    },
+    {
+        "start": 782.64,
+        "end": 784.2,
+        "text": " They've just been hacked."
+    },
+    {
+        "start": 784.2,
+        "end": 785.72,
+        "text": " I think mine's more because it's phoned."
+    },
+    {
+        "start": 785.72,
+        "end": 787.44,
+        "text": " Yeah, I can see that."
+    },
+    {
+        "start": 787.44,
+        "end": 790.36,
+        "text": " Man, every time a phone has an issue, people are like, I've been hacked."
+    },
+    {
+        "start": 790.36,
+        "end": 791.36,
+        "text": " I've been hacked."
+    },
+    {
+        "start": 791.36,
+        "end": 792.36,
+        "text": " Right."
+    },
+    {
+        "start": 792.36,
+        "end": 793.36,
+        "text": " They have all my information."
+    },
+    {
+        "start": 793.36,
+        "end": 794.36,
+        "text": " They have everything."
+    },
+    {
+        "start": 794.36,
+        "end": 795.5600000000001,
+        "text": " I'm like, what makes you think that?"
+    },
+    {
+        "start": 795.56,
+        "end": 798.2399999999999,
+        "text": " Oh, I guess Mr. and Amory."
+    },
+    {
+        "start": 798.2399999999999,
+        "end": 799.2399999999999,
+        "text": " Right."
+    },
+    {
+        "start": 799.2399999999999,
+        "end": 800.2399999999999,
+        "text": " Right."
+    },
+    {
+        "start": 800.2399999999999,
+        "end": 801.2399999999999,
+        "text": " Always."
+    },
+    {
+        "start": 801.2399999999999,
+        "end": 802.2399999999999,
+        "text": " It's always a go to."
+    },
+    {
+        "start": 802.2399999999999,
+        "end": 804.88,
+        "text": " And it'll be simple thing is like their phones don't do not disturb mode."
+    },
+    {
+        "start": 804.88,
+        "end": 805.88,
+        "text": " Right."
+    },
+    {
+        "start": 805.88,
+        "end": 806.88,
+        "text": " Right."
+    },
+    {
+        "start": 806.88,
+        "end": 807.88,
+        "text": " They put it all in."
+    },
+    {
+        "start": 807.88,
+        "end": 808.88,
+        "text": " I've been accidentally airplane mode."
+    },
+    {
+        "start": 808.88,
+        "end": 809.88,
+        "text": " Yeah."
+    },
+    {
+        "start": 809.88,
+        "end": 812.8399999999999,
+        "text": " So airplane mode for listeners, again, I always try to speak to where listeners may"
+    },
+    {
+        "start": 812.8399999999999,
+        "end": 813.8399999999999,
+        "text": " are."
+    },
+    {
+        "start": 813.8399999999999,
+        "end": 817.1999999999999,
+        "text": " And I'd be airplane mode means you've killed all the signals to your phone."
+    },
+    {
+        "start": 817.1999999999999,
+        "end": 818.1999999999999,
+        "text": " There's no Bluetooth."
+    },
+    {
+        "start": 818.1999999999999,
+        "end": 819.92,
+        "text": " There's no internet, no data."
+    },
+    {
+        "start": 819.92,
+        "end": 821.8,
+        "text": " And so you're like, oh my god, what's going on?"
+    },
+    {
+        "start": 821.8,
+        "end": 822.8,
+        "text": " And you look airplane mode."
+    },
+    {
+        "start": 822.8,
+        "end": 825.3599999999999,
+        "text": " I get about three of those a day."
+    },
+    {
+        "start": 825.36,
+        "end": 826.36,
+        "text": " I'm not even joking with you."
+    },
+    {
+        "start": 826.36,
+        "end": 827.36,
+        "text": " I'm not even joking with you."
+    },
+    {
+        "start": 827.36,
+        "end": 828.36,
+        "text": " Do they come in?"
+    },
+    {
+        "start": 828.36,
+        "end": 829.36,
+        "text": " Oh, they come in."
+    },
+    {
+        "start": 829.36,
+        "end": 830.36,
+        "text": " They're like, my favorite scenarios."
+    },
+    {
+        "start": 830.36,
+        "end": 832.96,
+        "text": " I hope somebody from work is listening because I get it."
+    },
+    {
+        "start": 832.96,
+        "end": 835.16,
+        "text": " So come in and they'll like kind of slam their phone on the counter."
+    },
+    {
+        "start": 835.16,
+        "end": 836.16,
+        "text": " But I've paid my bill."
+    },
+    {
+        "start": 836.16,
+        "end": 837.16,
+        "text": " I've done everything I'm supposed to."
+    },
+    {
+        "start": 837.16,
+        "end": 838.16,
+        "text": " And my phone's not working."
+    },
+    {
+        "start": 838.16,
+        "end": 839.16,
+        "text": " Oh, wow."
+    },
+    {
+        "start": 839.16,
+        "end": 840.16,
+        "text": " Anyway, oh, what's there?"
+    },
+    {
+        "start": 840.16,
+        "end": 842.28,
+        "text": " You have this on airplane mode."
+    },
+    {
+        "start": 842.28,
+        "end": 843.28,
+        "text": " It's just a user mistake."
+    },
+    {
+        "start": 843.28,
+        "end": 844.28,
+        "text": " It's okay."
+    },
+    {
+        "start": 844.28,
+        "end": 845.28,
+        "text": " Yeah."
+    },
+    {
+        "start": 845.28,
+        "end": 846.28,
+        "text": " They don't like that answer."
+    },
+    {
+        "start": 846.28,
+        "end": 847.28,
+        "text": " Oh, no, they don't like that."
+    },
+    {
+        "start": 847.28,
+        "end": 848.28,
+        "text": " No accountability."
+    },
+    {
+        "start": 848.28,
+        "end": 849.28,
+        "text": " No, you're trying to have that."
+    },
+    {
+        "start": 849.28,
+        "end": 852.24,
+        "text": " So after you tell them that, they have to go into a million reason why their bills"
+    },
+    {
+        "start": 852.24,
+        "end": 853.24,
+        "text": " too high."
+    },
+    {
+        "start": 853.24,
+        "end": 854.24,
+        "text": " Really?"
+    },
+    {
+        "start": 854.24,
+        "end": 855.24,
+        "text": " It's immediate."
+    },
+    {
+        "start": 855.36,
+        "end": 860.6800000000001,
+        "text": " So would you like in retail, would you even consider it possible to work remotely?"
+    },
+    {
+        "start": 860.6800000000001,
+        "end": 861.6800000000001,
+        "text": " In that side?"
+    },
+    {
+        "start": 861.6800000000001,
+        "end": 862.6800000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 862.6800000000001,
+        "end": 866.28,
+        "text": " I'm sure you do get a lot of phone calls for stuff, but could you really do like a four"
+    },
+    {
+        "start": 866.28,
+        "end": 867.28,
+        "text": " remote work?"
+    },
+    {
+        "start": 867.28,
+        "end": 868.28,
+        "text": " I don't know."
+    },
+    {
+        "start": 868.28,
+        "end": 870.28,
+        "text": " I picture what our customer service goes through over the phone."
+    },
+    {
+        "start": 870.28,
+        "end": 871.28,
+        "text": " Right."
+    },
+    {
+        "start": 871.28,
+        "end": 873.12,
+        "text": " And they always end up having to come to the store."
+    },
+    {
+        "start": 873.12,
+        "end": 874.12,
+        "text": " So I wouldn't think so."
+    },
+    {
+        "start": 874.12,
+        "end": 875.12,
+        "text": " Yeah."
+    },
+    {
+        "start": 875.12,
+        "end": 878.12,
+        "text": " When it comes to phone issues like that, I wouldn't think so."
+    },
+    {
+        "start": 878.12,
+        "end": 879.12,
+        "text": " Yeah."
+    },
+    {
+        "start": 879.12,
+        "end": 880.12,
+        "text": " That does sound rough."
+    },
+    {
+        "start": 880.12,
+        "end": 885.16,
+        "text": " And then especially, so we call it, there's one word we call it, peb gag."
+    },
+    {
+        "start": 885.16,
+        "end": 891.88,
+        "text": " And someone says, peb KAC, if someone in IT ever says it's a peb gag issue, peb gag stands"
+    },
+    {
+        "start": 891.88,
+        "end": 894.6,
+        "text": " for problem exists between keyboard and chair."
+    },
+    {
+        "start": 894.6,
+        "end": 895.6,
+        "text": " I got the person."
+    },
+    {
+        "start": 895.6,
+        "end": 896.6,
+        "text": " I'm not sorry."
+    },
+    {
+        "start": 896.6,
+        "end": 897.6,
+        "text": " I'm not using that."
+    },
+    {
+        "start": 897.6,
+        "end": 898.6,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 898.6,
+        "end": 899.6,
+        "text": " It's a peb gag issue."
+    },
+    {
+        "start": 899.6,
+        "end": 900.6,
+        "text": " Another peb gag issue."
+    },
+    {
+        "start": 900.6,
+        "end": 901.6,
+        "text": " It's a peb gag issue."
+    },
+    {
+        "start": 901.6,
+        "end": 903.6,
+        "text": " It's probably just a keyboard issue."
+    },
+    {
+        "start": 903.6,
+        "end": 904.6,
+        "text": " Yeah, do that."
+    },
+    {
+        "start": 904.6,
+        "end": 907.0799999999999,
+        "text": " We got a peb gag issue."
+    },
+    {
+        "start": 907.0799999999999,
+        "end": 908.0799999999999,
+        "text": " We got a peb gag issue."
+    },
+    {
+        "start": 908.0799999999999,
+        "end": 914.64,
+        "text": " You know, that's been all that's in generally again, a lot of times and when people panic"
+    },
+    {
+        "start": 914.64,
+        "end": 918.84,
+        "text": " and I love giving people my cell phone number, all my coworkers have my cell phone number,"
+    },
+    {
+        "start": 918.84,
+        "end": 921.68,
+        "text": " call me, text me if there's an issue."
+    },
+    {
+        "start": 921.68,
+        "end": 923.96,
+        "text": " So that way they can be able to reach me directly."
+    },
+    {
+        "start": 923.96,
+        "end": 925.4399999999999,
+        "text": " And that's one less thing."
+    },
+    {
+        "start": 925.4399999999999,
+        "end": 929.0,
+        "text": " They don't have to worry about waiting for a ticket wait for someone to respond to it,"
+    },
+    {
+        "start": 929.0,
+        "end": 930.0,
+        "text": " wait for everything else."
+    },
+    {
+        "start": 930.0,
+        "end": 931.3199999999999,
+        "text": " I've had, what time?"
+    },
+    {
+        "start": 931.3199999999999,
+        "end": 934.68,
+        "text": " I've been up to like about seven."
+    },
+    {
+        "start": 934.68,
+        "end": 939.16,
+        "text": " I've had like about at least 14, you know, issues that I've responded to via text."
+    },
+    {
+        "start": 939.16,
+        "end": 940.16,
+        "text": " And it works out."
+    },
+    {
+        "start": 940.16,
+        "end": 941.16,
+        "text": " People feel okay."
+    },
+    {
+        "start": 941.16,
+        "end": 942.16,
+        "text": " Everybody's relaxed."
+    },
+    {
+        "start": 942.16,
+        "end": 944.36,
+        "text": " It's not a lot of, and I'm, and they're not, and they're not, and they're not, and they're"
+    },
+    {
+        "start": 944.4,
+        "end": 945.36,
+        "text": " not angry or nothing."
+    },
+    {
+        "start": 945.36,
+        "end": 947.0,
+        "text": " So yeah, it is what it is."
+    },
+    {
+        "start": 947.0,
+        "end": 952.2,
+        "text": " So would you say like the first thing for, for you guys in Yoss Field, would you say"
+    },
+    {
+        "start": 952.2,
+        "end": 957.4,
+        "text": " like the initial reaction that you would tell someone is to not panic about what's going"
+    },
+    {
+        "start": 957.4,
+        "end": 958.4,
+        "text": " on?"
+    },
+    {
+        "start": 958.4,
+        "end": 959.4,
+        "text": " Right."
+    },
+    {
+        "start": 959.4,
+        "end": 960.4,
+        "text": " Right."
+    },
+    {
+        "start": 960.4,
+        "end": 961.4,
+        "text": " That's always when I go to calm down."
+    },
+    {
+        "start": 961.4,
+        "end": 962.4,
+        "text": " Calm down."
+    },
+    {
+        "start": 962.4,
+        "end": 963.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 963.4,
+        "end": 964.6,
+        "text": " And sometimes you can't tell people some people not to calm down."
+    },
+    {
+        "start": 964.6,
+        "end": 967.4,
+        "text": " You can't tell them because they, they feel how they feel."
+    },
+    {
+        "start": 967.4,
+        "end": 968.64,
+        "text": " They already have the xenophobia."
+    },
+    {
+        "start": 968.64,
+        "end": 969.64,
+        "text": " It's technology."
+    },
+    {
+        "start": 969.64,
+        "end": 971.64,
+        "text": " It's something they don't understand already."
+    },
+    {
+        "start": 971.64,
+        "end": 973.1999999999999,
+        "text": " And we were, we were going through training."
+    },
+    {
+        "start": 973.1999999999999,
+        "end": 975.48,
+        "text": " It was, we were always told to listen before we ever said anything."
+    },
+    {
+        "start": 975.48,
+        "end": 976.48,
+        "text": " There is."
+    },
+    {
+        "start": 976.48,
+        "end": 978.0,
+        "text": " To let them get out what they want to get out."
+    },
+    {
+        "start": 978.0,
+        "end": 979.0,
+        "text": " They want to say."
+    },
+    {
+        "start": 979.0,
+        "end": 980.0,
+        "text": " That's it."
+    },
+    {
+        "start": 980.0,
+        "end": 981.0,
+        "text": " That's good."
+    },
+    {
+        "start": 981.0,
+        "end": 984.0,
+        "text": " Rule two, I'd say to that is don't make people feel, don't insult their intelligence."
+    },
+    {
+        "start": 984.0,
+        "end": 985.0,
+        "text": " Oh, never."
+    },
+    {
+        "start": 985.0,
+        "end": 986.0,
+        "text": " You can't make them feel down."
+    },
+    {
+        "start": 986.0,
+        "end": 987.0,
+        "text": " Don't do that."
+    },
+    {
+        "start": 987.0,
+        "end": 988.0,
+        "text": " No, don't do that."
+    },
+    {
+        "start": 988.0,
+        "end": 989.0,
+        "text": " Never."
+    },
+    {
+        "start": 989.0,
+        "end": 991.0,
+        "text": " That's the general rule for a lot."
+    },
+    {
+        "start": 991.0,
+        "end": 992.0,
+        "text": " It is."
+    },
+    {
+        "start": 992.0,
+        "end": 993.0,
+        "text": " It's something you learn."
+    },
+    {
+        "start": 993.0,
+        "end": 994.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 994.0,
+        "end": 995.0,
+        "text": " It's different."
+    },
+    {
+        "start": 995.0,
+        "end": 997.48,
+        "text": " It's really different when they're insulting you kind of at the same time."
+    },
+    {
+        "start": 997.48,
+        "end": 998.48,
+        "text": " Right."
+    },
+    {
+        "start": 998.48,
+        "end": 999.48,
+        "text": " Right."
+    },
+    {
+        "start": 999.48,
+        "end": 1001.48,
+        "text": " And at the same time, you just kind of swallow it and you just go, okay, now."
+    },
+    {
+        "start": 1001.48,
+        "end": 1002.48,
+        "text": " That's what we do."
+    },
+    {
+        "start": 1002.48,
+        "end": 1003.48,
+        "text": " These are the issues."
+    },
+    {
+        "start": 1003.48,
+        "end": 1004.48,
+        "text": " These how we'll deal with it."
+    },
+    {
+        "start": 1004.48,
+        "end": 1006.36,
+        "text": " Sir, ma'am, this is what we'll do."
+    },
+    {
+        "start": 1006.36,
+        "end": 1010.16,
+        "text": " And this, you know, calm tone, it defeats all that other stuff."
+    },
+    {
+        "start": 1010.16,
+        "end": 1011.16,
+        "text": " So it works."
+    },
+    {
+        "start": 1011.16,
+        "end": 1012.16,
+        "text": " Right."
+    },
+    {
+        "start": 1012.16,
+        "end": 1013.16,
+        "text": " Yeah."
+    },
+    {
+        "start": 1013.16,
+        "end": 1016.2,
+        "text": " Well, I mean, like kind of getting back into it with remote work and stuff."
+    },
+    {
+        "start": 1016.2,
+        "end": 1021.24,
+        "text": " Like we, like all this came about because of problems with fawns and computers that people"
+    },
+    {
+        "start": 1021.24,
+        "end": 1026.2,
+        "text": " are having because of, you know, we'll say because they have to work on it."
+    },
+    {
+        "start": 1026.2,
+        "end": 1030.88,
+        "text": " So what would you guys think like what in 2020, what did you guys think?"
+    },
+    {
+        "start": 1030.88,
+        "end": 1034.5600000000002,
+        "text": " What would you guys think of future of remote work would look like?"
+    },
+    {
+        "start": 1034.5600000000002,
+        "end": 1035.96,
+        "text": " I thought a huge question."
+    },
+    {
+        "start": 1035.96,
+        "end": 1036.96,
+        "text": " I know."
+    },
+    {
+        "start": 1036.96,
+        "end": 1037.96,
+        "text": " It's not."
+    },
+    {
+        "start": 1037.96,
+        "end": 1038.96,
+        "text": " It's not the future."
+    },
+    {
+        "start": 1038.96,
+        "end": 1042.4,
+        "text": " The future was brought about a sense of opportunity."
+    },
+    {
+        "start": 1042.4,
+        "end": 1046.8000000000002,
+        "text": " You had folks for classrooms for like, like we've talked about our kids and everything."
+    },
+    {
+        "start": 1046.8000000000002,
+        "end": 1049.72,
+        "text": " Like in terms of classrooms, how to work things, everything else."
+    },
+    {
+        "start": 1049.72,
+        "end": 1052.0400000000002,
+        "text": " So I think it's opportunity."
+    },
+    {
+        "start": 1052.0400000000002,
+        "end": 1053.5600000000002,
+        "text": " That's what I thought the future was."
+    },
+    {
+        "start": 1053.5600000000002,
+        "end": 1054.5600000000002,
+        "text": " Yeah."
+    },
+    {
+        "start": 1054.5600000000002,
+        "end": 1056.3600000000001,
+        "text": " I think it opened doors for a lot of things too."
+    },
+    {
+        "start": 1056.3600000000001,
+        "end": 1057.3600000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 1057.3600000000001,
+        "end": 1058.3600000000001,
+        "text": " Oh, yeah, for sure."
+    },
+    {
+        "start": 1058.3600000000001,
+        "end": 1060.68,
+        "text": " So just some numbers on that."
+    },
+    {
+        "start": 1060.68,
+        "end": 1064.52,
+        "text": " I think the height of the pandemic in 2020, that number, the number of remote workers"
+    },
+    {
+        "start": 1064.52,
+        "end": 1069.0,
+        "text": " soared to 41.7% of all workers."
+    },
+    {
+        "start": 1069.0,
+        "end": 1075.3600000000001,
+        "text": " And then it kind of in 2023, a total of 27% of Americans work remotely up from 26% last"
+    },
+    {
+        "start": 1075.3600000000001,
+        "end": 1076.3600000000001,
+        "text": " year."
+    },
+    {
+        "start": 1076.3600000000001,
+        "end": 1079.3200000000002,
+        "text": " So the number was high and went down and it's back up again."
+    },
+    {
+        "start": 1079.3200000000002,
+        "end": 1082.52,
+        "text": " It's coming back up a little more."
+    },
+    {
+        "start": 1082.52,
+        "end": 1085.72,
+        "text": " So what's your initial reaction seeing some of those numbers?"
+    },
+    {
+        "start": 1085.72,
+        "end": 1087.28,
+        "text": " Is it what you expect?"
+    },
+    {
+        "start": 1087.28,
+        "end": 1088.28,
+        "text": " I expected."
+    },
+    {
+        "start": 1088.28,
+        "end": 1090.28,
+        "text": " I believe it because, I mean, it's kind of, this is, I mean, it's, I mean, it's kind"
+    },
+    {
+        "start": 1090.28,
+        "end": 1091.28,
+        "text": " of, this is on topic."
+    },
+    {
+        "start": 1091.28,
+        "end": 1095.04,
+        "text": " But so one of our regular customers is a manager at Walmart."
+    },
+    {
+        "start": 1095.04,
+        "end": 1099.04,
+        "text": " And so he said, year before COVID, their main things that come in, look at how the storage"
+    },
+    {
+        "start": 1099.04,
+        "end": 1102.12,
+        "text": " numbers, where, how many, you know, people are buying, what they were doing."
+    },
+    {
+        "start": 1102.12,
+        "end": 1105.76,
+        "text": " Now the first thing that he's instructed to do is look at their grocery pickup, which"
+    },
+    {
+        "start": 1105.76,
+        "end": 1108.24,
+        "text": " didn't exist before COVID at all."
+    },
+    {
+        "start": 1108.24,
+        "end": 1110.44,
+        "text": " So they have to hire entire teams just for grocery."
+    },
+    {
+        "start": 1110.44,
+        "end": 1111.44,
+        "text": " Right."
+    },
+    {
+        "start": 1111.44,
+        "end": 1112.44,
+        "text": " Wow."
+    },
+    {
+        "start": 1112.44,
+        "end": 1113.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 1113.44,
+        "end": 1114.44,
+        "text": " That's a good point."
+    },
+    {
+        "start": 1114.44,
+        "end": 1115.44,
+        "text": " I forgot about that."
+    },
+    {
+        "start": 1115.44,
+        "end": 1116.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 1116.44,
+        "end": 1117.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 1117.44,
+        "end": 1118.44,
+        "text": " Yeah."
+    },
+    {
+        "start": 1118.44,
+        "end": 1122.56,
+        "text": " And my one request is that if you ran a business or a classroom or were an employee or a student"
+    },
+    {
+        "start": 1122.56,
+        "end": 1125.76,
+        "text": " during the pandemic, what adjustments did you make to make it through?"
+    },
+    {
+        "start": 1125.76,
+        "end": 1129.3600000000001,
+        "text": " So let us know about emailing everyday tech at mpbonline.org."
+    },
+    {
+        "start": 1129.3600000000001,
+        "end": 1132.8,
+        "text": " We're going to go to our next break because it's drive time for MPB think radio."
+    },
+    {
+        "start": 1132.8,
+        "end": 1135.92,
+        "text": " And sometimes when you give, you can expect something in return."
+    },
+    {
+        "start": 1135.92,
+        "end": 1139.68,
+        "text": " Be that an MPB branded hoodie pair of socks, a tumbler or even our own streaming service"
+    },
+    {
+        "start": 1139.68,
+        "end": 1144.56,
+        "text": " MPB passport to check out those rewards go online at MPBonline.org."
+    },
+    {
+        "start": 1144.56,
+        "end": 1146.96,
+        "text": " And you know, since you're there, you might as well go ahead and give."
+    },
+    {
+        "start": 1146.96,
+        "end": 1149.8400000000001,
+        "text": " This MPB think radio, I'm Charles Arnold."
+    },
+    {
+        "start": 1149.8400000000001,
+        "end": 1156.3600000000001,
+        "text": " This is a special fall pledge drive podcast episode asking you to support the MPB news and"
+    },
+    {
+        "start": 1156.3600000000001,
+        "end": 1158.88,
+        "text": " information you rely on each day."
+    },
+    {
+        "start": 1158.88,
+        "end": 1160.56,
+        "text": " It's so easy to contribute."
+    },
+    {
+        "start": 1160.56,
+        "end": 1168.8400000000001,
+        "text": " Call 888-3724483 or spend just three minutes online at mpbonline.org."
+    },
+    {
+        "start": 1168.8400000000001,
+        "end": 1170.76,
+        "text": " Thank you for your contribution."
+    },
+    {
+        "start": 1170.76,
+        "end": 1174.52,
+        "text": " We're glad you tune in to our special drive time hour of everyday tech on MPB think"
+    },
+    {
+        "start": 1174.52,
+        "end": 1175.52,
+        "text": " radio."
+    },
+    {
+        "start": 1175.52,
+        "end": 1182.96,
+        "text": " Just consider giving by calling or testing 888-3724483 or by going online at mpbonline.org."
+    },
+    {
+        "start": 1182.96,
+        "end": 1187.0,
+        "text": " This show and all of your other favorite local programs are only possible because of you."
+    },
+    {
+        "start": 1187.0,
+        "end": 1191.56,
+        "text": " So whether you've given already or are planning to give everyday tech and the rest of MPB,"
+    },
+    {
+        "start": 1191.56,
+        "end": 1192.56,
+        "text": " thank you."
+    },
+    {
+        "start": 1192.56,
+        "end": 1193.56,
+        "text": " This is Abraham Nanny."
+    },
+    {
+        "start": 1193.56,
+        "end": 1197.48,
+        "text": " Still here with Shane Chisholm and Sabir Abdul-Hawk to get your questions or comments answered"
+    },
+    {
+        "start": 1197.48,
+        "end": 1201.84,
+        "text": " email us directly at everyday tech at mpbonline.org."
+    },
+    {
+        "start": 1201.84,
+        "end": 1206.1599999999999,
+        "text": " As we've pointed out, teleworking is kind of here to stay and is only going to become"
+    },
+    {
+        "start": 1206.1599999999999,
+        "end": 1208.6799999999998,
+        "text": " a more significant part of our culture moving forward."
+    },
+    {
+        "start": 1208.6799999999998,
+        "end": 1209.9199999999998,
+        "text": " So let's talk how."
+    },
+    {
+        "start": 1209.9199999999998,
+        "end": 1215.8,
+        "text": " How has modern day technology evolved to enable this change in the workforce?"
+    },
+    {
+        "start": 1215.8,
+        "end": 1217.9599999999998,
+        "text": " So what's your first impression on that, Sabir?"
+    },
+    {
+        "start": 1217.9599999999998,
+        "end": 1221.76,
+        "text": " First impression was we were talking about like in terms of, we were both saying in terms"
+    },
+    {
+        "start": 1221.76,
+        "end": 1225.76,
+        "text": " of like opportunity and like options in terms of how things are going."
+    },
+    {
+        "start": 1225.76,
+        "end": 1227.9199999999998,
+        "text": " It also builds to the gig economy."
+    },
+    {
+        "start": 1227.92,
+        "end": 1232.4,
+        "text": " The gig economy being folks that work side work, folks that can't go anywhere."
+    },
+    {
+        "start": 1232.4,
+        "end": 1237.78,
+        "text": " This I would imagine I would love to see the numbers, but I bet like Instacart, Uber,"
+    },
+    {
+        "start": 1237.78,
+        "end": 1243.16,
+        "text": " DoorDash, GrubHub, waiter, all these folks probably had a huge uptick in their sales"
+    },
+    {
+        "start": 1243.16,
+        "end": 1245.5600000000002,
+        "text": " and membership and everything else."
+    },
+    {
+        "start": 1245.5600000000002,
+        "end": 1251.8000000000002,
+        "text": " And even in terms of businesses who might have kind of fallen back in terms of wanting"
+    },
+    {
+        "start": 1251.8000000000002,
+        "end": 1256.24,
+        "text": " to subscribe to their services in order to stay open because they can't afford delivery"
+    },
+    {
+        "start": 1256.24,
+        "end": 1257.48,
+        "text": " folks themselves."
+    },
+    {
+        "start": 1257.48,
+        "end": 1258.48,
+        "text": " You would have to use there."
+    },
+    {
+        "start": 1258.48,
+        "end": 1259.68,
+        "text": " You would kind of use there."
+    },
+    {
+        "start": 1259.68,
+        "end": 1265.68,
+        "text": " So folks that were probably just starting on the burgeoning cusp of things like more"
+    },
+    {
+        "start": 1265.68,
+        "end": 1270.68,
+        "text": " convenience on the service sector like Instacart, like Roger doing the, you know, having"
+    },
+    {
+        "start": 1270.68,
+        "end": 1273.1200000000001,
+        "text": " groceries ready like Walmart, etc."
+    },
+    {
+        "start": 1273.1200000000001,
+        "end": 1280.16,
+        "text": " All those services basically now had justified the reason why they were about to start these"
+    },
+    {
+        "start": 1280.16,
+        "end": 1281.96,
+        "text": " things."
+    },
+    {
+        "start": 1281.96,
+        "end": 1287.4,
+        "text": " Folks like myself, like my company or whatever, I made it easy, salient and cheap."
+    },
+    {
+        "start": 1287.4,
+        "end": 1293.6000000000001,
+        "text": " I only charged $25 for remote connection to folks to fix out, fix someone's computer"
+    },
+    {
+        "start": 1293.6000000000001,
+        "end": 1294.6000000000001,
+        "text": " remotely."
+    },
+    {
+        "start": 1294.6000000000001,
+        "end": 1296.52,
+        "text": " I ain't got to spend no gas on it or anything else like that."
+    },
+    {
+        "start": 1296.52,
+        "end": 1299.3600000000001,
+        "text": " Let me go ahead and jump into this team viewer."
+    },
+    {
+        "start": 1299.3600000000001,
+        "end": 1301.88,
+        "text": " Let me jump into this any desk and put it out there."
+    },
+    {
+        "start": 1301.88,
+        "end": 1307.2800000000002,
+        "text": " I was advertising with Jackson Free Press and other folks or whatever."
+    },
+    {
+        "start": 1307.2800000000002,
+        "end": 1310.48,
+        "text": " Just putting it out there saying like, look, we can fix your computer."
+    },
+    {
+        "start": 1310.48,
+        "end": 1311.68,
+        "text": " It's not that hard."
+    },
+    {
+        "start": 1311.68,
+        "end": 1315.88,
+        "text": " You don't have to go ahead if you're concerned about going to these big box stores or whatever."
+    },
+    {
+        "start": 1315.88,
+        "end": 1320.5200000000002,
+        "text": " You can start anybody going to these other folks, 25 bucks, we can get in your computer,"
+    },
+    {
+        "start": 1320.5200000000002,
+        "end": 1321.5200000000002,
+        "text": " fix it."
+    },
+    {
+        "start": 1321.5200000000002,
+        "end": 1323.0400000000002,
+        "text": " That's very similar to the best buy."
+    },
+    {
+        "start": 1323.0400000000002,
+        "end": 1325.3600000000001,
+        "text": " Best buy wasn't even open when COVID was happening."
+    },
+    {
+        "start": 1325.3600000000001,
+        "end": 1330.72,
+        "text": " And they just randomly re-kicked started, curbs on pickup, which would always been a thing."
+    },
+    {
+        "start": 1330.72,
+        "end": 1333.2,
+        "text": " That's what we were talking about before the show."
+    },
+    {
+        "start": 1333.2,
+        "end": 1334.88,
+        "text": " Curbs on pickup had always been a thing."
+    },
+    {
+        "start": 1334.88,
+        "end": 1337.68,
+        "text": " But then they opened their doors so they can only do that."
+    },
+    {
+        "start": 1337.68,
+        "end": 1338.68,
+        "text": " Curbs that pickup."
+    },
+    {
+        "start": 1338.68,
+        "end": 1339.68,
+        "text": " That was crazy."
+    },
+    {
+        "start": 1339.68,
+        "end": 1340.68,
+        "text": " Yeah."
+    },
+    {
+        "start": 1340.68,
+        "end": 1346.68,
+        "text": " I imagine workers were very much benefiting from how they could still come in and just"
+    },
+    {
+        "start": 1346.68,
+        "end": 1347.68,
+        "text": " working on curbs on pickup."
+    },
+    {
+        "start": 1347.68,
+        "end": 1348.68,
+        "text": " Yeah, just working for curbside."
+    },
+    {
+        "start": 1348.68,
+        "end": 1352.0,
+        "text": " And I know they were doing it a lot because I was there a lot."
+    },
+    {
+        "start": 1352.0,
+        "end": 1353.0,
+        "text": " Every time it was shit."
+    },
+    {
+        "start": 1353.0,
+        "end": 1354.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1354.0,
+        "end": 1355.0,
+        "text": " It's me again."
+    },
+    {
+        "start": 1355.0,
+        "end": 1356.0,
+        "text": " It's me."
+    },
+    {
+        "start": 1356.0,
+        "end": 1357.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1357.0,
+        "end": 1360.0,
+        "text": " Well, that's always fun when the person at the store comes to know you."
+    },
+    {
+        "start": 1360.0,
+        "end": 1361.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1361.0,
+        "end": 1362.0,
+        "text": " That's good."
+    },
+    {
+        "start": 1362.0,
+        "end": 1363.0,
+        "text": " That's good."
+    },
+    {
+        "start": 1363.0,
+        "end": 1367.3200000000002,
+        "text": " So obviously personal devices such as computers, laptops, or even tablets and smartphones"
+    },
+    {
+        "start": 1367.32,
+        "end": 1371.08,
+        "text": " play a big role in moving work from office spaces to home spaces."
+    },
+    {
+        "start": 1371.08,
+        "end": 1375.76,
+        "text": " Because I mean, now everyone has something that they can access the internet with."
+    },
+    {
+        "start": 1375.76,
+        "end": 1376.76,
+        "text": " Right."
+    },
+    {
+        "start": 1376.76,
+        "end": 1377.76,
+        "text": " Right."
+    },
+    {
+        "start": 1377.76,
+        "end": 1381.9199999999998,
+        "text": " And another big factor in everyone, quote unquote, being able to work from home is internet"
+    },
+    {
+        "start": 1381.9199999999998,
+        "end": 1383.4399999999998,
+        "text": " accessibility."
+    },
+    {
+        "start": 1383.4399999999998,
+        "end": 1390.24,
+        "text": " So almost 86% of American households had internet when the pandemic struck in 2020."
+    },
+    {
+        "start": 1390.24,
+        "end": 1392.24,
+        "text": " So that's, yeah, I didn't either."
+    },
+    {
+        "start": 1392.24,
+        "end": 1393.9199999999998,
+        "text": " I thought the number would be much lower."
+    },
+    {
+        "start": 1393.9199999999998,
+        "end": 1394.9199999999998,
+        "text": " Me too."
+    },
+    {
+        "start": 1394.9199999999998,
+        "end": 1395.9199999999998,
+        "text": " Yeah."
+    },
+    {
+        "start": 1395.92,
+        "end": 1398.72,
+        "text": " And now workforce now laying fiber optic like everywhere."
+    },
+    {
+        "start": 1398.72,
+        "end": 1399.72,
+        "text": " Yeah."
+    },
+    {
+        "start": 1399.72,
+        "end": 1402.28,
+        "text": " Areas you would never, ever think would have internet even available."
+    },
+    {
+        "start": 1402.28,
+        "end": 1403.28,
+        "text": " Right."
+    },
+    {
+        "start": 1403.28,
+        "end": 1404.28,
+        "text": " Right."
+    },
+    {
+        "start": 1404.28,
+        "end": 1409.88,
+        "text": " And to that point, there's so that also the need for remote work has opened up opportunity."
+    },
+    {
+        "start": 1409.88,
+        "end": 1413.8000000000002,
+        "text": " I would say not just in terms of small business, but even at the government level."
+    },
+    {
+        "start": 1413.8000000000002,
+        "end": 1414.8000000000002,
+        "text": " No."
+    },
+    {
+        "start": 1414.8000000000002,
+        "end": 1417.68,
+        "text": " Previous administrations and everything else on leaving going political."
+    },
+    {
+        "start": 1417.68,
+        "end": 1422.8000000000002,
+        "text": " But I know one of the things they had forced on was or really put on particularly in"
+    },
+    {
+        "start": 1422.8,
+        "end": 1428.76,
+        "text": " Mississippi was making more rural communities have at least 5G."
+    },
+    {
+        "start": 1428.76,
+        "end": 1429.76,
+        "text": " There are organizations."
+    },
+    {
+        "start": 1429.76,
+        "end": 1434.04,
+        "text": " I'm from South Mississippi and Mary County is where I'm from Columbia."
+    },
+    {
+        "start": 1434.04,
+        "end": 1439.8,
+        "text": " And there are now other small organizations that don't have the big telecommunications"
+    },
+    {
+        "start": 1439.8,
+        "end": 1441.12,
+        "text": " company budget."
+    },
+    {
+        "start": 1441.12,
+        "end": 1445.84,
+        "text": " There are a lot of smaller companies that are providing high speed network to communities"
+    },
+    {
+        "start": 1445.84,
+        "end": 1447.6399999999999,
+        "text": " that one point growing up."
+    },
+    {
+        "start": 1447.6399999999999,
+        "end": 1448.6399999999999,
+        "text": " I had AOL."
+    },
+    {
+        "start": 1448.6399999999999,
+        "end": 1451.6,
+        "text": " I remember the little running man and everything else growing up and everything."
+    },
+    {
+        "start": 1451.6,
+        "end": 1454.84,
+        "text": " I remember all those times, but they growing up."
+    },
+    {
+        "start": 1454.84,
+        "end": 1459.32,
+        "text": " But now those same areas where I'm from, we now have like high speed area."
+    },
+    {
+        "start": 1459.32,
+        "end": 1463.7199999999998,
+        "text": " And I'm from a little community called Low River, which is in some rural Mississippi,"
+    },
+    {
+        "start": 1463.7199999999998,
+        "end": 1465.1599999999999,
+        "text": " as well I'm from."
+    },
+    {
+        "start": 1465.1599999999999,
+        "end": 1471.8799999999999,
+        "text": " And so we now have like, we have the option outside of like the like main big, big folks,"
+    },
+    {
+        "start": 1471.8799999999999,
+        "end": 1478.48,
+        "text": " but we also have like smaller organizations that are providing like high speed and broadband"
+    },
+    {
+        "start": 1478.48,
+        "end": 1479.84,
+        "text": " that weren't there."
+    },
+    {
+        "start": 1479.9199999999998,
+        "end": 1481.4399999999998,
+        "text": " And that didn't exist."
+    },
+    {
+        "start": 1481.4399999999998,
+        "end": 1485.72,
+        "text": " I mean, you had that in Jackson, you had it in Addiesburg, you had it in maybe Laurel,"
+    },
+    {
+        "start": 1485.72,
+        "end": 1486.72,
+        "text": " but you didn't have that."
+    },
+    {
+        "start": 1486.72,
+        "end": 1488.24,
+        "text": " You couldn't get it out in the middle of the woods."
+    },
+    {
+        "start": 1488.24,
+        "end": 1489.24,
+        "text": " You couldn't get it out in the middle of the woods."
+    },
+    {
+        "start": 1489.24,
+        "end": 1493.24,
+        "text": " I'm literally, I'm like, we have like Hollers where I'm from."
+    },
+    {
+        "start": 1493.24,
+        "end": 1497.28,
+        "text": " Yeah, I remember like you could barely send a text message."
+    },
+    {
+        "start": 1497.28,
+        "end": 1499.32,
+        "text": " And then these places have fiber."
+    },
+    {
+        "start": 1499.32,
+        "end": 1500.32,
+        "text": " You got fiber."
+    },
+    {
+        "start": 1500.32,
+        "end": 1504.32,
+        "text": " Or at the bare minimum you have at least 18."
+    },
+    {
+        "start": 1504.32,
+        "end": 1506.1599999999999,
+        "text": " At least 18."
+    },
+    {
+        "start": 1506.16,
+        "end": 1511.72,
+        "text": " Yeah, yeah, 1835 at most, we're talking about like speed, download speed for broadband,"
+    },
+    {
+        "start": 1511.72,
+        "end": 1515.1200000000001,
+        "text": " which is still significantly more than what you would get on your phone."
+    },
+    {
+        "start": 1515.1200000000001,
+        "end": 1517.3600000000001,
+        "text": " So yeah, on your phones, internet connection."
+    },
+    {
+        "start": 1517.3600000000001,
+        "end": 1519.16,
+        "text": " But yeah, it's crazy."
+    },
+    {
+        "start": 1519.16,
+        "end": 1522.48,
+        "text": " Opportunity has been what has happened."
+    },
+    {
+        "start": 1522.48,
+        "end": 1526.5600000000002,
+        "text": " Like I said, you had folks, Instacard, I'm sure all these, all these, you know, drive"
+    },
+    {
+        "start": 1526.5600000000002,
+        "end": 1530.24,
+        "text": " it to your door, bring it to your door, bring your meal to your door."
+    },
+    {
+        "start": 1530.24,
+        "end": 1533.76,
+        "text": " Things have definitely revolutionized the way how we operate."
+    },
+    {
+        "start": 1533.76,
+        "end": 1534.76,
+        "text": " Yeah, we'll give McDonald's."
+    },
+    {
+        "start": 1534.76,
+        "end": 1535.76,
+        "text": " They'll do delivery now."
+    },
+    {
+        "start": 1535.76,
+        "end": 1537.76,
+        "text": " Like grow up hub and stuff."
+    },
+    {
+        "start": 1537.76,
+        "end": 1538.76,
+        "text": " Yeah, for sure."
+    },
+    {
+        "start": 1538.76,
+        "end": 1541.96,
+        "text": " Like you only got like deliveries from pizza places."
+    },
+    {
+        "start": 1541.96,
+        "end": 1542.96,
+        "text": " Right, right, right."
+    },
+    {
+        "start": 1542.96,
+        "end": 1547.76,
+        "text": " Previously, I think they all outsourced to Grubhub and stuff like that."
+    },
+    {
+        "start": 1547.76,
+        "end": 1548.76,
+        "text": " Yeah, yeah."
+    },
+    {
+        "start": 1548.76,
+        "end": 1554.2,
+        "text": " So you know, you guys know me, I got to throw in my personal theory on this type of stuff."
+    },
+    {
+        "start": 1554.2,
+        "end": 1557.36,
+        "text": " So my personal purpose, that you will."
+    },
+    {
+        "start": 1557.36,
+        "end": 1562.68,
+        "text": " My personal opinion on the main reason people had the ability to work from home is the scary"
+    },
+    {
+        "start": 1562.68,
+        "end": 1564.2,
+        "text": " tech word, the cloud."
+    },
+    {
+        "start": 1564.2,
+        "end": 1565.2,
+        "text": " Yeah."
+    },
+    {
+        "start": 1565.2,
+        "end": 1567.2,
+        "text": " So Shane, what is the cloud?"
+    },
+    {
+        "start": 1567.2,
+        "end": 1568.52,
+        "text": " Man, I'm going to be honest with you."
+    },
+    {
+        "start": 1568.52,
+        "end": 1569.52,
+        "text": " I'd hate explaining that."
+    },
+    {
+        "start": 1569.52,
+        "end": 1570.52,
+        "text": " I'm really."
+    },
+    {
+        "start": 1570.52,
+        "end": 1572.1200000000001,
+        "text": " I can't explain it to me."
+    },
+    {
+        "start": 1572.1200000000001,
+        "end": 1573.3600000000001,
+        "text": " I can't explain it to you."
+    },
+    {
+        "start": 1573.3600000000001,
+        "end": 1574.3600000000001,
+        "text": " It's just out there."
+    },
+    {
+        "start": 1574.3600000000001,
+        "end": 1575.3600000000001,
+        "text": " I guess."
+    },
+    {
+        "start": 1575.3600000000001,
+        "end": 1577.3600000000001,
+        "text": " I've got to be your nose every time people turn around."
+    },
+    {
+        "start": 1577.3600000000001,
+        "end": 1578.8600000000001,
+        "text": " I give it to you."
+    },
+    {
+        "start": 1578.8600000000001,
+        "end": 1579.8600000000001,
+        "text": " I give it to you."
+    },
+    {
+        "start": 1579.8600000000001,
+        "end": 1581.44,
+        "text": " The cloud is any computer."
+    },
+    {
+        "start": 1581.44,
+        "end": 1584.0800000000002,
+        "text": " If you turn on the computer right and front of you, you turn on the computer right and"
+    },
+    {
+        "start": 1584.0800000000002,
+        "end": 1585.0800000000002,
+        "text": " front of you."
+    },
+    {
+        "start": 1585.0800000000002,
+        "end": 1587.1200000000001,
+        "text": " And then Shane turns on the computer."
+    },
+    {
+        "start": 1587.1200000000001,
+        "end": 1590.04,
+        "text": " And if I connect it to Shane's computer, that is a cloud."
+    },
+    {
+        "start": 1590.04,
+        "end": 1593.8400000000001,
+        "text": " Anything that is not the computer in front of you if you're connecting to it is technically"
+    },
+    {
+        "start": 1593.84,
+        "end": 1594.84,
+        "text": " the cloud."
+    },
+    {
+        "start": 1594.84,
+        "end": 1596.8799999999999,
+        "text": " It's a remote computer, the cloud."
+    },
+    {
+        "start": 1596.8799999999999,
+        "end": 1597.8799999999999,
+        "text": " It's not just weather."
+    },
+    {
+        "start": 1597.8799999999999,
+        "end": 1599.1599999999999,
+        "text": " It's not just for weather anymore."
+    },
+    {
+        "start": 1599.1599999999999,
+        "end": 1600.1599999999999,
+        "text": " Oh, never mind."
+    },
+    {
+        "start": 1600.1599999999999,
+        "end": 1604.76,
+        "text": " It's too bad that Halloween was yesterday because it's spooky, scary."
+    },
+    {
+        "start": 1604.76,
+        "end": 1605.76,
+        "text": " Oh my god."
+    },
+    {
+        "start": 1605.76,
+        "end": 1606.76,
+        "text": " Tell the cloud."
+    },
+    {
+        "start": 1606.76,
+        "end": 1608.76,
+        "text": " I would have pressed up as a cloud."
+    },
+    {
+        "start": 1608.76,
+        "end": 1610.9199999999998,
+        "text": " The school was trying to talk about that."
+    },
+    {
+        "start": 1610.9199999999998,
+        "end": 1612.32,
+        "text": " I would have just stepped up as a cloud."
+    },
+    {
+        "start": 1612.32,
+        "end": 1613.8,
+        "text": " They were like, what are you on the cloud?"
+    },
+    {
+        "start": 1613.8,
+        "end": 1617.56,
+        "text": " It was a very big common misconception people have with their phones and the cloud too."
+    },
+    {
+        "start": 1617.56,
+        "end": 1618.56,
+        "text": " Is there a cloud?"
+    },
+    {
+        "start": 1618.56,
+        "end": 1619.6799999999998,
+        "text": " We'll tell them they're running out of storage."
+    },
+    {
+        "start": 1619.6799999999998,
+        "end": 1620.6799999999998,
+        "text": " No."
+    },
+    {
+        "start": 1620.6799999999998,
+        "end": 1622.52,
+        "text": " And they will assume that there are phone is on the storage."
+    },
+    {
+        "start": 1622.52,
+        "end": 1625.36,
+        "text": " I'm like, you have 256 gigs of my life."
+    },
+    {
+        "start": 1625.36,
+        "end": 1626.36,
+        "text": " That's not the way I live."
+    },
+    {
+        "start": 1626.36,
+        "end": 1627.36,
+        "text": " Why are you telling me I know?"
+    },
+    {
+        "start": 1627.36,
+        "end": 1628.36,
+        "text": " It's the cloud."
+    },
+    {
+        "start": 1628.36,
+        "end": 1629.36,
+        "text": " It's just the backup."
+    },
+    {
+        "start": 1629.36,
+        "end": 1631.92,
+        "text": " It's the backup of the backup."
+    },
+    {
+        "start": 1631.92,
+        "end": 1632.92,
+        "text": " That's what it is."
+    },
+    {
+        "start": 1632.92,
+        "end": 1634.4,
+        "text": " Anything that's not the cloud."
+    },
+    {
+        "start": 1634.4,
+        "end": 1635.52,
+        "text": " So great question."
+    },
+    {
+        "start": 1635.52,
+        "end": 1639.2,
+        "text": " The cloud is anything that is not connected to your device."
+    },
+    {
+        "start": 1639.2,
+        "end": 1643.16,
+        "text": " My phone, if my phone were to connect to your phone, my phone were to connect to a computer."
+    },
+    {
+        "start": 1643.16,
+        "end": 1644.56,
+        "text": " That's basically a cloud."
+    },
+    {
+        "start": 1644.56,
+        "end": 1649.0,
+        "text": " Anything that's a remote computer, a remote storage device is the cloud."
+    },
+    {
+        "start": 1649.0,
+        "end": 1651.16,
+        "text": " So just for a little bit of reference."
+    },
+    {
+        "start": 1651.16,
+        "end": 1656.52,
+        "text": " PCMag.com defines the cloud as a term that often refers to the internet, which more precisely"
+    },
+    {
+        "start": 1656.52,
+        "end": 1661.4,
+        "text": " means data centers full of servers connected to the internet performing services."
+    },
+    {
+        "start": 1661.4,
+        "end": 1662.4,
+        "text": " Exactly."
+    },
+    {
+        "start": 1662.4,
+        "end": 1665.28,
+        "text": " So you may some mic and steal my data from the cloud."
+    },
+    {
+        "start": 1665.28,
+        "end": 1666.28,
+        "text": " From the cloud."
+    },
+    {
+        "start": 1666.28,
+        "end": 1667.28,
+        "text": " That makes you serious."
+    },
+    {
+        "start": 1667.28,
+        "end": 1668.28,
+        "text": " You like it?"
+    },
+    {
+        "start": 1668.28,
+        "end": 1669.28,
+        "text": " Yeah."
+    },
+    {
+        "start": 1669.28,
+        "end": 1670.28,
+        "text": " It's like a neck cloud."
+    },
+    {
+        "start": 1670.28,
+        "end": 1671.28,
+        "text": " Yeah."
+    },
+    {
+        "start": 1671.28,
+        "end": 1676.3600000000001,
+        "text": " But it is time to give the mic to someone else here at MPB because of course it's drive"
+    },
+    {
+        "start": 1676.3600000000001,
+        "end": 1677.3600000000001,
+        "text": " time."
+    },
+    {
+        "start": 1677.3600000000001,
+        "end": 1680.48,
+        "text": " Now all of us here at Everyday Tech appreciate your contribution of any amount."
+    },
+    {
+        "start": 1680.48,
+        "end": 1683.8,
+        "text": " I just want to say thank you so much for all the contributions this week."
+    },
+    {
+        "start": 1683.8,
+        "end": 1690.28,
+        "text": " And if you haven't yet, please go online at MPBOnline.org or text or call 888-372-4483."
+    },
+    {
+        "start": 1690.28,
+        "end": 1694.32,
+        "text": " We appreciate you listening to Everyday Tech here on MPB Think Radio with myself, Abram"
+    },
+    {
+        "start": 1694.32,
+        "end": 1697.4,
+        "text": " Nanny and with Saberabdel Huck and Shane Chisholm."
+    },
+    {
+        "start": 1697.4,
+        "end": 1702.2,
+        "text": " If you have questions for us at any time, email the show at Everyday Tech at MPBOnline.org."
+    },
+    {
+        "start": 1702.2,
+        "end": 1707.44,
+        "text": " So moving on from some of the quote unquote typical remote work talk, what are the advantages"
+    },
+    {
+        "start": 1707.44,
+        "end": 1711.4,
+        "text": " of remote work for people who may be sort of atypical workers?"
+    },
+    {
+        "start": 1711.4,
+        "end": 1716.0800000000002,
+        "text": " Of course by that, I mean someone who has a disability or severely struggles socially."
+    },
+    {
+        "start": 1716.0800000000002,
+        "end": 1718.16,
+        "text": " That's a great question."
+    },
+    {
+        "start": 1718.16,
+        "end": 1722.04,
+        "text": " Well, the first thing that jumps straight to my mind is parenting regardless."
+    },
+    {
+        "start": 1722.04,
+        "end": 1726.28,
+        "text": " Because you may have one of those, you may fit into that category."
+    },
+    {
+        "start": 1726.28,
+        "end": 1731.1200000000001,
+        "text": " But in parenting, a lot of times daycares were closing."
+    },
+    {
+        "start": 1731.1200000000001,
+        "end": 1733.3200000000002,
+        "text": " Baby-sitting services were closing."
+    },
+    {
+        "start": 1733.32,
+        "end": 1738.72,
+        "text": " And of course that impacted those industries and those folks that ran organizations and"
+    },
+    {
+        "start": 1738.72,
+        "end": 1740.24,
+        "text": " businesses like that."
+    },
+    {
+        "start": 1740.24,
+        "end": 1743.24,
+        "text": " But I mean, at least you're able to stay at home with the kids to be able to, you know,"
+    },
+    {
+        "start": 1743.24,
+        "end": 1746.04,
+        "text": " if you're working at home, one less thing to worry about."
+    },
+    {
+        "start": 1746.04,
+        "end": 1747.04,
+        "text": " So, yeah."
+    },
+    {
+        "start": 1747.04,
+        "end": 1748.04,
+        "text": " Yeah."
+    },
+    {
+        "start": 1748.04,
+        "end": 1749.04,
+        "text": " Yeah."
+    },
+    {
+        "start": 1749.04,
+        "end": 1754.3999999999999,
+        "text": " I do imagine that a lot of, you know, atypical students had a lot of maybe a better experience"
+    },
+    {
+        "start": 1754.3999999999999,
+        "end": 1757.32,
+        "text": " with remote work than some others."
+    },
+    {
+        "start": 1757.32,
+        "end": 1761.8799999999999,
+        "text": " So obviously there's work accessibility when staying at home like you can, you don't have"
+    },
+    {
+        "start": 1761.88,
+        "end": 1764.68,
+        "text": " to get up and go around stairs and stuff as much."
+    },
+    {
+        "start": 1764.68,
+        "end": 1765.68,
+        "text": " Yeah."
+    },
+    {
+        "start": 1765.68,
+        "end": 1766.68,
+        "text": " Yeah."
+    },
+    {
+        "start": 1766.68,
+        "end": 1767.68,
+        "text": " You know, drive to work."
+    },
+    {
+        "start": 1767.68,
+        "end": 1768.68,
+        "text": " Get someone to drive you to work."
+    },
+    {
+        "start": 1768.68,
+        "end": 1771.96,
+        "text": " Do you think there's a statistic out there from where kids started going like when the"
+    },
+    {
+        "start": 1771.96,
+        "end": 1774.72,
+        "text": " COVID happened that they had to do remote schooling?"
+    },
+    {
+        "start": 1774.72,
+        "end": 1776.72,
+        "text": " That stayed and just finished through homeschooling?"
+    },
+    {
+        "start": 1776.72,
+        "end": 1778.92,
+        "text": " That's, that's, I'm sure there is."
+    },
+    {
+        "start": 1778.92,
+        "end": 1780.5200000000002,
+        "text": " That is a good, that's a good parallel."
+    },
+    {
+        "start": 1780.5200000000002,
+        "end": 1782.3200000000002,
+        "text": " Yeah, that's a good way to deal with people."
+    },
+    {
+        "start": 1782.3200000000002,
+        "end": 1783.72,
+        "text": " Sound out that they were much better."
+    },
+    {
+        "start": 1783.72,
+        "end": 1784.72,
+        "text": " Right."
+    },
+    {
+        "start": 1784.72,
+        "end": 1785.72,
+        "text": " And we're not like, succeeding better."
+    },
+    {
+        "start": 1785.72,
+        "end": 1786.72,
+        "text": " Yeah."
+    },
+    {
+        "start": 1786.72,
+        "end": 1788.3200000000002,
+        "text": " Like you and school from home."
+    },
+    {
+        "start": 1788.3200000000002,
+        "end": 1789.3200000000002,
+        "text": " Yeah."
+    },
+    {
+        "start": 1789.32,
+        "end": 1791.84,
+        "text": " I just might, some kids might have just been nervous in school whatever."
+    },
+    {
+        "start": 1791.84,
+        "end": 1795.5,
+        "text": " You know, just think about the, you know, I'm sure that the joys of, of going to middle"
+    },
+    {
+        "start": 1795.5,
+        "end": 1798.48,
+        "text": " school and high school, all of us, that we can say, oh my God, this would have been so"
+    },
+    {
+        "start": 1798.48,
+        "end": 1800.82,
+        "text": " much easier if I could have done just that on."
+    },
+    {
+        "start": 1800.82,
+        "end": 1802.56,
+        "text": " Yeah, I didn't know how I'm schooling was a thing."
+    },
+    {
+        "start": 1802.56,
+        "end": 1803.56,
+        "text": " What?"
+    },
+    {
+        "start": 1803.56,
+        "end": 1804.56,
+        "text": " Yeah really is indeed."
+    },
+    {
+        "start": 1804.56,
+        "end": 1806.3999999999999,
+        "text": " But I mean, I would say that is definitely something that's a good point."
+    },
+    {
+        "start": 1806.3999999999999,
+        "end": 1812.28,
+        "text": " I know some good friends of mine who, you know, only, you know, choose to home school"
+    },
+    {
+        "start": 1812.28,
+        "end": 1813.28,
+        "text": " and everything."
+    },
+    {
+        "start": 1813.28,
+        "end": 1816.9199999999998,
+        "text": " So I think that, you know, for them to be able to follow that kind of thinking and everything"
+    },
+    {
+        "start": 1816.9199999999998,
+        "end": 1819.08,
+        "text": " and that rubric for their kids, shoot."
+    },
+    {
+        "start": 1819.08,
+        "end": 1822.1599999999999,
+        "text": " I mean, I'm sure that just only fortified where they were doing things."
+    },
+    {
+        "start": 1822.1599999999999,
+        "end": 1823.1599999999999,
+        "text": " So, yeah, for sure."
+    },
+    {
+        "start": 1823.1599999999999,
+        "end": 1824.1599999999999,
+        "text": " That makes sense."
+    },
+    {
+        "start": 1824.1599999999999,
+        "end": 1825.1599999999999,
+        "text": " That definitely makes sense."
+    },
+    {
+        "start": 1825.1599999999999,
+        "end": 1829.04,
+        "text": " And there was, there was a lot of stuff that developed during that time to, to kind of"
+    },
+    {
+        "start": 1829.04,
+        "end": 1834.52,
+        "text": " help, you know, it goes with disabilities or, or people who just needed help with that"
+    },
+    {
+        "start": 1834.52,
+        "end": 1837.24,
+        "text": " sort of idea or that sort of area."
+    },
+    {
+        "start": 1837.24,
+        "end": 1843.0,
+        "text": " So like seeing AI, which is something that analyzes visuals on a screen and describes them"
+    },
+    {
+        "start": 1843.0,
+        "end": 1844.32,
+        "text": " to you."
+    },
+    {
+        "start": 1844.32,
+        "end": 1848.0,
+        "text": " That's, you know, I can imagine there's plenty of uses for that."
+    },
+    {
+        "start": 1848.0,
+        "end": 1855.32,
+        "text": " Also, I think I'm, and for us, for us PC users, as Windows users, I learned the Windows"
+    },
+    {
+        "start": 1855.32,
+        "end": 1858.12,
+        "text": " key and the letter H. That's how you turn on dictation."
+    },
+    {
+        "start": 1858.12,
+        "end": 1859.64,
+        "text": " That's the hot key for dictation."
+    },
+    {
+        "start": 1859.64,
+        "end": 1863.92,
+        "text": " So if you have a PC, you press the Windows key and letter H, little mic comes up and it"
+    },
+    {
+        "start": 1863.92,
+        "end": 1867.76,
+        "text": " starts, it starts listening to you and you can go ahead and, so you can start typing."
+    },
+    {
+        "start": 1867.76,
+        "end": 1871.88,
+        "text": " So if you, you know, sometimes when I'm doing some of my press releases or everything,"
+    },
+    {
+        "start": 1871.88,
+        "end": 1874.32,
+        "text": " I need some time to be able to gather my thoughts."
+    },
+    {
+        "start": 1874.32,
+        "end": 1877.6,
+        "text": " So I'll spit my whole nice little muddled statement or whatever."
+    },
+    {
+        "start": 1877.6,
+        "end": 1878.6,
+        "text": " Then go back and touch it up."
+    },
+    {
+        "start": 1878.6,
+        "end": 1880.6,
+        "text": " Go ahead and let me add."
+    },
+    {
+        "start": 1880.6,
+        "end": 1881.6,
+        "text": " Yeah."
+    },
+    {
+        "start": 1881.6,
+        "end": 1882.6,
+        "text": " But like, yeah."
+    },
+    {
+        "start": 1882.6,
+        "end": 1885.0,
+        "text": " So, yeah, listeners, if you didn't know that and if you have Windows, I don't know what"
+    },
+    {
+        "start": 1885.0,
+        "end": 1889.3999999999999,
+        "text": " it is, I don't know what it is on Mac, but on Windows key and the letter H, you press those"
+    },
+    {
+        "start": 1889.3999999999999,
+        "end": 1892.56,
+        "text": " two, it pops up and then it'll start dictating for you."
+    },
+    {
+        "start": 1892.56,
+        "end": 1893.9599999999998,
+        "text": " Also, something else that helps."
+    },
+    {
+        "start": 1893.9599999999998,
+        "end": 1899.8,
+        "text": " I mean, I think just in terms of like in, and I'm thinking about folks that may have like"
+    },
+    {
+        "start": 1899.8,
+        "end": 1905.84,
+        "text": " certain conditions or disabilities or atypical things, they, that would help the narrator function."
+    },
+    {
+        "start": 1905.84,
+        "end": 1907.9199999999998,
+        "text": " I'm sorry, I use narrator more regularly."
+    },
+    {
+        "start": 1907.9199999999998,
+        "end": 1911.4399999999998,
+        "text": " Those things, being able to dictate and be able to speak out what you're trying to say"
+    },
+    {
+        "start": 1911.4399999999998,
+        "end": 1915.9199999999998,
+        "text": " and also be able to narrate better, I feel like I had a lot of folks, I had a lot of calls"
+    },
+    {
+        "start": 1915.9199999999998,
+        "end": 1921.1599999999999,
+        "text": " when people said that their narrator function or their dictation functions went out or they"
+    },
+    {
+        "start": 1921.1599999999999,
+        "end": 1922.3999999999999,
+        "text": " didn't quite know I'd understand."
+    },
+    {
+        "start": 1922.3999999999999,
+        "end": 1927.8,
+        "text": " I had a number of folks and good friends of mine that are in the, that are in the disability"
+    },
+    {
+        "start": 1927.8,
+        "end": 1928.8,
+        "text": " community."
+    },
+    {
+        "start": 1928.8,
+        "end": 1932.72,
+        "text": " I've worked with good friends with a concerned citizens for disabilities that did their"
+    },
+    {
+        "start": 1932.72,
+        "end": 1934.1599999999999,
+        "text": " website years back."
+    },
+    {
+        "start": 1934.16,
+        "end": 1937.3600000000001,
+        "text": " But some of those folks, I've had a few folks that called me and I'm like, how do I do this"
+    },
+    {
+        "start": 1937.3600000000001,
+        "end": 1938.92,
+        "text": " narration thing again?"
+    },
+    {
+        "start": 1938.92,
+        "end": 1941.76,
+        "text": " That, things like that are very important."
+    },
+    {
+        "start": 1941.76,
+        "end": 1946.4,
+        "text": " Yeah, and you know, obviously talking about the pandemic and remote work and stuff,"
+    },
+    {
+        "start": 1946.4,
+        "end": 1952.4,
+        "text": " Zoom comes up and Zoom transcripts, which auto captions, active Zoom meetings."
+    },
+    {
+        "start": 1952.4,
+        "end": 1958.6000000000001,
+        "text": " I imagine that is a, a big help for those with hearing struggles or loss or something"
+    },
+    {
+        "start": 1958.6000000000001,
+        "end": 1959.6000000000001,
+        "text": " like that."
+    },
+    {
+        "start": 1959.6000000000001,
+        "end": 1960.6000000000001,
+        "text": " Definitely, definitely."
+    },
+    {
+        "start": 1960.6,
+        "end": 1964.8,
+        "text": " And also in terms of blue screen, like blue eye reduction, blue screen reduction, that's"
+    },
+    {
+        "start": 1964.8,
+        "end": 1969.6799999999998,
+        "text": " also something that they have both on phones and on computers to be able to quickly turn"
+    },
+    {
+        "start": 1969.6799999999998,
+        "end": 1972.6,
+        "text": " that around for, you know, those that may have certain visual impairments."
+    },
+    {
+        "start": 1972.6,
+        "end": 1973.6,
+        "text": " Yeah, for sure."
+    },
+    {
+        "start": 1973.6,
+        "end": 1978.08,
+        "text": " And there's also, you know, voice access, which I'm sure you guys deal with a lot of"
+    },
+    {
+        "start": 1978.08,
+        "end": 1979.08,
+        "text": " phones."
+    },
+    {
+        "start": 1979.08,
+        "end": 1980.08,
+        "text": " Oh, yes, indeed."
+    },
+    {
+        "start": 1980.08,
+        "end": 1981.08,
+        "text": " Yes, indeed."
+    },
+    {
+        "start": 1981.08,
+        "end": 1982.08,
+        "text": " So, yeah."
+    },
+    {
+        "start": 1982.08,
+        "end": 1985.8799999999999,
+        "text": " Yeah, all those things make, and the smart homes and then also goes with something else,"
+    },
+    {
+        "start": 1985.8799999999999,
+        "end": 1986.8799999999999,
+        "text": " right?"
+    },
+    {
+        "start": 1986.88,
+        "end": 1991.16,
+        "text": " So, it became more, I think more of a, they were already a thing, but they started, I"
+    },
+    {
+        "start": 1991.16,
+        "end": 1994.64,
+        "text": " think they started dropping their prices because they realized that."
+    },
+    {
+        "start": 1994.64,
+        "end": 1995.64,
+        "text": " That's also so."
+    },
+    {
+        "start": 1995.64,
+        "end": 1996.64,
+        "text": " Yeah."
+    },
+    {
+        "start": 1996.64,
+        "end": 2000.5200000000002,
+        "text": " So, so for personal special shout out to Mike Duke and the radio reading service here at"
+    },
+    {
+        "start": 2000.5200000000002,
+        "end": 2006.68,
+        "text": " MPB, which is for, you know, those who are, you know, struggling with vision problems"
+    },
+    {
+        "start": 2006.68,
+        "end": 2008.68,
+        "text": " the loss and whatever."
+    },
+    {
+        "start": 2008.68,
+        "end": 2011.3600000000001,
+        "text": " So, that, that is a cool thing that was here at MPB."
+    },
+    {
+        "start": 2011.3600000000001,
+        "end": 2012.3600000000001,
+        "text": " Props to it."
+    },
+    {
+        "start": 2012.3600000000001,
+        "end": 2015.8200000000002,
+        "text": " And as a final note on this subject, I'd like to include that the national trends and disability"
+    },
+    {
+        "start": 2015.82,
+        "end": 2021.58,
+        "text": " employment reports stated that in historic high of 38% of disabled people were employed"
+    },
+    {
+        "start": 2021.58,
+        "end": 2026.22,
+        "text": " at the end of 2022, 2022 compared to 34% in 2019 in 2020."
+    },
+    {
+        "start": 2026.22,
+        "end": 2027.22,
+        "text": " Good."
+    },
+    {
+        "start": 2027.22,
+        "end": 2028.22,
+        "text": " Good."
+    },
+    {
+        "start": 2028.22,
+        "end": 2029.22,
+        "text": " Excellent."
+    },
+    {
+        "start": 2029.22,
+        "end": 2030.22,
+        "text": " So, that's very cool."
+    },
+    {
+        "start": 2030.22,
+        "end": 2032.22,
+        "text": " So, that's just some stuff that I wanted to throw in there, but that's going to wrap us"
+    },
+    {
+        "start": 2032.22,
+        "end": 2033.22,
+        "text": " up for the day."
+    },
+    {
+        "start": 2033.22,
+        "end": 2035.3,
+        "text": " Thanks, Sabir, and Shane, for helping me out."
+    },
+    {
+        "start": 2035.3,
+        "end": 2037.4199999999998,
+        "text": " It's always a good time doing this with you too."
+    },
+    {
+        "start": 2037.4199999999998,
+        "end": 2039.02,
+        "text": " So, I appreciate you both."
+    },
+    {
+        "start": 2039.02,
+        "end": 2040.02,
+        "text": " Yes, indeed."
+    },
+    {
+        "start": 2040.02,
+        "end": 2041.02,
+        "text": " You're welcome."
+    },
+    {
+        "start": 2041.02,
+        "end": 2044.3,
+        "text": " If you missed any of the hour, make sure you listen back to it on your favorite podcasting"
+    },
+    {
+        "start": 2044.3,
+        "end": 2046.82,
+        "text": " app or download the MPB public media app."
+    },
+    {
+        "start": 2046.82,
+        "end": 2048.82,
+        "text": " Our show today was engineered by Jim Mayn Flud."
+    },
+    {
+        "start": 2048.82,
+        "end": 2050.14,
+        "text": " I've been your host, Abraham Nanny."
+    },
+    {
+        "start": 2050.14,
+        "end": 2051.62,
+        "text": " I'm also the podcast producer."
+    },
+    {
+        "start": 2051.62,
+        "end": 2056.42,
+        "text": " We'll be back next Wednesday morning at 10, but up next at 11 is Dr. Jim and the original"
+    },
+    {
+        "start": 2056.42,
+        "end": 2058.7,
+        "text": " Southern remedies to stick around for that."
+    },
+    {
+        "start": 2058.7,
+        "end": 2062.46,
+        "text": " Everyday tech is brought to you by Mississippi Public Broadcasting Think Radio and of course,"
+    },
+    {
+        "start": 2062.46,
+        "end": 2065.14,
+        "text": " most importantly, generous contributions from listeners like you."
+    },
+    {
+        "start": 2065.14,
+        "end": 2068.86,
+        "text": " And to be honest with you, it's really cool to me that I get to do this and bring the"
+    },
+    {
+        "start": 2068.86,
+        "end": 2070.86,
+        "text": " service to you every week."
+    },
+    {
+        "start": 2070.86,
+        "end": 2072.7,
+        "text": " I'm honored to do it and it's all because of you."
+    },
+    {
+        "start": 2072.7,
+        "end": 2076.14,
+        "text": " So, this show is made for you, but also made possible by you."
+    },
+    {
+        "start": 2076.14,
+        "end": 2077.14,
+        "text": " So, thank you."
+    },
+    {
+        "start": 2077.14,
+        "end": 2079.5,
+        "text": " This is an MPB Think Radio podcast."
+    },
+    {
+        "start": 2079.5,
+        "end": 2086.04,
+        "text": " To hear previous shows, visit mpbonline.org or download the MPB public radio app to"
+    },
+    {
+        "start": 2086.04,
+        "end": 2088.62,
+        "text": " listen on your iPhone or Android phone on domain."
+    }
+]

@@ -1,0 +1,4487 @@
+[
+    {
+        "start": 0.0,
+        "end": 10.76,
+        "text": " What is up people of the internet welcome back to another episode of the Waveform podcast"
+    },
+    {
+        "start": 10.76,
+        "end": 13.4,
+        "text": " this time a bit of a fun special one."
+    },
+    {
+        "start": 13.4,
+        "end": 15.280000000000001,
+        "text": " So a bit of a background."
+    },
+    {
+        "start": 15.280000000000001,
+        "end": 18.72,
+        "text": " We've been making lots of videos on tech for a long time right?"
+    },
+    {
+        "start": 18.72,
+        "end": 23.44,
+        "text": " Lots of consumer electronics, lots of tech companies and the stories behind them."
+    },
+    {
+        "start": 23.44,
+        "end": 28.12,
+        "text": " But you might have noticed lately in the past couple of years we've seen more and more"
+    },
+    {
+        "start": 28.12,
+        "end": 32.96,
+        "text": " climate related messaging from these companies as we all sort of get on the same page that"
+    },
+    {
+        "start": 32.96,
+        "end": 37.08,
+        "text": " they should be more responsible about their impact on the climate."
+    },
+    {
+        "start": 37.08,
+        "end": 41.0,
+        "text": " You might remember the sketch with Tim Cook and Mother Nature and the last Apple event"
+    },
+    {
+        "start": 41.0,
+        "end": 46.84,
+        "text": " or any number of various quotes about percent of recycled materials in this and sustainability"
+    },
+    {
+        "start": 46.84,
+        "end": 51.120000000000005,
+        "text": " reusability that in any sort of key notes we've been noticing lately."
+    },
+    {
+        "start": 51.120000000000005,
+        "end": 55.36,
+        "text": " And I want to be able to analyze all that but I don't know nearly enough about it to make"
+    },
+    {
+        "start": 55.36,
+        "end": 57.72,
+        "text": " really good analysis of that."
+    },
+    {
+        "start": 57.72,
+        "end": 60.6,
+        "text": " So this episode we have someone who can."
+    },
+    {
+        "start": 60.6,
+        "end": 64.84,
+        "text": " So Raleigh from Climate Town is joining us David's to my left, Raleigh's to my right."
+    },
+    {
+        "start": 64.84,
+        "end": 68.72,
+        "text": " We're going to talk about all of these companies, their claims."
+    },
+    {
+        "start": 68.72,
+        "end": 71.92,
+        "text": " We're going to zoom out as far as we can to try to understand what they're doing and what"
+    },
+    {
+        "start": 71.92,
+        "end": 74.0,
+        "text": " they maybe should be doing."
+    },
+    {
+        "start": 74.0,
+        "end": 76.32,
+        "text": " And I think this is a really good conversation to have."
+    },
+    {
+        "start": 76.32,
+        "end": 78.44,
+        "text": " So Raleigh thanks for joining me."
+    },
+    {
+        "start": 78.44,
+        "end": 79.44,
+        "text": " Thank you so much for having me."
+    },
+    {
+        "start": 79.44,
+        "end": 81.52,
+        "text": " I'm really excited to be in the in the layer."
+    },
+    {
+        "start": 81.52,
+        "end": 82.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 82.52,
+        "end": 83.52,
+        "text": " In the hot seat."
+    },
+    {
+        "start": 83.52,
+        "end": 84.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 84.52,
+        "end": 87.68,
+        "text": " I mean we we have a ton of questions and I feel like probably the best pace to start is"
+    },
+    {
+        "start": 87.68,
+        "end": 89.0,
+        "text": " with what you do."
+    },
+    {
+        "start": 89.0,
+        "end": 92.0,
+        "text": " So your YouTube channel Climate Town, I've watched a bunch of the videos."
+    },
+    {
+        "start": 92.0,
+        "end": 93.0,
+        "text": " Thank you so much."
+    },
+    {
+        "start": 93.0,
+        "end": 97.04,
+        "text": " Some of them incredibly informative about things that I never would have even thought to"
+    },
+    {
+        "start": 97.04,
+        "end": 99.52000000000001,
+        "text": " look into like recycling."
+    },
+    {
+        "start": 99.52000000000001,
+        "end": 100.52000000000001,
+        "text": " The latest one about roads."
+    },
+    {
+        "start": 100.52000000000001,
+        "end": 101.52000000000001,
+        "text": " Oh yeah."
+    },
+    {
+        "start": 101.52000000000001,
+        "end": 102.88000000000001,
+        "text": " A lot of really good stuff."
+    },
+    {
+        "start": 102.88000000000001,
+        "end": 104.64000000000001,
+        "text": " What is your elevator pitch?"
+    },
+    {
+        "start": 104.64000000000001,
+        "end": 106.72,
+        "text": " How do you describe what you do when people ask?"
+    },
+    {
+        "start": 106.72,
+        "end": 108.52000000000001,
+        "text": " That's my favorite question asked creators."
+    },
+    {
+        "start": 108.52000000000001,
+        "end": 112.96000000000001,
+        "text": " My elevator, I've finally gotten around to telling people at parties that like they're"
+    },
+    {
+        "start": 112.96000000000001,
+        "end": 113.96000000000001,
+        "text": " like what do you do?"
+    },
+    {
+        "start": 113.96000000000001,
+        "end": 117.44000000000001,
+        "text": " And I say I'm a YouTuber and I don't have to like back up and be like."
+    },
+    {
+        "start": 117.44,
+        "end": 120.36,
+        "text": " I like to do climate stuff."
+    },
+    {
+        "start": 120.36,
+        "end": 121.75999999999999,
+        "text": " Do we can we swear on this?"
+    },
+    {
+        "start": 121.75999999999999,
+        "end": 122.75999999999999,
+        "text": " There's like bleeping."
+    },
+    {
+        "start": 122.75999999999999,
+        "end": 123.75999999999999,
+        "text": " Yeah."
+    },
+    {
+        "start": 123.75999999999999,
+        "end": 124.75999999999999,
+        "text": " Yeah."
+    },
+    {
+        "start": 124.75999999999999,
+        "end": 129.68,
+        "text": " So my new elevator pitch is that I'm like a extremely low budget John Oliver."
+    },
+    {
+        "start": 129.68,
+        "end": 134.56,
+        "text": " We're like we're trying to get to that sort of like John Wilson and John Oliver kind of"
+    },
+    {
+        "start": 134.56,
+        "end": 141.68,
+        "text": " together because we we go out into the field and taught and like you know on location shooting"
+    },
+    {
+        "start": 141.68,
+        "end": 145.16,
+        "text": " but it's always based on something about the climate crisis."
+    },
+    {
+        "start": 145.16,
+        "end": 146.16,
+        "text": " Yeah."
+    },
+    {
+        "start": 146.16,
+        "end": 147.16,
+        "text": " And the biggest pitch."
+    },
+    {
+        "start": 147.16,
+        "end": 153.44,
+        "text": " I think the natural follow up question would be why is that the topic that you dive into"
+    },
+    {
+        "start": 153.44,
+        "end": 154.44,
+        "text": " so often."
+    },
+    {
+        "start": 154.44,
+        "end": 156.88,
+        "text": " So what the answer to that being your education?"
+    },
+    {
+        "start": 156.88,
+        "end": 157.88,
+        "text": " Yeah."
+    },
+    {
+        "start": 157.88,
+        "end": 158.88,
+        "text": " Yeah."
+    },
+    {
+        "start": 158.88,
+        "end": 162.88,
+        "text": " So I used to make billiards videos very regularly."
+    },
+    {
+        "start": 162.88,
+        "end": 166.51999999999998,
+        "text": " My start on YouTube was as a billiards influencer."
+    },
+    {
+        "start": 166.51999999999998,
+        "end": 167.51999999999998,
+        "text": " And oh wow."
+    },
+    {
+        "start": 167.51999999999998,
+        "end": 168.51999999999998,
+        "text": " Yeah."
+    },
+    {
+        "start": 168.51999999999998,
+        "end": 169.51999999999998,
+        "text": " And like they're out there."
+    },
+    {
+        "start": 169.51999999999998,
+        "end": 171.88,
+        "text": " We exist ping pong table up and not the pool table."
+    },
+    {
+        "start": 171.88,
+        "end": 172.88,
+        "text": " We do have a billiards table."
+    },
+    {
+        "start": 172.88,
+        "end": 173.88,
+        "text": " I saw it."
+    },
+    {
+        "start": 173.88,
+        "end": 174.88,
+        "text": " It clocked that."
+    },
+    {
+        "start": 174.88,
+        "end": 177.88,
+        "text": " And it sticks but they're all the same kind which means like we're bought in bulk which"
+    },
+    {
+        "start": 177.88,
+        "end": 179.12,
+        "text": " means they're probably not high."
+    },
+    {
+        "start": 179.12,
+        "end": 180.12,
+        "text": " We're pretty average."
+    },
+    {
+        "start": 180.12,
+        "end": 181.12,
+        "text": " I was I was clocking it."
+    },
+    {
+        "start": 181.12,
+        "end": 184.35999999999999,
+        "text": " It's trying to see if these guys were hustlers or not."
+    },
+    {
+        "start": 184.35999999999999,
+        "end": 185.6,
+        "text": " But that doesn't mean you're not."
+    },
+    {
+        "start": 185.6,
+        "end": 189.79999999999998,
+        "text": " You could have them and be like oh yeah these second and layer of hustling."
+    },
+    {
+        "start": 189.79999999999998,
+        "end": 190.79999999999998,
+        "text": " That's right."
+    },
+    {
+        "start": 190.79999999999998,
+        "end": 191.8,
+        "text": " Interesting."
+    },
+    {
+        "start": 191.8,
+        "end": 192.8,
+        "text": " Yeah."
+    },
+    {
+        "start": 192.8,
+        "end": 196.96,
+        "text": " So I did like a bunch of pool videos and I kind of like honed my chops of editing and"
+    },
+    {
+        "start": 196.96,
+        "end": 199.35999999999999,
+        "text": " hosting through the pool videos."
+    },
+    {
+        "start": 199.35999999999999,
+        "end": 202.16,
+        "text": " And then I moved to New York to do comedy in the first place."
+    },
+    {
+        "start": 202.16,
+        "end": 206.4,
+        "text": " I was doing a comedy show and I was the question how did I get into this?"
+    },
+    {
+        "start": 206.4,
+        "end": 207.4,
+        "text": " Sorry."
+    },
+    {
+        "start": 207.4,
+        "end": 208.4,
+        "text": " Why?"
+    },
+    {
+        "start": 208.4,
+        "end": 209.4,
+        "text": " Why climate as the top?"
+    },
+    {
+        "start": 209.4,
+        "end": 210.4,
+        "text": " Oh yeah."
+    },
+    {
+        "start": 210.4,
+        "end": 211.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 211.4,
+        "end": 215.92,
+        "text": " So I was doing a comedy show and I was the comedy show was like I'm sort of a strung out"
+    },
+    {
+        "start": 215.92,
+        "end": 220.04,
+        "text": " algorithm or kind of figure doing like an I told you so tour."
+    },
+    {
+        "start": 220.04,
+        "end": 221.04,
+        "text": " Like I called it."
+    },
+    {
+        "start": 221.04,
+        "end": 222.96,
+        "text": " I knew it was climate change was happening."
+    },
+    {
+        "start": 222.96,
+        "end": 228.88,
+        "text": " And then I had enough climate experts and climate scientists on the show like in a comedic"
+    },
+    {
+        "start": 228.88,
+        "end": 233.32,
+        "text": " way like I'd interview them in character and then we'd have like comedians from SNL"
+    },
+    {
+        "start": 233.32,
+        "end": 236.68,
+        "text": " and Jimmy Fallon come on the show because they're all in New York."
+    },
+    {
+        "start": 236.68,
+        "end": 240.68,
+        "text": " You can just get them and you can throw a little net out and they'll come run."
+    },
+    {
+        "start": 240.68,
+        "end": 245.07999999999998,
+        "text": " And then eventually six months into doing this show and enough conversations with these"
+    },
+    {
+        "start": 245.07999999999998,
+        "end": 249.64,
+        "text": " like climate scientists around the beer after the show and we're like so we're going to"
+    },
+    {
+        "start": 249.64,
+        "end": 250.64,
+        "text": " be fine right?"
+    },
+    {
+        "start": 250.64,
+        "end": 257.2,
+        "text": " And they're like no we're way further away from where we need to be."
+    },
+    {
+        "start": 257.2,
+        "end": 262.59999999999997,
+        "text": " And so then I was like okay well if I go back to grad school and study climate science"
+    },
+    {
+        "start": 262.59999999999997,
+        "end": 267.4,
+        "text": " and policy I can make a really good comedy show and maybe through that I can like be a good"
+    },
+    {
+        "start": 267.4,
+        "end": 269.0,
+        "text": " climate communicator."
+    },
+    {
+        "start": 269.0,
+        "end": 271.03999999999996,
+        "text": " So then I did that and that's where the show came in."
+    },
+    {
+        "start": 271.03999999999996,
+        "end": 272.03999999999996,
+        "text": " Interesting."
+    },
+    {
+        "start": 272.03999999999996,
+        "end": 273.84,
+        "text": " How long did that take you to complete?"
+    },
+    {
+        "start": 273.84,
+        "end": 279.0,
+        "text": " It was a two year I took I did the program in two years but one of the years one and a"
+    },
+    {
+        "start": 279.0,
+        "end": 282.08,
+        "text": " half of the years were during COVID so it was like."
+    },
+    {
+        "start": 282.08,
+        "end": 286.59999999999997,
+        "text": " It was a very expensive university of Phoenix but it was Columbia so they charged Columbia"
+    },
+    {
+        "start": 286.6,
+        "end": 290.64000000000004,
+        "text": " prices for like not really knowing how to do it online institution."
+    },
+    {
+        "start": 290.64000000000004,
+        "end": 292.56,
+        "text": " Yeah super early on that."
+    },
+    {
+        "start": 292.56,
+        "end": 296.48,
+        "text": " So coming out the other side of that now you've seen you've learned a lot about climate"
+    },
+    {
+        "start": 296.48,
+        "end": 298.68,
+        "text": " and the situation we find ourselves in."
+    },
+    {
+        "start": 298.68,
+        "end": 302.92,
+        "text": " Have you also noticed this increase in messaging from these tech companies?"
+    },
+    {
+        "start": 302.92,
+        "end": 306.68,
+        "text": " I don't know how many keynotes you get to watch but they all sort of seem to talk about"
+    },
+    {
+        "start": 306.68,
+        "end": 308.44,
+        "text": " recycling at some point now."
+    },
+    {
+        "start": 308.44,
+        "end": 313.84000000000003,
+        "text": " Yeah yeah I mean I think it's it's certainly as of like the 2015's with the Paris Climate"
+    },
+    {
+        "start": 313.84,
+        "end": 321.47999999999996,
+        "text": " Accord like that sort of sparked this avalanche of like climate pledges and companies realizing"
+    },
+    {
+        "start": 321.47999999999996,
+        "end": 325.79999999999995,
+        "text": " like that consumers really were interested in having a planet where they could still you"
+    },
+    {
+        "start": 325.79999999999995,
+        "end": 329.08,
+        "text": " know fish and ski and that."
+    },
+    {
+        "start": 329.08,
+        "end": 333.64,
+        "text": " So I think they're realizing like oh this is going to be an important piece of our company"
+    },
+    {
+        "start": 333.64,
+        "end": 339.52,
+        "text": " going forward and so they're all getting on on board with like pledges which are not"
+    },
+    {
+        "start": 339.52,
+        "end": 342.08,
+        "text": " actions but yeah close."
+    },
+    {
+        "start": 342.08,
+        "end": 346.2,
+        "text": " There's a difference between promises and what we actually see happen."
+    },
+    {
+        "start": 346.2,
+        "end": 347.2,
+        "text": " Sure yeah."
+    },
+    {
+        "start": 347.2,
+        "end": 353.44,
+        "text": " And something we also talk about a lot when we see these promises is how much does X company"
+    },
+    {
+        "start": 353.44,
+        "end": 358.32,
+        "text": " actually care like trying to judge based on their promise and their actions does it"
+    },
+    {
+        "start": 358.32,
+        "end": 361.2,
+        "text": " seem like they actually care about the environment."
+    },
+    {
+        "start": 361.2,
+        "end": 363.56,
+        "text": " Ah and that is a tough question."
+    },
+    {
+        "start": 363.56,
+        "end": 371.2,
+        "text": " You know what I it's almost not it's almost not a question I think is that meaningful"
+    },
+    {
+        "start": 371.2,
+        "end": 375.8,
+        "text": " to their actions because you don't have to care about the planet to do a good thing"
+    },
+    {
+        "start": 375.8,
+        "end": 379.28,
+        "text": " for the planet and you could care about the planet and do a bad thing for the planet right"
+    },
+    {
+        "start": 379.28,
+        "end": 386.24,
+        "text": " like I don't I don't really care if Apple wants me to have a nice evening out but like"
+    },
+    {
+        "start": 386.24,
+        "end": 391.76,
+        "text": " if they are you know promoting recite and if they're they're truly like trying to recollect"
+    },
+    {
+        "start": 391.76,
+        "end": 396.88,
+        "text": " all of their cobalt for instance to reuse in their batteries like that's a whether"
+    },
+    {
+        "start": 396.88,
+        "end": 399.32,
+        "text": " it's for their marketing or for the planet."
+    },
+    {
+        "start": 399.32,
+        "end": 402.52,
+        "text": " I don't care you know just get the cobalt yeah totally fair."
+    },
+    {
+        "start": 402.52,
+        "end": 406.64,
+        "text": " They're the cobalt there was a thing in the most recent Apple keynote where they were"
+    },
+    {
+        "start": 406.64,
+        "end": 412.6,
+        "text": " like we now can fit way more Apple watches on one car is greatly involved and in the"
+    },
+    {
+        "start": 412.6,
+        "end": 416.68,
+        "text": " back of my head I'm thinking well that's saving you a lot on shipping costs."
+    },
+    {
+        "start": 416.68,
+        "end": 418.52,
+        "text": " So I guess it can be both right."
+    },
+    {
+        "start": 418.52,
+        "end": 424.24,
+        "text": " Yeah I mean I think honestly the only way they're going to do this is if it is both which sucks"
+    },
+    {
+        "start": 424.24,
+        "end": 429.8,
+        "text": " for us but like them's the breaks like that's the that's the system that we have not"
+    },
+    {
+        "start": 429.8,
+        "end": 436.28000000000003,
+        "text": " so much voted for but that the corporate interests have like lobbied for and like you know"
+    },
+    {
+        "start": 436.28000000000003,
+        "end": 442.0,
+        "text": " it's it's sort of a you got to do a double pronged attack single prong no two prongs a prong"
+    },
+    {
+        "start": 442.0,
+        "end": 448.04,
+        "text": " is an individual thing okay double pronged attack yeah yeah yeah I feel like the way I"
+    },
+    {
+        "start": 448.04,
+        "end": 452.48,
+        "text": " I see that is every decision that we see a public facing company make always has the"
+    },
+    {
+        "start": 452.48,
+        "end": 456.36,
+        "text": " public facing reason and then the private reason usually it's this makes us look good this"
+    },
+    {
+        "start": 456.36,
+        "end": 461.12,
+        "text": " makes us more money but also like we care about the money a lot that's kind of what we do"
+    },
+    {
+        "start": 461.12,
+        "end": 465.68,
+        "text": " yeah that's their whole thing kind of our whole deal in fact a lot of money like they have"
+    },
+    {
+        "start": 465.68,
+        "end": 469.56,
+        "text": " they look the fiduciary obligation to the shareholders and the board of directors like"
+    },
+    {
+        "start": 469.56,
+        "end": 473.92,
+        "text": " you have to grow you have to make money and you have to make the decisions that you can"
+    },
+    {
+        "start": 473.92,
+        "end": 479.48,
+        "text": " justify will make you the most money or they will fire you yep and so like yeah I don't"
+    },
+    {
+        "start": 479.48,
+        "end": 485.0,
+        "text": " know it's it's a tough system to yeah yeah have a beneficial outcome for them so in the"
+    },
+    {
+        "start": 485.0,
+        "end": 489.84000000000003,
+        "text": " context of all this knowing that these companies need to make money and that they have this massive"
+    },
+    {
+        "start": 489.84000000000003,
+        "end": 494.24,
+        "text": " impact on the environment and knowing that we are in a particularly delicate place with our"
+    },
+    {
+        "start": 494.24,
+        "end": 499.04,
+        "text": " climate right now I figured we'd go over these like three big bullet points maybe they're"
+    },
+    {
+        "start": 499.04,
+        "end": 502.92,
+        "text": " not even the best bullet points you can let me know but these three big bullet points that I"
+    },
+    {
+        "start": 502.92,
+        "end": 507.8,
+        "text": " think encapsulate a pretty good understanding of everything that will need to know to make"
+    },
+    {
+        "start": 507.8,
+        "end": 514.16,
+        "text": " decisions about these companies those being carbon emissions clean energy and recycling we see a"
+    },
+    {
+        "start": 514.16,
+        "end": 518.28,
+        "text": " lot about all these things I think we'll probably talk a lot about Apple in this because they are"
+    },
+    {
+        "start": 518.28,
+        "end": 522.28,
+        "text": " so public about it but a lot of companies sort of follow in their footsteps and do similar stuff"
+    },
+    {
+        "start": 522.28,
+        "end": 528.2,
+        "text": " so I'll start with carbon emissions just in general well first we should just set the baseline"
+    },
+    {
+        "start": 528.2,
+        "end": 535.0,
+        "text": " what are carbon emissions and why are they bad sure yeah just so we all on the same page what is"
+    },
+    {
+        "start": 535.0,
+        "end": 541.48,
+        "text": " carbon on the periodic table element six nice yeah I got it okay I had to go through that in my"
+    },
+    {
+        "start": 541.48,
+        "end": 548.44,
+        "text": " head yeah so I mean it's an incredible element right it's it forms tetrahedral bonds at a 109.5"
+    },
+    {
+        "start": 548.44,
+        "end": 552.6,
+        "text": " degree bond angle I think that's right you can look that up that one that one did you take organic"
+    },
+    {
+        "start": 552.6,
+        "end": 557.96,
+        "text": " chemistry oh yeah baby I tie I tie T8 an organic chemistry class yeah so that's the correct angle"
+    },
+    {
+        "start": 557.96,
+        "end": 564.44,
+        "text": " I I hope so somebody is going to be like actually that's is it possible for humans to form that kind"
+    },
+    {
+        "start": 564.44,
+        "end": 570.36,
+        "text": " of bond as well I use you two certainly have that bond I you could see it a mile away you don't have"
+    },
+    {
+        "start": 570.36,
+        "end": 576.2,
+        "text": " to be a chemistry teacher to see your chemistry you guys fair okay well that in my head I was like"
+    },
+    {
+        "start": 576.2,
+        "end": 584.0400000000001,
+        "text": " this is going to kill but it really really thud it anyway yeah so carbon dioxide is a byproduct of"
+    },
+    {
+        "start": 584.0400000000001,
+        "end": 591.32,
+        "text": " burning fossil fuels or any hydrocarbon really and it it's a gas it's a greenhouse gas which means"
+    },
+    {
+        "start": 591.32,
+        "end": 599.32,
+        "text": " it will go off into the atmosphere and capture infrared radiation and re-radiated back out so it"
+    },
+    {
+        "start": 599.32,
+        "end": 604.36,
+        "text": " doesn't it doesn't capture incoming UV rays so that comes into the planet and then it hits the"
+    },
+    {
+        "start": 604.36,
+        "end": 610.5200000000001,
+        "text": " planet which heats up and it pops off infrared radiation and then that gets captured by carbon dioxide"
+    },
+    {
+        "start": 610.5200000000001,
+        "end": 617.48,
+        "text": " but also other gases methane nox like there's a lot of different there's like sulfur hexafluoride"
+    },
+    {
+        "start": 617.48,
+        "end": 626.12,
+        "text": " that's got like 20,000 times the heat retention capacity of CO2 yeah that's the you're using"
+    },
+    {
+        "start": 626.12,
+        "end": 632.6800000000001,
+        "text": " power lines for insulation do you think that we focus too much on carbon and not enough on other"
+    },
+    {
+        "start": 632.6800000000001,
+        "end": 638.2,
+        "text": " stuff no if anything I focus too much on other stuff in that last set okay carbon dioxide is the"
+    },
+    {
+        "start": 638.2,
+        "end": 644.36,
+        "text": " I mean carbon dioxide and methane are kind of the two the two big beds of the current moment but"
+    },
+    {
+        "start": 644.36,
+        "end": 649.72,
+        "text": " yeah these are these are pollutants they capture energy and that energy it's like a blanket on the"
+    },
+    {
+        "start": 649.72,
+        "end": 654.84,
+        "text": " earth right it just heats up the earth yeah which would be fine except for we sort of created all"
+    },
+    {
+        "start": 654.84,
+        "end": 659.72,
+        "text": " of our systems to work in a certain biome and environment and like we're rapidly changing the"
+    },
+    {
+        "start": 659.72,
+        "end": 666.12,
+        "text": " environment so we're yeah slowly ruining all of the systems that we've we've developed in so"
+    },
+    {
+        "start": 666.12,
+        "end": 671.0,
+        "text": " that's carbon dioxide what was the question I'm so sorry I think because we just want to establish"
+    },
+    {
+        "start": 671.0,
+        "end": 676.68,
+        "text": " like we all know that emitting too much carbon in the atmosphere is bad right and these giant"
+    },
+    {
+        "start": 676.68,
+        "end": 680.84,
+        "text": " tech companies for manufacturing millions and millions of products and shipping them all over the"
+    },
+    {
+        "start": 680.84,
+        "end": 686.04,
+        "text": " world and people plugging in these products like there's a ton of carbon emissions that come from"
+    },
+    {
+        "start": 686.04,
+        "end": 691.32,
+        "text": " them doing business and so their goal is going to be to minimize their impact on the environment and"
+    },
+    {
+        "start": 691.32,
+        "end": 697.64,
+        "text": " so what they're telling us they're doing is minimizing their carbon footprint and quote becoming"
+    },
+    {
+        "start": 697.64,
+        "end": 702.92,
+        "text": " carbon neutral but I think you kind of have to look past that title into what they're actually"
+    },
+    {
+        "start": 702.92,
+        "end": 708.84,
+        "text": " doing and what that means to decide if it's working or not I think the sort of famous one that we"
+    },
+    {
+        "start": 708.84,
+        "end": 715.56,
+        "text": " all see is Apple wants to be entirely carbon neutral as a company by 2030 apples a big company so"
+    },
+    {
+        "start": 715.56,
+        "end": 721.64,
+        "text": " that's a big promise huge buildings huge manufacturing suppliers all over the world shipping all over"
+    },
+    {
+        "start": 721.64,
+        "end": 727.48,
+        "text": " the world it seems impossible that they can do all that without emitting any carbon so how"
+    },
+    {
+        "start": 727.48,
+        "end": 731.5600000000001,
+        "text": " are they going to do this how are they going to reduce their carbon footprint to actually be zero"
+    },
+    {
+        "start": 731.5600000000001,
+        "end": 739.0,
+        "text": " yeah so the short answer is they're not going to do that but but what they can do is a sort of"
+    },
+    {
+        "start": 739.0,
+        "end": 746.04,
+        "text": " accounting technique that they emit as much carbon as they're going to emit they try to reduce it"
+    },
+    {
+        "start": 746.04,
+        "end": 752.28,
+        "text": " and then they offset the rest of the carbon by by like the easiest way like there's a thing called"
+    },
+    {
+        "start": 752.28,
+        "end": 757.16,
+        "text": " carbon offsets which I suspect we'll be talking about pretty shortly here yeah but they're going"
+    },
+    {
+        "start": 757.16,
+        "end": 763.64,
+        "text": " to you know you they probably can't reduce their carbon output to zero so they're going to"
+    },
+    {
+        "start": 763.64,
+        "end": 769.4,
+        "text": " figure out what they're going to try to figure out how much they're emitting and then pay other"
+    },
+    {
+        "start": 769.4,
+        "end": 776.8399999999999,
+        "text": " people not to emit it or pay for projects that are removing carbon from the atmosphere like timber"
+    },
+    {
+        "start": 776.8399999999999,
+        "end": 783.9599999999999,
+        "text": " projects that grow trees and then sequester the carbon from the trees or a hundred other techniques"
+    },
+    {
+        "start": 783.96,
+        "end": 789.5600000000001,
+        "text": " and with various degrees of like how effective they are. I heard there's one where they just scoop"
+    },
+    {
+        "start": 789.5600000000001,
+        "end": 793.32,
+        "text": " it out of the atmosphere and put it underground is that really oh yeah that's that's what called"
+    },
+    {
+        "start": 793.32,
+        "end": 799.8000000000001,
+        "text": " DAC or direct air carbon capture and sequestration but they don't the scoop is more like pulverized"
+    },
+    {
+        "start": 799.8000000000001,
+        "end": 806.36,
+        "text": " limestone and they like yeah it takes so much energy to it it's just like always more efficient"
+    },
+    {
+        "start": 806.36,
+        "end": 810.6800000000001,
+        "text": " to just not emit it in the first place right yeah but there are tech companies so they want to"
+    },
+    {
+        "start": 810.76,
+        "end": 815.4799999999999,
+        "text": " probably do the tech part so I found it's interesting watching what apple does because they kind"
+    },
+    {
+        "start": 815.4799999999999,
+        "end": 820.4399999999999,
+        "text": " of do a little of everything all over the board I found that they number one obviously still"
+    },
+    {
+        "start": 820.4399999999999,
+        "end": 828.92,
+        "text": " emit some carbon so they do have to do some amount of carbon capture to make up for what they emit"
+    },
+    {
+        "start": 828.92,
+        "end": 833.4799999999999,
+        "text": " but on the other hand they also are attempting to make a difference in how much carbon and how"
+    },
+    {
+        "start": 833.4799999999999,
+        "end": 838.76,
+        "text": " sustainable their processes are in the first place yeah which I think is way more noble and way"
+    },
+    {
+        "start": 838.76,
+        "end": 844.4399999999999,
+        "text": " more impactful which we can talk about more but I think in general it's it's important to understand"
+    },
+    {
+        "start": 844.4399999999999,
+        "end": 850.76,
+        "text": " that you kind of at that scale can't be carbon neutral you will be emitting a ton of carbon"
+    },
+    {
+        "start": 850.76,
+        "end": 855.48,
+        "text": " it's just a matter of how much you value the other part of that equation like removing carbon"
+    },
+    {
+        "start": 855.48,
+        "end": 860.76,
+        "text": " from the atmosphere or you said paying others to not emit is that also a real yeah there's like"
+    },
+    {
+        "start": 860.76,
+        "end": 865.88,
+        "text": " I mean there's a lot of ways to offset your carbon so like carbon neutrality is is not so much like"
+    },
+    {
+        "start": 865.88,
+        "end": 871.64,
+        "text": " zero zero it's like you know a hundred million tons over the course of a few years and then you"
+    },
+    {
+        "start": 871.64,
+        "end": 877.16,
+        "text": " you like account for a hundred million tons not going into the atmosphere or coming out of the"
+    },
+    {
+        "start": 877.16,
+        "end": 883.8,
+        "text": " atmosphere so like there is no version of this where like apple does zero right and they and they"
+    },
+    {
+        "start": 883.8,
+        "end": 887.96,
+        "text": " know that and I mean they would they would like to not emit any carbon dioxide that would be great"
+    },
+    {
+        "start": 888.0400000000001,
+        "end": 896.52,
+        "text": " but like they have to or they feel they have to yeah so so they are going to find some way to"
+    },
+    {
+        "start": 896.52,
+        "end": 901.72,
+        "text": " to balance that equation theoretically when you said that they pay people to not emit carbon that"
+    },
+    {
+        "start": 901.72,
+        "end": 906.36,
+        "text": " seems like a loophole where couldn't people just come in and say we're going to emit this unless"
+    },
+    {
+        "start": 906.36,
+        "end": 911.72,
+        "text": " you give us money I mean there they're in lies the problem with carbon offsetting and it actually"
+    },
+    {
+        "start": 911.72,
+        "end": 917.48,
+        "text": " exists in like all carbon offset so for instance if you want to like oh hey I want to emit a ton of"
+    },
+    {
+        "start": 917.5600000000001,
+        "end": 922.76,
+        "text": " carbon so I'm gonna there's a forest that's gonna get cut down and turned into they're just going"
+    },
+    {
+        "start": 922.76,
+        "end": 927.72,
+        "text": " to burn it for fun there's like a group maybe there's a group who just like like burning fire or"
+    },
+    {
+        "start": 927.72,
+        "end": 933.48,
+        "text": " something um so you say okay no to that group we're gonna pay for this forest to be protected"
+    },
+    {
+        "start": 933.48,
+        "end": 938.36,
+        "text": " and then that's gonna offset right which kind of works right if they were gonna burn it and then"
+    },
+    {
+        "start": 938.36,
+        "end": 943.0,
+        "text": " you stopped him from burning and that kind of works but if they were just thinking about it or"
+    },
+    {
+        "start": 943.0,
+        "end": 947.64,
+        "text": " weren't gonna burn it in the first place then it's like you can say hey will you just say you"
+    },
+    {
+        "start": 947.64,
+        "end": 952.12,
+        "text": " were gonna burn it yeah or but Apple's not going to be like hey to tell me we're gonna destroy"
+    },
+    {
+        "start": 952.12,
+        "end": 957.32,
+        "text": " this forest they're trying to do their best but yeah I mean these are just really really hard"
+    },
+    {
+        "start": 957.32,
+        "end": 962.6,
+        "text": " projects to prove that they're additional so like additionalities an important part of carbon"
+    },
+    {
+        "start": 962.6,
+        "end": 968.36,
+        "text": " offsetting as there've been a whole industry that's popped up around like not emitting in order to"
+    },
+    {
+        "start": 968.36,
+        "end": 975.24,
+        "text": " make money um yeah I mean that's the offset industry there there it's either removal or maintenance"
+    },
+    {
+        "start": 975.24,
+        "end": 984.52,
+        "text": " of a forest and there's a lot of like there are many many many examples of a already protected forest"
+    },
+    {
+        "start": 984.52,
+        "end": 990.84,
+        "text": " that they're like oh now it's an offset so we're gonna like not burn this down we weren't ever"
+    },
+    {
+        "start": 990.84,
+        "end": 995.24,
+        "text": " gonna clear-cut it but we're gonna say we're not clear-cutting it now which kind of makes sense"
+    },
+    {
+        "start": 995.24,
+        "end": 999.64,
+        "text": " because if you have a forest and you're like I'm gonna be a good person and I'm not gonna clear-cut"
+    },
+    {
+        "start": 999.64,
+        "end": 1004.52,
+        "text": " this forest I'm gonna leave this forest and then somebody who was gonna cut their forest down gets"
+    },
+    {
+        "start": 1004.52,
+        "end": 1009.5600000000001,
+        "text": " a bunch of money for the offsets you're like what the hell I was the good person I should get that"
+    },
+    {
+        "start": 1009.5600000000001,
+        "end": 1016.2,
+        "text": " money so it's just like right it's sort of like capitalism is not the best system for maintaining"
+    },
+    {
+        "start": 1016.2,
+        "end": 1021.24,
+        "text": " a livable climate interesting and I know I'm the first person to think that and say that"
+    },
+    {
+        "start": 1021.24,
+        "end": 1028.2,
+        "text": " it's a hot take yeah yeah I do have I feel like my favorite way to understand more complex topics"
+    },
+    {
+        "start": 1028.2,
+        "end": 1034.92,
+        "text": " is to make analogies for it and I feel like when you describe like net zero carbon impact if"
+    },
+    {
+        "start": 1034.92,
+        "end": 1041.16,
+        "text": " you can oversimplify it to like you're driving a car if you drive this car 100 yards it will go"
+    },
+    {
+        "start": 1041.16,
+        "end": 1046.68,
+        "text": " off the edge of a cliff right so I understand that my whole business is to drive the car but if I can"
+    },
+    {
+        "start": 1046.68,
+        "end": 1050.8400000000001,
+        "text": " pay someone else not to drive their car then I can still drive my car forward if you could"
+    },
+    {
+        "start": 1050.8400000000001,
+        "end": 1055.8,
+        "text": " pay someone to drive in reverse if I can pay someone else to drive backwards yeah or maybe I"
+    },
+    {
+        "start": 1055.8,
+        "end": 1062.2,
+        "text": " drive forward and then drive backwards where it's like yeah technically no no that is technically"
+    },
+    {
+        "start": 1062.2,
+        "end": 1067.48,
+        "text": " yeah you have removed the carbon dioxide yeah removing the forward yeah yeah so there there's like"
+    },
+    {
+        "start": 1067.48,
+        "end": 1072.76,
+        "text": " a sort of a a dance that they have to do to be able to justify you know net carbon zero certainly"
+    },
+    {
+        "start": 1072.84,
+        "end": 1078.6,
+        "text": " and it's a dance that they you know like to be clear they are not required to do this dance"
+    },
+    {
+        "start": 1078.6,
+        "end": 1083.16,
+        "text": " right that's right they're not required to buy offsets and they're not required really in in"
+    },
+    {
+        "start": 1083.16,
+        "end": 1088.44,
+        "text": " in most jurisdictions they don't have to do this so this is this is the the problem where like"
+    },
+    {
+        "start": 1089.0,
+        "end": 1096.2,
+        "text": " a lot of these offsets are some of them are not and we should be encouraging investing in"
+    },
+    {
+        "start": 1096.2,
+        "end": 1102.28,
+        "text": " offsetting projects be it like forest protection or um director carbon capture I mean like"
+    },
+    {
+        "start": 1102.76,
+        "end": 1107.48,
+        "text": " that's probably going to be a thing that we have to do because we can't reduce our emissions"
+    },
+    {
+        "start": 1107.48,
+        "end": 1112.36,
+        "text": " so like this is a good thing to encourage and do but then companies are like okay great we're just"
+    },
+    {
+        "start": 1112.36,
+        "end": 1116.6,
+        "text": " going to like throw a hundred K at this like solar farm and then we're going to do whatever we want"
+    },
+    {
+        "start": 1116.6,
+        "end": 1122.2,
+        "text": " to do so it's like a get out of jail free card and that's not how we should think about it so there's"
+    },
+    {
+        "start": 1122.2,
+        "end": 1126.76,
+        "text": " been this trend in the last couple of years where a lot of smart phone manufacturers in particular"
+    },
+    {
+        "start": 1126.76,
+        "end": 1131.8,
+        "text": " but this is happening probably kind of throughout the industry they've slowly been removing the stuff"
+    },
+    {
+        "start": 1131.8,
+        "end": 1139.3999999999999,
+        "text": " that they give you in the box and their whole reasoning for doing this is like oh we're saving"
+    },
+    {
+        "start": 1139.3999999999999,
+        "end": 1145.3999999999999,
+        "text": " the environment by not giving you a charger or we're now using cardboard and the boxes are way"
+    },
+    {
+        "start": 1145.3999999999999,
+        "end": 1150.6,
+        "text": " slimmer and yeah we can fit way more on our truck but it's better for the environment but the bigger"
+    },
+    {
+        "start": 1150.6,
+        "end": 1155.96,
+        "text": " the bigger question is like the chargers and that kind of stuff do you think I mean again like we"
+    },
+    {
+        "start": 1155.96,
+        "end": 1160.84,
+        "text": " talked about earlier it doesn't have to be a zero sum game like it doesn't have to be bad for"
+    },
+    {
+        "start": 1160.84,
+        "end": 1166.36,
+        "text": " their business in order to also be good for the environment but like in that trend in particular"
+    },
+    {
+        "start": 1166.36,
+        "end": 1173.48,
+        "text": " where do you think that leans I mean it's it feels it feels case dependent but it does feel a little"
+    },
+    {
+        "start": 1173.48,
+        "end": 1179.3999999999999,
+        "text": " bit market a speech it's like you know like kind of the bug or feature not a bug on speech it's like"
+    },
+    {
+        "start": 1179.3999999999999,
+        "end": 1182.84,
+        "text": " oh yeah you were supposed to be able to clip right through that wall and like pop right into the"
+    },
+    {
+        "start": 1182.84,
+        "end": 1188.12,
+        "text": " bosses chamber we made that you know well we wanted to do that yeah it feels like here's a thing"
+    },
+    {
+        "start": 1188.12,
+        "end": 1195.6399999999999,
+        "text": " about like modern marketing teams they're very smart and they're like you know we saw Don Draper"
+    },
+    {
+        "start": 1195.6399999999999,
+        "end": 1200.6,
+        "text": " in Mad Men there's like a million of those people and they've all seen Mad Men like they have"
+    },
+    {
+        "start": 1200.6,
+        "end": 1205.1599999999999,
+        "text": " the background already they know how to spin anything and they're just spinning you know you could"
+    },
+    {
+        "start": 1205.1599999999999,
+        "end": 1210.84,
+        "text": " you could you could throw like a hundred problems with the iPhone at a marketing guy and they"
+    },
+    {
+        "start": 1210.84,
+        "end": 1215.8799999999999,
+        "text": " they'd be out by lunch you know you like no problem what else you got yeah yeah when I okay and"
+    },
+    {
+        "start": 1215.88,
+        "end": 1220.3600000000001,
+        "text": " and now Jeff told before I think on the podcast already actually but I'll use it again is you"
+    },
+    {
+        "start": 1220.3600000000001,
+        "end": 1223.88,
+        "text": " seen those YouTube videos where like someone will go up to a homeless person and give them a hundred"
+    },
+    {
+        "start": 1223.88,
+        "end": 1228.2800000000002,
+        "text": " bucks and then it's like you get this cool reaction on camera and you're like see I did a good"
+    },
+    {
+        "start": 1228.2800000000002,
+        "end": 1233.8000000000002,
+        "text": " deed but it's like okay but you had like a camera going and it doesn't really feel as much of a"
+    },
+    {
+        "start": 1233.8000000000002,
+        "end": 1238.6000000000001,
+        "text": " good deed right but also technically you still did a good I bet I bet the person who got the"
+    },
+    {
+        "start": 1238.6000000000001,
+        "end": 1243.5600000000002,
+        "text": " hundred dollars was like the stick it's great yes and I think that's the interesting thing is like"
+    },
+    {
+        "start": 1243.6399999999999,
+        "end": 1247.6399999999999,
+        "text": " okay you you said they're not required to do any of the things that they're doing but there is"
+    },
+    {
+        "start": 1247.6399999999999,
+        "end": 1254.12,
+        "text": " sort of a feel good angle to it and there's also the whole pushing the responsibility onto the"
+    },
+    {
+        "start": 1254.12,
+        "end": 1261.96,
+        "text": " customer angle a little bit I wonder do you think people actually buy more things because they are"
+    },
+    {
+        "start": 1261.96,
+        "end": 1270.44,
+        "text": " more environmentally friendly or as in do people like offset the environmental friendliness by"
+    },
+    {
+        "start": 1270.44,
+        "end": 1274.68,
+        "text": " over purchasing or do you think people purchase based on knowing something is environmentally friendly"
+    },
+    {
+        "start": 1274.68,
+        "end": 1278.92,
+        "text": " yeah or even just think feel better about a purchase because of that slide in the presentation"
+    },
+    {
+        "start": 1278.92,
+        "end": 1283.88,
+        "text": " yes absolutely I think that's in fact that's like if it wasn't if that wasn't the case"
+    },
+    {
+        "start": 1283.88,
+        "end": 1289.16,
+        "text": " companies would stop doing it because like it is such an effective marketing tool especially like"
+    },
+    {
+        "start": 1289.16,
+        "end": 1295.64,
+        "text": " there is a real climate crisis happening and so like a company that's like oh right we'll use"
+    },
+    {
+        "start": 1295.64,
+        "end": 1300.3600000000001,
+        "text": " this crisis and then people who are worried about this crisis will buy the thing yeah and it's"
+    },
+    {
+        "start": 1300.36,
+        "end": 1306.76,
+        "text": " like the company maybe isn't doing it to be like a Machiavellian like puppet master because the"
+    },
+    {
+        "start": 1306.76,
+        "end": 1311.08,
+        "text": " company probably the marketing team is like yeah we don't want it to be a climate crisis like I"
+    },
+    {
+        "start": 1311.08,
+        "end": 1317.3999999999999,
+        "text": " wish the climate was great so like everyone is kind of you know like leaning into the problem a"
+    },
+    {
+        "start": 1317.3999999999999,
+        "end": 1323.4799999999998,
+        "text": " little bit in a way that I don't think is terribly nefarious individually yeah but you don't judge"
+    },
+    {
+        "start": 1323.4799999999998,
+        "end": 1328.6799999999998,
+        "text": " a system on what you want the system to do you judge it on what the outcomes are and I think in"
+    },
+    {
+        "start": 1328.68,
+        "end": 1335.16,
+        "text": " this case the outcomes are like we're really consumeristic that's a word right consumeristic"
+    },
+    {
+        "start": 1335.16,
+        "end": 1342.28,
+        "text": " can be I'm gone with yes we're there's aren't really the consumerism is out the charts and we're"
+    },
+    {
+        "start": 1342.28,
+        "end": 1347.88,
+        "text": " certainly purchasing more and more now and they're certainly like more claims of sustainability"
+    },
+    {
+        "start": 1347.88,
+        "end": 1354.1200000000001,
+        "text": " and we're still emitting way way way way too much carbon dioxide or carbon dioxide equivalent"
+    },
+    {
+        "start": 1354.1200000000001,
+        "end": 1357.8,
+        "text": " and you can even clip this part and put it into the other part because carbon dioxide"
+    },
+    {
+        "start": 1357.8,
+        "end": 1365.1599999999999,
+        "text": " equivalent is like how much the other greenhouse gases contribute using carbon dioxide as a benchmark"
+    },
+    {
+        "start": 1365.1599999999999,
+        "end": 1371.56,
+        "text": " so it could be 10 times as much of a less potent chemical that has the same effect as one tenth"
+    },
+    {
+        "start": 1371.56,
+        "end": 1376.84,
+        "text": " of the amount of carbon dioxide you oh wow yes yeah sorry I had to do that math but I think that's"
+    },
+    {
+        "start": 1376.84,
+        "end": 1382.36,
+        "text": " right and mostly it's you use it for like for so for instance methane is like 22 times more"
+    },
+    {
+        "start": 1382.36,
+        "end": 1387.9599999999998,
+        "text": " potent than carbon dioxide and 80 times more potent over a 20 year period so like you just count"
+    },
+    {
+        "start": 1387.9599999999998,
+        "end": 1393.1599999999999,
+        "text": " that into the carbon dioxide so like every methane molecule you count as like 22"
+    },
+    {
+        "start": 1393.1599999999999,
+        "end": 1398.36,
+        "text": " that's actually really interesting there's a difference you're saying between just the pure amount"
+    },
+    {
+        "start": 1398.36,
+        "end": 1404.4399999999998,
+        "text": " of emissions or how effective it is over time how much impact you have over time yeah yeah so"
+    },
+    {
+        "start": 1404.4399999999998,
+        "end": 1409.9599999999998,
+        "text": " methane degrades in the atmosphere a little faster than carbon dioxide does that that stays around"
+    },
+    {
+        "start": 1409.96,
+        "end": 1417.8,
+        "text": " forever it's like it's like a hex body spray you know no it smells terrible no yeah so methane"
+    },
+    {
+        "start": 1417.8,
+        "end": 1424.1200000000001,
+        "text": " degrades a lot faster than carbon dioxide but over a 20 year time horizon which is the time horizon"
+    },
+    {
+        "start": 1424.1200000000001,
+        "end": 1428.04,
+        "text": " that we're living in and probably care most about because that's when like a lot of the heating"
+    },
+    {
+        "start": 1428.04,
+        "end": 1435.16,
+        "text": " that we're trying to you know prevent is locked in methane is like even more potent than CO2"
+    },
+    {
+        "start": 1435.16,
+        "end": 1440.1200000000001,
+        "text": " and so is it potentially true that in a lot of these like carbon emissions statements they're"
+    },
+    {
+        "start": 1440.1200000000001,
+        "end": 1444.52,
+        "text": " using carbon emissions equivalence and maybe there's a mix of things in there that might add up to"
+    },
+    {
+        "start": 1445.24,
+        "end": 1450.0400000000002,
+        "text": " zero but it's kind of muddy now that there's different factors I mean they they should be using"
+    },
+    {
+        "start": 1450.0400000000002,
+        "end": 1455.3200000000002,
+        "text": " carbon dioxide equivalent because that that takes all the carbon dioxide and includes all the other"
+    },
+    {
+        "start": 1455.3200000000002,
+        "end": 1461.8000000000002,
+        "text": " gases that are doing what carbon dioxide is doing but worse and faster yeah so like you want to use"
+    },
+    {
+        "start": 1461.8,
+        "end": 1467.08,
+        "text": " CO2 equivalent so when somebody says they're carbon neutral usually they're talking or they're"
+    },
+    {
+        "start": 1467.08,
+        "end": 1472.76,
+        "text": " talking about trying to be carbon dioxide and the other greenhouse gases neutral got it so"
+    },
+    {
+        "start": 1473.48,
+        "end": 1482.12,
+        "text": " they are disc like CO2 is the benchmark so it's not like in 10 years their CO2 equivalent will"
+    },
+    {
+        "start": 1482.12,
+        "end": 1487.3999999999999,
+        "text": " go down because it's degraded it's like that's what their their their output was sort of became"
+    },
+    {
+        "start": 1487.4,
+        "end": 1492.0400000000002,
+        "text": " the blanket term yeah yeah got it yeah sick well I think we have I'm gonna take a quick break we"
+    },
+    {
+        "start": 1492.0400000000002,
+        "end": 1496.0400000000002,
+        "text": " have a lot more to talk about from clean energy to recycling and electricity and all that but"
+    },
+    {
+        "start": 1496.92,
+        "end": 1499.24,
+        "text": " stay with us we'll be right back"
+    },
+    {
+        "start": 1507.96,
+        "end": 1512.6000000000001,
+        "text": " support for waveform comes from visible all right so there is no easy way to say this but that"
+    },
+    {
+        "start": 1512.6000000000001,
+        "end": 1517.0800000000002,
+        "text": " great deal on your new phone might not be what you think it is see every time one of those fancy"
+    },
+    {
+        "start": 1517.08,
+        "end": 1521.24,
+        "text": " new phones comes out you'll see all these ads everywhere about free phones but you know nothing"
+    },
+    {
+        "start": 1521.24,
+        "end": 1526.12,
+        "text": " in life is free maybe those free phones are tied to the most expensive plans or maybe it's a three"
+    },
+    {
+        "start": 1526.12,
+        "end": 1531.24,
+        "text": " year contract that you have to pay to get out of now with visible with visible you get a one-line"
+    },
+    {
+        "start": 1531.24,
+        "end": 1536.6,
+        "text": " plan with unlimited 5G data on Verizon's network for 25 bucks a month taxes and fees included"
+    },
+    {
+        "start": 1536.6,
+        "end": 1541.8799999999999,
+        "text": " so you can manage your plan chat to customer service update your eSim and do it all on the app"
+    },
+    {
+        "start": 1541.8799999999999,
+        "end": 1545.48,
+        "text": " and so they don't bundle their plans with extra stuff that cost you extra money they keep things"
+    },
+    {
+        "start": 1545.48,
+        "end": 1550.6,
+        "text": " simple so if you don't want a wireless plan that focuses on the wireless part by all means do not"
+    },
+    {
+        "start": 1550.6,
+        "end": 1556.76,
+        "text": " switch today at visible dot com on the visible plan or after 50 gigs on the visible plus plan in"
+    },
+    {
+        "start": 1556.76,
+        "end": 1560.28,
+        "text": " time to traffic your data maybe temporarily slower than other traffic mobile hotspot with unlimited"
+    },
+    {
+        "start": 1560.28,
+        "end": 1564.2,
+        "text": " data at speed that put five megabits per second limited to one device all right welcome back"
+    },
+    {
+        "start": 1565.16,
+        "end": 1569.56,
+        "text": " we got a lot more to talk about I think a probably a good packaging way to end the carbon"
+    },
+    {
+        "start": 1569.56,
+        "end": 1576.2,
+        "text": " neutrality part is it feels like it's both a real thing a real concept and an accounting practice"
+    },
+    {
+        "start": 1576.2,
+        "end": 1580.04,
+        "text": " yeah and that's probably how we should look at it just because there's a lot going on to equal"
+    },
+    {
+        "start": 1580.04,
+        "end": 1584.76,
+        "text": " carbon zero yeah I think that's a good way to think about it also like we want to encourage"
+    },
+    {
+        "start": 1584.76,
+        "end": 1591.1599999999999,
+        "text": " companies to do their best to have the best possible versions of the offsets right that are like"
+    },
+    {
+        "start": 1592.1200000000001,
+        "end": 1600.6000000000001,
+        "text": " certified and fundamentally permanent and not duplicative real word and additional and these"
+    },
+    {
+        "start": 1600.6000000000001,
+        "end": 1606.0400000000002,
+        "text": " are like these are things that they know and and the better the offsets are the more real their"
+    },
+    {
+        "start": 1606.0400000000002,
+        "end": 1612.0400000000002,
+        "text": " neutrality is right yeah yeah so that brings us to clean energy oh there's a whole another topic"
+    },
+    {
+        "start": 1612.0400000000002,
+        "end": 1616.6000000000001,
+        "text": " clean energy how would you describe clean energy there's a thousand different ways you could"
+    },
+    {
+        "start": 1616.6,
+        "end": 1622.52,
+        "text": " probably define it but in the context of tech companies and all the energy they use how would"
+    },
+    {
+        "start": 1622.52,
+        "end": 1629.9599999999998,
+        "text": " you just define clean energy yeah I think clean energy is energy generation that is low carbon"
+    },
+    {
+        "start": 1629.9599999999998,
+        "end": 1636.4399999999998,
+        "text": " I think for me the cleanliness factor is is how low of carbon it is I think when you get into burning"
+    },
+    {
+        "start": 1636.4399999999998,
+        "end": 1645.3999999999999,
+        "text": " coal you get even dirtier worst byproducts and so but luckily America is like pretty much off"
+    },
+    {
+        "start": 1645.4,
+        "end": 1650.44,
+        "text": " coal for the most part and you know like it's really expensive to run a coal generation facility"
+    },
+    {
+        "start": 1650.44,
+        "end": 1655.96,
+        "text": " so we're sort of on the outs with coal all I mean remember this is like a global problem and and"
+    },
+    {
+        "start": 1655.96,
+        "end": 1661.3200000000002,
+        "text": " 80% of the world's energy is still fossil fuels and a lot of that is coal in across the world so like"
+    },
+    {
+        "start": 1661.3200000000002,
+        "end": 1667.3200000000002,
+        "text": " it's still a huge problem but clean energy is something that uses as low carbon as possible so"
+    },
+    {
+        "start": 1667.32,
+        "end": 1676.12,
+        "text": " that's going to be wind solar hydro that's going to be geothermal and nuclear and I'm probably"
+    },
+    {
+        "start": 1676.12,
+        "end": 1682.6,
+        "text": " missing 40 of them but but these are these are sources did I certainly come on I definitely"
+    },
+    {
+        "start": 1682.6,
+        "end": 1687.56,
+        "text": " said wind right yeah I think said wind now but then run it back run it back right now and do a"
+    },
+    {
+        "start": 1687.56,
+        "end": 1699.1599999999999,
+        "text": " slow-mo of me going wind are any of these methods carbon zero emitting no I mean like look we're"
+    },
+    {
+        "start": 1699.1599999999999,
+        "end": 1705.56,
+        "text": " sitting here talking and we're carbon positive like we're all excreting carbon dioxide yes which"
+    },
+    {
+        "start": 1705.56,
+        "end": 1711.08,
+        "text": " is like a thing that these are like no you you want you want climate change to end and yet you"
+    },
+    {
+        "start": 1711.08,
+        "end": 1717.08,
+        "text": " drink from a water bottle curious you know like you breathe yeah and so like we're a society but"
+    },
+    {
+        "start": 1717.08,
+        "end": 1725.08,
+        "text": " yet you exist in it right like pick a flag brother yeah I I definitely want it like we're all"
+    },
+    {
+        "start": 1725.08,
+        "end": 1732.6,
+        "text": " emitting currently so nothing that you're going to do even like the walk to a water well is carbon"
+    },
+    {
+        "start": 1732.6,
+        "end": 1738.6,
+        "text": " excrete is breathing out yeah but also like and that's not and that that sounds like a minimizing"
+    },
+    {
+        "start": 1738.6,
+        "end": 1742.6,
+        "text": " the amount of carbon required for like a wind turbine and I don't want to do that because it's a"
+    },
+    {
+        "start": 1743.0,
+        "end": 1749.48,
+        "text": " lot of carbon required for all of this setup um solar solar panels like they do also take carbon"
+    },
+    {
+        "start": 1750.1999999999998,
+        "end": 1756.9199999999998,
+        "text": " to to produce and to set up and to a little bit to run but like once you're through the setup phase"
+    },
+    {
+        "start": 1756.9199999999998,
+        "end": 1763.1599999999999,
+        "text": " like amortizing that over a handful of years and then you're you're good on the carbon side is"
+    },
+    {
+        "start": 1763.1599999999999,
+        "end": 1768.28,
+        "text": " there one of those that you think is the most effective slash you would like to see more of throughout"
+    },
+    {
+        "start": 1769.08,
+        "end": 1775.96,
+        "text": " world I mean so one nice thing about like solar and wind is that they are officially the cheapest"
+    },
+    {
+        "start": 1775.96,
+        "end": 1781.6399999999999,
+        "text": " form of energy now like the cost curve for those two has just fallen off of a cliff and now like"
+    },
+    {
+        "start": 1781.6399999999999,
+        "end": 1788.04,
+        "text": " in the past 10 years like solar power has dropped 90 percent in the price wow that's crazy yeah"
+    },
+    {
+        "start": 1788.04,
+        "end": 1792.84,
+        "text": " it's good like we've just marched it all the way down the cost curve so I think like I would like"
+    },
+    {
+        "start": 1793.32,
+        "end": 1798.84,
+        "text": " personally I want to see more battery installation I think that's the that is the like fix for"
+    },
+    {
+        "start": 1799.56,
+        "end": 1804.84,
+        "text": " intermittency there's also I know I know all of the things that gets online say and so I'm"
+    },
+    {
+        "start": 1804.84,
+        "end": 1809.48,
+        "text": " gonna say you're going down the rabbit holes in your head before we even get deeply yeah um and"
+    },
+    {
+        "start": 1809.48,
+        "end": 1813.9599999999998,
+        "text": " it's like well yeah but like at night you can't get solar power and the wind doesn't always blow"
+    },
+    {
+        "start": 1813.9599999999998,
+        "end": 1819.6399999999999,
+        "text": " what do you do then huh sheep will you know like you then you need your coal the burn um and the"
+    },
+    {
+        "start": 1819.64,
+        "end": 1824.76,
+        "text": " answer is like well yeah but that's how the grid was set up when all we had was coal you know"
+    },
+    {
+        "start": 1824.76,
+        "end": 1831.48,
+        "text": " like why are we judging these new technologies by like this the benchmarks of the 1800s yeah the"
+    },
+    {
+        "start": 1831.48,
+        "end": 1838.0400000000002,
+        "text": " way to cut the intermittency of renewable energy like solar and wind is battery storage so you like"
+    },
+    {
+        "start": 1838.0400000000002,
+        "end": 1843.3200000000002,
+        "text": " extra juice the these batteries when you are when you have too much solar yep and then you're"
+    },
+    {
+        "start": 1843.32,
+        "end": 1849.8799999999999,
+        "text": " able to like cut that cut that uh the drop off yeah I did a whole I did a video on my setup which"
+    },
+    {
+        "start": 1849.8799999999999,
+        "end": 1854.52,
+        "text": " is it obviously takes a lot and we can there's another rabbit hole to like create the batteries and"
+    },
+    {
+        "start": 1854.52,
+        "end": 1858.4399999999998,
+        "text": " just ship into your house and all that but once you have it all set up you have batteries have batteries"
+    },
+    {
+        "start": 1858.4399999999998,
+        "end": 1864.12,
+        "text": " in my garage and I have solar panels on the roof and the whole thing just kind of works as a cycle"
+    },
+    {
+        "start": 1864.12,
+        "end": 1869.08,
+        "text": " hardly ever touches the grid charges the car the house runs off of electricity from solar all day"
+    },
+    {
+        "start": 1869.08,
+        "end": 1873.24,
+        "text": " nice and so that's like a nice ideal setup but it's still not carbon zero because you have to"
+    },
+    {
+        "start": 1873.24,
+        "end": 1878.04,
+        "text": " get it out of the house there's there's that whole rabbit hole um but I think what we want to talk"
+    },
+    {
+        "start": 1878.04,
+        "end": 1882.92,
+        "text": " about is some of these big tech companies where it's like okay now if you're Google how how on earth do"
+    },
+    {
+        "start": 1882.92,
+        "end": 1888.04,
+        "text": " you attack that problem of like all of your buildings and all of your manufacturing and electricity"
+    },
+    {
+        "start": 1888.04,
+        "end": 1894.36,
+        "text": " and the lights and everything being a clean energy we have a quote here from Google Google has claimed"
+    },
+    {
+        "start": 1894.36,
+        "end": 1900.28,
+        "text": " that they have matched a hundred percent of its global annual electricity consumption with the"
+    },
+    {
+        "start": 1900.28,
+        "end": 1905.16,
+        "text": " purchase of renewable energy okay okay so this kind of feels like another accounting practice"
+    },
+    {
+        "start": 1906.12,
+        "end": 1912.36,
+        "text": " what does this mean I mean it's it's tough because this is great like we like that Google is"
+    },
+    {
+        "start": 1912.36,
+        "end": 1918.76,
+        "text": " investing their money in clean energy right we I want to say Google Jonathan P. Google if you're"
+    },
+    {
+        "start": 1918.76,
+        "end": 1925.6399999999999,
+        "text": " listening thank you you're doing I love what you're doing with the place um the the accounting"
+    },
+    {
+        "start": 1925.64,
+        "end": 1931.16,
+        "text": " strategy is real right like you're generating power from all sorts of places those electrons"
+    },
+    {
+        "start": 1931.16,
+        "end": 1938.0400000000002,
+        "text": " get mixed up in a big electron soup and then they're powering Google so like the various parts of"
+    },
+    {
+        "start": 1938.0400000000002,
+        "end": 1942.44,
+        "text": " Google so you're it's not as though like every electron that turns on the light in"
+    },
+    {
+        "start": 1943.48,
+        "end": 1949.8000000000002,
+        "text": " Johnny Google's office is from renewable energy source right but they are I believe they are"
+    },
+    {
+        "start": 1949.8,
+        "end": 1956.04,
+        "text": " accounting for all that energy through things like power purchase agreements and uh rec purchases"
+    },
+    {
+        "start": 1956.04,
+        "end": 1962.6,
+        "text": " which are renewable energy certificates so when you man I know what I'm going to say and I'm"
+    },
+    {
+        "start": 1962.6,
+        "end": 1968.44,
+        "text": " already bored by what I'm saying I'm so sorry um when you produce clean energy you you dump it"
+    },
+    {
+        "start": 1968.44,
+        "end": 1973.48,
+        "text": " into the grid and you also get a rec or renewable energy certificate that you can sell and that's a"
+    },
+    {
+        "start": 1973.48,
+        "end": 1981.32,
+        "text": " way to incentivize more renewable energy got a generation yeah so Google can effectively offset"
+    },
+    {
+        "start": 1981.32,
+        "end": 1987.48,
+        "text": " the electricity that they use by making sure that they have accounted for all their electricity through"
+    },
+    {
+        "start": 1988.2,
+        "end": 1994.68,
+        "text": " purchasing direct from renewable energy companies or purchasing renewable energy certificates for"
+    },
+    {
+        "start": 1994.68,
+        "end": 1998.68,
+        "text": " the megawatt hours that they've been using okay so it kind of divides again until like those two"
+    },
+    {
+        "start": 1998.68,
+        "end": 2003.8,
+        "text": " camps of like you can either get your supply as clean as possible or you can"
+    },
+    {
+        "start": 2004.76,
+        "end": 2009.3200000000002,
+        "text": " accept that your supply won't always be clean but sort of accept that total and purchase offsets"
+    },
+    {
+        "start": 2009.3200000000002,
+        "end": 2013.4,
+        "text": " in some way that can account for that right which is what we want to encourage right we want to"
+    },
+    {
+        "start": 2013.4,
+        "end": 2021.0800000000002,
+        "text": " incentivize that but also like it it also encourages Google to make claims like every single thing"
+    },
+    {
+        "start": 2021.0800000000002,
+        "end": 2027.5600000000002,
+        "text": " we've ever done is renewable energy we've never once even thought about using natural gas as an"
+    },
+    {
+        "start": 2027.56,
+        "end": 2034.6,
+        "text": " energy source yeah and like of course you could very easily point to a time when some station was"
+    },
+    {
+        "start": 2034.6,
+        "end": 2039.6399999999999,
+        "text": " run on yeah natural gas yeah but because they bought so many offsets they can say that everything"
+    },
+    {
+        "start": 2039.6399999999999,
+        "end": 2044.84,
+        "text": " they've ever done has been offset right in fact like legacy emissions this is the new thing I think"
+    },
+    {
+        "start": 2044.84,
+        "end": 2049.7999999999997,
+        "text": " Microsoft is is kind of hot on this where it's like we're going to calculate all the electricity we've"
+    },
+    {
+        "start": 2049.7999999999997,
+        "end": 2057.08,
+        "text": " ever used and offset that but also like Google is doing some cool where they will install geothermal"
+    },
+    {
+        "start": 2058.36,
+        "end": 2064.68,
+        "text": " generation oh on there I think the Bayview campus is all geothermal heat pumps wow and so that's"
+    },
+    {
+        "start": 2064.68,
+        "end": 2071.32,
+        "text": " like powered pretty renewably and also it cuts down on their water usage so like they're doing"
+    },
+    {
+        "start": 2071.32,
+        "end": 2076.6,
+        "text": " cool I wanted to you know talk more about the language because you know Google lays down this sort"
+    },
+    {
+        "start": 2076.6,
+        "end": 2081.32,
+        "text": " of complicated like matched 100 percent you know it's not exactly like the clearest sentence in the"
+    },
+    {
+        "start": 2081.32,
+        "end": 2089.32,
+        "text": " world but in the sort of Apple companion sister crest release that they always do they full on say"
+    },
+    {
+        "start": 2089.32,
+        "end": 2096.04,
+        "text": " Apple's global facilities are powered with 100 percent clean energy across 43 countries which"
+    },
+    {
+        "start": 2096.04,
+        "end": 2102.52,
+        "text": " just feels like an impossible wrong thing so are you allowed to say powered with 100 percent clean"
+    },
+    {
+        "start": 2102.52,
+        "end": 2109.88,
+        "text": " energy even if you're just offset yeah so I think apples claim that they've like they're powered"
+    },
+    {
+        "start": 2109.96,
+        "end": 2117.0,
+        "text": " 100 percent renewable in 43 countries when they only have power generation in 20 something countries"
+    },
+    {
+        "start": 2117.0,
+        "end": 2123.7200000000003,
+        "text": " is like so you're not powered by that you're doing the offsetting and I and to my knowledge I think"
+    },
+    {
+        "start": 2123.7200000000003,
+        "end": 2131.2400000000002,
+        "text": " they are also doing some kind of power purchasing or or wreck purchasing or something and just calling it"
+    },
+    {
+        "start": 2131.2400000000002,
+        "end": 2136.36,
+        "text": " powered because you can do the mental judo to make it feel like that's what's powering you"
+    },
+    {
+        "start": 2136.36,
+        "end": 2142.36,
+        "text": " is that sorry to interrupt is that kind of like when they say like made with made with 100 percent"
+    },
+    {
+        "start": 2142.36,
+        "end": 2148.44,
+        "text": " real juice or something and it's like half half from concentrate but it's made with 100 percent"
+    },
+    {
+        "start": 2148.44,
+        "end": 2153.96,
+        "text": " real juice there was a yeah so you can get in there wasn't attempt to yeah you know what I mean"
+    },
+    {
+        "start": 2153.96,
+        "end": 2160.76,
+        "text": " like that I think it's actually even worse than that because the FDA pretty tightly regulates"
+    },
+    {
+        "start": 2160.76,
+        "end": 2166.92,
+        "text": " things like that and there are such loose regulations in what you're allowed to say you're a"
+    },
+    {
+        "start": 2166.92,
+        "end": 2173.32,
+        "text": " I think the European Parliament is is starting to crack down on that and so like you can't make"
+    },
+    {
+        "start": 2173.32,
+        "end": 2181.7200000000003,
+        "text": " greenwashing claims like 100 percent clean powered if it's not the US bless our little hearts"
+    },
+    {
+        "start": 2181.7200000000003,
+        "end": 2189.48,
+        "text": " has fewer screwpils about what a company is allowed to say marketing-wise so yeah I think apple"
+    },
+    {
+        "start": 2189.48,
+        "end": 2195.88,
+        "text": " can say that and they can back it up by proving oh every single time we we you know like flush"
+    },
+    {
+        "start": 2195.88,
+        "end": 2200.28,
+        "text": " to toilet that doesn't that's the one thing that doesn't take electricity my god every time we turn"
+    },
+    {
+        "start": 2200.28,
+        "end": 2206.84,
+        "text": " to light on and turn the fan on at in the bathroom yeah wow what I'm blowing this we can account"
+    },
+    {
+        "start": 2206.84,
+        "end": 2211.96,
+        "text": " for that in renewable energy right and yeah I mean like they think they can you know like they kind"
+    },
+    {
+        "start": 2211.96,
+        "end": 2218.12,
+        "text": " of can and also no one's gonna no one's gonna walk into Tim Cook's office who runs apple now"
+    },
+    {
+        "start": 2218.2799999999997,
+        "end": 2223.24,
+        "text": " Tim Tim Cook okay I almost said Steve Jobs I really did no one's gonna dig up Steve Jobs"
+    },
+    {
+        "start": 2223.24,
+        "end": 2227.88,
+        "text": " I'm arrested so this is a really interesting thing because apple kind of I've learned a lot about"
+    },
+    {
+        "start": 2227.88,
+        "end": 2232.52,
+        "text": " what apple's been doing and they they kind of do both sides of this where yeah they clearly can't"
+    },
+    {
+        "start": 2232.52,
+        "end": 2237.48,
+        "text": " be completely renewable and so their statements kind of feel fuzzy in that way but on the other hand"
+    },
+    {
+        "start": 2237.48,
+        "end": 2243.08,
+        "text": " they have a lot of solar on on their HQ I doubt the entire thing runs from solar but they they"
+    },
+    {
+        "start": 2243.08,
+        "end": 2247.48,
+        "text": " have a lot of solar there they have all these solar farms that they've contributed to building"
+    },
+    {
+        "start": 2248.28,
+        "end": 2252.36,
+        "text": " and then the one thing that really stuck with me was having a meeting with them they're"
+    },
+    {
+        "start": 2252.36,
+        "end": 2259.0,
+        "text": " talking about manufacturing and also that's a very cool sentence to say having a meeting with apple"
+    },
+    {
+        "start": 2259.0,
+        "end": 2264.6,
+        "text": " oh yeah oh no yeah we've and look they they love to talk our ear off about all the great things"
+    },
+    {
+        "start": 2264.6,
+        "end": 2270.12,
+        "text": " that they're doing nice um but one of the things that stuck with me was they may say that they're"
+    },
+    {
+        "start": 2270.12,
+        "end": 2275.4,
+        "text": " doing some things and you can split into these two buckets but one thing about apple is they"
+    },
+    {
+        "start": 2275.48,
+        "end": 2280.92,
+        "text": " they've told me like strongly they're trying to make the best effort to to use sustainable"
+    },
+    {
+        "start": 2280.92,
+        "end": 2287.7200000000003,
+        "text": " suppliers and so they'll go to a supplier and say we will only do business with you if you are"
+    },
+    {
+        "start": 2287.7200000000003,
+        "end": 2293.48,
+        "text": " reaching this benchmark or if you are this much more sustainable and so instead of just buying"
+    },
+    {
+        "start": 2293.48,
+        "end": 2297.96,
+        "text": " the credits they're actually making that effort and then on top of that because there's such a"
+    },
+    {
+        "start": 2297.96,
+        "end": 2302.6800000000003,
+        "text": " big company the suppliers number one they want that business so they're gonna try to do that right"
+    },
+    {
+        "start": 2302.68,
+        "end": 2308.44,
+        "text": " and then every other company who uses that same supplier for something just have their process"
+    },
+    {
+        "start": 2308.44,
+        "end": 2314.52,
+        "text": " their supply chain get that much more sustainable as well so the biggest companies going through"
+    },
+    {
+        "start": 2314.52,
+        "end": 2321.96,
+        "text": " the effort to adjust their supply chain to be more sustainable does have feels like a really good"
+    },
+    {
+        "start": 2321.96,
+        "end": 2327.48,
+        "text": " impact on the entire system if that makes sense I think that's a great point and I think I think"
+    },
+    {
+        "start": 2328.36,
+        "end": 2334.6,
+        "text": " what we want is every company to be like trying for that yeah I will note the sentence that"
+    },
+    {
+        "start": 2334.6,
+        "end": 2340.76,
+        "text": " apple told you was we're trying to make the best effort to work with people who are like"
+    },
+    {
+        "start": 2340.76,
+        "end": 2346.12,
+        "text": " clean in the supply chain which is just like couching all their like you know like at the end of"
+    },
+    {
+        "start": 2346.12,
+        "end": 2351.64,
+        "text": " the day they're trying to make another trillion dollars or whatever and they're really good at it"
+    },
+    {
+        "start": 2351.64,
+        "end": 2358.3599999999997,
+        "text": " and they have so much money right like they if they wanted to yeah they could just say we're only"
+    },
+    {
+        "start": 2358.3599999999997,
+        "end": 2363.72,
+        "text": " working with suppliers to do this yeah so like they are doing a lot and I really respect"
+    },
+    {
+        "start": 2364.52,
+        "end": 2371.64,
+        "text": " the accomplishments that they have made and I think our job as like people in the same world as"
+    },
+    {
+        "start": 2371.64,
+        "end": 2379.72,
+        "text": " apple is to like say good job but also don't stop where you're at because that's not far enough"
+    },
+    {
+        "start": 2379.72,
+        "end": 2383.9599999999996,
+        "text": " yeah or you can say whatever version of good job and you can make it mean if you want even good"
+    },
+    {
+        "start": 2383.9599999999996,
+        "end": 2389.7999999999997,
+        "text": " start good start yeah it's a good start speaking of clean energy and kind of near the end of this"
+    },
+    {
+        "start": 2389.7999999999997,
+        "end": 2396.2,
+        "text": " topic there's the thing the apple did either the beginning of this year or last year bitmojis yeah"
+    },
+    {
+        "start": 2399.3999999999996,
+        "end": 2405.8799999999997,
+        "text": " that we made a short on where basically by default on every iPhone running a certain iOS version"
+    },
+    {
+        "start": 2405.88,
+        "end": 2413.48,
+        "text": " or whatever it now automatically will only pull power when your grid is coming from a clean energy"
+    },
+    {
+        "start": 2413.48,
+        "end": 2421.1600000000003,
+        "text": " source unless you turn it off it is opt out and I wanted your opinion on both what is exactly does"
+    },
+    {
+        "start": 2421.1600000000003,
+        "end": 2426.6800000000003,
+        "text": " how does that work like how does your grid sometimes come from clean energy and sometimes not can"
+    },
+    {
+        "start": 2426.6800000000003,
+        "end": 2431.2400000000002,
+        "text": " you just give like a brief like top down recap of what that looks like yeah and also if you think"
+    },
+    {
+        "start": 2431.24,
+        "end": 2438.2799999999997,
+        "text": " that that is actually super impactful or not yeah yeah okay so I think what probably what"
+    },
+    {
+        "start": 2438.2799999999997,
+        "end": 2444.68,
+        "text": " apples languages is like we're gonna charge when the grid is most renewable right yes because like"
+    },
+    {
+        "start": 2444.68,
+        "end": 2450.12,
+        "text": " some grids never never renewable all natural gas you know like some sometimes there's just or not"
+    },
+    {
+        "start": 2450.12,
+        "end": 2455.16,
+        "text": " all natural gas but like the majority of the electricity is generated by natural gas however in"
+    },
+    {
+        "start": 2455.16,
+        "end": 2459.72,
+        "text": " California for instance there's this thing called the duck curves is this has anyone heard of this"
+    },
+    {
+        "start": 2459.72,
+        "end": 2465.3999999999996,
+        "text": " thing no it's like don't worry about it don't look it up don't look it up it's it's basically don't"
+    },
+    {
+        "start": 2465.3999999999996,
+        "end": 2473.48,
+        "text": " don't stop googling don't know basically like we put so much rooftop solar like a duck I totally think"
+    },
+    {
+        "start": 2473.48,
+        "end": 2477.72,
+        "text": " the opposite I've never seen the duck people have been like look it's a duck it's a stuck you"
+    },
+    {
+        "start": 2477.72,
+        "end": 2484.2,
+        "text": " it's a stretch it's not okay yeah it's true it's a switch what it what it what it is is there's"
+    },
+    {
+        "start": 2484.2,
+        "end": 2491.96,
+        "text": " enough solar electricity being generated in California that they can't use it all so so it"
+    },
+    {
+        "start": 2491.96,
+        "end": 2500.12,
+        "text": " creates this kind of like oh wow yeah so so if you're in California your iPhone is most likely to"
+    },
+    {
+        "start": 2500.12,
+        "end": 2505.56,
+        "text": " charge on this renewable energy charging all the peak hours in the like noon kind of when there's"
+    },
+    {
+        "start": 2505.56,
+        "end": 2511.48,
+        "text": " the most sun the most solar on the grid because that grid is like maximum solar yeah this is my"
+    },
+    {
+        "start": 2511.48,
+        "end": 2516.52,
+        "text": " understanding of how this apple works if if you are out there Tim I know you're watching this"
+    },
+    {
+        "start": 2517.32,
+        "end": 2522.2,
+        "text": " nice pajamas last night what a weird what a horrible thing for me to say to"
+    },
+    {
+        "start": 2524.2,
+        "end": 2529.0,
+        "text": " yeah so I think this how that works but if you are in a place where there is not a lot of"
+    },
+    {
+        "start": 2529.0,
+        "end": 2534.6,
+        "text": " renewable energy being dispatched into your grid it's just gonna have to pick the time when it's like"
+    },
+    {
+        "start": 2534.6,
+        "end": 2539.0,
+        "text": " oh there's like a little bit more wind maybe it got like windier so it's like yeah or like"
+    },
+    {
+        "start": 2539.0,
+        "end": 2545.16,
+        "text": " there's more nuclear online or public information that your iPhone can collect yeah absolutely yeah"
+    },
+    {
+        "start": 2545.16,
+        "end": 2554.2,
+        "text": " you can the energy information administration EIA Matt fact check yeah yeah you can you can I mean"
+    },
+    {
+        "start": 2554.2,
+        "end": 2560.52,
+        "text": " you can't get like your specific part of transmission but like you can get a breakdown of your"
+    },
+    {
+        "start": 2560.52,
+        "end": 2565.4,
+        "text": " chunk of the grid so like you could look at New York State and see basically what's happening"
+    },
+    {
+        "start": 2565.48,
+        "end": 2568.76,
+        "text": " right and it's different for different times of the year so like the shoulder months where there's"
+    },
+    {
+        "start": 2568.76,
+        "end": 2575.48,
+        "text": " less electricity load for AC and more sores to say like September October that's where you have the"
+    },
+    {
+        "start": 2575.48,
+        "end": 2581.0,
+        "text": " the biggest where they're dumping a lot of solar in California Matt is an engineer turned"
+    },
+    {
+        "start": 2581.0,
+        "end": 2586.36,
+        "text": " comedian and so that's it there's not a lot of those out there so if you find one hold on to"
+    },
+    {
+        "start": 2586.36,
+        "end": 2593.1600000000003,
+        "text": " them that's me too oh really um not funny you're funny I thought you were a computer scientist"
+    },
+    {
+        "start": 2593.24,
+        "end": 2596.6,
+        "text": " that's the same thing that's a good engineer that's like it's like real engineer"
+    },
+    {
+        "start": 2596.6,
+        "end": 2603.48,
+        "text": " computer scientist it's just an engineer who drives trains okay well I was making a bad joke that"
+    },
+    {
+        "start": 2603.48,
+        "end": 2609.24,
+        "text": " um if was funny would be would make my point true if you were a comedian uh here's what happened"
+    },
+    {
+        "start": 2609.24,
+        "end": 2614.8399999999997,
+        "text": " I felt I felt like I needed to defend myself but objectively it was funny I'm known as the"
+    },
+    {
+        "start": 2614.8399999999997,
+        "end": 2619.72,
+        "text": " right moment it was the right timing you said it right I just was like someone's gonna get mad at"
+    },
+    {
+        "start": 2619.72,
+        "end": 2623.9599999999996,
+        "text": " me yeah and I didn't want that I'm not a comedian but I can't be funny you're a funny guy when"
+    },
+    {
+        "start": 2623.9599999999996,
+        "end": 2632.3599999999997,
+        "text": " there's 1.46 billion active iPhones uh throughout the world do you see that as actually being an"
+    },
+    {
+        "start": 2632.3599999999997,
+        "end": 2639.08,
+        "text": " impactful change like that only charging at peak hours kind of thing so I think uh I mean"
+    },
+    {
+        "start": 2639.8799999999997,
+        "end": 2644.7599999999998,
+        "text": " that's not going to be the thing that saves us but I think the thing that saves us is like"
+    },
+    {
+        "start": 2645.2400000000002,
+        "end": 2651.1600000000003,
+        "text": " a hundred thousand things that won't save us you know like our salvation is going to come at the"
+    },
+    {
+        "start": 2651.1600000000003,
+        "end": 2658.28,
+        "text": " hands of like an everything thrown at the wall kind of approach right an apple doing an opt out"
+    },
+    {
+        "start": 2658.28,
+        "end": 2664.2000000000003,
+        "text": " yeah version of this is awesome it felt like a big deal to us because yeah normally companies don't"
+    },
+    {
+        "start": 2664.2000000000003,
+        "end": 2669.8,
+        "text": " do opt out things right they're trying to screw you over but this seems like a like wait this is"
+    },
+    {
+        "start": 2669.8,
+        "end": 2673.8,
+        "text": " like good for everyone yeah it felt like a thing they didn't have to do they flip the switch"
+    },
+    {
+        "start": 2673.8,
+        "end": 2678.6000000000004,
+        "text": " everyone's phones are doing it by default and you can then people were happy to opt out in the"
+    },
+    {
+        "start": 2678.6000000000004,
+        "end": 2683.32,
+        "text": " comments but it was just the fact that that many phones all at once opted in felt like it made a"
+    },
+    {
+        "start": 2683.32,
+        "end": 2691.1600000000003,
+        "text": " dent so really your video about how to opt out probably was carbon negative probably a bad thing oh"
+    },
+    {
+        "start": 2691.1600000000003,
+        "end": 2697.2400000000002,
+        "text": " man I think it's I think it's really cool I think it is free for ample to do because they're not"
+    },
+    {
+        "start": 2697.2400000000002,
+        "end": 2702.28,
+        "text": " paying for the electricity so like it's a very cool move way to go Tim it goes back to the"
+    },
+    {
+        "start": 2702.28,
+        "end": 2706.52,
+        "text": " beginning thing every company has got a good public facing and private facing reason right the"
+    },
+    {
+        "start": 2706.52,
+        "end": 2712.6000000000004,
+        "text": " private facing reason is that was pretty good PR yeah yeah but yeah it actually does make a"
+    },
+    {
+        "start": 2712.6000000000004,
+        "end": 2716.28,
+        "text": " difference so that was good to see that's cool that most of what they're they're doing with"
+    },
+    {
+        "start": 2716.28,
+        "end": 2720.44,
+        "text": " emissions when they're looking at carbon emissions is scope three hmm so they're actually looking at"
+    },
+    {
+        "start": 2721.1600000000003,
+        "end": 2725.32,
+        "text": " what's happening with their products when they're out in the world not like what's happening at"
+    },
+    {
+        "start": 2725.32,
+        "end": 2728.36,
+        "text": " their offices or what's happening and their trucks like they're looking at like these products are"
+    },
+    {
+        "start": 2728.36,
+        "end": 2732.2000000000003,
+        "text": " living on the world and so over the course of your life your iPhone like you're charging it on"
+    },
+    {
+        "start": 2732.2000000000003,
+        "end": 2738.6,
+        "text": " the grid and so it is also affecting their carbon emissions because like the vast majority like 90"
+    },
+    {
+        "start": 2738.6,
+        "end": 2744.04,
+        "text": " plus percent is scope three which includes charging your iPhone so it all ties back into the same"
+    },
+    {
+        "start": 2744.04,
+        "end": 2748.92,
+        "text": " thing of like carbon neutrality where if they can get an iPhone onto a cleaner charging system that's"
+    },
+    {
+        "start": 2748.92,
+        "end": 2753.4,
+        "text": " reducing their carbon emissions because they're actually counting that with their can they're"
+    },
+    {
+        "start": 2753.4,
+        "end": 2759.32,
+        "text": " practiced they can estimate yeah that's really I had no idea that when you're looking at carbon"
+    },
+    {
+        "start": 2759.32,
+        "end": 2765.1600000000003,
+        "text": " emissions for these companies tech companies it's like like 95 percent yeah I mean I mean"
+    },
+    {
+        "start": 2765.1600000000003,
+        "end": 2771.08,
+        "text": " Microsoft was 96 yes like very very high scope three which is outside the company wow that's"
+    },
+    {
+        "start": 2771.08,
+        "end": 2776.6,
+        "text": " interesting because I when I look at a massive company like a Microsoft Google Apple whatever I just"
+    },
+    {
+        "start": 2776.6,
+        "end": 2782.2000000000003,
+        "text": " automatically picture huge buildings and tons of lights and manufacturing equipment and all this"
+    },
+    {
+        "start": 2782.2,
+        "end": 2788.2,
+        "text": " stuff that naturally feels like it has to be making a big impact but probably more than all of"
+    },
+    {
+        "start": 2788.2,
+        "end": 2793.56,
+        "text": " that put together or as we're learning is more than all of that is probably the transportation of"
+    },
+    {
+        "start": 2793.56,
+        "end": 2799.24,
+        "text": " getting it to you and then the energy that it burns while it's in your hands so this is something when"
+    },
+    {
+        "start": 2799.24,
+        "end": 2803.3199999999997,
+        "text": " when Apple came out I think it was earlier this year and they said that the the Apple watch this year"
+    },
+    {
+        "start": 2803.3199999999997,
+        "end": 2809.3199999999997,
+        "text": " series nine is Apple's first ever carbon neutral product fully carbon neutral right they said that"
+    },
+    {
+        "start": 2809.32,
+        "end": 2814.76,
+        "text": " that includes the entire lifetime of you using and charging it which obviously they don't know how"
+    },
+    {
+        "start": 2814.76,
+        "end": 2819.32,
+        "text": " much you're going to use it or charge it or how or when you're going to use it and charge it right but"
+    },
+    {
+        "start": 2819.32,
+        "end": 2823.8,
+        "text": " they've made that estimate they've reduced as much possible in the manufacturing and getting it to"
+    },
+    {
+        "start": 2823.8,
+        "end": 2830.44,
+        "text": " you and bought enough offsets that they feel that they can claim that the Apple watch for the lifetime"
+    },
+    {
+        "start": 2830.44,
+        "end": 2835.1600000000003,
+        "text": " of owning it makes no impact to the environment or at least that's what they want you to think yeah"
+    },
+    {
+        "start": 2835.24,
+        "end": 2841.0,
+        "text": " I think that that sounds like like a really good start yeah yeah interesting okay well I think"
+    },
+    {
+        "start": 2841.0,
+        "end": 2845.3199999999997,
+        "text": " that's that's a pretty good place to leave off for clean energy we got one more section on recycling"
+    },
+    {
+        "start": 2845.3199999999997,
+        "end": 2852.2799999999997,
+        "text": " coming up so that's a pretty good place for a natural break we'll be right back"
+    },
+    {
+        "start": 2852.92,
+        "end": 2854.28,
+        "text": " so"
+    },
+    {
+        "start": 2860.92,
+        "end": 2865.32,
+        "text": " the support for waveform comes from net suite so your business is humming along everything is going"
+    },
+    {
+        "start": 2865.32,
+        "end": 2870.36,
+        "text": " as planned and then things slow down your team gets buried in manual labor and the things that"
+    },
+    {
+        "start": 2870.36,
+        "end": 2875.1600000000003,
+        "text": " used to take a day long are now taking a week that sounds like you think you should know these"
+    },
+    {
+        "start": 2875.16,
+        "end": 2883.64,
+        "text": " three numbers 36,000 25 1 so 36,000 that's the number of businesses which have upgraded to net"
+    },
+    {
+        "start": 2883.64,
+        "end": 2887.3199999999997,
+        "text": " suite by Oracle so it's the number one cloud financial system helping you streamline your"
+    },
+    {
+        "start": 2887.3199999999997,
+        "end": 2895.0,
+        "text": " companies accounting financial management inventory HR and more 25 it's net suites 25 birthday this"
+    },
+    {
+        "start": 2895.0,
+        "end": 2899.72,
+        "text": " year and so that's 25 years of helping businesses do more with less close their books in days not"
+    },
+    {
+        "start": 2899.72,
+        "end": 2906.2799999999997,
+        "text": " weeks and drive down costs and one because your business is one of a kind so net suite make sure"
+    },
+    {
+        "start": 2906.2799999999997,
+        "end": 2911.3199999999997,
+        "text": " you get a customized solution for all of your KPIs in one efficient system with one source of truth"
+    },
+    {
+        "start": 2911.3199999999997,
+        "end": 2917.16,
+        "text": " manage risk get reliable forecasts and improve margins everything you need all in one place so right"
+    },
+    {
+        "start": 2917.16,
+        "end": 2921.7999999999997,
+        "text": " now download net suites popular KPI checklist designed to give you consistently excellent performance"
+    },
+    {
+        "start": 2921.7999999999997,
+        "end": 2927.7999999999997,
+        "text": " absolutely free at net suite dot com slash waveform that's net suite dot com slash waveform to get"
+    },
+    {
+        "start": 2927.8,
+        "end": 2933.8,
+        "text": " your own KPI checklist net suite dot com slash waveform all right welcome back we've got one more"
+    },
+    {
+        "start": 2933.8,
+        "end": 2938.92,
+        "text": " section one more topic to cover with these these tech companies and their green stuff and that's"
+    },
+    {
+        "start": 2938.92,
+        "end": 2944.2000000000003,
+        "text": " recycling and we're talking about juice yeah we got to talk recycling you almost went hard on them"
+    },
+    {
+        "start": 2944.2000000000003,
+        "end": 2950.84,
+        "text": " I think like within their green stuff yeah you know I I the quote again came up in my head about like"
+    },
+    {
+        "start": 2950.84,
+        "end": 2955.8,
+        "text": " 100 made with 100% juice and I just keep replaying that on my head because every time I see one of"
+    },
+    {
+        "start": 2955.8,
+        "end": 2961.88,
+        "text": " these recycling quotes it kind of feels like I don't know how to read this quote in a way that would"
+    },
+    {
+        "start": 2961.88,
+        "end": 2967.32,
+        "text": " actually answer what I'm supposed to know about this but I'll give you some examples and you can"
+    },
+    {
+        "start": 2967.32,
+        "end": 2974.28,
+        "text": " tell me what you think about them Apple promises that by 2025 magnets in Apple devices will use"
+    },
+    {
+        "start": 2974.28,
+        "end": 2983.48,
+        "text": " entirely recycled rare earth elements all Apple designed printed circuit boards will use 100%"
+    },
+    {
+        "start": 2983.48,
+        "end": 2992.6,
+        "text": " recycled tin soldering and 100% recycled gold plating oh cool and by 2025 the target is to use"
+    },
+    {
+        "start": 2992.6,
+        "end": 3000.6,
+        "text": " 100% recycled cobalt in all Apple designed batteries Apple designed Apple designed which ones are"
+    },
+    {
+        "start": 3000.6,
+        "end": 3006.52,
+        "text": " Apple designed which ones are not so some of these feel like made with 100% I don't know exactly"
+    },
+    {
+        "start": 3006.52,
+        "end": 3011.48,
+        "text": " if that's what that means but all of them seem like good things I mean you obviously want to use"
+    },
+    {
+        "start": 3011.48,
+        "end": 3015.4,
+        "text": " as many recycled materials as possible what was that quote that you had about like if all the phones"
+    },
+    {
+        "start": 3015.4,
+        "end": 3023.08,
+        "text": " and ever bought so there's a company in France I think that maybe somewhere in Europe that makes"
+    },
+    {
+        "start": 3023.08,
+        "end": 3028.36,
+        "text": " a backtrack as you grow yeah it's a it's a company called Fairphone oh yeah and they make these like"
+    },
+    {
+        "start": 3028.36,
+        "end": 3034.68,
+        "text": " Amsterdam yeah they make these Amsterdam France yeah they make these phones that are supposed to be"
+    },
+    {
+        "start": 3034.68,
+        "end": 3039.0,
+        "text": " like upgradable in last a long time but their biggest thing is that they are just trying to like"
+    },
+    {
+        "start": 3039.0,
+        "end": 3045.16,
+        "text": " be better about getting people to be more climate conscious and we interviewed the CEO and he"
+    },
+    {
+        "start": 3045.16,
+        "end": 3050.92,
+        "text": " said something about cobalt where he said if you took every phone that was sitting in a drawer"
+    },
+    {
+        "start": 3050.92,
+        "end": 3056.12,
+        "text": " somewhere in someone's house and you recycled all the cobalt in it we'd never have to mind cobalt"
+    },
+    {
+        "start": 3056.12,
+        "end": 3062.84,
+        "text": " again yeah yeah so that everyone's got that drawer like when you said that I thought it was like"
+    },
+    {
+        "start": 3062.84,
+        "end": 3067.7200000000003,
+        "text": " I know the exact drawer that's got four of my old iPhones right yeah right I think that's like"
+    },
+    {
+        "start": 3067.7200000000003,
+        "end": 3077.08,
+        "text": " so so cobalt is like an extremely renewable resource right I mean yeah so every every molecule"
+    },
+    {
+        "start": 3077.08,
+        "end": 3084.6800000000003,
+        "text": " of every element is a commodity right it like it is identical to any other molecule so in that way"
+    },
+    {
+        "start": 3084.6800000000003,
+        "end": 3091.48,
+        "text": " yes they are renewable are there not not so much renewable as in reusable recyclable"
+    },
+    {
+        "start": 3091.48,
+        "end": 3097.4,
+        "text": " renewable means like regenerative they're all finite but they're all potentially reusable right and"
+    },
+    {
+        "start": 3097.4,
+        "end": 3103.72,
+        "text": " the problem is it's kind of hard to organize every single person in the world to like go to their"
+    },
+    {
+        "start": 3103.72,
+        "end": 3110.52,
+        "text": " drawer get it out give it to the right factory and then that factory has to like go into the phone"
+    },
+    {
+        "start": 3111.08,
+        "end": 3119.2400000000002,
+        "text": " take the cobalt out re homogenize it in whatever way cobalt is I mean I'm over my skis here I don't"
+    },
+    {
+        "start": 3119.24,
+        "end": 3126.8399999999997,
+        "text": " know how cobalt is like actually recycled into a new cobalt phone but like that is totally true"
+    },
+    {
+        "start": 3126.8399999999997,
+        "end": 3133.0,
+        "text": " in the same way that like if we were able to like get all of the food that's wasted at a restaurant"
+    },
+    {
+        "start": 3133.0,
+        "end": 3138.7599999999998,
+        "text": " in America to every other country like known would ever go hungry again like technically accurate"
+    },
+    {
+        "start": 3138.7599999999998,
+        "end": 3143.3999999999996,
+        "text": " probably or close to it I mean not known whatever just close but it's like"
+    },
+    {
+        "start": 3143.8,
+        "end": 3150.28,
+        "text": " logistically insane for sure yeah but in general I think I think this is one of the easiest ones"
+    },
+    {
+        "start": 3150.28,
+        "end": 3156.76,
+        "text": " to get everyone on the same page which is virgin materials bad recycling good feels like the feels"
+    },
+    {
+        "start": 3156.76,
+        "end": 3160.92,
+        "text": " like the simple at least from the messaging that I see from these type of companies and feels like"
+    },
+    {
+        "start": 3160.92,
+        "end": 3164.52,
+        "text": " the thing that they're all stressing like we want to use as many recycled materials as possible"
+    },
+    {
+        "start": 3164.52,
+        "end": 3170.36,
+        "text": " because that is sustainable yeah I mean yes I think that the messaging is going to say a lot of"
+    },
+    {
+        "start": 3170.36,
+        "end": 3177.1600000000003,
+        "text": " that and to a to an extent that's very true however they're you know like they're"
+    },
+    {
+        "start": 3178.28,
+        "end": 3183.0,
+        "text": " they're in they're trying to hit a quota right they have to make a certain amount of phones and if"
+    },
+    {
+        "start": 3183.0,
+        "end": 3189.88,
+        "text": " they can't get the recycled cobalt from a drawer in your mom's attic or something not to why do I"
+    },
+    {
+        "start": 3189.88,
+        "end": 3195.2400000000002,
+        "text": " drag your mom into this doesn't matter they can't get that bad phone they're gonna mind the cobalt"
+    },
+    {
+        "start": 3195.3199999999997,
+        "end": 3201.16,
+        "text": " out of whatever cobalt mine they need to because like they're gonna do that but I mean like that's"
+    },
+    {
+        "start": 3201.16,
+        "end": 3205.16,
+        "text": " not to say they shouldn't use recycled cobalt and I'm really happy that they are yeah but like"
+    },
+    {
+        "start": 3206.04,
+        "end": 3212.2,
+        "text": " it's it's uh it's a piece of the puzzle right it sort of feels like with all the things that we've"
+    },
+    {
+        "start": 3212.2,
+        "end": 3218.3599999999997,
+        "text": " talked about so far today it's like it it feels like we're reaching a point in capitalism where it's"
+    },
+    {
+        "start": 3218.36,
+        "end": 3226.1200000000003,
+        "text": " more cost effective for the company to do things that are climate positive in a lot of ways would"
+    },
+    {
+        "start": 3226.1200000000003,
+        "end": 3233.96,
+        "text": " you say that's the case I think we're slowly getting to that point I think still to this day it is"
+    },
+    {
+        "start": 3233.96,
+        "end": 3240.2000000000003,
+        "text": " probably more cost effective for a company to mine new material than it is for them to recycle"
+    },
+    {
+        "start": 3240.2799999999997,
+        "end": 3249.0,
+        "text": " just because like when when you're mining it you're getting it a giant vein of it in one shot"
+    },
+    {
+        "start": 3249.0,
+        "end": 3253.8799999999997,
+        "text": " and you don't have to do a lot of processing to get it to pry it out of old phones right I think like"
+    },
+    {
+        "start": 3253.8799999999997,
+        "end": 3258.8399999999997,
+        "text": " if there was some kind of law that was like it's we're gonna put a giant tariff on like mining new"
+    },
+    {
+        "start": 3258.8399999999997,
+        "end": 3264.3599999999997,
+        "text": " cobalt yes that would be super cost effective they would all go after all the old phones that'd be"
+    },
+    {
+        "start": 3264.36,
+        "end": 3270.52,
+        "text": " like a huge phone buyback program that would absolutely be a fantastic move but I think like"
+    },
+    {
+        "start": 3271.08,
+        "end": 3276.84,
+        "text": " it tends to be a little easier to mine it and companies are very incentivized to do the easy fast"
+    },
+    {
+        "start": 3276.84,
+        "end": 3283.0,
+        "text": " thing so like that's why there's so much mining right now yeah which is crazy because cobalt is not"
+    },
+    {
+        "start": 3283.0,
+        "end": 3289.56,
+        "text": " like an easy metal to mine like it's not found in places that are necessarily the most accessible"
+    },
+    {
+        "start": 3289.56,
+        "end": 3295.16,
+        "text": " it's it's you know it's crazy that it's it's easier to go to the Congo into the middle of the jungle"
+    },
+    {
+        "start": 3295.16,
+        "end": 3299.08,
+        "text": " and pull this stuff out of the ground than it is to like you know not to bring her back into it"
+    },
+    {
+        "start": 3299.08,
+        "end": 3303.56,
+        "text": " but go to David's mom's house and the attic of David mom's house you know what I mean you've"
+    },
+    {
+        "start": 3303.56,
+        "end": 3309.88,
+        "text": " done it it also it kind of strikes me that a recycling would be the easiest for regular people to"
+    },
+    {
+        "start": 3309.88,
+        "end": 3314.36,
+        "text": " get on board with like we talked about that feature before where it's opt out where it's gonna flip"
+    },
+    {
+        "start": 3314.36,
+        "end": 3318.2799999999997,
+        "text": " a switch on everyone's phones and it's going to if you plug it in maybe not charge for a couple"
+    },
+    {
+        "start": 3318.28,
+        "end": 3322.1200000000003,
+        "text": " hours until you're on clean energy and people were like oh that's so inconvenient I'm gonna"
+    },
+    {
+        "start": 3322.1200000000003,
+        "end": 3326.76,
+        "text": " dissapoint my phone I wish it would just charge but like nobody can tell the difference between a"
+    },
+    {
+        "start": 3326.76,
+        "end": 3331.32,
+        "text": " recycled aluminum frame on their phone and a brand new aluminum frame on their phone I feel like"
+    },
+    {
+        "start": 3331.32,
+        "end": 3336.28,
+        "text": " the more of these metals and and rare earth magnets and all these things that happened to be"
+    },
+    {
+        "start": 3336.28,
+        "end": 3340.84,
+        "text": " recycled in your phone generally the better because I feel like I can't tell the difference"
+    },
+    {
+        "start": 3340.84,
+        "end": 3347.6400000000003,
+        "text": " well I think that's true I think like it would be amazing to like have that be the the status quo"
+    },
+    {
+        "start": 3347.64,
+        "end": 3351.8799999999997,
+        "text": " where we're just like recycling all the phones and my god there are so many phones out there like if"
+    },
+    {
+        "start": 3351.8799999999997,
+        "end": 3357.08,
+        "text": " we could just take those phones and disassemble them and put those elements right back in a new"
+    },
+    {
+        "start": 3357.08,
+        "end": 3362.6,
+        "text": " phone that would be awesome yeah I think like it it tends to not be that easy recycling facilities"
+    },
+    {
+        "start": 3362.6,
+        "end": 3368.44,
+        "text": " are like you have to kind of mulch up a phone and like use different density sorting techniques to"
+    },
+    {
+        "start": 3368.44,
+        "end": 3372.52,
+        "text": " get different elements out of it yeah and it's not a perfect science yet it's like hard to do"
+    },
+    {
+        "start": 3373.48,
+        "end": 3379.64,
+        "text": " but emphasizing that two companies we want more recycled our phones that's I think a really good"
+    },
+    {
+        "start": 3379.64,
+        "end": 3384.7599999999998,
+        "text": " move I love your take on this thing that happened recently there's this company called One Plus"
+    },
+    {
+        "start": 3384.7599999999998,
+        "end": 3390.12,
+        "text": " right and they don't hate them no what's what they mean they made one plus catch an astray right"
+    },
+    {
+        "start": 3390.12,
+        "end": 3394.68,
+        "text": " there what what's one plus what did they do their phone company okay they mean all right strike"
+    },
+    {
+        "start": 3394.68,
+        "end": 3401.8,
+        "text": " one strike on they made this folding phone recently okay right expensive $1,700 they have this"
+    },
+    {
+        "start": 3402.84,
+        "end": 3408.28,
+        "text": " rebate that lasts until the end of time until they stop selling the phone where if you send them"
+    },
+    {
+        "start": 3408.28,
+        "end": 3415.24,
+        "text": " in any phone in any condition from any one plus phone no any phone anybody's phone well any"
+    },
+    {
+        "start": 3415.24,
+        "end": 3420.2,
+        "text": " sure I guess like Mark has gonna burn your phone I got a second test right now any phone that has"
+    },
+    {
+        "start": 3420.2,
+        "end": 3425.4,
+        "text": " ever been made if you send them a phone okay it could be burned to a crisp it could be whatever"
+    },
+    {
+        "start": 3425.4,
+        "end": 3432.04,
+        "text": " they will give you a $200 off their new folding phone oh and somebody in my briefing was like"
+    },
+    {
+        "start": 3432.04,
+        "end": 3437.56,
+        "text": " so it could be like you know 12 year old phone or like something that bear it like doesn't work"
+    },
+    {
+        "start": 3437.56,
+        "end": 3442.68,
+        "text": " anymore and they're like yeah and there's been a lot of questions like why would they do that"
+    },
+    {
+        "start": 3442.68,
+        "end": 3450.04,
+        "text": " and my intuition was they're trying to get the cobalt from it either as a credit of sorts that"
+    },
+    {
+        "start": 3450.04,
+        "end": 3454.7599999999998,
+        "text": " they can use later or that they can like reuse in their devices but I don't know if that's"
+    },
+    {
+        "start": 3455.48,
+        "end": 3461.88,
+        "text": " way too expensive to do it probably cost more than $200 per device like what's your take on that"
+    },
+    {
+        "start": 3461.88,
+        "end": 3469.96,
+        "text": " yeah there's definitely not $200 worth of cobalt in every phone um I think I mean it sounds"
+    },
+    {
+        "start": 3469.96,
+        "end": 3475.56,
+        "text": " it sounds cool I think that's a cool move for one phone one plus one plus to do yeah sorry one"
+    },
+    {
+        "start": 3475.56,
+        "end": 3483.1600000000003,
+        "text": " plus it sounds pretty cool um and I yeah I'm not I'm not really sure I suppose there's like a I"
+    },
+    {
+        "start": 3483.1600000000003,
+        "end": 3488.6800000000003,
+        "text": " bet it's a $1500 phone that they're like back on that extra 200 bucks for the guess was like"
+    },
+    {
+        "start": 3488.68,
+        "end": 3492.7599999999998,
+        "text": " they just wanted to see more premium but it cost them less I think in general out of these"
+    },
+    {
+        "start": 3492.7599999999998,
+        "end": 3497.3199999999997,
+        "text": " folding phones have bigger margins there are more expensive but they have to make them expensive to"
+    },
+    {
+        "start": 3497.3199999999997,
+        "end": 3501.7999999999997,
+        "text": " look like the highest end thing yeah so they have bigger margins to play with and maybe they're just"
+    },
+    {
+        "start": 3501.7999999999997,
+        "end": 3508.12,
+        "text": " taking the $200 hit in the margins to maybe it's a combo of marketing and recycling and the cobalt"
+    },
+    {
+        "start": 3508.12,
+        "end": 3511.56,
+        "text": " they get from it and whatever they'll be able to say I'm gonna ask you know about how many phones"
+    },
+    {
+        "start": 3511.56,
+        "end": 3517.56,
+        "text": " they recycled 50,000 all that's a phone all that put together yeah which and that's just from one"
+    },
+    {
+        "start": 3517.56,
+        "end": 3523.48,
+        "text": " guy's mom's house yeah so that feels like a net positive he founds yeah but uh as with any"
+    },
+    {
+        "start": 3523.48,
+        "end": 3530.04,
+        "text": " dealer what whoa as with any of these drug as cobalt um as with any of these quotes there's obviously"
+    },
+    {
+        "start": 3531.24,
+        "end": 3535.64,
+        "text": " language that's very specific to them and there's an asterisk at the end of that is the that's"
+    },
+    {
+        "start": 3535.64,
+        "end": 3541.4,
+        "text": " the whole thing about quotes yeah language that's very specific very specific yeah very specific"
+    },
+    {
+        "start": 3541.4,
+        "end": 3545.16,
+        "text": " with this one so apples that I read at the end with the apple design batteries has an asterisk"
+    },
+    {
+        "start": 3545.16,
+        "end": 3551.96,
+        "text": " so the quote again is by 2025 they are targeting using a hundred percent recycled cobalt in all"
+    },
+    {
+        "start": 3551.96,
+        "end": 3559.3199999999997,
+        "text": " apple design batteries asterisk the asterisk says when you scroll down to the bottom all cobalt"
+    },
+    {
+        "start": 3559.3199999999997,
+        "end": 3567.16,
+        "text": " content references are on a mass balance system basis okay I read this and I don't know what that"
+    },
+    {
+        "start": 3567.16,
+        "end": 3572.8399999999997,
+        "text": " means so when I knew you were coming I decided not to google it I just asked you okay so as far as"
+    },
+    {
+        "start": 3572.84,
+        "end": 3581.48,
+        "text": " I understand mass balance system is about inputs versus outputs so when you say mass balance if you"
+    },
+    {
+        "start": 3581.48,
+        "end": 3587.56,
+        "text": " have almost all recycled cobalt or all recycled cobalt going into the system anything that's coming"
+    },
+    {
+        "start": 3587.56,
+        "end": 3593.32,
+        "text": " out of the system gets to be counted as a hundred percent recycled cobalt okay so even if you've"
+    },
+    {
+        "start": 3593.32,
+        "end": 3598.6000000000004,
+        "text": " got somewhere in the line and and please if you're out there and you're like that's not what it means"
+    },
+    {
+        "start": 3598.6,
+        "end": 3605.56,
+        "text": " leave a comment and I'll respond to it and I'll say thanks Jackson um yeah so mass balance is a"
+    },
+    {
+        "start": 3605.56,
+        "end": 3613.3199999999997,
+        "text": " way to because when and it's also probably not a hundred percent recycled cobalt in the whole thing"
+    },
+    {
+        "start": 3613.3199999999997,
+        "end": 3617.3199999999997,
+        "text": " you know in the same way it's like oh it's a hundred percent recycled plastic in the in the"
+    },
+    {
+        "start": 3617.3199999999997,
+        "end": 3622.36,
+        "text": " phone but it's actually like oh actually just the back cases recycled and fifty percent of the"
+    },
+    {
+        "start": 3622.52,
+        "end": 3632.2000000000003,
+        "text": " plastic total is recycled it's it's a way to allow inputs to be counted in the system itself"
+    },
+    {
+        "start": 3632.2000000000003,
+        "end": 3637.0,
+        "text": " because when you are recycling something you're mixing all the molecules together just like the"
+    },
+    {
+        "start": 3637.0,
+        "end": 3641.2400000000002,
+        "text": " electricity or just like the offsets where you you need to be able to"
+    },
+    {
+        "start": 3643.48,
+        "end": 3649.96,
+        "text": " account for the extra inputs in the system so maybe maybe you're flushing the system with recycled"
+    },
+    {
+        "start": 3650.04,
+        "end": 3655.08,
+        "text": " cobalt and eventually all of the the phones and all of the batteries are using recycled cobalt but"
+    },
+    {
+        "start": 3655.08,
+        "end": 3658.92,
+        "text": " okay it's a way to kind of couch it a little bit yeah and the thing you mentioned also with the"
+    },
+    {
+        "start": 3658.92,
+        "end": 3663.08,
+        "text": " different parts of the phone is very very very common for these quotes where they'll say that we're"
+    },
+    {
+        "start": 3663.08,
+        "end": 3669.08,
+        "text": " using uh recycled aluminum but they'll say it's just the enclosure of the pixel five where there's"
+    },
+    {
+        "start": 3669.08,
+        "end": 3673.2400000000002,
+        "text": " a lot of aluminum also in the frame on the inside of the phone that they don't talk about so it'll just"
+    },
+    {
+        "start": 3673.2400000000002,
+        "end": 3677.64,
+        "text": " be the outside but what you're holding and you're holding recycled aluminum that's great but"
+    },
+    {
+        "start": 3677.64,
+        "end": 3682.44,
+        "text": " stuff like that comes up a lot the enclosure of the phone the frame of the phone this part of the"
+    },
+    {
+        "start": 3682.44,
+        "end": 3687.4,
+        "text": " phone is recycled aluminum which is nice uh and which also brings up another thing also which is"
+    },
+    {
+        "start": 3688.3599999999997,
+        "end": 3694.12,
+        "text": " Google's quote for recycled aluminum it was back housing only and it recycled aluminum is"
+    },
+    {
+        "start": 3694.12,
+        "end": 3701.3199999999997,
+        "text": " approximately fifty eight percent of the pixel five enclosure based on weight okay specific yeah"
+    },
+    {
+        "start": 3701.4,
+        "end": 3708.92,
+        "text": " and and like I just want to make sure I'm I'm clear here like this is a good thing to be recycling"
+    },
+    {
+        "start": 3708.92,
+        "end": 3714.6000000000004,
+        "text": " this material absolutely and the engineers the the mechanical engineers or whoever's designing or"
+    },
+    {
+        "start": 3714.6000000000004,
+        "end": 3720.1200000000003,
+        "text": " what I don't know how phones work um these these guys are like we're trying to do our you know like"
+    },
+    {
+        "start": 3720.1200000000003,
+        "end": 3725.4,
+        "text": " we're we're doing our best to put as much in there and then the marketing arm is like got it now how"
+    },
+    {
+        "start": 3725.4,
+        "end": 3731.4,
+        "text": " do we like spin this in one line and make it really pop yeah and that's where this sort of like"
+    },
+    {
+        "start": 3731.4,
+        "end": 3738.36,
+        "text": " judo comes in so I want to say like great job on the fifty eight percent of recycled material"
+    },
+    {
+        "start": 3738.36,
+        "end": 3742.44,
+        "text": " let's see how high we can get that but then when you see a quote that's like a hundred percent"
+    },
+    {
+        "start": 3742.44,
+        "end": 3747.88,
+        "text": " recycled and you're like well back away from the table like a blackjack dealer and like move on"
+    },
+    {
+        "start": 3747.88,
+        "end": 3753.1600000000003,
+        "text": " to the next thing like you can't you can't let them stop at a hundred percent when a hundred percent"
+    },
+    {
+        "start": 3753.16,
+        "end": 3759.24,
+        "text": " is fifty right right but it's good but it's not there yet yeah yeah yeah says the aluminum in the"
+    },
+    {
+        "start": 3759.24,
+        "end": 3764.7599999999998,
+        "text": " enclosure of the pixel five is a hundred percent recycled content in which I would say so is ours"
+    },
+    {
+        "start": 3765.64,
+        "end": 3771.64,
+        "text": " so uh a recycled con see you are a comedian don't sell yourself short but a hundred percent of"
+    },
+    {
+        "start": 3771.64,
+        "end": 3776.92,
+        "text": " fifty eight percent is fifty eight percent no one can do that math that's too hard yeah and that"
+    },
+    {
+        "start": 3776.92,
+        "end": 3781.96,
+        "text": " to me that is the exact fruit juice thing that right there yeah aluminum in the enclosure of the"
+    },
+    {
+        "start": 3781.96,
+        "end": 3787.7200000000003,
+        "text": " pixel five is a hundred percent recycled content but that recycled content is fifty eight percent"
+    },
+    {
+        "start": 3787.7200000000003,
+        "end": 3793.0,
+        "text": " recycled content yeah okay fifty percent of the time it works every time yeah that"
+    },
+    {
+        "start": 3793.0,
+        "end": 3797.64,
+        "text": " aspects is doing a lot of heavy but like that's not the engineer like the engineers are doing"
+    },
+    {
+        "start": 3797.64,
+        "end": 3803.0,
+        "text": " their best you know I don't know there's no I think it's easy especially in a special"
+    },
+    {
+        "start": 3803.0,
+        "end": 3808.12,
+        "text": " on YouTube or on the internet in general people want to be like this is only terrible or this"
+    },
+    {
+        "start": 3808.12,
+        "end": 3812.6,
+        "text": " is only amazing but it's sort of one of those middle ground things where it's like it is a net"
+    },
+    {
+        "start": 3812.6,
+        "end": 3817.48,
+        "text": " positive even though it is also beneficial for the company to be doing it one of those kind of"
+    },
+    {
+        "start": 3817.48,
+        "end": 3822.6,
+        "text": " things and you know I mean it doesn't feel good to be like thanks Apple you're really saving the"
+    },
+    {
+        "start": 3822.6,
+        "end": 3828.68,
+        "text": " planet yeah you know that their net emissions without all the offsets and stuff are still like"
+    },
+    {
+        "start": 3829.48,
+        "end": 3834.2,
+        "text": " but yeah it's still good you don't want to like be mad at companies for doing the best that they can"
+    },
+    {
+        "start": 3834.2,
+        "end": 3839.08,
+        "text": " well you are they doing the best that they can well and that's like they're they're doing the best"
+    },
+    {
+        "start": 3839.08,
+        "end": 3843.8799999999997,
+        "text": " that they want to do yeah yeah yeah I think I think that's that's where we exist we can like"
+    },
+    {
+        "start": 3844.68,
+        "end": 3851.24,
+        "text": " we force them to do better or ask them to do better yeah and also be happy that they're doing right"
+    },
+    {
+        "start": 3851.24,
+        "end": 3856.4399999999996,
+        "text": " doing something you know yeah yeah I think that's a good place to like summarize it all because at the"
+    },
+    {
+        "start": 3856.4399999999996,
+        "end": 3860.68,
+        "text": " end of the day we vote with our wallets like if we actually want to make decisions based on what"
+    },
+    {
+        "start": 3860.68,
+        "end": 3865.0,
+        "text": " these companies are saying about not just how well the product works but how sustainably well it's"
+    },
+    {
+        "start": 3865.0,
+        "end": 3870.44,
+        "text": " made we can make that difference in them because that's the thing they care the most about is where we"
+    },
+    {
+        "start": 3870.44,
+        "end": 3876.52,
+        "text": " spend our money so when we are evaluating what these companies are saying we can push them a little"
+    },
+    {
+        "start": 3876.52,
+        "end": 3881.7999999999997,
+        "text": " bit on okay you could do better here or you could do more here or you could be more sustainable here"
+    },
+    {
+        "start": 3881.7999999999997,
+        "end": 3887.48,
+        "text": " and actually buy products and make it obvious that that's why you're buying the product yeah although"
+    },
+    {
+        "start": 3887.48,
+        "end": 3893.88,
+        "text": " we we vote with our wallets but we like encourage with our mouths and social media so like"
+    },
+    {
+        "start": 3894.52,
+        "end": 3898.04,
+        "text": " that's that's the other thing if you're out there and you like want to push these guys like push"
+    },
+    {
+        "start": 3898.04,
+        "end": 3903.16,
+        "text": " them like they for some reason they listen to you on Twitter you know like listen they like they"
+    },
+    {
+        "start": 3903.16,
+        "end": 3908.68,
+        "text": " take all that into account and like be that be that force if you're out there yeah don't let them"
+    },
+    {
+        "start": 3908.68,
+        "end": 3912.04,
+        "text": " off the hook yeah yeah the fair phone company that we were talking about is one of the most"
+    },
+    {
+        "start": 3912.04,
+        "end": 3916.6,
+        "text": " interesting ones in the space because they have made a conscious effort to and I made a video about"
+    },
+    {
+        "start": 3916.6,
+        "end": 3924.2,
+        "text": " this to make their entire smartphone from the beginning of the process from the the offices that"
+    },
+    {
+        "start": 3924.2,
+        "end": 3930.7599999999998,
+        "text": " they work in to the manufacturing to the mining to the packaging to the shipping the whole thing"
+    },
+    {
+        "start": 3930.7599999999998,
+        "end": 3936.6,
+        "text": " to be as sustainable and renewables possible and the trade off with a phone that makes all of those"
+    },
+    {
+        "start": 3936.6,
+        "end": 3944.2,
+        "text": " decisions is it's not as thin and pretty and it's not made of metal it's got a plastic back there"
+    },
+    {
+        "start": 3944.2,
+        "end": 3949.7999999999997,
+        "text": " these are all these things that are a little bit here yeah it's got it's got a little bit of the"
+    },
+    {
+        "start": 3950.2799999999997,
+        "end": 3956.8399999999997,
+        "text": " do you want to go all the way or not yeah and I think people will vote with their nuance"
+    },
+    {
+        "start": 3956.8399999999997,
+        "end": 3962.8399999999997,
+        "text": " somewhere in the middle as we all follow that example yeah what fair fund there's a there's a new"
+    },
+    {
+        "start": 3962.8399999999997,
+        "end": 3970.4399999999996,
+        "text": " sort of um SOC like computer process that people are doing where they do everything on one die now"
+    },
+    {
+        "start": 3970.44,
+        "end": 3975.0,
+        "text": " instead of having like the RAM is separate from the GPU is separate from the motherboard now it's"
+    },
+    {
+        "start": 3975.0,
+        "end": 3981.48,
+        "text": " all one and integrating everything like that makes these things exponentially faster so like"
+    },
+    {
+        "start": 3981.48,
+        "end": 3985.7200000000003,
+        "text": " Apple announced the M1 architecture a couple of years ago and that's what all these computers"
+    },
+    {
+        "start": 3985.7200000000003,
+        "end": 3993.2400000000002,
+        "text": " running on they're not very repairable so there's sort of this awkward tension between like if we"
+    },
+    {
+        "start": 3993.2400000000002,
+        "end": 3998.6,
+        "text": " want to keep advancing technology becoming more integrated is like kind of what you have to do"
+    },
+    {
+        "start": 3999.4,
+        "end": 4004.44,
+        "text": " but then there's the flip side of like you can't fix it yeah and repairability is like one of"
+    },
+    {
+        "start": 4004.44,
+        "end": 4010.52,
+        "text": " the biggest ways to be sustainable yeah that's true yeah yeah I mean so we're the the right to repair"
+    },
+    {
+        "start": 4010.52,
+        "end": 4015.24,
+        "text": " are you we're gonna do an episode on right to repair on our cool our YouTube channel climate"
+    },
+    {
+        "start": 4015.24,
+        "end": 4024.2799999999997,
+        "text": " time I'm so excited to live in at youtube.plog.spot um is that the plug oh that's cool oh okay I"
+    },
+    {
+        "start": 4024.28,
+        "end": 4031.0,
+        "text": " also have a podcast called the climate deniers playbook there we go all right it's on Spotify"
+    },
+    {
+        "start": 4031.8,
+        "end": 4040.6000000000004,
+        "text": " hosted on the worldwide web oh damn it's hosted in my mom's attic but yeah right to repair is"
+    },
+    {
+        "start": 4040.6000000000004,
+        "end": 4044.6000000000004,
+        "text": " that's a good callback see you got the chops man yeah you can go all the way with that one"
+    },
+    {
+        "start": 4045.1600000000003,
+        "end": 4048.84,
+        "text": " but yeah right to repair is one of those things that we we always I made a video about this as well"
+    },
+    {
+        "start": 4048.84,
+        "end": 4054.1200000000003,
+        "text": " it's like okay we want tech to be better um tech gets more integrated gets more tightly knit gets"
+    },
+    {
+        "start": 4054.1200000000003,
+        "end": 4060.2000000000003,
+        "text": " faster now it's less repairable now it's less sustainable yeah so that's a challenge we all have"
+    },
+    {
+        "start": 4060.2000000000003,
+        "end": 4065.96,
+        "text": " started to contend with yeah that's yeah but there's also like Apple being in like purposely"
+    },
+    {
+        "start": 4065.96,
+        "end": 4070.84,
+        "text": " difficult exactly there and that's that yeah that's that yeah there are things on the fringes that are"
+    },
+    {
+        "start": 4071.6400000000003,
+        "end": 4077.32,
+        "text": " notably anti repair which make it really tough to justify all the rest of the stuff that they do"
+    },
+    {
+        "start": 4077.8,
+        "end": 4082.44,
+        "text": " are you kind of wrapping it up yeah I was gonna say the EV rabbit hole is way too deep to dive into now"
+    },
+    {
+        "start": 4082.44,
+        "end": 4088.1200000000003,
+        "text": " oh god big one I'll come back later I'll come back in an in an EV oh what about the you"
+    },
+    {
+        "start": 4088.1200000000003,
+        "end": 4092.76,
+        "text": " want to do the the leather one we have like quick hits yeah quick hits okay okay yeah all right I think"
+    },
+    {
+        "start": 4092.76,
+        "end": 4097.16,
+        "text": " I'll I'll we'll wrap it up with a couple quick hits no pressure to think too hard about these but"
+    },
+    {
+        "start": 4097.16,
+        "end": 4101.64,
+        "text": " also all the comment section is is waiting to comment about these quick we got a bunch of quick"
+    },
+    {
+        "start": 4101.64,
+        "end": 4106.04,
+        "text": " hit heads in the in the comments a couple quick hits they skip straight to this part of the"
+    },
+    {
+        "start": 4106.04,
+        "end": 4110.84,
+        "text": " podcast there's timestamps for for them to get mad here right okay 10 seconds for each answer"
+    },
+    {
+        "start": 4111.64,
+        "end": 4116.52,
+        "text": " first one is net water positive a real or interesting least thing we should care about it's a"
+    },
+    {
+        "start": 4116.52,
+        "end": 4121.0,
+        "text": " bit of an accounting technique Google uses net water positive to imply that they're gray or"
+    },
+    {
+        "start": 4121.0,
+        "end": 4128.92,
+        "text": " non-potable water potable obviously being Latin root for potare right not potable they use that to"
+    },
+    {
+        "start": 4129.88,
+        "end": 4133.16,
+        "text": " say we're catching more rainwater so we're cycling out how much"
+    },
+    {
+        "start": 4133.72,
+        "end": 4138.28,
+        "text": " potable water we're using and we're collecting more than we're using okay yeah so it's"
+    },
+    {
+        "start": 4138.28,
+        "end": 4141.64,
+        "text": " but and then they also use as much pot potable water as they as they want"
+    },
+    {
+        "start": 4143.08,
+        "end": 4147.96,
+        "text": " Apple getting rid of all leather in all of their stores and all their products feels like a good"
+    },
+    {
+        "start": 4147.96,
+        "end": 4155.64,
+        "text": " thing but doesn't vegan leather use a ton of energy to create yeah but like it also doesn't"
+    },
+    {
+        "start": 4155.64,
+        "end": 4162.52,
+        "text": " produce all of the methane that we're seeing like cattle farms produce so like certainly there"
+    },
+    {
+        "start": 4162.52,
+        "end": 4168.92,
+        "text": " are bad parts of everything but I'd rather have like a vegan product that produces all so little"
+    },
+    {
+        "start": 4168.92,
+        "end": 4174.6,
+        "text": " methane rather than like a leather product that is part of this in giant meat industrial complex"
+    },
+    {
+        "start": 4174.6,
+        "end": 4180.6,
+        "text": " that's like slowly drowning the entire planet totally fair is it true that shipping more products via"
+    },
+    {
+        "start": 4180.6,
+        "end": 4186.6,
+        "text": " ocean than air is actually a good thing absolutely yes it's a little bit slower but when you think"
+    },
+    {
+        "start": 4186.6,
+        "end": 4192.120000000001,
+        "text": " about buoyancy right you can make a ship naturally buoyant and a plane requires like a ton"
+    },
+    {
+        "start": 4192.120000000001,
+        "end": 4195.88,
+        "text": " where you think about buoyancy too hard there there's a running joke here on the pod that none of us"
+    },
+    {
+        "start": 4195.88,
+        "end": 4202.92,
+        "text": " understand how boats work oh no that's a good bit just just perfect but I just don't really you"
+    },
+    {
+        "start": 4202.92,
+        "end": 4209.400000000001,
+        "text": " know boats are just yeah Joe great well air is a fluid air is a fluid so just imagine how and boats"
+    },
+    {
+        "start": 4209.4,
+        "end": 4213.719999999999,
+        "text": " don't have wings so what the do they have a little tiny wing they have one wing on the bottom of"
+    },
+    {
+        "start": 4213.719999999999,
+        "end": 4219.639999999999,
+        "text": " the building little wings it's called the keel or the dagger board if you're in a sailboat this is"
+    },
+    {
+        "start": 4219.639999999999,
+        "end": 4224.36,
+        "text": " see like my eyes they're just I can they turned they turned all black for a second like"
+    },
+    {
+        "start": 4224.36,
+        "end": 4230.679999999999,
+        "text": " covered off his chair you can cover it donut with all that glaze damn okay so yeah the quick"
+    },
+    {
+        "start": 4230.679999999999,
+        "end": 4237.639999999999,
+        "text": " head's are going crazy in the comments yeah well last quick it true false the EV battery rabbit hole"
+    },
+    {
+        "start": 4237.64,
+        "end": 4242.92,
+        "text": " is too deep to dive down right now true but only because I want to come back and talk to you guys"
+    },
+    {
+        "start": 4242.92,
+        "end": 4249.08,
+        "text": " about that later we are gonna find a separate episode yeah just on the EV rabbit hole because we"
+    },
+    {
+        "start": 4249.08,
+        "end": 4254.52,
+        "text": " would we'd be happy to dive down that rabbit hole yeah I have a quick hit yeah rolly yes how fast"
+    },
+    {
+        "start": 4254.52,
+        "end": 4261.8,
+        "text": " can you type the alphabet wait five point nine seconds would you like to prove that oh no but yeah"
+    },
+    {
+        "start": 4261.8,
+        "end": 4266.4400000000005,
+        "text": " I'll do it let's try it all right so the way this works is pretty simple rolly what you're looking"
+    },
+    {
+        "start": 4266.44,
+        "end": 4271.08,
+        "text": " at in front of you is a box it's empty all you've got to do is type all the letters of the alphabet"
+    },
+    {
+        "start": 4271.08,
+        "end": 4276.44,
+        "text": " in order from a to z and then don't hit enter at the end when you hit z you'll have a time don't"
+    },
+    {
+        "start": 4276.44,
+        "end": 4281.639999999999,
+        "text": " hit enter don't hit enter okay in any order or you got a type of a noir or a bc to efg all the way to"
+    },
+    {
+        "start": 4281.639999999999,
+        "end": 4286.599999999999,
+        "text": " z when you hit z that's your time we're gonna give you three attempts and if you hit five point"
+    },
+    {
+        "start": 4286.599999999999,
+        "end": 4294.5199999999995,
+        "text": " nine on the dot I will give you a small trophy oh well and if you miss a letter it will not accept any"
+    },
+    {
+        "start": 4294.52,
+        "end": 4301.56,
+        "text": " of the following letters until you hit that so go back and you go a b d e f it'll df be waiting on c"
+    },
+    {
+        "start": 4301.56,
+        "end": 4306.76,
+        "text": " but will it it doesn't penalize me for hitting the wrong letter correct so I can just mash in the area"
+    },
+    {
+        "start": 4306.76,
+        "end": 4311.4800000000005,
+        "text": " yes true I mean that's not gonna be faster it's a bad strategy but I'm technically right what if it"
+    },
+    {
+        "start": 4311.4800000000005,
+        "end": 4316.52,
+        "text": " isn't oh you know what I'm gonna it's you have to hit him in order still but you can you can hit like"
+    },
+    {
+        "start": 4316.52,
+        "end": 4321.320000000001,
+        "text": " yeah I'm I mean you could just I mean I'm just gonna try something really quick I mean theoretically"
+    },
+    {
+        "start": 4321.32,
+        "end": 4327.0,
+        "text": " if you wipe 26 times in two seconds you'll get a 20 you get it to seconds I can't I can't quite"
+    },
+    {
+        "start": 4327.0,
+        "end": 4334.2,
+        "text": " cover all the keys it's very hard are you wiping now yeah are you wiping now"
+    },
+    {
+        "start": 4334.2,
+        "end": 4339.16,
+        "text": " yes I just answer the question so the good all right here we go you got a leaderboard pull that"
+    },
+    {
+        "start": 4339.16,
+        "end": 4354.5199999999995,
+        "text": " work for me at all okay ready yeah five point eight wow that's a pretty good first score I was"
+    },
+    {
+        "start": 4354.5199999999995,
+        "end": 4359.88,
+        "text": " trying to get 5.9 very very close you'll have two more attempts if you want to try to get faster than"
+    },
+    {
+        "start": 4359.88,
+        "end": 4369.08,
+        "text": " 5.8 can I try to get slower than 5.8 you can the decimals on that just a round up 5.844 okay so you"
+    },
+    {
+        "start": 4369.08,
+        "end": 4374.68,
+        "text": " can either try to get exactly 5.9 or you can try to go for our leaderboard I'm gonna I'm gonna try"
+    },
+    {
+        "start": 4374.68,
+        "end": 4379.8,
+        "text": " to go as fast as I can and I bet I'm gonna get a 5.9 okay I'm not gonna be a huge win already yeah"
+    },
+    {
+        "start": 4379.8,
+        "end": 4384.28,
+        "text": " and it just it just resets or do I have to reset it when you hit enter it does reset got it"
+    },
+    {
+        "start": 4391.8,
+        "end": 4395.48,
+        "text": " 6.2 damn it all right one more time here we go one on moss"
+    },
+    {
+        "start": 4399.5599999999995,
+        "end": 4413.96,
+        "text": " 5.9 wow 5.973 wow that's pretty close that's pretty good oh you I had to get 5.9 000 technically"
+    },
+    {
+        "start": 4413.96,
+        "end": 4419.24,
+        "text": " this rounds up but I'm impressed you were 300ths of a second I'm very impressed then doctor"
+    },
+    {
+        "start": 4419.719999999999,
+        "end": 4430.28,
+        "text": " so yeah just in case you're curious your 5.8 puts you 1 2 3 4 5 6 7 8 at night on our all time"
+    },
+    {
+        "start": 4430.28,
+        "end": 4437.5599999999995,
+        "text": " leaderboard really wow right above dugdemiro right behind our local dad Andrew Megan Ellie"
+    },
+    {
+        "start": 4437.5599999999995,
+        "end": 4443.88,
+        "text": " wow well played thank you very much but the five point I feel like if if I get a trophy for 5.9"
+    },
+    {
+        "start": 4443.88,
+        "end": 4448.36,
+        "text": " that's got to go that's got to be my score what's the significance of 5.9 I was just guessing you"
+    },
+    {
+        "start": 4448.36,
+        "end": 4452.92,
+        "text": " just maybe he just thought I could maybe do it he just nailed it I'd bet I I got I went a little"
+    },
+    {
+        "start": 4452.92,
+        "end": 4456.76,
+        "text": " over it's pretty close I went a little over and a little under yeah we don't keep track of this"
+    },
+    {
+        "start": 4456.76,
+        "end": 4463.24,
+        "text": " but 5.8 might have been the best first round score we've ever Tom Scott might have beaten not on"
+    },
+    {
+        "start": 4463.24,
+        "end": 4468.2,
+        "text": " his first round I can't quite remember yeah but that's a pretty great first I gotta tell you I'm"
+    },
+    {
+        "start": 4468.2,
+        "end": 4475.88,
+        "text": " a terrible type I only use these fingers what do you think our slowest all time time is if"
+    },
+    {
+        "start": 4475.88,
+        "end": 4481.08,
+        "text": " your 5.8 is terrible what do you think is the worst anyone get disqualified for having a bad attitude"
+    },
+    {
+        "start": 4481.08,
+        "end": 4489.8,
+        "text": " or something we did have a certain someone start off by saying I am a bad typist really bad like"
+    },
+    {
+        "start": 4489.8,
+        "end": 4496.5199999999995,
+        "text": " hunt and pick and he was not last place wow yeah I guess I'm gonna say 12 seconds is the max"
+    },
+    {
+        "start": 4496.52,
+        "end": 4501.160000000001,
+        "text": " David Blaine was said subject he got 8.8 wait David Blaine is the slow oh he was"
+    },
+    {
+        "start": 4501.160000000001,
+        "end": 4508.52,
+        "text": " hit on a bad type yeah yeah what was the slowest brand our local our local brand and he got a 9.4"
+    },
+    {
+        "start": 4508.52,
+        "end": 4513.080000000001,
+        "text": " okay so no one's even no one's no one's been over 10 yeah okay that's good you only have tech"
+    },
+    {
+        "start": 4513.080000000001,
+        "end": 4519.240000000001,
+        "text": " heads on the yeah we got capable keyboardists here nice who's got the fastest score Tom Scott at"
+    },
+    {
+        "start": 4519.24,
+        "end": 4525.32,
+        "text": " what three point five yeah it was insane it was insane he was like yeah I think I can do it"
+    },
+    {
+        "start": 4525.32,
+        "end": 4532.28,
+        "text": " that's that's some classic Tom Scott yeah I'm standing here over keyboard there are 26 keys"
+    },
+    {
+        "start": 4532.28,
+        "end": 4537.4,
+        "text": " that I need to hit in the precise order and he he for sure how started he was like insisted about"
+    },
+    {
+        "start": 4537.4,
+        "end": 4544.44,
+        "text": " doing it on his Dell laptop wow because he had the keyboard down what a what a guy my god yeah"
+    },
+    {
+        "start": 4544.44,
+        "end": 4550.28,
+        "text": " okay so it's around this out we usually ask guess is there anything that people don't generally"
+    },
+    {
+        "start": 4550.28,
+        "end": 4554.2,
+        "text": " know about the topic that we're talking about that you just really want them to know do you want"
+    },
+    {
+        "start": 4554.2,
+        "end": 4558.759999999999,
+        "text": " these commenters to be like huh that's a fun fact about the climate that they just had no idea"
+    },
+    {
+        "start": 4558.759999999999,
+        "end": 4567.879999999999,
+        "text": " about um so I want to I think I want to stress that they probably don't know how ignorant I am"
+    },
+    {
+        "start": 4567.879999999999,
+        "end": 4572.839999999999,
+        "text": " on the topic how ignorant like everybody is on the topic like these are these are subjects that"
+    },
+    {
+        "start": 4572.84,
+        "end": 4578.84,
+        "text": " like we're we're talking about this on the ride over and we were like trying to wonder exactly how"
+    },
+    {
+        "start": 4578.84,
+        "end": 4584.04,
+        "text": " solar is curtailed and where the electricity goes when like it's produced or it's not produced"
+    },
+    {
+        "start": 4584.04,
+        "end": 4592.12,
+        "text": " and there's just so much to every single part of this that I am like so surface level aware of"
+    },
+    {
+        "start": 4592.12,
+        "end": 4599.16,
+        "text": " even after like a couple of months of study so like these are complex difficult topics that if"
+    },
+    {
+        "start": 4599.16,
+        "end": 4603.48,
+        "text": " somebody is like all my next burdens how solar works like they're not they are they're super"
+    },
+    {
+        "start": 4603.48,
+        "end": 4609.24,
+        "text": " not and so I think that should number one let me tell you how you should feel about this empowered"
+    },
+    {
+        "start": 4609.24,
+        "end": 4617.32,
+        "text": " to go out and learn but um more than anything just like you you get to pick what you learn today and"
+    },
+    {
+        "start": 4617.32,
+        "end": 4622.92,
+        "text": " you get to pick like how far along a subject you get into and it's probably worth your time to"
+    },
+    {
+        "start": 4622.92,
+        "end": 4627.639999999999,
+        "text": " understand the climate crisis as deeply as you can you'll never waste your time researching the"
+    },
+    {
+        "start": 4627.64,
+        "end": 4633.72,
+        "text": " stuff um so by all means please go research because there's like a bajillion things that I have no"
+    },
+    {
+        "start": 4633.72,
+        "end": 4638.68,
+        "text": " clue about and I'm gonna spend the rest of my life trying to figure them out yeah if you"
+    },
+    {
+        "start": 4638.68,
+        "end": 4647.160000000001,
+        "text": " make it that far I just get shot it's been a sting operation from a different oh my god"
+    },
+    {
+        "start": 4647.160000000001,
+        "end": 4653.240000000001,
+        "text": " yeah I think you meant climate change mega death not like oh like big oil is absolutely wrong"
+    },
+    {
+        "start": 4653.32,
+        "end": 4659.08,
+        "text": " what is this podcast but I think in general it is you're right it's a good idea to to learn about"
+    },
+    {
+        "start": 4659.08,
+        "end": 4664.84,
+        "text": " the world we live in about the about this planet we only have one of them so it's pretty uh"
+    },
+    {
+        "start": 4664.84,
+        "end": 4670.2,
+        "text": " it's pretty important yeah worth looking into yeah uh this been this has been really fun like I said"
+    },
+    {
+        "start": 4670.2,
+        "end": 4674.44,
+        "text": " we'll have you back we'll talk about EVs we'll do this again do but until the next one where can"
+    },
+    {
+        "start": 4674.44,
+        "end": 4681.16,
+        "text": " they find you on the internet okay yeah um youtube I have a youtube channel called climate town"
+    },
+    {
+        "start": 4681.24,
+        "end": 4687.16,
+        "text": " check that out we have 24 videos out or something so it won't even take you that long to go through"
+    },
+    {
+        "start": 4687.16,
+        "end": 4692.84,
+        "text": " them all their bangers though they're like 20 30 minute time pieces that's sometimes not how people"
+    },
+    {
+        "start": 4692.84,
+        "end": 4698.04,
+        "text": " describe bangers I think they're like that's how on youtube 2023 when I see a 25 minute video"
+    },
+    {
+        "start": 4698.04,
+        "end": 4702.44,
+        "text": " myself I'm like oh I'm popping the pop on the camera this is a good one oh I then then they are"
+    },
+    {
+        "start": 4702.44,
+        "end": 4708.04,
+        "text": " bang they are indeed bangers bangers to the last fingers only yeah bangers only that's a good like"
+    },
+    {
+        "start": 4708.04,
+        "end": 4712.68,
+        "text": " that's my website bangers only dot net bangers only dot yeah you have to plug that"
+    },
+    {
+        "start": 4712.68,
+        "end": 4718.28,
+        "text": " in here it was an apple it was an apple it was like plugging time yeah fucker no it's totally fine I"
+    },
+    {
+        "start": 4718.28,
+        "end": 4724.2,
+        "text": " I'm gonna go there after this and yeah so that's that's the youtube channel the climate"
+    },
+    {
+        "start": 4724.2,
+        "end": 4729.88,
+        "text": " deniers playbook check that out that's me and my comedy partner slash friend Nicole Conlon"
+    },
+    {
+        "start": 4731.72,
+        "end": 4736.04,
+        "text": " she got a plug she wretched for the daily show so she's really smart and really funny"
+    },
+    {
+        "start": 4736.36,
+        "end": 4743.16,
+        "text": " um those are the two big ones followers on instagram were like just at climate town and at deniers"
+    },
+    {
+        "start": 4743.16,
+        "end": 4747.16,
+        "text": " playbook everywhere we have a patreon page if you're feeling like you got an extra five bucks"
+    },
+    {
+        "start": 4747.16,
+        "end": 4754.36,
+        "text": " that you want to throw my way that'd be cool the plug sound is gonna make me really self-conscious"
+    },
+    {
+        "start": 4754.36,
+        "end": 4758.2,
+        "text": " about what's what's what's what I'm plugging in that we have a whole lighting queue with it too oh"
+    },
+    {
+        "start": 4758.2,
+        "end": 4763.8,
+        "text": " really that was a plug for the lighting queue this is cool and then also if you if you want to"
+    },
+    {
+        "start": 4763.8,
+        "end": 4768.52,
+        "text": " just get a little goofy with it I have a billiards channel if you just type my name we can make"
+    },
+    {
+        "start": 4768.52,
+        "end": 4777.56,
+        "text": " this one serious okay since the dawn of time mankind is wondered how do you hit a ball with a"
+    },
+    {
+        "start": 4777.56,
+        "end": 4784.76,
+        "text": " stick into another ball into a hole and all these questions and more are answered at the youtube"
+    },
+    {
+        "start": 4784.76,
+        "end": 4791.320000000001,
+        "text": " channel rolly williams um yeah but don't do the climate town ones first don't do that one first"
+    },
+    {
+        "start": 4791.88,
+        "end": 4798.28,
+        "text": " people only if there's if you you are like I need more vitamin him in my life like then go check"
+    },
+    {
+        "start": 4798.28,
+        "end": 4806.28,
+        "text": " that out but not before you check out climate town that's it there it is yeah thank you guys so much"
+    },
+    {
+        "start": 4806.28,
+        "end": 4811.08,
+        "text": " for watching for listening for subscribing of course and for liking and we'll read your comments"
+    },
+    {
+        "start": 4811.08,
+        "end": 4818.759999999999,
+        "text": " catch you guys in the next one peace go far away from us produced by adam elita and elis rovin we"
+    },
+    {
+        "start": 4818.76,
+        "end": 4822.12,
+        "text": " are part of the box media podcast network and our intro out your music is by vain still"
+    },
+    {
+        "start": 4848.84,
+        "end": 4850.84,
+        "text": " you"
+    },
+    {
+        "start": 4853.400000000001,
+        "end": 4857.8,
+        "text": " you guys ready for the next section yes yeah all right all right let's get it"
+    },
+    {
+        "start": 4862.280000000001,
+        "end": 4866.12,
+        "text": " I'm about to recycle a bunch of jokes nice okay perfect"
+    },
+    {
+        "start": 4869.24,
+        "end": 4874.280000000001,
+        "text": " I don't know what it is but you got it brother yeah you're gonna make it in this town kid yeah"
+    }
+]

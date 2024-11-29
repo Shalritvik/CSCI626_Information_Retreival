@@ -1,0 +1,1842 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.0,
+        "text": " This is an MPB Think Radio Podcast."
+    },
+    {
+        "start": 4.0,
+        "end": 13.0,
+        "text": " Here, previous shows, visit mpbonline.org or download the MPB Public Radio app to listen on your iPhone or Android phone on demand."
+    },
+    {
+        "start": 16.0,
+        "end": 19.0,
+        "text": " Do you drive a vehicle? Then you'll find AutoCorrect helpful."
+    },
+    {
+        "start": 19.0,
+        "end": 21.0,
+        "text": " As far as I tell you, I'm Coach Charlie's Tip of the Week."
+    },
+    {
+        "start": 21.0,
+        "end": 28.0,
+        "text": " Listen to our podcast with me, Coach Charlie Melton on any podcast and platform or on the MPB Public Media app."
+    },
+    {
+        "start": 31.0,
+        "end": 35.0,
+        "text": " Hello, thanks for tuning in to Everyday Tech on MPB Think Radio."
+    },
+    {
+        "start": 35.0,
+        "end": 40.0,
+        "text": " Abram Naney here with my friend Sabir Abdul-Hawk and IT expert."
+    },
+    {
+        "start": 40.0,
+        "end": 45.0,
+        "text": " Just this decade or so, the ways we've enjoyed entertainment media have changed drastically."
+    },
+    {
+        "start": 45.0,
+        "end": 50.0,
+        "text": " Feels like an entire lifetime of technological advancement has happened just within the past few years."
+    },
+    {
+        "start": 50.0,
+        "end": 54.0,
+        "text": " But how has technology changed over an actual lifetime?"
+    },
+    {
+        "start": 55.0,
+        "end": 61.0,
+        "text": " Today on Everyday Tech, we're going to discuss the different advancements the world of entertainment media has seen over the past century."
+    },
+    {
+        "start": 61.0,
+        "end": 65.0,
+        "text": " Email everydaytech at mpbonline.org if you have any questions or comments."
+    },
+    {
+        "start": 65.0,
+        "end": 74.0,
+        "text": " And also, don't forget about the talk to us feature on the MPB Public Media app where you can record a voice or video message and send it straight to us at Everyday Tech."
+    },
+    {
+        "start": 74.0,
+        "end": 80.0,
+        "text": " Now, Sabir, how you doing, man? You are busy this morning or productive this morning."
+    },
+    {
+        "start": 80.0,
+        "end": 82.0,
+        "text": " Sorry, I know you hate that way."
+    },
+    {
+        "start": 83.0,
+        "end": 84.0,
+        "text": " I hate that way."
+    },
+    {
+        "start": 84.0,
+        "end": 86.0,
+        "text": " But yeah, it's productive morning."
+    },
+    {
+        "start": 86.0,
+        "end": 91.0,
+        "text": " It seems like a lot of things have been trying, trying, trying, trying."
+    },
+    {
+        "start": 91.0,
+        "end": 96.0,
+        "text": " But sometimes you just have to push through it and keep on moving."
+    },
+    {
+        "start": 96.0,
+        "end": 99.0,
+        "text": " So, yeah, it's been a productive day."
+    },
+    {
+        "start": 99.0,
+        "end": 107.0,
+        "text": " Yeah, so for those that are listening at home, you probably also should have been listening to fix it, right?"
+    },
+    {
+        "start": 107.0,
+        "end": 108.0,
+        "text": " Right, real talk."
+    },
+    {
+        "start": 108.0,
+        "end": 109.0,
+        "text": " I should have been."
+    },
+    {
+        "start": 109.0,
+        "end": 113.0,
+        "text": " I had something, I had something happened with my bass and in my washing machine."
+    },
+    {
+        "start": 113.0,
+        "end": 115.0,
+        "text": " It just leaked all over the place."
+    },
+    {
+        "start": 115.0,
+        "end": 125.0,
+        "text": " I was on the, I was on the go, came home to a nice, you know, small, small lake, large, large swimming pool covering across two rooms in my house."
+    },
+    {
+        "start": 125.0,
+        "end": 130.0,
+        "text": " So, I've been a shop vaccing, I texted my wife, she was working on some other stuff."
+    },
+    {
+        "start": 130.0,
+        "end": 134.0,
+        "text": " And she was like, you, she just was like, you've been doing so much."
+    },
+    {
+        "start": 134.0,
+        "end": 138.0,
+        "text": " I didn't go to bed to like two o'clock this morning trying to get everything cleaned up."
+    },
+    {
+        "start": 138.0,
+        "end": 143.0,
+        "text": " It has been a day, it's been a day, but you know, tech goes on regardless."
+    },
+    {
+        "start": 143.0,
+        "end": 144.0,
+        "text": " Right, right."
+    },
+    {
+        "start": 144.0,
+        "end": 147.0,
+        "text": " Things still happen, but it's been a productive day, man."
+    },
+    {
+        "start": 147.0,
+        "end": 148.0,
+        "text": " Been a productive day."
+    },
+    {
+        "start": 148.0,
+        "end": 149.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 149.0,
+        "end": 156.0,
+        "text": " And I can't say that I have any experience with washing machine repairs, but I do know that the water damage is not fun."
+    },
+    {
+        "start": 156.0,
+        "end": 158.0,
+        "text": " Not at all, not at all."
+    },
+    {
+        "start": 158.0,
+        "end": 161.0,
+        "text": " And the tripped out part is we just made it obvious to vacation."
+    },
+    {
+        "start": 161.0,
+        "end": 164.0,
+        "text": " I've a little vacation with my family to, um,"
+    },
+    {
+        "start": 164.0,
+        "end": 167.0,
+        "text": " I went to New York this past week."
+    },
+    {
+        "start": 167.0,
+        "end": 170.0,
+        "text": " And so we have plenty of, we have plenty of clothes to fold."
+    },
+    {
+        "start": 170.0,
+        "end": 174.0,
+        "text": " And so now I had my clothes on the floor while I'm getting everything going."
+    },
+    {
+        "start": 174.0,
+        "end": 175.0,
+        "text": " Then I had this leak."
+    },
+    {
+        "start": 175.0,
+        "end": 177.0,
+        "text": " Now I got a bunch of it clothes."
+    },
+    {
+        "start": 177.0,
+        "end": 181.0,
+        "text": " So, yeah, trying to get all this, get all this washed ASAP."
+    },
+    {
+        "start": 181.0,
+        "end": 185.0,
+        "text": " Well, I hope the, I hope the trip to New York was worth it."
+    },
+    {
+        "start": 185.0,
+        "end": 186.0,
+        "text": " Oh, man."
+    },
+    {
+        "start": 186.0,
+        "end": 187.0,
+        "text": " Right, right."
+    },
+    {
+        "start": 187.0,
+        "end": 188.0,
+        "text": " Real tight."
+    },
+    {
+        "start": 188.0,
+        "end": 189.0,
+        "text": " It was great, man."
+    },
+    {
+        "start": 189.0,
+        "end": 195.0,
+        "text": " I mean, a lot of my, I mean, a lot of my in-laws and, and see a cousin of mine that I didn't, she comes down here pretty regularly."
+    },
+    {
+        "start": 195.0,
+        "end": 197.0,
+        "text": " But, uh, yeah, it was cool."
+    },
+    {
+        "start": 197.0,
+        "end": 201.0,
+        "text": " We took plenty of great pictures and our youngest son had a great time."
+    },
+    {
+        "start": 201.0,
+        "end": 202.0,
+        "text": " So it was pretty cool."
+    },
+    {
+        "start": 202.0,
+        "end": 203.0,
+        "text": " We had a good time."
+    },
+    {
+        "start": 203.0,
+        "end": 204.0,
+        "text": " A good time."
+    },
+    {
+        "start": 204.0,
+        "end": 205.0,
+        "text": " Very cool."
+    },
+    {
+        "start": 205.0,
+        "end": 208.0,
+        "text": " I saw some of your pictures and it looked like a, a great time."
+    },
+    {
+        "start": 208.0,
+        "end": 209.0,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 209.0,
+        "end": 210.0,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 210.0,
+        "end": 211.0,
+        "text": " It's turned out great."
+    },
+    {
+        "start": 211.0,
+        "end": 212.0,
+        "text": " All right."
+    },
+    {
+        "start": 212.0,
+        "end": 217.0,
+        "text": " Well, we've actually gotten a couple of emails that we're going to start the show off before we get into our main topic of the day."
+    },
+    {
+        "start": 217.0,
+        "end": 227.0,
+        "text": " Um, so this first one, uh, comes from Nora who says I have an Epson XP 320 printer that has been working five three years."
+    },
+    {
+        "start": 227.0,
+        "end": 233.0,
+        "text": " This week when I tried to print out a credit card bill, it printed out the full page except for the personal information."
+    },
+    {
+        "start": 233.0,
+        "end": 235.0,
+        "text": " It now won't print things from email."
+    },
+    {
+        "start": 235.0,
+        "end": 241.0,
+        "text": " I've tried rebooting, unplugging and re-plugging everything downloading and trying to print from the download."
+    },
+    {
+        "start": 241.0,
+        "end": 242.0,
+        "text": " Nothing is working."
+    },
+    {
+        "start": 242.0,
+        "end": 244.0,
+        "text": " Any ideas, anything else I can try?"
+    },
+    {
+        "start": 244.0,
+        "end": 246.0,
+        "text": " I'm not text mark."
+    },
+    {
+        "start": 246.0,
+        "end": 252.0,
+        "text": " Is it something I've inadvertently changed somewhere and then she says in all caps with three exclamation points help."
+    },
+    {
+        "start": 252.0,
+        "end": 253.0,
+        "text": " Yes."
+    },
+    {
+        "start": 253.0,
+        "end": 256.0,
+        "text": " I mean, you said that through Nora."
+    },
+    {
+        "start": 256.0,
+        "end": 258.0,
+        "text": " Sorry, sorry, sorry, suffering through that."
+    },
+    {
+        "start": 258.0,
+        "end": 259.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 259.0,
+        "end": 270.0,
+        "text": " Epson, Epson can be, Epson can be a trip, but basically, uh, I would recommend all printers always need to be,"
+    },
+    {
+        "start": 270.0,
+        "end": 273.0,
+        "text": " they need to have us called their firmware updated."
+    },
+    {
+        "start": 273.0,
+        "end": 286.0,
+        "text": " And the firmware, if you think about it, just in terms of the words, hardware is the internal workings of a device or a computer software is the applications that make them work hard, soft, firm."
+    },
+    {
+        "start": 286.0,
+        "end": 290.0,
+        "text": " Firmware makes the hardware and software talk with each other."
+    },
+    {
+        "start": 290.0,
+        "end": 292.0,
+        "text": " Firmware must be regularly updated."
+    },
+    {
+        "start": 292.0,
+        "end": 302.0,
+        "text": " First thing I would do is to start the Epson, uh, the Epson app that controls that printer and make sure that there's not some firmware updates that need to happen."
+    },
+    {
+        "start": 302.0,
+        "end": 306.0,
+        "text": " Also, the fact that anything on printed media did not come out."
+    },
+    {
+        "start": 306.0,
+        "end": 308.0,
+        "text": " We're looking at your email here."
+    },
+    {
+        "start": 308.0,
+        "end": 311.0,
+        "text": " Anything in your printed media did not come out."
+    },
+    {
+        "start": 311.0,
+        "end": 317.0,
+        "text": " That also makes me think about a memory issue either on the printer side or the computer side."
+    },
+    {
+        "start": 317.0,
+        "end": 321.0,
+        "text": " You may have a computer that may have a lot of memory that's being eaten up."
+    },
+    {
+        "start": 321.0,
+        "end": 323.0,
+        "text": " You may have a lot of programs."
+    },
+    {
+        "start": 323.0,
+        "end": 328.0,
+        "text": " For example, Google Chrome can be very memory heavy in terms of eating memory."
+    },
+    {
+        "start": 328.0,
+        "end": 334.0,
+        "text": " You may have not restarted your computer in a while, which can also can, can, can wear you out."
+    },
+    {
+        "start": 334.0,
+        "end": 338.0,
+        "text": " There's also may have been again from other firmware issues that might be happening."
+    },
+    {
+        "start": 338.0,
+        "end": 342.0,
+        "text": " I don't know of anything."
+    },
+    {
+        "start": 342.0,
+        "end": 352.0,
+        "text": " Not that I can not that crosses my mind that makes me think that there's something that when you print out will block out particular things like credit card information or whatever."
+    },
+    {
+        "start": 352.0,
+        "end": 358.0,
+        "text": " So I wouldn't start to be concerned about like perhaps like a breach or compromising yet."
+    },
+    {
+        "start": 358.0,
+        "end": 364.0,
+        "text": " But computers, like I said, computers and printers need to be restarted regularly."
+    },
+    {
+        "start": 364.0,
+        "end": 368.0,
+        "text": " Check your memory, check to see if your firmware needs to be updated."
+    },
+    {
+        "start": 368.0,
+        "end": 370.0,
+        "text": " And go from there."
+    },
+    {
+        "start": 370.0,
+        "end": 374.0,
+        "text": " And I'll respond back to that email that you sent Abram."
+    },
+    {
+        "start": 374.0,
+        "end": 376.0,
+        "text": " And we'll make sure she sees it."
+    },
+    {
+        "start": 376.0,
+        "end": 379.0,
+        "text": " Now that way if there's something else, we'll go ahead and go from there."
+    },
+    {
+        "start": 379.0,
+        "end": 382.0,
+        "text": " And maybe we can be able to do some further troubleshooting."
+    },
+    {
+        "start": 382.0,
+        "end": 385.0,
+        "text": " But just preliminary. That's what comes to my mind."
+    },
+    {
+        "start": 385.0,
+        "end": 389.0,
+        "text": " So you're thinking it's the printer problem first, primarily a printer problem?"
+    },
+    {
+        "start": 389.0,
+        "end": 397.0,
+        "text": " Primarily, I think, primarily, I think I'm always going to think when it's something with a printer not doing what it needs to, always check the firmware."
+    },
+    {
+        "start": 397.0,
+        "end": 403.0,
+        "text": " After that, you check, after that, you're going to check your memory to see if you're memory."
+    },
+    {
+        "start": 403.0,
+        "end": 407.0,
+        "text": " And then, you know, we'll dig in deeper from there. So yeah."
+    },
+    {
+        "start": 407.0,
+        "end": 411.0,
+        "text": " All right. Well, Nora, I hope that it's helpful."
+    },
+    {
+        "start": 411.0,
+        "end": 413.0,
+        "text": " We're going to move straight to the phone lines."
+    },
+    {
+        "start": 413.0,
+        "end": 419.0,
+        "text": " We have an early caller and in West Tennessee has a question for us. And what's going on?"
+    },
+    {
+        "start": 419.0,
+        "end": 424.0,
+        "text": " Hey, I'm love your show. Thanks for taking my call."
+    },
+    {
+        "start": 424.0,
+        "end": 431.0,
+        "text": " It's that time of season when people get inundated with political checks."
+    },
+    {
+        "start": 431.0,
+        "end": 435.0,
+        "text": " I can only have that problem in the past."
+    },
+    {
+        "start": 435.0,
+        "end": 440.0,
+        "text": " And my husband isn't having it, but I'm just getting them constantly."
+    },
+    {
+        "start": 440.0,
+        "end": 450.0,
+        "text": " And I wonder if there's any way to block silence or reduce some any tips you might have."
+    },
+    {
+        "start": 450.0,
+        "end": 453.0,
+        "text": " I would recommend thanks for calling in."
+    },
+    {
+        "start": 453.0,
+        "end": 457.0,
+        "text": " I would recommend, yes, sometimes those can get really weird."
+    },
+    {
+        "start": 457.0,
+        "end": 461.0,
+        "text": " And also, even including some of the ones you may have seen from the post office."
+    },
+    {
+        "start": 461.0,
+        "end": 469.0,
+        "text": " They say that they're from the post office, but they're not the post office or from UPS or some other mail carrier."
+    },
+    {
+        "start": 469.0,
+        "end": 475.0,
+        "text": " Generally, what I generally try to do is to actually add them as a contact."
+    },
+    {
+        "start": 475.0,
+        "end": 478.0,
+        "text": " I add that that I mean, different phones do different things."
+    },
+    {
+        "start": 478.0,
+        "end": 485.0,
+        "text": " iPhone has a way to be able to choose do not, you know, do not respond or to set a spam calls."
+    },
+    {
+        "start": 485.0,
+        "end": 496.0,
+        "text": " Android does as well. What I generally do is I will add that that call as a contact, but then be like just name the contact spam and everything that I add to it."
+    },
+    {
+        "start": 496.0,
+        "end": 500.0,
+        "text": " Just add that thing as a add that entry and block it."
+    },
+    {
+        "start": 500.0,
+        "end": 507.0,
+        "text": " So even if it comes to you again as a text or a or a phone call, if it comes to you as a text or a phone call, it's automatically going block."
+    },
+    {
+        "start": 507.0,
+        "end": 512.0,
+        "text": " They're going to be sent to voicemail or it will automatically sent to spam if it's coming as a text message."
+    },
+    {
+        "start": 512.0,
+        "end": 516.0,
+        "text": " That is one of my favorite things because it's been my experience."
+    },
+    {
+        "start": 516.0,
+        "end": 526.0,
+        "text": " I can't speak for you, Abram or any other listeners, but it's been my experience that sometimes these things will come to you and they'll say press, you know, it'll be automated numbers,"
+    },
+    {
+        "start": 526.0,
+        "end": 530.0,
+        "text": " they press pound or press one to be added to our do not call list."
+    },
+    {
+        "start": 530.0,
+        "end": 535.0,
+        "text": " They'll take you off their do not call list, but they'll shift you to another call list."
+    },
+    {
+        "start": 535.0,
+        "end": 539.0,
+        "text": " Another roll ball call list and it happens all the time."
+    },
+    {
+        "start": 539.0,
+        "end": 556.0,
+        "text": " So I generally will I'll take the call either I'll take the call or even if I know that what it is, if it's a call or a text message, I'll just hit it, add them as a contact, add them as yet another number under a spam like a contact that I've called spam."
+    },
+    {
+        "start": 556.0,
+        "end": 561.0,
+        "text": " And then just hit block under that that's problem solved that work."
+    },
+    {
+        "start": 561.0,
+        "end": 568.0,
+        "text": " It's a quick fix in my opinion. It's pretty quick fix because there's all kind of software out there that you can get things done."
+    },
+    {
+        "start": 568.0,
+        "end": 576.0,
+        "text": " There's all kinds of robo calling block software that you can do, but I found that this works really good for me."
+    },
+    {
+        "start": 576.0,
+        "end": 588.0,
+        "text": " Okay, so if I get if I have do that with multiple numbers or you know, whether it's text or phone call, I can name them all spam that won't be a problem."
+    },
+    {
+        "start": 588.0,
+        "end": 602.0,
+        "text": " It's not going to be a problem. You can I can't I believe that I know for Android, for example, I have an Android, I can put I can have one one entry, one contact entry and have like nine, 10, 11, 12, one of my spam calls I've done this."
+    },
+    {
+        "start": 602.0,
+        "end": 615.0,
+        "text": " I've got like 15 numbers under there. Just you can just you can hit update contact and just add as another one, but you hit that one that one entry that you call that I've called I've got I think I've got like three on my phone called spam."
+    },
+    {
+        "start": 615.0,
+        "end": 624.0,
+        "text": " So it's like there's a spam one spam tool spam three right all of them are all of them are blocks. All of them are blocks or do not like put under do not answer."
+    },
+    {
+        "start": 624.0,
+        "end": 636.0,
+        "text": " And so there you go. So I mean, so if something if they send a text message from those and I'm sure you know they're going to keep coming up with more phone numbers, but it's a relatively easy fix and it doesn't cost you anything."
+    },
+    {
+        "start": 636.0,
+        "end": 649.0,
+        "text": " There's no there's no there's no membership for some spam blocking thing or or anything you have to remember added as a contract contact added under a contact as spam and block that sucker. You're good to go."
+    },
+    {
+        "start": 649.0,
+        "end": 663.0,
+        "text": " Well, what what you have suggested is like you said you don't have to pay for it. It's easy as pie and you it's in your control. So you guys really are miracle workers."
+    },
+    {
+        "start": 663.0,
+        "end": 668.0,
+        "text": " Your check is in the mail. Your check is in the mail."
+    },
+    {
+        "start": 668.0,
+        "end": 674.0,
+        "text": " Yeah, but that's great. Thanks. Glad to help. We try to make it easy up here."
+    },
+    {
+        "start": 674.0,
+        "end": 688.0,
+        "text": " Thank you so much for your call and that was really that was a that was a quick severe tip right there. That was there was no extra software or hardware added to your phone to that. So that was all that was all you."
+    },
+    {
+        "start": 688.0,
+        "end": 701.0,
+        "text": " I'm from I'm from the pine built and one of our old reporters down there named Kelly center. Yeah, I wonder what that guy's doing. One of our old reporters Kelly center. He he was on the air. He and he said you give a lazy."
+    },
+    {
+        "start": 701.0,
+        "end": 719.0,
+        "text": " Man, a hard job. He'll find an easy way to do it. I don't think I'm lazy. I'm just. I think efficiency better word for it for sure. Yeah. Now we actually did get another email that we're going to get to you right before we get into our actual topic."
+    },
+    {
+        "start": 719.0,
+        "end": 732.0,
+        "text": " So we this comes from Luke says he's got a question about remote work hardware. He says hello. Love the show goes on for a little bit of thinking us for the show."
+    },
+    {
+        "start": 732.0,
+        "end": 748.0,
+        "text": " So thank you for your appreciation. He says here's my situation in question. I work remotely for a company in another state. They gave me an old desktop to use. I used the desktop and two large monitors at home to get online and access remote desktop to a desktop at my place of employment."
+    },
+    {
+        "start": 748.0,
+        "end": 759.3,
+        "text": " In another state. I can use any other computer computer as long as I can get online and access the remote desktop website. I would like to get a laptop or just a smaller"
+    },
+    {
+        "start": 759.3,
+        "end": 777.0,
+        "text": " computer so I can take it with me when I travel. I know it doesn't need to be super capable since the remote computer is doing all the heavy lifting. I've heard of a light client, but don't know how much about don't know much about them or what options to look for. Do you have any suggestions for a computer like this and a travel portable monitor."
+    },
+    {
+        "start": 777.0,
+        "end": 799.0,
+        "text": " Now the first thing that I will say is that I personally do we do do some remote work here at MPB and for that I use my MacBook to access my desktop because MacBook is MacBook is adequate, but I don't know if it would function the same if you're doing a lot a lot heavier stuff than what I need."
+    },
+    {
+        "start": 799.0,
+        "end": 814.0,
+        "text": " Gotcha. Gotcha. And that's a great question. That's a great question. Remote work is so important. It's so important for what folks are doing and Luke sounds like some of the work that I do for some of my out of state folks."
+    },
+    {
+        "start": 814.0,
+        "end": 832.0,
+        "text": " I recommend any desk.com any desk has a really good program and it actually is a little bit cheaper than what it is is a remote program or what we call the business RDP program."
+    },
+    {
+        "start": 832.0,
+        "end": 848.0,
+        "text": " It allows you to be able to connect to another device, be able to do different things and operate in that fashion. And it's like it says a little bit cheaper than some of the longer more well known names like go to desktop, which go to my desktop, go to my desk."
+    },
+    {
+        "start": 848.0,
+        "end": 877.0,
+        "text": " I think my desk is good. A lot of people have heard of team viewer, but some of those are a little bit pricier, but they have the ability for you to do exactly that. I have not tried. I've heard of Google has a remote desktop option that I've heard of. I've not tried it because I'm not sure about some of some of the things that I'm kind of just not sure if I'd ever try to use, but I do know that Google has one not really well heard of it rather."
+    },
+    {
+        "start": 877.0,
+        "end": 890.0,
+        "text": " But I do recommend any desk, any desk you can be able to pay for it. What is that? How much of my pan? Actually, I think I they grandfathered me in because I got in pretty early when their company was still early."
+    },
+    {
+        "start": 890.0,
+        "end": 907.0,
+        "text": " I'm not going to tell you how I priced, but it's not it's not that bad. It's pretty affordable, right where you could be able to remote in as well as if I also have what's called an RMM or remote monitoring and management management utility that I use for some of my remote clients."
+    },
+    {
+        "start": 907.0,
+        "end": 926.0,
+        "text": " All of those that comes under a fee. I use a company that's based out of Austin, Texas called Ninja, Ninja Remote Ninja is great. Ninja is awesome. So you've got Ninja, you've got any desk, you've got team viewer, and I've heard of Google having a remote desktop option."
+    },
+    {
+        "start": 926.0,
+        "end": 942.0,
+        "text": " So any of those sure they've got some that some features that they'll let you, you know, be able to get in that you could be able to remote in from a computer and you'll be able to operate quickly and cleanly inside of, you know, whichever desktop and whichever environment you're on."
+    },
+    {
+        "start": 942.0,
+        "end": 959.0,
+        "text": " And some of these are, you know, multi platform. So just because someone has a Mac apron like yourself, just because someone has a Mac you can remote in even if I'm using a PC, I can remote in if this client, if you're, you know, I know any desk has the ability and I know any desk and team viewer have the ability."
+    },
+    {
+        "start": 959.0,
+        "end": 968.0,
+        "text": " I'm not really familiar with go to my desktop, but I'm I imagine it would that you could still be able to do cross platform and you could be on a PC and do connections to a Mac."
+    },
+    {
+        "start": 968.0,
+        "end": 989.0,
+        "text": " You could be on a Mac and do connections to a PC and of course, same, same platform stuff all day. So I mean, they're very secure. They're very secure. They come up with what's called a session key and it basically uses some of the same security methods as two factor and multi factor out the occasion. So it's pretty cool. It's pretty cool. Yeah. That's a great question. Luke."
+    },
+    {
+        "start": 989.0,
+        "end": 997.0,
+        "text": " So as far as devices go, like what hardware he would need to like travel portable."
+    },
+    {
+        "start": 997.0,
+        "end": 1013.0,
+        "text": " You're, is this your typical like what the advice we would give for getting the laptop in general or do you think depending on the work that he does, you might need something more powerful, even though it's operating primarily on the remote desktop."
+    },
+    {
+        "start": 1013.0,
+        "end": 1033.0,
+        "text": " As long as he has sufficient memory, some of the same things we talk about. It's a question. That's a great question. Some of the same things we talk about in terms of memory, 16 gigs are better. 16 gigs are better and your your internet needs to be as strong as it can be because you're using internet to connect remotely to another computer."
+    },
+    {
+        "start": 1033.0,
+        "end": 1048.0,
+        "text": " That's not lit typically in front of you for some of our listening audience who may not be sure like what's this whole thing about remote. A remote computer is any computer that you're not actively working on that you're not actively dealing with even if that computer is four feet away or four states away."
+    },
+    {
+        "start": 1048.0,
+        "end": 1056.0,
+        "text": " You can remote in and access it in that fashion. So yeah, that's that's basically that's basically what it is."
+    },
+    {
+        "start": 1056.0,
+        "end": 1063.0,
+        "text": " So you're thinking just kind of stick with what we typically say about laptops stick to what we talk about with laptops."
+    },
+    {
+        "start": 1063.0,
+        "end": 1072.0,
+        "text": " And and I would say really as long as some of our same things of 16 gigs are better, no cellar on you don't need a touch screen."
+    },
+    {
+        "start": 1072.0,
+        "end": 1080.0,
+        "text": " So what it gives but the your priority is to have as much at least 16 gigs of memory but it's fast of an internet connection is possible."
+    },
+    {
+        "start": 1080.0,
+        "end": 1081.0,
+        "text": " Right."
+    },
+    {
+        "start": 1081.0,
+        "end": 1087.0,
+        "text": " By as fast of an internet connection, I don't think anything less than a download speed of 50 megs."
+    },
+    {
+        "start": 1087.0,
+        "end": 1094.0,
+        "text": " So there are some like so there are some rural internet providers that will tell you, oh, we'll get you 35 megs."
+    },
+    {
+        "start": 1094.0,
+        "end": 1102.0,
+        "text": " Even even some in the cities that sell that you don't need to be on something like that you probably need to go to a coffee shop that's faster."
+    },
+    {
+        "start": 1102.0,
+        "end": 1113.0,
+        "text": " And if you're not sure about your speed, visit speedtest.net again that speed test.net click on go and see just how faster connection is."
+    },
+    {
+        "start": 1113.0,
+        "end": 1121.0,
+        "text": " If you're not sure if you speak if your connection is not at least if your connection is not at least."
+    },
+    {
+        "start": 1121.0,
+        "end": 1127.0,
+        "text": " I got a bare minimum 35 meg download but I recommend 50 or better."
+    },
+    {
+        "start": 1127.0,
+        "end": 1134.0,
+        "text": " And for best for best results 100 to 200 megs download speed or better."
+    },
+    {
+        "start": 1134.0,
+        "end": 1141.0,
+        "text": " Alright, cool. And I know some people I think some people around here actually use their phone to remote desktop as well."
+    },
+    {
+        "start": 1141.0,
+        "end": 1150.0,
+        "text": " So if you if you have a capable phone or tablet that would be nice but not just our first recommendation."
+    },
+    {
+        "start": 1150.0,
+        "end": 1153.0,
+        "text": " I wouldn't recommend it."
+    },
+    {
+        "start": 1153.0,
+        "end": 1166.0,
+        "text": " Alright, well you're listening to everyday tech on MPB think radio today on the show we're going to talk about the evolution of different entertainment media from the past century or so if we get to other different entertainment media."
+    },
+    {
+        "start": 1166.0,
+        "end": 1178.0,
+        "text": " What better way to do that than by starting in 1877 way back 150 years ago with the first of our technological advancements the phonograph and its capability to record music."
+    },
+    {
+        "start": 1178.0,
+        "end": 1189.0,
+        "text": " So our first topic we're going to be talking about music and how that's changed over the first 150 years of recording music and I wonder what's got what we're going to get to at that point."
+    },
+    {
+        "start": 1189.0,
+        "end": 1199.0,
+        "text": " So the phonograph recorded two to three minutes of audio then with the gramophone and the invention of this up to four whole minutes of audio could be recorded."
+    },
+    {
+        "start": 1199.0,
+        "end": 1210.0,
+        "text": " And now we have you know full hours and hours of of audio that can be downloaded at one time."
+    },
+    {
+        "start": 1210.0,
+        "end": 1218.0,
+        "text": " So we're going to get to that point but for time gramophones were the optimal way to listen to music on into the 1920s."
+    },
+    {
+        "start": 1218.0,
+        "end": 1226.0,
+        "text": " They were relatively widespread at the time and so came the invention of a machine where one could pay a penny to listen to a song."
+    },
+    {
+        "start": 1226.0,
+        "end": 1231.0,
+        "text": " So eventually that came into jukeboxes."
+    },
+    {
+        "start": 1231.0,
+        "end": 1247.0,
+        "text": " So they had like kind of the gramophone cylinders and then the discs and that turned into a jukebox but gramophones were not super popular back in the day they were expensive and they were tough to deal with."
+    },
+    {
+        "start": 1247.0,
+        "end": 1262.0,
+        "text": " So the next thing that came out was the invention and mass production of something everyone viewed would destroy the record and the recording and live music industry and that is of course the radio."
+    },
+    {
+        "start": 1262.0,
+        "end": 1267.0,
+        "text": " We are we are very grateful for the invention of the radio very grateful."
+    },
+    {
+        "start": 1267.0,
+        "end": 1279.0,
+        "text": " So that soon took over the country as 80% of every household had one in the 1930s of the record industry saw 60% drop in sales as people could listen to music for free with a one time purchase."
+    },
+    {
+        "start": 1279.0,
+        "end": 1286.0,
+        "text": " But it's tough to say that that's exclusively because of the radio as this was also the time of the grade depression."
+    },
+    {
+        "start": 1286.0,
+        "end": 1299.0,
+        "text": " Yeah, so I do I do find it wild that like the radio that people were thinking the radio would kill recording and live music in general."
+    },
+    {
+        "start": 1299.0,
+        "end": 1315.0,
+        "text": " And and especially considering what was used and I think about Orson Wells and and you know on the radio like that you think back in in early times when of course we're jumping up a few a few decades by going from 1877 to when he did war the world."
+    },
+    {
+        "start": 1315.0,
+        "end": 1328.0,
+        "text": " I would love like if I could go back in time and like go in with the idea of that like I would love to have experienced that for the first time."
+    },
+    {
+        "start": 1328.0,
+        "end": 1332.0,
+        "text": " So tell tell them what that is tell our listeners. I'm sure many people know."
+    },
+    {
+        "start": 1332.0,
+        "end": 1342.0,
+        "text": " Many people maybe were especially if you have any kind of like sci-fi background but Orson Wells basically narrated an alien invasion in war of the world."
+    },
+    {
+        "start": 1342.0,
+        "end": 1355.0,
+        "text": " And so you're on radio and so you have no reason to think somebody's lying to you. It's a broadcaster but he's telling a story but if you and he even started off with those just we we interrupt this and it was super urgent."
+    },
+    {
+        "start": 1355.0,
+        "end": 1363.0,
+        "text": " And I remember being I was maybe 12 13 years old when I first went to a library public library shout out to our libraries."
+    },
+    {
+        "start": 1363.0,
+        "end": 1378.0,
+        "text": " So I went to a library and I found a tape was it a tape or a disc I can't remember but I listened to the whole thing and I imagined if I was in my living room listening to the radio and this broadcast came on I would lose it."
+    },
+    {
+        "start": 1378.0,
+        "end": 1383.0,
+        "text": " I would absolutely lose it. I got on how did he not get arrested."
+    },
+    {
+        "start": 1383.0,
+        "end": 1389.0,
+        "text": " Right. Hopefully informed law enforcement say this is the work of fiction before this happens."
+    },
+    {
+        "start": 1389.0,
+        "end": 1401.0,
+        "text": " Yeah, I mean that that is so amazing but he broadcasted on air. Imagine getting on TV or getting on YouTube going live with something that's completely fabricated in the background but it looks real."
+    },
+    {
+        "start": 1401.0,
+        "end": 1410.0,
+        "text": " That happens every day. That happens every day severe. You know what? That that thing happens every single day severe."
+    },
+    {
+        "start": 1410.0,
+        "end": 1415.0,
+        "text": " I don't know how you miss it. How did you miss it severe."
+    },
+    {
+        "start": 1415.0,
+        "end": 1420.0,
+        "text": " You mean for a minute I was so caught up in this. I know you were and I was like wait a minute."
+    },
+    {
+        "start": 1420.0,
+        "end": 1426.0,
+        "text": " Is that my subconscious? No, it's not. It's actually what happens on an everyday basis."
+    },
+    {
+        "start": 1426.0,
+        "end": 1433.0,
+        "text": " That's one of everyday basis. It was let's just let's just call it the first of its of its kind of it's you know."
+    },
+    {
+        "start": 1433.0,
+        "end": 1447.0,
+        "text": " He came out and he was like I'm about to broadcast this let's see who believes in it. He turned the radio on and then there it is and then that's what we're dealing with every single day is that picture AI is that voice AI is that real is that fake correct."
+    },
+    {
+        "start": 1447.0,
+        "end": 1450.0,
+        "text": " Show show you right."
+    },
+    {
+        "start": 1450.0,
+        "end": 1454.0,
+        "text": " Yeah, right. Show you right. That is that's a really good point."
+    },
+    {
+        "start": 1454.0,
+        "end": 1459.0,
+        "text": " Yeah, that's the original fake news. Thank you."
+    },
+    {
+        "start": 1459.0,
+        "end": 1470.0,
+        "text": " So this happened in 1938 the day before Halloween. So I wonder if this was like a Halloween type which I don't know how big Halloween was back in the 30s."
+    },
+    {
+        "start": 1470.0,
+        "end": 1479.0,
+        "text": " But October 30th 1938 on CBS radio was the was the war of the world's broadcast."
+    },
+    {
+        "start": 1479.0,
+        "end": 1486.0,
+        "text": " Like I mean, what would you do? You imagine. And so that's that's just you know looking at that and seeing how that is."
+    },
+    {
+        "start": 1486.0,
+        "end": 1494.0,
+        "text": " Wow, I mean like what a time to to turn on the radio. I would be panicking. You're praying. You're talking to your kids and your family."
+    },
+    {
+        "start": 1494.0,
+        "end": 1500.0,
+        "text": " You have no idea what you're going to do. You know what's also unfortunate and interesting at the same time."
+    },
+    {
+        "start": 1500.0,
+        "end": 1504.0,
+        "text": " We now live in the chicken little stage because of the fact."
+    },
+    {
+        "start": 1504.0,
+        "end": 1509.0,
+        "text": " You know, the sky has been falling for so long. That's what chicken little is said."
+    },
+    {
+        "start": 1509.0,
+        "end": 1516.0,
+        "text": " Now we've kind of turned it off and we don't get afraid anymore because we're like, that's not real."
+    },
+    {
+        "start": 1516.0,
+        "end": 1525.0,
+        "text": " That's not real. I do think that like with the widespread amount of this type of thing, people are discern people are getting better at discerning."
+    },
+    {
+        "start": 1525.0,
+        "end": 1530.0,
+        "text": " What may or may not be real, but still it is very hard to tell."
+    },
+    {
+        "start": 1530.0,
+        "end": 1535.0,
+        "text": " I'm not even discerning anymore. I'm just going straight numb. You know what I'm saying?"
+    },
+    {
+        "start": 1535.0,
+        "end": 1546.0,
+        "text": " That's nice to look at and keep it moving. I wonder how many people when when the COVID-19 first hit, how many people were just like,"
+    },
+    {
+        "start": 1546.0,
+        "end": 1551.0,
+        "text": " oh, this is probably another one of those war the world's broadcast things."
+    },
+    {
+        "start": 1551.0,
+        "end": 1558.0,
+        "text": " There was a lot of people who were like, this is fake. And then there was a lot of people who were like, no, no, no, this is real."
+    },
+    {
+        "start": 1558.0,
+        "end": 1565.0,
+        "text": " And then basically again, we live in the chicken little stage. So we've heard the sky is falling for so long that it's like a lot of us are like,"
+    },
+    {
+        "start": 1565.0,
+        "end": 1572.0,
+        "text": " the sky is not falling. You can not make me believe it. Right. Right. Until you hit upside the head with the sky."
+    },
+    {
+        "start": 1572.0,
+        "end": 1576.0,
+        "text": " With the sky, right? Right, right."
+    },
+    {
+        "start": 1576.0,
+        "end": 1579.0,
+        "text": " The real Truman show situation. Right."
+    },
+    {
+        "start": 1579.0,
+        "end": 1583.0,
+        "text": " Oh, great. Maybe. Go down a rabbit hole."
+    },
+    {
+        "start": 1583.0,
+        "end": 1590.0,
+        "text": " Before we go down that rabbit hole any further, we have a caller calling in from Dick'sburg."
+    },
+    {
+        "start": 1590.0,
+        "end": 1595.0,
+        "text": " You seem to have like a bit of an extensive question. What's going on?"
+    },
+    {
+        "start": 1595.0,
+        "end": 1602.0,
+        "text": " Okay. One quick question. I have a windows 10 desktop that I, you know, keep updated."
+    },
+    {
+        "start": 1602.0,
+        "end": 1617.0,
+        "text": " And I found recently that accurately I came across as the feature of this where it has some of the security features of a macafee like scan for viruses and you know some other stuff."
+    },
+    {
+        "start": 1617.0,
+        "end": 1630.0,
+        "text": " So I want to know how can I get access to this part of windows 10 software, you know, the basic stuff that I, you know, I got into accidentally."
+    },
+    {
+        "start": 1630.0,
+        "end": 1636.0,
+        "text": " But how do you know how I can get into it willingly deliberately?"
+    },
+    {
+        "start": 1636.0,
+        "end": 1642.0,
+        "text": " Okay. So you want to be able to see how you can be able to make it to."
+    },
+    {
+        "start": 1642.0,
+        "end": 1651.0,
+        "text": " I want to make sure I understand your question. You want to make sure that you can make your your virus scanner deliberately do what it needs to do or help me understand."
+    },
+    {
+        "start": 1651.0,
+        "end": 1658.0,
+        "text": " So as far as I know, you know, I have used windows 10 for 40 10 10 at least at least."
+    },
+    {
+        "start": 1658.0,
+        "end": 1666.0,
+        "text": " But my question I never came across, you know, the thing is I had a macafee security software that I have used."
+    },
+    {
+        "start": 1666.0,
+        "end": 1680.0,
+        "text": " Of course, I have played for and you know somebody told me somebody who is into computers told me that this with this new windows software that I came across that I don't really need to buy macafee anymore."
+    },
+    {
+        "start": 1680.0,
+        "end": 1689.0,
+        "text": " Because it has the same features as the window that I mean macafee has like standing for viruses, right?"
+    },
+    {
+        "start": 1689.0,
+        "end": 1693.0,
+        "text": " Right. Right. That's 35, etc. Gotcha. Gotcha."
+    },
+    {
+        "start": 1693.0,
+        "end": 1698.0,
+        "text": " So I don't."
+    },
+    {
+        "start": 1698.0,
+        "end": 1704.0,
+        "text": " The windows defender has a great question route. Thanks for calling windows defender does not."
+    },
+    {
+        "start": 1704.0,
+        "end": 1712.0,
+        "text": " It is not as robust as some of these other anti viruses that are out there. There's macafee, there's Norton."
+    },
+    {
+        "start": 1712.0,
+        "end": 1733.0,
+        "text": " I would say I'm not I don't know that I would unless unless you work for an organization that has a dedicated IT staff, including a dedicated set of what they call white hats and cryptographers that prepare that protects you and your computer that you're using at your job."
+    },
+    {
+        "start": 1733.0,
+        "end": 1755.0,
+        "text": " I would not solely I'm not saying that that friend of yours was being in my opinion, they were being slightly inaccurate. I would say that you do need an antivirus of some sort to augment that to augment that version or to add to that version of windows defender because windows defender just by itself is not."
+    },
+    {
+        "start": 1755.0,
+        "end": 1766.0,
+        "text": " It's sufficient just just not just not by say it's better than it used to be. It's better than windows 10 windows 8 windows 10 version windows 11 version is pretty robust."
+    },
+    {
+        "start": 1766.0,
+        "end": 1775.0,
+        "text": " You still in my opinion, you still need a good antivirus because then you're paying for their support to make sure that they're helping you."
+    },
+    {
+        "start": 1776.0,
+        "end": 1785.0,
+        "text": " How about if I switch to that my next question is I'm looking at switching to a windows 11 laptop."
+    },
+    {
+        "start": 1785.0,
+        "end": 1804.0,
+        "text": " It's you know windows in spread out in spread out 15 and it has windows 11. So do you think the whatever security software there is as good as every better than whatever I'm not equally but in a exploit comparable to max."
+    },
+    {
+        "start": 1805.0,
+        "end": 1822.0,
+        "text": " The reason why I'm asking is I got a free for several years. Still I got you know attempts at scamming me and the freezing my screen in asking me to make a lot of noise asking me to contact some stupid number I would try to."
+    },
+    {
+        "start": 1823.0,
+        "end": 1841.0,
+        "text": " Yes, but I have had at least three or four attempts like that but any time I had a doubt whether there is still a virus present you know even a fresh shut them up by doing control all delete up fetching whatever you know and I even called you know"
+    },
+    {
+        "start": 1841.0,
+        "end": 1851.0,
+        "text": " a lot of people to find out and about this something about well you know you bought the Amazon version you saw about it was because then you know right right right right."
+    },
+    {
+        "start": 1851.0,
+        "end": 1863.0,
+        "text": " You know I don't let it stop there but that's besides the point so my question is either windows 11 security better than windows 10 security."
+    },
+    {
+        "start": 1864.0,
+        "end": 1884.0,
+        "text": " It's a little more robust but you still I still recommend that you get and we do need to have we do need to jump to a jump to a commercial I believe but we answer this question for you but yeah we do have I do recommend that if you go ahead and update to windows 11 that's definitely what you need to do."
+    },
+    {
+        "start": 1884.0,
+        "end": 1898.0,
+        "text": " But still get yourself a good antivirus that you trust I personally this is my personal opinion I recommend a vast a VST it's a fantastic one that's what I use in for my clients in my home office."
+    },
+    {
+        "start": 1898.0,
+        "end": 1917.0,
+        "text": " Yeah we we always want to emphasize that the native features on any just about any computer desktop is not gonna be fully protective of what you're what you're looking for."
+    },
+    {
+        "start": 1917.0,
+        "end": 1939.0,
+        "text": " Yeah yeah you you kind of need to add to it yeah yeah okay so that is what severe recommends and with severe says that I trust it so that is a vast a VST we're glad you found our show every day tech on in PB think radio this is Abram nanny still here with my expert host severe door."
+    },
+    {
+        "start": 1939.0,
+        "end": 1967.0,
+        "text": " So what's popular on the top streaming services as of right now so today July 10th sorry it's my mind for a second as of today July 10th here's what we've got on Netflix the movie Beverly Hills cop axle F tops the movie charts as the man with a thousand kids takes over as the number one show and I don't I've never heard of the man with a thousand kids and I'm shocked it is I have no idea what it's about."
+    },
+    {
+        "start": 1967.0,
+        "end": 1993.0,
+        "text": " Wow is that a movie that's a movie show to show okay I wonder if it's a documentary yeah it probably is and I think maybe I may have seen like the preview of it and I think it was one of those where he was like a donor okay that's what I was guessing yeah that's what I was guessing yeah yeah yeah yeah is it can it no no no he's only got 12 severe not a thousand."
+    },
+    {
+        "start": 1997.4,
+        "end": 2015.0,
+        "text": " I continue on HBO sees do in part two drop from number one after six weeks in favor of Godzilla calm the new empire let's go that was all right that was all right yeah it was pretty good that my son after all the previous"
+    },
+    {
+        "start": 2015.0,
+        "end": 2038.3,
+        "text": " Godzilla movie he's a super Godzilla fan but I'm I'm slowly starting to get him into loving more different things about how Godzilla is imprinted upon culture there's a car called a Godzilla by the way I really like this is amazing yeah so oh Nissan skyline yet yep yep I sent him that picture he said this is the best thing I've ever seen that's"
+    },
+    {
+        "start": 2038.3,
+        "end": 2065.46,
+        "text": " yeah yeah I have not watched it but I'm such a fan of like the idea of giant my monsters and Kaiju and stuff like that so I just love the concept of it but HBO also sees house of the dragon make its way to number one with its first four episodes dropping these past few weeks of course yeah so it's been number one every week that it's had an episode drop so at four four episodes four weeks at number one"
+    },
+    {
+        "start": 2066.1,
+        "end": 2078.7400000000002,
+        "text": " on Disney plus oh yeah you haven't watched it I'm we're we only watch episode one and two more if I gotta watch three I got you I'm behind an episode so I've been for these spoilers as best as I can"
+    },
+    {
+        "start": 2080.02,
+        "end": 2093.26,
+        "text": " on Disney plus inside out is the number one movie and of course the number one show severe bluey bluey bluey bluey bluey it was never in question at this point not at all my knees my knees would"
+    },
+    {
+        "start": 2093.26,
+        "end": 2105.9,
+        "text": " if I asked that question see like I'll go get right I usually would look at me and just be like put that on right gotta get you gotta put you in your spot right there oh yeah"
+    },
+    {
+        "start": 2105.9,
+        "end": 2121.0200000000004,
+        "text": " yeah you're gonna cause you put me on my place all right Amazon Prime's movie charts sees the beekeeper debut at number one nice while the show the boys replaces fallout at number one with the release of its fourth season this past month"
+    },
+    {
+        "start": 2121.34,
+        "end": 2127.2599999999998,
+        "text": " and I believe the boys has actually been number one for a little bit it's just the first time we've had a chance to talk about it"
+    },
+    {
+        "start": 2127.82,
+        "end": 2132.38,
+        "text": " right right and I'm still I have not watched season three I'm a terrible person I'm finished"
+    },
+    {
+        "start": 2133.74,
+        "end": 2140.46,
+        "text": " we are on the last episode is season three and we're gonna watch umpil season four yes indeed it's indeed"
+    },
+    {
+        "start": 2141.1,
+        "end": 2148.06,
+        "text": " that's awesome yeah it's pretty cool um I was still rooting for the for fallout but I mean the boys are still a good show"
+    },
+    {
+        "start": 2148.7799999999997,
+        "end": 2157.42,
+        "text": " yeah wild but it's a good show yeah if is the number one movie while SpongeBob Quares square pants stays the number one show on paramount plus"
+    },
+    {
+        "start": 2158.14,
+        "end": 2169.1,
+        "text": " and then finally the number one movie on hulu is 2022's the Batman while hulu's HBO package allows people to watch house of the dragon on hulu as well making it the number one show"
+    },
+    {
+        "start": 2169.98,
+        "end": 2177.2599999999998,
+        "text": " okay so nice nice that is what people in the United States are streaming right now according to flicks patrol dot com"
+    },
+    {
+        "start": 2177.42,
+        "end": 2185.6600000000003,
+        "text": " obviously the powerhouse right now is house of the dragon and I'm gonna stay it's I'm gonna say it stays number one through the next number of weeks as the show releases episodically"
+    },
+    {
+        "start": 2186.38,
+        "end": 2195.82,
+        "text": " right and I think it's not going anywhere no it's not it's not I think it might it might even edge out Bridgerton oh no you got your main"
+    },
+    {
+        "start": 2196.46,
+        "end": 2201.1800000000003,
+        "text": " already know already know where Bridgerton's at it's at number 10 right now"
+    },
+    {
+        "start": 2201.2599999999998,
+        "end": 2214.3799999999997,
+        "text": " we'll wait on the next season no no competition here severe yeah I'm just messing with you tomorrow I know it I've rewatched a thousand times I want you to know"
+    },
+    {
+        "start": 2214.8599999999997,
+        "end": 2221.4199999999996,
+        "text": " oh wow that's what's up that's what's up all right well the year listening the everyday tech that is what everyone is"
+    },
+    {
+        "start": 2221.4199999999996,
+        "end": 2229.66,
+        "text": " streaming right now according to flicks patrol dot com today we've been talking about the technological advancements in the"
+    },
+    {
+        "start": 2229.66,
+        "end": 2236.3799999999997,
+        "text": " entertainment media specifically in music so we just finished talking about of course the world the worlds"
+    },
+    {
+        "start": 2237.3399999999997,
+        "end": 2247.5,
+        "text": " so as pertaining to radio so in the 1950s a radio company called Philco began mass producing vinyl record players after the 12 inch vinyl was"
+    },
+    {
+        "start": 2247.5,
+        "end": 2255.66,
+        "text": " invented in 1948 then offered the 1960s and 70s the vinyl record and record player was the standard for listening to music"
+    },
+    {
+        "start": 2256.2999999999997,
+        "end": 2263.8199999999997,
+        "text": " and honestly it's kind of it's made a good bit of a come come back at this point yeah the sound the sound you"
+    },
+    {
+        "start": 2263.8199999999997,
+        "end": 2271.2599999999998,
+        "text": " can't beat that's that that underscratch yeah that it gives you it's something about it's something about"
+    },
+    {
+        "start": 2271.2599999999998,
+        "end": 2277.3399999999997,
+        "text": " that sound that underscratch it gives you is just so authentic and it just makes it sound not as as"
+    },
+    {
+        "start": 2277.34,
+        "end": 2285.02,
+        "text": " pristine and it's just sometimes what I want so yeah I love that the analog sound that's that's"
+    },
+    {
+        "start": 2285.02,
+        "end": 2293.58,
+        "text": " basically ASMR before ASMR was right yeah but I agree I love I love any and all records I've got"
+    },
+    {
+        "start": 2293.58,
+        "end": 2300.6200000000003,
+        "text": " vinyl and every now and then we go support one of our past guests they've come by Philip Rollins"
+    },
+    {
+        "start": 2300.6200000000003,
+        "end": 2306.86,
+        "text": " also known as venom DJs go DJ venom we go support venom over it offbeat and go buy vinyl from him"
+    },
+    {
+        "start": 2307.34,
+        "end": 2314.38,
+        "text": " so my my wife is on her she's on the second Karim Bailey Ray album right now so yeah okay okay you know"
+    },
+    {
+        "start": 2314.38,
+        "end": 2321.6600000000003,
+        "text": " and I don't mean to jump ahead of you um Abram but listen what didn't make it was the tape the ribbon"
+    },
+    {
+        "start": 2322.1400000000003,
+        "end": 2328.86,
+        "text": " tape yeah I don't think that sound made a comeback I don't think any from the a track to the cassette"
+    },
+    {
+        "start": 2328.86,
+        "end": 2335.7400000000002,
+        "text": " those two sounds did not make a comeback right well I have I know several people like we've all"
+    },
+    {
+        "start": 2335.74,
+        "end": 2340.54,
+        "text": " talked about how we listen to vinyl records I know several people that listen to vinyl records still"
+    },
+    {
+        "start": 2341.8199999999997,
+        "end": 2348.3799999999997,
+        "text": " I know of one person that listens to or listens to and watches VHS tapes in cassette"
+    },
+    {
+        "start": 2348.3799999999997,
+        "end": 2352.7799999999997,
+        "text": " I was talking about that the other day and they're terrible yeah oh they're terrible but I watched"
+    },
+    {
+        "start": 2352.7799999999997,
+        "end": 2357.2599999999998,
+        "text": " them I didn't know they were that bad when I was watching oh yeah when you finally see the HD and you"
+    },
+    {
+        "start": 2357.26,
+        "end": 2364.86,
+        "text": " get it yes right we were living in archaic days and it's it's it's it's it's it's one of the first"
+    },
+    {
+        "start": 2364.86,
+        "end": 2370.7000000000003,
+        "text": " movies that expect that showed the difference between like the high-risk stuff and then VHS"
+    },
+    {
+        "start": 2371.1800000000003,
+        "end": 2375.9,
+        "text": " and I think it was one of the Star Wars remastered I think it was one of the that's and then they put"
+    },
+    {
+        "start": 2375.9,
+        "end": 2382.86,
+        "text": " inside by side and I'm like that's so much more Vader like why am I I missed out on all this Vader"
+    },
+    {
+        "start": 2382.94,
+        "end": 2388.78,
+        "text": " like for real yeah so yeah it that's really interesting but I mean I love vinyl like we got vinyl"
+    },
+    {
+        "start": 2388.78,
+        "end": 2395.02,
+        "text": " player in the living room and nice little stack of records including my DJ shadow what was your first"
+    },
+    {
+        "start": 2395.02,
+        "end": 2400.54,
+        "text": " records severe my first I cannot recall cuz I had a old 33 and a third when I used to live in Ohio"
+    },
+    {
+        "start": 2400.54,
+        "end": 2406.38,
+        "text": " as a young person but I know that was my first now the first the first record that I bought as a"
+    },
+    {
+        "start": 2406.38,
+        "end": 2414.3,
+        "text": " young adult was Jay-Z's a reasonable doubt okay my first my first vinyl that I bought okay"
+    },
+    {
+        "start": 2414.3,
+        "end": 2421.42,
+        "text": " mine was double Dutch bus and my mom my mom gave it to me it wasn't a purchase uh that's"
+    },
+    {
+        "start": 2421.42,
+        "end": 2429.42,
+        "text": " what I was I was late to the game I didn't buy a vinyl record until 2019 or something"
+    },
+    {
+        "start": 2429.42,
+        "end": 2435.6600000000003,
+        "text": " that's okay what was it the first one I had to buy it was paint Floyd's dark side of the moon of course"
+    },
+    {
+        "start": 2435.66,
+        "end": 2445.8999999999996,
+        "text": " yes yes plus the album car art is dope I got that CD upstairs that's the my old CD really"
+    },
+    {
+        "start": 2445.8999999999996,
+        "end": 2451.18,
+        "text": " my storage upstairs this and the yeah that's cool that is awesome that was that was my first one"
+    },
+    {
+        "start": 2451.18,
+        "end": 2456.8599999999997,
+        "text": " and then I was able to because I bought the record player my dad brought brought me his old records"
+    },
+    {
+        "start": 2456.8599999999997,
+        "end": 2462.94,
+        "text": " that he still had yeah and he he had some unopened one I think he's got an unopened cheap trick"
+    },
+    {
+        "start": 2462.94,
+        "end": 2470.7000000000003,
+        "text": " album some some REO speed wagon that he listened to until he skips yeah so that's good stuff"
+    },
+    {
+        "start": 2470.7000000000003,
+        "end": 2476.86,
+        "text": " that's good stuff I love that nice moving on from that around the same time in the 60s and 70s"
+    },
+    {
+        "start": 2476.86,
+        "end": 2481.98,
+        "text": " the eight track tape which we were just mentioning also game popularity most notably because of its"
+    },
+    {
+        "start": 2481.98,
+        "end": 2487.9,
+        "text": " portability and the addition of eight track players in Fords before long all automobiles started"
+    },
+    {
+        "start": 2487.98,
+        "end": 2493.98,
+        "text": " inserting eight track players in every make and model and I think that was honestly if I could"
+    },
+    {
+        "start": 2493.98,
+        "end": 2499.58,
+        "text": " buy a car that had vinyl record player in it like speaker amplifiers to go with I would probably"
+    },
+    {
+        "start": 2499.58,
+        "end": 2505.26,
+        "text": " buy that car but nobody could do that so we put we rocked with the the eight track players you know"
+    },
+    {
+        "start": 2505.26,
+        "end": 2510.2200000000003,
+        "text": " I think there was one somewhere yeah I'll pull it up we'll talk about it next week talk about it"
+    },
+    {
+        "start": 2510.2200000000003,
+        "end": 2515.58,
+        "text": " on our crew I think there was some one someone somewhere that would be a good auto correct thanks"
+    },
+    {
+        "start": 2515.58,
+        "end": 2524.62,
+        "text": " aim yeah yeah absolutely nice nice nice nice that would be awesome yeah talk about the the the"
+    },
+    {
+        "start": 2524.62,
+        "end": 2529.9,
+        "text": " music development and cars that I saw it somewhere and I can't remember what model it was but they did"
+    },
+    {
+        "start": 2529.9,
+        "end": 2535.18,
+        "text": " they had it in there but the problem is is when you hit a bump yeah that I believe that"
+    },
+    {
+        "start": 2536.54,
+        "end": 2541.5,
+        "text": " that needle that's the leg that I'm gonna stay down on that record it's not gonna be forgiven at all"
+    },
+    {
+        "start": 2541.74,
+        "end": 2547.34,
+        "text": " you know what I bet if they did make it it probably ruined every single record they got"
+    },
+    {
+        "start": 2547.34,
+        "end": 2555.58,
+        "text": " played it was scratch they were scratch yes indeed that is hilarious now of course in 1962 the cassette"
+    },
+    {
+        "start": 2555.58,
+        "end": 2561.58,
+        "text": " tape was also invented and began replacing the eight track and vehicles in the mid 70s and if I'm"
+    },
+    {
+        "start": 2561.58,
+        "end": 2568.22,
+        "text": " being completely honest I'm gonna show I'm gonna show how inexperienced I am with this stuff I"
+    },
+    {
+        "start": 2568.22,
+        "end": 2573.74,
+        "text": " did not know there's much of a difference between a cassette and eight track no way it's okay baby I"
+    },
+    {
+        "start": 2573.74,
+        "end": 2581.5,
+        "text": " had no idea it's okay that's fair that's fair it's I mean it is fair it is fair but the the"
+    },
+    {
+        "start": 2581.5,
+        "end": 2589.58,
+        "text": " eight track was definitely the VHS tape of the cassette tape you know right definitely that but"
+    },
+    {
+        "start": 2589.58,
+        "end": 2595.5,
+        "text": " that was my error cassette you know severe did you ever record off the radio onto a cassette all"
+    },
+    {
+        "start": 2595.5,
+        "end": 2600.94,
+        "text": " the time we used to do pause mixes when I was growing up oh really where you get like that so"
+    },
+    {
+        "start": 2600.94,
+        "end": 2606.78,
+        "text": " pause mixes for some some of the younger viewers and non DJ background folks it was a way to be"
+    },
+    {
+        "start": 2606.78,
+        "end": 2614.22,
+        "text": " able to basically do DJ tricks on your recording on your cassette so instead of like having a DJ"
+    },
+    {
+        "start": 2614.22,
+        "end": 2619.1,
+        "text": " and going back and forth and flipping things you would record and stop recording stop recording stop"
+    },
+    {
+        "start": 2619.18,
+        "end": 2625.74,
+        "text": " and then listen what you're saying like yeah I'm super cool yeah I always felt like the hero"
+    },
+    {
+        "start": 2625.74,
+        "end": 2630.7799999999997,
+        "text": " when somebody's like tape was all like unwound and I would take it like rewind it for him be like"
+    },
+    {
+        "start": 2630.7799999999997,
+        "end": 2637.1,
+        "text": " I said for you yeah with the with the pencil yeah yeah you take the pencils in a while oh I never"
+    },
+    {
+        "start": 2637.1,
+        "end": 2642.22,
+        "text": " I guess I just didn't put together that that's where the word rewind comes from no rewind is"
+    },
+    {
+        "start": 2642.22,
+        "end": 2647.8199999999997,
+        "text": " definitely the action like the action of rewinding and it would rewind right but you still rewind when"
+    },
+    {
+        "start": 2647.82,
+        "end": 2652.38,
+        "text": " you're streaming stuff these days yeah and this was a rewind of a sense of trying to fix the"
+    },
+    {
+        "start": 2652.38,
+        "end": 2656.2200000000003,
+        "text": " cassette tape because if you didn't you ain't going to be able to play it anymore you're getting nuts"
+    },
+    {
+        "start": 2657.26,
+        "end": 2661.82,
+        "text": " now that cassette player would snatch that tape and you try to take it out and maybe you just"
+    },
+    {
+        "start": 2661.82,
+        "end": 2671.1000000000004,
+        "text": " take everywhere yeah all right well just a couple seconds left I'm just going to try to spit this"
+    },
+    {
+        "start": 2671.1,
+        "end": 2679.3399999999997,
+        "text": " last bit out 82 the CDs came out and then in 1992 they officially outsold music cassette tapes"
+    },
+    {
+        "start": 2679.3399999999997,
+        "end": 2684.46,
+        "text": " then after a couple of decades of being on top the CD eventually fell into fell to internet"
+    },
+    {
+        "start": 2684.46,
+        "end": 2693.3399999999997,
+        "text": " but internet based distribution methods like MP3 by 2015 76% of all music sales were internet"
+    },
+    {
+        "start": 2693.34,
+        "end": 2700.54,
+        "text": " based bring back the physical copy okay we had a whole we had a whole talk about it previously we"
+    },
+    {
+        "start": 2700.54,
+        "end": 2706.2200000000003,
+        "text": " love the physical media around here and nowadays most people get their music on a streaming"
+    },
+    {
+        "start": 2706.2200000000003,
+        "end": 2711.1000000000004,
+        "text": " subscription basis though nearly all music listening media have made a comeback compared to"
+    },
+    {
+        "start": 2711.1000000000004,
+        "end": 2716.1400000000003,
+        "text": " what that previous step from 2015 but between Pandora Spotify Apple and YouTube they're plenty"
+    },
+    {
+        "start": 2716.1400000000003,
+        "end": 2722.7000000000003,
+        "text": " of streaming services to pick from all with their own strengths and weaknesses so like I said we"
+    },
+    {
+        "start": 2722.7,
+        "end": 2726.8599999999997,
+        "text": " are going to try to get through a bunch of entertainment media but we just got some music today so maybe"
+    },
+    {
+        "start": 2726.8599999999997,
+        "end": 2732.06,
+        "text": " we'll get to maybe we'll get to some more at a later date so that's going to wrap us up for the day"
+    },
+    {
+        "start": 2732.06,
+        "end": 2736.54,
+        "text": " so thanks to beer for helping myself and our callers out if you missed any of the show make sure you"
+    },
+    {
+        "start": 2736.54,
+        "end": 2741.8999999999996,
+        "text": " listen back to it on your favorite podcasting app or download the MPB public media app our show"
+    },
+    {
+        "start": 2741.8999999999996,
+        "end": 2746.7799999999997,
+        "text": " today was engineered by Jamein flood call screener I believe was Marissa I'm not sure I should have"
+    },
+    {
+        "start": 2746.7799999999997,
+        "end": 2751.8999999999996,
+        "text": " gone and checked I've been your host Abraham Danny also the podcast producer thank you for tuning in"
+    },
+    {
+        "start": 2751.9,
+        "end": 2756.06,
+        "text": " up next is Dr Jimmy Stewart with the original Southern Rimini and we'll be back next Wednesday"
+    },
+    {
+        "start": 2756.06,
+        "end": 2763.42,
+        "text": " morning at 10 right here on MPB think radio this is an MPB think radio podcast to hear previous shows"
+    },
+    {
+        "start": 2763.42,
+        "end": 2770.62,
+        "text": " visit mbonline.org or download the MPB public radio app to listen on your iphone or android phone"
+    }
+]

@@ -1,0 +1,3742 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.4,
+        "text": " I'd like to send a huge shout out to MathWorks for sponsoring today's episode."
+    },
+    {
+        "start": 5.4,
+        "end": 9.36,
+        "text": " MathWorks is the leading developer of Mathematical Computing Software."
+    },
+    {
+        "start": 9.36,
+        "end": 15.24,
+        "text": " Engineers and scientists worldwide rely on MATLAB and Simulink to accelerate the pace of discovery,"
+    },
+    {
+        "start": 15.24,
+        "end": 17.88,
+        "text": " innovation, development, and learning."
+    },
+    {
+        "start": 17.88,
+        "end": 23.72,
+        "text": " With MATLAB, engineers and scientists can create better AI data sets, develop and operationalize"
+    },
+    {
+        "start": 23.72,
+        "end": 29.96,
+        "text": " AI solutions, and continuously test AI models in a system-wide context."
+    },
+    {
+        "start": 29.96,
+        "end": 35.480000000000004,
+        "text": " In just a few lines of MATLAB code, AI can be incorporated into your applications, whether"
+    },
+    {
+        "start": 35.480000000000004,
+        "end": 40.480000000000004,
+        "text": " you're designing algorithms, preparing and labeling data, or generating code and deploying"
+    },
+    {
+        "start": 40.480000000000004,
+        "end": 42.52,
+        "text": " to embedded systems."
+    },
+    {
+        "start": 42.52,
+        "end": 47.58,
+        "text": " To learn more about how MATLAB is the enterprise engineering platform for AI, visit"
+    },
+    {
+        "start": 47.58,
+        "end": 50.84,
+        "text": " mathworks.com slash AI."
+    },
+    {
+        "start": 50.84,
+        "end": 54.24,
+        "text": " There are techniques out there, there are observers, traditional observers that have been"
+    },
+    {
+        "start": 54.24,
+        "end": 55.760000000000005,
+        "text": " used for many, many years."
+    },
+    {
+        "start": 55.760000000000005,
+        "end": 59.84,
+        "text": " The common filter or the extended common filter is perhaps the most popular or the"
+    },
+    {
+        "start": 59.84,
+        "end": 63.040000000000006,
+        "text": " most widely used technique out there."
+    },
+    {
+        "start": 63.040000000000006,
+        "end": 68.64,
+        "text": " And one, of course, can think about, why on earth would I use an AI model instead of"
+    },
+    {
+        "start": 68.64,
+        "end": 72.04,
+        "text": " the extended common filter that is working correctly?"
+    },
+    {
+        "start": 72.04,
+        "end": 78.2,
+        "text": " It's doing its intended design, it's performing well, it's fast, it's reliable."
+    },
+    {
+        "start": 78.2,
+        "end": 80.24000000000001,
+        "text": " But there might be a few reasons."
+    },
+    {
+        "start": 90.84,
+        "end": 97.44,
+        "text": " Alright, everyone, welcome to another episode of the Twomol AI podcast."
+    },
+    {
+        "start": 97.44,
+        "end": 99.68,
+        "text": " I am your host, Sam Charrington."
+    },
+    {
+        "start": 99.68,
+        "end": 101.60000000000001,
+        "text": " Today I'm joined by Lucas Garcia."
+    },
+    {
+        "start": 101.60000000000001,
+        "end": 106.24000000000001,
+        "text": " Lucas is principal product manager for deep learning at MATLAB."
+    },
+    {
+        "start": 106.24000000000001,
+        "end": 109.64,
+        "text": " Before we get going, be sure to take a moment to hit that subscribe button wherever you"
+    },
+    {
+        "start": 109.64,
+        "end": 111.48,
+        "text": " listen to today's show."
+    },
+    {
+        "start": 111.48,
+        "end": 113.44,
+        "text": " Lucas, welcome to the podcast."
+    },
+    {
+        "start": 113.44,
+        "end": 114.44,
+        "text": " Thanks, Sam."
+    },
+    {
+        "start": 114.44,
+        "end": 115.44,
+        "text": " Happy to be here."
+    },
+    {
+        "start": 115.44,
+        "end": 118.12,
+        "text": " I'm super excited to jump into our conversation."
+    },
+    {
+        "start": 118.12,
+        "end": 123.36,
+        "text": " We'll be talking about incorporating AI models into safety critical systems."
+    },
+    {
+        "start": 123.36,
+        "end": 127.67999999999999,
+        "text": " This is a topic you presented on at the last NURPS conference."
+    },
+    {
+        "start": 127.67999999999999,
+        "end": 132.16,
+        "text": " As a way to lead into that, I'd love to have you share a little bit about your background."
+    },
+    {
+        "start": 132.16,
+        "end": 135.48,
+        "text": " So my background, I'm a mathematician by training."
+    },
+    {
+        "start": 135.48,
+        "end": 139.8,
+        "text": " So Mathis, he's really deep into my roots."
+    },
+    {
+        "start": 139.8,
+        "end": 144.07999999999998,
+        "text": " I joined Mathworks around 16 years ago."
+    },
+    {
+        "start": 144.08,
+        "end": 146.52,
+        "text": " I've been around for a little bit."
+    },
+    {
+        "start": 146.52,
+        "end": 154.48000000000002,
+        "text": " Before that, I was a programmer, a C++ programmer in the space of finance."
+    },
+    {
+        "start": 154.48000000000002,
+        "end": 159.24,
+        "text": " So I was working on pricing derivatives in the finance industry."
+    },
+    {
+        "start": 159.24,
+        "end": 166.54000000000002,
+        "text": " And at some point I got tired of that, decided to move on to something else and I joined"
+    },
+    {
+        "start": 166.54000000000002,
+        "end": 167.78,
+        "text": " Mathworks."
+    },
+    {
+        "start": 167.78,
+        "end": 170.52,
+        "text": " So I joined Mathworks as a training engineer."
+    },
+    {
+        "start": 170.52,
+        "end": 179.4,
+        "text": " So my first role at Mathworks was to deliver training all around the country and teach"
+    },
+    {
+        "start": 179.4,
+        "end": 183.24,
+        "text": " people on how to use MATLAB."
+    },
+    {
+        "start": 183.24,
+        "end": 188.96,
+        "text": " Over time, I have been in other customer facing engineering roles and ultimately moved to"
+    },
+    {
+        "start": 188.96,
+        "end": 192.48000000000002,
+        "text": " the product management area."
+    },
+    {
+        "start": 192.48000000000002,
+        "end": 197.72,
+        "text": " So I now work closely with the development team at Deep Learning Space."
+    },
+    {
+        "start": 197.72,
+        "end": 202.72,
+        "text": " I thought we'd start out by talking a little bit about some of the differences in your"
+    },
+    {
+        "start": 202.72,
+        "end": 209.52,
+        "text": " experience between the way software is written for safety critical systems like aircrafts"
+    },
+    {
+        "start": 209.52,
+        "end": 219.0,
+        "text": " and how it differs from how we might write code for a business or a prior background financial"
+    },
+    {
+        "start": 219.0,
+        "end": 220.76,
+        "text": " type of an application."
+    },
+    {
+        "start": 220.76,
+        "end": 222.8,
+        "text": " Yeah, and there are some differences."
+    },
+    {
+        "start": 222.8,
+        "end": 226.68,
+        "text": " And of course, there are many commonalities as well."
+    },
+    {
+        "start": 226.68,
+        "end": 232.04000000000002,
+        "text": " To me, it all comes down to having an understanding of a good understanding of the verification and"
+    },
+    {
+        "start": 232.04000000000002,
+        "end": 234.64000000000001,
+        "text": " validation process."
+    },
+    {
+        "start": 234.64000000000001,
+        "end": 241.76000000000002,
+        "text": " And so perhaps just to provide all the context here, verification is a process of checking"
+    },
+    {
+        "start": 241.76000000000002,
+        "end": 246.24,
+        "text": " that the model is correctly implementing the intended design and meets the specified"
+    },
+    {
+        "start": 246.24,
+        "end": 247.24,
+        "text": " requirements."
+    },
+    {
+        "start": 247.24,
+        "end": 253.4,
+        "text": " So in the context of perhaps a traditional software development, as you're building some"
+    },
+    {
+        "start": 253.4,
+        "end": 258.64,
+        "text": " engineering system, you would have requirements that pertain to the overall system, some"
+    },
+    {
+        "start": 258.64,
+        "end": 262.76,
+        "text": " of the sub components that that system is comprised of and so on."
+    },
+    {
+        "start": 262.76,
+        "end": 266.76,
+        "text": " And so as an engineer, you're going to have to go through the process of understanding"
+    },
+    {
+        "start": 266.76,
+        "end": 272.24,
+        "text": " those requirements, deriving requirements from the system level requirements and so on."
+    },
+    {
+        "start": 272.24,
+        "end": 278.8,
+        "text": " And then implementing the software."
+    },
+    {
+        "start": 278.8,
+        "end": 284.48,
+        "text": " And then so the verification aspect is all about answering this question, are we building"
+    },
+    {
+        "start": 284.48,
+        "end": 286.04,
+        "text": " the product right?"
+    },
+    {
+        "start": 286.04,
+        "end": 293.68,
+        "text": " So the verification tries to deal with the internal consistency and correctness of the model"
+    },
+    {
+        "start": 293.68,
+        "end": 295.2,
+        "text": " within the design phase."
+    },
+    {
+        "start": 295.2,
+        "end": 300.48,
+        "text": " And here I guess I'm overusing the word model because we have the AI models and the models"
+    },
+    {
+        "start": 300.48,
+        "end": 306.04,
+        "text": " that we use for simulation that perhaps do not necessarily contain an AI aspect to it."
+    },
+    {
+        "start": 306.04,
+        "end": 307.04,
+        "text": " But that's an important piece."
+    },
+    {
+        "start": 307.04,
+        "end": 309.08000000000004,
+        "text": " So that's the verification aspect."
+    },
+    {
+        "start": 309.08000000000004,
+        "end": 314.72,
+        "text": " And then we see the validation, which is basically the process of evaluating the final product"
+    },
+    {
+        "start": 314.72,
+        "end": 320.6,
+        "text": " and ensure it meets its intended use and intended functionality."
+    },
+    {
+        "start": 320.6,
+        "end": 324.48,
+        "text": " So here we're instead of answering or trying to answer the question, are we building the"
+    },
+    {
+        "start": 324.48,
+        "end": 325.68,
+        "text": " product right?"
+    },
+    {
+        "start": 325.68,
+        "end": 329.24,
+        "text": " We ask the question, are we building the right product?"
+    },
+    {
+        "start": 329.24,
+        "end": 335.24,
+        "text": " And so validation is focused more on the system performance, making sure that it's able"
+    },
+    {
+        "start": 335.24,
+        "end": 339.12,
+        "text": " to deal with the real world data and so on."
+    },
+    {
+        "start": 339.12,
+        "end": 345.04,
+        "text": " In software development practices, we've been following this V model or the V diagram"
+    },
+    {
+        "start": 345.04,
+        "end": 350.08,
+        "text": " that really emphasizes the process of verification and validation at each stage of the development"
+    },
+    {
+        "start": 350.08,
+        "end": 351.08,
+        "text": " process."
+    },
+    {
+        "start": 351.08,
+        "end": 357.0,
+        "text": " We have the left side of the V focusing on verification, the right side of the V focusing"
+    },
+    {
+        "start": 357.0,
+        "end": 358.0,
+        "text": " on validation."
+    },
+    {
+        "start": 358.0,
+        "end": 363.64,
+        "text": " And we want to ensure as we go through all the different steps in this workflow that"
+    },
+    {
+        "start": 363.64,
+        "end": 370.2,
+        "text": " it's made, this is complete and is correct according to the original requirements."
+    },
+    {
+        "start": 370.2,
+        "end": 373.76,
+        "text": " Now the tricky aspect here is when we incorporate AI."
+    },
+    {
+        "start": 373.76,
+        "end": 380.15999999999997,
+        "text": " And it's important to note that the traditional V diagram or the traditional V and V workflow"
+    },
+    {
+        "start": 380.15999999999997,
+        "end": 387.08,
+        "text": " or verification and validation workflow, such as this V cycle, might be insufficient or"
+    },
+    {
+        "start": 387.08,
+        "end": 392.8,
+        "text": " might not always work when we deal with AI models."
+    },
+    {
+        "start": 392.8,
+        "end": 397.56,
+        "text": " So there was this interesting contribution from ASA, the European Union Navigation Safety"
+    },
+    {
+        "start": 397.56,
+        "end": 401.92,
+        "text": " Agency that deals with this situation."
+    },
+    {
+        "start": 401.92,
+        "end": 411.36,
+        "text": " And instead of using a V diagram, proposes to have a W cycle or W shaped development cycle."
+    },
+    {
+        "start": 411.36,
+        "end": 416.8,
+        "text": " So basically what he asked it did was to go through this traditional workflow, the traditional"
+    },
+    {
+        "start": 416.8,
+        "end": 424.0,
+        "text": " steps of putting together an engineered system and think about what are the, what are"
+    },
+    {
+        "start": 424.0,
+        "end": 429.92,
+        "text": " these steps work well with AI and what, what of those do not work well."
+    },
+    {
+        "start": 429.92,
+        "end": 437.36,
+        "text": " And so the whole point about this process is to make sure that we have a good learning"
+    },
+    {
+        "start": 437.36,
+        "end": 444.44,
+        "text": " assurance process so that the, we put together planned and systematic actions to make"
+    },
+    {
+        "start": 444.44,
+        "end": 452.88,
+        "text": " sure that the system is able to capture errors in a data driven engineer process."
+    },
+    {
+        "start": 452.88,
+        "end": 457.72,
+        "text": " And that if these errors have been captured, we are able to not only identify them, but"
+    },
+    {
+        "start": 457.72,
+        "end": 458.96,
+        "text": " also correct them."
+    },
+    {
+        "start": 458.96,
+        "end": 466.6,
+        "text": " Can you give maybe a concrete example of software system that you've worked on or seen and"
+    },
+    {
+        "start": 466.6,
+        "end": 471.2,
+        "text": " how, you know, what some of those verification and validation steps might look like?"
+    },
+    {
+        "start": 471.2,
+        "end": 472.2,
+        "text": " Sure."
+    },
+    {
+        "start": 472.2,
+        "end": 476.76,
+        "text": " We're building, let's say a battery state of charge estimator, right?"
+    },
+    {
+        "start": 476.76,
+        "end": 479.12,
+        "text": " I think we all have cell phones today."
+    },
+    {
+        "start": 479.12,
+        "end": 484.15999999999997,
+        "text": " And the smartphones we use today as well as any of the EV vehicles out there in the road"
+    },
+    {
+        "start": 484.15999999999997,
+        "end": 490.76,
+        "text": " are unable to tell us with a not a good level of confidence, you know, what is the actual"
+    },
+    {
+        "start": 490.76,
+        "end": 494.32,
+        "text": " truth with respect to a state of charge?"
+    },
+    {
+        "start": 494.32,
+        "end": 498.32,
+        "text": " We don't have a sensor that estimates or that gives us the actual reading, the actual"
+    },
+    {
+        "start": 498.32,
+        "end": 499.32,
+        "text": " state of charge."
+    },
+    {
+        "start": 499.32,
+        "end": 500.56,
+        "text": " And instead of that, we have to estimate it."
+    },
+    {
+        "start": 500.56,
+        "end": 505.28000000000003,
+        "text": " We have to come up with an observer with an estimation that tells us, okay, so the"
+    },
+    {
+        "start": 505.28000000000003,
+        "end": 511.32,
+        "text": " right amount of state or the state of charge is 85% right now, if I look at my phone,"
+    },
+    {
+        "start": 511.32,
+        "end": 512.32,
+        "text": " right?"
+    },
+    {
+        "start": 512.32,
+        "end": 522.52,
+        "text": " So one, for instance, one requirement for an AI model that is able to provide state"
+    },
+    {
+        "start": 522.52,
+        "end": 529.8,
+        "text": " of charge estimation values would be my state of charge has to be in between zero and"
+    },
+    {
+        "start": 529.88,
+        "end": 538.0799999999999,
+        "text": " one, for instance, or the battery should monotonically decrease as I'm off charge and"
+    },
+    {
+        "start": 538.0799999999999,
+        "end": 542.7199999999999,
+        "text": " so you're monotonically increase as we are charging."
+    },
+    {
+        "start": 542.7199999999999,
+        "end": 544.56,
+        "text": " So these are some of the examples, right?"
+    },
+    {
+        "start": 544.56,
+        "end": 549.88,
+        "text": " Now as we go through the W diagram, we need to make sure that we are appropriately addressing"
+    },
+    {
+        "start": 549.88,
+        "end": 557.88,
+        "text": " different steps of the workflow data management, making sure that we build, you know, we are"
+    },
+    {
+        "start": 557.88,
+        "end": 562.52,
+        "text": " capturing the right amount of data for the purpose of the problem that we're trying to"
+    },
+    {
+        "start": 562.52,
+        "end": 567.6,
+        "text": " solve in the context of that I was mentioning earlier on, on data systems."
+    },
+    {
+        "start": 567.6,
+        "end": 574.08,
+        "text": " We need to make sure that if the system is intended to be used a day at night, we need"
+    },
+    {
+        "start": 574.08,
+        "end": 576.6,
+        "text": " to have day and night data, of course, right?"
+    },
+    {
+        "start": 576.6,
+        "end": 582.12,
+        "text": " So we need to go through all of these steps ultimately to come up with an architecture"
+    },
+    {
+        "start": 582.12,
+        "end": 583.6,
+        "text": " of an AI model."
+    },
+    {
+        "start": 583.6,
+        "end": 585.04,
+        "text": " We need to train it."
+    },
+    {
+        "start": 585.04,
+        "end": 590.1999999999999,
+        "text": " But after we train it and before we put it on the embedded system or we integrated with"
+    },
+    {
+        "start": 590.1999999999999,
+        "end": 596.16,
+        "text": " the rest of the system, we need to do something else, which we didn't have in the traditional"
+    },
+    {
+        "start": 596.16,
+        "end": 597.48,
+        "text": " V diagram."
+    },
+    {
+        "start": 597.48,
+        "end": 604.1999999999999,
+        "text": " We need to have some guarantees that the emerging properties of neural networks are not impacting"
+    },
+    {
+        "start": 604.1999999999999,
+        "end": 606.24,
+        "text": " the performance of the system."
+    },
+    {
+        "start": 606.24,
+        "end": 613.92,
+        "text": " So this is what we are seeing in the ASA contribution called this learning process verification,"
+    },
+    {
+        "start": 613.92,
+        "end": 621.68,
+        "text": " but many in the research space talk about AI verification, for example."
+    },
+    {
+        "start": 621.68,
+        "end": 629.9599999999999,
+        "text": " So it's a key aspect of being able to put these AI models into safety critical systems,"
+    },
+    {
+        "start": 629.9599999999999,
+        "end": 631.76,
+        "text": " for instance."
+    },
+    {
+        "start": 631.76,
+        "end": 642.64,
+        "text": " Is it worth backing up and talking about if you've got traditional models like why, you"
+    },
+    {
+        "start": 642.64,
+        "end": 645.8,
+        "text": " know, folks are trying to use AI models."
+    },
+    {
+        "start": 645.8,
+        "end": 654.1999999999999,
+        "text": " Like what are the cases that are lending themselves to folks wanting to do an alternative?"
+    },
+    {
+        "start": 654.1999999999999,
+        "end": 661.3199999999999,
+        "text": " Like for example, the battery state of charge, like they are traditional models for doing"
+    },
+    {
+        "start": 661.3199999999999,
+        "end": 662.3199999999999,
+        "text": " that."
+    },
+    {
+        "start": 662.3199999999999,
+        "end": 665.4399999999999,
+        "text": " Why would I even want to use the neural network to do that?"
+    },
+    {
+        "start": 665.4399999999999,
+        "end": 666.4399999999999,
+        "text": " What am I gaining?"
+    },
+    {
+        "start": 666.4399999999999,
+        "end": 668.36,
+        "text": " Yeah, no, actually the question."
+    },
+    {
+        "start": 668.36,
+        "end": 673.72,
+        "text": " I mean, yes, there are traditional models out there in the context of battery state of"
+    },
+    {
+        "start": 673.72,
+        "end": 678.72,
+        "text": " charge, or even more broadly, virtual sensors, which is what battery state of charge is,"
+    },
+    {
+        "start": 678.72,
+        "end": 682.72,
+        "text": " you can think of it as a form of a virtual sensor."
+    },
+    {
+        "start": 682.72,
+        "end": 686.12,
+        "text": " There are techniques out there, there are observers, traditional observers that have been"
+    },
+    {
+        "start": 686.12,
+        "end": 687.64,
+        "text": " used for many, many years."
+    },
+    {
+        "start": 687.64,
+        "end": 692.6800000000001,
+        "text": " The common filter or the extended common filter is perhaps the most popular or the most widely"
+    },
+    {
+        "start": 692.6800000000001,
+        "end": 694.9200000000001,
+        "text": " used technique out there."
+    },
+    {
+        "start": 694.92,
+        "end": 700.52,
+        "text": " And one, of course, can think about why on earth would I use an AI model instead of the"
+    },
+    {
+        "start": 700.52,
+        "end": 703.92,
+        "text": " extended common filter that is working correctly?"
+    },
+    {
+        "start": 703.92,
+        "end": 710.04,
+        "text": " It's doing its intended design, it's performing well, it's fast, it's reliable."
+    },
+    {
+        "start": 710.04,
+        "end": 712.8,
+        "text": " Well, there might be a few reasons."
+    },
+    {
+        "start": 712.8,
+        "end": 720.56,
+        "text": " Of course, with the hype in AI and a lot of interest coming into the field, that doesn't"
+    },
+    {
+        "start": 720.56,
+        "end": 721.56,
+        "text": " go unnoticed."
+    },
+    {
+        "start": 721.56,
+        "end": 728.3599999999999,
+        "text": " Customers and users want to explore AI, and that's perfectly a perfectly valid approach."
+    },
+    {
+        "start": 728.3599999999999,
+        "end": 734.68,
+        "text": " But I'll leave that aside for now and focus on the more technical aspects."
+    },
+    {
+        "start": 734.68,
+        "end": 742.4399999999999,
+        "text": " What we've seen is that, on many occasions, the ability to generalize from these type"
+    },
+    {
+        "start": 742.44,
+        "end": 753.08,
+        "text": " of traditional base observers is not really working as customers expect."
+    },
+    {
+        "start": 753.08,
+        "end": 758.36,
+        "text": " There is this example from a battery manufacturer called Gotion."
+    },
+    {
+        "start": 758.36,
+        "end": 764.2800000000001,
+        "text": " They presented in our Mathworks Automotive Conference, I believe it was in 2022."
+    },
+    {
+        "start": 764.2800000000001,
+        "end": 771.6800000000001,
+        "text": " They basically created this onboard SOC estimation, and they were able to deploy it onto their"
+    },
+    {
+        "start": 771.68,
+        "end": 782.0,
+        "text": " PCU and making sure that it was compliant with the OursR standards and everything in"
+    },
+    {
+        "start": 782.0,
+        "end": 783.0,
+        "text": " there."
+    },
+    {
+        "start": 783.0,
+        "end": 789.2399999999999,
+        "text": " So basically, it all comes down to being able to come up with a tool or a functionality"
+    },
+    {
+        "start": 789.2399999999999,
+        "end": 791.88,
+        "text": " that's able to generalize well enough."
+    },
+    {
+        "start": 791.88,
+        "end": 797.88,
+        "text": " The extended common filter does have an inconvenience, which is that you require a mathematical model"
+    },
+    {
+        "start": 797.88,
+        "end": 803.72,
+        "text": " of the battery, and that's not always possible to have or achieve it well."
+    },
+    {
+        "start": 803.72,
+        "end": 810.56,
+        "text": " If you don't have a battery model, that or a physical battery model, that digital twin"
+    },
+    {
+        "start": 810.56,
+        "end": 816.96,
+        "text": " of the battery, it's sometimes challenging to build."
+    },
+    {
+        "start": 816.96,
+        "end": 823.36,
+        "text": " And so if you've access to data and put out the data, it's extremely simple."
+    },
+    {
+        "start": 823.36,
+        "end": 830.92,
+        "text": " If you get access to many public data sets out these days, but if you have access to"
+    },
+    {
+        "start": 830.92,
+        "end": 838.12,
+        "text": " current voltage and temperature in the battery, all you need to do is have a controlled environment"
+    },
+    {
+        "start": 838.12,
+        "end": 844.24,
+        "text": " from the test lab, being able to accurately measure current."
+    },
+    {
+        "start": 844.24,
+        "end": 850.72,
+        "text": " And then you compute the state of charge as the integral of the current over the capacity."
+    },
+    {
+        "start": 850.72,
+        "end": 852.36,
+        "text": " And that's the label."
+    },
+    {
+        "start": 853.36,
+        "end": 857.04,
+        "text": " You've been able to very accurately label the data."
+    },
+    {
+        "start": 857.04,
+        "end": 862.72,
+        "text": " You have current temperature and voltage, and now you have the labeled SOC values that"
+    },
+    {
+        "start": 862.72,
+        "end": 864.44,
+        "text": " you would use."
+    },
+    {
+        "start": 864.44,
+        "end": 869.5600000000001,
+        "text": " In this context, it's going to be a regression problem, of course, but you have data that"
+    },
+    {
+        "start": 869.5600000000001,
+        "end": 874.28,
+        "text": " you can now work with."
+    },
+    {
+        "start": 874.28,
+        "end": 880.76,
+        "text": " And basically, it all comes down to choosing a good model for your needs."
+    },
+    {
+        "start": 880.76,
+        "end": 884.4399999999999,
+        "text": " Back at your requirements, I'd never forget your requirements and see, okay, what are"
+    },
+    {
+        "start": 884.4399999999999,
+        "end": 885.84,
+        "text": " my performance requirements?"
+    },
+    {
+        "start": 885.84,
+        "end": 888.2,
+        "text": " What are my interpretability requirements?"
+    },
+    {
+        "start": 888.2,
+        "end": 893.68,
+        "text": " What are the physics requirements for my AI model?"
+    },
+    {
+        "start": 893.68,
+        "end": 898.56,
+        "text": " Naturally, if I'm putting together a battery state of charge estimator, I want my outputs"
+    },
+    {
+        "start": 898.56,
+        "end": 899.88,
+        "text": " to be in between zero and one."
+    },
+    {
+        "start": 899.88,
+        "end": 906.92,
+        "text": " So I might have to have some saturation at the output, some saturation activation function,"
+    },
+    {
+        "start": 906.92,
+        "end": 912.9599999999999,
+        "text": " some sigmoid function, or some clipped value, or something along those lines."
+    },
+    {
+        "start": 912.9599999999999,
+        "end": 921.92,
+        "text": " If I want to bake in something like monotonicity, then, okay, I need to look into what is the"
+    },
+    {
+        "start": 921.92,
+        "end": 930.9599999999999,
+        "text": " adequate construction of the network that gives me that monotonicity guarantee."
+    },
+    {
+        "start": 930.9599999999999,
+        "end": 933.92,
+        "text": " So it all comes down then to the performance."
+    },
+    {
+        "start": 934.92,
+        "end": 936.9599999999999,
+        "text": " Do I have very strong performance requirements?"
+    },
+    {
+        "start": 936.9599999999999,
+        "end": 942.8,
+        "text": " If I do have very strong performance requirements as I deploy, I might not be able to choose some"
+    },
+    {
+        "start": 942.8,
+        "end": 948.64,
+        "text": " of the more advanced, okay, advanced these days, it's perhaps in overuse of the work."
+    },
+    {
+        "start": 948.64,
+        "end": 954.52,
+        "text": " I would, I would, it is advanced for the, for the, for the microcontroller, perhaps, in"
+    },
+    {
+        "start": 954.52,
+        "end": 961.8,
+        "text": " some sense, but some of the recurring networks, if I use, sorry, if I use a stacked LSTM, I"
+    },
+    {
+        "start": 961.8,
+        "end": 967.1999999999999,
+        "text": " could get very good performance, but this is accuracy performance or a good, very good"
+    },
+    {
+        "start": 967.1999999999999,
+        "end": 973.4399999999999,
+        "text": " accuracy, but I might not be able to get a good execution performance as I deploy."
+    },
+    {
+        "start": 973.4399999999999,
+        "end": 977.8,
+        "text": " So in here, I might want to consider different strategies, different alternatives, and be"
+    },
+    {
+        "start": 977.8,
+        "end": 985.04,
+        "text": " able to use a framework that allows me to deal with all these complexities and ultimately"
+    },
+    {
+        "start": 985.04,
+        "end": 990.92,
+        "text": " train a model that satisfies my, my earlier requirements."
+    },
+    {
+        "start": 990.92,
+        "end": 998.56,
+        "text": " Can you imagine this kind of V model and the W model?"
+    },
+    {
+        "start": 998.56,
+        "end": 1002.52,
+        "text": " Can you talk through like some of the specific steps within this model?"
+    },
+    {
+        "start": 1002.52,
+        "end": 1008.64,
+        "text": " Like are there, you know, 10 or hundreds or like what's the scope of the model itself?"
+    },
+    {
+        "start": 1008.64,
+        "end": 1014.8,
+        "text": " I'll, I'll go with a W shape workflow first and see how it resonates."
+    },
+    {
+        "start": 1014.8,
+        "end": 1020.8,
+        "text": " It all starts with requirements that are, are located to the AI model, sometimes in"
+    },
+    {
+        "start": 1020.8,
+        "end": 1025.2,
+        "text": " the context of the, the arrow dev industry, the AI constituent."
+    },
+    {
+        "start": 1025.2,
+        "end": 1033.48,
+        "text": " And here we need to make sure that the, the, the different, the, the steps that follow"
+    },
+    {
+        "start": 1033.48,
+        "end": 1041.0,
+        "text": " the AI constituent, follow this W diagram, whereas the non-machine learning related components"
+    },
+    {
+        "start": 1041.0,
+        "end": 1042.8799999999999,
+        "text": " follow the V cycle."
+    },
+    {
+        "start": 1042.8799999999999,
+        "end": 1047.96,
+        "text": " So we have, as a first stage, to go through the data management process here, and we need"
+    },
+    {
+        "start": 1047.96,
+        "end": 1055.04,
+        "text": " to make sure that we are allocating the right amount of data that we have a good representation"
+    },
+    {
+        "start": 1055.04,
+        "end": 1059.64,
+        "text": " of the operational design domain we're dealing with."
+    },
+    {
+        "start": 1059.64,
+        "end": 1064.52,
+        "text": " We need to make sure that we are able to understand what are the edge cases, right?"
+    },
+    {
+        "start": 1064.52,
+        "end": 1069.3600000000001,
+        "text": " With respect to that operational design domain, what are the boundaries under which my system"
+    },
+    {
+        "start": 1069.3600000000001,
+        "end": 1072.1200000000001,
+        "text": " would, would have to perform?"
+    },
+    {
+        "start": 1072.12,
+        "end": 1075.9599999999998,
+        "text": " The next step involves the learning process management."
+    },
+    {
+        "start": 1075.9599999999998,
+        "end": 1082.04,
+        "text": " And in here, what would happen is that you would typically have to go through an understanding"
+    },
+    {
+        "start": 1082.04,
+        "end": 1086.56,
+        "text": " of what is the most suitable AI model for your needs for your problem."
+    },
+    {
+        "start": 1086.56,
+        "end": 1087.56,
+        "text": " Is it a neural network?"
+    },
+    {
+        "start": 1087.56,
+        "end": 1089.4799999999998,
+        "text": " Is it a super vector machine?"
+    },
+    {
+        "start": 1089.4799999999998,
+        "end": 1090.4799999999998,
+        "text": " Is it a deep neural network?"
+    },
+    {
+        "start": 1090.4799999999998,
+        "end": 1092.1599999999999,
+        "text": " Is it a transformer?"
+    },
+    {
+        "start": 1092.1599999999999,
+        "end": 1095.4399999999998,
+        "text": " Convolution type of architecture is a yellow network."
+    },
+    {
+        "start": 1095.4399999999998,
+        "end": 1097.7199999999998,
+        "text": " What is it that you're trying to solve?"
+    },
+    {
+        "start": 1097.72,
+        "end": 1102.64,
+        "text": " And what is the most suitable architecture or set of architectures for your problem?"
+    },
+    {
+        "start": 1102.64,
+        "end": 1110.1200000000001,
+        "text": " You would typically, in this learning process management step, deal with looking at different"
+    },
+    {
+        "start": 1110.1200000000001,
+        "end": 1115.32,
+        "text": " hyper parameters for your system, you would have to experiment with different models and"
+    },
+    {
+        "start": 1115.32,
+        "end": 1118.4,
+        "text": " different architectures, right?"
+    },
+    {
+        "start": 1118.4,
+        "end": 1121.3600000000001,
+        "text": " You ultimately next go to the model training."
+    },
+    {
+        "start": 1121.3600000000001,
+        "end": 1124.88,
+        "text": " And here you would need to get access to the right hardware."
+    },
+    {
+        "start": 1124.88,
+        "end": 1131.48,
+        "text": " It would need to, it's quite obvious, but you would perhaps need to use a GPU or a set"
+    },
+    {
+        "start": 1131.48,
+        "end": 1139.3600000000001,
+        "text": " of GPUs or cluster or a cloud, whatever it may be to come up with a trained model."
+    },
+    {
+        "start": 1139.3600000000001,
+        "end": 1145.88,
+        "text": " The next step is going up in the W. So it's kind of the peak of the W. So we're right"
+    },
+    {
+        "start": 1145.88,
+        "end": 1148.7600000000002,
+        "text": " at the center of the W here."
+    },
+    {
+        "start": 1148.7600000000002,
+        "end": 1154.2,
+        "text": " And that involves this learning process verification stage where you want to taste your model"
+    },
+    {
+        "start": 1154.2,
+        "end": 1159.52,
+        "text": " against an independent test set, as obvious as that."
+    },
+    {
+        "start": 1159.52,
+        "end": 1163.92,
+        "text": " But depending on the industry, you might have or the criticality level, you might have"
+    },
+    {
+        "start": 1163.92,
+        "end": 1166.4,
+        "text": " additional requirements to go through."
+    },
+    {
+        "start": 1166.4,
+        "end": 1174.6000000000001,
+        "text": " Perhaps you have specific requirements that relate to robustness of the system or interoperability."
+    },
+    {
+        "start": 1174.6000000000001,
+        "end": 1182.0,
+        "text": " You might have requirements to taste specific scenarios or even so, make sure that the"
+    },
+    {
+        "start": 1182.0,
+        "end": 1190.12,
+        "text": " boundary conditions or the boundary or the edge cases of the problem are taken care of"
+    },
+    {
+        "start": 1190.12,
+        "end": 1193.04,
+        "text": " in this phase."
+    },
+    {
+        "start": 1193.04,
+        "end": 1201.4,
+        "text": " And then you would move on to the right hand side of the W. The right hand side of the"
+    },
+    {
+        "start": 1201.4,
+        "end": 1208.56,
+        "text": " W deals with the implementation and integrating the AI model within the larger system under"
+    },
+    {
+        "start": 1208.56,
+        "end": 1210.04,
+        "text": " design."
+    },
+    {
+        "start": 1210.04,
+        "end": 1213.56,
+        "text": " And so the first stage will be to do the actual implementation."
+    },
+    {
+        "start": 1213.56,
+        "end": 1218.04,
+        "text": " And here you would see that you might see some differences between the model that you"
+    },
+    {
+        "start": 1218.04,
+        "end": 1226.6799999999998,
+        "text": " use for development and the model that you're using as you're implementing the final solution."
+    },
+    {
+        "start": 1226.6799999999998,
+        "end": 1234.3999999999999,
+        "text": " So if you if your intent is to run this AI modeling to a resource constraint processor,"
+    },
+    {
+        "start": 1234.4,
+        "end": 1241.64,
+        "text": " like a microprocessor or an FPGA or something along those lines, you would have to actually"
+    },
+    {
+        "start": 1241.64,
+        "end": 1244.76,
+        "text": " implement that AI model."
+    },
+    {
+        "start": 1244.76,
+        "end": 1252.24,
+        "text": " If it's a neural network, you would have to implement the neural network for that specific"
+    },
+    {
+        "start": 1252.24,
+        "end": 1253.8000000000002,
+        "text": " target hardware."
+    },
+    {
+        "start": 1253.8000000000002,
+        "end": 1261.72,
+        "text": " And so in that regard, what we do in one of our value propositions is to be able to generate"
+    },
+    {
+        "start": 1261.72,
+        "end": 1269.68,
+        "text": " code directly from MATLAB or from models that have been imported into MATLAB if those"
+    },
+    {
+        "start": 1269.68,
+        "end": 1272.32,
+        "text": " are pytorch or TensorFlow models."
+    },
+    {
+        "start": 1272.32,
+        "end": 1277.92,
+        "text": " And then ultimately get the source code that you want to deploy into these resource constraint"
+    },
+    {
+        "start": 1277.92,
+        "end": 1278.92,
+        "text": " processor."
+    },
+    {
+        "start": 1278.92,
+        "end": 1285.44,
+        "text": " So it may perhaps it's C or C++ or it's it's CUDA code if you have access to a Jetson board"
+    },
+    {
+        "start": 1285.44,
+        "end": 1290.92,
+        "text": " or it could be HDL code if you're running it or you're intending to run it on FPGA."
+    },
+    {
+        "start": 1291.64,
+        "end": 1296.6000000000001,
+        "text": " Now, it's very important that now we have transformed the code, right?"
+    },
+    {
+        "start": 1296.6000000000001,
+        "end": 1301.72,
+        "text": " We had a model that had been developed in one framework."
+    },
+    {
+        "start": 1301.72,
+        "end": 1305.8000000000002,
+        "text": " It could be pytorch, it could be MATLAB, it could be TensorFlow."
+    },
+    {
+        "start": 1305.8000000000002,
+        "end": 1311.8400000000001,
+        "text": " And now we have a model that's implemented in C++, for instance, we need to make sure."
+    },
+    {
+        "start": 1311.8400000000001,
+        "end": 1317.3600000000001,
+        "text": " And so we need to have specific requirements along this too that we need to make sure that"
+    },
+    {
+        "start": 1318.1999999999998,
+        "end": 1323.76,
+        "text": " the translation, the code that we've translated now, is also meeting all the previous requirements"
+    },
+    {
+        "start": 1323.76,
+        "end": 1330.28,
+        "text": " and that by just translating the code into into C++, we didn't introduce any intended"
+    },
+    {
+        "start": 1330.28,
+        "end": 1333.6799999999998,
+        "text": " behavior and any unintended behavior."
+    },
+    {
+        "start": 1333.6799999999998,
+        "end": 1341.6799999999998,
+        "text": " Then the last stages of the of the W diagram involve integrating the AI model now that"
+    },
+    {
+        "start": 1342.0,
+        "end": 1346.1599999999999,
+        "text": " the source code of this AI model into a larger system under design."
+    },
+    {
+        "start": 1346.16,
+        "end": 1354.8400000000001,
+        "text": " And if you are building, for instance, a system that is able to recognize stop signs"
+    },
+    {
+        "start": 1354.8400000000001,
+        "end": 1362.4,
+        "text": " or something along those lines, you would want to make sure that the model that is detecting"
+    },
+    {
+        "start": 1362.4,
+        "end": 1365.52,
+        "text": " those stop signs is well integrated with the rest of the system."
+    },
+    {
+        "start": 1365.52,
+        "end": 1371.2,
+        "text": " Perhaps you would want to integrate it with some image traditional computer vision tracker"
+    },
+    {
+        "start": 1371.2,
+        "end": 1379.56,
+        "text": " and enhance the operational capability of this neural network, for instance, so that you"
+    },
+    {
+        "start": 1379.56,
+        "end": 1389.56,
+        "text": " don't have to detect the stop sign at every single frame, but instead, you know, detect it"
+    },
+    {
+        "start": 1389.56,
+        "end": 1393.16,
+        "text": " in a couple of frames and then track it all over."
+    },
+    {
+        "start": 1393.16,
+        "end": 1398.76,
+        "text": " You would then want to make sure that it integrates with the other steps within the system"
+    },
+    {
+        "start": 1398.76,
+        "end": 1406.44,
+        "text": " if the AI model is part of, at say, an emergency braking system, you want to make sure that"
+    },
+    {
+        "start": 1406.44,
+        "end": 1412.44,
+        "text": " it's well integrated into that and we do a property testing for the system level integration,"
+    },
+    {
+        "start": 1412.44,
+        "end": 1417.84,
+        "text": " making sure that different scenarios are tested and under control."
+    },
+    {
+        "start": 1417.84,
+        "end": 1430.52,
+        "text": " How often in these environments are you working with like external specifications or regulations"
+    },
+    {
+        "start": 1430.52,
+        "end": 1434.76,
+        "text": " as opposed to kind of like design specifications?"
+    },
+    {
+        "start": 1434.76,
+        "end": 1435.76,
+        "text": " Very often."
+    },
+    {
+        "start": 1435.76,
+        "end": 1443.24,
+        "text": " So it is frequent that our customers, especially in regulated industries, need to go through"
+    },
+    {
+        "start": 1443.24,
+        "end": 1450.8,
+        "text": " the process of certifying their code before it goes into their product."
+    },
+    {
+        "start": 1450.8,
+        "end": 1462.6,
+        "text": " So for instance, in the context of automotive or aerospace or medical devices, there are specific"
+    },
+    {
+        "start": 1462.6,
+        "end": 1467.64,
+        "text": " standards and guidelines that users have to go through."
+    },
+    {
+        "start": 1467.64,
+        "end": 1473.5200000000002,
+        "text": " And interestingly, of course, now with the new government regulation coming up, the"
+    },
+    {
+        "start": 1473.5200000000002,
+        "end": 1478.6000000000001,
+        "text": " ULA Act and other regulation from all the governments, we're seeing an increase interest"
+    },
+    {
+        "start": 1478.6000000000001,
+        "end": 1485.92,
+        "text": " from our users into this space and the V&V space, trying to understand what of the existing"
+    },
+    {
+        "start": 1485.92,
+        "end": 1491.0800000000002,
+        "text": " standards works for them and what doesn't work for them."
+    },
+    {
+        "start": 1491.0800000000002,
+        "end": 1496.92,
+        "text": " And so new standards are being put together to cover for the gaps that the current traditional"
+    },
+    {
+        "start": 1496.92,
+        "end": 1501.64,
+        "text": " standards will not be able to address."
+    },
+    {
+        "start": 1501.64,
+        "end": 1507.48,
+        "text": " When you're talking about these kind of verification and validation efforts, how much of what"
+    },
+    {
+        "start": 1507.48,
+        "end": 1515.1200000000001,
+        "text": " customers are needing to do is formal proof of functionality or capability or some of these"
+    },
+    {
+        "start": 1515.1200000000001,
+        "end": 1519.4,
+        "text": " other aspects that are specified for the systems."
+    },
+    {
+        "start": 1519.4,
+        "end": 1521.3600000000001,
+        "text": " So yes, it's interesting question."
+    },
+    {
+        "start": 1521.36,
+        "end": 1528.24,
+        "text": " So definitely when it comes to formal methods and being able to actually prove correctness"
+    },
+    {
+        "start": 1528.24,
+        "end": 1534.36,
+        "text": " of the code itself, that's something that has been coming up frequently in traditional"
+    },
+    {
+        "start": 1534.36,
+        "end": 1538.84,
+        "text": " software development for these safety-categorical industries."
+    },
+    {
+        "start": 1538.84,
+        "end": 1546.4799999999998,
+        "text": " Now when it comes to AI, there is less of a regulation in that space, even though there"
+    },
+    {
+        "start": 1546.4799999999998,
+        "end": 1550.9199999999998,
+        "text": " are specific standards that are being put together for robustness of AI models and things"
+    },
+    {
+        "start": 1551.0,
+        "end": 1552.4,
+        "text": " like this."
+    },
+    {
+        "start": 1552.4,
+        "end": 1557.76,
+        "text": " But that's less of a, it has less presence in the standards."
+    },
+    {
+        "start": 1557.76,
+        "end": 1564.44,
+        "text": " But new standards in aerospace and automotive will be addressing this."
+    },
+    {
+        "start": 1564.44,
+        "end": 1573.28,
+        "text": " And the basic idea behind, I like how one of my colleagues in the development team puts"
+    },
+    {
+        "start": 1573.28,
+        "end": 1574.1200000000001,
+        "text": " this together."
+    },
+    {
+        "start": 1574.12,
+        "end": 1582.1999999999998,
+        "text": " So when it comes to thinking about what the, let's say what, what, what, what adversarial"
+    },
+    {
+        "start": 1582.1999999999998,
+        "end": 1588.8,
+        "text": " attacks are like, he kind of thinks about this in, in this way, adversarial attacks are"
+    },
+    {
+        "start": 1588.8,
+        "end": 1590.76,
+        "text": " like finding bugs, right?"
+    },
+    {
+        "start": 1590.76,
+        "end": 1596.6,
+        "text": " And you're, with respect to your traditional software and they allow you to reveal, you know,"
+    },
+    {
+        "start": 1596.6,
+        "end": 1598.6799999999998,
+        "text": " vulnerabilities that can be exploited."
+    },
+    {
+        "start": 1598.68,
+        "end": 1604.16,
+        "text": " So for instance, if you think about traditional software best practices, you know, you want"
+    },
+    {
+        "start": 1604.16,
+        "end": 1607.28,
+        "text": " to make sure that there's no integer overflow, right?"
+    },
+    {
+        "start": 1607.28,
+        "end": 1610.68,
+        "text": " That is definitely a bug in the code."
+    },
+    {
+        "start": 1610.68,
+        "end": 1618.88,
+        "text": " And meanwhile, employing formal methods for AI is like providing or making sure that you're"
+    },
+    {
+        "start": 1618.88,
+        "end": 1621.8400000000001,
+        "text": " able to prove the absence of errors."
+    },
+    {
+        "start": 1621.8400000000001,
+        "end": 1626.96,
+        "text": " So kind of guarantee that there are no overflows in my, in my code, with respect to the, the"
+    },
+    {
+        "start": 1626.96,
+        "end": 1630.28,
+        "text": " traditional software engineering example."
+    },
+    {
+        "start": 1630.28,
+        "end": 1636.8,
+        "text": " And so in the, in the context of AI models, we're, we're seeing a lot of interest in being"
+    },
+    {
+        "start": 1636.8,
+        "end": 1644.56,
+        "text": " able to offer a mathematical proof, a mathematical guarantee of the robustness of these, you know,"
+    },
+    {
+        "start": 1644.56,
+        "end": 1646.4,
+        "text": " these systems, these models."
+    },
+    {
+        "start": 1646.4,
+        "end": 1652.2,
+        "text": " So for instance, as you right now, the robustness is one of the main concerns that people have"
+    },
+    {
+        "start": 1652.2,
+        "end": 1657.64,
+        "text": " when, when deploying neural networks in safety, critical situations, right?"
+    },
+    {
+        "start": 1657.64,
+        "end": 1665.64,
+        "text": " It's been shown and it's been shown publicly in many occasions that small input perturbations"
+    },
+    {
+        "start": 1665.64,
+        "end": 1671.3600000000001,
+        "text": " to the, to the image can, can actually, or to the input can actually change the output"
+    },
+    {
+        "start": 1671.3600000000001,
+        "end": 1672.8400000000001,
+        "text": " significantly."
+    },
+    {
+        "start": 1672.8400000000001,
+        "end": 1674.1200000000001,
+        "text": " And that's not good, right?"
+    },
+    {
+        "start": 1674.1200000000001,
+        "end": 1678.4,
+        "text": " We want to make sure that we have a model that we can trust."
+    },
+    {
+        "start": 1678.4,
+        "end": 1683.16,
+        "text": " And by, by changing a single pixel, it doesn't look like, like so."
+    },
+    {
+        "start": 1683.16,
+        "end": 1689.72,
+        "text": " So in this space, based upon the interest we were receiving from, from the field, we"
+    },
+    {
+        "start": 1689.72,
+        "end": 1694.2800000000002,
+        "text": " worked towards putting together a specific library to address this."
+    },
+    {
+        "start": 1694.2800000000002,
+        "end": 1698.8400000000001,
+        "text": " We called it deeplining toolbox verification library."
+    },
+    {
+        "start": 1698.8400000000001,
+        "end": 1705.4,
+        "text": " And it basically allows our users to test the robustness of this deeplining networks or"
+    },
+    {
+        "start": 1705.4,
+        "end": 1709.68,
+        "text": " test the stability of these deeplining networks."
+    },
+    {
+        "start": 1709.68,
+        "end": 1714.8400000000001,
+        "text": " And the way it does it is using the formal verification methods that you were mentioning."
+    },
+    {
+        "start": 1714.8400000000001,
+        "end": 1720.72,
+        "text": " So the idea is that we're able to mathematically prove, and it's, it's, it's approved in"
+    },
+    {
+        "start": 1720.72,
+        "end": 1728.72,
+        "text": " the mathematical sense, that for the input space that, that you're perturbing, there"
+    },
+    {
+        "start": 1728.72,
+        "end": 1731.68,
+        "text": " is no change to the output to the network."
+    },
+    {
+        "start": 1731.68,
+        "end": 1739.8,
+        "text": " So in the context of a thing image-based applications, which I think are the hard, the easiest, not"
+    },
+    {
+        "start": 1739.8,
+        "end": 1746.3600000000001,
+        "text": " not the hard, the easiest to think about as we, as we put together examples."
+    },
+    {
+        "start": 1746.3600000000001,
+        "end": 1754.48,
+        "text": " You can think about some driving contacts or some situational situation where you would"
+    },
+    {
+        "start": 1754.48,
+        "end": 1761.16,
+        "text": " want to change, or you would want to test the air model against changes to brightness,"
+    },
+    {
+        "start": 1761.16,
+        "end": 1763.2,
+        "text": " for instance, right?"
+    },
+    {
+        "start": 1763.2,
+        "end": 1768.68,
+        "text": " And of course, you can create multiple tests and have a unitescing framework and change,"
+    },
+    {
+        "start": 1768.68,
+        "end": 1775.4,
+        "text": " you know, couple of pixels or change the brightness to the entire image or, you know, come up with"
+    },
+    {
+        "start": 1775.4,
+        "end": 1781.64,
+        "text": " a thousands of tests and make sure that the AI model is able to capture that and is able"
+    },
+    {
+        "start": 1781.64,
+        "end": 1783.88,
+        "text": " to predict the right response."
+    },
+    {
+        "start": 1783.88,
+        "end": 1785.4,
+        "text": " But that's not very smart."
+    },
+    {
+        "start": 1785.4,
+        "end": 1791.4,
+        "text": " And because you would have to test, perhaps, you know, an infinite number of images if you"
+    },
+    {
+        "start": 1791.4,
+        "end": 1797.76,
+        "text": " wanted to have like a good, a good understanding of how the model behaves."
+    },
+    {
+        "start": 1797.76,
+        "end": 1805.4,
+        "text": " Instead, formal methods using abstract interpretation offered this approach where you can have a formal"
+    },
+    {
+        "start": 1805.4,
+        "end": 1807.8000000000002,
+        "text": " proof of the correctness of the system."
+    },
+    {
+        "start": 1807.8000000000002,
+        "end": 1813.4,
+        "text": " And so the idea behind it is that you can have an input image at your test set."
+    },
+    {
+        "start": 1813.4,
+        "end": 1819.72,
+        "text": " Let's put that concrete example and define what a good perturbation for that input image could be."
+    },
+    {
+        "start": 1820.3600000000001,
+        "end": 1824.3600000000001,
+        "text": " In the context of brightness, you might be changing pixels up, right?"
+    },
+    {
+        "start": 1825.24,
+        "end": 1830.68,
+        "text": " And you define what is the boundary or what is the bounds of that perturbation?"
+    },
+    {
+        "start": 1831.4,
+        "end": 1839.3200000000002,
+        "text": " And instead of actually doing individual tests where you are actually, in fact, modifying the image,"
+    },
+    {
+        "start": 1839.32,
+        "end": 1845.8,
+        "text": " the original image and running it through the network, you define a volume or a polytope,"
+    },
+    {
+        "start": 1845.8,
+        "end": 1853.8,
+        "text": " where you basically include all possible images within that contemplate this this perturbation."
+    },
+    {
+        "start": 1854.84,
+        "end": 1860.12,
+        "text": " And so what you would do is instead of running each image individually through the network,"
+    },
+    {
+        "start": 1860.12,
+        "end": 1862.6799999999998,
+        "text": " you would pass the entire volume through the network."
+    },
+    {
+        "start": 1862.8400000000001,
+        "end": 1870.6000000000001,
+        "text": " And of course, that requires some transformation to the layers that you're dealing with."
+    },
+    {
+        "start": 1870.6000000000001,
+        "end": 1874.04,
+        "text": " You need to rewrite the layers in a very specific way."
+    },
+    {
+        "start": 1874.04,
+        "end": 1881.24,
+        "text": " They're called abstract transformers, but it's different to the transformers that we're all excited"
+    },
+    {
+        "start": 1881.24,
+        "end": 1889.16,
+        "text": " about in the genie space. But you would have to rewrite the layers so that they're able to deal with"
+    },
+    {
+        "start": 1889.16,
+        "end": 1895.5600000000002,
+        "text": " these polytopes or volumes. And then as the volumes go through the different layers of the network,"
+    },
+    {
+        "start": 1895.5600000000002,
+        "end": 1902.1200000000001,
+        "text": " whether it's a fully connected or a dense layer or it's a it's perhaps a conf layer and so on,"
+    },
+    {
+        "start": 1902.1200000000001,
+        "end": 1908.68,
+        "text": " it gets transformed. The volume will the polytope will be transformed up to the point where we get"
+    },
+    {
+        "start": 1908.68,
+        "end": 1918.8400000000001,
+        "text": " to the output. If the output of the network doesn't change, so we know that the entire"
+    },
+    {
+        "start": 1918.84,
+        "end": 1924.9199999999998,
+        "text": " volume is on the same side as the image for which we wanted to do the prediction in the first"
+    },
+    {
+        "start": 1924.9199999999998,
+        "end": 1929.6399999999999,
+        "text": " place, then we get the properties verified. And so this is a very strong argument because you"
+    },
+    {
+        "start": 1929.6399999999999,
+        "end": 1936.28,
+        "text": " can formally guarantee that the entire set of images within that original volume will not change"
+    },
+    {
+        "start": 1937.56,
+        "end": 1944.12,
+        "text": " the its their output if you change some pixels within those boundaries. It's a very strong"
+    },
+    {
+        "start": 1944.84,
+        "end": 1950.6,
+        "text": " argument. You said on the same side is that meaning in the context of like a classification"
+    },
+    {
+        "start": 1950.6,
+        "end": 1955.4799999999998,
+        "text": " boundary? Perhaps yeah. In the context of our classification example, you would think of the"
+    },
+    {
+        "start": 1955.4799999999998,
+        "end": 1963.6399999999999,
+        "text": " decision boundary and you would say right, so if my output volume I'm just trying to go with"
+    },
+    {
+        "start": 1963.6399999999999,
+        "end": 1968.9199999999998,
+        "text": " simple terms instead of polytope here, but if my output volume is to the in the the same side,"
+    },
+    {
+        "start": 1969.3200000000002,
+        "end": 1975.8000000000002,
+        "text": " so of the decision boundary where I was getting my original prediction, then every image"
+    },
+    {
+        "start": 1976.6000000000001,
+        "end": 1983.48,
+        "text": " within that volume will get the same class basically. Of course, you know, that's not always the"
+    },
+    {
+        "start": 1983.48,
+        "end": 1989.8000000000002,
+        "text": " case and there's some situations where you might get violations because the the volume is"
+    },
+    {
+        "start": 1990.44,
+        "end": 1995.8000000000002,
+        "text": " crossing the boundary or perhaps on top of the boundary. And so you're getting some situations"
+    },
+    {
+        "start": 1995.8799999999999,
+        "end": 2003.72,
+        "text": " where you can not always prove these properties, but you would have the ability to now go on a fine"
+    },
+    {
+        "start": 2003.72,
+        "end": 2010.04,
+        "text": " grained volume and try to better understand within your operational design domain within the"
+    },
+    {
+        "start": 2010.04,
+        "end": 2017.1599999999999,
+        "text": " images that you're dealing with, how is it really performing? Right. Is it perhaps you need to train"
+    },
+    {
+        "start": 2017.1599999999999,
+        "end": 2023.56,
+        "text": " differently because your your model is not trained in a robust fashion and that gives you some ideas"
+    },
+    {
+        "start": 2023.56,
+        "end": 2030.52,
+        "text": " into how how to how to take the next steps. So this W diagram is far from being linear as you"
+    },
+    {
+        "start": 2030.52,
+        "end": 2036.84,
+        "text": " can see, right? We're going to have to go back and forth at multiple times and and and that's part"
+    },
+    {
+        "start": 2036.84,
+        "end": 2044.6799999999998,
+        "text": " of the process. And so this model that you've created where you've substituted your"
+    },
+    {
+        "start": 2046.6,
+        "end": 2052.84,
+        "text": " traditional transformer layers with I think you said abstract transformer layers."
+    },
+    {
+        "start": 2053.56,
+        "end": 2061.56,
+        "text": " Are you then taking this abstract transformer and that's what you're putting into production or"
+    },
+    {
+        "start": 2061.56,
+        "end": 2069.88,
+        "text": " is it a modeling tool that you're using to determine verification, but then you're using the"
+    },
+    {
+        "start": 2070.68,
+        "end": 2078.68,
+        "text": " original. It's basically a modeling tool. We need to make sure that we can have a way to"
+    },
+    {
+        "start": 2079.48,
+        "end": 2085.3199999999997,
+        "text": " verify the correctness of the network. And so for that matter because the network is not able to"
+    },
+    {
+        "start": 2086.12,
+        "end": 2093.64,
+        "text": " work with bounds, we have to transform the way the network operates. And so it's very important that"
+    },
+    {
+        "start": 2094.44,
+        "end": 2102.2799999999997,
+        "text": " these these these these layers are developed in the right way. They're of course some limitations."
+    },
+    {
+        "start": 2102.2799999999997,
+        "end": 2106.9199999999996,
+        "text": " There's some layers that the research is not there yet. Yeah, that's kind of the direction I was"
+    },
+    {
+        "start": 2106.92,
+        "end": 2112.6800000000003,
+        "text": " going. Like once you introduce another model, then you have to do verification and validation of"
+    },
+    {
+        "start": 2112.6800000000003,
+        "end": 2120.2000000000003,
+        "text": " that. Unless there's like you can rely on a mathematical relationship between their kind of"
+    },
+    {
+        "start": 2120.2000000000003,
+        "end": 2127.7200000000003,
+        "text": " original transformer and these abstract transformers that assures you that that you know that"
+    },
+    {
+        "start": 2127.7200000000003,
+        "end": 2135.48,
+        "text": " other model isn't introducing its own issues. Yeah. And so of course, you know, like like with a"
+    },
+    {
+        "start": 2135.48,
+        "end": 2140.52,
+        "text": " lot of things that we see in in AI, there's no one size fits all here. And sometimes, you know, the"
+    },
+    {
+        "start": 2141.48,
+        "end": 2148.12,
+        "text": " formal methods will not satisfy the needs that you have from a verification standpoint. And you"
+    },
+    {
+        "start": 2148.12,
+        "end": 2153.2400000000002,
+        "text": " need to go with all our approaches. You need to go with scenario based testing or Monte Carlo testing."
+    },
+    {
+        "start": 2153.8,
+        "end": 2160.44,
+        "text": " You would perhaps need to make this is something that you would do anyways, right? Have some sort of"
+    },
+    {
+        "start": 2160.44,
+        "end": 2166.2000000000003,
+        "text": " safety monitor or runtime monitor sitting side by side with your network. So there are additional"
+    },
+    {
+        "start": 2166.92,
+        "end": 2172.68,
+        "text": " techniques out there to to make sure that the AI models are behaving and and you know, do not"
+    },
+    {
+        "start": 2172.68,
+        "end": 2179.88,
+        "text": " do not go crazy as we deploy them to the to the safety or to the embedded the embedded systems."
+    },
+    {
+        "start": 2179.88,
+        "end": 2182.52,
+        "text": " I think that you know, at the end of the day, it's it's important to"
+    },
+    {
+        "start": 2182.6,
+        "end": 2192.52,
+        "text": " to know that I mean, we're it's not just about building a smart system. It's it's also making"
+    },
+    {
+        "start": 2192.52,
+        "end": 2198.7599999999998,
+        "text": " sure that it aligns with the values and the safety and that it's you know, it's it fits the intended"
+    },
+    {
+        "start": 2198.7599999999998,
+        "end": 2204.7599999999998,
+        "text": " design. You know, thinking about kind of testing your way through these scenarios, I'm thinking of"
+    },
+    {
+        "start": 2204.76,
+        "end": 2214.0400000000004,
+        "text": " kind of an analogy to traditional code coverage metrics are there ways that folks try to extend"
+    },
+    {
+        "start": 2214.0400000000004,
+        "end": 2223.6400000000003,
+        "text": " that analogy to AI systems. Yes, yes, yes, there's the happen and it's it's a really interesting"
+    },
+    {
+        "start": 2223.6400000000003,
+        "end": 2231.5600000000004,
+        "text": " area of research. There is a technology or a technique called neuron coverage that has the basic"
+    },
+    {
+        "start": 2231.56,
+        "end": 2238.12,
+        "text": " idea to you know, to make sure that you know, as you as you train your AI model, you know, you"
+    },
+    {
+        "start": 2238.12,
+        "end": 2244.12,
+        "text": " want to make sure that you are covering enough neurons in in the neural network kind of the same"
+    },
+    {
+        "start": 2244.12,
+        "end": 2250.6,
+        "text": " idea as with the the code coverage approach, right? If if I have sufficient tests in my traditional"
+    },
+    {
+        "start": 2251.7999999999997,
+        "end": 2256.84,
+        "text": " from my traditional code, I want to make sure that as I run my tests, I get you know, 100% coverage"
+    },
+    {
+        "start": 2256.84,
+        "end": 2261.96,
+        "text": " that's kind of the ideal situation to be in, right? In a similar situation, moving to the AI"
+    },
+    {
+        "start": 2261.96,
+        "end": 2267.08,
+        "text": " space, you would want to have something along the same lines where given my test data, which in"
+    },
+    {
+        "start": 2267.08,
+        "end": 2274.04,
+        "text": " this case, it's perhaps images or it's perhaps signal data, I want to be able to run that through"
+    },
+    {
+        "start": 2274.04,
+        "end": 2281.96,
+        "text": " my neural network and make sure that I get sufficient neuron coverage so that we we we have some"
+    },
+    {
+        "start": 2281.96,
+        "end": 2289.96,
+        "text": " guarantees on the on the on the on the on the network itself, right? That's that's there,"
+    },
+    {
+        "start": 2289.96,
+        "end": 2296.52,
+        "text": " there's been some interesting papers in this space we've we've implemented our own neuron coverage"
+    },
+    {
+        "start": 2296.52,
+        "end": 2301.8,
+        "text": " for MATLAB. We released it on GitHub a couple of years ago. So it's exciting to see how these"
+    },
+    {
+        "start": 2301.8,
+        "end": 2309.16,
+        "text": " techniques are are being used first in research. They turn over to tool vendors like math works and"
+    },
+    {
+        "start": 2309.64,
+        "end": 2317.3999999999996,
+        "text": " ultimately there's there's there's a way to actually use them in the context of of what our industry"
+    },
+    {
+        "start": 2318.6,
+        "end": 2323.72,
+        "text": " that customers are are working on. How confident are we that covering all the neurons"
+    },
+    {
+        "start": 2324.92,
+        "end": 2331.72,
+        "text": " actually covers the edge cases that we care about? It seems like a complex relationship potentially."
+    },
+    {
+        "start": 2332.3599999999997,
+        "end": 2339.72,
+        "text": " It is it is indeed and in fact this is something that has been brought up at the at various"
+    },
+    {
+        "start": 2339.72,
+        "end": 2347.24,
+        "text": " working groups where you know that I'm part of I'm I'm working with EuroK NSA on this"
+    },
+    {
+        "start": 2348.4399999999996,
+        "end": 2356.2799999999997,
+        "text": " new standard for AI navigation that will be called ARP 6983 and there's some this is you know"
+    },
+    {
+        "start": 2357.2400000000002,
+        "end": 2363.48,
+        "text": " come up a couple of times we are seeing that it's it's eventually challenging to connect"
+    },
+    {
+        "start": 2363.48,
+        "end": 2369.2400000000002,
+        "text": " a neuron coverage to some of the objectives then put at one my have and requirements that what"
+    },
+    {
+        "start": 2369.2400000000002,
+        "end": 2377.8,
+        "text": " my have. Nevertheless for some simple examples simple shallow networks and applications it is"
+    },
+    {
+        "start": 2377.8,
+        "end": 2384.6800000000003,
+        "text": " definitely worth a try and I'm thinking particularly in the context of replacing large lookup"
+    },
+    {
+        "start": 2384.68,
+        "end": 2392.9199999999996,
+        "text": " tables for instance that's something that a lot of people have been interested in you have a very"
+    },
+    {
+        "start": 2392.9199999999996,
+        "end": 2402.44,
+        "text": " high fidelity first principles model and then this perhaps is coming from a third party simulation tool"
+    },
+    {
+        "start": 2402.44,
+        "end": 2407.96,
+        "text": " and when we have customers interested in integrating that high fidelity first principles full"
+    },
+    {
+        "start": 2407.96,
+        "end": 2417.88,
+        "text": " order component into into simulink for system level simulation and it happens that of course as"
+    },
+    {
+        "start": 2417.88,
+        "end": 2422.84,
+        "text": " you do co simulation with this third party tool it's it becomes tricky and it becomes computationally"
+    },
+    {
+        "start": 2422.84,
+        "end": 2429.2400000000002,
+        "text": " expensive and if you are developing a controller to go along that plant it's perhaps challenging to"
+    },
+    {
+        "start": 2430.68,
+        "end": 2437.0,
+        "text": " to do this very effectively and to rapidly to rate over the design. So what many customers have been"
+    },
+    {
+        "start": 2437.0,
+        "end": 2443.72,
+        "text": " interested in is this these reduced auto modeling techniques or the surrogate models and definitely"
+    },
+    {
+        "start": 2443.72,
+        "end": 2450.12,
+        "text": " the easiest form of a surrogate model could be a lookup table. The challenging aspect with the lookup"
+    },
+    {
+        "start": 2450.12,
+        "end": 2456.84,
+        "text": " table is that if you would like to deploy this in some way and and you want to have a very accurate"
+    },
+    {
+        "start": 2456.84,
+        "end": 2461.64,
+        "text": " model then you have a very large lookup table and so memory footprint is going to be large."
+    },
+    {
+        "start": 2462.3599999999997,
+        "end": 2470.8399999999997,
+        "text": " This is something that we can mitigate with a shallow neural network for instance and in the"
+    },
+    {
+        "start": 2470.8399999999997,
+        "end": 2475.48,
+        "text": " context of this shallow neural network you can perhaps easily look into the neuron coverage and"
+    },
+    {
+        "start": 2475.48,
+        "end": 2484.52,
+        "text": " have a good understanding of how perhaps adding an additional class to the test set or to the"
+    },
+    {
+        "start": 2484.52,
+        "end": 2490.52,
+        "text": " training data would actually modify the covering the neuron coverage itself."
+    },
+    {
+        "start": 2492.12,
+        "end": 2496.84,
+        "text": " For larger problems though I think that's quite challenging and perhaps it's still"
+    },
+    {
+        "start": 2498.68,
+        "end": 2505.72,
+        "text": " an open research problem. In talking about the polytopes and that whole conversation we we're"
+    },
+    {
+        "start": 2505.72,
+        "end": 2513.88,
+        "text": " talking about transformers are you seeing folks using transformer based architectures in these"
+    },
+    {
+        "start": 2513.88,
+        "end": 2520.04,
+        "text": " safety critical systems or is it more aspirational in kind of the direction that folks are going?"
+    },
+    {
+        "start": 2520.6,
+        "end": 2530.36,
+        "text": " Wow great question. Yeah. Yes. No, yes and no. Okay so let me go into that."
+    },
+    {
+        "start": 2530.92,
+        "end": 2537.2400000000002,
+        "text": " Transformers, it's really exciting right definitely a very exciting area we have seen tremendous"
+    },
+    {
+        "start": 2537.24,
+        "end": 2543.3999999999996,
+        "text": " advancement, advancement is over the course of last six years or so in this space."
+    },
+    {
+        "start": 2544.68,
+        "end": 2550.6,
+        "text": " When it comes to safety critical industries and the use of AI within safety critical"
+    },
+    {
+        "start": 2550.6,
+        "end": 2558.2799999999997,
+        "text": " situations, transformers could be yet another mechanism or tooling to be used."
+    },
+    {
+        "start": 2559.3999999999996,
+        "end": 2566.68,
+        "text": " Now I think it's important to know that we can use definitely transformers in the context of"
+    },
+    {
+        "start": 2566.68,
+        "end": 2573.72,
+        "text": " LLMs and in Genai that's tremendously popular out there these days. We can also use transformers"
+    },
+    {
+        "start": 2573.72,
+        "end": 2580.44,
+        "text": " in the context of time series modeling and build a transformer instead of use a transformer"
+    },
+    {
+        "start": 2580.44,
+        "end": 2590.44,
+        "text": " architecture instead of an LSTM architecture or a GRU architecture or perhaps some shallow network"
+    },
+    {
+        "start": 2591.4,
+        "end": 2597.2400000000002,
+        "text": " has some inputs from the past which is how we were doing machine learning 20 years ago."
+    },
+    {
+        "start": 2598.52,
+        "end": 2606.04,
+        "text": " And so in that sense, yes we're seeing transformers definitely being used in the context of"
+    },
+    {
+        "start": 2606.04,
+        "end": 2612.84,
+        "text": " embedded AI and it's specifically the use of smaller types of transformer architectures for"
+    },
+    {
+        "start": 2612.84,
+        "end": 2619.8,
+        "text": " time series modeling is the sweet spot that we're seeing. That said of course the use of"
+    },
+    {
+        "start": 2621.6400000000003,
+        "end": 2630.52,
+        "text": " larger transformers or LLMs or visual transformers, it's also relevant perhaps for all the types"
+    },
+    {
+        "start": 2630.52,
+        "end": 2638.6000000000004,
+        "text": " of applications, not as much on embedded AI but we're seeing an interest of course in Genai both"
+    },
+    {
+        "start": 2638.6,
+        "end": 2646.12,
+        "text": " for text and image. Yeah it does seem like trying to apply some of the things we've talked about"
+    },
+    {
+        "start": 2646.12,
+        "end": 2654.68,
+        "text": " to LLM-based systems is a whole nother level of complexity. Yes it is, yes it is definitely."
+    },
+    {
+        "start": 2656.68,
+        "end": 2662.6,
+        "text": " In fact if we look into some of the latest competitions on neural network verification"
+    },
+    {
+        "start": 2663.16,
+        "end": 2668.92,
+        "text": " from the past year there is this competition called V&N Comp that happens on a yearly basis"
+    },
+    {
+        "start": 2671.88,
+        "end": 2677.4,
+        "text": " it deals with you know you have different benchmarks and you have the ability to run your code"
+    },
+    {
+        "start": 2678.2799999999997,
+        "end": 2685.64,
+        "text": " through different situations and such. We have seen there for the first time I believe"
+    },
+    {
+        "start": 2685.64,
+        "end": 2691.88,
+        "text": " it was last year a benchmark on object detection for yolo network architectures. So"
+    },
+    {
+        "start": 2692.6,
+        "end": 2699.72,
+        "text": " yes to perhaps to answer your question I believe that this is an interesting area of research it"
+    },
+    {
+        "start": 2699.72,
+        "end": 2708.92,
+        "text": " will come we're not there yet. But yeah definitely these days we're seeing players focusing on"
+    },
+    {
+        "start": 2708.92,
+        "end": 2718.6,
+        "text": " Genai and looking into other ways to test the LLMs but that said perhaps formal methods are"
+    },
+    {
+        "start": 2719.56,
+        "end": 2727.0,
+        "text": " at this point in time more of a future thinking technique. You mentioned benchmarks"
+    },
+    {
+        "start": 2729.3199999999997,
+        "end": 2737.08,
+        "text": " in academia the kind of tendency is to standardize the problem collect a lot of data I publish"
+    },
+    {
+        "start": 2737.08,
+        "end": 2745.96,
+        "text": " a benchmark and then lots of folks share that same benchmark and use it to you know create comparisons"
+    },
+    {
+        "start": 2745.96,
+        "end": 2752.92,
+        "text": " in industry you know the problems are more you know one off to a particular product or project"
+    },
+    {
+        "start": 2754.68,
+        "end": 2761.4,
+        "text": " you know is there an analog for benchmarking or how how to folks in industry you know when these"
+    },
+    {
+        "start": 2761.4,
+        "end": 2768.12,
+        "text": " kind of safety critical environments they have they come up with benchmarking you know analogs"
+    },
+    {
+        "start": 2768.12,
+        "end": 2775.8,
+        "text": " for these kinds of systems. It's challenging it's challenging area they are some benchmarks"
+    },
+    {
+        "start": 2775.8,
+        "end": 2783.0,
+        "text": " out there for AI verification that are publicly available so these V&N-con benchmarks not only"
+    },
+    {
+        "start": 2783.88,
+        "end": 2790.92,
+        "text": " include participation from academia but also research groups within corporate labs or industry."
+    },
+    {
+        "start": 2791.48,
+        "end": 2800.28,
+        "text": " So they are definitely part of of these benchmarks. Now that said certification bodies like ASA for"
+    },
+    {
+        "start": 2800.28,
+        "end": 2806.28,
+        "text": " instance are putting together concept papers they're putting together white papers putting together"
+    },
+    {
+        "start": 2806.28,
+        "end": 2816.52,
+        "text": " materials for people to look at. One interesting piece of information or one interesting collateral"
+    },
+    {
+        "start": 2816.52,
+        "end": 2822.76,
+        "text": " that was put together in the last year or so was the ML-leap project ML-leap stands for"
+    },
+    {
+        "start": 2823.32,
+        "end": 2829.0800000000004,
+        "text": " machine learning approval process if I'm not mistaken and it's basically you can think of it as a"
+    },
+    {
+        "start": 2829.08,
+        "end": 2836.44,
+        "text": " Rosetta stone of of these you know different steps in this W diagram so what would be the different"
+    },
+    {
+        "start": 2836.44,
+        "end": 2842.36,
+        "text": " techniques and methods that one would use for AI verification what would be the different"
+    },
+    {
+        "start": 2842.92,
+        "end": 2849.88,
+        "text": " steps for data validation what methods are out there what are the what are the tools that you"
+    },
+    {
+        "start": 2849.88,
+        "end": 2857.7999999999997,
+        "text": " want can use. So perhaps not benchmarks per se but it does provide a good level of detail that"
+    },
+    {
+        "start": 2858.6800000000003,
+        "end": 2865.88,
+        "text": " industry players would want to go through specifically if they're working in airspace and then"
+    },
+    {
+        "start": 2865.88,
+        "end": 2871.48,
+        "text": " as new standards get released they will be supplementary materials that give you the ability to"
+    },
+    {
+        "start": 2871.48,
+        "end": 2880.76,
+        "text": " look into more specific use cases. So we worked on one of these use cases in the past year that was"
+    },
+    {
+        "start": 2880.76,
+        "end": 2890.36,
+        "text": " the presentation I gave at NURBS and that was basically making a case for building a runway"
+    },
+    {
+        "start": 2890.36,
+        "end": 2899.4,
+        "text": " sign classifier for the runway at the airport. So as a pilot you would want to have some sort of"
+    },
+    {
+        "start": 2899.4,
+        "end": 2904.84,
+        "text": " assistant that you know gives you information about the science that you're seeing in the runway"
+    },
+    {
+        "start": 2905.7200000000003,
+        "end": 2911.08,
+        "text": " in a nutshell when when we look into when we're at the runway I don't know if you've noticed but"
+    },
+    {
+        "start": 2911.08,
+        "end": 2918.1200000000003,
+        "text": " there are two types of signs pretty much there are red signs that are mandatory signs and then"
+    },
+    {
+        "start": 2918.1200000000003,
+        "end": 2923.1600000000003,
+        "text": " there are yellow signs that are informational signs. Now we want to make sure that that information"
+    },
+    {
+        "start": 2923.96,
+        "end": 2931.32,
+        "text": " gets processed and gets handled over to the to the pilot and it's yeah it's it's all about"
+    },
+    {
+        "start": 2931.56,
+        "end": 2940.2000000000003,
+        "text": " having a complete use case that users can run through as as you learn more about how AI integrates into"
+    },
+    {
+        "start": 2940.2000000000003,
+        "end": 2946.28,
+        "text": " into these type of systems and applications. So in this sign example the"
+    },
+    {
+        "start": 2948.04,
+        "end": 2955.48,
+        "text": " the primary gaps are on explainability and and those other more qualitative types of metrics as"
+    },
+    {
+        "start": 2955.48,
+        "end": 2965.2400000000002,
+        "text": " opposed to being able to accurately identify the the signs and classify them. The intent that we had"
+    },
+    {
+        "start": 2965.2400000000002,
+        "end": 2972.12,
+        "text": " is being able to take an incremental approach right towards certification."
+    },
+    {
+        "start": 2973.08,
+        "end": 2979.64,
+        "text": " I'm not sure to what extent you're familiar with standards in aviation. The software standard is"
+    },
+    {
+        "start": 2979.64,
+        "end": 2988.3599999999997,
+        "text": " not very. The software standard is called DL178C right and the the basic principle is that"
+    },
+    {
+        "start": 2988.3599999999997,
+        "end": 2994.8399999999997,
+        "text": " there are different criticality levels going from E which is no criticality D low criticality all"
+    },
+    {
+        "start": 2994.8399999999997,
+        "end": 3004.92,
+        "text": " the way to A which is highly critical. So we worked on this end-to-end workflow to make sure that"
+    },
+    {
+        "start": 3004.92,
+        "end": 3013.16,
+        "text": " we were able to provide a blueprint of all the steps in the WDiagram and give the the user the"
+    },
+    {
+        "start": 3013.16,
+        "end": 3021.2400000000002,
+        "text": " ability to to replicate this for their own use case. We started with a DowL D low criticality"
+    },
+    {
+        "start": 3022.2000000000003,
+        "end": 3028.04,
+        "text": " application. So the idea like I said being able to build a runway sign classifier that"
+    },
+    {
+        "start": 3028.04,
+        "end": 3036.36,
+        "text": " we know would perhaps show up in your head up display in the cockpit and it's really not integrated"
+    },
+    {
+        "start": 3036.36,
+        "end": 3045.24,
+        "text": " within any of the controls or any of the control system in the aircraft. And this allowed us to"
+    },
+    {
+        "start": 3045.8,
+        "end": 3051.24,
+        "text": " basically reduce the number of objectives that needed to be satisfied from the AI perspective"
+    },
+    {
+        "start": 3051.24,
+        "end": 3058.52,
+        "text": " and so we could use the AI as a black box model in some way. But we didn't want to stop there and we"
+    },
+    {
+        "start": 3058.52,
+        "end": 3066.8399999999997,
+        "text": " wanted to see if we could target the next level of criticality. And so to do that we used a technique"
+    },
+    {
+        "start": 3066.8399999999997,
+        "end": 3072.2,
+        "text": " which is very frequent in this space which is called architectural mitigation. So basically"
+    },
+    {
+        "start": 3072.2,
+        "end": 3079.3199999999997,
+        "text": " architectural mitigation deals with the fact that if you have two DowL D components sitting side by"
+    },
+    {
+        "start": 3079.56,
+        "end": 3086.76,
+        "text": " each other, you can actually target a DowL C certification if these two components are dissimilar from"
+    },
+    {
+        "start": 3086.76,
+        "end": 3093.32,
+        "text": " each other like they have been built with this principle in mind. So think about it in this way."
+    },
+    {
+        "start": 3093.32,
+        "end": 3099.88,
+        "text": " The redundancy is that the idea? It is redundancy but at the same time it's redundancy with a"
+    },
+    {
+        "start": 3099.88,
+        "end": 3107.6400000000003,
+        "text": " dissimilarity in mind. So let's say you know you and I we're working on AI we we get a data set I"
+    },
+    {
+        "start": 3107.64,
+        "end": 3112.68,
+        "text": " get a data set I label it you get a different data set and you label it to perhaps we're different"
+    },
+    {
+        "start": 3112.68,
+        "end": 3121.0,
+        "text": " we're using different labeling tools. I come up with an AI architecture perhaps it's a faster RCNN"
+    },
+    {
+        "start": 3121.0,
+        "end": 3126.8399999999997,
+        "text": " you use a yellow architecture. I train MATLAB you train PyTorch. There is independence of"
+    },
+    {
+        "start": 3127.72,
+        "end": 3132.92,
+        "text": " the tooling there's independence of the data set the modeling and the modeling framework."
+    },
+    {
+        "start": 3132.92,
+        "end": 3139.0,
+        "text": " And the idea is that if ultimately these two different components agree on the output"
+    },
+    {
+        "start": 3139.96,
+        "end": 3147.48,
+        "text": " it is an indication that that the output is is the intended one in some way. So basically using this"
+    },
+    {
+        "start": 3147.48,
+        "end": 3153.88,
+        "text": " approach called architectural mitigation we're we're able to certify a DowL C component and that's"
+    },
+    {
+        "start": 3153.88,
+        "end": 3161.0,
+        "text": " where we are at this point we're able to give our users blueprints and templates so that they can go"
+    },
+    {
+        "start": 3161.0,
+        "end": 3167.0,
+        "text": " through the certification process themselves or collaborate with us if they need to and and and and"
+    },
+    {
+        "start": 3167.0,
+        "end": 3174.04,
+        "text": " go through the certification process for for these deal 178c and it's interesting that standards"
+    },
+    {
+        "start": 3174.04,
+        "end": 3179.72,
+        "text": " are not out there yet but thanks to the research from from from the technical and investigative"
+    },
+    {
+        "start": 3179.72,
+        "end": 3186.92,
+        "text": " Munich from the working group we have been able to mitigate these these gaps in the existing"
+    },
+    {
+        "start": 3186.92,
+        "end": 3193.2400000000002,
+        "text": " standard and be able to be able to put something together to certify these systems today."
+    },
+    {
+        "start": 3194.44,
+        "end": 3200.52,
+        "text": " I forget if you mentioned if the data sets were independent are you collecting independent"
+    },
+    {
+        "start": 3200.52,
+        "end": 3205.7200000000003,
+        "text": " data sets for each of these efforts? Yes so in this particular case in this particular example"
+    },
+    {
+        "start": 3205.7200000000003,
+        "end": 3212.12,
+        "text": " yeah there's data independence there's human independence there's framework independence there's"
+    },
+    {
+        "start": 3212.68,
+        "end": 3219.96,
+        "text": " architecture independence on the network yeah you would want to bring as much independence as"
+    },
+    {
+        "start": 3219.96,
+        "end": 3228.52,
+        "text": " possible to to make sure that that that the sign is is what it should be. The basic idea is that"
+    },
+    {
+        "start": 3228.52,
+        "end": 3237.88,
+        "text": " each of these systems independently you know due to the nature of the like the statistical nature"
+    },
+    {
+        "start": 3237.96,
+        "end": 3244.6,
+        "text": " of the models could only achieve a D level certification but with them acting independently or"
+    },
+    {
+        "start": 3245.7200000000003,
+        "end": 3250.36,
+        "text": " kind of this architectural mitigation you're able to certify to the higher level."
+    },
+    {
+        "start": 3251.2400000000002,
+        "end": 3255.4,
+        "text": " That's exactly right and yeah it's an interesting concept interesting idea."
+    },
+    {
+        "start": 3257.8,
+        "end": 3263.88,
+        "text": " Of course you you will also need perhaps to to complement this you would also need some"
+    },
+    {
+        "start": 3264.04,
+        "end": 3272.04,
+        "text": " pre-processing step and post-processing step right there's these two you know DALTY neural networks"
+    },
+    {
+        "start": 3272.04,
+        "end": 3277.8,
+        "text": " will not run in isolation they would need something to go along with right and so these pre-processing"
+    },
+    {
+        "start": 3277.8,
+        "end": 3281.7200000000003,
+        "text": " and post-processing step especially the post-processing step is very important because that's how we"
+    },
+    {
+        "start": 3281.7200000000003,
+        "end": 3288.76,
+        "text": " are doing the safety monitoring right they have to be DALC so they these systems cannot be DALTY"
+    },
+    {
+        "start": 3289.32,
+        "end": 3294.36,
+        "text": " right so they need to be DALC they need to be of the higher level of criticality."
+    },
+    {
+        "start": 3295.0800000000004,
+        "end": 3300.92,
+        "text": " That post-processing for example would be you know some kind of quorum mechanism or whatever is"
+    },
+    {
+        "start": 3300.92,
+        "end": 3307.32,
+        "text": " looking to make sure that to correlate the two decisions. Yeah exactly that's exactly right so"
+    },
+    {
+        "start": 3307.32,
+        "end": 3312.36,
+        "text": " some quorum mechanism perhaps you know you want to have some sort of voting system in the context"
+    },
+    {
+        "start": 3312.36,
+        "end": 3316.76,
+        "text": " of two networks it's challenging so in the context of two networks you would want to do something"
+    },
+    {
+        "start": 3316.84,
+        "end": 3322.5200000000004,
+        "text": " perhaps along the lines of intersection over union of the output so if the intersection over union"
+    },
+    {
+        "start": 3322.5200000000004,
+        "end": 3331.7200000000003,
+        "text": " of the bounding box is above let's say 80% then you consider the output to be correct right"
+    },
+    {
+        "start": 3333.0,
+        "end": 3337.88,
+        "text": " that's that's one of the metrics we're we're looked into for instance so you would have to have"
+    },
+    {
+        "start": 3337.88,
+        "end": 3345.6400000000003,
+        "text": " these safety monitoring nets not a network but safety monitoring component after after the"
+    },
+    {
+        "start": 3345.7999999999997,
+        "end": 3355.0,
+        "text": " DALTY components so so far we've talked primarily about kind of existing machine learning models"
+    },
+    {
+        "start": 3355.0,
+        "end": 3362.52,
+        "text": " neural network architectures and maybe varying them a little bit for testing in the case of these"
+    },
+    {
+        "start": 3362.52,
+        "end": 3370.8399999999997,
+        "text": " abstract transformers but are there efforts to build models that are more suitable for these"
+    },
+    {
+        "start": 3370.84,
+        "end": 3378.52,
+        "text": " types of safety critical systems kind of inherently right so yeah definitely so the space where we are"
+    },
+    {
+        "start": 3379.88,
+        "end": 3384.92,
+        "text": " we've seen some interesting progress perhaps not as much consolidated research but"
+    },
+    {
+        "start": 3384.92,
+        "end": 3388.76,
+        "text": " but it is very appealing to me it's the constrained deep learning area and"
+    },
+    {
+        "start": 3390.44,
+        "end": 3396.2000000000003,
+        "text": " constrained deep learning it's it's it's quite simple if so if you're familiar with physics"
+    },
+    {
+        "start": 3396.2,
+        "end": 3401.96,
+        "text": " informed machine learning it's similar concept but has a little twist it's it's basically an"
+    },
+    {
+        "start": 3401.96,
+        "end": 3408.04,
+        "text": " approach to train a deep neural network by incorporating domain specific constraints in the learning"
+    },
+    {
+        "start": 3408.04,
+        "end": 3417.64,
+        "text": " process so the idea is is for instance that that you you integrate a constrained into the construction"
+    },
+    {
+        "start": 3417.64,
+        "end": 3425.0,
+        "text": " of the network that guarantees a desirable property of the network for instance in the context of"
+    },
+    {
+        "start": 3425.0,
+        "end": 3429.64,
+        "text": " some of the examples we were mentioning earlier a battery seat of charge right so you could perhaps"
+    },
+    {
+        "start": 3430.2,
+        "end": 3437.64,
+        "text": " guarantee that the network is monotonic or the output of the network is monotonic by design"
+    },
+    {
+        "start": 3438.28,
+        "end": 3442.92,
+        "text": " in battery seat of charge estimation you would like a good property could be to have the network"
+    },
+    {
+        "start": 3442.92,
+        "end": 3447.64,
+        "text": " to be monotonically increasing as the battery is charging right or monotonically decreasing as the"
+    },
+    {
+        "start": 3447.64,
+        "end": 3455.8799999999997,
+        "text": " battery is off charge there are there are there are there are other examples so and for instance you"
+    },
+    {
+        "start": 3455.8799999999997,
+        "end": 3462.2,
+        "text": " would have to you would be not only interested in making sure that the network is monotonic perhaps"
+    },
+    {
+        "start": 3462.2,
+        "end": 3470.68,
+        "text": " you wanted the network to be bounded right or the network to be convex and I like the convex"
+    },
+    {
+        "start": 3470.68,
+        "end": 3480.12,
+        "text": " example because it's it's quite relatable so in in simple terms you can think of that so I can"
+    },
+    {
+        "start": 3480.12,
+        "end": 3485.48,
+        "text": " make sure what does that convex function right so if we look back and see what it is so basically"
+    },
+    {
+        "start": 3485.48,
+        "end": 3493.24,
+        "text": " a convex function is convex if if you are able to within the function you know connect any two"
+    },
+    {
+        "start": 3493.24,
+        "end": 3503.08,
+        "text": " points and the line segment connecting the two points you know lies you know lies above the curve"
+    },
+    {
+        "start": 3503.08,
+        "end": 3509.9599999999996,
+        "text": " or the curve lies lies below right on the curve itself so so you can think of a function that has"
+    },
+    {
+        "start": 3509.9599999999996,
+        "end": 3516.4399999999996,
+        "text": " you know a u-shaped right that's a convex function and now this is perhaps interesting in the"
+    },
+    {
+        "start": 3516.44,
+        "end": 3522.6,
+        "text": " context of of optimization problems because convex function have only like one minimum right"
+    },
+    {
+        "start": 3523.88,
+        "end": 3529.96,
+        "text": " and so it makes easier to find the best solution without really getting stuck in local minima right"
+    },
+    {
+        "start": 3531.56,
+        "end": 3538.92,
+        "text": " so for instance when when minimizing a convex objective function numerically yeah you don't have"
+    },
+    {
+        "start": 3539.0,
+        "end": 3548.28,
+        "text": " a risk of getting stuck and having a network that is a convex function is is very useful in some fields so"
+    },
+    {
+        "start": 3549.7200000000003,
+        "end": 3554.92,
+        "text": " what I mean by a network that is a convex function is that okay so the output of the network is convex"
+    },
+    {
+        "start": 3554.92,
+        "end": 3563.4,
+        "text": " right so for instance in model predictive control where you the goal is you perhaps have an"
+    },
+    {
+        "start": 3563.4,
+        "end": 3569.96,
+        "text": " optimization problem you would want neural network to predict let's say energy consumption right"
+    },
+    {
+        "start": 3570.76,
+        "end": 3581.32,
+        "text": " and you you can guarantee that the network is convex if you build the network in some specific way"
+    },
+    {
+        "start": 3582.36,
+        "end": 3590.28,
+        "text": " right building a convex network starts with some basic operations so if you use convolution or"
+    },
+    {
+        "start": 3590.44,
+        "end": 3598.0400000000004,
+        "text": " or fully connected dense layers these operations are basically convex because linear functions always"
+    },
+    {
+        "start": 3598.0400000000004,
+        "end": 3605.4,
+        "text": " satisfy convexity right so if you add like convex functions the the output is convex now the problem"
+    },
+    {
+        "start": 3605.4,
+        "end": 3612.6800000000003,
+        "text": " is when when you add the non-linear activation functions so with rally functions for instance"
+    },
+    {
+        "start": 3613.56,
+        "end": 3623.72,
+        "text": " so to to what you do is to to make sure that whenever you introduce activation functions you keep"
+    },
+    {
+        "start": 3624.7599999999998,
+        "end": 3630.6,
+        "text": " convexity in place you need to use activation functions that are both non-decreasing and our convex"
+    },
+    {
+        "start": 3630.6,
+        "end": 3636.2,
+        "text": " and so the rally function that that we were I was mentioning is is a good example it fits it fits"
+    },
+    {
+        "start": 3636.2,
+        "end": 3641.08,
+        "text": " well here however a function that is like a sigmoid function it doesn't preserve convexity right"
+    },
+    {
+        "start": 3641.08,
+        "end": 3649.72,
+        "text": " because they are convex they aren't really convex at cross-entire space so that that that is an"
+    },
+    {
+        "start": 3649.72,
+        "end": 3657.72,
+        "text": " interesting an interesting problem right so so for instance let's say trying to think about a problem"
+    },
+    {
+        "start": 3657.7999999999997,
+        "end": 3670.12,
+        "text": " here where yeah so if you are trying to perhaps estimate energy consumption or fuel consumption"
+    },
+    {
+        "start": 3671.24,
+        "end": 3676.4399999999996,
+        "text": " you might have some input to the network the input to the network might be something like"
+    },
+    {
+        "start": 3677.3999999999996,
+        "end": 3684.12,
+        "text": " perhaps it's the steering angle the speed or you know the force that you're putting on the throttle"
+    },
+    {
+        "start": 3684.12,
+        "end": 3691.56,
+        "text": " at some point in time if you are able to create a convex function right you would be able to"
+    },
+    {
+        "start": 3691.56,
+        "end": 3698.52,
+        "text": " minimize the the output of the network given that you know the function is is convex and has one"
+    },
+    {
+        "start": 3698.52,
+        "end": 3706.44,
+        "text": " only only one global minima and so that I kind of see this as a very appealing space because"
+    },
+    {
+        "start": 3708.2799999999997,
+        "end": 3713.0,
+        "text": " instead of having to formally prove a property of an neural network you're you're baking in that"
+    },
+    {
+        "start": 3713.0,
+        "end": 3720.04,
+        "text": " property into the design of the network itself by making sure that you know you're you're using"
+    },
+    {
+        "start": 3720.04,
+        "end": 3727.08,
+        "text": " an aggregation of of convex functions or layers as you put them together and then finally when"
+    },
+    {
+        "start": 3727.08,
+        "end": 3731.88,
+        "text": " you want to train the convex network of course there's there's something that you need to take"
+    },
+    {
+        "start": 3731.88,
+        "end": 3739.96,
+        "text": " care into there you need to make sure that you force positive constraints to the whites right so"
+    },
+    {
+        "start": 3739.96,
+        "end": 3747.32,
+        "text": " basically the idea is that with its training iteration you need to apply a non-negative constraint"
+    },
+    {
+        "start": 3747.32,
+        "end": 3751.8,
+        "text": " similar to a rally function to kind of keeps the weights positive if the weights are kept to be"
+    },
+    {
+        "start": 3751.8,
+        "end": 3759.2400000000002,
+        "text": " positive then then definitely the you will be training a convex network there might be some"
+    },
+    {
+        "start": 3759.2400000000002,
+        "end": 3765.96,
+        "text": " challenges of course there's there's no free lunch which is for instance in the context of"
+    },
+    {
+        "start": 3765.96,
+        "end": 3772.52,
+        "text": " classification problems softmax functions right don't preserve convexity and so when you when"
+    },
+    {
+        "start": 3772.52,
+        "end": 3780.76,
+        "text": " you work with with classification problems we we cannot use the softmax layer and so we lose the"
+    },
+    {
+        "start": 3780.76,
+        "end": 3785.7200000000003,
+        "text": " probabilistic interpretation of the of the outputs but that's perhaps you know something that"
+    },
+    {
+        "start": 3785.7200000000003,
+        "end": 3792.6,
+        "text": " that is okay to have as long as we're able to train to train the convex network"
+    },
+    {
+        "start": 3793.16,
+        "end": 3798.52,
+        "text": " it's okay to have because there are acceptable alternatives yeah at the end of the day you're"
+    },
+    {
+        "start": 3798.52,
+        "end": 3804.36,
+        "text": " going to lose the that probabilistic interpretation of the of the output that but you will be still"
+    },
+    {
+        "start": 3805.16,
+        "end": 3810.7599999999998,
+        "text": " be able to to determine what the right output is right so you basically look into the"
+    },
+    {
+        "start": 3810.7599999999998,
+        "end": 3815.64,
+        "text": " class fully connected layer and you have an idea of what what is the class what is the right class"
+    },
+    {
+        "start": 3815.64,
+        "end": 3821.4,
+        "text": " for the the problem itself yeah assuming that we can do this like in this you know what we've been"
+    },
+    {
+        "start": 3821.4,
+        "end": 3829.08,
+        "text": " talking about here using convex neural networks as opposed to more traditional alternatives to the"
+    },
+    {
+        "start": 3829.08,
+        "end": 3836.6800000000003,
+        "text": " architecture you know kind of pulling on that no free lunch thread like what is the what's the"
+    },
+    {
+        "start": 3836.6800000000003,
+        "end": 3843.64,
+        "text": " catch like why aren't we just using those you mentioned the probabilistic interpretation for"
+    },
+    {
+        "start": 3843.64,
+        "end": 3850.52,
+        "text": " classification are there other areas where it's you know is it perform equally well or do you"
+    },
+    {
+        "start": 3850.52,
+        "end": 3858.04,
+        "text": " have to give up some degree of performance are there other other non-desirable properties"
+    },
+    {
+        "start": 3858.52,
+        "end": 3864.04,
+        "text": " what do you think there yeah there's definitely a tradeoff right you you you you got it right um"
+    },
+    {
+        "start": 3865.48,
+        "end": 3870.28,
+        "text": " I think the most significant tradeoff is that convergence slows down"
+    },
+    {
+        "start": 3872.28,
+        "end": 3879.32,
+        "text": " and so because you're introducing so when when you're basically casting all the of the weights to"
+    },
+    {
+        "start": 3879.48,
+        "end": 3883.88,
+        "text": " be positive you're you're you're introducing some noise into the training process that that doesn't go"
+    },
+    {
+        "start": 3883.88,
+        "end": 3892.92,
+        "text": " unnoticed right and so um also convergence definitely slows down uh indeed it might require a more"
+    },
+    {
+        "start": 3892.92,
+        "end": 3899.0800000000004,
+        "text": " complex network architecture to be able to deal with you know the the non-linearities in the data"
+    },
+    {
+        "start": 3899.0800000000004,
+        "end": 3906.28,
+        "text": " set of the non-linearities present in the data set but um that said it is um"
+    },
+    {
+        "start": 3906.28,
+        "end": 3913.1600000000003,
+        "text": " um it is it is perhaps a good a good a good tradeoff to look into right I mean um"
+    },
+    {
+        "start": 3913.96,
+        "end": 3919.0800000000004,
+        "text": " the alternative it's it's in the context of satirical scenarios and situations that you might"
+    },
+    {
+        "start": 3919.0800000000004,
+        "end": 3926.76,
+        "text": " have to deal with the alternative it's it's worse perhaps right so it's um it's it's part of the"
+    },
+    {
+        "start": 3926.76,
+        "end": 3932.1200000000003,
+        "text": " um it's part of the techniques and the methods that one should have available or at their"
+    },
+    {
+        "start": 3932.12,
+        "end": 3937.7999999999997,
+        "text": " disposal when putting together a model and training it you should think about uh not only"
+    },
+    {
+        "start": 3937.7999999999997,
+        "end": 3943.3199999999997,
+        "text": " performance wise or not only accuracy wise what the base model is but perhaps also to what"
+    },
+    {
+        "start": 3943.3199999999997,
+        "end": 3951.72,
+        "text": " is some of the other good properties that my system should have um and and and try to figure out"
+    },
+    {
+        "start": 3951.72,
+        "end": 3958.2,
+        "text": " if if there's an opportunity or there's a way uh to to build the model in in such a way because"
+    },
+    {
+        "start": 3958.2,
+        "end": 3963.64,
+        "text": " ultimately we will get a more reliable model right uh I guess I'm trying to get past the feeling"
+    },
+    {
+        "start": 3963.64,
+        "end": 3971.8799999999997,
+        "text": " that it's harder than you're saying like uh you know why why isn't this approach more uh"
+    },
+    {
+        "start": 3971.8799999999997,
+        "end": 3976.52,
+        "text": " dominant all of the issues that you're you know that we've been talking about in the context of"
+    },
+    {
+        "start": 3976.52,
+        "end": 3982.12,
+        "text": " safety critical systems like people want the same things for non-safety critical systems like"
+    },
+    {
+        "start": 3982.2,
+        "end": 3990.2,
+        "text": " robustness and explainability and and these kinds of things you know is is there a lot of research"
+    },
+    {
+        "start": 3991.88,
+        "end": 3997.88,
+        "text": " you know I guess you know why isn't there more research being done into using these convex"
+    },
+    {
+        "start": 3997.88,
+        "end": 4004.7599999999998,
+        "text": " neural networks why aren't we using them more um I'm just trying to kind of wrap my head around"
+    },
+    {
+        "start": 4004.7599999999998,
+        "end": 4010.44,
+        "text": " around that yeah no it's it's a valid it's a valid question that I've I've gone through myself I"
+    },
+    {
+        "start": 4010.44,
+        "end": 4016.2000000000003,
+        "text": " guess as well at some point um it's just like we glammed onto something that worked and then we're"
+    },
+    {
+        "start": 4016.2000000000003,
+        "end": 4022.04,
+        "text": " running with it and the kind of not putting enough energy to these things that are you know a little"
+    },
+    {
+        "start": 4022.04,
+        "end": 4031.2400000000002,
+        "text": " bit out of that strike zone or are there you know drawbacks that are you know well you know for"
+    },
+    {
+        "start": 4031.2400000000002,
+        "end": 4036.12,
+        "text": " example you mentioned it takes longer to converge is is that mean it just takes a lot longer to"
+    },
+    {
+        "start": 4036.12,
+        "end": 4043.96,
+        "text": " converge or you know it can it takes longer and it only converges one out of 10 times or like"
+    },
+    {
+        "start": 4044.2799999999997,
+        "end": 4049.4,
+        "text": " so in my experience yes it does take longer to converge it's it's not"
+    },
+    {
+        "start": 4051.16,
+        "end": 4060.6,
+        "text": " drastic change in the process itself so um I've seen yeah you know going from toy examples to more"
+    },
+    {
+        "start": 4060.6,
+        "end": 4067.24,
+        "text": " complicated examples convergence uh or the time to convergence increases you know somewhere between"
+    },
+    {
+        "start": 4069.3199999999997,
+        "end": 4078.2799999999997,
+        "text": " uh 20% to 50% so it's definitely you know impacting um the training process in in in in a good way"
+    },
+    {
+        "start": 4078.2799999999997,
+        "end": 4084.2,
+        "text": " but because ultimately we're yes we're taking longer to train but but we are getting a"
+    },
+    {
+        "start": 4085.16,
+        "end": 4094.04,
+        "text": " uh a network that better represents what we're after right I mean it it may seem simple but yeah I"
+    },
+    {
+        "start": 4094.04,
+        "end": 4099.48,
+        "text": " think with with I guess with the physics and informal networks we have been more often trying to"
+    },
+    {
+        "start": 4099.48,
+        "end": 4105.96,
+        "text": " bake that uh physics into the networks themselves right this isn't really necessarily well there's"
+    },
+    {
+        "start": 4105.96,
+        "end": 4113.48,
+        "text": " some form of physics that we're adding into the the design of the network but it's more in the sense of"
+    },
+    {
+        "start": 4115.16,
+        "end": 4121.48,
+        "text": " thinking about the safety or thinking about uh the the the reliability of the models"
+    },
+    {
+        "start": 4123.16,
+        "end": 4129.08,
+        "text": " when we did our research and when we put together this uh GitHub repo on on constrained deep learning"
+    },
+    {
+        "start": 4129.72,
+        "end": 4136.84,
+        "text": " um perhaps a year ago or so we noted that yes there is research out there there's good research"
+    },
+    {
+        "start": 4137.32,
+        "end": 4143.4,
+        "text": " but it's very scattered and it's it's it's hard to find like a good you know sometimes there's there's a"
+    },
+    {
+        "start": 4143.4,
+        "end": 4150.12,
+        "text": " good central point for for looking into um these different verse these different techniques and there's"
+    },
+    {
+        "start": 4150.759999999999,
+        "end": 4157.16,
+        "text": " their libraries out there we we didn't find like a good set of libraries that would cover the space"
+    },
+    {
+        "start": 4157.16,
+        "end": 4164.36,
+        "text": " of constrained deep learning you know monotonicity boundiness robustness lips its continuity all these"
+    },
+    {
+        "start": 4164.36,
+        "end": 4169.96,
+        "text": " you know good properties that you want to neural network to have uh for you know some examples"
+    },
+    {
+        "start": 4169.96,
+        "end": 4177.32,
+        "text": " we we didn't find a um a good source a good repo and so we decided to build one right so um"
+    },
+    {
+        "start": 4178.36,
+        "end": 4184.6,
+        "text": " I think this is an interesting is it the case maybe that that i'm not catching on to like use case"
+    },
+    {
+        "start": 4184.6,
+        "end": 4192.84,
+        "text": " constraints in the sense of like does or do you only get these properties if you're you know data"
+    },
+    {
+        "start": 4192.92,
+        "end": 4200.68,
+        "text": " or problem match a particular pattern like our linear or convex themselves in some way and"
+    },
+    {
+        "start": 4200.68,
+        "end": 4206.92,
+        "text": " most of the things we want to do don't have those properties or is it just that it takes a little"
+    },
+    {
+        "start": 4206.92,
+        "end": 4211.4800000000005,
+        "text": " bit longer to train but then you have a network that it just doesn't it doesn't seem like uh"
+    },
+    {
+        "start": 4214.04,
+        "end": 4220.2,
+        "text": " again i'm trying to just poke at like uh why are we doing this more like for example like i'm"
+    },
+    {
+        "start": 4220.2,
+        "end": 4227.32,
+        "text": " thinking of it a little bit analogous to um you know another type of like gauge equivariants"
+    },
+    {
+        "start": 4227.32,
+        "end": 4233.5599999999995,
+        "text": " and stuff like that and like those networks have great properties but the data has to you know fit in"
+    },
+    {
+        "start": 4234.5199999999995,
+        "end": 4241.48,
+        "text": " you know has to exhibit this type of symmetry that you know not doesn't apply to all problems is"
+    },
+    {
+        "start": 4241.48,
+        "end": 4248.28,
+        "text": " there a similar kind of thing here where you know it works great but you have a narrow band of"
+    },
+    {
+        "start": 4248.28,
+        "end": 4253.32,
+        "text": " application so yeah i think it's a good analogy so what i'm seeing is that um"
+    },
+    {
+        "start": 4257.4,
+        "end": 4262.36,
+        "text": " it's so being able to one of the things we know to just when we put this together is that"
+    },
+    {
+        "start": 4263.24,
+        "end": 4270.2,
+        "text": " being able to come up with a tool that allows you to build these type of uh"
+    },
+    {
+        "start": 4271.639999999999,
+        "end": 4277.16,
+        "text": " uh or bake these type of properties into the networks themselves it's um"
+    },
+    {
+        "start": 4277.96,
+        "end": 4284.28,
+        "text": " it's it's hard to find because you need to build this on a case by case right so for instance if we"
+    },
+    {
+        "start": 4284.28,
+        "end": 4289.5599999999995,
+        "text": " are putting together like a convex network we want to put together a convex network and i already"
+    },
+    {
+        "start": 4289.5599999999995,
+        "end": 4296.84,
+        "text": " have a network that i've trained how do i make that network convex right it's it's it's it's it's not"
+    },
+    {
+        "start": 4296.84,
+        "end": 4304.28,
+        "text": " obvious um yes if of course in principle you know the the sum of convex outputs would be convex and"
+    },
+    {
+        "start": 4304.28,
+        "end": 4310.04,
+        "text": " you know forcing this positive weights would allow it to continue having convexity and you know"
+    },
+    {
+        "start": 4310.04,
+        "end": 4316.84,
+        "text": " making sure that you don't use things like sigmoid or softmax and that will guarantee that the"
+    },
+    {
+        "start": 4316.84,
+        "end": 4324.5199999999995,
+        "text": " output continues to be convex but the thing that i've haven't seen um out there and which you know"
+    },
+    {
+        "start": 4324.5199999999995,
+        "end": 4329.96,
+        "text": " triggered our interest in this space and putting together some tooling around it was being able to"
+    },
+    {
+        "start": 4329.96,
+        "end": 4337.72,
+        "text": " say all right build me a convex network with this number of features uh with um this number of hidden"
+    },
+    {
+        "start": 4337.72,
+        "end": 4343.24,
+        "text": " layers in the first layer second layer third layer and so on and that gives you you know um an"
+    },
+    {
+        "start": 4343.24,
+        "end": 4350.68,
+        "text": " architecture right away that you can train with the data that you have available um i think the gap"
+    },
+    {
+        "start": 4350.68,
+        "end": 4358.12,
+        "text": " has been that there's been some very good research for um there's different areas but it's it's"
+    },
+    {
+        "start": 4358.12,
+        "end": 4366.76,
+        "text": " been challenging to come up with um a framework that captures all this together and into a"
+    },
+    {
+        "start": 4366.76,
+        "end": 4372.76,
+        "text": " consumable way for for the end user the machine learner practitioner uh instead i believe that"
+    },
+    {
+        "start": 4372.76,
+        "end": 4378.76,
+        "text": " what's what's been happening is that as um perhaps as a machine learning or a data scientist you"
+    },
+    {
+        "start": 4378.76,
+        "end": 4383.88,
+        "text": " you've had to you know on a case by case every time you were thinking about putting together this"
+    },
+    {
+        "start": 4383.88,
+        "end": 4390.76,
+        "text": " network you would have to um build a network with this ideas in mind your or maybe the question is"
+    },
+    {
+        "start": 4390.76,
+        "end": 4399.24,
+        "text": " like is there are there inherent reasons why you know sometime in the future you know i couldn't"
+    },
+    {
+        "start": 4400.04,
+        "end": 4408.12,
+        "text": " have the opportunity within my you know on hugging face or someplace to download you know yellow v12"
+    },
+    {
+        "start": 4408.12,
+        "end": 4417.5599999999995,
+        "text": " and yellow v12 convex like is it just not that simple and you have to you know manually convert it"
+    },
+    {
+        "start": 4417.5599999999995,
+        "end": 4425.72,
+        "text": " for every particular use case and there can never be you know a library of convex models like we have"
+    },
+    {
+        "start": 4425.72,
+        "end": 4433.48,
+        "text": " for non-convex models uh or are we just not there yet but we could be there if we spent"
+    },
+    {
+        "start": 4433.639999999999,
+        "end": 4438.759999999999,
+        "text": " enough time on it yeah i would i would think so i think i think we're not there yet but but definitely"
+    },
+    {
+        "start": 4438.759999999999,
+        "end": 4446.679999999999,
+        "text": " we could be and and like you said i think well i'm uh yellow v12 will who knows who uh what what"
+    },
+    {
+        "start": 4446.679999999999,
+        "end": 4453.16,
+        "text": " that would look like but but perhaps well it's not that far it's not that far away right um but but"
+    },
+    {
+        "start": 4453.16,
+        "end": 4460.04,
+        "text": " definitely what um what would make sense is okay so we're looking to uh the yellow"
+    },
+    {
+        "start": 4460.68,
+        "end": 4465.72,
+        "text": " um v12 architecture in that case into the future and see okay so what is making this"
+    },
+    {
+        "start": 4466.84,
+        "end": 4473.4,
+        "text": " network to be non-convex or what is making you know this network to be you know uh not having a"
+    },
+    {
+        "start": 4473.4,
+        "end": 4481.24,
+        "text": " specific property i tried to understand if we can add that property to the network itself by changing"
+    },
+    {
+        "start": 4481.24,
+        "end": 4487.08,
+        "text": " some of the weights or by changing some of the uh layers to the network the activation layers"
+    },
+    {
+        "start": 4487.64,
+        "end": 4492.5199999999995,
+        "text": " perhaps we need some skip connections perhaps we need to connect the the layers slightly different"
+    },
+    {
+        "start": 4492.5199999999995,
+        "end": 4499.5599999999995,
+        "text": " to make sure that this property is is preserved uh by design or is baked by design into the network"
+    },
+    {
+        "start": 4499.5599999999995,
+        "end": 4505.5599999999995,
+        "text": " architecture and then the whole story on a verification becomes much simpler right because"
+    },
+    {
+        "start": 4506.5199999999995,
+        "end": 4513.8,
+        "text": " you just have that property by design and if if you're able to come up with you know the"
+    },
+    {
+        "start": 4513.8,
+        "end": 4522.04,
+        "text": " accuracy results that um that that your requirements um are asking you to get then"
+    },
+    {
+        "start": 4522.84,
+        "end": 4530.2,
+        "text": " then it makes sense to choose that as as a preferred option um but yeah i would uh this is a"
+    },
+    {
+        "start": 4531.0,
+        "end": 4535.4800000000005,
+        "text": " this is an interesting area of research too um i think there's there's definitely more that"
+    },
+    {
+        "start": 4535.4800000000005,
+        "end": 4543.4800000000005,
+        "text": " needs to happen uh we will continue to make progress in this space and um and hopefully yeah see some"
+    },
+    {
+        "start": 4543.959999999999,
+        "end": 4551.0,
+        "text": " some some new advancements that allow users not to not to have to spend a lot of time in the verification"
+    },
+    {
+        "start": 4551.0,
+        "end": 4558.04,
+        "text": " face well look us thanks so much for uh jumping on and going through some of your experiences with"
+    },
+    {
+        "start": 4559.4,
+        "end": 4566.28,
+        "text": " validation verification and safety critical yeah yeah thanks so much thanks for having me thank you"
+    },
+    {
+        "start": 4573.48,
+        "end": 4575.099999999999,
+        "text": " um"
+    }
+]

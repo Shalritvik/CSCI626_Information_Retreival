@@ -1,0 +1,232 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.92,
+        "text": " Hello and welcome to the Friday November 22nd, 2020, 4 edition of the Science and Ed Stombs"
+    },
+    {
+        "start": 7.92,
+        "end": 14.120000000000001,
+        "text": " and Stormcast, my name is Johannes Ulrich and I'm recording from Singapore."
+    },
+    {
+        "start": 14.120000000000001,
+        "end": 20.64,
+        "text": " Did he look at some fishing emails that made the news recently?"
+    },
+    {
+        "start": 20.64,
+        "end": 28.72,
+        "text": " These fishing attachments are actually using the little bit unusual SVG file format."
+    },
+    {
+        "start": 28.72,
+        "end": 34.32,
+        "text": " SVG is a vector-based image format. It's often used on webpages."
+    },
+    {
+        "start": 34.32,
+        "end": 41.12,
+        "text": " For example, on the United Storm Center, we have these little icons on the left that are encoded"
+    },
+    {
+        "start": 41.12,
+        "end": 48.879999999999995,
+        "text": " as SVG. The advantage of SVG is that because it's a vector format, it scales nicely."
+    },
+    {
+        "start": 48.879999999999995,
+        "end": 56.56,
+        "text": " It can also easily be embedded in a web page so you don't need to load additional files."
+    },
+    {
+        "start": 56.88,
+        "end": 63.6,
+        "text": " But attackers apparently are using these images in order to bypass detection rules."
+    },
+    {
+        "start": 64.4,
+        "end": 72.16,
+        "text": " In addition, SVG may embed JavaScript and that's being abused here in order to pull in the"
+    },
+    {
+        "start": 72.16,
+        "end": 80.72,
+        "text": " company's logo from a web service that offers company logos based on their domain name."
+    },
+    {
+        "start": 80.72,
+        "end": 86.8,
+        "text": " So if an attack is targeting a particular individual, then the domain name of the email address"
+    },
+    {
+        "start": 86.8,
+        "end": 93.52,
+        "text": " is being used to display that company's logo, which of course makes the attack more plausible."
+    },
+    {
+        "start": 93.52,
+        "end": 101.92,
+        "text": " Has seen similar things in the past on other fishing emails without SVG, but yes, the main point here"
+    },
+    {
+        "start": 101.92,
+        "end": 109.6,
+        "text": " of SVG is to bypass detection rules, not really to launch any fundamentally different attack."
+    },
+    {
+        "start": 110.96,
+        "end": 117.12,
+        "text": " And in today's weaknesses in enterprise security tools, we have a little bit of a minor issue"
+    },
+    {
+        "start": 117.12,
+        "end": 126.4,
+        "text": " in the 40-clined VPN. The issue here is logging. If an attacker launches a brute force attack with"
+    },
+    {
+        "start": 126.4,
+        "end": 134.88,
+        "text": " 40-clined, the failed login attempts are usually logged and that's good. So, but you also want to"
+    },
+    {
+        "start": 135.6,
+        "end": 143.68,
+        "text": " successful login events. And the problem here is that there is a two-stage process for the login"
+    },
+    {
+        "start": 143.68,
+        "end": 149.6,
+        "text": " and that's not bad. You first authenticate the credentials, then you check if the user actually"
+    },
+    {
+        "start": 149.6,
+        "end": 157.6,
+        "text": " has access. And after both stages are successfully passed, the successful login is logged."
+    },
+    {
+        "start": 157.6,
+        "end": 164.56,
+        "text": " The trick here is that an attacker may stop the process after the authentication stage."
+    },
+    {
+        "start": 164.56,
+        "end": 171.44,
+        "text": " So the attacker then knows that the credentials are valid, but is not completely logged in yet,"
+    },
+    {
+        "start": 171.44,
+        "end": 179.51999999999998,
+        "text": " has not gotten past the access control stage yet. And as a result, the successful attempt is not logged."
+    },
+    {
+        "start": 179.51999999999998,
+        "end": 186.16,
+        "text": " This is a problem for defenders because they don't know now that the attacker is aware of having"
+    },
+    {
+        "start": 186.16,
+        "end": 191.84,
+        "text": " valid credentials for this particular user. They could come later and directly use them from"
+    },
+    {
+        "start": 191.84,
+        "end": 199.04,
+        "text": " a different IT address, so you would not associate that successful login with the brute force attack."
+    },
+    {
+        "start": 199.04,
+        "end": 204.0,
+        "text": " But if you look at it, a bigger picture you probably should first implement multi-factor"
+    },
+    {
+        "start": 204.0,
+        "end": 209.68,
+        "text": " authentication before worrying about the details of logging, brute force attacks."
+    },
+    {
+        "start": 210.16,
+        "end": 215.36,
+        "text": " And just if you're excited about the talk about Palo Alto vulnerabilities,"
+    },
+    {
+        "start": 215.36,
+        "end": 222.24,
+        "text": " quite a bit lately, it turns out that according to some reports, now about 2000 of these Palo Alto"
+    },
+    {
+        "start": 222.24,
+        "end": 229.04000000000002,
+        "text": " systems have been compromised. At this point, you should certainly assume compromise if you are"
+    },
+    {
+        "start": 229.04000000000002,
+        "end": 239.20000000000002,
+        "text": " finding an unpatched Palo Alto system. And qualis published advisory with details regarding an"
+    },
+    {
+        "start": 239.2,
+        "end": 247.35999999999999,
+        "text": " interesting vulnerability in the Linux neat restart script. Need restart is being executed if you"
+    },
+    {
+        "start": 247.35999999999999,
+        "end": 256.0,
+        "text": " install or update software. As the name need restart implies, the tool then checks if anything"
+    },
+    {
+        "start": 256.0,
+        "end": 263.28,
+        "text": " has to be restarted on your system in order to load updated binaries for this particular"
+    },
+    {
+        "start": 263.28,
+        "end": 271.28,
+        "text": " process, like for example your web server. However, this can apply to a wide range of different"
+    },
+    {
+        "start": 271.28,
+        "end": 278.32,
+        "text": " software. And the problem here is if the process that needs to be restarted is actually a Python"
+    },
+    {
+        "start": 278.32,
+        "end": 285.03999999999996,
+        "text": " script. For example, this also applies to a couple other languages. Then the need restart script"
+    },
+    {
+        "start": 285.03999999999996,
+        "end": 291.76,
+        "text": " pulls the Python path from this particular process's environment. And of course, that process"
+    },
+    {
+        "start": 291.76,
+        "end": 298.4,
+        "text": " may be owned by a less privileged user. And as a result, that less privileged user can then"
+    },
+    {
+        "start": 298.4,
+        "end": 306.15999999999997,
+        "text": " trick need restart into running arbitrary code. The vulnerability has been addressed. And qualis"
+    },
+    {
+        "start": 306.15999999999997,
+        "end": 313.92,
+        "text": " also suggests configuration fix. Also, a couple other similar vulnerabilities, like some time of"
+    },
+    {
+        "start": 313.92,
+        "end": 321.12,
+        "text": " a creation time of a use type vulnerabilities that are also being addressed in this particular"
+    },
+    {
+        "start": 321.12,
+        "end": 329.36,
+        "text": " bulletin. Well, there's it for today. So thanks for listening. There will be no podcast on Monday"
+    },
+    {
+        "start": 329.36,
+        "end": 336.72,
+        "text": " due to my travel schedule. So talk to you again on Tuesday. Bye."
+    }
+]

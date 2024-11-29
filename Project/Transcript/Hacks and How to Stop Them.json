@@ -1,0 +1,2937 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.0,
+        "text": " This is an MPB Think Radio Podcast."
+    },
+    {
+        "start": 4.0,
+        "end": 14.0,
+        "text": " To hear previous shows, visit mpbonline.org or download the MPB Public Radio app to listen on your iPhone or Android phone on demand."
+    },
+    {
+        "start": 17.0,
+        "end": 20.0,
+        "text": " Do you drive a vehicle? Then you'll find AutoCorrect helpful."
+    },
+    {
+        "start": 20.0,
+        "end": 22.0,
+        "text": " As my tell them, coach Charlie's tip of the week."
+    },
+    {
+        "start": 22.0,
+        "end": 29.0,
+        "text": " Listen to our podcast with me, coach Charlie Melton on any podcast and platform or on the MPB Public Media app."
+    },
+    {
+        "start": 30.0,
+        "end": 37.0,
+        "text": " Hello, thanks for tuning in to Everyday Tech on MPB Think Radio."
+    },
+    {
+        "start": 37.0,
+        "end": 42.0,
+        "text": " Abraham Nanny here with my friends Sabir Abdel-Hawk and IT expert."
+    },
+    {
+        "start": 42.0,
+        "end": 46.0,
+        "text": " So here we go again another week and we have even more hacks to talk about."
+    },
+    {
+        "start": 46.0,
+        "end": 54.0,
+        "text": " From small time hacks like Spotify uploads on up to potentially the largest hack of all time in the National Public Data Breach."
+    },
+    {
+        "start": 54.0,
+        "end": 64.0,
+        "text": " It really seems like we can't catch a break but luckily the NSA has also issued a press release recently detailing how you can prevent cyber attacks on your personal smart devices."
+    },
+    {
+        "start": 64.0,
+        "end": 67.0,
+        "text": " We'll share those tips and explain them to you later."
+    },
+    {
+        "start": 67.0,
+        "end": 72.0,
+        "text": " Email everydaytech at mpbonline.org if you have any questions or comments."
+    },
+    {
+        "start": 72.0,
+        "end": 77.0,
+        "text": " Now Sabir, how you doing man? It is good to hear from you today. I hope you're doing well."
+    },
+    {
+        "start": 77.0,
+        "end": 81.0,
+        "text": " It's been like three weeks or something since we've been able to do this live."
+    },
+    {
+        "start": 81.0,
+        "end": 91.0,
+        "text": " Yes man, we want to try to stay on top of things and really try to make sure that we get on top of things."
+    },
+    {
+        "start": 91.0,
+        "end": 95.0,
+        "text": " Like you said, there's a lot of moving parts in terms of IT."
+    },
+    {
+        "start": 95.0,
+        "end": 105.0,
+        "text": " I had an issue today that I'm kind of dealing with and that's why I was like wow let me play it and at least be able to do my very best and try to call it in."
+    },
+    {
+        "start": 105.0,
+        "end": 107.0,
+        "text": " We can be able to have these discussions."
+    },
+    {
+        "start": 107.0,
+        "end": 117.0,
+        "text": " I just got off the phone with some higher powers and got everything cleared away."
+    },
+    {
+        "start": 117.0,
+        "end": 122.0,
+        "text": " Glad to be here. Glad to be able to listen in and listen in every talk with your brother."
+    },
+    {
+        "start": 122.0,
+        "end": 128.0,
+        "text": " Yeah, it's been a minute. You know, Jermaine, I got to tell you we are so happy and we appreciate Sabir man."
+    },
+    {
+        "start": 128.0,
+        "end": 131.0,
+        "text": " He is on top of things today."
+    },
+    {
+        "start": 131.0,
+        "end": 133.0,
+        "text": " What is the guru, the goat?"
+    },
+    {
+        "start": 133.0,
+        "end": 135.0,
+        "text": " Yeah, you don't be all."
+    },
+    {
+        "start": 135.0,
+        "end": 137.0,
+        "text": " I might be the sheep."
+    },
+    {
+        "start": 137.0,
+        "end": 141.0,
+        "text": " I might be a very skilled sheep. I'm working on goat."
+    },
+    {
+        "start": 141.0,
+        "end": 145.0,
+        "text": " Now you're close to goat status when it comes to IT though."
+    },
+    {
+        "start": 145.0,
+        "end": 147.0,
+        "text": " I'm Mary's little lamb."
+    },
+    {
+        "start": 147.0,
+        "end": 155.0,
+        "text": " It's been a good day when I was a lot going on."
+    },
+    {
+        "start": 155.0,
+        "end": 163.0,
+        "text": " My colleagues and I found that each of you that quickly had to get wrapped up yesterday and that kind of ate up because of us."
+    },
+    {
+        "start": 163.0,
+        "end": 165.0,
+        "text": " It's always something."
+    },
+    {
+        "start": 165.0,
+        "end": 167.0,
+        "text": " Shout out to end users."
+    },
+    {
+        "start": 167.0,
+        "end": 171.0,
+        "text": " The end user is anybody that an IT professional is going to work with."
+    },
+    {
+        "start": 171.0,
+        "end": 182.0,
+        "text": " Shout out to end users who communicate things quickly, thoroughly so we can go ahead and really wrap our minds around how to be able to fix something."
+    },
+    {
+        "start": 182.0,
+        "end": 184.0,
+        "text": " Because that impacts things."
+    },
+    {
+        "start": 184.0,
+        "end": 194.0,
+        "text": " And if we don't hear from really good reports from end users about how to deal with something, things think the thing is far a lot of people are affected more."
+    },
+    {
+        "start": 194.0,
+        "end": 205.0,
+        "text": " So it's out of the IT professionals that we try to focus on having good precise communications."
+    },
+    {
+        "start": 205.0,
+        "end": 211.0,
+        "text": " But also shout out to those customers to those end users that provide that information so that we can get things going on."
+    },
+    {
+        "start": 211.0,
+        "end": 213.0,
+        "text": " So if they don't spiral out of control."
+    },
+    {
+        "start": 213.0,
+        "end": 215.0,
+        "text": " Right."
+    },
+    {
+        "start": 215.0,
+        "end": 223.0,
+        "text": " Well, we're talking about dirt with your sand with some of the end-of-state thoughts and then some of these national security breaches and other stuff. That's crazy."
+    },
+    {
+        "start": 223.0,
+        "end": 229.0,
+        "text": " Yeah, absolutely. I mean, we always do this our goal here is to keep everyone as educated as possible."
+    },
+    {
+        "start": 229.0,
+        "end": 243.0,
+        "text": " And we appreciate, I'm sure you really appreciate the people that stay educated and stay on top of things that, you know, when they are having a problem, they can adequately express what the problem is."
+    },
+    {
+        "start": 243.0,
+        "end": 246.0,
+        "text": " Right. Right. And I love my color."
+    },
+    {
+        "start": 246.0,
+        "end": 248.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 248.0,
+        "end": 250.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 250.0,
+        "end": 252.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 252.0,
+        "end": 254.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 254.0,
+        "end": 256.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 256.0,
+        "end": 258.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 258.0,
+        "end": 260.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 260.0,
+        "end": 262.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 262.0,
+        "end": 264.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 264.0,
+        "end": 266.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 266.0,
+        "end": 268.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 268.0,
+        "end": 270.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 270.0,
+        "end": 272.0,
+        "text": " I love the color."
+    },
+    {
+        "start": 272.0,
+        "end": 273.76,
+        "text": " I love the color."
+    },
+    {
+        "start": 273.76,
+        "end": 275.76,
+        "text": " I love the color."
+    },
+    {
+        "start": 275.76,
+        "end": 278.96,
+        "text": " I love the color."
+    },
+    {
+        "start": 278.96,
+        "end": 280.96,
+        "text": " I love the color."
+    },
+    {
+        "start": 280.96,
+        "end": 282.96,
+        "text": " I really love the color."
+    },
+    {
+        "start": 282.96,
+        "end": 286.8,
+        "text": " I really love the color."
+    },
+    {
+        "start": 286.8,
+        "end": 288.08,
+        "text": " It's hey, you know,"
+    },
+    {
+        "start": 288.08,
+        "end": 290.08,
+        "text": " but yeah, the color is a different color."
+    },
+    {
+        "start": 290.08,
+        "end": 292.08,
+        "text": " The color is a different color."
+    },
+    {
+        "start": 292.08,
+        "end": 294.08,
+        "text": " But yeah."
+    },
+    {
+        "start": 294.08,
+        "end": 296.08,
+        "text": " It's better to have a change now."
+    },
+    {
+        "start": 296.08,
+        "end": 298.08,
+        "text": " And it has not changed a lot."
+    },
+    {
+        "start": 298.08,
+        "end": 299.32,
+        "text": " Joe, you know,"
+    },
+    {
+        "start": 299.32,
+        "end": 304.8,
+        "text": " Website to see the main features of each one they they have a little highlights of it and I looked at it"
+    },
+    {
+        "start": 304.8,
+        "end": 307.2,
+        "text": " And it looks like they've got like this haptic"
+    },
+    {
+        "start": 307.71999999999997,
+        "end": 311.7,
+        "text": " Touch sensor on the side of the iPhone 16 that helps with your camera"
+    },
+    {
+        "start": 313.71999999999997,
+        "end": 319.0,
+        "text": " So yeah, that's that's pretty cool, but that gets like Samsung did that like what four years ago"
+    },
+    {
+        "start": 319.0,
+        "end": 321.0,
+        "text": " I"
+    },
+    {
+        "start": 321.88,
+        "end": 324.28,
+        "text": " Should have known but yeah, good job for our phone"
+    },
+    {
+        "start": 324.88,
+        "end": 329.36,
+        "text": " Yeah, I guess I guess I should have known that that Samsung was already on top of that"
+    },
+    {
+        "start": 329.36,
+        "end": 333.2,
+        "text": " I hadn't seen that where you can like zoom in just by scrolling or like"
+    },
+    {
+        "start": 333.72,
+        "end": 340.24,
+        "text": " Not even scrolling. It's just like rubbing the side of your phone. You can zoom in and out and then you tap it to take a picture"
+    },
+    {
+        "start": 340.92,
+        "end": 348.12,
+        "text": " That's cool. That's not that I didn't know that's pretty cool. Yeah, I know a lot of a lot of Google or Android phones"
+    },
+    {
+        "start": 348.12,
+        "end": 352.2,
+        "text": " That the ability for example be built screenshot by passing your hand over the screen"
+    },
+    {
+        "start": 352.2,
+        "end": 357.88,
+        "text": " Mm-hmm. If you pass your handle and screen or do a screenshot for you going from left to right"
+    },
+    {
+        "start": 358.24,
+        "end": 360.76,
+        "text": " Right. Yeah, there's a lot of different things"
+    },
+    {
+        "start": 360.76,
+        "end": 365.48,
+        "text": " And that's I mean, that's cool that they work on something that makes sense and something that's really helpful and"
+    },
+    {
+        "start": 366.32,
+        "end": 370.96,
+        "text": " Now I do love you know, you know, you know, I'm always gonna give apples from crow"
+    },
+    {
+        "start": 370.96,
+        "end": 376.36,
+        "text": " But I mean, you know, I they do come up with some really ingenious and innovative ideas though"
+    },
+    {
+        "start": 376.36,
+        "end": 383.8,
+        "text": " Yeah, that sounds pretty cool. Yeah, and then there was also the Apple watch series 10 that was announced and it mostly"
+    },
+    {
+        "start": 383.8,
+        "end": 386.48,
+        "text": " Looks like they're updating the fitness features on that"
+    },
+    {
+        "start": 387.24,
+        "end": 389.24,
+        "text": " So like more advanced like"
+    },
+    {
+        "start": 390.04,
+        "end": 393.64,
+        "text": " If you wear it in your sleep it could tell you oh, you might have sleep at me. Yeah"
+    },
+    {
+        "start": 394.36,
+        "end": 398.40000000000003,
+        "text": " You know your heartbeat is a little too fast when you're working out something like that"
+    },
+    {
+        "start": 400.04,
+        "end": 403.16,
+        "text": " And that's that's pretty that's needed especially"
+    },
+    {
+        "start": 404.12,
+        "end": 406.96000000000004,
+        "text": " Be back me and stuff and everything else I know folks have got that and"
+    },
+    {
+        "start": 407.96000000000004,
+        "end": 410.04,
+        "text": " Yeah, who doesn't know worse and the launching"
+    },
+    {
+        "start": 418.76000000000005,
+        "end": 422.04,
+        "text": " Yeah, and then the air pods for which apparently"
+    },
+    {
+        "start": 422.76000000000005,
+        "end": 428.44000000000005,
+        "text": " Has really improved and there's a hearing aid feature on the air pods"
+    },
+    {
+        "start": 429.4,
+        "end": 434.52,
+        "text": " According to our friends Shane Chisholm who is also on the show okay occasionally"
+    },
+    {
+        "start": 445.32,
+        "end": 451.0,
+        "text": " So I imagine that is really helpful and you know if you wanted to flip between"
+    },
+    {
+        "start": 451.15999999999997,
+        "end": 454.48,
+        "text": " You're hearing aid and your air pods. You don't have to do that as much anymore"
+    },
+    {
+        "start": 454.56,
+        "end": 460.24,
+        "text": " I guess I'm really not sure how that works, but it is an interesting feature now"
+    },
+    {
+        "start": 460.64000000000004,
+        "end": 467.28000000000003,
+        "text": " I said in the beginning that we're gonna be talking about hacks today and this first hack was I said it small time"
+    },
+    {
+        "start": 467.6,
+        "end": 470.40000000000003,
+        "text": " But I can't lie that it bothers me so much"
+    },
+    {
+        "start": 471.44,
+        "end": 476.08000000000004,
+        "text": " um is a small time Spotify upload hack so many"
+    },
+    {
+        "start": 476.64000000000004,
+        "end": 479.76,
+        "text": " metal artists on Spotify had their"
+    },
+    {
+        "start": 480.71999999999997,
+        "end": 482.71999999999997,
+        "text": " had their pages hacked and"
+    },
+    {
+        "start": 483.76,
+        "end": 488.4,
+        "text": " Like AI music was uploaded onto their pages so artists like"
+    },
+    {
+        "start": 489.03999999999996,
+        "end": 492.96,
+        "text": " Like bands like devilish protest silent planet many of you guys don't know these bands"
+    },
+    {
+        "start": 494.15999999999997,
+        "end": 500.24,
+        "text": " But like 20 something bands had their pages hacked and had their listeners"
+    },
+    {
+        "start": 501.44,
+        "end": 503.44,
+        "text": " their listens siphoned"
+    },
+    {
+        "start": 503.84,
+        "end": 505.28,
+        "text": " um"
+    },
+    {
+        "start": 505.28,
+        "end": 511.2,
+        "text": " To AI music and who knows what else could be like withdrawn from taking their"
+    },
+    {
+        "start": 512.56,
+        "end": 517.36,
+        "text": " Their I their Spotify listeners, but also like this was just a small time"
+    },
+    {
+        "start": 517.52,
+        "end": 525.12,
+        "text": " But like imagine if it was like Taylor Swift or Beyonce that was hacked and had their their listeners siphoned off from that because"
+    },
+    {
+        "start": 525.6,
+        "end": 528.0,
+        "text": " You know if Taylor Swift uploads it's getting"
+    },
+    {
+        "start": 528.8,
+        "end": 532.08,
+        "text": " 2 million plays in the first hour like something like that"
+    },
+    {
+        "start": 532.96,
+        "end": 539.44,
+        "text": " Even if it's AI or anything like that and you know if if someone like one of these giant artists"
+    },
+    {
+        "start": 540.0,
+        "end": 542.0,
+        "text": " We're hacked like this like it could"
+    },
+    {
+        "start": 542.4,
+        "end": 545.2,
+        "text": " It could be potentially very dangerous to many of these guys"
+    },
+    {
+        "start": 546.4,
+        "end": 548.96,
+        "text": " And what what really is a trip about"
+    },
+    {
+        "start": 549.68,
+        "end": 553.68,
+        "text": " Any of these really large hacks a lot of times thread actors are only"
+    },
+    {
+        "start": 554.24,
+        "end": 557.28,
+        "text": " Really just putting their toe in the water to see what they can get away with"
+    },
+    {
+        "start": 557.76,
+        "end": 562.3199999999999,
+        "text": " So what they're doing is those it starts with this you know, they'll put their toe in the water"
+    },
+    {
+        "start": 562.72,
+        "end": 565.76,
+        "text": " Then then put the ankle in the water, but next thing you know, there's the merge"
+    },
+    {
+        "start": 567.1999999999999,
+        "end": 569.68,
+        "text": " Well, I mean that's kind of how it works in terms of"
+    },
+    {
+        "start": 570.4,
+        "end": 574.0799999999999,
+        "text": " And we could talk about this a little bit later, but it's almost like you know real life"
+    },
+    {
+        "start": 574.64,
+        "end": 579.52,
+        "text": " It's relatively easy. I mean, and I said that you know, I say that in the air quotes"
+    },
+    {
+        "start": 580.0,
+        "end": 583.12,
+        "text": " It's relatively easy to do a digital infiltration"
+    },
+    {
+        "start": 583.52,
+        "end": 589.84,
+        "text": " The problem is the exploration escaping getting out of whatever you're doing or"
+    },
+    {
+        "start": 590.08,
+        "end": 595.68,
+        "text": " You fully compromise to fully push out all of the safeguards that were there push them out in the place"
+    },
+    {
+        "start": 596.08,
+        "end": 597.12,
+        "text": " Oh"
+    },
+    {
+        "start": 597.12,
+        "end": 602.24,
+        "text": " So what is once it infiltrates taxes? That's it's almost like your phone will break the house. Yeah, anybody"
+    },
+    {
+        "start": 602.24,
+        "end": 608.16,
+        "text": " Play there, you know break through a door or you know break the window and you know gain entry power"
+    },
+    {
+        "start": 608.5600000000001,
+        "end": 613.04,
+        "text": " No problem is are they about to get bit by a dog are they about to admit by some looks that"
+    },
+    {
+        "start": 613.76,
+        "end": 618.0,
+        "text": " You know, but it is the same thing you know when it comes to like you know"
+    },
+    {
+        "start": 618.4,
+        "end": 619.52,
+        "text": " Infusion"
+    },
+    {
+        "start": 619.52,
+        "end": 624.48,
+        "text": " Using the infusion and bread acts on a dude's face out of there you want to step and then say guard's bottle"
+    },
+    {
+        "start": 625.2,
+        "end": 632.0,
+        "text": " And I really hope that for one state of the more the things kind of build their looks and fill you in terms of"
+    },
+    {
+        "start": 632.72,
+        "end": 637.84,
+        "text": " In terms of a system or anything else the harder to get them out"
+    },
+    {
+        "start": 638.08,
+        "end": 640.08,
+        "text": " Mm-hmm"
+    },
+    {
+        "start": 640.08,
+        "end": 646.24,
+        "text": " Yeah, and I will say it looks like it was handled pretty quickly, but I think it was up to each artist to do it themselves"
+    },
+    {
+        "start": 647.0400000000001,
+        "end": 649.0400000000001,
+        "text": " um, yeah, because I saw"
+    },
+    {
+        "start": 649.76,
+        "end": 653.84,
+        "text": " uh, you know, I listened to one of them because it was one of the bands that I follow"
+    },
+    {
+        "start": 654.4,
+        "end": 659.52,
+        "text": " Um, and I listened to one of the songs and then three hours later, so it was taken down"
+    },
+    {
+        "start": 660.08,
+        "end": 665.2800000000001,
+        "text": " um, so who knows who knows whether or not people are gonna be able to"
+    },
+    {
+        "start": 665.76,
+        "end": 669.92,
+        "text": " To protect themselves from that, but it is that is uh that is"
+    },
+    {
+        "start": 670.72,
+        "end": 676.9599999999999,
+        "text": " Confusing that you say that like interesting that you say it's a lot harder to get out because I never processed that like"
+    },
+    {
+        "start": 677.36,
+        "end": 680.0,
+        "text": " digitally, you know, you always hear about like you know"
+    },
+    {
+        "start": 680.0,
+        "end": 685.68,
+        "text": " Someone's gonna do a bank robbery like getting into the easy part and then the alarm goes off and then the police are called"
+    },
+    {
+        "start": 685.8399999999999,
+        "end": 688.88,
+        "text": " Yeah, wait for arm security or police or something like that. Yeah"
+    },
+    {
+        "start": 689.68,
+        "end": 694.56,
+        "text": " Well, this is just a movies. I won't say I have any experience with that, but I've seen that in movies and stuff um"
+    },
+    {
+        "start": 695.28,
+        "end": 699.8399999999999,
+        "text": " And uh, you know, it does seem like the complicated part was the escape plan, but"
+    },
+    {
+        "start": 700.3199999999999,
+        "end": 707.1199999999999,
+        "text": " The duty escape. Yeah, now we do have a call on the line Lee and mobile has a question about Microsoft surfaces. Lee, what's going on?"
+    },
+    {
+        "start": 708.4,
+        "end": 713.76,
+        "text": " Well, good morning ecology. I hear it too. I go about my surface where the screen is lifting up from the fine"
+    },
+    {
+        "start": 714.4799999999999,
+        "end": 719.92,
+        "text": " And you say it's probably a battery swell and that was true, but there's two batteries in there now the whole screen is lifted up"
+    },
+    {
+        "start": 719.92,
+        "end": 722.0799999999999,
+        "text": " But my screen won't do anything. I think you can throw it"
+    },
+    {
+        "start": 722.64,
+        "end": 729.84,
+        "text": " So the hard drive in creation the question is can I retrieve the data from that hard drive to a external hard drive or somewhere"
+    },
+    {
+        "start": 733.36,
+        "end": 737.6800000000001,
+        "text": " So be you got a you think you can get the the hard drive access"
+    },
+    {
+        "start": 739.6800000000001,
+        "end": 742.24,
+        "text": " Well, I only feel a US reconnection is on the side"
+    },
+    {
+        "start": 744.72,
+        "end": 751.84,
+        "text": " You can't hear uh, he said he's got a Microsoft surface problem um, he called recently and"
+    },
+    {
+        "start": 752.08,
+        "end": 756.48,
+        "text": " That the screen was messing up and we fixed that problem with the batteries, but it's still kind of"
+    },
+    {
+        "start": 757.76,
+        "end": 763.2800000000001,
+        "text": " Just continued to work and then I went out with it and took it and then my whole gun screen lifted up now nothing works"
+    },
+    {
+        "start": 764.08,
+        "end": 769.76,
+        "text": " Right, okay, so nothing nothing works now so it it didn't fix initially at all"
+    },
+    {
+        "start": 771.5200000000001,
+        "end": 773.5200000000001,
+        "text": " No, it did not"
+    },
+    {
+        "start": 773.5200000000001,
+        "end": 780.0,
+        "text": " Yeah, so depending on depending on what's happening is I think and then got to remember him the big we off would"
+    },
+    {
+        "start": 780.4,
+        "end": 782.4,
+        "text": " Recommended like a"
+    },
+    {
+        "start": 782.4,
+        "end": 788.32,
+        "text": " Biose update things like that I believe we are talking about but now you've had a further issues"
+    },
+    {
+        "start": 790.32,
+        "end": 792.32,
+        "text": " Very kind of chicken"
+    },
+    {
+        "start": 792.64,
+        "end": 798.88,
+        "text": " They're very very very very kind of durable uh, you know like well tablets, you know combos"
+    },
+    {
+        "start": 799.36,
+        "end": 802.56,
+        "text": " But sometimes they can be kind of taking on certain things without"
+    },
+    {
+        "start": 803.12,
+        "end": 808.32,
+        "text": " Sitten and having a sitting front of me that would determine whether or not what we need to be moving forward"
+    },
+    {
+        "start": 810.8,
+        "end": 812.56,
+        "text": " Okay"
+    },
+    {
+        "start": 812.56,
+        "end": 819.28,
+        "text": " But it is possible to think to a two-year data from the hard drive off the Microsoft service and then transfer just something another computer"
+    },
+    {
+        "start": 822.08,
+        "end": 826.4,
+        "text": " So beer you think it's possible to get that uh that hard drive and transfer to another computer"
+    },
+    {
+        "start": 829.44,
+        "end": 833.68,
+        "text": " Oh, yes, no, absolutely hard drive. Well, we got that hard drive the hard drive is"
+    },
+    {
+        "start": 834.16,
+        "end": 836.64,
+        "text": " Unless well, no that's surface of the SSD"
+    },
+    {
+        "start": 836.72,
+        "end": 840.16,
+        "text": " So it won't be clicking but any the only time a hard drive"
+    },
+    {
+        "start": 841.12,
+        "end": 843.12,
+        "text": " Uh data and information will be"
+    },
+    {
+        "start": 843.92,
+        "end": 849.6,
+        "text": " Difficult to get off if you had one of the mechanical hard drives and if you heard something clicking"
+    },
+    {
+        "start": 850.4,
+        "end": 855.52,
+        "text": " If you use them clicking it means that that the internal mechanism inside that hard drive and it's gonna be a problem"
+    },
+    {
+        "start": 856.0,
+        "end": 859.28,
+        "text": " But you get on that uh on that surface surface"
+    },
+    {
+        "start": 859.68,
+        "end": 864.4,
+        "text": " I'll just buy all surfaces have uh as a be hard drive that won't be a problem"
+    },
+    {
+        "start": 864.48,
+        "end": 870.24,
+        "text": " So you're getting uh filed off uh any IT diredown with the stole be able to get a cone"
+    },
+    {
+        "start": 871.04,
+        "end": 874.16,
+        "text": " I feel very confident that they can get that he gets a file book"
+    },
+    {
+        "start": 875.04,
+        "end": 876.0799999999999,
+        "text": " Right"
+    },
+    {
+        "start": 876.0799999999999,
+        "end": 882.56,
+        "text": " Okay, um, well if I can ask um severe. I think we're having a little bit of trouble with your phone"
+    },
+    {
+        "start": 883.36,
+        "end": 885.52,
+        "text": " So can we go ahead and uh"
+    },
+    {
+        "start": 886.4,
+        "end": 893.36,
+        "text": " Draman can we turn him turn him down for a second and have him you sound severe you sound like you're coming from an alien spaceship"
+    },
+    {
+        "start": 893.92,
+        "end": 895.36,
+        "text": " um"
+    },
+    {
+        "start": 895.36,
+        "end": 899.04,
+        "text": " So we're trying to we're trying to get that worked on um but"
+    },
+    {
+        "start": 900.4,
+        "end": 901.2,
+        "text": " um"
+    },
+    {
+        "start": 901.2,
+        "end": 903.2,
+        "text": " Like I mentioned we have"
+    },
+    {
+        "start": 903.6,
+        "end": 909.44,
+        "text": " uh, I know you're probably exhausted with hearing about this and uh it's been going on for the past few weeks"
+    },
+    {
+        "start": 909.52,
+        "end": 911.52,
+        "text": " And we haven't been here to talk about it"
+    },
+    {
+        "start": 911.52,
+        "end": 917.9200000000001,
+        "text": " But there is the national public data hack going on or I guess it already happened um"
+    },
+    {
+        "start": 918.0799999999999,
+        "end": 925.76,
+        "text": " So according to newsweek billions of social security numbers have been accessed via a cyber attack on national public data"
+    },
+    {
+        "start": 926.0799999999999,
+        "end": 933.1999999999999,
+        "text": " So national public data if you're unfamiliar is the website or the database that holds"
+    },
+    {
+        "start": 934.24,
+        "end": 937.12,
+        "text": " literally like all of the country's information"
+    },
+    {
+        "start": 937.76,
+        "end": 938.56,
+        "text": " um"
+    },
+    {
+        "start": 938.56,
+        "end": 945.36,
+        "text": " Pretty much everything so this hack includes all of your private information unlike the AT&T hack or most other previous"
+    },
+    {
+        "start": 945.36,
+        "end": 947.36,
+        "text": " Tax where it's just your phone number and call logs"
+    },
+    {
+        "start": 948.0,
+        "end": 953.2,
+        "text": " This is a big one um this could include full names social security numbers of birthdays etc"
+    },
+    {
+        "start": 953.36,
+        "end": 961.52,
+        "text": " Of over 2.9 billion people and apparently the hacking collective that did this have sold that information for 3.5 million dollars"
+    },
+    {
+        "start": 962.5600000000001,
+        "end": 964.32,
+        "text": " wow"
+    },
+    {
+        "start": 964.32,
+        "end": 966.72,
+        "text": " So um, I'm not exactly uh"
+    },
+    {
+        "start": 967.52,
+        "end": 971.52,
+        "text": " I'm not exactly versed in what to do on uh"
+    },
+    {
+        "start": 972.3199999999999,
+        "end": 974.96,
+        "text": " On identity theft and fraud and stuff like that"
+    },
+    {
+        "start": 975.52,
+        "end": 978.48,
+        "text": " But it's it I know that you can go to uh"
+    },
+    {
+        "start": 979.4399999999999,
+        "end": 984.0799999999999,
+        "text": " What is it identity theft dot gov to see if your identity has been stolen"
+    },
+    {
+        "start": 984.4,
+        "end": 991.92,
+        "text": " You can also go to npdbreach.com and input your as a your social security number to see if your data has been compromised"
+    },
+    {
+        "start": 992.8,
+        "end": 998.0,
+        "text": " Um, right and and the other thing is is to watch um kind of like what we talked about before"
+    },
+    {
+        "start": 998.4,
+        "end": 1001.84,
+        "text": " So two-track authentication is going to be kind of hard at that point"
+    },
+    {
+        "start": 1001.92,
+        "end": 1004.32,
+        "text": " I'm doing two-track authentication. I make sure you're good"
+    },
+    {
+        "start": 1004.72,
+        "end": 1006.56,
+        "text": " Uh, it's going to be kind of hard at that point"
+    },
+    {
+        "start": 1006.56,
+        "end": 1008.24,
+        "text": " But what will be"
+    },
+    {
+        "start": 1008.24,
+        "end": 1011.2,
+        "text": " Easier is to watch you look or ask the watch your credit"
+    },
+    {
+        "start": 1011.44,
+        "end": 1013.44,
+        "text": " You have to watch uh third-nic count"
+    },
+    {
+        "start": 1013.76,
+        "end": 1017.36,
+        "text": " To see if certain things have been opened in your name because in that case that"
+    },
+    {
+        "start": 1017.92,
+        "end": 1024.4,
+        "text": " If they've reached your so security number and your birthday and all that stuff then uh you just have to be that much more"
+    },
+    {
+        "start": 1024.88,
+        "end": 1026.4,
+        "text": " until"
+    },
+    {
+        "start": 1026.8000000000002,
+        "end": 1033.2800000000002,
+        "text": " The security experts that that are that are really usually watching and governing this thing have come out with the statement"
+    },
+    {
+        "start": 1033.2800000000002,
+        "end": 1035.2800000000002,
+        "text": " And how we're going to be able to circumvent it"
+    },
+    {
+        "start": 1036.0800000000002,
+        "end": 1044.0,
+        "text": " Yeah, absolutely and we've uh, we've mentioned this on money talks and the or Kevin Farrell has mentioned this on money talks the past couple of weeks"
+    },
+    {
+        "start": 1044.5600000000002,
+        "end": 1046.8000000000002,
+        "text": " Um, which areas of Tuesdays at 9 a.m"
+    },
+    {
+        "start": 1047.3600000000001,
+        "end": 1048.72,
+        "text": " And he said"
+    },
+    {
+        "start": 1048.72,
+        "end": 1055.44,
+        "text": " Him and the experts also said it's very important to contact your credit agencies the credit agencies so that's"
+    },
+    {
+        "start": 1056.24,
+        "end": 1058.64,
+        "text": " Transunion Equifax and"
+    },
+    {
+        "start": 1059.92,
+        "end": 1063.2,
+        "text": " I cannot think of the other one experience experience. There you go"
+    },
+    {
+        "start": 1063.92,
+        "end": 1069.2,
+        "text": " So contact all three of those and uh, you can freeze your credit report you can"
+    },
+    {
+        "start": 1069.84,
+        "end": 1073.44,
+        "text": " Check or freeze your credit and then you can check and see um"
+    },
+    {
+        "start": 1074.24,
+        "end": 1079.2,
+        "text": " If anyone has if there's any suspicious activity on their end from all that"
+    },
+    {
+        "start": 1080.3200000000002,
+        "end": 1088.64,
+        "text": " Right and and each of those entities actually put uh, they've sent out like emails and like communications before but"
+    },
+    {
+        "start": 1088.88,
+        "end": 1093.28,
+        "text": " Yeah, yeah, I think about some of our some of our population. They don't have emails"
+    },
+    {
+        "start": 1093.3600000000001,
+        "end": 1099.28,
+        "text": " So or you if you get a random email saying yeah, I'm calling you about your credit report some people see that is fishy"
+    },
+    {
+        "start": 1099.76,
+        "end": 1102.72,
+        "text": " So uh, they have sent out communications about it"
+    },
+    {
+        "start": 1103.1200000000001,
+        "end": 1110.08,
+        "text": " But in this guarded society that we live in about telling people like hey be careful don't just click on any email because they say they are"
+    },
+    {
+        "start": 1110.48,
+        "end": 1117.3600000000001,
+        "text": " You don't know they are what they they are so um, I know they've got their hands, you know, they got their work cut out for them"
+    },
+    {
+        "start": 1118.16,
+        "end": 1123.2,
+        "text": " They got a lot that they're gonna be you know really kind of tied up to do to kind of stitch this up"
+    },
+    {
+        "start": 1124.16,
+        "end": 1131.28,
+        "text": " Yeah, absolutely, and I mean like it's really tough to say oh don't you really can't say oh don't worry about it"
+    },
+    {
+        "start": 1131.36,
+        "end": 1133.36,
+        "text": " It's just like"
+    },
+    {
+        "start": 1133.44,
+        "end": 1140.72,
+        "text": " Nothing to to be concerned about because obviously it's your social security number and you know everything can be accessed with that"
+    },
+    {
+        "start": 1141.52,
+        "end": 1147.6,
+        "text": " So I'm not not trying to fear monger here, but I'm also like you got to be really really really cautious"
+    },
+    {
+        "start": 1148.72,
+        "end": 1150.72,
+        "text": " What"
+    },
+    {
+        "start": 1150.8,
+        "end": 1153.28,
+        "text": " I think I agree and that's what happens"
+    },
+    {
+        "start": 1153.52,
+        "end": 1155.2,
+        "text": " It's a sense of vigilant"
+    },
+    {
+        "start": 1156.16,
+        "end": 1158.64,
+        "text": " That needs to it's not gonna be paranoid"
+    },
+    {
+        "start": 1159.68,
+        "end": 1164.4,
+        "text": " But uh, we just want you to be vigilant and to work on a new state of mind where"
+    },
+    {
+        "start": 1164.64,
+        "end": 1165.52,
+        "text": " um"
+    },
+    {
+        "start": 1165.52,
+        "end": 1168.72,
+        "text": " That you you're watching things like your credit like a hawk more regularly"
+    },
+    {
+        "start": 1169.04,
+        "end": 1172.0,
+        "text": " Especially because there's really you know unfortunate hack"
+    },
+    {
+        "start": 1172.88,
+        "end": 1174.88,
+        "text": " Yeah, absolutely"
+    },
+    {
+        "start": 1174.88,
+        "end": 1176.48,
+        "text": " Um, and there's also like"
+    },
+    {
+        "start": 1177.3600000000001,
+        "end": 1181.6000000000001,
+        "text": " You know, it's like I said it's it's much bigger than the AT&T hack"
+    },
+    {
+        "start": 1182.3999999999999,
+        "end": 1185.36,
+        "text": " Um, it's much bigger than the Spotify hack that we mentioned"
+    },
+    {
+        "start": 1185.84,
+        "end": 1189.6,
+        "text": " um, and it's really nothing on the end users fault"
+    },
+    {
+        "start": 1190.32,
+        "end": 1197.04,
+        "text": " So like I don't as far as I know there's not anything that someone could have done to prevent this hack from going through in the first place"
+    },
+    {
+        "start": 1197.36,
+        "end": 1202.0,
+        "text": " At least not an individual it would have been on the company like it would have been on national public data correct"
+    },
+    {
+        "start": 1202.8799999999999,
+        "end": 1207.04,
+        "text": " Right, right there's I mean there's ways to circle that and you know just about anything"
+    },
+    {
+        "start": 1207.6,
+        "end": 1211.12,
+        "text": " If you're familiar with or it's almost like uh, you know"
+    },
+    {
+        "start": 1211.12,
+        "end": 1214.24,
+        "text": " If you want to try to break it to a build on your first and you hear the blueprints"
+    },
+    {
+        "start": 1214.8,
+        "end": 1219.44,
+        "text": " If you know the plans if you know the things that are in place you can create or"
+    },
+    {
+        "start": 1220.0,
+        "end": 1224.48,
+        "text": " Grab plans to you know get around those and I'm sure that's unfortunate what happened"
+    },
+    {
+        "start": 1224.96,
+        "end": 1232.8,
+        "text": " Um, and it's just going to be a matter of just getting that stuff not only to go ahead and and regain control and rest control from no folks"
+    },
+    {
+        "start": 1233.36,
+        "end": 1236.3999999999999,
+        "text": " Uh, because they've very sold that information unfortunately"
+    },
+    {
+        "start": 1236.8000000000002,
+        "end": 1243.3600000000001,
+        "text": " On the stole that information, but it's more not only important to rest control of that back from those folks"
+    },
+    {
+        "start": 1243.3600000000001,
+        "end": 1249.92,
+        "text": " But then I also just rethink completely top to bottom how best to be able to go ahead and better secure that information"
+    },
+    {
+        "start": 1250.88,
+        "end": 1255.6000000000001,
+        "text": " Right, and I mean like if I can ask you like is that how you think this happened like"
+    },
+    {
+        "start": 1256.0800000000002,
+        "end": 1262.88,
+        "text": " Someone knew the tech that they were using and was able to access it from that or like was it just not taking care of well enough"
+    },
+    {
+        "start": 1263.0400000000002,
+        "end": 1268.72,
+        "text": " Well, I you know again, I'm not I'm not in that situation. I'm not like it"
+    },
+    {
+        "start": 1269.2800000000002,
+        "end": 1272.48,
+        "text": " You know, I'm not over that, but I would imagine that's what happened"
+    },
+    {
+        "start": 1272.48,
+        "end": 1278.0,
+        "text": " They found some of the protocol that they were able to set the divulge the one where another hook cut"
+    },
+    {
+        "start": 1278.5600000000002,
+        "end": 1281.44,
+        "text": " Uh to divulge and get that information"
+    },
+    {
+        "start": 1281.8400000000001,
+        "end": 1285.1200000000001,
+        "text": " Um, and that's how they were in the circle when it goes when"
+    },
+    {
+        "start": 1285.2800000000002,
+        "end": 1292.24,
+        "text": " And when I tell you there's so many different things the deeper the secret the deeper the iC secret and everything else the more"
+    },
+    {
+        "start": 1293.7600000000002,
+        "end": 1296.64,
+        "text": " That did the more things there are that are stepped prevent it"
+    },
+    {
+        "start": 1297.44,
+        "end": 1301.92,
+        "text": " But the scary thing about social security numbers being hacked is you're so secure in them"
+    },
+    {
+        "start": 1301.92,
+        "end": 1309.0400000000002,
+        "text": " But you've hacked that puts that that drops and you just to be honest that drops the sense of a lack of confidence for a lot of other things"
+    },
+    {
+        "start": 1309.68,
+        "end": 1310.88,
+        "text": " My i did my"
+    },
+    {
+        "start": 1310.88,
+        "end": 1314.4,
+        "text": " Social security never can be hacked just how secure is anything else around me?"
+    },
+    {
+        "start": 1314.48,
+        "end": 1320.4,
+        "text": " Well, you just again, it's just a matter of being vigilant let their it experts trust them, you know"
+    },
+    {
+        "start": 1320.48,
+        "end": 1322.48,
+        "text": " Think people making mistakes people are human"
+    },
+    {
+        "start": 1322.8000000000002,
+        "end": 1328.16,
+        "text": " Uh, trust the iT experts that are that are that are entrusted to be able to make this thing work"
+    },
+    {
+        "start": 1328.5600000000002,
+        "end": 1332.72,
+        "text": " They're going to make it right. They're going to really do everything else. They're going to go after the people responsible"
+    },
+    {
+        "start": 1332.72,
+        "end": 1339.92,
+        "text": " Just like how you know crime happens, you know in in leaking lights that this is that really happens"
+    },
+    {
+        "start": 1340.0800000000002,
+        "end": 1344.0,
+        "text": " So stuff happens you do everything you can to protect them and make sure everybody's okay"
+    },
+    {
+        "start": 1344.3200000000002,
+        "end": 1346.5600000000002,
+        "text": " But things still happen crime still happen there"
+    },
+    {
+        "start": 1347.12,
+        "end": 1348.32,
+        "text": " Don't you know"
+    },
+    {
+        "start": 1348.32,
+        "end": 1353.12,
+        "text": " Dressed or or just turn into a sense of like paranoia or worry or anything like that"
+    },
+    {
+        "start": 1353.6,
+        "end": 1357.9199999999998,
+        "text": " Trust that there are people that are on the job you have to go ahead and hunt those down"
+    },
+    {
+        "start": 1358.3999999999999,
+        "end": 1361.2,
+        "text": " That are responsible and to reclaim your security"
+    },
+    {
+        "start": 1362.08,
+        "end": 1367.28,
+        "text": " Yeah, and i i can't say that i've researched for sure whether or not this has happened"
+    },
+    {
+        "start": 1368.0,
+        "end": 1368.8,
+        "text": " um"
+    },
+    {
+        "start": 1368.8,
+        "end": 1376.1599999999999,
+        "text": " But it's also like i'm i'm i feel like there's probably a task force being assembled to pursue these people that have done this"
+    },
+    {
+        "start": 1376.16,
+        "end": 1380.24,
+        "text": " Because this is like i said this is probably the biggest data breach in"
+    },
+    {
+        "start": 1381.1200000000001,
+        "end": 1383.1200000000001,
+        "text": " At least American history"
+    },
+    {
+        "start": 1383.3600000000001,
+        "end": 1385.3600000000001,
+        "text": " Um, and if not the whole world"
+    },
+    {
+        "start": 1385.92,
+        "end": 1387.52,
+        "text": " Yeah, i agree"
+    },
+    {
+        "start": 1387.52,
+        "end": 1391.8400000000001,
+        "text": " I agree and and there are a lot of bread actors foreign foreign"
+    },
+    {
+        "start": 1392.5600000000002,
+        "end": 1400.0800000000002,
+        "text": " Little uh bread actors that have everything that they would love to do to be able to to a harm another country hick"
+    },
+    {
+        "start": 1400.16,
+        "end": 1402.48,
+        "text": " I'm a little bit fit. We've got some"
+    },
+    {
+        "start": 1403.04,
+        "end": 1406.4,
+        "text": " Those that have done this to other countries or whatever it wouldn't surprise them"
+    },
+    {
+        "start": 1406.88,
+        "end": 1410.08,
+        "text": " At the same time, you know, again, just that's just again"
+    },
+    {
+        "start": 1410.4,
+        "end": 1414.24,
+        "text": " speculated but um, there's all kind of things that happen"
+    },
+    {
+        "start": 1414.64,
+        "end": 1417.44,
+        "text": " uh against adversaries and everything else like that"
+    },
+    {
+        "start": 1417.52,
+        "end": 1421.44,
+        "text": " But sometimes it happens to us and people like oh my god like this happens all the time"
+    },
+    {
+        "start": 1421.92,
+        "end": 1427.68,
+        "text": " Just like when you when you see what happens when when the crime happens on foreign soil and you think about terrible"
+    },
+    {
+        "start": 1427.68,
+        "end": 1434.3200000000002,
+        "text": " It is and you know you kind of hope for the best that things are not foolish and everything over here stuff happens"
+    },
+    {
+        "start": 1434.8,
+        "end": 1436.8,
+        "text": " Right to this really you know"
+    },
+    {
+        "start": 1437.44,
+        "end": 1442.64,
+        "text": " Trust and trust the people that are able to do the things that they can't and go from there. Yeah, absolutely"
+    },
+    {
+        "start": 1443.1200000000001,
+        "end": 1446.5600000000002,
+        "text": " Well now that we've got everyone bummed out and scared um"
+    },
+    {
+        "start": 1447.1200000000001,
+        "end": 1450.88,
+        "text": " Let's let's try to get back to it. Thanks a lot to be her enable"
+    },
+    {
+        "start": 1451.6000000000001,
+        "end": 1452.5600000000002,
+        "text": " He's there"
+    },
+    {
+        "start": 1452.5600000000002,
+        "end": 1458.0800000000002,
+        "text": " Jermaine have you checked the website to see if you're okay. No, I don't never check to see if I'm okay"
+    },
+    {
+        "start": 1458.0800000000002,
+        "end": 1464.48,
+        "text": " I just see if something's gonna happen to me later and then I go from there. I'm sure that's the appropriate, you know response"
+    },
+    {
+        "start": 1465.5200000000002,
+        "end": 1467.5200000000002,
+        "text": " No news it's good news"
+    },
+    {
+        "start": 1468.8000000000002,
+        "end": 1472.16,
+        "text": " I guess so but you could always be cautious and I have no money"
+    },
+    {
+        "start": 1475.6000000000001,
+        "end": 1477.3600000000001,
+        "text": " I get it I get it"
+    },
+    {
+        "start": 1477.36,
+        "end": 1480.9599999999998,
+        "text": " We're glad you found our show every day tech on MPB think radio"
+    },
+    {
+        "start": 1481.12,
+        "end": 1486.1599999999999,
+        "text": " This is Abram nanny still here with Sabir Abdul Hock who is ready to answer your questions"
+    },
+    {
+        "start": 1486.7199999999998,
+        "end": 1490.4799999999998,
+        "text": " email us at every day tech at mpbonline.org"
+    },
+    {
+        "start": 1491.04,
+        "end": 1496.3999999999999,
+        "text": " So what is popular on the top streaming services right now as of today september 11th"
+    },
+    {
+        "start": 1496.7199999999998,
+        "end": 1498.7199999999998,
+        "text": " 2024 here's what we got on"
+    },
+    {
+        "start": 1499.1999999999998,
+        "end": 1504.24,
+        "text": " Netflix rebel ridge tops the movie charts the perfect couple takes over as the number one show"
+    },
+    {
+        "start": 1505.04,
+        "end": 1510.16,
+        "text": " HBO sees beetle juice become the number one movie as it sequel was just recently released in theaters"
+    },
+    {
+        "start": 1510.88,
+        "end": 1512.4,
+        "text": " In chimped crazy is the number one show"
+    },
+    {
+        "start": 1513.1200000000001,
+        "end": 1521.2,
+        "text": " So I'm not shocked that beetle juice is made to I'm so ready for beetle juice. It's out. It was my childhood cold class. Oh, yeah"
+    },
+    {
+        "start": 1521.68,
+        "end": 1523.68,
+        "text": " Yeah, you uh"
+    },
+    {
+        "start": 1523.68,
+        "end": 1525.68,
+        "text": " Did you rewatch the first one?"
+    },
+    {
+        "start": 1525.92,
+        "end": 1532.08,
+        "text": " Um, yeah, I mean they've been playing it on a regular lately like I've been playing it you know on regular channels"
+    },
+    {
+        "start": 1532.1599999999999,
+        "end": 1539.4399999999998,
+        "text": " I you know all the time now um, so I watched the first one about a million times. Okay. Yeah, I this was my childhood"
+    },
+    {
+        "start": 1540.0,
+        "end": 1542.3999999999999,
+        "text": " Oh, dude, I loved I loved the first one"
+    },
+    {
+        "start": 1543.28,
+        "end": 1548.0,
+        "text": " But yeah, this is my childhood and there is no better soundtrack than beetle juice"
+    },
+    {
+        "start": 1548.24,
+        "end": 1554.3999999999999,
+        "text": " Absolutely, I'm pretty sure if I'm not mistaken that soundtrack is Danny Elfman who also does the soundtrack to the second one"
+    },
+    {
+        "start": 1554.8799999999999,
+        "end": 1559.04,
+        "text": " And Danny Elfman is the man he does he does the nightmare before Christmas"
+    },
+    {
+        "start": 1559.12,
+        "end": 1563.44,
+        "text": " He did multi-verse madness and stuff. Okay. This is now we're in we're talking about soundtracks"
+    },
+    {
+        "start": 1563.52,
+        "end": 1569.68,
+        "text": " This is my expertise. This is what I know. That's what you do. Yeah, exactly. I love it. Yeah, I love it"
+    },
+    {
+        "start": 1569.76,
+        "end": 1571.76,
+        "text": " So be her how you feel about beetle juice"
+    },
+    {
+        "start": 1572.48,
+        "end": 1575.92,
+        "text": " The second movie was great my wife and I went to go see it the last week"
+    },
+    {
+        "start": 1575.92,
+        "end": 1579.68,
+        "text": " Yeah, we're gonna see it last week and we were pretty impressed with it. We were pretty impressed with it"
+    },
+    {
+        "start": 1579.68,
+        "end": 1584.6399999999999,
+        "text": " It was pretty well written the movie aged well in the pacing was good. I'm"
+    },
+    {
+        "start": 1585.5200000000002,
+        "end": 1588.48,
+        "text": " I'm more of a writing and a communication kind of buff"
+    },
+    {
+        "start": 1588.48,
+        "end": 1592.88,
+        "text": " So when I see does pays well in Jenna or Tega is the woman"
+    },
+    {
+        "start": 1596.0800000000002,
+        "end": 1602.16,
+        "text": " Here's a little tidbit. So I'm such a Michael Keaton fan as well nobody knows"
+    },
+    {
+        "start": 1604.0800000000002,
+        "end": 1610.5600000000002,
+        "text": " Batman multiplicity of course. He does he's such a great actor and he's he's got comedic genius and everything"
+    },
+    {
+        "start": 1610.6399999999999,
+        "end": 1619.52,
+        "text": " But I didn't know and it took to this drop to figure out that the first movie only contained 17 minutes of"
+    },
+    {
+        "start": 1621.2,
+        "end": 1626.6399999999999,
+        "text": " Beetle juice really there was only 17 minutes of Michael Keaton actually in the film"
+    },
+    {
+        "start": 1627.04,
+        "end": 1633.12,
+        "text": " So this film I think they wanted to amp that upright they wanted to put him in it more and he said no"
+    },
+    {
+        "start": 1633.12,
+        "end": 1636.72,
+        "text": " No, no, no, he said same time or just a bit more"
+    },
+    {
+        "start": 1636.88,
+        "end": 1641.3600000000001,
+        "text": " So I think this go around he's in it for 18 minutes interesting. I didn't know that right"
+    },
+    {
+        "start": 1641.68,
+        "end": 1644.0,
+        "text": " It definitely feels like he's on the screen the whole time"
+    },
+    {
+        "start": 1645.04,
+        "end": 1647.2,
+        "text": " It rolls and his presence in the movie was"
+    },
+    {
+        "start": 1647.84,
+        "end": 1649.84,
+        "text": " Wow, and it's"
+    },
+    {
+        "start": 1649.92,
+        "end": 1651.92,
+        "text": " It was amazing. It was amazing"
+    },
+    {
+        "start": 1652.24,
+        "end": 1653.84,
+        "text": " Yeah, absolutely"
+    },
+    {
+        "start": 1653.84,
+        "end": 1658.0,
+        "text": " All right moving on from Beetle juice. We have Disney Plus. We already know"
+    },
+    {
+        "start": 1658.0,
+        "end": 1662.08,
+        "text": " Milan is the number one movie because the new movie the sequel's coming out soon and"
+    },
+    {
+        "start": 1662.24,
+        "end": 1664.24,
+        "text": " Bluey is the number one show. I"
+    },
+    {
+        "start": 1664.48,
+        "end": 1666.24,
+        "text": " Know that's a surprise to everyone"
+    },
+    {
+        "start": 1667.52,
+        "end": 1673.52,
+        "text": " Bluey is king yep exactly Amazon Prime's movie charts sees jackpot attain the number one spot"
+    },
+    {
+        "start": 1674.0,
+        "end": 1679.36,
+        "text": " While the show lord of the rings the rings of power jumps to the top with its first few episodes being released"
+    },
+    {
+        "start": 1679.84,
+        "end": 1682.72,
+        "text": " Um a fist bumping right now. I'm so excited for lord of the rings"
+    },
+    {
+        "start": 1682.72,
+        "end": 1687.68,
+        "text": " You're a that is so fun. I want to go back one before you get into your lord of the rings"
+    },
+    {
+        "start": 1688.08,
+        "end": 1693.84,
+        "text": " Bluey I just learned a little tidbit about this show too. Okay. Do you know bluey?"
+    },
+    {
+        "start": 1694.4,
+        "end": 1698.8,
+        "text": " Is made for dogs to be able to watch it"
+    },
+    {
+        "start": 1699.52,
+        "end": 1708.96,
+        "text": " Did anybody know this? Hmm. I didn't it's the colors that are that make up bluey and all the colors are colors that dogs"
+    },
+    {
+        "start": 1709.6,
+        "end": 1711.1200000000001,
+        "text": " Can see"
+    },
+    {
+        "start": 1711.1200000000001,
+        "end": 1716.72,
+        "text": " Interesting. It's like a color palette specifically for yes, and not only is it for children"
+    },
+    {
+        "start": 1716.72,
+        "end": 1721.92,
+        "text": " But it's also for my baby storming as well. I did see one of my one of my friends sent me a video of"
+    },
+    {
+        "start": 1722.5600000000002,
+        "end": 1725.28,
+        "text": " Their their little puppy they just got a couple weeks ago"
+    },
+    {
+        "start": 1726.0800000000002,
+        "end": 1731.1200000000001,
+        "text": " They turned on blueie for him and it was it was sitting there just observing like fully painted"
+    },
+    {
+        "start": 1731.1200000000001,
+        "end": 1736.8000000000002,
+        "text": " I saw a picture of like two frenchies sit inside by side watching blueie and that's when I learned"
+    },
+    {
+        "start": 1736.8000000000002,
+        "end": 1739.28,
+        "text": " I was like oh my gosh blueie is made for dogs"
+    },
+    {
+        "start": 1740.3200000000002,
+        "end": 1742.8000000000002,
+        "text": " There you go. Okay, onto lord of the rings"
+    },
+    {
+        "start": 1743.52,
+        "end": 1748.96,
+        "text": " Oh, dude if we sat here we could we could sit here and talk about lord of the rings for a while Java"
+    },
+    {
+        "start": 1749.44,
+        "end": 1753.6000000000001,
+        "text": " Actually made the mistake of coming into my office one time and saying like oh, what's on your wall?"
+    },
+    {
+        "start": 1753.6000000000001,
+        "end": 1756.96,
+        "text": " I said oh, that's lord of the rings and let me tell you about it for 15 minutes"
+    },
+    {
+        "start": 1758.24,
+        "end": 1761.52,
+        "text": " I was slowly slowly inch my way out of your office"
+    },
+    {
+        "start": 1764.72,
+        "end": 1771.44,
+        "text": " Oh man, but that that is the number one show on Amazon Prime with its first few episodes being released"
+    },
+    {
+        "start": 1772.08,
+        "end": 1778.48,
+        "text": " The newly released a quiet place day one is the number one movie while seal team is the number one show on paramount plus"
+    },
+    {
+        "start": 1779.2,
+        "end": 1784.88,
+        "text": " The number one movie on hulu is dune part two and only murders in the building rockets to the top of the movie"
+    },
+    {
+        "start": 1785.1200000000001,
+        "end": 1789.1200000000001,
+        "text": " Oh top of the show charts with season four episodically releasing on Tuesdays"
+    },
+    {
+        "start": 1789.76,
+        "end": 1791.76,
+        "text": " So"
+    },
+    {
+        "start": 1791.76,
+        "end": 1801.1200000000001,
+        "text": " Yeah, my wife is has watched the first three seasons and then the first the fourth season is coming out right now"
+    },
+    {
+        "start": 1801.1200000000001,
+        "end": 1806.32,
+        "text": " So she's I think she's waiting on it all to be released before she watches it, but she's been loving it"
+    },
+    {
+        "start": 1807.28,
+        "end": 1809.28,
+        "text": " Yeah, I've only seen good things about it"
+    },
+    {
+        "start": 1810.08,
+        "end": 1814.0,
+        "text": " One thing I want to share with you Abram they've got an anime. I don't I can't remember well"
+    },
+    {
+        "start": 1814.0,
+        "end": 1818.8,
+        "text": " We have talked anime before but they did an anime for terminators called terminator zero"
+    },
+    {
+        "start": 1819.12,
+        "end": 1822.08,
+        "text": " All right. Yeah, you texted us about that on Netflix"
+    },
+    {
+        "start": 1822.96,
+        "end": 1828.32,
+        "text": " Yeah, I need to I need to get Netflix back because I was the bomb that was a"
+    },
+    {
+        "start": 1830.0,
+        "end": 1833.6,
+        "text": " Siphoning it off of my brother for a while and then they cracked down on"
+    },
+    {
+        "start": 1834.3999999999999,
+        "end": 1840.6399999999999,
+        "text": " Had on password sharing and then I couldn't get it back. So I haven't been on Netflix in like a year"
+    },
+    {
+        "start": 1843.04,
+        "end": 1848.9599999999998,
+        "text": " But um, so that's what people in the United States are streaming right now according to flix patrol calm"
+    },
+    {
+        "start": 1849.84,
+        "end": 1857.36,
+        "text": " Something else that shot me is that the new quiet places already on streaming services because I feel like it wasn't on in theaters for very long at all"
+    },
+    {
+        "start": 1858.24,
+        "end": 1860.24,
+        "text": " Yeah"
+    },
+    {
+        "start": 1860.24,
+        "end": 1866.32,
+        "text": " I wonder why man. I don't know, but the new quiet place was really good. It ended it ended in a very"
+    },
+    {
+        "start": 1867.36,
+        "end": 1868.96,
+        "text": " Musical way when I let you"
+    },
+    {
+        "start": 1869.44,
+        "end": 1876.8,
+        "text": " Find out for yourself it ended in a very musical way. That's an interesting way to phrase that. I don't I don't know what you mean by that, but now I'm intrigued"
+    },
+    {
+        "start": 1879.6,
+        "end": 1884.56,
+        "text": " Have you seen the quiet place have you seen yet? I've seen one in two. I haven't seen the the newest one"
+    },
+    {
+        "start": 1885.2,
+        "end": 1889.04,
+        "text": " Yeah, when you see that when you see this news one you'll see what I mean by the last frame"
+    },
+    {
+        "start": 1889.52,
+        "end": 1891.52,
+        "text": " It ends in a very musical way"
+    },
+    {
+        "start": 1891.6,
+        "end": 1893.6,
+        "text": " All right, well fair enough"
+    },
+    {
+        "start": 1893.6,
+        "end": 1900.8,
+        "text": " So that is what everyone is streaming right now. So we appreciate flix patrol for putting all that together and always keeping that on"
+    },
+    {
+        "start": 1901.28,
+        "end": 1906.72,
+        "text": " The NSA just issued a press release giving advice on ways to keep your smartphone safe"
+    },
+    {
+        "start": 1907.2,
+        "end": 1911.12,
+        "text": " Just a few practices and habits can decrease your chances of getting hacked"
+    },
+    {
+        "start": 1911.4399999999998,
+        "end": 1914.56,
+        "text": " So we're gonna go through each of these tips and explain what they mean"
+    },
+    {
+        "start": 1914.56,
+        "end": 1917.52,
+        "text": " And it's the beer you're the one that actually drew drew this to our attention"
+    },
+    {
+        "start": 1918.6399999999999,
+        "end": 1922.32,
+        "text": " So I'm gonna ask you to explain every single one of these tips"
+    },
+    {
+        "start": 1924.1599999999999,
+        "end": 1932.2399999999998,
+        "text": " So yes, so firstly the NSA recommends turning your device off and on weekly and we hear that all the time from you"
+    },
+    {
+        "start": 1934.32,
+        "end": 1938.32,
+        "text": " Right, and so the point of uh of turning it off and on weekly"
+    },
+    {
+        "start": 1938.3999999999999,
+        "end": 1945.04,
+        "text": " It's a lot like it just taking a break as many things that your uh that your computer goes through that your smartphone goes through"
+    },
+    {
+        "start": 1945.36,
+        "end": 1951.28,
+        "text": " It goes through all the many different things even just for it to you telling your smartphone to go ahead and make a phone call"
+    },
+    {
+        "start": 1951.76,
+        "end": 1956.8799999999999,
+        "text": " That it takes a lot inside of it for it to do for it to send email all the many different things"
+    },
+    {
+        "start": 1957.12,
+        "end": 1961.12,
+        "text": " So imagine what you would do over the course of the day when your phone tells you man you've been on"
+    },
+    {
+        "start": 1961.4399999999998,
+        "end": 1965.28,
+        "text": " Sebeer you've been on your phone for an hour and a half longer this week than you have last week"
+    },
+    {
+        "start": 1965.36,
+        "end": 1967.6,
+        "text": " And I'm like man, I can do what I've been doing"
+    },
+    {
+        "start": 1968.16,
+        "end": 1974.32,
+        "text": " So but when it when those things come up you're giving your device a break a much needed break"
+    },
+    {
+        "start": 1974.32,
+        "end": 1981.36,
+        "text": " You're giving it a 15 minute break and or you're giving it a lunch break just for a moment me personally to turn it off and turn it back on"
+    },
+    {
+        "start": 1981.84,
+        "end": 1983.52,
+        "text": " I do I have mine set up"
+    },
+    {
+        "start": 1984.72,
+        "end": 1987.44,
+        "text": " Android phones have the ability to do what's called a routine"
+    },
+    {
+        "start": 1987.76,
+        "end": 1991.12,
+        "text": " I have a routine setup to restart my phone every day. So"
+    },
+    {
+        "start": 1991.76,
+        "end": 1993.6,
+        "text": " Seven days a week my phone gets a break"
+    },
+    {
+        "start": 1994.4799999999998,
+        "end": 2002.8,
+        "text": " And just doing that is is a big step in in in prolonging your phone's life and prolonging uh making sure that it doesn't on slow"
+    },
+    {
+        "start": 2003.1999999999998,
+        "end": 2007.4399999999998,
+        "text": " Yeah, yeah, all right. Well, uh, I feel like ever since talking to you"
+    },
+    {
+        "start": 2007.84,
+        "end": 2013.28,
+        "text": " Better about doing it, but I only only restart my phone probably once a week or so"
+    },
+    {
+        "start": 2014.1599999999999,
+        "end": 2017.4399999999998,
+        "text": " I got you so is that do you think that's enough or should it be more often?"
+    },
+    {
+        "start": 2018.2399999999998,
+        "end": 2020.2399999999998,
+        "text": " I think it should be more often of course"
+    },
+    {
+        "start": 2020.72,
+        "end": 2026.4,
+        "text": " Okay, or minimum it's a week is is help, but I mean, I know for well my phone by and large"
+    },
+    {
+        "start": 2026.8,
+        "end": 2033.2,
+        "text": " I've just got to get into the point where I work on space issues on my phone every now and then my wife gives me a hard time about it"
+    },
+    {
+        "start": 2033.44,
+        "end": 2036.0,
+        "text": " It's like yeah, I thought your Android was super amazing"
+    },
+    {
+        "start": 2038.4,
+        "end": 2042.32,
+        "text": " So I'm sure she appreciates that impression of you over"
+    },
+    {
+        "start": 2042.88,
+        "end": 2046.4,
+        "text": " Oh man, she has a good time like giving me a hard time, but she"
+    },
+    {
+        "start": 2046.8000000000002,
+        "end": 2047.76,
+        "text": " She"
+    },
+    {
+        "start": 2047.76,
+        "end": 2049.92,
+        "text": " Talk about it and I would like would you leave me alone?"
+    },
+    {
+        "start": 2051.12,
+        "end": 2055.52,
+        "text": " But uh, but now we have uh, she gives me she'll give me a little bit of gulf about it"
+    },
+    {
+        "start": 2055.52,
+        "end": 2059.6,
+        "text": " But I told her I said look I'm you know, just restarted recently. She'll complain about her phone"
+    },
+    {
+        "start": 2059.6,
+        "end": 2063.6,
+        "text": " So just restart your phone every day. She'd be like I can't remember to do that like okay"
+    },
+    {
+        "start": 2064.48,
+        "end": 2066.2400000000002,
+        "text": " So but now"
+    },
+    {
+        "start": 2066.2400000000002,
+        "end": 2069.28,
+        "text": " Phone does it every day at 4 15 a.m. I restart my phone"
+    },
+    {
+        "start": 2069.92,
+        "end": 2073.44,
+        "text": " Comes back up by the time I'm you know, of course, I'm sleep at that point when I wake up"
+    },
+    {
+        "start": 2073.44,
+        "end": 2076.0,
+        "text": " I'm looking at a that a pretty refreshed phone. So yeah"
+    },
+    {
+        "start": 2076.4,
+        "end": 2082.32,
+        "text": " Yeah, I imagine most people can't get off their phone for three minutes to allow it to restart"
+    },
+    {
+        "start": 2082.7200000000003,
+        "end": 2084.7200000000003,
+        "text": " That's the main problem"
+    },
+    {
+        "start": 2086.48,
+        "end": 2089.44,
+        "text": " Hence why hence why you do it when you sleep let it do it"
+    },
+    {
+        "start": 2090.32,
+        "end": 2095.2000000000003,
+        "text": " You'll be able to get you want to miss it and then you wake up your phone is ready for action for the whole day"
+    },
+    {
+        "start": 2095.36,
+        "end": 2103.52,
+        "text": " There it is all right. Well perfect. I subscribe to that every night. Oh look at you, Jermaine. I've got it set at 3 a.m"
+    },
+    {
+        "start": 2104.32,
+        "end": 2106.32,
+        "text": " Yeah, yeah, I feel special"
+    },
+    {
+        "start": 2107.52,
+        "end": 2110.16,
+        "text": " What you have a what you say severe?"
+    },
+    {
+        "start": 2111.68,
+        "end": 2117.28,
+        "text": " I was saying what time you said 3 a.m. Yeah 3 a.m. That's cool. That's cool. That's excellent. You have an android too"
+    },
+    {
+        "start": 2117.28,
+        "end": 2124.48,
+        "text": " Don't you? Quit telling everybody. I'm so sorry. Yeah. I do have a beautiful android. It's the newest Samsung Galaxy"
+    },
+    {
+        "start": 2125.04,
+        "end": 2127.36,
+        "text": " It's the Bentley version"
+    },
+    {
+        "start": 2128.1600000000003,
+        "end": 2135.2000000000003,
+        "text": " That's the Bentley version tune into Jermaine tomorrow at 10 for auto correct to hear more about Bentley's and whatnot"
+    },
+    {
+        "start": 2135.36,
+        "end": 2138.32,
+        "text": " Yes, we will be talking about it. Oh for real. We're talking about euro"
+    },
+    {
+        "start": 2138.32,
+        "end": 2139.28,
+        "text": " I mean"
+    },
+    {
+        "start": 2139.28,
+        "end": 2144.96,
+        "text": " This week we're talking about cruising Clinton. So yeah some throwback cars. Okay. Yeah, cool. I saw"
+    },
+    {
+        "start": 2145.44,
+        "end": 2151.6,
+        "text": " This is unrelated to everyday tech. I'm very sorry, but I saw an antique car that was like a Toyota Camry"
+    },
+    {
+        "start": 2151.6,
+        "end": 2155.1200000000003,
+        "text": " And it had the antique tag on it and I was like that's that's wild"
+    },
+    {
+        "start": 2155.12,
+        "end": 2159.7599999999998,
+        "text": " It's time now. Yeah, and it looks so great. It did it look right now. I know. I know"
+    },
+    {
+        "start": 2160.3199999999997,
+        "end": 2162.7999999999997,
+        "text": " All right, anyways back to everyday tech. We are"
+    },
+    {
+        "start": 2164.16,
+        "end": 2167.7599999999998,
+        "text": " So the NSA's next tip to protect your smart device"
+    },
+    {
+        "start": 2168.3199999999997,
+        "end": 2174.3199999999997,
+        "text": " Says to use biometrics and a secure passcode. So if you don't know what biometrics is what is it severe?"
+    },
+    {
+        "start": 2175.7599999999998,
+        "end": 2184.3199999999997,
+        "text": " Biometrics is the ability like to use like fingerprints or facewrestling recognition to be able to unlock your phone or to make a purchase through your store"
+    },
+    {
+        "start": 2184.88,
+        "end": 2186.88,
+        "text": " or if you're using"
+    },
+    {
+        "start": 2187.76,
+        "end": 2194.48,
+        "text": " Or if you're using like tap like you know like if you're using like tap to be able to make tap to pay type purchases and everything out"
+    },
+    {
+        "start": 2195.04,
+        "end": 2199.76,
+        "text": " Always link that using biometrics because that's I mean passwords are great"
+    },
+    {
+        "start": 2199.92,
+        "end": 2201.92,
+        "text": " Especially if you change your passwords regularly"
+    },
+    {
+        "start": 2202.2400000000002,
+        "end": 2207.44,
+        "text": " Passwords are great, but passwords can be broken. It's even harder to break a biometric lock"
+    },
+    {
+        "start": 2207.6800000000003,
+        "end": 2212.7200000000003,
+        "text": " To be able to break a fingerprint lock or a face lock that's harder to be able to break. So"
+    },
+    {
+        "start": 2213.3599999999997,
+        "end": 2218.72,
+        "text": " Yeah, by all means definitely definitely you want to do biometric locks a lot more regularly"
+    },
+    {
+        "start": 2219.52,
+        "end": 2221.7599999999998,
+        "text": " To augment to go to to more"
+    },
+    {
+        "start": 2222.3999999999996,
+        "end": 2224.08,
+        "text": " greater expound"
+    },
+    {
+        "start": 2224.08,
+        "end": 2227.04,
+        "text": " The securities are already on your phone using passcode to print codes"
+    },
+    {
+        "start": 2228.72,
+        "end": 2234.64,
+        "text": " Okay, and then the next one says to disable Bluetooth when you're not using it and I got to say I"
+    },
+    {
+        "start": 2234.9599999999996,
+        "end": 2239.68,
+        "text": " I have I don't do that at all. I completely my Bluetooth stays on at all times"
+    },
+    {
+        "start": 2239.7599999999998,
+        "end": 2242.64,
+        "text": " So this is something new that I'm learning don't make me do it"
+    },
+    {
+        "start": 2245.6,
+        "end": 2251.7599999999998,
+        "text": " When most phones on most phones, I know I think I phone you at the swipe up from the bottom Android you swipe down from the top"
+    },
+    {
+        "start": 2252.16,
+        "end": 2256.56,
+        "text": " You have all the different things that are up top like usually you know Android you swipe down"
+    },
+    {
+        "start": 2257.2,
+        "end": 2261.52,
+        "text": " The first thing on the upper left is your Wi-Fi and then you've got data and then you got well"
+    },
+    {
+        "start": 2261.52,
+        "end": 2262.7999999999997,
+        "text": " Depending on how you got it organized"
+    },
+    {
+        "start": 2262.8799999999997,
+        "end": 2268.8799999999997,
+        "text": " But usually one of the first four options up there you'll see the Bluetooth logo that looks like a looks like a B with"
+    },
+    {
+        "start": 2269.44,
+        "end": 2271.44,
+        "text": " That's got like edges on the end of it"
+    },
+    {
+        "start": 2271.44,
+        "end": 2274.08,
+        "text": " But it's tap that so that it's not illuminated"
+    },
+    {
+        "start": 2274.56,
+        "end": 2281.52,
+        "text": " Congratulations, you just uh, you just disabled your Bluetooth the thing is a lot of people use their Bluetooth for their smartwatch"
+    },
+    {
+        "start": 2282.08,
+        "end": 2284.08,
+        "text": " Everything my car"
+    },
+    {
+        "start": 2284.32,
+        "end": 2286.32,
+        "text": " severe"
+    },
+    {
+        "start": 2286.32,
+        "end": 2291.2000000000003,
+        "text": " Right like when I when I'm jamming listening some Spotify some hopefully unhacked Spotify"
+    },
+    {
+        "start": 2292.88,
+        "end": 2296.8,
+        "text": " When I'm jamming listening to some unhack I was listening to some mo great some way to work"
+    },
+    {
+        "start": 2297.6000000000004,
+        "end": 2302.5600000000004,
+        "text": " I mean, so you want to be able to uh, that's how it usually goes is via your Bluetooth"
+    },
+    {
+        "start": 2303.52,
+        "end": 2309.28,
+        "text": " So you know you miss the days of an ox cord, but they're exactly right, you know to keep your Bluetooth"
+    },
+    {
+        "start": 2310.7200000000003,
+        "end": 2314.0800000000004,
+        "text": " Turned off is always good the good thing is about Bluetooth"
+    },
+    {
+        "start": 2314.7200000000003,
+        "end": 2321.1200000000003,
+        "text": " Um, I saw that one and it kind of made me kind of scratch my head a little bit because they give you a six digit"
+    },
+    {
+        "start": 2321.6800000000003,
+        "end": 2324.2400000000002,
+        "text": " Shortcode for the first time you pair against something"
+    },
+    {
+        "start": 2324.3999999999996,
+        "end": 2329.68,
+        "text": " So even if your Bluetooth is open no matter if the first time someone tries to break to pair to your phone"
+    },
+    {
+        "start": 2330.16,
+        "end": 2335.12,
+        "text": " Or or a device tries to pair to your phone you must commit you must confirm that"
+    },
+    {
+        "start": 2335.8399999999997,
+        "end": 2342.3199999999997,
+        "text": " You must confirm that connection and you confirm the shortcode a lot like when you try to log into your bank or log in the cash app or"
+    },
+    {
+        "start": 2342.3199999999997,
+        "end": 2347.04,
+        "text": " Venmo and you get a six digit code there the bluetooth says that you've got a code"
+    },
+    {
+        "start": 2347.12,
+        "end": 2351.4399999999996,
+        "text": " So yeah, I didn't see that one, but you get us you get a random six digit code anyway"
+    },
+    {
+        "start": 2352.0,
+        "end": 2356.96,
+        "text": " So you know it just automatically say hey you're about to be connected and you'd have to be"
+    },
+    {
+        "start": 2357.52,
+        "end": 2361.76,
+        "text": " In most cases depending on depending on what it is you have to be within 12 feet"
+    },
+    {
+        "start": 2362.4,
+        "end": 2368.48,
+        "text": " Uh, you have to be within 12 feet to get a decent signal on on bluetooth the best signal will be like three three feet"
+    },
+    {
+        "start": 2368.88,
+        "end": 2374.4,
+        "text": " So I guess anything can happen, but look, you know as long as you're you're vigilant in your phone"
+    },
+    {
+        "start": 2374.4,
+        "end": 2377.36,
+        "text": " You see a pop-up says hey you got a bluetooth pairing request"
+    },
+    {
+        "start": 2378.0,
+        "end": 2382.0,
+        "text": " Do you want to confirm you like wait? I'm not connecting somebody that's somebody trying to connect you"
+    },
+    {
+        "start": 2382.56,
+        "end": 2387.92,
+        "text": " And search a 12 foot radius around you. Yeah, what can they steal though through my bluetooth"
+    },
+    {
+        "start": 2389.6,
+        "end": 2395.92,
+        "text": " So it's not always what they can steal they can always upload something they can upload a virus to your phone"
+    },
+    {
+        "start": 2396.32,
+        "end": 2398.32,
+        "text": " They can upload a"
+    },
+    {
+        "start": 2398.32,
+        "end": 2403.04,
+        "text": " They can upload the ability I actually try every now and then I try to hack myself"
+    },
+    {
+        "start": 2404.0,
+        "end": 2406.96,
+        "text": " And only an IT man would try to do that"
+    },
+    {
+        "start": 2409.12,
+        "end": 2412.16,
+        "text": " I've got older Android and older"
+    },
+    {
+        "start": 2412.56,
+        "end": 2417.2799999999997,
+        "text": " iOS devices that I constantly try to go ahead and try to sneak past myself on"
+    },
+    {
+        "start": 2417.68,
+        "end": 2423.2799999999997,
+        "text": " All that they're running like auto routine sub routines and stuff, but that's that's another conversation, but um, but yeah"
+    },
+    {
+        "start": 2424.24,
+        "end": 2430.96,
+        "text": " Yeah, they'll pop up and you can try to send like a thread actor that's got that's got, you know"
+    },
+    {
+        "start": 2431.68,
+        "end": 2440.08,
+        "text": " Bad intentions they can send they can bluetooth a program to you that will self execute and that be something like and could be a virus"
+    },
+    {
+        "start": 2440.16,
+        "end": 2443.84,
+        "text": " But the thing is you have to accept that pairing request"
+    },
+    {
+        "start": 2443.92,
+        "end": 2445.92,
+        "text": " There's really that I know of again"
+    },
+    {
+        "start": 2446.32,
+        "end": 2448.7200000000003,
+        "text": " There's anybody in the listening audience that that"
+    },
+    {
+        "start": 2449.6,
+        "end": 2456.08,
+        "text": " Would would disagree? I'm open to being enlightened, but with bluetooth. That's what that's the one that made me kind of scratch my head"
+    },
+    {
+        "start": 2456.64,
+        "end": 2458.64,
+        "text": " Good. It's not bluetooth requests"
+    },
+    {
+        "start": 2458.64,
+        "end": 2464.0,
+        "text": " Requires the permission of your phone and there's nothing they can do about it unless they were to somehow"
+    },
+    {
+        "start": 2464.64,
+        "end": 2466.48,
+        "text": " Ninja the phone out of your hand"
+    },
+    {
+        "start": 2466.48,
+        "end": 2469.2,
+        "text": " Pres yes and ninja it back into your hand without you"
+    },
+    {
+        "start": 2469.68,
+        "end": 2475.52,
+        "text": " Well here's here's the thing too so you could get into a sticky situation like my mother somebody who's a little bit older"
+    },
+    {
+        "start": 2475.92,
+        "end": 2480.24,
+        "text": " Who sees this pairing request pop up on their phone and mama's gone automatically push yes"
+    },
+    {
+        "start": 2481.12,
+        "end": 2483.12,
+        "text": " Hmm, right"
+    },
+    {
+        "start": 2484.08,
+        "end": 2490.96,
+        "text": " Yeah, if you're not paying attention to it then and if you actually or you might be trying to press something else and a pairing request come up and then you didn't tap"
+    },
+    {
+        "start": 2491.12,
+        "end": 2494.72,
+        "text": " You like well mama was paying attention. She was like paired with what?"
+    },
+    {
+        "start": 2495.2,
+        "end": 2497.92,
+        "text": " Okay, yes, that's how my mom moves on the phone"
+    },
+    {
+        "start": 2500.64,
+        "end": 2502.3199999999997,
+        "text": " Not got you. I got you. I got you. I got"
+    },
+    {
+        "start": 2502.96,
+        "end": 2505.44,
+        "text": " Well, I think the biggest thing just to be you know, just to be a"
+    },
+    {
+        "start": 2505.92,
+        "end": 2510.24,
+        "text": " My own fellow is just to be you know watchful and and everything else is is to"
+    },
+    {
+        "start": 2511.04,
+        "end": 2515.52,
+        "text": " Really just you know be be mindful and cognizant of the things that are on your phone sometimes"
+    },
+    {
+        "start": 2516.16,
+        "end": 2518.3999999999996,
+        "text": " I know I'm and I'm completely guilty of this"
+    },
+    {
+        "start": 2518.64,
+        "end": 2523.2799999999997,
+        "text": " I will if I'm not on my phone sometimes I'm phone calls and other stuff for work or whatever"
+    },
+    {
+        "start": 2523.6,
+        "end": 2526.08,
+        "text": " And I miss a whole line of notifications"
+    },
+    {
+        "start": 2526.08,
+        "end": 2530.8799999999997,
+        "text": " So I've got to scroll like two or three times just to get to the bottom of my modification my notifications"
+    },
+    {
+        "start": 2531.2,
+        "end": 2537.3599999999997,
+        "text": " And be like okay, what did I miss and I'm going through and exiting this and guessing that and telling no to this or oh"
+    },
+    {
+        "start": 2537.44,
+        "end": 2541.52,
+        "text": " That's timed out. So yeah, I mean there's there's other ways you can you can get things done"
+    },
+    {
+        "start": 2541.6800000000003,
+        "end": 2544.08,
+        "text": " But uh just be mindful and watch your phone"
+    },
+    {
+        "start": 2544.56,
+        "end": 2550.1600000000003,
+        "text": " Yeah, I guess that leads to another point like that's not related to the uh this is not on the NSA tip"
+    },
+    {
+        "start": 2550.1600000000003,
+        "end": 2557.1200000000003,
+        "text": " But also like don't overload your phone with notifications. I guess not everything needs to have their notifications on not every app needs to"
+    },
+    {
+        "start": 2557.6,
+        "end": 2561.44,
+        "text": " So like don't overload your phone with notifications so that you miss something"
+    },
+    {
+        "start": 2561.84,
+        "end": 2564.64,
+        "text": " Right, right or at least"
+    },
+    {
+        "start": 2565.6,
+        "end": 2571.2000000000003,
+        "text": " Like the really important things that you really pay attention to make those pop-up sometimes some of these things"
+    },
+    {
+        "start": 2571.76,
+        "end": 2574.64,
+        "text": " You know, I don't I don't know about iPhone because I don't believe in that"
+    },
+    {
+        "start": 2574.96,
+        "end": 2576.96,
+        "text": " But uh"
+    },
+    {
+        "start": 2578.48,
+        "end": 2581.68,
+        "text": " Yeah, the ability for the little bubbles to pop up right so I Android"
+    },
+    {
+        "start": 2581.68,
+        "end": 2585.92,
+        "text": " I know you probably don't tell me about like a text message will pop up as a bubble or if you're on"
+    },
+    {
+        "start": 2586.7200000000003,
+        "end": 2590.56,
+        "text": " Facebook messenger to pop up as a bubble we don't allow bubbles around my way"
+    },
+    {
+        "start": 2591.6,
+        "end": 2597.68,
+        "text": " Because people act like they're in your refrigerator and when your bubble pops up on your phone"
+    },
+    {
+        "start": 2597.76,
+        "end": 2605.36,
+        "text": " Oh, they're they're peaking so no we don't have bubbles. We don't have bubbles. No, I get the little number in the corner of the app"
+    },
+    {
+        "start": 2605.36,
+        "end": 2607.36,
+        "text": " That's all we need"
+    },
+    {
+        "start": 2608.48,
+        "end": 2612.16,
+        "text": " Thank you guys that's another tip to keep your privacy private"
+    },
+    {
+        "start": 2612.48,
+        "end": 2615.84,
+        "text": " Also when text messages come in they say new message"
+    },
+    {
+        "start": 2616.64,
+        "end": 2619.36,
+        "text": " They don't say who and they don't say what"
+    },
+    {
+        "start": 2620.0,
+        "end": 2621.36,
+        "text": " Right"
+    },
+    {
+        "start": 2622.56,
+        "end": 2625.6800000000003,
+        "text": " No, I took my my settings off. Oh, okay, you took eyes"
+    },
+    {
+        "start": 2627.76,
+        "end": 2629.76,
+        "text": " You know, you know business who takes them"
+    },
+    {
+        "start": 2630.0,
+        "end": 2635.52,
+        "text": " Because people are very refrigerator like you know how you go into somebody's house and you open up their fridge or stay in there and"
+    },
+    {
+        "start": 2635.52,
+        "end": 2639.36,
+        "text": " steer in it that's how they do I mean that's how I am but"
+    },
+    {
+        "start": 2640.2400000000002,
+        "end": 2646.88,
+        "text": " And so I figure if if anybody's out there like me they're gonna be like staring at my phone when notifications pop up on it"
+    },
+    {
+        "start": 2647.2000000000003,
+        "end": 2649.2000000000003,
+        "text": " So yeah"
+    },
+    {
+        "start": 2649.36,
+        "end": 2651.36,
+        "text": " See that's hilarious"
+    },
+    {
+        "start": 2651.6,
+        "end": 2660.48,
+        "text": " Well, I will say that I myself am bad about like if I'm sitting across from someone and the the screen flashes up like you automatically it draws your eyes to"
+    },
+    {
+        "start": 2660.48,
+        "end": 2663.36,
+        "text": " I told you I told you I don't like my refrigerator"
+    },
+    {
+        "start": 2664.0,
+        "end": 2669.28,
+        "text": " I come on you saw word at least you saw one word. Yeah, it's that new message. Yeah"
+    },
+    {
+        "start": 2672.56,
+        "end": 2677.1200000000003,
+        "text": " All right, the next tip is to not connect to public networks. That's a pretty"
+    },
+    {
+        "start": 2677.92,
+        "end": 2679.92,
+        "text": " That that could be a full"
+    },
+    {
+        "start": 2680.96,
+        "end": 2682.96,
+        "text": " Full show of alarming"
+    },
+    {
+        "start": 2683.3599999999997,
+        "end": 2685.3599999999997,
+        "text": " About connecting to public networks"
+    },
+    {
+        "start": 2687.3599999999997,
+        "end": 2693.7599999999998,
+        "text": " Okay, yeah, and that's right you gotta be real careful and that's one of the things I think we talked about before about the importance of VPNs"
+    },
+    {
+        "start": 2694.4,
+        "end": 2699.7599999999998,
+        "text": " That's when you want to have a VPN. I really don't full with VPNs on my own private network"
+    },
+    {
+        "start": 2699.7599999999998,
+        "end": 2701.44,
+        "text": " You don't need it on your own private network"
+    },
+    {
+        "start": 2701.6,
+        "end": 2705.8399999999997,
+        "text": " But if you go to the coffee shop and this down the third and you're doing some kind of sensitive stuff"
+    },
+    {
+        "start": 2705.92,
+        "end": 2710.0,
+        "text": " For you just want to have some privacy. That's when you have a VPN is when you're on a private network"
+    },
+    {
+        "start": 2710.32,
+        "end": 2715.44,
+        "text": " You can if you do get on a private network have a VPN ready and on a cell phone"
+    },
+    {
+        "start": 2715.52,
+        "end": 2720.4,
+        "text": " I recommend thunder VPN, which is free. It's funny. It looks like a little kid version of Thor"
+    },
+    {
+        "start": 2721.28,
+        "end": 2727.04,
+        "text": " It's funny, but it's really it's pretty good thunder VPN. I highly recommend it and also a vast because of course"
+    },
+    {
+        "start": 2727.52,
+        "end": 2729.52,
+        "text": " Of course, of course"
+    },
+    {
+        "start": 2729.52,
+        "end": 2734.6400000000003,
+        "text": " The final one I'm gonna say is that we mentioned it all the time is the update software and apps"
+    },
+    {
+        "start": 2735.44,
+        "end": 2742.24,
+        "text": " Because you know, it keeps you secure keeps you secure and if you'd like to check out any of these other tips go to"
+    },
+    {
+        "start": 2742.56,
+        "end": 2749.04,
+        "text": " NSA.com and you can find their press release there all right, so beer. I appreciate you man. Thanks for helping myself when I call her's out"
+    },
+    {
+        "start": 2749.8399999999997,
+        "end": 2754.72,
+        "text": " Yes indeed glad to be here glad to be here and glad to hear y'all voice and and good to be live"
+    },
+    {
+        "start": 2755.04,
+        "end": 2757.04,
+        "text": " Yes, absolutely. I know you missed us"
+    },
+    {
+        "start": 2758.08,
+        "end": 2760.08,
+        "text": " If you missed any of the show"
+    },
+    {
+        "start": 2760.08,
+        "end": 2767.6,
+        "text": " Make sure you listen back to it on your favorite podcasting app or download the MPB public media app every day tech is brought to you by Mississippi public broadcasting"
+    },
+    {
+        "start": 2767.84,
+        "end": 2774.4,
+        "text": " Think Radio and generous contributions from listeners our show today was engineered by Germaine flood call screener was will pickering"
+    },
+    {
+        "start": 2774.7999999999997,
+        "end": 2781.2,
+        "text": " I've been your host Abram nanny also the podcast producer. Thank you for tuning in up next is Dr. Jimmy Stewart with the original"
+    },
+    {
+        "start": 2781.2,
+        "end": 2785.68,
+        "text": " Southern remedy and we'll be back next Wednesday morning at 10 right here on MPB think radio"
+    },
+    {
+        "start": 2785.68,
+        "end": 2797.68,
+        "text": " This is an MPB think radio podcast to hear previous shows visit MPB online.org or download the MPB public radio app to listen on your iPhone or Android phone or the main"
+    }
+]

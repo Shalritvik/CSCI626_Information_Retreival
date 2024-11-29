@@ -1,0 +1,2457 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.6000000000000005,
+        "text": " This message comes from Giving Tuesday, the world's biggest day for generosity."
+    },
+    {
+        "start": 4.6000000000000005,
+        "end": 6.86,
+        "text": " This year it's on Tuesday, December 3."
+    },
+    {
+        "start": 6.86,
+        "end": 11.66,
+        "text": " While you're out there being generous, share it on social media using hashtag Giving Tuesday."
+    },
+    {
+        "start": 11.66,
+        "end": 14.66,
+        "text": " Research shows this will inspire others to be generous too."
+    },
+    {
+        "start": 14.66,
+        "end": 20.52,
+        "text": " This message comes from worldwide technology, leading the AI and digital revolution."
+    },
+    {
+        "start": 20.52,
+        "end": 24.94,
+        "text": " Transform your business with cutting-edge technology solutions that bring together AI,"
+    },
+    {
+        "start": 24.94,
+        "end": 28.88,
+        "text": " cloud, security, and digital transformation to deliver business value."
+    },
+    {
+        "start": 28.88,
+        "end": 32.24,
+        "text": " Learn more at www.wt.com"
+    },
+    {
+        "start": 32.24,
+        "end": 33.879999999999995,
+        "text": " Hey, it's Rund here."
+    },
+    {
+        "start": 33.879999999999995,
+        "end": 36.879999999999995,
+        "text": " Before the show today, we want to take a minute and say,"
+    },
+    {
+        "start": 36.879999999999995,
+        "end": 39.239999999999995,
+        "text": " Hi, if you're a new listener."
+    },
+    {
+        "start": 39.239999999999995,
+        "end": 42.76,
+        "text": " I host the show with my co-host, Ramtee Nara Blui."
+    },
+    {
+        "start": 42.76,
+        "end": 45.32,
+        "text": " We have new episodes every Thursday."
+    },
+    {
+        "start": 45.32,
+        "end": 51.28,
+        "text": " And in each one, we reopen a story from the past to try to understand something about the present"
+    },
+    {
+        "start": 51.28,
+        "end": 52.68,
+        "text": " and how we got here."
+    },
+    {
+        "start": 52.68,
+        "end": 59.6,
+        "text": " ThruLine is an NPR podcast, which means we're non-profit, independent public media."
+    },
+    {
+        "start": 59.6,
+        "end": 65.32,
+        "text": " You can support us and get sponsor-free versions of every episode, as well as bonus content,"
+    },
+    {
+        "start": 65.32,
+        "end": 70.24,
+        "text": " by signing up for NPR++.NPR.org."
+    },
+    {
+        "start": 70.24,
+        "end": 74.76,
+        "text": " And sidebar, shout out to our supporters, hearing this right now."
+    },
+    {
+        "start": 74.76,
+        "end": 75.72,
+        "text": " And that's it."
+    },
+    {
+        "start": 75.72,
+        "end": 78.4,
+        "text": " Thanks for being here, and hope you enjoyed the show."
+    },
+    {
+        "start": 82.68,
+        "end": 98.68,
+        "text": " Our good ancestors were wise, even in their mirth."
+    },
+    {
+        "start": 98.68,
+        "end": 103.76,
+        "text": " We have a standing proof of this in the season they chose for the celebration of our annual"
+    },
+    {
+        "start": 103.76,
+        "end": 107.76,
+        "text": " festival, the Thanksgiving."
+    },
+    {
+        "start": 107.76,
+        "end": 135.4,
+        "text": " The funeral-faced month of November is thus made to wear a garland of joy."
+    },
+    {
+        "start": 135.4,
+        "end": 140.88,
+        "text": " Let me tell you a story of Thanksgiving, the traditional one."
+    },
+    {
+        "start": 140.88,
+        "end": 147.20000000000002,
+        "text": " In 1621, when the English colonists, now known as the pilgrims, were newcomers to this"
+    },
+    {
+        "start": 147.20000000000002,
+        "end": 155.8,
+        "text": " continent, there was a major feast between the Wapanogs and the English of Plinent."
+    },
+    {
+        "start": 155.8,
+        "end": 157.6,
+        "text": " That's a very real event."
+    },
+    {
+        "start": 157.6,
+        "end": 161.16,
+        "text": " The event that's now called the first Thanksgiving."
+    },
+    {
+        "start": 161.16,
+        "end": 166.84,
+        "text": " The suggestion is that the two parties got together for this feast out of innate friendship."
+    },
+    {
+        "start": 166.84,
+        "end": 174.84,
+        "text": " It's this odd little frozen-in-time fantasy moment of folks getting together and eating,"
+    },
+    {
+        "start": 174.84,
+        "end": 176.51999999999998,
+        "text": " but you don't really know why."
+    },
+    {
+        "start": 176.51999999999998,
+        "end": 178.88,
+        "text": " This is Elizabeth James Perry."
+    },
+    {
+        "start": 178.88,
+        "end": 185.12,
+        "text": " I'm a member of the Aquino-Wapanoge tribe of Ghehaet, Martha's Vineyard, and I'm an artist,"
+    },
+    {
+        "start": 185.12,
+        "end": 187.51999999999998,
+        "text": " and I'm an exhibit consultant, as well."
+    },
+    {
+        "start": 187.51999999999998,
+        "end": 190.8,
+        "text": " She says that when the English first arrived, they..."
+    },
+    {
+        "start": 190.8,
+        "end": 192.8,
+        "text": " were small in number."
+    },
+    {
+        "start": 192.8,
+        "end": 198.56,
+        "text": " They were newcomers, and they were struggling badly because they weren't necessarily all"
+    },
+    {
+        "start": 198.56,
+        "end": 201.68,
+        "text": " farmers back where they came from either."
+    },
+    {
+        "start": 201.68,
+        "end": 206.12,
+        "text": " All these Englishmen are trying to do is survive."
+    },
+    {
+        "start": 206.12,
+        "end": 212.0,
+        "text": " The Wapanogs outnumber them by a factor of at minimum 20 to 1."
+    },
+    {
+        "start": 212.0,
+        "end": 214.88000000000002,
+        "text": " So the Wapanogs are the bosses here."
+    },
+    {
+        "start": 214.88000000000002,
+        "end": 216.76000000000002,
+        "text": " This is David Silverman."
+    },
+    {
+        "start": 216.76000000000002,
+        "end": 220.28,
+        "text": " I'm professor of history at George Washington University."
+    },
+    {
+        "start": 220.28,
+        "end": 222.8,
+        "text": " And he's also the author of the book."
+    },
+    {
+        "start": 222.8,
+        "end": 227.64000000000001,
+        "text": " This land is their land, the Wapanoge deans, Plymouth colony, and the troubled history"
+    },
+    {
+        "start": 227.64000000000001,
+        "end": 229.8,
+        "text": " of Thanksgiving."
+    },
+    {
+        "start": 229.8,
+        "end": 234.84,
+        "text": " David says remembering this meeting is just about friendship and gratitude."
+    },
+    {
+        "start": 234.84,
+        "end": 249.24,
+        "text": " Actually, Rob's this very real event of all of its historical context."
+    },
+    {
+        "start": 249.24,
+        "end": 253.0,
+        "text": " Now let me tell you another Thanksgiving story."
+    },
+    {
+        "start": 253.0,
+        "end": 256.84000000000003,
+        "text": " This one happens more than 50 years later."
+    },
+    {
+        "start": 256.84000000000003,
+        "end": 263.28000000000003,
+        "text": " In June of 1675, the indigenous Wampanoge people of what is now Southern New England were"
+    },
+    {
+        "start": 263.28000000000003,
+        "end": 269.04,
+        "text": " on the brink of war with the English colonists of Massachusetts and Rhode Island, the descendants"
+    },
+    {
+        "start": 269.04,
+        "end": 270.88,
+        "text": " of those pilgrims."
+    },
+    {
+        "start": 270.88,
+        "end": 276.08,
+        "text": " Metacom, a Wampanoge chief, met with Rhode Island's Attorney General."
+    },
+    {
+        "start": 276.08,
+        "end": 284.0,
+        "text": " He said was, you know, when my father, a chief named Usamequin, met your ancestors, the"
+    },
+    {
+        "start": 284.0,
+        "end": 285.56,
+        "text": " Plymouth colonists."
+    },
+    {
+        "start": 285.56,
+        "end": 289.8,
+        "text": " He was a great man and you were a little child."
+    },
+    {
+        "start": 289.8,
+        "end": 294.56,
+        "text": " And he gave you land to live on, more land than we the Wampanogs have today."
+    },
+    {
+        "start": 294.56,
+        "end": 299.28,
+        "text": " He taught you how to plant, he taught you where to fish."
+    },
+    {
+        "start": 299.28,
+        "end": 303.03999999999996,
+        "text": " But now here we are 50 plus years later."
+    },
+    {
+        "start": 303.04,
+        "end": 309.6,
+        "text": " Now you're the great man and where the little child."
+    },
+    {
+        "start": 309.6,
+        "end": 314.36,
+        "text": " And you don't treat us with that kind of respect."
+    },
+    {
+        "start": 314.36,
+        "end": 318.36,
+        "text": " That's why I'm going to war."
+    },
+    {
+        "start": 318.36,
+        "end": 329.42,
+        "text": " May Athletic"
+    },
+    {
+        "start": 329.42,
+        "end": 334.06,
+        "text": " Reaching"
+    },
+    {
+        "start": 334.06,
+        "end": 334.86,
+        "text": " the"
+    },
+    {
+        "start": 335.56,
+        "end": 337.14,
+        "text": " Dod\u00fang"
+    },
+    {
+        "start": 337.84000000000003,
+        "end": 341.8,
+        "text": " Top"
+    },
+    {
+        "start": 341.8,
+        "end": 352.48,
+        "text": " The odds are really stacked, a tribe, they top out at 15,000 people."
+    },
+    {
+        "start": 352.48,
+        "end": 359.40000000000003,
+        "text": " England is 5 million people."
+    },
+    {
+        "start": 359.40000000000003,
+        "end": 362.6,
+        "text": " It would come to be known as King Philip's War."
+    },
+    {
+        "start": 362.6,
+        "end": 368.36,
+        "text": " The name the English colonists gave the Wampanoag chief Metacom."
+    },
+    {
+        "start": 368.36,
+        "end": 373.72,
+        "text": " The English show the Wampanoag and their allies very little respect."
+    },
+    {
+        "start": 373.72,
+        "end": 380.44,
+        "text": " Let's be clear, they kill thousands of them."
+    },
+    {
+        "start": 380.44,
+        "end": 382.92,
+        "text": " And enslave many more."
+    },
+    {
+        "start": 382.92,
+        "end": 387.72,
+        "text": " And sell them off to the Caribbean and to the Mediterranean."
+    },
+    {
+        "start": 387.72,
+        "end": 392.52000000000004,
+        "text": " The war goes on for nearly three years."
+    },
+    {
+        "start": 398.36,
+        "end": 413.04,
+        "text": " A Maconis win."
+    },
+    {
+        "start": 413.04,
+        "end": 418.52000000000004,
+        "text": " But a military captain named Benjamin Church isn't finished."
+    },
+    {
+        "start": 418.52000000000004,
+        "end": 422.52000000000004,
+        "text": " He orders the head of King Philip."
+    },
+    {
+        "start": 422.52,
+        "end": 424.59999999999997,
+        "text": " The Wampanoag chief Metacom."
+    },
+    {
+        "start": 424.59999999999997,
+        "end": 432.91999999999996,
+        "text": " To be decapitated and his head piked outside of Plymouth Colony and it stays there for 20 years."
+    },
+    {
+        "start": 432.91999999999996,
+        "end": 435.4,
+        "text": " This is the very site where that feast took place."
+    },
+    {
+        "start": 435.4,
+        "end": 439.32,
+        "text": " The first things giving in 1621."
+    },
+    {
+        "start": 439.32,
+        "end": 443.59999999999997,
+        "text": " Afterwards Plymouth and Massachusetts they hold the Thanksgiving for their victory over"
+    },
+    {
+        "start": 443.59999999999997,
+        "end": 445.68,
+        "text": " the native people."
+    },
+    {
+        "start": 445.68,
+        "end": 449.68,
+        "text": " Tribal nations are so such a tiny portion of the population."
+    },
+    {
+        "start": 449.68,
+        "end": 456.88,
+        "text": " That's not by accident and nobody talks about you except when there's a butterball on the table."
+    },
+    {
+        "start": 456.88,
+        "end": 476.71999999999997,
+        "text": " Tomorrow Thanksgiving."
+    },
+    {
+        "start": 476.71999999999997,
+        "end": 484.12,
+        "text": " Mmm, turkey and dressing and pie and cake."
+    },
+    {
+        "start": 484.12,
+        "end": 489.04,
+        "text": " Here in no turkey we've still got all the freedoms and privileges the pilgrims gave us."
+    },
+    {
+        "start": 489.04,
+        "end": 491.84000000000003,
+        "text": " And out of those privileges have come a lot of things."
+    },
+    {
+        "start": 491.84000000000003,
+        "end": 509.64,
+        "text": " Things the pilgrims never even dreamed of."
+    },
+    {
+        "start": 509.64,
+        "end": 513.4,
+        "text": " Now let me tell you a third story of Thanksgiving."
+    },
+    {
+        "start": 513.4,
+        "end": 518.04,
+        "text": " Something that's very different and that you may have never heard."
+    },
+    {
+        "start": 518.04,
+        "end": 522.24,
+        "text": " The dogmas of the quiet past are inadequate to the stormy present."
+    },
+    {
+        "start": 522.24,
+        "end": 527.52,
+        "text": " The occasion is piled high with difficulty and we must rise."
+    },
+    {
+        "start": 527.52,
+        "end": 534.6,
+        "text": " Nearly two centuries after King Philip's war in 1863 a darkness had set over the Union."
+    },
+    {
+        "start": 534.6,
+        "end": 542.96,
+        "text": " The Confederate army was advancing into Pennsylvania, threatening places like Philadelphia and Baltimore."
+    },
+    {
+        "start": 542.96,
+        "end": 551.08,
+        "text": " The fiery trial through which we pass will light a staff in honor or disarmament to the latest generation."
+    },
+    {
+        "start": 551.08,
+        "end": 554.5600000000001,
+        "text": " The country was as divided as it had ever been."
+    },
+    {
+        "start": 554.5600000000001,
+        "end": 557.52,
+        "text": " War and destruction was everywhere."
+    },
+    {
+        "start": 557.52,
+        "end": 560.72,
+        "text": " Fellow citizens we cannot escape history."
+    },
+    {
+        "start": 560.72,
+        "end": 567.2,
+        "text": " We of this Congress and administration will be remembered in spite of ourselves."
+    },
+    {
+        "start": 567.2,
+        "end": 570.1600000000001,
+        "text": " Abraham Lincoln."
+    },
+    {
+        "start": 570.16,
+        "end": 581.8399999999999,
+        "text": " And in this moment a woman named Sarah Josepha Hale sent President Abraham Lincoln a letter."
+    },
+    {
+        "start": 581.8399999999999,
+        "end": 588.9599999999999,
+        "text": " Sir permit me as editor of the ladies book to request a few minutes of your precious time."
+    },
+    {
+        "start": 588.9599999999999,
+        "end": 594.8399999999999,
+        "text": " While laying before you a subject of deep interest myself and as I trust even to the president"
+    },
+    {
+        "start": 594.8399999999999,
+        "end": 598.0799999999999,
+        "text": " of our republic of some importance."
+    },
+    {
+        "start": 598.08,
+        "end": 605.9200000000001,
+        "text": " This subject is to have the day of our annual Thanksgiving made a national and fixed Union festival."
+    },
+    {
+        "start": 617.5200000000001,
+        "end": 624.72,
+        "text": " The reason we celebrate Thanksgiving as we do today is because of this letter from Sarah Josepha Hale."
+    },
+    {
+        "start": 624.72,
+        "end": 631.84,
+        "text": " It was her dream, her belief in our need for a national unifying story to bind us together."
+    },
+    {
+        "start": 631.84,
+        "end": 638.08,
+        "text": " But what is that story? How did it come together? And what does it leave out?"
+    },
+    {
+        "start": 641.28,
+        "end": 643.12,
+        "text": " I'm Rondabdir Fattah."
+    },
+    {
+        "start": 643.12,
+        "end": 650.8000000000001,
+        "text": " And I'm Ramteen Arablui on this episode of Thurline from NPR, the Mother of Thanksgiving."
+    },
+    {
+        "start": 655.12,
+        "end": 662.32,
+        "text": " Hi, my name is Ginny and I'm from Connecticut."
+    },
+    {
+        "start": 663.2,
+        "end": 669.6,
+        "text": " And if you want to be more interested at parties you should do what I do and listen to Thurline from NPR."
+    },
+    {
+        "start": 685.6800000000001,
+        "end": 692.0,
+        "text": " This message comes from Picture House presenting porcelain war chronicling three Ukrainian artists"
+    },
+    {
+        "start": 692.0,
+        "end": 696.1600000000001,
+        "text": " who choose to stay in their native country armed with their art, their cameras,"
+    },
+    {
+        "start": 696.1600000000001,
+        "end": 699.12,
+        "text": " and for the first time in their lives, their guns."
+    },
+    {
+        "start": 699.12,
+        "end": 703.12,
+        "text": " Now playing Select Cities coming soon to a theater near you."
+    },
+    {
+        "start": 704.24,
+        "end": 706.64,
+        "text": " This message comes from Abrams books."
+    },
+    {
+        "start": 706.64,
+        "end": 711.2,
+        "text": " Need your next obsession after fourth wing or a court of thorns and roses?"
+    },
+    {
+        "start": 711.2800000000001,
+        "end": 716.1600000000001,
+        "text": " The Lightlark saga is back with the newest book in the Romanticie sensation from number one"
+    },
+    {
+        "start": 716.1600000000001,
+        "end": 719.9200000000001,
+        "text": " international bestselling author Alex Astor Skyshade. Out now."
+    },
+    {
+        "start": 721.12,
+        "end": 723.0400000000001,
+        "text": " This message comes from Midi Health."
+    },
+    {
+        "start": 723.0400000000001,
+        "end": 726.6400000000001,
+        "text": " If you're a woman over 40 dealing with hot flashes and Somnia,"
+    },
+    {
+        "start": 726.6400000000001,
+        "end": 730.88,
+        "text": " weight gain or brain fog, you don't have to accept it as just another part of aging."
+    },
+    {
+        "start": 730.88,
+        "end": 734.6400000000001,
+        "text": " The clinicians at Midi Health understand what you're experiencing and know how to help."
+    },
+    {
+        "start": 734.6400000000001,
+        "end": 739.6800000000001,
+        "text": " Midi Health provides specialized care for para menopause and menopause covered by insurance."
+    },
+    {
+        "start": 739.68,
+        "end": 744.88,
+        "text": " Book your visit today at joinmitty.com. That's join m-i-d-i.com."
+    },
+    {
+        "start": 750.7199999999999,
+        "end": 757.92,
+        "text": " Part 1. Hales Crusade."
+    },
+    {
+        "start": 758.64,
+        "end": 772.88,
+        "text": " Sarah Josepha Hale was born in New Hampshire in 1788,"
+    },
+    {
+        "start": 772.88,
+        "end": 776.16,
+        "text": " not too far away from where the pilgrims first landed."
+    },
+    {
+        "start": 777.1999999999999,
+        "end": 782.4,
+        "text": " She was the daughter of revolutionary war heroes."
+    },
+    {
+        "start": 782.72,
+        "end": 788.3199999999999,
+        "text": " At a time when many women couldn't read, Sarah had access to plenty of education."
+    },
+    {
+        "start": 788.3199999999999,
+        "end": 793.84,
+        "text": " Thanks to a mother who homeschooled her and a brother who went off to Dartmouth and then"
+    },
+    {
+        "start": 793.84,
+        "end": 796.72,
+        "text": " came home and taught her everything he knew."
+    },
+    {
+        "start": 796.72,
+        "end": 798.64,
+        "text": " This is Melanie Kirkpatrick."
+    },
+    {
+        "start": 798.64,
+        "end": 803.52,
+        "text": " I'm a senior fellow at the Hudson Institute of Think Tank and Washington DC."
+    },
+    {
+        "start": 803.52,
+        "end": 805.36,
+        "text": " Melanie also wrote a book called,"
+    },
+    {
+        "start": 805.36,
+        "end": 809.36,
+        "text": " called Lady Editor, which is a biography of Sarah Josepha Hale."
+    },
+    {
+        "start": 810.24,
+        "end": 815.6800000000001,
+        "text": " I owe my early predilection for literary pursuits to the teaching and example of my mother."
+    },
+    {
+        "start": 816.4,
+        "end": 822.32,
+        "text": " She possessed a mind clear as rock water and a most happy talent of communicating knowledge."
+    },
+    {
+        "start": 823.36,
+        "end": 830.64,
+        "text": " Sarah really loved to read and she taught herself a lot of things too."
+    },
+    {
+        "start": 830.64,
+        "end": 836.32,
+        "text": " She wrote poetry, she wrote essays, she was just obsessed with writing."
+    },
+    {
+        "start": 836.4000000000001,
+        "end": 843.0400000000001,
+        "text": " She's probably one of the most highly educated women of the first quarter of the 19th century."
+    },
+    {
+        "start": 843.9200000000001,
+        "end": 847.7600000000001,
+        "text": " When she was 25, she married a local lawyer named David Hale."
+    },
+    {
+        "start": 848.48,
+        "end": 849.9200000000001,
+        "text": " Very happily."
+    },
+    {
+        "start": 849.9200000000001,
+        "end": 854.0,
+        "text": " We commenced soon after our marriage, a system of study and reading."
+    },
+    {
+        "start": 854.5600000000001,
+        "end": 857.84,
+        "text": " It seemed the aim of my husband to enlighten my reason,"
+    },
+    {
+        "start": 857.84,
+        "end": 864.8800000000001,
+        "text": " strengthen my judgment and give me confidence in my own powers of mind, which he estimated much higher"
+    },
+    {
+        "start": 864.88,
+        "end": 871.92,
+        "text": " than I. Her husband helped her develop her prose style and he also helped her get poetry"
+    },
+    {
+        "start": 871.92,
+        "end": 877.6,
+        "text": " published in local newspapers. They had a quiet, idyllic marriage for eight years."
+    },
+    {
+        "start": 878.56,
+        "end": 882.96,
+        "text": " And then he died suddenly,"
+    },
+    {
+        "start": 886.88,
+        "end": 891.04,
+        "text": " leaving her with four children and a fifth on the way."
+    },
+    {
+        "start": 892.0,
+        "end": 894.4,
+        "text": " Her life was crumbling around her."
+    },
+    {
+        "start": 895.1999999999999,
+        "end": 900.56,
+        "text": " They were relatively well off, but they didn't have any savings."
+    },
+    {
+        "start": 901.12,
+        "end": 904.48,
+        "text": " So here was Mrs. Hale, nearly penniless."
+    },
+    {
+        "start": 905.12,
+        "end": 912.16,
+        "text": " And the tradition of the time was when that happened to a woman that her children were"
+    },
+    {
+        "start": 912.16,
+        "end": 915.04,
+        "text": " parceled off to relatives and she didn't want to do that."
+    },
+    {
+        "start": 916.0799999999999,
+        "end": 920.56,
+        "text": " Desperate to keep her family together, Hale started a business with her sister in law,"
+    },
+    {
+        "start": 920.64,
+        "end": 927.04,
+        "text": " making hats. And she hated it. So she poured her energy into writing and publishing,"
+    },
+    {
+        "start": 927.04,
+        "end": 933.92,
+        "text": " prose, poems and short stories. And then she wrote a novel, which was an anti-slavery novel,"
+    },
+    {
+        "start": 933.92,
+        "end": 940.64,
+        "text": " came out in 1827. The novel was called Northwood, a tale of New England."
+    },
+    {
+        "start": 940.96,
+        "end": 952.24,
+        "text": " The Southern slaveholder is as absolute in his dominions or plantation rather,"
+    },
+    {
+        "start": 952.24,
+        "end": 958.16,
+        "text": " as the grand senior. This is a passage from the novel describing life on a southern plantation."
+    },
+    {
+        "start": 959.04,
+        "end": 967.2,
+        "text": " It's the story of a boy from a hometown that seems very similar to the one she grew up in,"
+    },
+    {
+        "start": 967.2,
+        "end": 974.4000000000001,
+        "text": " whose parents effectively give him to relatives in the south who don't have any children."
+    },
+    {
+        "start": 974.4000000000001,
+        "end": 978.1600000000001,
+        "text": " They're rich and give him lots of benefits that he wouldn't otherwise have."
+    },
+    {
+        "start": 978.8000000000001,
+        "end": 984.5600000000001,
+        "text": " And eventually this main character writes back to his hometown in the north and tells everyone"
+    },
+    {
+        "start": 984.5600000000001,
+        "end": 991.36,
+        "text": " exactly what he saw in the south. The change of masters is frequently a terrible evil to the"
+    },
+    {
+        "start": 991.36,
+        "end": 1000.72,
+        "text": " poor slave, and that system must be inhuman and unjust. It's clear that the author and the main"
+    },
+    {
+        "start": 1000.72,
+        "end": 1007.6,
+        "text": " character believe that slavery is wrong. Now Sarah also used her main character to argue that the"
+    },
+    {
+        "start": 1007.6,
+        "end": 1013.6800000000001,
+        "text": " best thing for black Americans would be to return to Africa. She believed total separation of the"
+    },
+    {
+        "start": 1013.68,
+        "end": 1021.3599999999999,
+        "text": " races was the only way out of a system of domination, which subjects man to the occurrence of such an"
+    },
+    {
+        "start": 1021.3599999999999,
+        "end": 1030.6399999999999,
+        "text": " outrage. Even though she'd never been to the south herself, Sarah's portrayal of life there"
+    },
+    {
+        "start": 1030.6399999999999,
+        "end": 1037.76,
+        "text": " struck a nerve with readers. Northwood was a big hit and one of the first anti-slavery novels of"
+    },
+    {
+        "start": 1037.76,
+        "end": 1045.84,
+        "text": " its kind. It kind of made her reputation among a group of intellectuals in Boston, including one"
+    },
+    {
+        "start": 1045.84,
+        "end": 1052.16,
+        "text": " man who was starting up a magazine for women. And he asked her out of the blue if she would come"
+    },
+    {
+        "start": 1052.8799999999999,
+        "end": 1058.08,
+        "text": " to Boston to edit it. It was called Ladies Magazine."
+    },
+    {
+        "start": 1058.1599999999999,
+        "end": 1069.04,
+        "text": " It was a very difficult decision for her because she would have to leave a four of her children behind."
+    },
+    {
+        "start": 1069.04,
+        "end": 1076.24,
+        "text": " She took the baby with her. Also she was chastised by people for thinking that she could"
+    },
+    {
+        "start": 1076.24,
+        "end": 1081.9199999999998,
+        "text": " maintain her family, make enough money to maintain her family. It was wrong to go off and become"
+    },
+    {
+        "start": 1081.92,
+        "end": 1088.16,
+        "text": " a professional. And there were some people who doubted that a magazine geared towards women could"
+    },
+    {
+        "start": 1088.16,
+        "end": 1096.16,
+        "text": " gain a big following. In 1828, when her magazine debuted, half of American women were illiterate."
+    },
+    {
+        "start": 1096.16,
+        "end": 1101.92,
+        "text": " But Sarah didn't let any of that get in her way. She moved to Boston and accepted the job at Ladies"
+    },
+    {
+        "start": 1101.92,
+        "end": 1109.76,
+        "text": " Magazine and her gamble paid off. The magazine was a hit and soon merged with another magazine to"
+    },
+    {
+        "start": 1109.76,
+        "end": 1121.28,
+        "text": " become Goody's Ladies Book based in Philadelphia. And it was when she became the editor or she preferred"
+    },
+    {
+        "start": 1121.28,
+        "end": 1129.04,
+        "text": " the term at a press of Goody's Ladies Book that things really took off for her."
+    },
+    {
+        "start": 1131.44,
+        "end": 1138.64,
+        "text": " She expanded her focus to culinary things. She also wrote about art and architecture."
+    },
+    {
+        "start": 1139.3600000000001,
+        "end": 1147.1200000000001,
+        "text": " She reviewed many books. The Ladies Book was the first avowed advocate of the holy cause of women's"
+    },
+    {
+        "start": 1147.1200000000001,
+        "end": 1153.3600000000001,
+        "text": " intellectual progress. It has been the pioneer in the wonderful change of public sentiment,"
+    },
+    {
+        "start": 1153.3600000000001,
+        "end": 1158.96,
+        "text": " respecting female education and the employment of female talent in educating the young."
+    },
+    {
+        "start": 1161.8400000000001,
+        "end": 1168.0800000000002,
+        "text": " Goody's Achieved Popular and Critical Success. Sarah's writing was praised by Charles Dickens"
+    },
+    {
+        "start": 1168.08,
+        "end": 1176.24,
+        "text": " and Edgar Allen Poe. She became very famous. She became a celebrity in 19th century America."
+    },
+    {
+        "start": 1178.08,
+        "end": 1186.3999999999999,
+        "text": " So much so that there was a phrase Mrs. Hale says, meaning that she was like the arbiter of"
+    },
+    {
+        "start": 1186.3999999999999,
+        "end": 1192.6399999999999,
+        "text": " behavior and housekeeping and education and culinary issues."
+    },
+    {
+        "start": 1193.6000000000001,
+        "end": 1202.24,
+        "text": " I almost like I dare say this, but it's given me like Oprah vibes like Oprah in the 90s."
+    },
+    {
+        "start": 1202.24,
+        "end": 1204.16,
+        "text": " Yes, very, very similar."
+    },
+    {
+        "start": 1207.5200000000002,
+        "end": 1213.92,
+        "text": " She really connected with people and she had a fabulous sense of what was important and what"
+    },
+    {
+        "start": 1213.92,
+        "end": 1218.5600000000002,
+        "text": " wasn't important. Sarah used her platform to push for the things she believed in."
+    },
+    {
+        "start": 1219.2,
+        "end": 1225.52,
+        "text": " She supported women's education, though not women's suffrage. She opposed slavery and thought"
+    },
+    {
+        "start": 1225.52,
+        "end": 1232.48,
+        "text": " free black people should be repatriated to Africa. And she had a vision for creating a united national"
+    },
+    {
+        "start": 1232.48,
+        "end": 1241.12,
+        "text": " culture. She thought that the revolution had united the American colonies politically but not"
+    },
+    {
+        "start": 1241.12,
+        "end": 1247.6799999999998,
+        "text": " culturally and that the new country needed to develop its own culture and the new country needed"
+    },
+    {
+        "start": 1247.68,
+        "end": 1252.0,
+        "text": " its own stories. They needed something to coalesce around."
+    },
+    {
+        "start": 1252.96,
+        "end": 1257.8400000000001,
+        "text": " And for Sarah, there was no better day to coalesce around than her favorite holiday."
+    },
+    {
+        "start": 1258.96,
+        "end": 1259.76,
+        "text": " Thanksgiving."
+    },
+    {
+        "start": 1264.0,
+        "end": 1270.5600000000002,
+        "text": " Everything that contributes to bind us in one vast empire together, to quicken the sympathy that"
+    },
+    {
+        "start": 1270.5600000000002,
+        "end": 1277.52,
+        "text": " makes us feel from the icy north to the sunny south that we are one family. Each a member of a great"
+    },
+    {
+        "start": 1277.52,
+        "end": 1284.0,
+        "text": " and free nation, not merely the unit of a remote locality, is worthy of being cherished."
+    },
+    {
+        "start": 1289.36,
+        "end": 1296.08,
+        "text": " Thanksgiving in the early to mid-1800s was mostly celebrated in northern states and generally"
+    },
+    {
+        "start": 1296.08,
+        "end": 1302.32,
+        "text": " on different days. It was not a national holiday and Sarah wanted to change that."
+    },
+    {
+        "start": 1302.32,
+        "end": 1310.56,
+        "text": " She thought that if we could all come together and celebrate on the same day that would help"
+    },
+    {
+        "start": 1310.56,
+        "end": 1318.24,
+        "text": " to bring Americans together. There is a deep moral influence in these periodical seasons of"
+    },
+    {
+        "start": 1318.24,
+        "end": 1325.28,
+        "text": " rejoicing in which a whole community participates. They bring out and together as it were the best"
+    },
+    {
+        "start": 1325.28,
+        "end": 1333.36,
+        "text": " sympathies of our nature. And as the civil war approached, she also had the hope that it would"
+    },
+    {
+        "start": 1333.36,
+        "end": 1341.12,
+        "text": " forced all war. We believe our Thanksgiving day, if fixed and perpetuated, will be a great and"
+    },
+    {
+        "start": 1341.12,
+        "end": 1344.0,
+        "text": " sanctifying promoter of this national spirit."
+    },
+    {
+        "start": 1344.0,
+        "end": 1353.6,
+        "text": " Coming up, Sarah takes her appeal all the way to the top."
+    },
+    {
+        "start": 1361.76,
+        "end": 1366.48,
+        "text": " My name is Fritz and Deseret V from Silver Stream, Maryland and you're looking to the"
+    },
+    {
+        "start": 1366.48,
+        "end": 1373.44,
+        "text": " through line from MBR. The reason why I love through line is because they really does illuminate and"
+    },
+    {
+        "start": 1373.44,
+        "end": 1379.3600000000001,
+        "text": " also debunk a lot of myths in American history that we once thought to be true."
+    },
+    {
+        "start": 1380.56,
+        "end": 1385.28,
+        "text": " This message comes from Hulu. Dive into the new Hulu original series,"
+    },
+    {
+        "start": 1385.28,
+        "end": 1391.76,
+        "text": " Interior Chinatown, from visionary filmmaker Tyco YTT and based on the groundbreaking novel by"
+    },
+    {
+        "start": 1391.76,
+        "end": 1398.48,
+        "text": " Charles Yu, Interior Chinatown tells the comedic genre-bending story of an ordinary waiter swept"
+    },
+    {
+        "start": 1398.48,
+        "end": 1404.64,
+        "text": " up in a criminal investigation. Thrust into the spotlight, he unravels long-buried family secrets"
+    },
+    {
+        "start": 1404.64,
+        "end": 1411.2,
+        "text": " and becomes an unlikely hero. All episodes of the Hulu original series, Interior Chinatown,"
+    },
+    {
+        "start": 1411.2,
+        "end": 1416.48,
+        "text": " are now streaming on Hulu. Support for this podcast and the following message come from"
+    },
+    {
+        "start": 1417.04,
+        "end": 1422.24,
+        "text": " EnergyA, where everyone can invest in the world's top renewable energy markets, explore renewable"
+    },
+    {
+        "start": 1422.24,
+        "end": 1428.88,
+        "text": " energy projects, shop investments and get started with as little as $100. Make your money do more"
+    },
+    {
+        "start": 1428.88,
+        "end": 1431.52,
+        "text": " at energya.com slash NPR."
+    },
+    {
+        "start": 1432.56,
+        "end": 1437.6,
+        "text": " This message comes from Bowling Branch. Bowling Branch's best sale of the year is right now."
+    },
+    {
+        "start": 1437.6,
+        "end": 1444.72,
+        "text": " Try the organic cotton sheets loved by millions. Go to BowlingBranch.com and use code NPR for 25%"
+    },
+    {
+        "start": 1444.72,
+        "end": 1448.96,
+        "text": " off everything. Limited time only, exclusion supply, seaside for details."
+    },
+    {
+        "start": 1452.56,
+        "end": 1456.64,
+        "text": " Part 2. One heart, one voice."
+    },
+    {
+        "start": 1459.84,
+        "end": 1466.48,
+        "text": " On a farm in Maryland, a group of 22 men, some of them enslaved and some of them not,"
+    },
+    {
+        "start": 1466.48,
+        "end": 1474.96,
+        "text": " hide in an attic. They spend their days reading, writing letters,"
+    },
+    {
+        "start": 1474.96,
+        "end": 1486.64,
+        "text": " cleaning their rifles, waiting. Then on October 16th, 1859, their leader, a white abolitionist named"
+    },
+    {
+        "start": 1486.64,
+        "end": 1492.48,
+        "text": " John Brown, gathers them together. He prays with them. Then afterwards says,"
+    },
+    {
+        "start": 1496.48,
+        "end": 1506.08,
+        "text": " sea to the ferry."
+    },
+    {
+        "start": 1511.52,
+        "end": 1517.92,
+        "text": " They start a five mile march towards a Virginia town called Harper's Ferry. They plan to capture"
+    },
+    {
+        "start": 1517.92,
+        "end": 1527.52,
+        "text": " the federal armory there and start a massive revolt against slavery."
+    },
+    {
+        "start": 1536.4,
+        "end": 1543.04,
+        "text": " Within just a couple of hours, John Brown's forces take control of two bridges, the armory"
+    },
+    {
+        "start": 1543.12,
+        "end": 1551.2,
+        "text": " and a rifle factory. They take slave owners and armory employees hostage."
+    },
+    {
+        "start": 1552.3999999999999,
+        "end": 1558.24,
+        "text": " I have possession now of the United States Armory. And if the citizens interfere with me,"
+    },
+    {
+        "start": 1558.24,
+        "end": 1566.1599999999999,
+        "text": " I must only burn the town and have blood. Eventually, US Marines led by Colonel Robert E. Lee"
+    },
+    {
+        "start": 1566.16,
+        "end": 1569.68,
+        "text": " arrived. Brown's men are surrounded."
+    },
+    {
+        "start": 1575.92,
+        "end": 1578.4,
+        "text": " The Marines storm the armory."
+    },
+    {
+        "start": 1582.96,
+        "end": 1591.0400000000002,
+        "text": " Several of John Brown's men are killed, including his own son. Those who haven't escaped are captured."
+    },
+    {
+        "start": 1591.12,
+        "end": 1596.1599999999999,
+        "text": " Fighting for liberty. John Brown is tried and later hanged."
+    },
+    {
+        "start": 1597.84,
+        "end": 1602.3999999999999,
+        "text": " If you must die, die like a man."
+    },
+    {
+        "start": 1607.84,
+        "end": 1613.36,
+        "text": " Even though John Brown's raid failed, it caused shockwaves in Virginia and beyond."
+    },
+    {
+        "start": 1614.08,
+        "end": 1618.48,
+        "text": " It amplified the tension between North and South over the question of slavery."
+    },
+    {
+        "start": 1618.64,
+        "end": 1623.04,
+        "text": " The following year, the country would elect Abraham Lincoln."
+    },
+    {
+        "start": 1623.04,
+        "end": 1627.44,
+        "text": " And soon, Southern states would start to secede."
+    },
+    {
+        "start": 1638.32,
+        "end": 1642.88,
+        "text": " If every state should join in union thanksgiving on the 24th of this month,"
+    },
+    {
+        "start": 1643.44,
+        "end": 1649.2800000000002,
+        "text": " would it not be a renewed pledge of love and loyalty to the Constitution of the United States?"
+    },
+    {
+        "start": 1650.24,
+        "end": 1656.0,
+        "text": " The same year of John Brown's raid on Harper's Ferry as the country was barreling towards civil war."
+    },
+    {
+        "start": 1656.64,
+        "end": 1661.6000000000001,
+        "text": " Sarah Josepha Hale had been using her powerful pulpit as editor of one of the country's most"
+    },
+    {
+        "start": 1661.6000000000001,
+        "end": 1667.7600000000002,
+        "text": " red magazines, Goede's Ladies Book, reaching around a million readers from North to South,"
+    },
+    {
+        "start": 1667.7600000000002,
+        "end": 1670.8000000000002,
+        "text": " arguing that thanksgiving could unite the country."
+    },
+    {
+        "start": 1671.44,
+        "end": 1676.8799999999999,
+        "text": " The flag of our country now numbers 32 stars on its crown of blue,"
+    },
+    {
+        "start": 1676.8799999999999,
+        "end": 1683.04,
+        "text": " and some half dozen or more additional starlets are shining out of the depths of our wilderness continent."
+    },
+    {
+        "start": 1688.24,
+        "end": 1693.36,
+        "text": " Sarah Josepha Hale had been on a mission to make thanksgiving a national holiday."
+    },
+    {
+        "start": 1693.36,
+        "end": 1698.0,
+        "text": " Before the Civil War, it was celebrated by most states across the country,"
+    },
+    {
+        "start": 1698.48,
+        "end": 1703.44,
+        "text": " but when and if it was celebrated was decided by the governors of each state."
+    },
+    {
+        "start": 1704.24,
+        "end": 1711.2,
+        "text": " At first, she thought if she could just get the governors all to agree on a date, that would be good enough."
+    },
+    {
+        "start": 1714.72,
+        "end": 1720.96,
+        "text": " So for years leading up to the Civil War, Goede's Ladies Book ran editorials and recipes"
+    },
+    {
+        "start": 1720.96,
+        "end": 1726.64,
+        "text": " and stories about thanksgiving. And she was making the argument that an annual holiday"
+    },
+    {
+        "start": 1726.72,
+        "end": 1733.92,
+        "text": " would be good for everyone. The poor let us consecrate the day to benevolence of action"
+    },
+    {
+        "start": 1733.92,
+        "end": 1740.88,
+        "text": " by sending good gifts to the poor, the depressed, wasting despondency, cripples the feeble limbs,"
+    },
+    {
+        "start": 1740.88,
+        "end": 1745.68,
+        "text": " prisoners, even the poor prisoner is cheered in his solitary cell."
+    },
+    {
+        "start": 1748.16,
+        "end": 1752.48,
+        "text": " But she knew the audience of a woman's magazine wouldn't be enough,"
+    },
+    {
+        "start": 1752.56,
+        "end": 1761.04,
+        "text": " she had to convince the men in power. She had a huge network and she would hand right"
+    },
+    {
+        "start": 1761.68,
+        "end": 1768.16,
+        "text": " personal letters to governors. Will you use the influence of your high official status?"
+    },
+    {
+        "start": 1768.16,
+        "end": 1773.84,
+        "text": " Congressman. To establish the last Thursday in November. Members of the Senate."
+    },
+    {
+        "start": 1773.84,
+        "end": 1781.84,
+        "text": " As the annual American thanksgiving. Trying to get their support for her idea of a national holiday."
+    },
+    {
+        "start": 1782.96,
+        "end": 1789.28,
+        "text": " And she didn't have success. She got many of the governors to agree on a given date,"
+    },
+    {
+        "start": 1789.28,
+        "end": 1795.04,
+        "text": " but not all of them. So then she thought that the better idea would be to get the president to"
+    },
+    {
+        "start": 1795.04,
+        "end": 1804.32,
+        "text": " proclaim a national day of thanksgiving. So she made her case again and again. And at first,"
+    },
+    {
+        "start": 1804.32,
+        "end": 1811.68,
+        "text": " the response from lawmakers was, we love this idea, but no, the Constitution won't let us do it."
+    },
+    {
+        "start": 1811.68,
+        "end": 1817.3600000000001,
+        "text": " There were two main objections. They believe it wasn't a federal responsibility. It was the state"
+    },
+    {
+        "start": 1817.3600000000001,
+        "end": 1823.44,
+        "text": " responsibility. And second, that it was a religious matter. The Thanksgiving day was a religious"
+    },
+    {
+        "start": 1823.44,
+        "end": 1829.6000000000001,
+        "text": " holiday. And therefore the president needs to stay out of it. But remember, this was happening"
+    },
+    {
+        "start": 1829.6000000000001,
+        "end": 1835.68,
+        "text": " during the buildup to the Civil War. So of course, Thanksgiving did become political."
+    },
+    {
+        "start": 1836.16,
+        "end": 1849.3600000000001,
+        "text": " This theatrical national clap trap of thanksgiving has aided other causes in setting thousands of"
+    },
+    {
+        "start": 1849.3600000000001,
+        "end": 1856.64,
+        "text": " pulpits to preaching Christian politics instead of humbly letting the carnal kingdom alone."
+    },
+    {
+        "start": 1857.6000000000001,
+        "end": 1864.48,
+        "text": " The southern governor of Virginia, Henry Wise, wrote back to Sarah Joseph Haile in 1856"
+    },
+    {
+        "start": 1864.56,
+        "end": 1868.96,
+        "text": " after receiving one of her letters about making thanksgiving a national holiday."
+    },
+    {
+        "start": 1869.84,
+        "end": 1875.76,
+        "text": " And he replied saying that basically it was a dandy Yankee holiday that you had"
+    },
+    {
+        "start": 1875.76,
+        "end": 1880.56,
+        "text": " preachers in the North preaching abolitionism, which was political."
+    },
+    {
+        "start": 1881.28,
+        "end": 1886.16,
+        "text": " Some southerners feared that thanksgiving could be a Trojan horse for abolitionism."
+    },
+    {
+        "start": 1886.72,
+        "end": 1892.24,
+        "text": " I mean, there were examples of ministers in New England preaching abolitionist messages."
+    },
+    {
+        "start": 1892.24,
+        "end": 1899.28,
+        "text": " That Virginia governor was correct that the anti-slave movement was very closely connected"
+    },
+    {
+        "start": 1899.92,
+        "end": 1904.4,
+        "text": " to religion. Needless to say, Virginia didn't celebrate thanksgiving that year."
+    },
+    {
+        "start": 1905.1200000000001,
+        "end": 1911.2,
+        "text": " But Sarah Joseph Haile didn't necessarily believe thanksgiving would end slavery. She thought it"
+    },
+    {
+        "start": 1911.2,
+        "end": 1918.24,
+        "text": " could prevent a civil war. Such social rejoicings tend greatly to expand the generous feelings of"
+    },
+    {
+        "start": 1918.32,
+        "end": 1925.28,
+        "text": " our nature and strengthen the bond of union that binds us brothers and sisters in that true sympathy"
+    },
+    {
+        "start": 1925.28,
+        "end": 1932.16,
+        "text": " of American patriotism. Haile seemed to genuinely believe that if Americans could just get together on"
+    },
+    {
+        "start": 1932.16,
+        "end": 1937.52,
+        "text": " thanksgiving and get back in touch with the founding values of this country, they could resolve"
+    },
+    {
+        "start": 1937.52,
+        "end": 1943.6,
+        "text": " their differences. But despite all her efforts, thanksgiving didn't become a national holiday."
+    },
+    {
+        "start": 1944.24,
+        "end": 1950.8799999999999,
+        "text": " And beginning in 1860, 11 southern states seceded. The Confederacy formed."
+    },
+    {
+        "start": 1952.6399999999999,
+        "end": 1959.52,
+        "text": " The Civil War began."
+    },
+    {
+        "start": 1959.52,
+        "end": 1980.4,
+        "text": " 1863 was a hard year for Abraham Lincoln. Tens of thousands of people had already died in a"
+    },
+    {
+        "start": 1980.4,
+        "end": 1986.96,
+        "text": " civil war. The Confederate army had notched a couple of major victories. And in June of that year,"
+    },
+    {
+        "start": 1986.96,
+        "end": 1992.8,
+        "text": " the Confederate general Robert E. Lee began invading the union state of Pennsylvania."
+    },
+    {
+        "start": 2000.64,
+        "end": 2003.2,
+        "text": " One battle would help turn the tide of the world."
+    },
+    {
+        "start": 2006.4,
+        "end": 2012.48,
+        "text": " Over the course of three days in July, tens of thousands of union and Confederate soldiers"
+    },
+    {
+        "start": 2012.48,
+        "end": 2016.88,
+        "text": " fought on a field in Pennsylvania near a town called Gettysburg."
+    },
+    {
+        "start": 2019.44,
+        "end": 2026.72,
+        "text": " There were more than 50,000 casualties. But in the end, the union beat the Confederate army back"
+    },
+    {
+        "start": 2026.72,
+        "end": 2033.84,
+        "text": " and they retreated to the south where they would lose the war. Gettysburg was considered a major"
+    },
+    {
+        "start": 2033.84,
+        "end": 2041.2,
+        "text": " turning point and victory for the north. And this is where Sarah Joseph Ahale comes back in our story."
+    },
+    {
+        "start": 2042.0,
+        "end": 2047.28,
+        "text": " So finally, in 1863, she wrote to Lincoln."
+    },
+    {
+        "start": 2047.28,
+        "end": 2053.2,
+        "text": " Sir, permit me as editor of the ladies book to request a few minutes of your precious time."
+    },
+    {
+        "start": 2053.76,
+        "end": 2060.64,
+        "text": " Just five days after reading Hale's letter, a Lincoln agreed and issued a proclamation."
+    },
+    {
+        "start": 2061.2,
+        "end": 2064.96,
+        "text": " Making thanksgiving a national holiday."
+    },
+    {
+        "start": 2065.12,
+        "end": 2074.7200000000003,
+        "text": " I do therefore invite my fellow citizens in every part of the United States."
+    },
+    {
+        "start": 2074.7200000000003,
+        "end": 2080.2400000000002,
+        "text": " And also those who are at sea and those who are subjurling in formlands to set apart and observe"
+    },
+    {
+        "start": 2080.2400000000002,
+        "end": 2084.16,
+        "text": " the last Thursday of November. Next, that's a day of thanksgiving."
+    },
+    {
+        "start": 2086.08,
+        "end": 2087.04,
+        "text": " Abraham Lincoln."
+    },
+    {
+        "start": 2087.92,
+        "end": 2094.16,
+        "text": " He asked Americans to come together with one heart and one voice."
+    },
+    {
+        "start": 2094.88,
+        "end": 2104.24,
+        "text": " And he was again talking about northerners and southerners stopping the war and moving toward peace"
+    },
+    {
+        "start": 2104.24,
+        "end": 2110.88,
+        "text": " and reunification. Thanksgiving would be celebrated in local hospitals where soldiers were"
+    },
+    {
+        "start": 2110.88,
+        "end": 2117.52,
+        "text": " recovering from their wounds. They would be served turkey, goose, ham, chicken pie, cranberry sauce,"
+    },
+    {
+        "start": 2118.2400000000002,
+        "end": 2126.08,
+        "text": " and sweet potatoes. It energized people in the north. It was the message, come on, we just have"
+    },
+    {
+        "start": 2126.08,
+        "end": 2133.44,
+        "text": " to keep at it. We're going to win this war. And the union did win. In 1865, the Confederates surrendered"
+    },
+    {
+        "start": 2133.52,
+        "end": 2142.96,
+        "text": " and Lincoln was assassinated. It was Lincoln's decision in 1863 that started the tradition of a"
+    },
+    {
+        "start": 2142.96,
+        "end": 2152.0,
+        "text": " national Thanksgiving that continues to this day. Sarah Josepha Hale's years of persistence had paid off."
+    },
+    {
+        "start": 2153.2000000000003,
+        "end": 2158.88,
+        "text": " Let us see to it that on this one day there shall be no family or individual within the"
+    },
+    {
+        "start": 2158.88,
+        "end": 2164.96,
+        "text": " compass of our means to help, who shall not have some portion prepared and some reason to join"
+    },
+    {
+        "start": 2164.96,
+        "end": 2173.44,
+        "text": " in the general thanksgiving. Coming up after the Thanksgiving holiday is established, the thanksgiving"
+    },
+    {
+        "start": 2173.44,
+        "end": 2175.12,
+        "text": " myth takes hold."
+    },
+    {
+        "start": 2175.7599999999998,
+        "end": 2190.16,
+        "text": " Hello, I am Ziko and I am from Rockville, Maryland and you are listening to Thru line from NPR."
+    },
+    {
+        "start": 2191.68,
+        "end": 2197.8399999999997,
+        "text": " This message comes from Capital One, offering commercial solutions you can bank on. Now more than"
+    },
+    {
+        "start": 2197.8399999999997,
+        "end": 2204.0,
+        "text": " ever, your business faces unique challenges and opportunities. That's why Capital One offers a"
+    },
+    {
+        "start": 2204.0,
+        "end": 2209.6,
+        "text": " comprehensive suite of financial services, all tailored to your short and long-term goals,"
+    },
+    {
+        "start": 2209.6,
+        "end": 2215.28,
+        "text": " backed by the strength and stability of a top 10 commercial bank. Their dedicated experts work"
+    },
+    {
+        "start": 2215.28,
+        "end": 2222.0,
+        "text": " with you to build lasting success. Explore the possibilities at capitalone.com slash commercial."
+    },
+    {
+        "start": 2222.0,
+        "end": 2223.28,
+        "text": " A member FDIC."
+    },
+    {
+        "start": 2227.2,
+        "end": 2230.24,
+        "text": " Part 3. The Thanksgiving Myth"
+    },
+    {
+        "start": 2234.48,
+        "end": 2254.96,
+        "text": " I do not arise to spread before you the fame of a noted warrior."
+    },
+    {
+        "start": 2256.48,
+        "end": 2261.28,
+        "text": " There are many who are said to be honorable warriors who think at no crime to wreck their"
+    },
+    {
+        "start": 2261.28,
+        "end": 2266.8,
+        "text": " vengeance upon whole nations and communities until the fields are covered with blood and the"
+    },
+    {
+        "start": 2266.8,
+        "end": 2274.2400000000002,
+        "text": " rivers turned into purple fountains. While allowed responses heard floating through the air from"
+    },
+    {
+        "start": 2274.2400000000002,
+        "end": 2280.5600000000004,
+        "text": " the 10,000 Indian children and orphans who are led to mourn the honorable acts of a few civilized"
+    },
+    {
+        "start": 2280.64,
+        "end": 2291.44,
+        "text": " myth. William A. Piss slips his eyes up from his speech. More than a thousand auditorium seats"
+    },
+    {
+        "start": 2291.44,
+        "end": 2298.32,
+        "text": " rise in a circle around him. A Piss stares into the audience. A sea of white northeners stares"
+    },
+    {
+        "start": 2298.32,
+        "end": 2308.64,
+        "text": " back. It's 1836, 25 years before the start of the Civil War. More than two centuries after the"
+    },
+    {
+        "start": 2308.64,
+        "end": 2314.96,
+        "text": " Wampanoag leader Usameekwin and the pilgrims in Plymouth shared a meal and signed a peace treaty."
+    },
+    {
+        "start": 2315.7599999999998,
+        "end": 2321.68,
+        "text": " And William A. Piss, a Piquat minister and auditor, is spelling out for a theater full of"
+    },
+    {
+        "start": 2321.68,
+        "end": 2328.8799999999997,
+        "text": " Bostonians. What happened next? How the pilgrims came to the Wampanoags for help, how the Wampanoags"
+    },
+    {
+        "start": 2328.8799999999997,
+        "end": 2335.52,
+        "text": " gave them venison and sold them corn. And for all this, they were denounced as being savages by those"
+    },
+    {
+        "start": 2335.52,
+        "end": 2342.0,
+        "text": " who received all these acts of kindness. Northeasterners know about the cruelties happening"
+    },
+    {
+        "start": 2342.0,
+        "end": 2348.08,
+        "text": " against Native Americans in other parts of the country, the trail of tears, the violence on the"
+    },
+    {
+        "start": 2348.08,
+        "end": 2354.32,
+        "text": " great plains, but they aren't used to seeing themselves as part of the problem. The epicenter"
+    },
+    {
+        "start": 2354.96,
+        "end": 2363.36,
+        "text": " for criticism of the United States' violent approach to subjugating Native people is New England."
+    },
+    {
+        "start": 2364.0,
+        "end": 2370.7200000000003,
+        "text": " This is historian David Silverman. If you want a critique of the evils of the United States"
+    },
+    {
+        "start": 2370.7200000000003,
+        "end": 2377.6800000000003,
+        "text": " in the 19th century, it is almost always going to come out of Boston. In the 19th century,"
+    },
+    {
+        "start": 2377.6800000000003,
+        "end": 2384.56,
+        "text": " the criticism of US Indian affairs coming out of New England is very, very sharp. As part of that"
+    },
+    {
+        "start": 2384.64,
+        "end": 2394.32,
+        "text": " positioning, New Englanders style their region as free of the national sins of violent Indian affairs"
+    },
+    {
+        "start": 2394.32,
+        "end": 2402.32,
+        "text": " and slavery, neither of which is true. As early as 1769, New Englanders began celebrating what they"
+    },
+    {
+        "start": 2402.32,
+        "end": 2409.92,
+        "text": " called Four Fathers Day on December 22nd, the anniversary of the day the pilgrims made landfall"
+    },
+    {
+        "start": 2410.0,
+        "end": 2415.76,
+        "text": " at Plymouth Rock. They were honoring what New Englanders were building up as a foundational moment"
+    },
+    {
+        "start": 2415.76,
+        "end": 2423.44,
+        "text": " in the American story. But already in 1836, William Apes was poking holes in that story."
+    },
+    {
+        "start": 2424.56,
+        "end": 2429.44,
+        "text": " Let the children of the pilgrims blush, let the day be dark, let it be forgotten in your"
+    },
+    {
+        "start": 2429.44,
+        "end": 2435.12,
+        "text": " celebration in your speeches, and by the burying of the rock that your fathers first put their foot upon."
+    },
+    {
+        "start": 2435.92,
+        "end": 2441.6,
+        "text": " For the 22nd of December and the 4th of July are days of mourning and not of joy."
+    },
+    {
+        "start": 2446.08,
+        "end": 2452.56,
+        "text": " You'll notice that Apes does not name check Thanksgiving, and that's because in 1836,"
+    },
+    {
+        "start": 2452.56,
+        "end": 2457.68,
+        "text": " most Americans didn't know about the mythical meeting between the Wampanogs and the pilgrims."
+    },
+    {
+        "start": 2458.3199999999997,
+        "end": 2462.64,
+        "text": " They didn't have an image in their head of everyone getting together around a big turkey"
+    },
+    {
+        "start": 2462.72,
+        "end": 2468.48,
+        "text": " and holding hands. That story wasn't part of American lore yet."
+    },
+    {
+        "start": 2470.48,
+        "end": 2477.6,
+        "text": " When does the element of this sort of friendship and handshaking between the native people"
+    },
+    {
+        "start": 2477.6,
+        "end": 2480.8799999999997,
+        "text": " and the European sellers emerge as the story of Thanksgiving?"
+    },
+    {
+        "start": 2481.52,
+        "end": 2487.7599999999998,
+        "text": " In the 1840s, a minister in New England publishes one of the two primary sources"
+    },
+    {
+        "start": 2488.4,
+        "end": 2493.1200000000003,
+        "text": " that documents that feast between the Wampanogs and the Plymouth colonists."
+    },
+    {
+        "start": 2493.84,
+        "end": 2502.1600000000003,
+        "text": " To that primary source account, he adds a footnote. The footnote read, this was the first Thanksgiving."
+    },
+    {
+        "start": 2502.1600000000003,
+        "end": 2508.6400000000003,
+        "text": " Wow. As far as we can tell, up to that point, no one is talking about friendly Indians and pilgrims"
+    },
+    {
+        "start": 2508.6400000000003,
+        "end": 2514.8,
+        "text": " during celebrations of Thanksgiving in the 1600s, 1700s, or even early 1800s."
+    },
+    {
+        "start": 2515.28,
+        "end": 2520.0,
+        "text": " But with that footnote, the myth starts to grow over time."
+    },
+    {
+        "start": 2520.8,
+        "end": 2527.28,
+        "text": " It then really takes hold in American society after Abraham Lincoln declares Thanksgiving"
+    },
+    {
+        "start": 2527.28,
+        "end": 2529.6800000000003,
+        "text": " to be a national holiday during the Civil War."
+    },
+    {
+        "start": 2533.6000000000004,
+        "end": 2539.44,
+        "text": " Lincoln's 1863 proclamation meant that Americans got into the habit of celebrating things"
+    },
+    {
+        "start": 2539.6,
+        "end": 2546.0,
+        "text": " giving every year on the same day. But the first national thanksgiving in the wake of the Civil War"
+    },
+    {
+        "start": 2546.0,
+        "end": 2553.04,
+        "text": " were Rocky. Sarah Joseph Fahail, as editor of the widely popular Goaties Ladies Book magazine,"
+    },
+    {
+        "start": 2553.04,
+        "end": 2559.84,
+        "text": " dedicated a lot of real estate to her Thanksgiving columns, selling southern women on the holiday."
+    },
+    {
+        "start": 2559.84,
+        "end": 2565.28,
+        "text": " When joining in prayers for the same blessings and in thanksgiving for the same good gifts of the"
+    },
+    {
+        "start": 2565.28,
+        "end": 2572.48,
+        "text": " season, can Americans feel otherwise than as brethren whose interests are united, whose aims"
+    },
+    {
+        "start": 2572.48,
+        "end": 2579.1200000000003,
+        "text": " should be to enable their common country, whose lives, liberties, and fortunes are safe only"
+    },
+    {
+        "start": 2579.1200000000003,
+        "end": 2585.44,
+        "text": " under the same glorious flag. But while Sarah Joseph Fahail kept writing about a holiday that"
+    },
+    {
+        "start": 2585.44,
+        "end": 2591.6000000000004,
+        "text": " revolved around pie, family, and faith, outside Goaties Ladies Book, Thanksgiving was starting to"
+    },
+    {
+        "start": 2591.6,
+        "end": 2598.16,
+        "text": " take on a life of its own. The holiday was a massing new spokespeople, and by the late 1800s and"
+    },
+    {
+        "start": 2598.16,
+        "end": 2604.48,
+        "text": " early 1900s, those people were increasingly looking to the rediscovered story about the Wampanox"
+    },
+    {
+        "start": 2604.48,
+        "end": 2606.7999999999997,
+        "text": " and the pilgrims for inspiration."
+    },
+    {
+        "start": 2607.6800000000003,
+        "end": 2628.48,
+        "text": " In 1912, a painter named John Leon Jerome Ferris finished one of the most famous works of his"
+    },
+    {
+        "start": 2628.48,
+        "end": 2635.36,
+        "text": " career, an oil painting called the first Thanksgiving. The mythologized Thanksgiving,"
+    },
+    {
+        "start": 2635.36,
+        "end": 2642.0,
+        "text": " the one most of us were taught in school. Pilgrims and Indians making friends."
+    },
+    {
+        "start": 2642.56,
+        "end": 2648.48,
+        "text": " In the painting, a group of white English settlers stands around a table. To their left,"
+    },
+    {
+        "start": 2648.48,
+        "end": 2653.6800000000003,
+        "text": " a group of Native Americans are sitting on the ground next to the family dog. They're not"
+    },
+    {
+        "start": 2653.6800000000003,
+        "end": 2660.0,
+        "text": " wearing traditional Wampanox clothing, but instead what Ferris imagined they would wear,"
+    },
+    {
+        "start": 2660.0,
+        "end": 2667.04,
+        "text": " feather head dresses, and decorative beads. An English subtler, a woman holds a tray of food"
+    },
+    {
+        "start": 2667.04,
+        "end": 2675.36,
+        "text": " in front of a native man. He reaches for a loaf of bread. To have Europeans sitting at a table"
+    },
+    {
+        "start": 2675.36,
+        "end": 2683.28,
+        "text": " and Native people sitting on the ground is designed to accentuate that the English are civilized"
+    },
+    {
+        "start": 2683.28,
+        "end": 2691.36,
+        "text": " and that the natives are savage. And that's a basic binary that has shaped white Americans'"
+    },
+    {
+        "start": 2691.36,
+        "end": 2699.44,
+        "text": " views of themselves and of indigenous people really for 400 years. By the early 1900s,"
+    },
+    {
+        "start": 2699.44,
+        "end": 2704.6400000000003,
+        "text": " acting out that fantasy had become part of the curriculum at many schools."
+    },
+    {
+        "start": 2705.36,
+        "end": 2710.7200000000003,
+        "text": " There were black and white photos all over from the early 20th century. You know, in the years,"
+    },
+    {
+        "start": 2710.72,
+        "end": 2716.16,
+        "text": " you'll see the kids in planes feathered head dresses and these pilgrim costumes which have these"
+    },
+    {
+        "start": 2716.16,
+        "end": 2723.68,
+        "text": " obscenely large buckles on every conceivable article of clothing. It's a white wash of the"
+    },
+    {
+        "start": 2723.68,
+        "end": 2726.3999999999996,
+        "text": " bloodiness of the ruthlessness of colonialism."
+    },
+    {
+        "start": 2727.2000000000003,
+        "end": 2740.7200000000003,
+        "text": " Around the time where this myth that we've been talking about so far has started to take hold"
+    },
+    {
+        "start": 2740.7200000000003,
+        "end": 2747.28,
+        "text": " about Thanksgiving, what were the lives of actual descendants of those people from the 1600s,"
+    },
+    {
+        "start": 2747.28,
+        "end": 2750.32,
+        "text": " the Wampanox people? What were their lives like in the early 1900s?"
+    },
+    {
+        "start": 2751.2000000000003,
+        "end": 2758.0,
+        "text": " I can talk about my family. This is Aquina Wampanox artist and educator, Elizabeth James Perry."
+    },
+    {
+        "start": 2758.7200000000003,
+        "end": 2765.6800000000003,
+        "text": " My great-grandmother was a widow and so her life was very much about taking care of her family"
+    },
+    {
+        "start": 2765.6800000000003,
+        "end": 2772.0,
+        "text": " as a sole provider. This was all happening during a period of a peevil for the Wampanox and Martha's"
+    },
+    {
+        "start": 2772.0,
+        "end": 2778.0800000000004,
+        "text": " vineyard. They had persisted despite the U.S. government's aggressive policy of Indian removal"
+    },
+    {
+        "start": 2778.08,
+        "end": 2785.2799999999997,
+        "text": " in the 1830s when many native people were forced off their land and moved west. But by the 1860s"
+    },
+    {
+        "start": 2785.2799999999997,
+        "end": 2791.44,
+        "text": " and 70s, the state government and Massachusetts had gotten involved and was dividing up the tribes"
+    },
+    {
+        "start": 2791.44,
+        "end": 2797.52,
+        "text": " land into taxable allotments. That effectively made it much more difficult for people like"
+    },
+    {
+        "start": 2797.52,
+        "end": 2804.24,
+        "text": " Elizabeth's great-grandmother to continue to afford living there. But they found ways to make it work."
+    },
+    {
+        "start": 2804.3199999999997,
+        "end": 2808.0,
+        "text": " And when you're a tribe for thousands of years just because some guy goes, oh, you're not,"
+    },
+    {
+        "start": 2808.56,
+        "end": 2812.0,
+        "text": " it doesn't mean you stop. You know, it's not a switch."
+    },
+    {
+        "start": 2813.04,
+        "end": 2818.72,
+        "text": " Elizabeth's community passed down their own stories. Stories about their history with white"
+    },
+    {
+        "start": 2818.72,
+        "end": 2825.2799999999997,
+        "text": " settlers and also about things that had actually happened to them. Adventures and misadventures,"
+    },
+    {
+        "start": 2825.84,
+        "end": 2835.1200000000003,
+        "text": " funny childhood memories. Unbelievable shiplocked in ice, using your crazy gay head navigation skills"
+    },
+    {
+        "start": 2835.1200000000003,
+        "end": 2840.8,
+        "text": " to walk across the ice because you remember a community in this direction carrying the captains,"
+    },
+    {
+        "start": 2840.8,
+        "end": 2847.44,
+        "text": " wife who have to come on the voyage for some odd reason. You know, that's just like, I think the"
+    },
+    {
+        "start": 2847.44,
+        "end": 2855.84,
+        "text": " underpinning was, here we are, these survivors, strong senses of humor, full of hope,"
+    },
+    {
+        "start": 2856.56,
+        "end": 2861.84,
+        "text": " also holding on to these stories of, hey, you know what, everybody jokes about us, but we've got"
+    },
+    {
+        "start": 2861.84,
+        "end": 2869.68,
+        "text": " some serious skills. That's why we're here today. It wasn't about, get a lot of this turkey,"
+    },
+    {
+        "start": 2869.68,
+        "end": 2872.2400000000002,
+        "text": " you know, it just, turkey wasn't new for us."
+    },
+    {
+        "start": 2872.72,
+        "end": 2879.7599999999998,
+        "text": " cranberry, cranberry, new, I don't know what to say. New England wasn't new. I mean, we kind of like,"
+    },
+    {
+        "start": 2879.7599999999998,
+        "end": 2883.3599999999997,
+        "text": " yeah, I mean, we're kind of from here. Yes."
+    },
+    {
+        "start": 2884.2400000000002,
+        "end": 2907.1200000000003,
+        "text": " For many of us, Thanksgiving is a pretty straightforward holiday. It's really fun and easy to enjoy"
+    },
+    {
+        "start": 2907.12,
+        "end": 2913.04,
+        "text": " the food, the friends and family, the lazy afternoon watching football. But beneath this surface"
+    },
+    {
+        "start": 2913.04,
+        "end": 2920.96,
+        "text": " of all of this is a question about how we choose to remember our history and define ourselves as a country."
+    },
+    {
+        "start": 2923.8399999999997,
+        "end": 2931.12,
+        "text": " History is not about trying to make people feel guilty or ashamed patriotic or unpatriotic."
+    },
+    {
+        "start": 2931.12,
+        "end": 2934.3199999999997,
+        "text": " It's designed to capture a complex past and all of its complexity."
+    },
+    {
+        "start": 2934.96,
+        "end": 2940.48,
+        "text": " National celebrations are another kettle of fish. They are designed to cultivate unity."
+    },
+    {
+        "start": 2941.1200000000003,
+        "end": 2946.7200000000003,
+        "text": " There will never be unity around complex historical subjects. They're too complex."
+    },
+    {
+        "start": 2947.36,
+        "end": 2954.1600000000003,
+        "text": " Whether it is the inaccurate, rosy color view of the first Thanksgiving in 1621 or using the day"
+    },
+    {
+        "start": 2954.1600000000003,
+        "end": 2962.1600000000003,
+        "text": " as a vessel for national unity, what we are thankful for is a choice, a choice with consequences."
+    },
+    {
+        "start": 2962.48,
+        "end": 2969.12,
+        "text": " These national holidays, they remind us of what it means to be an American number one."
+    },
+    {
+        "start": 2969.92,
+        "end": 2979.3599999999997,
+        "text": " And then they also give us a chance to celebrate our nation. I should say there are critics"
+    },
+    {
+        "start": 2979.3599999999997,
+        "end": 2986.64,
+        "text": " of Thanksgiving people who won't celebrate it because they wrongly think that it is"
+    },
+    {
+        "start": 2986.72,
+        "end": 2994.0,
+        "text": " celebrating the destruction of native culture. I can't disagree with that more strongly."
+    },
+    {
+        "start": 2994.0,
+        "end": 3000.7999999999997,
+        "text": " I think it is a time of celebration of people of different cultures coming together."
+    },
+    {
+        "start": 3002.0,
+        "end": 3008.96,
+        "text": " I think it's true that most adults don't give pilgrims and Indians much of a thought."
+    },
+    {
+        "start": 3010.08,
+        "end": 3016.48,
+        "text": " But that's part of the point. The point is that we're indoctrinated with this idea as children"
+    },
+    {
+        "start": 3016.64,
+        "end": 3022.96,
+        "text": " and then we're never asked to revisit it as we become more mature and capable of complex thought."
+    },
+    {
+        "start": 3023.68,
+        "end": 3029.92,
+        "text": " I would prefer to see Thanksgiving continue without invoking pilgrims and Indians at all."
+    },
+    {
+        "start": 3030.56,
+        "end": 3041.7599999999998,
+        "text": " I don't trust any ritual to capture complexities of any sort. Never mind violent complexities that"
+    },
+    {
+        "start": 3041.84,
+        "end": 3048.8,
+        "text": " strike at the heart of the desire to have the United States be a beacon of light in the world."
+    },
+    {
+        "start": 3048.8,
+        "end": 3057.28,
+        "text": " That is asking too much."
+    },
+    {
+        "start": 3065.5200000000004,
+        "end": 3070.88,
+        "text": " As for Sarah Josepha Hale, she had her mind made up that Thanksgiving could bring the U.S."
+    },
+    {
+        "start": 3071.84,
+        "end": 3077.6,
+        "text": " and she lived long enough to see it take hold. Hale spent the rest of her life making sure"
+    },
+    {
+        "start": 3077.6,
+        "end": 3086.32,
+        "text": " Thanksgiving would outlive her. And before she died in April 1879, she had one last word to say about"
+    },
+    {
+        "start": 3086.32,
+        "end": 3092.2400000000002,
+        "text": " Thanksgiving and her own legacy. In the magazine she dedicated much of her life to."
+    },
+    {
+        "start": 3093.52,
+        "end": 3100.0,
+        "text": " This idea was very near to my heart. For I believe that this celebration would be a bond of union"
+    },
+    {
+        "start": 3100.0,
+        "end": 3113.84,
+        "text": " throughout our country as well as a source of happiness in the homes of the people."
+    },
+    {
+        "start": 3123.92,
+        "end": 3127.68,
+        "text": " That's it for this week's show. I'm Rhonda Gifetta."
+    },
+    {
+        "start": 3127.68,
+        "end": 3131.6,
+        "text": " I'm Ramteen Arableui and you've been listening to Thurline from NPR."
+    },
+    {
+        "start": 3132.64,
+        "end": 3142.16,
+        "text": " This episode was produced by me and Sarah Wyman, Devon Karayama, Casey Meiner, Lauren Twu, Julie Kane,"
+    },
+    {
+        "start": 3142.16,
+        "end": 3146.7999999999997,
+        "text": " Ania Steinberg, Lena Muhammad, Cristina Kim, Irene Naguchi,"
+    },
+    {
+        "start": 3147.52,
+        "end": 3154.48,
+        "text": " thank you to Nina Buchowski, Kunid Matiwala, Johannes Dergi, Edith Chapin and Colin Campbell."
+    },
+    {
+        "start": 3155.04,
+        "end": 3161.36,
+        "text": " Voice over work in this episode was done by Sarah Wyman, Ryan Askales, Devon Karayama,"
+    },
+    {
+        "start": 3161.36,
+        "end": 3167.84,
+        "text": " Mark Smith and Sam Yellowhorse Kessler. Fact checking for this episode was done by Kevin Vocal."
+    },
+    {
+        "start": 3167.84,
+        "end": 3173.84,
+        "text": " It was mixed by Maggie Luthar. Music for this episode was composed by Ramteen and his band,"
+    },
+    {
+        "start": 3173.84,
+        "end": 3180.16,
+        "text": " Drop Electric, which includes. Navid Marvi, show Fujiwara, Ania Mizani."
+    },
+    {
+        "start": 3180.56,
+        "end": 3192.08,
+        "text": " We would love to hear from you. Send us a voicemail to 872-588-805 and leave your name,"
+    },
+    {
+        "start": 3192.08,
+        "end": 3197.12,
+        "text": " wear your from and say the line you're listening to Thurline from NPR."
+    },
+    {
+        "start": 3197.12,
+        "end": 3202.24,
+        "text": " And tell us what you think of the show. We might even feature your voicemail in a future episode."
+    },
+    {
+        "start": 3202.24,
+        "end": 3208.3999999999996,
+        "text": " That number again is 872-588-805."
+    },
+    {
+        "start": 3209.36,
+        "end": 3213.36,
+        "text": " Thanks for listening."
+    },
+    {
+        "start": 3221.04,
+        "end": 3224.32,
+        "text": " Support for this podcast and the following message come from Ford."
+    },
+    {
+        "start": 3224.32,
+        "end": 3228.2400000000002,
+        "text": " Senior Director Becca Anderson shares the meaning of the Ford Power Promise."
+    },
+    {
+        "start": 3228.88,
+        "end": 3235.12,
+        "text": " Ford's been around for 120 years and we continue to evolve with our customers."
+    },
+    {
+        "start": 3235.92,
+        "end": 3241.7599999999998,
+        "text": " That's something we know how to do. And for electric vehicles, the Ford Power Promise"
+    },
+    {
+        "start": 3241.7599999999998,
+        "end": 3248.08,
+        "text": " is just the next step in that journey. And the Ford Power Promise is designed to inspire confidence"
+    },
+    {
+        "start": 3248.72,
+        "end": 3254.0,
+        "text": " for electric vehicle owners from day one. And that's confidence around charging at home,"
+    },
+    {
+        "start": 3254.7999999999997,
+        "end": 3261.2,
+        "text": " charging on the road, confidence in their battery with the eight year or 100,000 mile warranty"
+    },
+    {
+        "start": 3261.2,
+        "end": 3266.7999999999997,
+        "text": " in confidence that they have access to electric vehicle expertise when they have questions along"
+    },
+    {
+        "start": 3266.7999999999997,
+        "end": 3272.64,
+        "text": " the way. To learn how Ford is supporting EV drivers go to FordPowerPromise.com or your local Ford"
+    },
+    {
+        "start": 3272.64,
+        "end": 3277.6,
+        "text": " dealer. See dealer and the battery electric vehicle warranty guide for limited warranty details."
+    },
+    {
+        "start": 3278.16,
+        "end": 3283.8399999999997,
+        "text": " This message comes from Wondery. Kill List is a true story of how one journalist ended up in a race"
+    },
+    {
+        "start": 3283.8399999999997,
+        "end": 3288.7999999999997,
+        "text": " against time to warrant those on the list whose lives were in danger. Follow Kill List wherever you"
+    },
+    {
+        "start": 3288.8,
+        "end": 3290.4,
+        "text": " get your podcasts."
+    }
+]

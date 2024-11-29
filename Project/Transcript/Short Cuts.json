@@ -1,0 +1,1292 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 2.0,
+        "end": 23.0,
+        "text": " Hello and welcome to Podcasting House. If you've never listened to the podcast before, let me explain what we're doing."
+    },
+    {
+        "start": 23.0,
+        "end": 30.0,
+        "text": " We listen with you to an episode from a different BBC podcast that we think is worth your time."
+    },
+    {
+        "start": 30.0,
+        "end": 34.0,
+        "text": " If you like it and you want to hear more, you can search for it and subscribe."
+    },
+    {
+        "start": 34.0,
+        "end": 39.0,
+        "text": " My name is Eli and as always I'm joined by Rean. What are we listening to today?"
+    },
+    {
+        "start": 39.0,
+        "end": 48.0,
+        "text": " We're listening to shortcuts. Shortcuts is a collection of usually three mini documentaries presented by that story teller."
+    },
+    {
+        "start": 48.0,
+        "end": 49.0,
+        "text": " Bar excellence."
+    },
+    {
+        "start": 49.0,
+        "end": 50.0,
+        "text": " Is that an expression?"
+    },
+    {
+        "start": 50.0,
+        "end": 52.0,
+        "text": " Yeah, sure. It is now."
+    },
+    {
+        "start": 52.0,
+        "end": 63.0,
+        "text": " So if you enjoy that moment in the day where you settle down with a tea and have really nice biscuits, so I'm not talking about something run of the meal."
+    },
+    {
+        "start": 63.0,
+        "end": 69.0,
+        "text": " I'm talking about a special biscuit or shortcuts is a special biscuit of a programme."
+    },
+    {
+        "start": 69.0,
+        "end": 80.0,
+        "text": " It's indulgent, it's satisfying, it's beautifully put together and I think it's very, it just makes you feel as good as that kind of ten minute break with a biscuit does."
+    },
+    {
+        "start": 80.0,
+        "end": 81.0,
+        "text": " Or maybe that's just me."
+    },
+    {
+        "start": 81.0,
+        "end": 97.0,
+        "text": " Anyway, this particular episode is called Silent Knights and Josie brings to us three different encounters with silence or what the documentary maker goes out to explore about a particular sort of silence in three different places."
+    },
+    {
+        "start": 97.0,
+        "end": 101.0,
+        "text": " It's just great. My favourite moment, oh there's quite a few lovely moments in it."
+    },
+    {
+        "start": 101.0,
+        "end": 103.0,
+        "text": " There's one moment."
+    },
+    {
+        "start": 103.0,
+        "end": 104.0,
+        "text": " Now don't spoil it for us for you."
+    },
+    {
+        "start": 105.0,
+        "end": 109.0,
+        "text": " I mean you can say it, say it, I'm just a Donald spoil it, but say it, no say it."
+    },
+    {
+        "start": 109.0,
+        "end": 112.0,
+        "text": " No, no, no, I think it's fair. I think it's fair. I'm just going to leave it."
+    },
+    {
+        "start": 112.0,
+        "end": 116.0,
+        "text": " I'm telling you what, you guess what my favourite moment was and let me know next week."
+    },
+    {
+        "start": 116.0,
+        "end": 121.0,
+        "text": " Hello, welcome to the podcast version of Shortcuts. My name's Josie Lung."
+    },
+    {
+        "start": 121.0,
+        "end": 127.0,
+        "text": " We're recording this late at night in my house and you'll be able to hear my neighbours moving around."
+    },
+    {
+        "start": 127.0,
+        "end": 129.0,
+        "text": " And the occasional car."
+    },
+    {
+        "start": 129.0,
+        "end": 139.0,
+        "text": " I hope that you're listening to this late at night, so you're perfect episode for a late night swatting session if you're swatting."
+    },
+    {
+        "start": 139.0,
+        "end": 144.0,
+        "text": " Or a very early morning in some of the session."
+    },
+    {
+        "start": 144.0,
+        "end": 150.0,
+        "text": " So I hope that this proved useful to you in either of those contexts."
+    },
+    {
+        "start": 150.0,
+        "end": 156.0,
+        "text": " It's a very quiet evening in London."
+    },
+    {
+        "start": 156.0,
+        "end": 159.0,
+        "text": " Just sat outside my front door."
+    },
+    {
+        "start": 159.0,
+        "end": 171.0,
+        "text": " It's nice when it feels like there's a bit of a lull in the activities that everyone's sort of taking a bit of time off."
+    },
+    {
+        "start": 171.0,
+        "end": 182.0,
+        "text": " Rising in the background as well as that moment is a recording from Berlin, also at night."
+    },
+    {
+        "start": 182.0,
+        "end": 189.0,
+        "text": " So hopefully you're in two places at the same time united by the nighttone."
+    },
+    {
+        "start": 195.0,
+        "end": 198.0,
+        "text": " That's the voice of Phil Smith singing."
+    },
+    {
+        "start": 198.0,
+        "end": 206.0,
+        "text": " He's coming home from a late night gig with his accordion, enjoying an ad hoc, Alfresco performing."
+    },
+    {
+        "start": 213.0,
+        "end": 222.0,
+        "text": " He saw a rainstorm creeping towards him approaching and then enveloping the music around him."
+    },
+    {
+        "start": 229.0,
+        "end": 232.0,
+        "text": " This is shortcuts."
+    },
+    {
+        "start": 233.0,
+        "end": 242.0,
+        "text": " Breathing counters, true stories, radio adventures and found sound."
+    },
+    {
+        "start": 244.0,
+        "end": 249.0,
+        "text": " Today, silence night."
+    },
+    {
+        "start": 250.0,
+        "end": 261.0,
+        "text": " At night in prison, the sound stopped being so much from the wing and stopped being more from the outside world."
+    },
+    {
+        "start": 262.0,
+        "end": 271.0,
+        "text": " I crossed half a world every screen eaten by ainos to have a recording I can find on any sound library that I already have."
+    },
+    {
+        "start": 271.0,
+        "end": 281.0,
+        "text": " Whether it's car's beeping or a high speed train, I think that outside sounds they're comforting."
+    },
+    {
+        "start": 292.0,
+        "end": 303.0,
+        "text": " If you listen carefully, what you can hear in the background is the boiler firing up and the heating going on in my house."
+    },
+    {
+        "start": 306.0,
+        "end": 318.0,
+        "text": " There's an atmospheric shift, which I think is a sound shift as well, which happens when everyone else in the house that you're in has fallen asleep."
+    },
+    {
+        "start": 319.0,
+        "end": 324.0,
+        "text": " You can even feel it when somebody's lying next to you."
+    },
+    {
+        "start": 324.0,
+        "end": 329.0,
+        "text": " It's a change in the quality of their breathing and the sounds of their breath."
+    },
+    {
+        "start": 329.0,
+        "end": 336.0,
+        "text": " You just know that they're no longer in the room with you, they're hidden somewhere else they've checked out."
+    },
+    {
+        "start": 336.0,
+        "end": 345.0,
+        "text": " And it's really interesting because even though you can hear the other people around you, those sounds really tell you that you're alone."
+    },
+    {
+        "start": 346.0,
+        "end": 350.0,
+        "text": " The daytime soundscape of prison is super harsh."
+    },
+    {
+        "start": 350.0,
+        "end": 354.0,
+        "text": " Keys slamming doors and people shouting."
+    },
+    {
+        "start": 354.0,
+        "end": 359.0,
+        "text": " That's like the baseline doors being smashed shut."
+    },
+    {
+        "start": 359.0,
+        "end": 367.0,
+        "text": " There's giant Victorian steel doors that hit the frame and make a big resonating kind of doll."
+    },
+    {
+        "start": 368.0,
+        "end": 379.0,
+        "text": " There's the mid of people just shouting 24-7 in some prisons that Tano is going off telling you to get to this place and asking for this prison to come to the office."
+    },
+    {
+        "start": 379.0,
+        "end": 387.0,
+        "text": " And then there's the treble of the keys tinkling and they're all quite aggressive sounds."
+    },
+    {
+        "start": 387.0,
+        "end": 390.0,
+        "text": " And then you've got to remember the environment of prison."
+    },
+    {
+        "start": 390.0,
+        "end": 393.0,
+        "text": " It's very brittle, ceramic, solid."
+    },
+    {
+        "start": 393.0,
+        "end": 402.0,
+        "text": " There's no soft furnishings. There's no pictures on the wall that is not much to break the reverberation of the sound."
+    },
+    {
+        "start": 402.0,
+        "end": 408.0,
+        "text": " I think the soundscape of prison is a good metaphor for the mental escape of prison."
+    },
+    {
+        "start": 408.0,
+        "end": 413.0,
+        "text": " The sounds bounce around without much to absorb them."
+    },
+    {
+        "start": 413.0,
+        "end": 420.0,
+        "text": " In the same way that your thoughts bounce around without much to absorb them."
+    },
+    {
+        "start": 420.0,
+        "end": 424.0,
+        "text": " After bang up, that's when you all get your doors closed."
+    },
+    {
+        "start": 424.0,
+        "end": 429.0,
+        "text": " All you can really hear is a few people shouting each other."
+    },
+    {
+        "start": 429.0,
+        "end": 431.0,
+        "text": " But mostly it's just TVs."
+    },
+    {
+        "start": 431.0,
+        "end": 436.0,
+        "text": " Two thirds of the wing will be watching EastEnders all at the same time."
+    },
+    {
+        "start": 436.0,
+        "end": 443.0,
+        "text": " So when you hear the faint tune kick in, this is kind of incredible surround sound effect."
+    },
+    {
+        "start": 443.0,
+        "end": 446.0,
+        "text": " 300 separate TVs."
+    },
+    {
+        "start": 446.0,
+        "end": 452.0,
+        "text": " Like, dun dun dun dun dun dun dun dun dun dun dun dun dun dun."
+    },
+    {
+        "start": 452.0,
+        "end": 456.0,
+        "text": " And another highlight is when crime watches on,"
+    },
+    {
+        "start": 456.0,
+        "end": 461.0,
+        "text": " because people are always cheering on people who have run away from the police."
+    },
+    {
+        "start": 461.0,
+        "end": 463.0,
+        "text": " Everyone likes a wily criminal."
+    },
+    {
+        "start": 463.0,
+        "end": 466.0,
+        "text": " And especially when the hat and garden people are out and about,"
+    },
+    {
+        "start": 466.0,
+        "end": 469.0,
+        "text": " we're looking for six elderly males."
+    },
+    {
+        "start": 469.0,
+        "end": 472.0,
+        "text": " And maybe like, gone Terry!"
+    },
+    {
+        "start": 476.0,
+        "end": 479.0,
+        "text": " It all goes silent quite quickly."
+    },
+    {
+        "start": 479.0,
+        "end": 486.0,
+        "text": " And the sound stops being so much from the wing."
+    },
+    {
+        "start": 486.0,
+        "end": 489.0,
+        "text": " And potentially, depending on where your prison is located,"
+    },
+    {
+        "start": 489.0,
+        "end": 493.0,
+        "text": " starts being more from the outside world."
+    },
+    {
+        "start": 493.0,
+        "end": 497.0,
+        "text": " I think that outside sounds,"
+    },
+    {
+        "start": 497.0,
+        "end": 503.0,
+        "text": " they're comforting anything from the outside world that passes over the fence,"
+    },
+    {
+        "start": 503.0,
+        "end": 508.0,
+        "text": " whether it's cars beeping or a high speed train."
+    },
+    {
+        "start": 508.0,
+        "end": 515.0,
+        "text": " I think that it can have the dual effect of making you feel kind of reticent"
+    },
+    {
+        "start": 515.0,
+        "end": 522.0,
+        "text": " and sad that you're inside, but also comforting."
+    },
+    {
+        "start": 522.0,
+        "end": 526.0,
+        "text": " I do remember waking up at four in the morning in prison,"
+    },
+    {
+        "start": 526.0,
+        "end": 530.0,
+        "text": " and it was so absolutely quiet."
+    },
+    {
+        "start": 530.0,
+        "end": 533.0,
+        "text": " It was ceramic."
+    },
+    {
+        "start": 533.0,
+        "end": 539.0,
+        "text": " The nothingness rebounds in a weird way off of those bald wolves."
+    },
+    {
+        "start": 539.0,
+        "end": 543.0,
+        "text": " You're not tired because you haven't really been doing much"
+    },
+    {
+        "start": 543.0,
+        "end": 545.0,
+        "text": " if you haven't been to the gym."
+    },
+    {
+        "start": 545.0,
+        "end": 548.0,
+        "text": " There's not much to put your mind to."
+    },
+    {
+        "start": 548.0,
+        "end": 552.0,
+        "text": " There's not much texture, and you don't realise what it's like"
+    },
+    {
+        "start": 552.0,
+        "end": 556.0,
+        "text": " to do that night upon night upon night upon night."
+    },
+    {
+        "start": 556.0,
+        "end": 560.0,
+        "text": " And I mean, I did it for a year,"
+    },
+    {
+        "start": 560.0,
+        "end": 565.0,
+        "text": " but some people do it for 20."
+    },
+    {
+        "start": 565.0,
+        "end": 568.0,
+        "text": " In the morning, the prison officers walk down the wing,"
+    },
+    {
+        "start": 568.0,
+        "end": 572.0,
+        "text": " and you hear the sound of the keys coming towards you."
+    },
+    {
+        "start": 572.0,
+        "end": 575.0,
+        "text": " You can hear the first cells getting unlocked."
+    },
+    {
+        "start": 575.0,
+        "end": 577.0,
+        "text": " The next cell is tiling tiling."
+    },
+    {
+        "start": 577.0,
+        "end": 579.0,
+        "text": " And then you're like, is it me next and I have this another one?"
+    },
+    {
+        "start": 579.0,
+        "end": 581.0,
+        "text": " I think did it link, did it link?"
+    },
+    {
+        "start": 581.0,
+        "end": 585.0,
+        "text": " You hear the key into your door, and you're out,"
+    },
+    {
+        "start": 585.0,
+        "end": 592.0,
+        "text": " and immediately straight off the bat, people are playing pop, heart FM,"
+    },
+    {
+        "start": 592.0,
+        "end": 594.0,
+        "text": " some drum and bass going on."
+    },
+    {
+        "start": 594.0,
+        "end": 598.0,
+        "text": " It was probably me with my old hip hop table, whatever, 7.30 in the morning."
+    },
+    {
+        "start": 598.0,
+        "end": 604.0,
+        "text": " I've got to say, most people can't handle that level of noise."
+    },
+    {
+        "start": 604.0,
+        "end": 612.0,
+        "text": " I think that my prison experience probably made my hunger for chaotic sounds more extreme."
+    },
+    {
+        "start": 612.0,
+        "end": 623.0,
+        "text": " When I sleep, I often use these eight hour YouTube videos of fires crackling or soothing water."
+    },
+    {
+        "start": 623.0,
+        "end": 626.0,
+        "text": " The one I like the most is the tropical storms."
+    },
+    {
+        "start": 626.0,
+        "end": 632.0,
+        "text": " It's got the tin roof buckling and the palm trees falling to the ground,"
+    },
+    {
+        "start": 632.0,
+        "end": 637.0,
+        "text": " and the texture, that kind of background noise helps me to be..."
+    },
+    {
+        "start": 637.0,
+        "end": 641.0,
+        "text": " I think it helps my sleep patterns."
+    },
+    {
+        "start": 644.0,
+        "end": 647.0,
+        "text": " The voice of former prison, the Karl Gateman,"
+    },
+    {
+        "start": 647.0,
+        "end": 649.0,
+        "text": " and that was produced by Tom Glasser."
+    },
+    {
+        "start": 649.0,
+        "end": 652.0,
+        "text": " Tom and Karl have just made a documentary together,"
+    },
+    {
+        "start": 652.0,
+        "end": 655.0,
+        "text": " featured a National Prison Radio called Sound Inside."
+    },
+    {
+        "start": 655.0,
+        "end": 659.0,
+        "text": " As part of it, they spent a night in a notoriously loud wing,"
+    },
+    {
+        "start": 659.0,
+        "end": 663.0,
+        "text": " and just by all of the sounds, Karl was straight out to sleep like a light,"
+    },
+    {
+        "start": 663.0,
+        "end": 667.0,
+        "text": " but Tom spent the whole night awake, racked with anxiety."
+    },
+    {
+        "start": 673.0,
+        "end": 678.0,
+        "text": " We're in my house with the only people here, just me and the producer,"
+    },
+    {
+        "start": 678.0,
+        "end": 682.0,
+        "text": " and I'd really thought it would have a kind of monastic,"
+    },
+    {
+        "start": 682.0,
+        "end": 685.0,
+        "text": " enveloping silent quality to it."
+    },
+    {
+        "start": 685.0,
+        "end": 690.0,
+        "text": " It would be almost haunting and enigmatic."
+    },
+    {
+        "start": 690.0,
+        "end": 696.0,
+        "text": " And yet, what you can actually hear is the sound of the radiative filling up with water,"
+    },
+    {
+        "start": 696.0,
+        "end": 702.0,
+        "text": " and the fridge going in the background, and the boiler coming on every now and again."
+    },
+    {
+        "start": 702.0,
+        "end": 708.0,
+        "text": " And the fleeting sound of my upstairs neighbours listening to the Champions League football match."
+    },
+    {
+        "start": 708.0,
+        "end": 714.0,
+        "text": " And what it's really hit home to me is that there is no such thing as a perfect silence."
+    },
+    {
+        "start": 714.0,
+        "end": 719.0,
+        "text": " Unfortunately, in our next story, the Italian producer Jonathan Zenti"
+    },
+    {
+        "start": 719.0,
+        "end": 725.0,
+        "text": " comes to the exact same conclusion, but he has to travel halfway across the world in order to do so."
+    },
+    {
+        "start": 728.0,
+        "end": 731.0,
+        "text": " There's a folder on my external backup hard drive,"
+    },
+    {
+        "start": 731.0,
+        "end": 735.0,
+        "text": " with all my favourite recordings I never used."
+    },
+    {
+        "start": 735.0,
+        "end": 738.0,
+        "text": " It's a bit weird to keep useless recordings,"
+    },
+    {
+        "start": 738.0,
+        "end": 741.0,
+        "text": " but I like to go back to them once in a while."
+    },
+    {
+        "start": 741.0,
+        "end": 745.0,
+        "text": " They remind me of those pretentious moments in my life,"
+    },
+    {
+        "start": 745.0,
+        "end": 747.0,
+        "text": " when I feel I'm doing something special."
+    },
+    {
+        "start": 747.0,
+        "end": 755.0,
+        "text": " Like this file, that drives my memory to that time I thought I was going to record the perfect silence."
+    },
+    {
+        "start": 755.0,
+        "end": 760.0,
+        "text": " The file's name is Crickets, Night, Mazai Mara."
+    },
+    {
+        "start": 761.0,
+        "end": 763.0,
+        "text": " I'm in Kenya in 2015."
+    },
+    {
+        "start": 763.0,
+        "end": 769.0,
+        "text": " I've been here for a couple of weeks now to make some interviews about women's health."
+    },
+    {
+        "start": 769.0,
+        "end": 774.0,
+        "text": " I told the NGO that sent me here that, to be effective,"
+    },
+    {
+        "start": 774.0,
+        "end": 778.0,
+        "text": " we need to go to remote areas as far as possible from Nairobi,"
+    },
+    {
+        "start": 778.0,
+        "end": 782.0,
+        "text": " to collect real stories from real people of the countryside."
+    },
+    {
+        "start": 782.0,
+        "end": 787.0,
+        "text": " That's how I tricked them into a kind of paid safari."
+    },
+    {
+        "start": 787.0,
+        "end": 792.0,
+        "text": " Tonight, me and my guide Benard are going to sleep at the guest house"
+    },
+    {
+        "start": 792.0,
+        "end": 798.0,
+        "text": " of a tiny Mazai Christian community on the border that divides Kenya and Tanzania,"
+    },
+    {
+        "start": 798.0,
+        "end": 801.0,
+        "text": " not far from the Serengeti Park."
+    },
+    {
+        "start": 801.0,
+        "end": 807.0,
+        "text": " Around the compound, there's nothing, just a hazel, warm savanna."
+    },
+    {
+        "start": 810.0,
+        "end": 814.0,
+        "text": " Reaching this piece of land after 12 hours of rough road,"
+    },
+    {
+        "start": 814.0,
+        "end": 819.0,
+        "text": " I realized there's no way I'll find myself again in a place like this."
+    },
+    {
+        "start": 819.0,
+        "end": 825.0,
+        "text": " As long as I am here, I want to collect every sound I can."
+    },
+    {
+        "start": 829.0,
+        "end": 835.0,
+        "text": " My hunting for a special sound starts staring with a giant microphone in my hands"
+    },
+    {
+        "start": 835.0,
+        "end": 841.0,
+        "text": " in front of these singers who play for me an hypnotic and deserved Mazai song."
+    },
+    {
+        "start": 846.0,
+        "end": 851.0,
+        "text": " I record every sonority over a story, welcome tea."
+    },
+    {
+        "start": 851.0,
+        "end": 853.0,
+        "text": " Are you having fun with me?"
+    },
+    {
+        "start": 853.0,
+        "end": 856.0,
+        "text": " I'm already teaching you, eh? I'm already teaching you what we do."
+    },
+    {
+        "start": 856.0,
+        "end": 859.0,
+        "text": " We are now collecting sound effects."
+    },
+    {
+        "start": 859.0,
+        "end": 862.0,
+        "text": " So when you listen to your radio, you think it is real."
+    },
+    {
+        "start": 862.0,
+        "end": 866.0,
+        "text": " It was just done like this and the pootage."
+    },
+    {
+        "start": 867.0,
+        "end": 872.0,
+        "text": " It's 10 p.m. Everything is quiet and it's time to go to sleep."
+    },
+    {
+        "start": 875.0,
+        "end": 882.0,
+        "text": " I stop by the kitchen to record all the small sounds, the windows, the sink."
+    },
+    {
+        "start": 883.0,
+        "end": 886.0,
+        "text": " And then the young housekeeper asks me to go to bed."
+    },
+    {
+        "start": 889.0,
+        "end": 896.0,
+        "text": " It tells me he has to be the last one around and I shouldn't stray outside the room before the sound rises"
+    },
+    {
+        "start": 896.0,
+        "end": 902.0,
+        "text": " because during the night many animals come around in search for food, especially hyenas."
+    },
+    {
+        "start": 902.0,
+        "end": 905.0,
+        "text": " But I'm not ready to call it a day yet."
+    },
+    {
+        "start": 905.0,
+        "end": 910.0,
+        "text": " I still miss that special unique sound that I'm looking for."
+    },
+    {
+        "start": 911.0,
+        "end": 921.0,
+        "text": " So I wait and when I don't see anyone around, I cover myself with mosquitoes' repellent, I turn on the recorder and I sneak out."
+    },
+    {
+        "start": 924.0,
+        "end": 930.0,
+        "text": " But the housekeeper sees my torchlight and it tells me to go back into the room for my safety."
+    },
+    {
+        "start": 930.0,
+        "end": 932.0,
+        "text": " Yeah, too little, too little."
+    },
+    {
+        "start": 932.0,
+        "end": 933.0,
+        "text": " Is that?"
+    },
+    {
+        "start": 933.0,
+        "end": 934.0,
+        "text": " Yeah, yeah."
+    },
+    {
+        "start": 934.0,
+        "end": 935.0,
+        "text": " I got it."
+    },
+    {
+        "start": 941.0,
+        "end": 944.0,
+        "text": " And then I sneak out again without the light."
+    },
+    {
+        "start": 958.0,
+        "end": 962.0,
+        "text": " I sit on a small step in a deep, deep dark."
+    },
+    {
+        "start": 963.0,
+        "end": 976.0,
+        "text": " And when I focus myself on what is coming out from my headphones, I realize that what I'm hearing is not silence."
+    },
+    {
+        "start": 976.0,
+        "end": 980.0,
+        "text": " Actually, I'm recording crickets."
+    },
+    {
+        "start": 983.0,
+        "end": 990.0,
+        "text": " Compared to the sound of the everyday life I'm used to, this noise is quiet."
+    },
+    {
+        "start": 991.0,
+        "end": 996.0,
+        "text": " But this is not the perfect silence I wanted to catch."
+    },
+    {
+        "start": 996.0,
+        "end": 1000.0,
+        "text": " I crossed half a world, I risked being eaten by hyenas."
+    },
+    {
+        "start": 1000.0,
+        "end": 1005.0,
+        "text": " To have a recording I can find on any sound library that I already have."
+    },
+    {
+        "start": 1005.0,
+        "end": 1009.0,
+        "text": " I could record a better silence in any church back home."
+    },
+    {
+        "start": 1009.0,
+        "end": 1014.0,
+        "text": " I better turn the recorder off and go back to my room."
+    },
+    {
+        "start": 1021.0,
+        "end": 1030.0,
+        "text": " I have another pretentious moment to add to my useless recording folder or my backup hard drive."
+    },
+    {
+        "start": 1030.0,
+        "end": 1039.0,
+        "text": " It's not the perfect silence I was looking for, but it's a kind of silence I started missing as soon as I got back to the hustle and bustle of the city."
+    },
+    {
+        "start": 1041.0,
+        "end": 1049.0,
+        "text": " I didn't change the history of sound, but I'm happy to have this shelter of quietness where I can hide myself once in a while."
+    },
+    {
+        "start": 1051.0,
+        "end": 1056.0,
+        "text": " This file that I called crickets night, Masai Mara."
+    },
+    {
+        "start": 1069.0,
+        "end": 1075.0,
+        "text": " So we just moved into the other room in the flat in the hope that we create a kind of perfect monastic ambience."
+    },
+    {
+        "start": 1076.0,
+        "end": 1092.0,
+        "text": " Unfortunately, whilst we've lost the boiler in the fridge, we've gained the upstairs neighbours listening quite prominently to the football and occasionally expressing strident opinions and stamping around."
+    },
+    {
+        "start": 1093.0,
+        "end": 1108.0,
+        "text": " What I found quite funny about Jonathan's piece is that he had this idealised image that by going into a very stripped back, very natural place, there'd be no sound."
+    },
+    {
+        "start": 1108.0,
+        "end": 1113.0,
+        "text": " And forgetting that of course the chaos of nature is always there."
+    },
+    {
+        "start": 1113.0,
+        "end": 1120.0,
+        "text": " It's likely I do that if you go out into the middle of nowhere, you'll be in this perfect pitch dark night."
+    },
+    {
+        "start": 1120.0,
+        "end": 1125.0,
+        "text": " And actually what you find is you see more stars than you've ever seen in your life."
+    },
+    {
+        "start": 1125.0,
+        "end": 1131.0,
+        "text": " You've got a canopy of bright stars or the bright moon illuminating the night."
+    },
+    {
+        "start": 1131.0,
+        "end": 1138.0,
+        "text": " So you're lit up far more than if you're on a suburban street with one little broken street lamp."
+    },
+    {
+        "start": 1142.0,
+        "end": 1148.0,
+        "text": " Our last story features the voice of Jordan Scott, who's a poet who also has a stutter."
+    },
+    {
+        "start": 1148.0,
+        "end": 1158.0,
+        "text": " He was researching a connection that he'd observed in his own life, which is the more that he's stutters, the more people in power assume that he's lying."
+    },
+    {
+        "start": 1158.0,
+        "end": 1170.0,
+        "text": " His research brought him to studying interrogation transcripts from Guantanamo Bay, in which interrogators also interpreted detainees' stutters as signs of their dishonesty."
+    },
+    {
+        "start": 1171.0,
+        "end": 1179.0,
+        "text": " Jordan decided to apply to tour the prison, so he could speak to interrogators and linguists who were working there and learn more."
+    },
+    {
+        "start": 1179.0,
+        "end": 1188.0,
+        "text": " But he knew that it was very difficult to be allowed on one of these tours, so in order to appear less threatening, he applied for the visit as a poet."
+    },
+    {
+        "start": 1189.0,
+        "end": 1195.0,
+        "text": " Guantanamo officials said that Jordan wouldn't be able to speak to any interrogators or linguists."
+    },
+    {
+        "start": 1195.0,
+        "end": 1200.0,
+        "text": " He wouldn't be able to record unauthorized human voices."
+    },
+    {
+        "start": 1200.0,
+        "end": 1208.0,
+        "text": " So Jordan had to change tactic very quickly. He asked if he could record the ambient noises around him."
+    },
+    {
+        "start": 1208.0,
+        "end": 1216.0,
+        "text": " When he arrived, the shorthand explanation of what he was doing became that he was recording ambient sound for poetry."
+    },
+    {
+        "start": 1216.0,
+        "end": 1223.0,
+        "text": " Even though in reality, he wasn't sure what you see would find for the recordings while he was taking them."
+    },
+    {
+        "start": 1223.0,
+        "end": 1228.0,
+        "text": " This recording starts in a part of Guantanamo called Camp X-ray."
+    },
+    {
+        "start": 1228.0,
+        "end": 1238.0,
+        "text": " Camp X-ray now stands abandoned and overgrown with nature, because it's a site of an active war crimes investigation into the torture that happened there."
+    },
+    {
+        "start": 1247.0,
+        "end": 1257.0,
+        "text": " I started walking up to get inside the prison outside the fence, Camp X-ray at night."
+    },
+    {
+        "start": 1257.0,
+        "end": 1262.0,
+        "text": " And the moon was bright, but not that bright."
+    },
+    {
+        "start": 1262.0,
+        "end": 1269.0,
+        "text": " In the military, Escort, who was with me, he's afraid of snakes, so he didn't want to go with me."
+    },
+    {
+        "start": 1269.0,
+        "end": 1278.0,
+        "text": " So he left me alone and he stayed at the van and I walked up."
+    },
+    {
+        "start": 1278.0,
+        "end": 1287.0,
+        "text": " Recording inside of one of the abandoned cells at Camp X-ray."
+    },
+    {
+        "start": 1287.0,
+        "end": 1293.0,
+        "text": " Inside another cell at Camp X-ray."
+    },
+    {
+        "start": 1293.0,
+        "end": 1296.0,
+        "text": " Another cell at Camp X-ray."
+    },
+    {
+        "start": 1297.0,
+        "end": 1312.0,
+        "text": " I just wanted to try to get a sense of how the landscape would sound at night for the people that were unheld there at one time."
+    },
+    {
+        "start": 1312.0,
+        "end": 1324.0,
+        "text": " Often times they were put on a plane from Afghanistan with hoods on and headphones on."
+    },
+    {
+        "start": 1324.0,
+        "end": 1333.0,
+        "text": " What were those sounds that these men were hearing for the first time?"
+    },
+    {
+        "start": 1333.0,
+        "end": 1342.0,
+        "text": " Please, and welcome to Guantanamo Bay. We would like to thank you for staying with us. And hope you will have a wonderful week."
+    },
+    {
+        "start": 1342.0,
+        "end": 1356.0,
+        "text": " As soon as you let get off the plane because it's so hot there, all you really hear are the sounds of the generators and air conditioners."
+    },
+    {
+        "start": 1362.0,
+        "end": 1370.0,
+        "text": " After every day, I recorded myself describing that particular day."
+    },
+    {
+        "start": 1370.0,
+        "end": 1378.0,
+        "text": " The whole place is totally restricted. You can't go anywhere without an escort."
+    },
+    {
+        "start": 1378.0,
+        "end": 1388.0,
+        "text": " You can't take any pictures, you can't talk to people. But this is the thing."
+    },
+    {
+        "start": 1388.0,
+        "end": 1400.0,
+        "text": " They did not know what to do with me. I would say, can I go into a camp in Guantanamo?"
+    },
+    {
+        "start": 1400.0,
+        "end": 1414.0,
+        "text": " And they would say, absolutely not. And I said, well, I want to do ambient sound. And they're like, oh, okay. I don't see an issue with that, right?"
+    },
+    {
+        "start": 1414.0,
+        "end": 1432.0,
+        "text": " We would have something called operational security meetings where our material was looked through to make sure that it did not compromise security, as what they called it."
+    },
+    {
+        "start": 1432.0,
+        "end": 1459.0,
+        "text": " What I started to find is that operational security meetings would go very quickly for me. There's got nothing in the ambient sound from their perspective that would compromise the dominant narrative that they want to sell of the prison."
+    },
+    {
+        "start": 1459.0,
+        "end": 1471.0,
+        "text": " When I was able to speak to the warden himself, I asked him what sounds does he hear in a regular day."
+    },
+    {
+        "start": 1471.0,
+        "end": 1479.0,
+        "text": " If you're asking me if there's a lot of shouting, not at all. I'm just not at all. Just in terms of ambient sound."
+    },
+    {
+        "start": 1479.0,
+        "end": 1485.0,
+        "text": " Right."
+    },
+    {
+        "start": 1485.0,
+        "end": 1505.0,
+        "text": " Right before I went to Guantanamo Bay, Guantanamo diary by Muhammad Salahi was released. There's a particular passage in it describing one of the ways that he is tortured at Guantanamo."
+    },
+    {
+        "start": 1505.0,
+        "end": 1527.0,
+        "text": " He is placed in a cold room with a little cloth clothes on. And this was one of the ways that they were trying to get him to confess to something that he did not do."
+    },
+    {
+        "start": 1527.0,
+        "end": 1537.0,
+        "text": " Once you understand that that machine is actually a vehicle of torture, you can't unhear it."
+    },
+    {
+        "start": 1557.0,
+        "end": 1567.0,
+        "text": " Can that trade interrogation?"
+    },
+    {
+        "start": 1567.0,
+        "end": 1579.0,
+        "text": " Inside the interior, you know, what Gaceans shed, you can see the remnants of an air conditioner on the side."
+    },
+    {
+        "start": 1579.0,
+        "end": 1601.0,
+        "text": " Once I stepped out, I knew something was wrong because there was headlights to my right and to my left racing down the road towards the entrance of a camp X-ray."
+    },
+    {
+        "start": 1601.0,
+        "end": 1619.0,
+        "text": " I shouldn't have been there. I was alone. And this particular shed was not part of the tour when we were there in the afternoon. So I know I pushed it somehow."
+    },
+    {
+        "start": 1619.0,
+        "end": 1637.0,
+        "text": " I walked up quickly down the hill. All of the military vehicles who had arrived, they all had their lights on in like a semi-circle."
+    },
+    {
+        "start": 1637.0,
+        "end": 1663.0,
+        "text": " My military, as you know, the court, he looked really nervous. There was this warm guard who was the most intense of the bunch. He walked aggressively towards me to meet me in the middle of the unhead lights."
+    },
+    {
+        "start": 1663.0,
+        "end": 1673.0,
+        "text": " Then the questioning started after that. Why are you here? Do you have permission to be here? What are you doing here?"
+    },
+    {
+        "start": 1673.0,
+        "end": 1687.0,
+        "text": " Or are you up there alone? Do you know what this means to be here without permission? The questions were coming so quickly and aggressively by Marine S-court."
+    },
+    {
+        "start": 1687.0,
+        "end": 1715.0,
+        "text": " He finally answers. He's recording ambient sounds for a poem, sir. Everything stopped. There's a poet, Peter Gizzy, who once said in an interview that poetry, I can be a mystery in the face of violence."
+    },
+    {
+        "start": 1715.0,
+        "end": 1737.0,
+        "text": " Ambient sound could sound like something in the background or something that's not important. When in actuality these sounds, they tell us something that escapes the sensors that exist at the prison."
+    },
+    {
+        "start": 1737.0,
+        "end": 1764.0,
+        "text": " They use recordings at Guantanamo. They form a kind of witnessing. The guard turned away from us. He got on the radio and all you could hear was, yes sir, camp ex-racer, I poem, sir."
+    },
+    {
+        "start": 1764.0,
+        "end": 1782.0,
+        "text": " Yes sir, a poem. Yes, ambient, sir. Yes sir, a poem. And then he turned back towards us and said, get out of here."
+    },
+    {
+        "start": 1782.0,
+        "end": 1796.0,
+        "text": " That was made for us by Jess Shane and it featured the voice of Jordan Scott."
+    },
+    {
+        "start": 1796.0,
+        "end": 1816.0,
+        "text": " You can exist in a place that you convince yourself is silent, but it takes somebody else to hear the truth of everything that's around you."
+    },
+    {
+        "start": 1817.0,
+        "end": 1828.0,
+        "text": " Thank you so much for listening to Shortcuts. If you enjoyed the show, you can find many more programs to listen to and download at bvc.co.uk forward slash radio for."
+    },
+    {
+        "start": 1828.0,
+        "end": 1832.0,
+        "text": " No, I am going to go to sleep. Good night."
+    },
+    {
+        "start": 1859.0,
+        "end": 1870.0,
+        "text": " Oh, I'm the highest guy in the world."
+    },
+    {
+        "start": 1872.0,
+        "end": 1880.0,
+        "text": " Oh, I'm the highest guy in the world."
+    },
+    {
+        "start": 1889.0,
+        "end": 1898.0,
+        "text": " Oh, I'm the highest guy in the world."
+    },
+    {
+        "start": 1898.0,
+        "end": 1906.0,
+        "text": " Oh, I'm the highest guy in the world."
+    },
+    {
+        "start": 1906.0,
+        "end": 1916.0,
+        "text": " Oh, I'm the highest guy in the world."
+    },
+    {
+        "start": 1936.0,
+        "end": 1946.0,
+        "text": " Oh, I'm the highest guy in the world."
+    },
+    {
+        "start": 1967.0,
+        "end": 1989.0,
+        "text": " So that was Shortcuts with Josie Long. Now, okay, tell me. Tell me, what's the moment that you had in your mind?"
+    },
+    {
+        "start": 1989.0,
+        "end": 1996.0,
+        "text": " The moment is when all the prisoners on the particular wing sat down to watch EastEnders and you hear,"
+    },
+    {
+        "start": 1996.0,
+        "end": 2004.0,
+        "text": " Oh, yeah, doof, doof, doof, doof, doof, from 300 cells across the wing or however many it was."
+    },
+    {
+        "start": 2004.0,
+        "end": 2013.0,
+        "text": " And also them watching crime watching prison, you know, I never had gone, come on, there you go."
+    },
+    {
+        "start": 2014.0,
+        "end": 2021.0,
+        "text": " I have to say, I mean, that was cool. For me, the, I mean, the heart of that episode really was the whole guantanamo-based stuff."
+    },
+    {
+        "start": 2021.0,
+        "end": 2024.0,
+        "text": " Yeah, it was intense."
+    },
+    {
+        "start": 2024.0,
+        "end": 2031.0,
+        "text": " She gets around a lot of different emotions using the sounds that she found sounds, I think they were hurting."
+    },
+    {
+        "start": 2031.0,
+        "end": 2033.0,
+        "text": " Yeah, really, really wonderful."
+    },
+    {
+        "start": 2033.0,
+        "end": 2039.0,
+        "text": " So if you liked that and you want to hear more of Shortcuts and there are a lot more episodes and they're more being made,"
+    },
+    {
+        "start": 2039.0,
+        "end": 2045.0,
+        "text": " subscribe to Shortcuts and subscribe to us. If you haven't done that already, we'll see you next time."
+    }
+]

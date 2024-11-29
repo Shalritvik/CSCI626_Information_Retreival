@@ -1,0 +1,2377 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.0,
+        "text": " This is an MPB Think Radio Podcast."
+    },
+    {
+        "start": 4.0,
+        "end": 13.0,
+        "text": " Here, previous shows, visit mpbonline.org or download the MPB Public Radio app to listen on your iPhone or Android phone on demand."
+    },
+    {
+        "start": 16.0,
+        "end": 19.0,
+        "text": " Do you drive a vehicle? Then you'll find AutoCorrect helpful."
+    },
+    {
+        "start": 19.0,
+        "end": 21.0,
+        "text": " As far as I'm coach Charlie's tip of the week."
+    },
+    {
+        "start": 21.0,
+        "end": 28.0,
+        "text": " Listen to our podcast of being coach Charlie Melton on any podcast and platform or on the MPB Public Media app."
+    },
+    {
+        "start": 30.0,
+        "end": 41.0,
+        "text": " Hello, thanks for tuning in to the Everyday Tech Podcast brought to you by MPB Think Radio."
+    },
+    {
+        "start": 41.0,
+        "end": 49.0,
+        "text": " And from Nanny here with my friends, Sabir Abdul-Hawk and IT expert and Shane Chisholm, a telecommunication specialist."
+    },
+    {
+        "start": 49.0,
+        "end": 53.0,
+        "text": " We did a show a few months ago answering the most common phone and computer questions."
+    },
+    {
+        "start": 53.0,
+        "end": 55.0,
+        "text": " If you missed that, please go check it out."
+    },
+    {
+        "start": 55.0,
+        "end": 60.0,
+        "text": " Today, we're doing a follow up to that show because of course there's so many things that we just never got to."
+    },
+    {
+        "start": 60.0,
+        "end": 69.0,
+        "text": " If you have questions, email everydaytech at mpbonline.org or contact us via leaving a talk to us message from the MPB Public Media app."
+    },
+    {
+        "start": 69.0,
+        "end": 77.0,
+        "text": " Sabir and Shane, welcome to the show. Sabir, as always, always happy to have you consistently on the show and not missing a day ever."
+    },
+    {
+        "start": 77.0,
+        "end": 79.0,
+        "text": " Wow."
+    },
+    {
+        "start": 80.0,
+        "end": 83.0,
+        "text": " And the jab."
+    },
+    {
+        "start": 83.0,
+        "end": 85.0,
+        "text": " The jab."
+    },
+    {
+        "start": 85.0,
+        "end": 88.0,
+        "text": " Always good to be able to hang out guys."
+    },
+    {
+        "start": 88.0,
+        "end": 89.0,
+        "text": " Good hang out."
+    },
+    {
+        "start": 89.0,
+        "end": 90.0,
+        "text": " It's fun."
+    },
+    {
+        "start": 90.0,
+        "end": 91.0,
+        "text": " It's the SD."
+    },
+    {
+        "start": 91.0,
+        "end": 92.0,
+        "text": " What's going on everybody?"
+    },
+    {
+        "start": 92.0,
+        "end": 93.0,
+        "text": " It's good."
+    },
+    {
+        "start": 93.0,
+        "end": 94.0,
+        "text": " It's good."
+    },
+    {
+        "start": 94.0,
+        "end": 95.0,
+        "text": " We are officially digital."
+    },
+    {
+        "start": 95.0,
+        "end": 102.0,
+        "text": " So that is why Shane is actually able to join us today because it, you know, work happens."
+    },
+    {
+        "start": 102.0,
+        "end": 103.0,
+        "text": " You got in the retail world."
+    },
+    {
+        "start": 103.0,
+        "end": 106.0,
+        "text": " You got to be there for when your job calls you."
+    },
+    {
+        "start": 106.0,
+        "end": 109.0,
+        "text": " Pretty much 24, 7, 24, 7, 7."
+    },
+    {
+        "start": 109.0,
+        "end": 110.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 110.0,
+        "end": 113.0,
+        "text": " That speaks to how value you are Shane."
+    },
+    {
+        "start": 113.0,
+        "end": 114.0,
+        "text": " Oh yeah, I'm going nowhere."
+    },
+    {
+        "start": 114.0,
+        "end": 116.0,
+        "text": " Cell phones are going nowhere."
+    },
+    {
+        "start": 116.0,
+        "end": 118.0,
+        "text": " I'll be here forever."
+    },
+    {
+        "start": 118.0,
+        "end": 119.0,
+        "text": " Yeah, forever."
+    },
+    {
+        "start": 119.0,
+        "end": 120.0,
+        "text": " I'll be here forever."
+    },
+    {
+        "start": 120.0,
+        "end": 121.0,
+        "text": " Yeah, let's hope so."
+    },
+    {
+        "start": 121.0,
+        "end": 123.0,
+        "text": " Let's hope so."
+    },
+    {
+        "start": 123.0,
+        "end": 124.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 124.0,
+        "end": 128.0,
+        "text": " So I say that we are going entirely digital."
+    },
+    {
+        "start": 128.0,
+        "end": 132.0,
+        "text": " So to kind of get into that."
+    },
+    {
+        "start": 132.0,
+        "end": 135.0,
+        "text": " Let's explain a little bit of what that means."
+    },
+    {
+        "start": 135.0,
+        "end": 141.0,
+        "text": " So as far as the podcast and everything, the podcast is not going anywhere."
+    },
+    {
+        "start": 141.0,
+        "end": 147.0,
+        "text": " What happened is the broadcast kind of stepped away or stepping away from the live broadcast show."
+    },
+    {
+        "start": 147.0,
+        "end": 148.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 148.0,
+        "end": 155.0,
+        "text": " That happens Wednesday at 10s instead the sit down with Russell Tino is now airing on MPB Wednesdays at 10 am."
+    },
+    {
+        "start": 155.0,
+        "end": 156.0,
+        "text": " So make sure you check that out."
+    },
+    {
+        "start": 156.0,
+        "end": 159.0,
+        "text": " And I believe that will also be a podcast afterwards as well."
+    },
+    {
+        "start": 159.0,
+        "end": 166.0,
+        "text": " So we are entirely digital and Sabir, I know you're looking to try to get some some social presence going with that."
+    },
+    {
+        "start": 166.0,
+        "end": 167.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 167.0,
+        "end": 176.0,
+        "text": " Yeah, we'll be doing with love to be able to do this so we can be able to record and have the regular shows go online and have discussions."
+    },
+    {
+        "start": 176.0,
+        "end": 185.0,
+        "text": " You know, I'm saying like to be able to just to be able to keep you know, keep everybody keeping by involved and educated for the different things."
+    },
+    {
+        "start": 185.0,
+        "end": 189.0,
+        "text": " So all three of us bring a different kind of we all have our own."
+    },
+    {
+        "start": 189.0,
+        "end": 191.0,
+        "text": " We're subject matter experts are on right."
+    },
+    {
+        "start": 191.0,
+        "end": 195.0,
+        "text": " So hey, we want people to you know, get that information best way possible."
+    },
+    {
+        "start": 195.0,
+        "end": 196.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 196.0,
+        "end": 206.0,
+        "text": " And even though we're not live, we're still able to go ahead and still have that same quality level of of a rapport and that same level of, you know, back and forth and everything with folks."
+    },
+    {
+        "start": 206.0,
+        "end": 208.0,
+        "text": " I look forward to it. It's going to be good. It's going to be cool."
+    },
+    {
+        "start": 208.0,
+        "end": 209.0,
+        "text": " Yeah, absolutely."
+    },
+    {
+        "start": 209.0,
+        "end": 212.0,
+        "text": " So like you said, we're still trying to go back and forth with people."
+    },
+    {
+        "start": 212.0,
+        "end": 225.0,
+        "text": " So find Sabir on Facebook or someone or me on Facebook, but also email every day tech at mpbonline.org and contact us with the talk to a message from the mpb public media app."
+    },
+    {
+        "start": 225.0,
+        "end": 229.0,
+        "text": " Now Shane, you know, I have to hate on you when I get the chance to."
+    },
+    {
+        "start": 229.0,
+        "end": 234.0,
+        "text": " If you don't know, this is the only opportunities you get to because I'm normally the one in the right."
+    },
+    {
+        "start": 234.0,
+        "end": 235.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 235.0,
+        "end": 242.0,
+        "text": " Oh, yeah, yeah. So listen, if you're listening and you didn't know, Shane is actually my brother in law."
+    },
+    {
+        "start": 242.0,
+        "end": 247.0,
+        "text": " So I've known you for how long has it been now? You better know because it's not my job to know."
+    },
+    {
+        "start": 247.0,
+        "end": 248.0,
+        "text": " 12 years."
+    },
+    {
+        "start": 248.0,
+        "end": 249.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 249.0,
+        "end": 250.0,
+        "text": " Somewhere around there."
+    },
+    {
+        "start": 250.0,
+        "end": 251.0,
+        "text": " Yeah. That's crazy."
+    },
+    {
+        "start": 251.0,
+        "end": 252.0,
+        "text": " So yeah, 12 years."
+    },
+    {
+        "start": 252.0,
+        "end": 253.0,
+        "text": " I know you were small."
+    },
+    {
+        "start": 253.0,
+        "end": 254.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 254.0,
+        "end": 256.0,
+        "text": " Yeah. Still a big small guy, honestly."
+    },
+    {
+        "start": 256.0,
+        "end": 260.0,
+        "text": " So let's get into the questions that I've got for you guys."
+    },
+    {
+        "start": 260.0,
+        "end": 265.0,
+        "text": " So Sabir, the first question I've got for you is what brand of computer should I not buy?"
+    },
+    {
+        "start": 265.0,
+        "end": 267.0,
+        "text": " Hmm. Okay. Okay."
+    },
+    {
+        "start": 267.0,
+        "end": 269.0,
+        "text": " That's always a question people ask."
+    },
+    {
+        "start": 269.0,
+        "end": 273.0,
+        "text": " And to be completely candid, they are all the same under the hood."
+    },
+    {
+        "start": 273.0,
+        "end": 281.0,
+        "text": " They're all the same under the hood. Every brand, they have different IT professionals that help with the servicing of that computer."
+    },
+    {
+        "start": 281.0,
+        "end": 287.0,
+        "text": " They help when they they may offer like, oh, well, we're we're XYZ company."
+    },
+    {
+        "start": 287.0,
+        "end": 291.0,
+        "text": " If you drop your computer by accident down elevator shaft, no problem."
+    },
+    {
+        "start": 291.0,
+        "end": 292.0,
+        "text": " We'll get you another one."
+    },
+    {
+        "start": 292.0,
+        "end": 296.0,
+        "text": " Or if there's if we're we're ABC computer company."
+    },
+    {
+        "start": 296.0,
+        "end": 301.0,
+        "text": " And if you, you know, close your you close your monitor to hard."
+    },
+    {
+        "start": 301.0,
+        "end": 304.0,
+        "text": " And suddenly it's sudden stop work on you. Well, you know, tough luck."
+    },
+    {
+        "start": 304.0,
+        "end": 309.0,
+        "text": " You know, so it's it's different things is that's the only thing that's the difference."
+    },
+    {
+        "start": 309.0,
+        "end": 311.0,
+        "text": " It's almost like car insurance."
+    },
+    {
+        "start": 311.0,
+        "end": 313.0,
+        "text": " Like who are you going to go to for different car insurance?"
+    },
+    {
+        "start": 313.0,
+        "end": 318.0,
+        "text": " If you go back, you go for a different car insurance because they may have faster response time."
+    },
+    {
+        "start": 318.0,
+        "end": 320.0,
+        "text": " They may have better customer service."
+    },
+    {
+        "start": 320.0,
+        "end": 328.0,
+        "text": " Just not because one of them happens to have a reptile as a spokesperson and another person happens to have a,"
+    },
+    {
+        "start": 328.0,
+        "end": 332.0,
+        "text": " a member of the avian family in commercials."
+    },
+    {
+        "start": 332.0,
+        "end": 333.0,
+        "text": " It doesn't matter."
+    },
+    {
+        "start": 333.0,
+        "end": 335.0,
+        "text": " I mean, like it's literally doesn't matter."
+    },
+    {
+        "start": 335.0,
+        "end": 338.0,
+        "text": " So I would honestly say."
+    },
+    {
+        "start": 338.0,
+        "end": 346.0,
+        "text": " Honestly, 400% honest, they are the same things, but we will stick to the same things we've said even in the live show."
+    },
+    {
+        "start": 346.0,
+        "end": 348.0,
+        "text": " Watch your specs in terms of what you're buying."
+    },
+    {
+        "start": 348.0,
+        "end": 350.0,
+        "text": " You want to get at least eight."
+    },
+    {
+        "start": 350.0,
+        "end": 353.0,
+        "text": " Now we've gone up to 16 gigs of memory."
+    },
+    {
+        "start": 353.0,
+        "end": 360.0,
+        "text": " At least 256 now is getting to the point where you need to get half a terabyte, which is 500 gigs."
+    },
+    {
+        "start": 360.0,
+        "end": 362.0,
+        "text": " No touch screen."
+    },
+    {
+        "start": 362.0,
+        "end": 364.0,
+        "text": " No seller on."
+    },
+    {
+        "start": 364.0,
+        "end": 365.0,
+        "text": " No seller."
+    },
+    {
+        "start": 365.0,
+        "end": 366.0,
+        "text": " No seller."
+    },
+    {
+        "start": 366.0,
+        "end": 367.0,
+        "text": " No seller."
+    },
+    {
+        "start": 367.0,
+        "end": 368.0,
+        "text": " No seller."
+    },
+    {
+        "start": 368.0,
+        "end": 369.0,
+        "text": " No seller on."
+    },
+    {
+        "start": 369.0,
+        "end": 374.0,
+        "text": " But as long as you're able to get some of those things going, you're fine."
+    },
+    {
+        "start": 374.0,
+        "end": 382.0,
+        "text": " It's as long as you can stay on top of those things and really try to have something that makes sense in that fashion, you'll be good."
+    },
+    {
+        "start": 382.0,
+        "end": 385.0,
+        "text": " It really does not matter in name brands."
+    },
+    {
+        "start": 385.0,
+        "end": 392.0,
+        "text": " At one point, at one point, I would say my personal opinion, e-machines wasn't all that great."
+    },
+    {
+        "start": 392.0,
+        "end": 396.0,
+        "text": " A company, Acer, bought out e-machines."
+    },
+    {
+        "start": 396.0,
+        "end": 399.0,
+        "text": " And so Acer learned from this experience."
+    },
+    {
+        "start": 399.0,
+        "end": 402.0,
+        "text": " So there, it really just depends on what you're trying to get done."
+    },
+    {
+        "start": 402.0,
+        "end": 409.0,
+        "text": " If you want a PC and if you're a real big gamer, if you're a real big gamer, go get you an alien alienware."
+    },
+    {
+        "start": 409.0,
+        "end": 416.0,
+        "text": " If you're buying a PC, if you're buying a PC, Alienware, or anything that's got a Ryzen processor, et cetera."
+    },
+    {
+        "start": 416.0,
+        "end": 424.0,
+        "text": " So if you've got any questions, you know, if the viewing audience or the listening audience has any questions, just, you know, email us or hit us on the talk to us feature."
+    },
+    {
+        "start": 424.0,
+        "end": 426.0,
+        "text": " And we can see what they're trying to get done."
+    },
+    {
+        "start": 426.0,
+        "end": 429.0,
+        "text": " So we can get you the best bang for your buck."
+    },
+    {
+        "start": 429.0,
+        "end": 430.0,
+        "text": " There it is."
+    },
+    {
+        "start": 430.0,
+        "end": 431.0,
+        "text": " That's a promo right there."
+    },
+    {
+        "start": 431.0,
+        "end": 435.0,
+        "text": " That is from my general like knowledge of it."
+    },
+    {
+        "start": 435.0,
+        "end": 438.0,
+        "text": " Couldn't you make any crappy desktop, a good desktop then?"
+    },
+    {
+        "start": 438.0,
+        "end": 439.0,
+        "text": " Well, here's the deal."
+    },
+    {
+        "start": 439.0,
+        "end": 440.0,
+        "text": " With the right parts."
+    },
+    {
+        "start": 440.0,
+        "end": 441.0,
+        "text": " That's a great question."
+    },
+    {
+        "start": 441.0,
+        "end": 442.0,
+        "text": " That's a great question."
+    },
+    {
+        "start": 442.0,
+        "end": 443.0,
+        "text": " That's a great question."
+    },
+    {
+        "start": 443.0,
+        "end": 444.0,
+        "text": " It's funny."
+    },
+    {
+        "start": 444.0,
+        "end": 449.0,
+        "text": " So we're going to have a client today who had a old 15 year old windows vista computer."
+    },
+    {
+        "start": 449.0,
+        "end": 453.0,
+        "text": " It would have cost too much for us to try to do the updates on that computer."
+    },
+    {
+        "start": 453.0,
+        "end": 455.0,
+        "text": " So certain things you can't do that."
+    },
+    {
+        "start": 455.0,
+        "end": 457.0,
+        "text": " That's what I always call."
+    },
+    {
+        "start": 457.0,
+        "end": 462.0,
+        "text": " So you can do certain things up to an extent, but there are certain things."
+    },
+    {
+        "start": 462.0,
+        "end": 465.0,
+        "text": " And I don't want to get too technical, but you have a ATX motherboard."
+    },
+    {
+        "start": 465.0,
+        "end": 469.0,
+        "text": " You have your motherboard may not be able to allow certain things."
+    },
+    {
+        "start": 469.0,
+        "end": 476.0,
+        "text": " And also just the cost it would take to be able to pull and cannibalize some of those old parts out and Frankenstein some of those old parts out."
+    },
+    {
+        "start": 476.0,
+        "end": 480.0,
+        "text": " Put new stuff in and have everything underneath working well."
+    },
+    {
+        "start": 480.0,
+        "end": 482.0,
+        "text": " Mine is well by another computer."
+    },
+    {
+        "start": 482.0,
+        "end": 490.0,
+        "text": " Just be careful about shopping at those big box stores because they're going to you'll go there and shop for something else getting dog food from certain store or whatever."
+    },
+    {
+        "start": 490.0,
+        "end": 494.0,
+        "text": " And they'll say, oh, we got these computers out here for $199."
+    },
+    {
+        "start": 494.0,
+        "end": 497.0,
+        "text": " It's going to be $199 paperweight."
+    },
+    {
+        "start": 497.0,
+        "end": 499.0,
+        "text": " I don't do it."
+    },
+    {
+        "start": 499.0,
+        "end": 513.0,
+        "text": " Well, I do know that I've always got severe to back me up when I need a question for that because I know my computer my laptop only has a certain amount of life left."
+    },
+    {
+        "start": 513.0,
+        "end": 523.0,
+        "text": " Well, I mean, yeah, I mean, well, look, when you're ready to go ahead and do something else, Abram, just all you have to do is just look through and be like, no, wait, what is the best?"
+    },
+    {
+        "start": 523.0,
+        "end": 526.0,
+        "text": " I mean, you ought to be able to get your extra amount by now."
+    },
+    {
+        "start": 526.0,
+        "end": 529.0,
+        "text": " Yeah, you just follow me straight to your local Apple store."
+    },
+    {
+        "start": 529.0,
+        "end": 534.0,
+        "text": " I know it's coming."
+    },
+    {
+        "start": 534.0,
+        "end": 536.0,
+        "text": " I was waiting for you."
+    },
+    {
+        "start": 536.0,
+        "end": 539.0,
+        "text": " It's going to be great."
+    },
+    {
+        "start": 539.0,
+        "end": 548.0,
+        "text": " And today credit today credit as long as this within I just had a client five, her apple is now five or seven years old."
+    },
+    {
+        "start": 548.0,
+        "end": 552.0,
+        "text": " And she could go ahead and upgrade the parts on that."
+    },
+    {
+        "start": 552.0,
+        "end": 556.0,
+        "text": " But it would be she's looking at at least a good six to seven hundred dollars."
+    },
+    {
+        "start": 556.0,
+        "end": 560.0,
+        "text": " Yeah, it's a lot more expensive to upgrade the parts of us."
+    },
+    {
+        "start": 560.0,
+        "end": 569.0,
+        "text": " I mean, heck, just to get inside of it, the screwdriver on certain parts of the Mac is their proprietary, the tools are proprietary."
+    },
+    {
+        "start": 569.0,
+        "end": 573.0,
+        "text": " So yeah, it's official. That's how you know, hey, yeah."
+    },
+    {
+        "start": 573.0,
+        "end": 575.0,
+        "text": " I don't know if I don't fool with him."
+    },
+    {
+        "start": 575.0,
+        "end": 577.0,
+        "text": " I have an info to folks."
+    },
+    {
+        "start": 577.0,
+        "end": 581.0,
+        "text": " I keep a safe text message from when people call me and say, hey, I've got a problem with my Mac."
+    },
+    {
+        "start": 581.0,
+        "end": 583.0,
+        "text": " I've got this. I got that."
+    },
+    {
+        "start": 583.0,
+        "end": 584.0,
+        "text": " I've already got them skewed up."
+    },
+    {
+        "start": 584.0,
+        "end": 585.0,
+        "text": " Like I don't fool with them."
+    },
+    {
+        "start": 585.0,
+        "end": 587.0,
+        "text": " But call these three people."
+    },
+    {
+        "start": 587.0,
+        "end": 590.0,
+        "text": " One of them actively hates Max."
+    },
+    {
+        "start": 590.0,
+        "end": 593.0,
+        "text": " But he's very good at his ex military, but he actively hates Max."
+    },
+    {
+        "start": 593.0,
+        "end": 597.0,
+        "text": " He'll get on social media and call him crappy Apple devices."
+    },
+    {
+        "start": 597.0,
+        "end": 599.0,
+        "text": " Yeah, that's literally his three words."
+    },
+    {
+        "start": 599.0,
+        "end": 601.0,
+        "text": " Dang, the this."
+    },
+    {
+        "start": 601.0,
+        "end": 603.0,
+        "text": " He's right on that."
+    },
+    {
+        "start": 603.0,
+        "end": 607.0,
+        "text": " That I love the copy and paste message that prepped at any point."
+    },
+    {
+        "start": 607.0,
+        "end": 609.0,
+        "text": " It's already is already."
+    },
+    {
+        "start": 609.0,
+        "end": 610.0,
+        "text": " I got my notes."
+    },
+    {
+        "start": 610.0,
+        "end": 613.0,
+        "text": " Yeah, I got the same thing for occasions."
+    },
+    {
+        "start": 613.0,
+        "end": 615.0,
+        "text": " Yeah, yeah, I do not."
+    },
+    {
+        "start": 615.0,
+        "end": 617.0,
+        "text": " I don't have anything like that."
+    },
+    {
+        "start": 617.0,
+        "end": 624.0,
+        "text": " So Shane, my question is, what should I do if I keep getting strange links texted to me from numbers?"
+    },
+    {
+        "start": 624.0,
+        "end": 626.0,
+        "text": " I don't recognize."
+    },
+    {
+        "start": 626.0,
+        "end": 629.0,
+        "text": " All right. So I'm going to give you just a straight on a sensor. It's really short."
+    },
+    {
+        "start": 629.0,
+        "end": 632.0,
+        "text": " There's absolutely nothing you can do."
+    },
+    {
+        "start": 632.0,
+        "end": 633.0,
+        "text": " Okay."
+    },
+    {
+        "start": 633.0,
+        "end": 634.0,
+        "text": " At all."
+    },
+    {
+        "start": 634.0,
+        "end": 635.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 635.0,
+        "end": 638.0,
+        "text": " There's, you can block the numbers, delete them."
+    },
+    {
+        "start": 638.0,
+        "end": 640.0,
+        "text": " You're just going to get it from another number."
+    },
+    {
+        "start": 640.0,
+        "end": 642.0,
+        "text": " Just delete it and just keep on about your day."
+    },
+    {
+        "start": 642.0,
+        "end": 643.0,
+        "text": " Don't stress it."
+    },
+    {
+        "start": 643.0,
+        "end": 644.0,
+        "text": " Just never click the links."
+    },
+    {
+        "start": 644.0,
+        "end": 645.0,
+        "text": " Never do anything with the links."
+    },
+    {
+        "start": 645.0,
+        "end": 647.0,
+        "text": " Just delete them and move on about your day."
+    },
+    {
+        "start": 647.0,
+        "end": 648.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 648.0,
+        "end": 650.0,
+        "text": " Because I get those same things all the time."
+    },
+    {
+        "start": 650.0,
+        "end": 653.0,
+        "text": " The big ones were you, uh, USPS for a while."
+    },
+    {
+        "start": 653.0,
+        "end": 655.0,
+        "text": " A UPS packages."
+    },
+    {
+        "start": 655.0,
+        "end": 658.0,
+        "text": " Yeah, I don't know what those are doing, but just delete them and don't ever look at them again."
+    },
+    {
+        "start": 658.0,
+        "end": 659.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 659.0,
+        "end": 660.0,
+        "text": " There's nothing you can do."
+    },
+    {
+        "start": 660.0,
+        "end": 662.0,
+        "text": " And like you said, don't stress about it."
+    },
+    {
+        "start": 662.0,
+        "end": 665.0,
+        "text": " But the one thing we're going to stress about it is don't click the link."
+    },
+    {
+        "start": 665.0,
+        "end": 666.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 666.0,
+        "end": 667.0,
+        "text": " Don't click the link."
+    },
+    {
+        "start": 667.0,
+        "end": 668.0,
+        "text": " Absolutely."
+    },
+    {
+        "start": 668.0,
+        "end": 669.0,
+        "text": " Don't click the link."
+    },
+    {
+        "start": 669.0,
+        "end": 675.0,
+        "text": " Definitely don't give them your Social Security number that they're asking for or your maiden name or your favorite animal."
+    },
+    {
+        "start": 675.0,
+        "end": 676.0,
+        "text": " Yes."
+    },
+    {
+        "start": 676.0,
+        "end": 678.0,
+        "text": " They're just going to try to hack it into all your stuff."
+    },
+    {
+        "start": 678.0,
+        "end": 679.0,
+        "text": " Absolutely not."
+    },
+    {
+        "start": 679.0,
+        "end": 680.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 680.0,
+        "end": 684.0,
+        "text": " I remember I've had several USPS, uh,"
+    },
+    {
+        "start": 684.0,
+        "end": 689.0,
+        "text": " or hypothetically USPS fake USPS accounts."
+    },
+    {
+        "start": 689.0,
+        "end": 695.0,
+        "text": " It takes me in there like, oh, your package did not get delivered because you sent the wrong address."
+    },
+    {
+        "start": 695.0,
+        "end": 698.0,
+        "text": " You need to click this link and give us your bank account information."
+    },
+    {
+        "start": 698.0,
+        "end": 699.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 699.0,
+        "end": 704.0,
+        "text": " The big one here recently, I don't know if you check your email very often, but I keep getting that my Netflix account is going to be canceled."
+    },
+    {
+        "start": 704.0,
+        "end": 706.0,
+        "text": " And it's asking me like re-intermit."
+    },
+    {
+        "start": 706.0,
+        "end": 709.0,
+        "text": " Yes, asking you to like re-enter your card information."
+    },
+    {
+        "start": 709.0,
+        "end": 711.0,
+        "text": " I've seen it work like multiple times."
+    },
+    {
+        "start": 712.0,
+        "end": 714.0,
+        "text": " And I'm saying, yes, not real."
+    },
+    {
+        "start": 714.0,
+        "end": 715.0,
+        "text": " I'll just ignore it."
+    },
+    {
+        "start": 715.0,
+        "end": 716.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 716.0,
+        "end": 717.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 717.0,
+        "end": 720.0,
+        "text": " So other than like ignoring it, like what do you do second step?"
+    },
+    {
+        "start": 720.0,
+        "end": 730.0,
+        "text": " So if that's not something that happened, like if someone clicked the link and you know, now the phone is weird and bank accounts compromised."
+    },
+    {
+        "start": 730.0,
+        "end": 732.0,
+        "text": " I will say check with your provider."
+    },
+    {
+        "start": 732.0,
+        "end": 740.0,
+        "text": " Most of them do offer like call protects and like protected advantages that can kind of prevent them a little bit."
+    },
+    {
+        "start": 740.0,
+        "end": 748.0,
+        "text": " But in my experience, people still get them no matter what they're doing to protect their phone and never download the apps that tell you they're going to make your phones safer."
+    },
+    {
+        "start": 748.0,
+        "end": 751.0,
+        "text": " That's it never does download any of those."
+    },
+    {
+        "start": 751.0,
+        "end": 755.0,
+        "text": " Yeah, there's apps that'll be like cleaner apps is what they like to hide themselves as."
+    },
+    {
+        "start": 755.0,
+        "end": 762.0,
+        "text": " And they put so much malware and spamware in the devices that sometimes you can barely open these people's phones."
+    },
+    {
+        "start": 762.0,
+        "end": 763.0,
+        "text": " Wow."
+    },
+    {
+        "start": 763.0,
+        "end": 765.0,
+        "text": " Because there's so many pop-up ads coming up."
+    },
+    {
+        "start": 765.0,
+        "end": 766.0,
+        "text": " That's I guess that's how they get paid."
+    },
+    {
+        "start": 766.0,
+        "end": 767.0,
+        "text": " Revenue to those apps."
+    },
+    {
+        "start": 767.0,
+        "end": 768.0,
+        "text": " But don't download those."
+    },
+    {
+        "start": 768.0,
+        "end": 772.0,
+        "text": " I have sat and cleaned out of persons phone for probably 20 minutes and just random clean reps."
+    },
+    {
+        "start": 772.0,
+        "end": 773.0,
+        "text": " Wow."
+    },
+    {
+        "start": 773.0,
+        "end": 774.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 774.0,
+        "end": 775.0,
+        "text": " That's crazy."
+    },
+    {
+        "start": 775.0,
+        "end": 776.0,
+        "text": " That's super bad."
+    },
+    {
+        "start": 776.0,
+        "end": 777.0,
+        "text": " That's pretty bad."
+    },
+    {
+        "start": 777.0,
+        "end": 779.0,
+        "text": " I saw you shake your head when Shane said that as well."
+    },
+    {
+        "start": 779.0,
+        "end": 781.0,
+        "text": " I mean, yeah, I mean, it is bad."
+    },
+    {
+        "start": 781.0,
+        "end": 783.0,
+        "text": " I mean, it can't get rough."
+    },
+    {
+        "start": 783.0,
+        "end": 784.0,
+        "text": " It can't get rough."
+    },
+    {
+        "start": 784.0,
+        "end": 786.0,
+        "text": " It's there are a lot of them that are out there."
+    },
+    {
+        "start": 786.0,
+        "end": 795.0,
+        "text": " I actually have one that I love and then my phone keeps getting full because I use my phone probably as a computer more than a phone."
+    },
+    {
+        "start": 795.0,
+        "end": 800.0,
+        "text": " that's wrong, but I mean, it does work pretty good for them, but I know which ones to watch"
+    },
+    {
+        "start": 800.0,
+        "end": 803.8,
+        "text": " out for. No, there's legitimate ones. And then there's ones that are not legit. They're"
+    },
+    {
+        "start": 803.8,
+        "end": 806.8,
+        "text": " terrible. Yeah, I could do the get it. But yeah, yeah, I was like, I was shaking my"
+    },
+    {
+        "start": 806.8,
+        "end": 811.48,
+        "text": " head like, I was like, I hate it for those folks. Yeah. Now, if you know the legitimate one,"
+    },
+    {
+        "start": 811.48,
+        "end": 816.52,
+        "text": " you could name drop it, but I've never seen a like see cleaner. Seek cleaners. Okay,"
+    },
+    {
+        "start": 816.52,
+        "end": 820.72,
+        "text": " no, see cleaners legit. Seek cleaners legit. Yeah, see cleaner is legit. Okay. I've never"
+    },
+    {
+        "start": 820.72,
+        "end": 827.0,
+        "text": " used any of these. It's always had it. You always had iPhone. Hey, boom. Yes. Yeah. When"
+    },
+    {
+        "start": 827.0,
+        "end": 831.6800000000001,
+        "text": " Android's, Android's they do great because they will also sick cleaners got a function that"
+    },
+    {
+        "start": 831.6800000000001,
+        "end": 837.4,
+        "text": " says, look, I see you got all these different pictures. Do you mind if we turn down how"
+    },
+    {
+        "start": 837.4,
+        "end": 842.96,
+        "text": " quality that picture is by about 40%. We can save you two gigs. I know you may not want"
+    },
+    {
+        "start": 842.96,
+        "end": 846.76,
+        "text": " to lose this per great picture. Your family and it'll still look good. We just going to turn"
+    },
+    {
+        "start": 846.76,
+        "end": 850.72,
+        "text": " down for you. And then like, would you like to do that? Like, yeah. And so it tells it"
+    },
+    {
+        "start": 850.72,
+        "end": 855.28,
+        "text": " it goes through all my pictures. And then it's okay. We just saved you two gigs of space."
+    },
+    {
+        "start": 855.28,
+        "end": 860.8,
+        "text": " Like, my job. I was like, what? So yeah, see cleaners. Oh, legit one. That was I used to"
+    },
+    {
+        "start": 860.8,
+        "end": 865.48,
+        "text": " use that one when I use Samsung phones. Yeah. Seek cleaner and see cleaner also also has"
+    },
+    {
+        "start": 865.48,
+        "end": 869.12,
+        "text": " so usually and to be, you know, of course, be fair. I completely understand what you're"
+    },
+    {
+        "start": 869.12,
+        "end": 876.4399999999999,
+        "text": " saying, Shane, but like any app that I recommend for PC also probably has an iPhone and Android"
+    },
+    {
+        "start": 876.44,
+        "end": 881.24,
+        "text": " counterpart. So that's why I recommend a vest like for PCs. I recommend Seek cleaner"
+    },
+    {
+        "start": 881.24,
+        "end": 886.36,
+        "text": " for PCs because they've got counterparts as well. So I mean, yeah, but I get it. There"
+    },
+    {
+        "start": 886.36,
+        "end": 891.48,
+        "text": " are a lot of them out there. Terrible. Yeah. Oh, yeah. They're definitely just almost malware."
+    },
+    {
+        "start": 891.48,
+        "end": 896.5600000000001,
+        "text": " Yeah. Almost making the phone worse. Right. Right. But usually I don't want your program."
+    },
+    {
+        "start": 896.5600000000001,
+        "end": 902.1600000000001,
+        "text": " So yeah, I got it. Hmm. So he's wild stuff out there. Yeah. All right. So be your next"
+    },
+    {
+        "start": 902.16,
+        "end": 907.28,
+        "text": " question. Cool. I just got this computer. Why is it giving me such a tough time? And"
+    },
+    {
+        "start": 907.28,
+        "end": 913.64,
+        "text": " I'm guessing we kind of covered this in the last one with you. We did. If it's giving"
+    },
+    {
+        "start": 913.64,
+        "end": 917.92,
+        "text": " folks a tough time, they just bought it and they may not have heard some of our recommendations"
+    },
+    {
+        "start": 917.92,
+        "end": 922.64,
+        "text": " on things. I've got it. And I think we did. I think we did test devices on this before,"
+    },
+    {
+        "start": 922.64,
+        "end": 928.68,
+        "text": " but I know my one of my nephews, their mom called me up and was like, Hey, can I get"
+    },
+    {
+        "start": 928.68,
+        "end": 932.52,
+        "text": " it? We like, you know, the boys are having such a tough times computer. I just bought it."
+    },
+    {
+        "start": 932.52,
+        "end": 938.04,
+        "text": " And it turned out they bought a seller on computer with four gigs of hard drives with four gigs"
+    },
+    {
+        "start": 938.04,
+        "end": 946.1999999999999,
+        "text": " of RAM and like 128 gig hard drive. Oh, no. So that's every single thing. It's every single"
+    },
+    {
+        "start": 946.1999999999999,
+        "end": 951.8,
+        "text": " thing. So I was like, Zee, come on now. You know better than this. She would have listened"
+    },
+    {
+        "start": 951.8,
+        "end": 958.62,
+        "text": " to me. I'm not looking at my Facebook. But she is. She's a home mom. She's a home"
+    },
+    {
+        "start": 958.62,
+        "end": 964.94,
+        "text": " mom and my brother. He's like, he's always on the go. So, but he's a home mom. She's like,"
+    },
+    {
+        "start": 964.94,
+        "end": 971.1,
+        "text": " I don't sit still. I got these kids fed. So yeah, she's a teacher itself, but she's awesome."
+    },
+    {
+        "start": 971.1,
+        "end": 978.22,
+        "text": " Shout out to shout out to my sister, but yeah, she's awesome. But she's great. And I would"
+    },
+    {
+        "start": 978.22,
+        "end": 983.66,
+        "text": " just say that as long as people, if you're buying something and if it's suddenly working slow,"
+    },
+    {
+        "start": 984.54,
+        "end": 989.42,
+        "text": " probably bought a living by accident. And you just didn't know or you may not have heard or"
+    },
+    {
+        "start": 989.42,
+        "end": 993.9,
+        "text": " may not have paid attention to some of the stuff that we talk about on this show. So Shane,"
+    },
+    {
+        "start": 993.9,
+        "end": 1000.06,
+        "text": " what type of scams do you see people encounter most often? Most often the thing I see with people"
+    },
+    {
+        "start": 1000.06,
+        "end": 1006.54,
+        "text": " being scammed are people getting messages from like fake profiles pretending to be people they're"
+    },
+    {
+        "start": 1006.54,
+        "end": 1012.14,
+        "text": " not. And like asking people to get them phones added to their phone accounts. And"
+    },
+    {
+        "start": 1013.42,
+        "end": 1018.14,
+        "text": " just kind of ask them for money saying that they're in bad times or in struggles. They need help."
+    },
+    {
+        "start": 1018.14,
+        "end": 1023.3399999999999,
+        "text": " And people are generally kind of conhearted. And they're always going to like try to help"
+    },
+    {
+        "start": 1023.3399999999999,
+        "end": 1028.06,
+        "text": " somebody, especially with I would say people in their later ages, they always really want to try"
+    },
+    {
+        "start": 1028.06,
+        "end": 1033.02,
+        "text": " to donate and help people. Like I've seen people pretend to be foundations and need donations of"
+    },
+    {
+        "start": 1033.02,
+        "end": 1037.34,
+        "text": " money to help children in need and things like that. And then come to find out none of these things"
+    },
+    {
+        "start": 1037.34,
+        "end": 1041.98,
+        "text": " are real. It's just people getting money sent to them anytime a season might say sending money to a"
+    },
+    {
+        "start": 1041.98,
+        "end": 1047.66,
+        "text": " cash app or a Venmo or anything like that. I'm immediately right flagged right comes to that. And"
+    },
+    {
+        "start": 1047.66,
+        "end": 1051.9,
+        "text": " which we I see that a lot. And that that's for real. It is mostly people pretending to be people"
+    },
+    {
+        "start": 1051.9,
+        "end": 1057.58,
+        "text": " they're not. I can see that probably the most common. Yeah. And also the big one is like a oh,"
+    },
+    {
+        "start": 1058.3,
+        "end": 1063.26,
+        "text": " can you buy me an Apple gift card or a Visa card or something like that."
+    },
+    {
+        "start": 1064.3799999999999,
+        "end": 1069.5,
+        "text": " And you see that a lot. Yeah. That's that's pretty forward. That's pretty good. Yeah. And asking"
+    },
+    {
+        "start": 1069.5,
+        "end": 1074.1399999999999,
+        "text": " for Apple paid money sent to them. Yeah. But they don't have an iPhone. How does that make sense?"
+    },
+    {
+        "start": 1074.1399999999999,
+        "end": 1079.82,
+        "text": " Right. Right. Yeah. We see stuff like that a lot. Yeah. Have you seen an increased"
+    },
+    {
+        "start": 1079.82,
+        "end": 1085.82,
+        "text": " chain of those fake companies saying that we've got a remote work position for you? Don't you"
+    },
+    {
+        "start": 1085.82,
+        "end": 1091.5,
+        "text": " want to click on this link? Have you seen those? Oh, yeah. I shared on the show like two or three"
+    },
+    {
+        "start": 1091.5,
+        "end": 1099.5,
+        "text": " weeks ago that I actually did have several problems with because I was on a job searching site"
+    },
+    {
+        "start": 1099.5,
+        "end": 1104.78,
+        "text": " platform and had several problems with people getting my email from that and trying to be like,"
+    },
+    {
+        "start": 1104.78,
+        "end": 1109.58,
+        "text": " hey, we have a remote position open for you. It's kind of sad how they do that to people too."
+    },
+    {
+        "start": 1109.58,
+        "end": 1113.6599999999999,
+        "text": " Making people think they're getting these jobs that are just like unbelievably incredible scenarios."
+    },
+    {
+        "start": 1113.66,
+        "end": 1118.14,
+        "text": " Yeah. It's crazy. And it's easy to follow. I fell for it for a bit. Yeah. That was unfortunate."
+    },
+    {
+        "start": 1118.14,
+        "end": 1123.02,
+        "text": " Especially on on WhatsApp. They come through. I see a lot of them come through on WhatsApp and text."
+    },
+    {
+        "start": 1123.02,
+        "end": 1127.3400000000001,
+        "text": " Yeah. Man. WhatsApp's great. We have a lot of people come in. I've helped several people"
+    },
+    {
+        "start": 1127.3400000000001,
+        "end": 1130.94,
+        "text": " coming in saying, well, I've got this friend on WhatsApp. I'm like, do you know them?"
+    },
+    {
+        "start": 1132.0600000000002,
+        "end": 1136.46,
+        "text": " Any action? Who they are? Are they asking you for money? Don't talk to these people."
+    },
+    {
+        "start": 1136.46,
+        "end": 1142.3000000000002,
+        "text": " Don't talk to these people. No more. Yeah. They don't do it. Yeah. That's that's the truth. That's true."
+    },
+    {
+        "start": 1142.3,
+        "end": 1144.78,
+        "text": " That's true. You're going to watch your back out there for sure."
+    },
+    {
+        "start": 1145.5,
+        "end": 1150.46,
+        "text": " And I feel my heart goes out to you and your colleague Shane because y'all"
+    },
+    {
+        "start": 1151.18,
+        "end": 1156.3,
+        "text": " is one thing to have a cell phone because more people to be straight up, more people have cell phones"
+    },
+    {
+        "start": 1156.3,
+        "end": 1161.82,
+        "text": " than they have computers. Yeah. And cell phones are more intimate and it's more on you. You're on it"
+    },
+    {
+        "start": 1161.82,
+        "end": 1166.1399999999999,
+        "text": " more. You know, you got apps that say, oh, well, you've been on your phone this much less this"
+    },
+    {
+        "start": 1166.14,
+        "end": 1172.22,
+        "text": " week than you were last week, whatever. But the cell phones when someone texts you, you're not"
+    },
+    {
+        "start": 1172.22,
+        "end": 1179.3400000000001,
+        "text": " really even thinking sometimes, some folks may not be as wary. So my heart goes out to y'all"
+    },
+    {
+        "start": 1179.3400000000001,
+        "end": 1184.6200000000001,
+        "text": " and my heart goes out to folks that come to your store because they may have gotten kind or"
+    },
+    {
+        "start": 1184.6200000000001,
+        "end": 1190.38,
+        "text": " about to be kind or whatever and just find themselves on the bad spot. And like I say, I'll talk"
+    },
+    {
+        "start": 1190.38,
+        "end": 1194.6200000000001,
+        "text": " at the end of the day. That's really not my profession or my job or anything, but it's hard to"
+    },
+    {
+        "start": 1194.62,
+        "end": 1200.2199999999998,
+        "text": " not want to help them people. Yeah. Yeah. It's hard. Yeah. And as we emphasize earlier, if you're in"
+    },
+    {
+        "start": 1200.2199999999998,
+        "end": 1207.02,
+        "text": " that sort of situation, you know, go to your bank, freeze your credit, that type of situation."
+    },
+    {
+        "start": 1207.8999999999999,
+        "end": 1213.9799999999998,
+        "text": " Do those types of things because, you know, as much as we try and as much as we'll give our effort"
+    },
+    {
+        "start": 1213.9799999999998,
+        "end": 1220.78,
+        "text": " and stuff, like it's not exactly Shane or Sabir's expertise to take care of that. All right, Sabir."
+    },
+    {
+        "start": 1221.74,
+        "end": 1226.7,
+        "text": " Yeah. If I can get on the internet, my friends are relatives house. Why send, why suddenly,"
+    },
+    {
+        "start": 1226.7,
+        "end": 1233.34,
+        "text": " can I not get on the internet at my own home? Great question. I think there's a few things that"
+    },
+    {
+        "start": 1233.34,
+        "end": 1240.06,
+        "text": " may have gone through. There may have been updates that happened to your modem to the modem that"
+    },
+    {
+        "start": 1240.06,
+        "end": 1245.02,
+        "text": " you're actually getting your broadband through. There may have been some updates to the security."
+    },
+    {
+        "start": 1245.02,
+        "end": 1249.74,
+        "text": " There may have been a compromise in your security. Someone that your home may have changed,"
+    },
+    {
+        "start": 1249.74,
+        "end": 1254.46,
+        "text": " someone that your home may have accidentally changed the password and you didn't realize it or"
+    },
+    {
+        "start": 1254.46,
+        "end": 1260.14,
+        "text": " whatnot. So there's a lot of things, but generally it has to do. I would say with the network settings,"
+    },
+    {
+        "start": 1260.14,
+        "end": 1266.78,
+        "text": " either on behalf of whoever you get your broadband with or someone in your house may have made a change"
+    },
+    {
+        "start": 1266.78,
+        "end": 1273.58,
+        "text": " or perish forbid that you actually gotten, you know, compromised. Those are the main three things."
+    },
+    {
+        "start": 1274.3,
+        "end": 1280.06,
+        "text": " Also, if the computer that you're using had some updates and it has an updated in a long time,"
+    },
+    {
+        "start": 1280.06,
+        "end": 1285.26,
+        "text": " and those are things that are very important that need to be watched, if you have not updated your"
+    },
+    {
+        "start": 1285.26,
+        "end": 1290.06,
+        "text": " computer, some of those settings, sometimes certain services will go out. Your Bluetooth might not"
+    },
+    {
+        "start": 1290.06,
+        "end": 1294.78,
+        "text": " work on your computer. Your internet may not work on your computer. Your sound may not go out,"
+    },
+    {
+        "start": 1294.78,
+        "end": 1300.3799999999999,
+        "text": " because they're trying to tell you, hey, Sabir, we've got some updates. We need to go and restart"
+    },
+    {
+        "start": 1300.46,
+        "end": 1305.42,
+        "text": " the computer doing. So to get your attention, they start cutting things off and sometimes network"
+    },
+    {
+        "start": 1305.42,
+        "end": 1311.8200000000002,
+        "text": " could be one of them. Okay. Wow. So I can kind of go off of this. A lot of people are be like, I can't make"
+    },
+    {
+        "start": 1311.8200000000002,
+        "end": 1317.66,
+        "text": " phone calls no more. Well, have you updated your phone in the past like seven updates and the answers"
+    },
+    {
+        "start": 1317.66,
+        "end": 1324.7800000000002,
+        "text": " always know. No, always know. As very similar scenario as almost and immediately follow up to that."
+    },
+    {
+        "start": 1324.7800000000002,
+        "end": 1329.98,
+        "text": " Shane, if I like the older model iPhones because of their size or whatnot and whatever I enjoy the"
+    },
+    {
+        "start": 1329.98,
+        "end": 1335.5,
+        "text": " features of it, is it still safe and smart to use? Yeah, it's safe and smart to use. As long as you"
+    },
+    {
+        "start": 1335.5,
+        "end": 1339.74,
+        "text": " do the updates, I know people I don't want to do the new update. I've heard bad things. Just do the"
+    },
+    {
+        "start": 1339.74,
+        "end": 1345.18,
+        "text": " updates. They're good, they're good for your phone more than they own. Yeah. And also iPhone, if you're"
+    },
+    {
+        "start": 1345.18,
+        "end": 1350.6200000000001,
+        "text": " an iPhone person, they have the iPhone SE. It's a great phone. Literally has like a home button still."
+    },
+    {
+        "start": 1351.26,
+        "end": 1354.7,
+        "text": " It still has all those old features. Actually, I think your your mom uses one Abram."
+    },
+    {
+        "start": 1355.18,
+        "end": 1359.98,
+        "text": " She uses an iPhone SE. So those are still those are still had that same old school iPhone shape."
+    },
+    {
+        "start": 1359.98,
+        "end": 1364.7,
+        "text": " They got the home button. So yeah, that is still safe to use that phone or you can get one of those"
+    },
+    {
+        "start": 1364.7,
+        "end": 1369.5,
+        "text": " phones. We feel you need a new one. Nice, nice, nice. Samsung don't have that option though, you know."
+    },
+    {
+        "start": 1369.5,
+        "end": 1377.1000000000001,
+        "text": " Don't need to. So we go. Yes, but you're right. You're right. It is safe to continue to use that"
+    },
+    {
+        "start": 1377.1000000000001,
+        "end": 1381.74,
+        "text": " phone. It just make it just keep doing the updates. Yeah. I mean, we always talk about like with"
+    },
+    {
+        "start": 1381.74,
+        "end": 1387.82,
+        "text": " the computers. Everyone knows that like, you know, the longer that you go without updating it,"
+    },
+    {
+        "start": 1387.82,
+        "end": 1393.82,
+        "text": " the less safe that that computer becomes. So oh, yeah. Oh, yeah. It's the same with phones too. Yeah."
+    },
+    {
+        "start": 1393.82,
+        "end": 1398.3,
+        "text": " Same with phones. We actually get emails at my job saying we need to update our actual like work"
+    },
+    {
+        "start": 1398.3,
+        "end": 1404.3,
+        "text": " phones so they can't get infiltrated. Is the word they'll use? Yeah. Yeah. All right, Shane. So what"
+    },
+    {
+        "start": 1404.3,
+        "end": 1410.7,
+        "text": " accessibility features do smartphones have for older generations? This is a bullet question."
+    },
+    {
+        "start": 1410.7,
+        "end": 1418.46,
+        "text": " It is. It's a big one. Accessibility. Now, you know, it's more really in watches and stuff to"
+    },
+    {
+        "start": 1418.46,
+        "end": 1422.8600000000001,
+        "text": " me like the smart devices I compare to your phone. Because Apple watches, Samsung watches,"
+    },
+    {
+        "start": 1422.8600000000001,
+        "end": 1426.78,
+        "text": " they all have like the fall detection. They have all those health features."
+    },
+    {
+        "start": 1426.78,
+        "end": 1431.5,
+        "text": " Fones just recently, I feel like are kind of stepping into that market. Because now you know,"
+    },
+    {
+        "start": 1431.5,
+        "end": 1437.18,
+        "text": " your phone can detect like when you have a car crash. But it is not really like an age variation."
+    },
+    {
+        "start": 1437.18,
+        "end": 1442.0600000000002,
+        "text": " I don't think there's anything specific to an age. Right. Right. If you're being honest,"
+    },
+    {
+        "start": 1442.0600000000002,
+        "end": 1447.74,
+        "text": " there's not a there's not a age specific one. We do sell out of the Apple watches and Samsung watches"
+    },
+    {
+        "start": 1447.74,
+        "end": 1454.7,
+        "text": " for older generations for like step and take a contender blood pressure stuff like that. So I"
+    },
+    {
+        "start": 1454.7,
+        "end": 1460.38,
+        "text": " would say more Apple like and Samsung watches and smart devices over the phone themselves. Right."
+    },
+    {
+        "start": 1460.38,
+        "end": 1465.66,
+        "text": " Okay. So yeah, it's not really just a specific accessibility on a phone. I will say the phones"
+    },
+    {
+        "start": 1465.66,
+        "end": 1469.8200000000002,
+        "text": " have gotten a little bit better about like the zoom features where you can make text bigger"
+    },
+    {
+        "start": 1469.8200000000002,
+        "end": 1474.14,
+        "text": " and things like that. But that's really that's that's about it. Yeah. See that's what I guess."
+    },
+    {
+        "start": 1474.14,
+        "end": 1483.18,
+        "text": " That's what comes to my mind is a large enlarged text. Yeah. Text dictation or Siri and big speed"
+    },
+    {
+        "start": 1483.18,
+        "end": 1488.6200000000001,
+        "text": " stuff. That's about that's about all I would know. Yeah. I got you. Yeah."
+    },
+    {
+        "start": 1489.42,
+        "end": 1493.42,
+        "text": " Oh, it means and I heard the excel that you're talking about the accessibility features and stuff."
+    },
+    {
+        "start": 1493.42,
+        "end": 1497.98,
+        "text": " That's that's pretty awesome too. Yeah. That's pretty dope. I'm awesome. Cool. Yeah. Yeah. No,"
+    },
+    {
+        "start": 1497.98,
+        "end": 1503.5,
+        "text": " as far as accessibility, like when I say text dictation for anyone listening, I mean that you can"
+    },
+    {
+        "start": 1503.5,
+        "end": 1509.3400000000001,
+        "text": " press a button and your phone will read something out loud to you. Yeah. If your text message is"
+    },
+    {
+        "start": 1509.3400000000001,
+        "end": 1514.6200000000001,
+        "text": " confusing for you or if you're having trouble reading it. So you can set it up so that your phone"
+    },
+    {
+        "start": 1514.6200000000001,
+        "end": 1519.5,
+        "text": " will tell you, you know, you've got a message from so and so. Yeah. So that's a great thing"
+    },
+    {
+        "start": 1519.5,
+        "end": 1525.18,
+        "text": " with AirPods. They'll read your text message to you in your ear. Oh, wow. I genuinely did not"
+    },
+    {
+        "start": 1525.18,
+        "end": 1528.86,
+        "text": " know that I don't have AirPods. Yes. So if you see a lot, you know, you see all the people that"
+    },
+    {
+        "start": 1528.86,
+        "end": 1533.26,
+        "text": " make some of them keep an air pot in their ear all the time. They're genuinely probably doing that"
+    },
+    {
+        "start": 1533.26,
+        "end": 1536.06,
+        "text": " so they can hear their text message in the ear and they don't have to pull their phone out."
+    },
+    {
+        "start": 1536.78,
+        "end": 1541.66,
+        "text": " Huh. There's a guy I work with that is like air air pot in one ear religious. Okay."
+    },
+    {
+        "start": 1541.66,
+        "end": 1545.58,
+        "text": " Yes. I'm in all the time. And I'm like, are you listening? Things are, oh no, I'm just going"
+    },
+    {
+        "start": 1545.58,
+        "end": 1550.62,
+        "text": " to treat my text messages. That's right. I didn't know that at all. Yeah. He'll hear him talking"
+    },
+    {
+        "start": 1550.62,
+        "end": 1555.6599999999999,
+        "text": " to himself sometimes. He's in the beer spawn. But I hear it. You know what? April,"
+    },
+    {
+        "start": 1555.6599999999999,
+        "end": 1560.78,
+        "text": " my one imagine your wife, because I know my wife does. She keeps the AirPods in one ear. So she does,"
+    },
+    {
+        "start": 1560.78,
+        "end": 1567.1799999999998,
+        "text": " I bet our wives probably do the same thing. Man. She will. If she's, uh, if she's got the time to"
+    },
+    {
+        "start": 1567.1799999999998,
+        "end": 1571.98,
+        "text": " actually like focus on something. But if if she's not sitting around, she probably would not."
+    },
+    {
+        "start": 1572.46,
+        "end": 1577.02,
+        "text": " Well, to be fair, Keely has a very, very important job. So here's your one. See,"
+    },
+    {
+        "start": 1577.02,
+        "end": 1582.6200000000001,
+        "text": " you're is also a nurse. Oh, the other wife's doing importance here. Yeah, we don't, we're,"
+    },
+    {
+        "start": 1582.6200000000001,
+        "end": 1586.94,
+        "text": " we're slackers. I don't do anything. I'm slack. Yeah. Right. My wife is like, you know, just to"
+    },
+    {
+        "start": 1586.94,
+        "end": 1592.78,
+        "text": " teach her for the generation. So I'm just, man, look, your wife is awesome too. Yeah. No."
+    },
+    {
+        "start": 1592.78,
+        "end": 1596.8600000000001,
+        "text": " Shout out to our wife. Teaching the younger generation. Shout out to wives. Shout out to wives."
+    },
+    {
+        "start": 1596.86,
+        "end": 1602.1399999999999,
+        "text": " Why is there? We need to make a, we need to have a wife. Let's have the women of everyday tech"
+    },
+    {
+        "start": 1602.1399999999999,
+        "end": 1606.6999999999998,
+        "text": " curves to show and see how that goes. It'd be a lot more educated. It would be a lot more"
+    },
+    {
+        "start": 1606.6999999999998,
+        "end": 1611.26,
+        "text": " educational. Yeah, a lot more education. You know what? And be like, what do you, like, ladies,"
+    },
+    {
+        "start": 1611.26,
+        "end": 1615.1799999999998,
+        "text": " what do you think about, you know, our husbands and what they tell us about tech stuff? That'd be"
+    },
+    {
+        "start": 1615.1799999999998,
+        "end": 1619.4199999999998,
+        "text": " interesting. That'd be fun. That'd be interesting. Let us know if you want to do that. That,"
+    },
+    {
+        "start": 1619.4199999999998,
+        "end": 1624.3,
+        "text": " that would be interesting. Yeah. Zero would legit do it. She'd be like, let's go. Oh, yeah. My wife's"
+    },
+    {
+        "start": 1624.3,
+        "end": 1629.58,
+        "text": " screen time on her phone is like two hours a day. That's crazy. That's honestly impressive."
+    },
+    {
+        "start": 1630.22,
+        "end": 1634.62,
+        "text": " That's pretty darn good. Yeah. She needs, she needs no bill piece price of it. Yeah."
+    },
+    {
+        "start": 1636.86,
+        "end": 1642.3,
+        "text": " And we're saying that if you're unaware, we're saying that as like, like, that's a low number."
+    },
+    {
+        "start": 1643.1,
+        "end": 1647.6599999999999,
+        "text": " That's a very, very, very, very low. Two hours is a low number. Yeah. That is a,"
+    },
+    {
+        "start": 1647.8200000000002,
+        "end": 1656.14,
+        "text": " monos like seven. Yeah. Right. All right. Final question. So beer. How do I know if I've been"
+    },
+    {
+        "start": 1656.14,
+        "end": 1662.5400000000002,
+        "text": " hacked and what can I immediately do to stop it? Fastest way to know that your hacked is if"
+    },
+    {
+        "start": 1662.5400000000002,
+        "end": 1668.3000000000002,
+        "text": " your computer suddenly the performance suddenly just knows that if you just runs super slow,"
+    },
+    {
+        "start": 1669.1000000000001,
+        "end": 1675.3400000000001,
+        "text": " particularly, I know they do something similar on max, but on windows. If you try to drag a"
+    },
+    {
+        "start": 1675.34,
+        "end": 1680.06,
+        "text": " window around and it starts shading or whatever, where it starts making like its clones of a cell,"
+    },
+    {
+        "start": 1680.06,
+        "end": 1685.02,
+        "text": " if it runs really slow, or if you see something that pops up and says, Hey, you've been, you know,"
+    },
+    {
+        "start": 1685.02,
+        "end": 1691.26,
+        "text": " you've been hacked. Call this number. The first thing, the best thing, find the power button on your"
+    },
+    {
+        "start": 1691.26,
+        "end": 1697.58,
+        "text": " device. Hold that button down till everything goes black. The sooner you do that and the way how hackers"
+    },
+    {
+        "start": 1697.58,
+        "end": 1703.5,
+        "text": " work, hackers work a lot like Talents, like imagine an Eagle talent grabbing, you know, some lunch."
+    },
+    {
+        "start": 1703.5,
+        "end": 1708.14,
+        "text": " The longer you, they talk to you, the longer it's connected, the deeper they get their hooks into"
+    },
+    {
+        "start": 1708.14,
+        "end": 1713.9,
+        "text": " you. So just the, as soon as you're sure, if you're sure that you've, uh, that you're being hacked,"
+    },
+    {
+        "start": 1713.9,
+        "end": 1718.14,
+        "text": " if it's running super slow or pop up, start popping up saying that you're hacked or whatever,"
+    },
+    {
+        "start": 1718.14,
+        "end": 1725.26,
+        "text": " hold on that power button, wipe it out. Now, that blacks it out. Now caveat. Sometimes you may see a"
+    },
+    {
+        "start": 1725.26,
+        "end": 1730.78,
+        "text": " pop up and especially today's computers lower right hand side of the screen, where what we call the"
+    },
+    {
+        "start": 1730.78,
+        "end": 1736.3799999999999,
+        "text": " notifications area comes up. Sometimes you'll go on websites. You might be visiting news sites."
+    },
+    {
+        "start": 1736.3799999999999,
+        "end": 1740.86,
+        "text": " You might be visiting other things or whatever and things will pop up down there and says that"
+    },
+    {
+        "start": 1740.86,
+        "end": 1745.5,
+        "text": " you've been hacked. You've been hacked. Those are just notifications. Those are cookies, right?"
+    },
+    {
+        "start": 1745.5,
+        "end": 1750.1399999999999,
+        "text": " What do they call it? They call cookies. Some of your information is being, it's not being"
+    },
+    {
+        "start": 1750.1399999999999,
+        "end": 1755.74,
+        "text": " compromised or anything else. It just, it comes on as an ad and it says that, Hey, Abel might be"
+    },
+    {
+        "start": 1755.74,
+        "end": 1761.58,
+        "text": " interested in wanting to know about security. So we're going to drop this thing, this, uh, this"
+    },
+    {
+        "start": 1761.58,
+        "end": 1767.74,
+        "text": " anti virus program ad on his computer. And it will say you're, you know, you're hacked. You're not"
+    },
+    {
+        "start": 1767.74,
+        "end": 1773.66,
+        "text": " hacked. That's actually an ad on your computer. You can go to the part of it. You can look up on"
+    },
+    {
+        "start": 1773.66,
+        "end": 1779.02,
+        "text": " yield, YouTube or Google university on how to clear your notifications and it will never come up"
+    },
+    {
+        "start": 1779.02,
+        "end": 1783.26,
+        "text": " again. So I want to be clear. Okay. There's two different, it's two different things. Just because"
+    },
+    {
+        "start": 1783.26,
+        "end": 1787.98,
+        "text": " you see a pop up down there does not always mean you've been hacked. Watch out for things like"
+    },
+    {
+        "start": 1787.98,
+        "end": 1792.86,
+        "text": " slow computer running or something usually in the middle of your screen that says that, Hey,"
+    },
+    {
+        "start": 1792.86,
+        "end": 1797.74,
+        "text": " you've been hacked. Call this toll free number and we'll fix it. That is a sign somebody's got you."
+    },
+    {
+        "start": 1798.3,
+        "end": 1804.54,
+        "text": " And those happen. I think I've shared with each of you, uh, sometimes how I get hack attempts"
+    },
+    {
+        "start": 1804.54,
+        "end": 1810.22,
+        "text": " from Berlin and India and everything else at least twice a week. I mean, at least I had,"
+    },
+    {
+        "start": 1810.22,
+        "end": 1815.1000000000001,
+        "text": " I had that's insane. I had like two or three of them today. I had two or three of them today."
+    },
+    {
+        "start": 1815.1000000000001,
+        "end": 1818.94,
+        "text": " Like people saying like, you know, from a from the United States and everything else,"
+    },
+    {
+        "start": 1818.94,
+        "end": 1822.54,
+        "text": " I'll get something pop up saying we blocked an attack on this computer from XYZ."
+    },
+    {
+        "start": 1823.66,
+        "end": 1830.3,
+        "text": " And it tells you where it's coming from. Russia, India, Poland, Vietnam, uh, well, what was"
+    },
+    {
+        "start": 1830.3,
+        "end": 1837.02,
+        "text": " the most recent China? How do I feel from China? That's crazy. I can tell you it is the exact"
+    },
+    {
+        "start": 1837.02,
+        "end": 1841.58,
+        "text": " opposite on a phone. If you have something coming up on your phone saying like, you've been hacked."
+    },
+    {
+        "start": 1841.58,
+        "end": 1846.3799999999999,
+        "text": " Yeah, you clicked that. You're getting hacked. Right. Yeah. Yeah. So it's like the exact"
+    },
+    {
+        "start": 1846.3799999999999,
+        "end": 1849.98,
+        "text": " opposite on the phone. So if you get any ad saying you've been hacked on your phone,"
+    },
+    {
+        "start": 1849.98,
+        "end": 1854.7,
+        "text": " you don't even touch them. Yeah. Just because I don't know why that's so crazy. It's so opposite"
+    },
+    {
+        "start": 1854.7,
+        "end": 1859.1,
+        "text": " on the phone. Right. Well, actually, I'm hung on. Maybe I may have this spoke. I don't want you to"
+    },
+    {
+        "start": 1859.1,
+        "end": 1863.42,
+        "text": " click on the ad. Yeah. So I thought you were saying, I want to, yeah, I want to click on the,"
+    },
+    {
+        "start": 1864.14,
+        "end": 1869.5800000000002,
+        "text": " there's a part of your computer called notifications. You go to YouTube to see how to clear your"
+    },
+    {
+        "start": 1869.5800000000002,
+        "end": 1874.6200000000001,
+        "text": " notifications. Okay. Never click on those. Yeah. Don't ever click. Don't ever click on your phone."
+    },
+    {
+        "start": 1875.5800000000002,
+        "end": 1879.42,
+        "text": " Yeah. Never click on the pop-ups. But you can click on the notification"
+    },
+    {
+        "start": 1879.42,
+        "end": 1883.42,
+        "text": " portion. If it's just popping up in the lower right hand side of the screen, can that's where all"
+    },
+    {
+        "start": 1883.42,
+        "end": 1889.18,
+        "text": " your notifications pop up? If you have a PC at home, if you, uh, I don't know if you download a"
+    },
+    {
+        "start": 1889.18,
+        "end": 1894.14,
+        "text": " picture of there's an update that needs to come, it comes in the lower right hand side of your screen."
+    },
+    {
+        "start": 1894.14,
+        "end": 1897.74,
+        "text": " Well, that lower, that's, that's where your notifications constantly keep coming up. Well,"
+    },
+    {
+        "start": 1897.74,
+        "end": 1901.42,
+        "text": " if you see something that pops up just on that lower right hand side of the screen, you're probably"
+    },
+    {
+        "start": 1901.42,
+        "end": 1908.7,
+        "text": " not hacked. That's probably an ad for a legit company that wants you to go ahead and buy some of"
+    },
+    {
+        "start": 1908.7,
+        "end": 1915.02,
+        "text": " their products. So it's, it's, it's probably not. But still to make sure you the way, hold on that"
+    },
+    {
+        "start": 1915.02,
+        "end": 1920.3799999999999,
+        "text": " power button, everything goes black. Give it about five seconds, log back in. Uh, you're,"
+    },
+    {
+        "start": 1920.3799999999999,
+        "end": 1925.34,
+        "text": " you're usually good to go. If it comes back up, turn it back off again, contact yourself, uh,"
+    },
+    {
+        "start": 1925.34,
+        "end": 1930.94,
+        "text": " a local IT professional up. Yeah. Absolutely. So regardless, I think our conclusion is we don't want"
+    },
+    {
+        "start": 1930.94,
+        "end": 1936.54,
+        "text": " you to click that because you're either getting taken to a commercialized website. You're telling those,"
+    },
+    {
+        "start": 1937.5,
+        "end": 1942.3799999999999,
+        "text": " uh, companies that you want to see those ads over and over and over again, or you might actually be"
+    },
+    {
+        "start": 1942.38,
+        "end": 1949.1000000000001,
+        "text": " getting hacked. So, yeah. Very true. Very true. All right. Well, guys, I think this has been a good show."
+    },
+    {
+        "start": 1949.8200000000002,
+        "end": 1955.9,
+        "text": " Appreciate it coming on. Yeah. Looking forward to many more. Yeah, many more coming forward. I feel like,"
+    },
+    {
+        "start": 1955.9,
+        "end": 1962.38,
+        "text": " uh, you know, with the digital, um, we are more accessible to everyone. And I think we are more"
+    },
+    {
+        "start": 1962.38,
+        "end": 1968.14,
+        "text": " available for our time schedules and stuff. So it should be the three of us more consistently."
+    },
+    {
+        "start": 1969.1000000000001,
+        "end": 1974.7800000000002,
+        "text": " And we'll, we will still be taking your emails and such. So, oh yeah. All right. We're looking forward to it."
+    },
+    {
+        "start": 1974.7800000000002,
+        "end": 1977.5800000000002,
+        "text": " Please continue to support. Thank y'all for listening. Yeah."
+    },
+    {
+        "start": 1977.5800000000002,
+        "end": 1981.5800000000002,
+        "text": " Absolutely. Share us to your friends. You know, whatever you feel like you need to do. Exactly."
+    },
+    {
+        "start": 1981.5800000000002,
+        "end": 1986.6200000000001,
+        "text": " Exactly. Because I feel like there's some good stuff out here in this one that we can share."
+    },
+    {
+        "start": 1986.6200000000001,
+        "end": 1991.5,
+        "text": " So yeah. All right. So that is going to wrap us up for the day. So thank you guys. Shane and"
+    },
+    {
+        "start": 1991.5,
+        "end": 1996.38,
+        "text": " Sabir for joining me on the show today. If you have a tech question, you want answered or any ideas"
+    },
+    {
+        "start": 1996.38,
+        "end": 2002.22,
+        "text": " for us, email everyday tech at npbonline.org or send us a talk to us message from the MPV public"
+    },
+    {
+        "start": 2002.22,
+        "end": 2007.0200000000002,
+        "text": " media app. If you enjoyed the show and want to keep up with us, follow and subscribe to the show"
+    },
+    {
+        "start": 2007.0200000000002,
+        "end": 2012.14,
+        "text": " so you can hear more from us next week. The everyday tech podcast is brought to you by Mississippi"
+    },
+    {
+        "start": 2012.14,
+        "end": 2017.74,
+        "text": " public broadcasting. Thank you for listening. This is an MPB Think Radio podcast. To hear previous"
+    },
+    {
+        "start": 2017.74,
+        "end": 2024.7800000000002,
+        "text": " shows, visit mpbonline.org or download the MPB public radio app to listen on your iPhone or"
+    },
+    {
+        "start": 2024.78,
+        "end": 2026.78,
+        "text": " Android phone or the MPB."
+    }
+]

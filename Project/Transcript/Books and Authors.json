@@ -1,0 +1,3687 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 17.36,
+        "end": 19.6,
+        "text": " Hello and welcome to Podcasting House."
+    },
+    {
+        "start": 19.6,
+        "end": 23.12,
+        "text": " And if you're with us for the first time, then welcome aboard."
+    },
+    {
+        "start": 23.12,
+        "end": 24.64,
+        "text": " And this is what you need to know."
+    },
+    {
+        "start": 24.64,
+        "end": 27.32,
+        "text": " A couple of times a week we will listen to a BBC podcast"
+    },
+    {
+        "start": 27.32,
+        "end": 28.92,
+        "text": " we think you might like to."
+    },
+    {
+        "start": 28.92,
+        "end": 31.6,
+        "text": " And if you like it, then you can search for it and subscribe"
+    },
+    {
+        "start": 31.6,
+        "end": 33.6,
+        "text": " wherever you found Podcasting House."
+    },
+    {
+        "start": 33.6,
+        "end": 36.56,
+        "text": " I'm Rianne and with me, I have Eli."
+    },
+    {
+        "start": 36.56,
+        "end": 40.0,
+        "text": " Eli, what is in your podcast box of Loveliness this week?"
+    },
+    {
+        "start": 40.0,
+        "end": 41.32,
+        "text": " Well, hello."
+    },
+    {
+        "start": 41.32,
+        "end": 44.88,
+        "text": " This is Books and Authors, a podcast that brings together episodes"
+    },
+    {
+        "start": 44.88,
+        "end": 47.0,
+        "text": " from a couple of radio four programs."
+    },
+    {
+        "start": 47.0,
+        "end": 50.400000000000006,
+        "text": " One is called Open Book and mainly talks to authors about books"
+    },
+    {
+        "start": 50.400000000000006,
+        "end": 52.52,
+        "text": " that they've written or are working on."
+    },
+    {
+        "start": 52.52,
+        "end": 54.84,
+        "text": " And it also takes in a literary scene"
+    },
+    {
+        "start": 54.84,
+        "end": 56.88,
+        "text": " and goes to book festivals and things like that."
+    },
+    {
+        "start": 56.88,
+        "end": 58.92,
+        "text": " The other show that contributes to this podcast series"
+    },
+    {
+        "start": 58.92,
+        "end": 61.0,
+        "text": " is called A Good Read, which brings in two guests"
+    },
+    {
+        "start": 61.0,
+        "end": 62.6,
+        "text": " to talk about books that they love."
+    },
+    {
+        "start": 62.6,
+        "end": 65.56,
+        "text": " But the nice thing about this podcast is it combines these two shows"
+    },
+    {
+        "start": 65.56,
+        "end": 67.64,
+        "text": " and it was single fee called Books and Authors."
+    },
+    {
+        "start": 67.64,
+        "end": 69.52000000000001,
+        "text": " So it's two for the price of one kind of."
+    },
+    {
+        "start": 69.52000000000001,
+        "end": 71.12,
+        "text": " The episode we're about to hear has got"
+    },
+    {
+        "start": 71.12,
+        "end": 74.96000000000001,
+        "text": " comedian Phil Jupiter's talking about a book on Dada"
+    },
+    {
+        "start": 74.96000000000001,
+        "end": 77.96000000000001,
+        "text": " and comedian Robin Inz, who's from Infinite Monkey Cage."
+    },
+    {
+        "start": 77.96000000000001,
+        "end": 80.80000000000001,
+        "text": " He's talking about Soviet era science fiction."
+    },
+    {
+        "start": 80.80000000000001,
+        "end": 83.24000000000001,
+        "text": " Here it is, Books and Authors."
+    },
+    {
+        "start": 83.24000000000001,
+        "end": 85.56,
+        "text": " Hello, with me today, two comedians."
+    },
+    {
+        "start": 85.56,
+        "end": 89.08,
+        "text": " This first Phil Jupiter stand up poet and improviser"
+    },
+    {
+        "start": 89.08,
+        "end": 94.08,
+        "text": " for 18 years, team captain on BBC 2's pop quiz Nevermind the Bus Cocks"
+    },
+    {
+        "start": 94.08,
+        "end": 97.8,
+        "text": " and a regular guest on shows such as QI on television."
+    },
+    {
+        "start": 97.8,
+        "end": 100.4,
+        "text": " And I'm sorry I haven't a clue on the radio."
+    },
+    {
+        "start": 100.4,
+        "end": 102.2,
+        "text": " He's currently on a nationwide tour"
+    },
+    {
+        "start": 102.2,
+        "end": 105.0,
+        "text": " with his stand up show Dupricity."
+    },
+    {
+        "start": 105.0,
+        "end": 108.28,
+        "text": " With Phil, it's Robin Inz, who with Professor Brian Cox"
+    },
+    {
+        "start": 108.28,
+        "end": 111.28,
+        "text": " presents Radio 4's irreverent science program,"
+    },
+    {
+        "start": 111.28,
+        "end": 113.28,
+        "text": " The Infinite Monkey Cage."
+    },
+    {
+        "start": 113.28,
+        "end": 116.32000000000001,
+        "text": " He's also creator and co-host of the podcast Robin"
+    },
+    {
+        "start": 116.32000000000001,
+        "end": 118.0,
+        "text": " and Joseph's book shambles."
+    },
+    {
+        "start": 118.0,
+        "end": 120.4,
+        "text": " And he too is right now on tour"
+    },
+    {
+        "start": 120.4,
+        "end": 123.36,
+        "text": " with a show called Prigmatic Insanity."
+    },
+    {
+        "start": 124.48,
+        "end": 126.36,
+        "text": " Phil Jupiter, would you begin?"
+    },
+    {
+        "start": 126.36,
+        "end": 128.72,
+        "text": " What is your choice of a good read?"
+    },
+    {
+        "start": 128.72,
+        "end": 133.48,
+        "text": " My choice this week is Hans Richter's Dada,"
+    },
+    {
+        "start": 133.48,
+        "end": 138.48,
+        "text": " Art and Antiart, a book which I picked up"
+    },
+    {
+        "start": 138.48,
+        "end": 139.24,
+        "text": " on something of a whim."
+    },
+    {
+        "start": 139.24,
+        "end": 141.96,
+        "text": " I was an art gallery and I was wondering around."
+    },
+    {
+        "start": 141.96,
+        "end": 144.12,
+        "text": " I believe it was the date modern"
+    },
+    {
+        "start": 144.12,
+        "end": 147.72,
+        "text": " and I am a great one for hitting the book shop at an art gallery"
+    },
+    {
+        "start": 147.72,
+        "end": 152.84,
+        "text": " afterwards because quite often when I am gallery wondering,"
+    },
+    {
+        "start": 152.84,
+        "end": 154.84,
+        "text": " I have questions."
+    },
+    {
+        "start": 154.84,
+        "end": 158.24,
+        "text": " And often there's not someone there you can particularly ask"
+    },
+    {
+        "start": 158.24,
+        "end": 160.20000000000002,
+        "text": " or that you feel that you can engage"
+    },
+    {
+        "start": 160.20000000000002,
+        "end": 162.72,
+        "text": " in the deeper semantic issues of what you've been looking at."
+    },
+    {
+        "start": 162.72,
+        "end": 165.84,
+        "text": " And so I suddenly realised that I was being quite curious"
+    },
+    {
+        "start": 165.84,
+        "end": 169.08,
+        "text": " about sort of surrealist art, which I know started"
+    },
+    {
+        "start": 169.08,
+        "end": 171.8,
+        "text": " with Dada around about 1916."
+    },
+    {
+        "start": 171.84,
+        "end": 174.84,
+        "text": " So I saw this book on the side and I thought,"
+    },
+    {
+        "start": 174.84,
+        "end": 176.0,
+        "text": " I'll give that a go."
+    },
+    {
+        "start": 176.0,
+        "end": 180.48000000000002,
+        "text": " And just literally just got it on and started reading this thing."
+    },
+    {
+        "start": 180.48000000000002,
+        "end": 182.4,
+        "text": " And what it is, it is,"
+    },
+    {
+        "start": 182.4,
+        "end": 187.04000000000002,
+        "text": " Hans Richter was one of the artists in the Dada movement"
+    },
+    {
+        "start": 187.04000000000002,
+        "end": 189.76000000000002,
+        "text": " and he just tells the story of it"
+    },
+    {
+        "start": 189.76000000000002,
+        "end": 193.16000000000003,
+        "text": " from his own perspective as one of the artists in there."
+    },
+    {
+        "start": 193.16000000000003,
+        "end": 196.28,
+        "text": " And he knew everybody that was involved with it."
+    },
+    {
+        "start": 196.28,
+        "end": 200.20000000000002,
+        "text": " So you get a quite a weirdly linear retelling"
+    },
+    {
+        "start": 200.2,
+        "end": 203.83999999999997,
+        "text": " of one of the most important art movements of the 20th century"
+    },
+    {
+        "start": 203.83999999999997,
+        "end": 205.48,
+        "text": " from someone who was there."
+    },
+    {
+        "start": 205.48,
+        "end": 207.44,
+        "text": " And when you pick up a textbook,"
+    },
+    {
+        "start": 207.44,
+        "end": 211.67999999999998,
+        "text": " you're not expecting anything quite so sort of anecdotal"
+    },
+    {
+        "start": 211.67999999999998,
+        "end": 215.16,
+        "text": " and full of these extraordinary moments"
+    },
+    {
+        "start": 215.16,
+        "end": 216.6,
+        "text": " that these people got up to."
+    },
+    {
+        "start": 216.6,
+        "end": 219.95999999999998,
+        "text": " I mean, bearing in mind what you've got is a group of young men"
+    },
+    {
+        "start": 219.95999999999998,
+        "end": 224.95999999999998,
+        "text": " who are in Europe during the middle of the worst conflict"
+    },
+    {
+        "start": 225.07999999999998,
+        "end": 226.23999999999998,
+        "text": " of the 20th century."
+    },
+    {
+        "start": 226.23999999999998,
+        "end": 229.88,
+        "text": " But they are, they're out, I don't know, 200 miles."
+    },
+    {
+        "start": 229.88,
+        "end": 232.28,
+        "text": " At least of the unpleasantness in Switzerland"
+    },
+    {
+        "start": 232.28,
+        "end": 235.64,
+        "text": " having these mad happenings in bars"
+    },
+    {
+        "start": 235.64,
+        "end": 237.68,
+        "text": " and in galleries in Zurich"
+    },
+    {
+        "start": 237.68,
+        "end": 241.16,
+        "text": " and then Dada spreads out further to Paris and Berlin"
+    },
+    {
+        "start": 241.16,
+        "end": 243.28,
+        "text": " and just reading the story of these guys"
+    },
+    {
+        "start": 243.28,
+        "end": 247.48,
+        "text": " who would just want to challenge the establishment,"
+    },
+    {
+        "start": 247.48,
+        "end": 248.44,
+        "text": " the art establishment."
+    },
+    {
+        "start": 248.44,
+        "end": 251.44,
+        "text": " And we just want them to shake it up in a way."
+    },
+    {
+        "start": 251.44,
+        "end": 252.84,
+        "text": " And I mean, they certainly did."
+    },
+    {
+        "start": 252.84,
+        "end": 257.88,
+        "text": " And some of the artists that emerged from the sort of shaking up"
+    },
+    {
+        "start": 257.88,
+        "end": 259.04,
+        "text": " that they created."
+    },
+    {
+        "start": 259.04,
+        "end": 262.68,
+        "text": " Well, extraordinary people, myself, do you shan't, you know,"
+    },
+    {
+        "start": 262.68,
+        "end": 266.12,
+        "text": " hands up, you know, you go ball some of these people"
+    },
+    {
+        "start": 266.12,
+        "end": 269.92,
+        "text": " and Dali, you know, surrealism sort of came out of Dada."
+    },
+    {
+        "start": 269.92,
+        "end": 273.68,
+        "text": " These guys, it was so extraordinary to read this tower"
+    },
+    {
+        "start": 273.68,
+        "end": 274.92,
+        "text": " and Richter."
+    },
+    {
+        "start": 274.92,
+        "end": 277.88,
+        "text": " And what I love about him is that he's not frightened"
+    },
+    {
+        "start": 277.88,
+        "end": 279.52000000000004,
+        "text": " to blow his own trumpet during the book."
+    },
+    {
+        "start": 279.52000000000004,
+        "end": 283.56,
+        "text": " During the book he does say, of course I created one of the,"
+    },
+    {
+        "start": 283.56,
+        "end": 286.0,
+        "text": " I created the first surrealist film."
+    },
+    {
+        "start": 286.0,
+        "end": 288.20000000000005,
+        "text": " And he didn't because the Italian futurist"
+    },
+    {
+        "start": 288.2,
+        "end": 289.44,
+        "text": " did that in 1909."
+    },
+    {
+        "start": 289.44,
+        "end": 292.88,
+        "text": " And he's, his first film was in 1921"
+    },
+    {
+        "start": 292.88,
+        "end": 295.4,
+        "text": " and there was a German surrealist that did a film in 1920."
+    },
+    {
+        "start": 295.4,
+        "end": 299.28,
+        "text": " So the pump enough hyperbole of an artist saying,"
+    },
+    {
+        "start": 299.28,
+        "end": 300.88,
+        "text": " actually, it was me."
+    },
+    {
+        "start": 300.88,
+        "end": 303.28,
+        "text": " And there's a brilliant page in this book"
+    },
+    {
+        "start": 303.28,
+        "end": 307.56,
+        "text": " where he talks about the point where the Dadaists have an argument"
+    },
+    {
+        "start": 307.56,
+        "end": 309.12,
+        "text": " about who came up with the word Dada,"
+    },
+    {
+        "start": 309.12,
+        "end": 312.28,
+        "text": " which I found absolutely fantastic."
+    },
+    {
+        "start": 312.28,
+        "end": 314.36,
+        "text": " For an art textbook, there's a great deal of bickering"
+    },
+    {
+        "start": 314.36,
+        "end": 315.68,
+        "text": " in it and I like that a lot."
+    },
+    {
+        "start": 315.68,
+        "end": 318.56,
+        "text": " Robinance, this is, as Phil's just said,"
+    },
+    {
+        "start": 318.56,
+        "end": 321.52,
+        "text": " I mean, it's an account from inside of this art movement,"
+    },
+    {
+        "start": 321.52,
+        "end": 325.28000000000003,
+        "text": " which really only ran for about eight years from 1916,"
+    },
+    {
+        "start": 325.28000000000003,
+        "end": 327.92,
+        "text": " where everything was thrown up in the other materials"
+    },
+    {
+        "start": 327.92,
+        "end": 331.28000000000003,
+        "text": " that artists could use, the way that language might be used,"
+    },
+    {
+        "start": 331.28000000000003,
+        "end": 333.32,
+        "text": " the way that performances might be,"
+    },
+    {
+        "start": 333.32,
+        "end": 335.56,
+        "text": " and a poetry performances and so on and so forth."
+    },
+    {
+        "start": 335.56,
+        "end": 336.64,
+        "text": " Did you enjoy it?"
+    },
+    {
+        "start": 336.64,
+        "end": 340.72,
+        "text": " Well, I'm disappointed that Phil used official language"
+    },
+    {
+        "start": 340.72,
+        "end": 342.12,
+        "text": " to actually describe this book"
+    },
+    {
+        "start": 342.12,
+        "end": 343.88,
+        "text": " because one of the joys of this book"
+    },
+    {
+        "start": 343.88,
+        "end": 346.04,
+        "text": " and of course Phil, having started out as a poet,"
+    },
+    {
+        "start": 346.04,
+        "end": 348.44,
+        "text": " as well I presume this might have drawn you to it is"
+    },
+    {
+        "start": 348.44,
+        "end": 350.2,
+        "text": " their constant reinvention of language."
+    },
+    {
+        "start": 350.2,
+        "end": 353.96,
+        "text": " So it's quite interesting to have a straight narrative told"
+    },
+    {
+        "start": 353.96,
+        "end": 357.36,
+        "text": " in historical order of something which itself"
+    },
+    {
+        "start": 357.36,
+        "end": 362.36,
+        "text": " was meant to be a far greater chaos and far more about chance."
+    },
+    {
+        "start": 362.36,
+        "end": 363.96,
+        "text": " So I think, but then again, that's the only word"
+    },
+    {
+        "start": 363.96,
+        "end": 365.71999999999997,
+        "text": " that you can sometimes write about chaos"
+    },
+    {
+        "start": 365.71999999999997,
+        "end": 368.0,
+        "text": " is having to go, I'm gonna have to impose order on it."
+    },
+    {
+        "start": 368.0,
+        "end": 370.12,
+        "text": " So I mean, I'm just looking at this one here,"
+    },
+    {
+        "start": 370.12,
+        "end": 371.48,
+        "text": " this is one of my favourite poems in it,"
+    },
+    {
+        "start": 371.48,
+        "end": 376.48,
+        "text": " which is Zim Zim Orala, Zim Zim Zim Zanzibar, Zim Zalazam,"
+    },
+    {
+        "start": 376.72,
+        "end": 379.96000000000004,
+        "text": " Elephantalabrasala, Boulanabrasala, Boulanabrasala,"
+    },
+    {
+        "start": 379.96000000000004,
+        "end": 383.20000000000005,
+        "text": " De-Veier de Bang Bang, Athalo, Pusami Athalo,"
+    },
+    {
+        "start": 383.20000000000005,
+        "end": 385.84000000000003,
+        "text": " and it just goes on and there's this lovely thing for me."
+    },
+    {
+        "start": 385.84000000000003,
+        "end": 387.08000000000004,
+        "text": " And I love that kind of thing"
+    },
+    {
+        "start": 387.08000000000004,
+        "end": 389.44,
+        "text": " because I think they say, I've noted down the quote,"
+    },
+    {
+        "start": 389.44,
+        "end": 391.72,
+        "text": " which is, this is about Hugo Bull,"
+    },
+    {
+        "start": 391.72,
+        "end": 394.04,
+        "text": " his quarrel with language eventually reached"
+    },
+    {
+        "start": 394.04,
+        "end": 396.36,
+        "text": " its logical conclusion, which was to go,"
+    },
+    {
+        "start": 396.36,
+        "end": 397.76,
+        "text": " right, that's it."
+    },
+    {
+        "start": 397.76,
+        "end": 400.20000000000005,
+        "text": " And I think what I found exciting about this,"
+    },
+    {
+        "start": 400.2,
+        "end": 402.24,
+        "text": " I've recently, in particular, I've started going"
+    },
+    {
+        "start": 402.24,
+        "end": 404.47999999999996,
+        "text": " to a lot more art galleries and trying to get more involved."
+    },
+    {
+        "start": 404.47999999999996,
+        "end": 406.47999999999996,
+        "text": " And of course, the art itself in a lot of this,"
+    },
+    {
+        "start": 406.47999999999996,
+        "end": 408.03999999999996,
+        "text": " not necessarily the spoken art,"
+    },
+    {
+        "start": 408.03999999999996,
+        "end": 410.8,
+        "text": " but some of the images aren't carried by the book"
+    },
+    {
+        "start": 410.8,
+        "end": 412.56,
+        "text": " because you need to see them in."
+    },
+    {
+        "start": 412.56,
+        "end": 414.56,
+        "text": " There was recently, there was Duchamp Dalie exhibition"
+    },
+    {
+        "start": 414.56,
+        "end": 415.71999999999997,
+        "text": " at the Royal Academy."
+    },
+    {
+        "start": 415.71999999999997,
+        "end": 417.24,
+        "text": " And you know, where's Dalie, I think,"
+    },
+    {
+        "start": 417.24,
+        "end": 420.76,
+        "text": " can be reasonably well replicated on the glossy page"
+    },
+    {
+        "start": 420.76,
+        "end": 424.2,
+        "text": " with Dardrism or with Ready Made and with those ideas,"
+    },
+    {
+        "start": 424.2,
+        "end": 426.15999999999997,
+        "text": " you kinda go, I'm, what's all that about?"
+    },
+    {
+        "start": 426.15999999999997,
+        "end": 429.15999999999997,
+        "text": " And then when you see it in position,"
+    },
+    {
+        "start": 429.16,
+        "end": 430.76000000000005,
+        "text": " you start to go, oh, hang on a minute,"
+    },
+    {
+        "start": 430.76000000000005,
+        "end": 431.96000000000004,
+        "text": " yeah, this has got an effect."
+    },
+    {
+        "start": 431.96000000000004,
+        "end": 435.40000000000003,
+        "text": " So I found it, I think it's exciting to think as well"
+    },
+    {
+        "start": 435.40000000000003,
+        "end": 437.76000000000005,
+        "text": " that not that long ago, these were the kind of things"
+    },
+    {
+        "start": 437.76000000000005,
+        "end": 439.32000000000005,
+        "text": " bands named themselves after."
+    },
+    {
+        "start": 439.32000000000005,
+        "end": 441.24,
+        "text": " You know, Cabaret Voltaire,"
+    },
+    {
+        "start": 441.24,
+        "end": 444.32000000000005,
+        "text": " in the late 1970s, a lot of the post-punk bands,"
+    },
+    {
+        "start": 444.32000000000005,
+        "end": 448.24,
+        "text": " they were being influenced by these magnificent manifestos."
+    },
+    {
+        "start": 448.24,
+        "end": 450.6,
+        "text": " I have to say, Phil, I found this book initially"
+    },
+    {
+        "start": 450.6,
+        "end": 453.32000000000005,
+        "text": " just as an object, totally off-putting"
+    },
+    {
+        "start": 453.32000000000005,
+        "end": 455.32000000000005,
+        "text": " because I read a lot on public transport"
+    },
+    {
+        "start": 455.32000000000005,
+        "end": 458.72,
+        "text": " and it is amazingly heavy for a non-vast book."
+    },
+    {
+        "start": 458.72,
+        "end": 461.6,
+        "text": " It partly because the paper is such good quality."
+    },
+    {
+        "start": 461.6,
+        "end": 462.72,
+        "text": " And then you know,"
+    },
+    {
+        "start": 462.72,
+        "end": 464.6,
+        "text": " what you're gonna say."
+    },
+    {
+        "start": 464.6,
+        "end": 466.44000000000005,
+        "text": " But also, you know, you open it up"
+    },
+    {
+        "start": 466.44000000000005,
+        "end": 469.04,
+        "text": " and the pages are absolutely lodged"
+    },
+    {
+        "start": 469.04,
+        "end": 472.36,
+        "text": " with all these reproductions of Dardrism manifestos,"
+    },
+    {
+        "start": 472.36,
+        "end": 475.48,
+        "text": " the writings sometimes at right angles to the page,"
+    },
+    {
+        "start": 475.48,
+        "end": 479.36,
+        "text": " often in tiny, tiny, typeface, quite often in German."
+    },
+    {
+        "start": 479.36,
+        "end": 482.08000000000004,
+        "text": " But once I had resigned myself to the fact"
+    },
+    {
+        "start": 482.08000000000004,
+        "end": 484.12,
+        "text": " that I wasn't expected to read these things,"
+    },
+    {
+        "start": 484.12,
+        "end": 485.96000000000004,
+        "text": " I was just expected to look at them."
+    },
+    {
+        "start": 485.96000000000004,
+        "end": 487.64000000000004,
+        "text": " I have to say, I found this book,"
+    },
+    {
+        "start": 487.64,
+        "end": 489.8,
+        "text": " eye-opening, really informative."
+    },
+    {
+        "start": 489.8,
+        "end": 492.32,
+        "text": " I'd heard of Dardr and I correctly,"
+    },
+    {
+        "start": 492.32,
+        "end": 496.28,
+        "text": " as it turns out, sort of thought it was a precursor to surrealism."
+    },
+    {
+        "start": 496.28,
+        "end": 497.76,
+        "text": " But I didn't know that much about it."
+    },
+    {
+        "start": 497.76,
+        "end": 501.64,
+        "text": " And actually you do get a very brilliant image"
+    },
+    {
+        "start": 501.64,
+        "end": 503.96,
+        "text": " of what these people were trying to do."
+    },
+    {
+        "start": 503.96,
+        "end": 505.28,
+        "text": " And I was about to say these guys,"
+    },
+    {
+        "start": 505.28,
+        "end": 507.56,
+        "text": " and actually they almost entirely are."
+    },
+    {
+        "start": 507.56,
+        "end": 510.84,
+        "text": " There's one rather stylish woman who features in,"
+    },
+    {
+        "start": 510.84,
+        "end": 513.2,
+        "text": " who's the wife, I think, of Ugo Bal."
+    },
+    {
+        "start": 513.2,
+        "end": 515.24,
+        "text": " Emmy Hennings, rather like to look at her."
+    },
+    {
+        "start": 515.24,
+        "end": 517.56,
+        "text": " But basically, this is young men."
+    },
+    {
+        "start": 517.56,
+        "end": 520.8,
+        "text": " And what is particularly, to me, amazing,"
+    },
+    {
+        "start": 520.8,
+        "end": 523.1199999999999,
+        "text": " is realising how much this influence,"
+    },
+    {
+        "start": 523.1199999999999,
+        "end": 526.3599999999999,
+        "text": " not only surrealism, but still now,"
+    },
+    {
+        "start": 526.3599999999999,
+        "end": 527.8399999999999,
+        "text": " so much of what's going on."
+    },
+    {
+        "start": 527.8399999999999,
+        "end": 531.8399999999999,
+        "text": " I mean, it is still here in pop music, in art,"
+    },
+    {
+        "start": 531.8399999999999,
+        "end": 533.76,
+        "text": " in a lot of writing as well as this."
+    },
+    {
+        "start": 533.76,
+        "end": 536.3599999999999,
+        "text": " As I read it, the parallels that were coming up in my head"
+    },
+    {
+        "start": 536.3599999999999,
+        "end": 539.3199999999999,
+        "text": " was I, you know, born in 62."
+    },
+    {
+        "start": 539.3199999999999,
+        "end": 544.4799999999999,
+        "text": " So punk started happening 75, 76, and I was 13, 14."
+    },
+    {
+        "start": 544.4799999999999,
+        "end": 545.88,
+        "text": " So that was when punk was happening."
+    },
+    {
+        "start": 545.88,
+        "end": 550.36,
+        "text": " And I remember the outrage, the reaction of the public to punk."
+    },
+    {
+        "start": 550.36,
+        "end": 551.68,
+        "text": " I was sort of, why?"
+    },
+    {
+        "start": 551.68,
+        "end": 553.24,
+        "text": " How could people get so outraged?"
+    },
+    {
+        "start": 553.24,
+        "end": 555.8,
+        "text": " And then I read this about one of the events"
+    },
+    {
+        "start": 555.8,
+        "end": 558.12,
+        "text": " that happened at Cabaret Voltaire."
+    },
+    {
+        "start": 558.12,
+        "end": 560.28,
+        "text": " I should just read this passage."
+    },
+    {
+        "start": 560.28,
+        "end": 563.2,
+        "text": " This tall, elegant figure first carried a headless tailor's"
+    },
+    {
+        "start": 563.2,
+        "end": 565.24,
+        "text": " dummy on stage, and then went back to fetch a bouquet"
+    },
+    {
+        "start": 565.24,
+        "end": 568.4399999999999,
+        "text": " of artificial flowers, and gave them to the dummy to smell,"
+    },
+    {
+        "start": 568.4399999999999,
+        "end": 571.12,
+        "text": " where its head would have been, and laid them at its feet."
+    },
+    {
+        "start": 571.12,
+        "end": 573.56,
+        "text": " Finally, he brought a chair, sat a stride it in the middle"
+    },
+    {
+        "start": 573.56,
+        "end": 575.52,
+        "text": " of the platform with his back to the audience,"
+    },
+    {
+        "start": 575.52,
+        "end": 577.64,
+        "text": " after these elaborate preparations began to read"
+    },
+    {
+        "start": 577.64,
+        "end": 581.8,
+        "text": " from his anarchistic credo, Let's In Locker Room, final dissolution."
+    },
+    {
+        "start": 581.8,
+        "end": 584.48,
+        "text": " At last, this was what the audience had been waiting for."
+    },
+    {
+        "start": 584.48,
+        "end": 586.84,
+        "text": " The tension in the hall had become unbearable."
+    },
+    {
+        "start": 586.84,
+        "end": 589.48,
+        "text": " At first, it was so quiet that you could have heard a pin drop,"
+    },
+    {
+        "start": 589.48,
+        "end": 591.88,
+        "text": " then the cat calls began, scornful at first,"
+    },
+    {
+        "start": 591.88,
+        "end": 595.1999999999999,
+        "text": " and then furious, rat bastard, you've got a nerve,"
+    },
+    {
+        "start": 595.1999999999999,
+        "end": 598.56,
+        "text": " until the noise almost entirely drowns her in her voice,"
+    },
+    {
+        "start": 598.56,
+        "end": 600.92,
+        "text": " which could be heard during a momentary lull saying the words,"
+    },
+    {
+        "start": 600.92,
+        "end": 604.1999999999999,
+        "text": " Napoleon was a big strong, oh, far after all, that did it."
+    },
+    {
+        "start": 604.2,
+        "end": 606.0400000000001,
+        "text": " What Napoleon had to do with it, I don't know."
+    },
+    {
+        "start": 606.0400000000001,
+        "end": 607.9200000000001,
+        "text": " He wasn't Swiss, but the young men,"
+    },
+    {
+        "start": 607.9200000000001,
+        "end": 609.1600000000001,
+        "text": " most of whom were in the gallery,"
+    },
+    {
+        "start": 609.1600000000001,
+        "end": 613.12,
+        "text": " leapt onto the stage, brandishing pieces of the ballast grade."
+    },
+    {
+        "start": 613.12,
+        "end": 615.2,
+        "text": " The audience tore the venue apart,"
+    },
+    {
+        "start": 615.2,
+        "end": 618.08,
+        "text": " and attacked the artist with it, and that is punk rock."
+    },
+    {
+        "start": 618.08,
+        "end": 620.96,
+        "text": " And I think it's him, but one of the Dada performers"
+    },
+    {
+        "start": 620.96,
+        "end": 622.12,
+        "text": " spits at the audience."
+    },
+    {
+        "start": 622.12,
+        "end": 625.72,
+        "text": " I mean, he's got gobbling deliberately provocative."
+    },
+    {
+        "start": 625.72,
+        "end": 629.88,
+        "text": " I mean, it's kind of mad, but I think that the more brutal times"
+    },
+    {
+        "start": 629.88,
+        "end": 633.36,
+        "text": " of history, you have this way of being completely reflected"
+    },
+    {
+        "start": 633.36,
+        "end": 635.44,
+        "text": " by what's happening culturally as well."
+    },
+    {
+        "start": 635.44,
+        "end": 638.92,
+        "text": " And that inability to comprehend the madness of what's happening,"
+    },
+    {
+        "start": 638.92,
+        "end": 641.92,
+        "text": " as I say, just a couple of hundred miles west of them,"
+    },
+    {
+        "start": 641.92,
+        "end": 643.8000000000001,
+        "text": " what's happening on the west and front and in Europe,"
+    },
+    {
+        "start": 643.8000000000001,
+        "end": 648.64,
+        "text": " and there's these guys doing this incredible stuff culturally."
+    },
+    {
+        "start": 648.64,
+        "end": 650.6,
+        "text": " How can these two things be happening"
+    },
+    {
+        "start": 650.6,
+        "end": 652.0,
+        "text": " in the same world at the same time?"
+    },
+    {
+        "start": 652.0,
+        "end": 653.0,
+        "text": " The best thing, isn't it?"
+    },
+    {
+        "start": 653.0,
+        "end": 655.48,
+        "text": " That's a real, he's a point, because futurism,"
+    },
+    {
+        "start": 655.48,
+        "end": 657.4,
+        "text": " I think, is quite, because that does have a greater"
+    },
+    {
+        "start": 657.4,
+        "end": 660.16,
+        "text": " kind of leaning towards fascism, when you read to the futurism,"
+    },
+    {
+        "start": 660.16,
+        "end": 662.16,
+        "text": " and it is this, in some way, there is a beauty,"
+    },
+    {
+        "start": 662.16,
+        "end": 665.0799999999999,
+        "text": " where it's kind of basically going, things will be fast and shiny,"
+    },
+    {
+        "start": 665.0799999999999,
+        "end": 667.0799999999999,
+        "text": " shiny and fast, and there's this real."
+    },
+    {
+        "start": 667.0799999999999,
+        "end": 669.68,
+        "text": " And then dandruffism seems to be a reaction to actually go."
+    },
+    {
+        "start": 669.68,
+        "end": 671.0,
+        "text": " The world doesn't make sense."
+    },
+    {
+        "start": 671.0,
+        "end": 672.1999999999999,
+        "text": " Look what is going on."
+    },
+    {
+        "start": 672.1999999999999,
+        "end": 674.28,
+        "text": " Look at the fact there've been industrial revolutions."
+    },
+    {
+        "start": 674.28,
+        "end": 676.64,
+        "text": " Look at the fact there is industry and there is science,"
+    },
+    {
+        "start": 676.64,
+        "end": 680.0799999999999,
+        "text": " and yet here on the west and front, here in the trenches."
+    },
+    {
+        "start": 680.0799999999999,
+        "end": 682.64,
+        "text": " And therefore, perhaps the reaction is,"
+    },
+    {
+        "start": 682.64,
+        "end": 685.4,
+        "text": " is to create, there's a lovely line there where it says,"
+    },
+    {
+        "start": 685.4,
+        "end": 687.92,
+        "text": " about the life, it's the gigantic,"
+    },
+    {
+        "start": 687.92,
+        "end": 693.1999999999999,
+        "text": " the focus, focus of existence fires the nerves of true dardarists."
+    },
+    {
+        "start": 693.1999999999999,
+        "end": 697.56,
+        "text": " And I think that's, this chaos, that's their reaction is to go."
+    },
+    {
+        "start": 697.56,
+        "end": 699.16,
+        "text": " Why create an order, art?"
+    },
+    {
+        "start": 699.16,
+        "end": 703.64,
+        "text": " Why create an art that represents the reality that is around us?"
+    },
+    {
+        "start": 703.64,
+        "end": 706.8399999999999,
+        "text": " When there are, well, also I wonder, reading some of it"
+    },
+    {
+        "start": 706.8399999999999,
+        "end": 710.04,
+        "text": " and seeing some of the kind of, some of the mentions of Jung"
+    },
+    {
+        "start": 710.04,
+        "end": 713.76,
+        "text": " and other thinkers of the time, about also a reaction"
+    },
+    {
+        "start": 713.76,
+        "end": 715.56,
+        "text": " to that whole kind of idea of probability."
+    },
+    {
+        "start": 716.0799999999999,
+        "end": 720.0799999999999,
+        "text": " One of the ironies which Hans Richter himself recognizes,"
+    },
+    {
+        "start": 720.0799999999999,
+        "end": 723.28,
+        "text": " I mean, he wrote this book years after the event in the 1960s,"
+    },
+    {
+        "start": 723.28,
+        "end": 724.56,
+        "text": " I think it was published."
+    },
+    {
+        "start": 724.56,
+        "end": 727.56,
+        "text": " And he recognizes that these guys who were saying,"
+    },
+    {
+        "start": 727.56,
+        "end": 729.9599999999999,
+        "text": " we're going to create a total anti-art,"
+    },
+    {
+        "start": 729.9599999999999,
+        "end": 733.1199999999999,
+        "text": " we're going to destroy art, we're going to turn society upside down"
+    },
+    {
+        "start": 733.1199999999999,
+        "end": 735.4799999999999,
+        "text": " and inside out, is that in doing it, actually,"
+    },
+    {
+        "start": 735.4799999999999,
+        "end": 738.04,
+        "text": " what they did was, of course, not get rid of art at all,"
+    },
+    {
+        "start": 738.04,
+        "end": 740.76,
+        "text": " because they were all artists, they were poets and they were painters."
+    },
+    {
+        "start": 740.76,
+        "end": 743.2399999999999,
+        "text": " They created a new art form, didn't they?"
+    },
+    {
+        "start": 743.24,
+        "end": 747.32,
+        "text": " I mean, it was, their project was in a way impossible."
+    },
+    {
+        "start": 747.32,
+        "end": 750.6800000000001,
+        "text": " It's much like, you know, again, the parallels with punk"
+    },
+    {
+        "start": 750.6800000000001,
+        "end": 751.96,
+        "text": " just kept coming at me."
+    },
+    {
+        "start": 751.96,
+        "end": 754.6800000000001,
+        "text": " And it was just the fact that these guys that wanted to bring"
+    },
+    {
+        "start": 754.6800000000001,
+        "end": 758.4,
+        "text": " the artistic establishment down became that artistic establishment"
+    },
+    {
+        "start": 758.4,
+        "end": 759.16,
+        "text": " in doing so."
+    },
+    {
+        "start": 759.16,
+        "end": 762.16,
+        "text": " And it was, I was just completely and utterly blown away,"
+    },
+    {
+        "start": 762.16,
+        "end": 765.5600000000001,
+        "text": " but it's the characters that kind of permeate this movement."
+    },
+    {
+        "start": 765.5600000000001,
+        "end": 768.16,
+        "text": " And the arguments and the fighting and the bickering"
+    },
+    {
+        "start": 768.16,
+        "end": 771.5600000000001,
+        "text": " and the infidelities and the madness that goes through it, it was..."
+    },
+    {
+        "start": 771.56,
+        "end": 773.2399999999999,
+        "text": " The egos, the egos."
+    },
+    {
+        "start": 773.2399999999999,
+        "end": 775.5999999999999,
+        "text": " I mean, that's finally what brought it an end to it, wasn't it?"
+    },
+    {
+        "start": 775.5999999999999,
+        "end": 779.2399999999999,
+        "text": " It was Andre Brotan, Sarah, these two Frenchmen"
+    },
+    {
+        "start": 779.2399999999999,
+        "end": 782.4799999999999,
+        "text": " who both competing to be the boss of Dada,"
+    },
+    {
+        "start": 782.4799999999999,
+        "end": 784.92,
+        "text": " and of course, such a thing that's totally impossible."
+    },
+    {
+        "start": 784.92,
+        "end": 786.5999999999999,
+        "text": " Yeah, I've got to say it's a book as well,"
+    },
+    {
+        "start": 786.5999999999999,
+        "end": 788.68,
+        "text": " which is the amount of underlining I've done,"
+    },
+    {
+        "start": 788.68,
+        "end": 789.92,
+        "text": " because I judge a book by that."
+    },
+    {
+        "start": 789.92,
+        "end": 791.0799999999999,
+        "text": " When you go back to the book and you go,"
+    },
+    {
+        "start": 791.0799999999999,
+        "end": 794.3199999999999,
+        "text": " there's not really a page where I haven't circled something"
+    },
+    {
+        "start": 794.3199999999999,
+        "end": 796.88,
+        "text": " or underlined, there was, I mean, one of the titles of a piece,"
+    },
+    {
+        "start": 796.88,
+        "end": 799.8399999999999,
+        "text": " which is the hyperbole of the crocodile's hairdresser"
+    },
+    {
+        "start": 799.84,
+        "end": 802.24,
+        "text": " and the walking stick, which I've really thought sounds"
+    },
+    {
+        "start": 802.24,
+        "end": 805.08,
+        "text": " quite simple narrative by the standards of this."
+    },
+    {
+        "start": 805.08,
+        "end": 807.44,
+        "text": " And also, there's a lovely thing where..."
+    },
+    {
+        "start": 807.44,
+        "end": 809.48,
+        "text": " I can't remember which personally quotes"
+    },
+    {
+        "start": 809.48,
+        "end": 811.96,
+        "text": " where he talks about the fact that at the cabaret,"
+    },
+    {
+        "start": 811.96,
+        "end": 815.5600000000001,
+        "text": " they all played an instrument and that instrument was themselves."
+    },
+    {
+        "start": 815.5600000000001,
+        "end": 817.88,
+        "text": " And one thing that I think takes from this as well,"
+    },
+    {
+        "start": 817.88,
+        "end": 819.2800000000001,
+        "text": " and it's something certainly that Phil does,"
+    },
+    {
+        "start": 819.2800000000001,
+        "end": 822.6,
+        "text": " which is to mix up the things, you know,"
+    },
+    {
+        "start": 822.6,
+        "end": 824.2,
+        "text": " you are meant to be a comedian"
+    },
+    {
+        "start": 824.2,
+        "end": 825.36,
+        "text": " or you're meant to be a musician"
+    },
+    {
+        "start": 825.36,
+        "end": 827.12,
+        "text": " or you're meant to be a painter, whatever it is."
+    },
+    {
+        "start": 827.12,
+        "end": 829.6800000000001,
+        "text": " And it seems that a lot of what this was about was gone"
+    },
+    {
+        "start": 829.7199999999999,
+        "end": 831.92,
+        "text": " today, I'm going to be writing Clare Hughes."
+    },
+    {
+        "start": 831.92,
+        "end": 833.88,
+        "text": " And tomorrow, I'm going to be making a sculpture"
+    },
+    {
+        "start": 833.88,
+        "end": 836.8,
+        "text": " and the day after that, to not get nailed down"
+    },
+    {
+        "start": 836.8,
+        "end": 839.92,
+        "text": " to one particular, you know, this is my art"
+    },
+    {
+        "start": 839.92,
+        "end": 841.28,
+        "text": " and this is unboxed now."
+    },
+    {
+        "start": 841.28,
+        "end": 842.8399999999999,
+        "text": " I did need to ask you that Phil,"
+    },
+    {
+        "start": 842.8399999999999,
+        "end": 844.76,
+        "text": " because I know that you draw as well,"
+    },
+    {
+        "start": 844.76,
+        "end": 847.1999999999999,
+        "text": " you do cartoon, you do comic strips and so on."
+    },
+    {
+        "start": 847.1999999999999,
+        "end": 852.12,
+        "text": " That it seems to me that Dada is very much part of British comedy,"
+    },
+    {
+        "start": 852.12,
+        "end": 854.3199999999999,
+        "text": " anyway, I mean, if you just think of Spike Milligan,"
+    },
+    {
+        "start": 854.3199999999999,
+        "end": 857.0799999999999,
+        "text": " maybe if you think of Monty Python, Tommy Cooper,"
+    },
+    {
+        "start": 857.0799999999999,
+        "end": 859.4399999999999,
+        "text": " I mean, is that something that you're aware of?"
+    },
+    {
+        "start": 859.8800000000001,
+        "end": 861.6400000000001,
+        "text": " The Bonso Dog Doodar band,"
+    },
+    {
+        "start": 861.6400000000001,
+        "end": 864.32,
+        "text": " we're originally going to be called the Bonso Dog Dada band."
+    },
+    {
+        "start": 864.32,
+        "end": 867.5200000000001,
+        "text": " And I did tour with them and they used to make ready-mates"
+    },
+    {
+        "start": 867.5200000000001,
+        "end": 869.5600000000001,
+        "text": " in the sort of manner of Duchamp and so forth."
+    },
+    {
+        "start": 869.5600000000001,
+        "end": 872.36,
+        "text": " And they were all art teachers, the whole band are art teachers."
+    },
+    {
+        "start": 872.36,
+        "end": 874.24,
+        "text": " And indeed, fell apart after a massive argument."
+    },
+    {
+        "start": 874.24,
+        "end": 877.72,
+        "text": " So they were sort of replicating the Dada movement"
+    },
+    {
+        "start": 877.72,
+        "end": 879.0,
+        "text": " in one band there."
+    },
+    {
+        "start": 879.0,
+        "end": 882.7600000000001,
+        "text": " Well, we've been talking about Dada, Art and AntiArt"
+    },
+    {
+        "start": 882.7600000000001,
+        "end": 884.5600000000001,
+        "text": " by Hans Richter."
+    },
+    {
+        "start": 884.5600000000001,
+        "end": 885.6800000000001,
+        "text": " I'm Harriet Gilbert."
+    },
+    {
+        "start": 885.6800000000001,
+        "end": 887.08,
+        "text": " You're listening to a good read"
+    },
+    {
+        "start": 887.08,
+        "end": 889.0,
+        "text": " where my guest today, Phil Jupiter's"
+    },
+    {
+        "start": 889.04,
+        "end": 891.12,
+        "text": " and Robin Inz."
+    },
+    {
+        "start": 891.12,
+        "end": 892.84,
+        "text": " Robin, you're good read."
+    },
+    {
+        "start": 892.84,
+        "end": 896.56,
+        "text": " I chose a book called ROTI Picnic by two Russian writers,"
+    },
+    {
+        "start": 896.56,
+        "end": 898.52,
+        "text": " R.K.D. and Boris Stragatsky."
+    },
+    {
+        "start": 898.52,
+        "end": 900.52,
+        "text": " And I will also mention, because this is a translation"
+    },
+    {
+        "start": 900.52,
+        "end": 903.08,
+        "text": " that it hadn't been re-translated for 30 years"
+    },
+    {
+        "start": 903.08,
+        "end": 906.16,
+        "text": " and it's been re-translated by Alina Bumashenko."
+    },
+    {
+        "start": 906.16,
+        "end": 908.68,
+        "text": " And this is probably most famous as the fact"
+    },
+    {
+        "start": 908.68,
+        "end": 911.6,
+        "text": " that it was the inspiration for one of Tarkovsky's"
+    },
+    {
+        "start": 911.6,
+        "end": 913.32,
+        "text": " most famous films, Storker."
+    },
+    {
+        "start": 913.32,
+        "end": 914.72,
+        "text": " It's a lovely idea."
+    },
+    {
+        "start": 914.72,
+        "end": 916.88,
+        "text": " The aliens have visited the planet Earth,"
+    },
+    {
+        "start": 916.88,
+        "end": 918.96,
+        "text": " but they haven't even taken a look at us."
+    },
+    {
+        "start": 918.96,
+        "end": 921.24,
+        "text": " They've literally stopped off to just go,"
+    },
+    {
+        "start": 921.24,
+        "end": 923.0,
+        "text": " just pulling air will have our picnic"
+    },
+    {
+        "start": 923.0,
+        "end": 924.5600000000001,
+        "text": " and just left a load of rubbish."
+    },
+    {
+        "start": 924.5600000000001,
+        "end": 926.6,
+        "text": " It's the equivalent of pulling in at a lay-by,"
+    },
+    {
+        "start": 926.6,
+        "end": 928.6800000000001,
+        "text": " chucking the rubbish in the ass tray out the window"
+    },
+    {
+        "start": 928.6800000000001,
+        "end": 930.44,
+        "text": " and then go, yeah, let's keep moving them."
+    },
+    {
+        "start": 930.44,
+        "end": 933.88,
+        "text": " And so we are not even nothing of humanity"
+    },
+    {
+        "start": 933.88,
+        "end": 935.96,
+        "text": " or of the world is that they've stopped"
+    },
+    {
+        "start": 935.96,
+        "end": 938.4000000000001,
+        "text": " and then what's happened is that this has ended up"
+    },
+    {
+        "start": 938.4000000000001,
+        "end": 942.1600000000001,
+        "text": " creating zones and in these zones are their junk"
+    },
+    {
+        "start": 942.1600000000001,
+        "end": 944.8000000000001,
+        "text": " but their junk to human beings is remarkable junk."
+    },
+    {
+        "start": 944.8000000000001,
+        "end": 946.9200000000001,
+        "text": " It is everlasting batteries, for instance,"
+    },
+    {
+        "start": 947.1999999999999,
+        "end": 950.0799999999999,
+        "text": " and strange spheres that are always held together"
+    },
+    {
+        "start": 950.0799999999999,
+        "end": 951.56,
+        "text": " by an invisible force."
+    },
+    {
+        "start": 951.56,
+        "end": 954.8399999999999,
+        "text": " But the zones also have created a sense of incredible peril"
+    },
+    {
+        "start": 954.8399999999999,
+        "end": 956.56,
+        "text": " as well, which when you go in the zones,"
+    },
+    {
+        "start": 956.56,
+        "end": 959.3199999999999,
+        "text": " there are various things that may well not really come back"
+    },
+    {
+        "start": 959.3199999999999,
+        "end": 961.8,
+        "text": " to haunt you but may well destroy you as well,"
+    },
+    {
+        "start": 961.8,
+        "end": 962.92,
+        "text": " both physically and mentally."
+    },
+    {
+        "start": 962.92,
+        "end": 966.36,
+        "text": " And also on top of that, this new world has things"
+    },
+    {
+        "start": 966.36,
+        "end": 969.64,
+        "text": " in it such as, well, later on we find out"
+    },
+    {
+        "start": 969.64,
+        "end": 971.4399999999999,
+        "text": " that the dead are kind of coming back to life,"
+    },
+    {
+        "start": 971.4399999999999,
+        "end": 973.3199999999999,
+        "text": " but not in some kind of zombie thing."
+    },
+    {
+        "start": 973.3199999999999,
+        "end": 975.92,
+        "text": " They're just kind of there and every now and again,"
+    },
+    {
+        "start": 975.92,
+        "end": 977.8,
+        "text": " they're remembering what is a beautiful scene"
+    },
+    {
+        "start": 977.8,
+        "end": 980.0,
+        "text": " where Red who's the lead character in this,"
+    },
+    {
+        "start": 980.0,
+        "end": 982.8,
+        "text": " and he's had a child and his partner,"
+    },
+    {
+        "start": 982.8,
+        "end": 984.88,
+        "text": " the mother says, do not have this child"
+    },
+    {
+        "start": 984.88,
+        "end": 987.0,
+        "text": " because those who have been stalkers,"
+    },
+    {
+        "start": 987.0,
+        "end": 989.56,
+        "text": " these are the people who go into these zones."
+    },
+    {
+        "start": 989.56,
+        "end": 991.92,
+        "text": " Also, it leads to mutations."
+    },
+    {
+        "start": 991.92,
+        "end": 994.04,
+        "text": " It's incredibly enigmatic world."
+    },
+    {
+        "start": 994.04,
+        "end": 996.0,
+        "text": " And also for anyone who knows the film stalker,"
+    },
+    {
+        "start": 996.0,
+        "end": 998.12,
+        "text": " which is a magnificent film,"
+    },
+    {
+        "start": 998.12,
+        "end": 1000.68,
+        "text": " what's interesting is Tarkovsky has taken the world"
+    },
+    {
+        "start": 1000.68,
+        "end": 1002.16,
+        "text": " but it's a very different film."
+    },
+    {
+        "start": 1002.16,
+        "end": 1004.8399999999999,
+        "text": " Phil Jupiter, so I don't know whether you're into science fiction"
+    },
+    {
+        "start": 1004.84,
+        "end": 1006.6,
+        "text": " but what did you make of this?"
+    },
+    {
+        "start": 1006.6,
+        "end": 1009.64,
+        "text": " Weirdly, I've just recently been partaking"
+    },
+    {
+        "start": 1009.64,
+        "end": 1011.6,
+        "text": " of Foundation trilogy by Asimov,"
+    },
+    {
+        "start": 1011.6,
+        "end": 1016.6,
+        "text": " which is, I find, it's weird, it's like Asimov saying,"
+    },
+    {
+        "start": 1017.36,
+        "end": 1018.44,
+        "text": " the world could go like this,"
+    },
+    {
+        "start": 1018.44,
+        "end": 1020.24,
+        "text": " so everybody be careful now."
+    },
+    {
+        "start": 1020.24,
+        "end": 1024.1200000000001,
+        "text": " But I think this book, reading this,"
+    },
+    {
+        "start": 1024.1200000000001,
+        "end": 1026.6000000000001,
+        "text": " I was very, very taken with it,"
+    },
+    {
+        "start": 1026.6000000000001,
+        "end": 1028.76,
+        "text": " stripping away the arrogance of humanity,"
+    },
+    {
+        "start": 1028.76,
+        "end": 1030.92,
+        "text": " the fact that no one would want to invade us,"
+    },
+    {
+        "start": 1030.92,
+        "end": 1032.6000000000001,
+        "text": " that they would just stop off"
+    },
+    {
+        "start": 1032.6000000000001,
+        "end": 1034.2,
+        "text": " and leave their rubbish and move on."
+    },
+    {
+        "start": 1034.24,
+        "end": 1035.68,
+        "text": " Not even notice that we were here."
+    },
+    {
+        "start": 1035.68,
+        "end": 1038.52,
+        "text": " And not even realize that they were people around."
+    },
+    {
+        "start": 1038.52,
+        "end": 1041.32,
+        "text": " And it's that we're kind of just dealing"
+    },
+    {
+        "start": 1041.32,
+        "end": 1043.8400000000001,
+        "text": " with the detritus of the visit."
+    },
+    {
+        "start": 1043.8400000000001,
+        "end": 1047.8,
+        "text": " The way that the visitors affected the world"
+    },
+    {
+        "start": 1047.8,
+        "end": 1051.96,
+        "text": " and some people are completely and utterly drawn to the zones."
+    },
+    {
+        "start": 1051.96,
+        "end": 1055.88,
+        "text": " And this novel is set 20 years after the visit has happened."
+    },
+    {
+        "start": 1055.88,
+        "end": 1058.72,
+        "text": " And so for some people, the zones are still"
+    },
+    {
+        "start": 1058.72,
+        "end": 1060.24,
+        "text": " these places of immense fascination"
+    },
+    {
+        "start": 1060.24,
+        "end": 1062.2,
+        "text": " but most of humanity has forgotten"
+    },
+    {
+        "start": 1062.2,
+        "end": 1064.3600000000001,
+        "text": " and are just using the things that were taken"
+    },
+    {
+        "start": 1064.3600000000001,
+        "end": 1066.32,
+        "text": " from the zone like the never ending batteries."
+    },
+    {
+        "start": 1066.32,
+        "end": 1068.64,
+        "text": " There's a couple of technological things that came out."
+    },
+    {
+        "start": 1068.64,
+        "end": 1071.56,
+        "text": " And it's the effect of the zones on humanity"
+    },
+    {
+        "start": 1071.56,
+        "end": 1073.0800000000002,
+        "text": " have been sort of taken for granted."
+    },
+    {
+        "start": 1073.0800000000002,
+        "end": 1076.4,
+        "text": " It's a weirdly plausible book."
+    },
+    {
+        "start": 1076.4,
+        "end": 1077.4,
+        "text": " I mean, I don't know."
+    },
+    {
+        "start": 1077.4,
+        "end": 1078.4,
+        "text": " For a science fiction book,"
+    },
+    {
+        "start": 1078.4,
+        "end": 1081.52,
+        "text": " I found it really kind of, yeah, it would be like that."
+    },
+    {
+        "start": 1081.52,
+        "end": 1085.48,
+        "text": " I don't some warm to the idea of reading science fiction"
+    },
+    {
+        "start": 1085.48,
+        "end": 1088.52,
+        "text": " because so often it is just turgid"
+    },
+    {
+        "start": 1088.52,
+        "end": 1090.88,
+        "text": " because obviously in a science fiction world,"
+    },
+    {
+        "start": 1090.88,
+        "end": 1093.8000000000002,
+        "text": " you have to explain how the world operates."
+    },
+    {
+        "start": 1093.8000000000002,
+        "end": 1096.6000000000001,
+        "text": " I have to say that this one, I think, does it really well?"
+    },
+    {
+        "start": 1096.6000000000001,
+        "end": 1098.3600000000001,
+        "text": " It tells you just enough"
+    },
+    {
+        "start": 1098.3600000000001,
+        "end": 1100.3200000000002,
+        "text": " and it doesn't tell it to you in a great big lump"
+    },
+    {
+        "start": 1100.3200000000002,
+        "end": 1101.44,
+        "text": " of concrete at the beginning."
+    },
+    {
+        "start": 1101.44,
+        "end": 1102.88,
+        "text": " It filters it through."
+    },
+    {
+        "start": 1102.88,
+        "end": 1104.5200000000002,
+        "text": " See, most good science fiction does."
+    },
+    {
+        "start": 1104.5200000000002,
+        "end": 1106.16,
+        "text": " I think the problem is science fiction is."
+    },
+    {
+        "start": 1106.16,
+        "end": 1107.16,
+        "text": " I don't read enough with science fiction."
+    },
+    {
+        "start": 1107.16,
+        "end": 1109.2,
+        "text": " No, I think that's the problem is sometimes it's almost like"
+    },
+    {
+        "start": 1109.2,
+        "end": 1111.68,
+        "text": " is if you said, I'd never read any romantic fiction."
+    },
+    {
+        "start": 1111.68,
+        "end": 1113.16,
+        "text": " I'd never read any Thomas Hardick's."
+    },
+    {
+        "start": 1113.16,
+        "end": 1114.7600000000002,
+        "text": " I read this mills and boon once."
+    },
+    {
+        "start": 1114.7600000000002,
+        "end": 1117.1200000000001,
+        "text": " And I think that's one of the problems of science fiction."
+    },
+    {
+        "start": 1117.1200000000001,
+        "end": 1119.7600000000002,
+        "text": " Science fiction does get lumped together"
+    },
+    {
+        "start": 1119.76,
+        "end": 1121.68,
+        "text": " in a way that I think is slightly unfair."
+    },
+    {
+        "start": 1121.68,
+        "end": 1123.8,
+        "text": " And so I understand your point as well."
+    },
+    {
+        "start": 1123.8,
+        "end": 1125.0,
+        "text": " And maybe that's been, I don't know,"
+    },
+    {
+        "start": 1125.0,
+        "end": 1125.92,
+        "text": " there might be many issues with it."
+    },
+    {
+        "start": 1125.92,
+        "end": 1128.24,
+        "text": " But things like this and flowers for Alginon"
+    },
+    {
+        "start": 1128.24,
+        "end": 1129.48,
+        "text": " and Richard and Thomas and Jonathan."
+    },
+    {
+        "start": 1129.48,
+        "end": 1133.2,
+        "text": " I don't wish to be, I'm not being nasty about this book at all."
+    },
+    {
+        "start": 1133.2,
+        "end": 1134.36,
+        "text": " I think it does it very well."
+    },
+    {
+        "start": 1134.36,
+        "end": 1136.36,
+        "text": " And indeed flowers for Alginon,"
+    },
+    {
+        "start": 1136.36,
+        "end": 1138.48,
+        "text": " which I have chosen as a good read in the past"
+    },
+    {
+        "start": 1138.48,
+        "end": 1141.2,
+        "text": " is science fiction and is a great book."
+    },
+    {
+        "start": 1141.2,
+        "end": 1144.6,
+        "text": " But I think my one slight query about this book"
+    },
+    {
+        "start": 1144.6,
+        "end": 1147.4,
+        "text": " is that I can tell or I believe I can tell"
+    },
+    {
+        "start": 1147.4,
+        "end": 1149.72,
+        "text": " that two different writers wrote it"
+    },
+    {
+        "start": 1149.72,
+        "end": 1153.16,
+        "text": " because there is a strand in it which is very funny."
+    },
+    {
+        "start": 1153.16,
+        "end": 1154.96,
+        "text": " I mean, just even the original concept"
+    },
+    {
+        "start": 1154.96,
+        "end": 1157.1200000000001,
+        "text": " of these aliens picnicking on Earth"
+    },
+    {
+        "start": 1157.1200000000001,
+        "end": 1159.8,
+        "text": " and then putling off wherever they're putling off."
+    },
+    {
+        "start": 1159.8,
+        "end": 1161.76,
+        "text": " But also there are some wonderful scenes"
+    },
+    {
+        "start": 1161.76,
+        "end": 1164.56,
+        "text": " that seem with the zombie-fied dad."
+    },
+    {
+        "start": 1164.56,
+        "end": 1168.52,
+        "text": " And there's some conversations about the human centricness"
+    },
+    {
+        "start": 1168.52,
+        "end": 1171.52,
+        "text": " of our thinking, the fact that, you know,"
+    },
+    {
+        "start": 1171.52,
+        "end": 1174.08,
+        "text": " somebody, there's a Nobel laureate in physics"
+    },
+    {
+        "start": 1174.08,
+        "end": 1176.52,
+        "text": " who just pops up and in and out of the novel."
+    },
+    {
+        "start": 1176.52,
+        "end": 1178.48,
+        "text": " And to saying at one point, you know,"
+    },
+    {
+        "start": 1178.48,
+        "end": 1180.8,
+        "text": " we say that is there intelligent life in the universe"
+    },
+    {
+        "start": 1180.8,
+        "end": 1181.64,
+        "text": " other than ourselves?"
+    },
+    {
+        "start": 1181.64,
+        "end": 1184.88,
+        "text": " And we say we would know it because we could communicate with it."
+    },
+    {
+        "start": 1184.88,
+        "end": 1186.96,
+        "text": " So this was the definition of intelligent life."
+    },
+    {
+        "start": 1186.96,
+        "end": 1188.96,
+        "text": " I mean, that very witty element."
+    },
+    {
+        "start": 1188.96,
+        "end": 1191.32,
+        "text": " But at the same time, Robin, there is another strand"
+    },
+    {
+        "start": 1191.32,
+        "end": 1195.16,
+        "text": " which seems to be not quite neatly slotted in with it,"
+    },
+    {
+        "start": 1195.16,
+        "end": 1196.6,
+        "text": " which is a real fury."
+    },
+    {
+        "start": 1196.6,
+        "end": 1200.28,
+        "text": " They're here, are the anti-hero, however you see him read."
+    },
+    {
+        "start": 1200.28,
+        "end": 1203.04,
+        "text": " Is a man of rage."
+    },
+    {
+        "start": 1203.04,
+        "end": 1205.4,
+        "text": " And I can see it by the end of the novel,"
+    },
+    {
+        "start": 1205.4,
+        "end": 1207.76,
+        "text": " what is enraged about, he has many reasons to be."
+    },
+    {
+        "start": 1207.76,
+        "end": 1210.8799999999999,
+        "text": " But he seems to be enraged right at the beginning."
+    },
+    {
+        "start": 1210.8799999999999,
+        "end": 1212.4,
+        "text": " Do you understand why?"
+    },
+    {
+        "start": 1212.4,
+        "end": 1213.96,
+        "text": " I was thinking, what's your problem, Red?"
+    },
+    {
+        "start": 1213.96,
+        "end": 1216.52,
+        "text": " We pick up on him when, of course, he has previously"
+    },
+    {
+        "start": 1216.52,
+        "end": 1218.08,
+        "text": " been in trouble with the law."
+    },
+    {
+        "start": 1218.08,
+        "end": 1219.6,
+        "text": " And then he's now currently being involved"
+    },
+    {
+        "start": 1219.6,
+        "end": 1221.24,
+        "text": " with official organizations."
+    },
+    {
+        "start": 1221.24,
+        "end": 1223.28,
+        "text": " But I think even though you talk about the rage he has,"
+    },
+    {
+        "start": 1223.28,
+        "end": 1224.64,
+        "text": " also from quite an early point,"
+    },
+    {
+        "start": 1224.64,
+        "end": 1226.04,
+        "text": " there is also love there as well."
+    },
+    {
+        "start": 1226.04,
+        "end": 1228.6,
+        "text": " And I think that's a very important part, both with his partner"
+    },
+    {
+        "start": 1228.6,
+        "end": 1231.72,
+        "text": " and then the child who goes through a very strange form"
+    },
+    {
+        "start": 1231.72,
+        "end": 1234.0,
+        "text": " of mutation to the point where they no longer even know"
+    },
+    {
+        "start": 1234.0,
+        "end": 1235.96,
+        "text": " if they are really communicating with the child."
+    },
+    {
+        "start": 1235.96,
+        "end": 1238.68,
+        "text": " So I think in real life, that's the thing, isn't it?"
+    },
+    {
+        "start": 1238.68,
+        "end": 1241.56,
+        "text": " In real life, we have rage and love and humor."
+    },
+    {
+        "start": 1241.56,
+        "end": 1243.64,
+        "text": " And they all happen in the same narrative of the day."
+    },
+    {
+        "start": 1243.64,
+        "end": 1245.48,
+        "text": " If any of us wrote the plot of our day,"
+    },
+    {
+        "start": 1245.48,
+        "end": 1247.56,
+        "text": " one moment we're doing something quite funny."
+    },
+    {
+        "start": 1247.56,
+        "end": 1250.16,
+        "text": " And the next moment you're kicking in an anna-object with fury"
+    },
+    {
+        "start": 1250.16,
+        "end": 1252.28,
+        "text": " in the next moment, you're seeing the world of politics"
+    },
+    {
+        "start": 1252.28,
+        "end": 1254.16,
+        "text": " and then something delightful happens."
+    },
+    {
+        "start": 1254.16,
+        "end": 1255.72,
+        "text": " So I think that's actually almost something"
+    },
+    {
+        "start": 1255.72,
+        "end": 1257.92,
+        "text": " that I like about this book."
+    },
+    {
+        "start": 1257.92,
+        "end": 1260.76,
+        "text": " There's a lovely Ursula Gwynne wrote the introduction to this."
+    },
+    {
+        "start": 1260.76,
+        "end": 1262.1200000000001,
+        "text": " And she says this in the introduction,"
+    },
+    {
+        "start": 1262.1200000000001,
+        "end": 1264.6000000000001,
+        "text": " she said, what they did, which I found most admirable,"
+    },
+    {
+        "start": 1264.6,
+        "end": 1267.52,
+        "text": " was to write as if they were indifferent to ideology."
+    },
+    {
+        "start": 1267.52,
+        "end": 1270.04,
+        "text": " Something many of us writers in Western democracy"
+    },
+    {
+        "start": 1270.04,
+        "end": 1271.52,
+        "text": " had a hard time doing."
+    },
+    {
+        "start": 1271.52,
+        "end": 1273.36,
+        "text": " They wrote as free men write."
+    },
+    {
+        "start": 1273.36,
+        "end": 1276.6,
+        "text": " And I almost feel it in some ways that that style itself is,"
+    },
+    {
+        "start": 1276.6,
+        "end": 1280.6799999999998,
+        "text": " but this is writing in this free way of how life really is."
+    },
+    {
+        "start": 1280.6799999999998,
+        "end": 1283.12,
+        "text": " Life is never all miserable."
+    },
+    {
+        "start": 1283.12,
+        "end": 1285.7199999999998,
+        "text": " It will keep turning different corners."
+    },
+    {
+        "start": 1285.7199999999998,
+        "end": 1288.8799999999999,
+        "text": " We've been talking about roadside picnic by Akadi"
+    },
+    {
+        "start": 1288.8799999999999,
+        "end": 1293.32,
+        "text": " and Boris Strogatsky and something very different now"
+    },
+    {
+        "start": 1293.32,
+        "end": 1295.8,
+        "text": " to my choice of a good read."
+    },
+    {
+        "start": 1295.8,
+        "end": 1298.1599999999999,
+        "text": " This is a novel, it's called Dodgers."
+    },
+    {
+        "start": 1298.1599999999999,
+        "end": 1300.32,
+        "text": " It's Spine American called Bill Beverly."
+    },
+    {
+        "start": 1300.32,
+        "end": 1303.84,
+        "text": " It was his first book and it was published just a couple of years ago."
+    },
+    {
+        "start": 1303.84,
+        "end": 1308.2,
+        "text": " And it's the story of a 15-year-old African American"
+    },
+    {
+        "start": 1308.2,
+        "end": 1310.32,
+        "text": " living in Los Angeles."
+    },
+    {
+        "start": 1310.32,
+        "end": 1311.8,
+        "text": " He's had a pretty brutal life."
+    },
+    {
+        "start": 1311.8,
+        "end": 1313.6,
+        "text": " He doesn't know who his father was."
+    },
+    {
+        "start": 1313.6,
+        "end": 1317.8,
+        "text": " His mother is this absolutely drink-sodden wreck."
+    },
+    {
+        "start": 1317.8,
+        "end": 1320.4399999999998,
+        "text": " He's got an uncle who kind of looks after him,"
+    },
+    {
+        "start": 1320.44,
+        "end": 1323.1200000000001,
+        "text": " but he doesn't look after him."
+    },
+    {
+        "start": 1323.1200000000001,
+        "end": 1325.1200000000001,
+        "text": " He looks out for him, let's say."
+    },
+    {
+        "start": 1325.1200000000001,
+        "end": 1328.44,
+        "text": " And what he also looks out for is his string of crack houses"
+    },
+    {
+        "start": 1328.44,
+        "end": 1329.44,
+        "text": " that he runs."
+    },
+    {
+        "start": 1329.44,
+        "end": 1333.3200000000002,
+        "text": " And the young lad East has been earning a living"
+    },
+    {
+        "start": 1333.3200000000002,
+        "end": 1336.6000000000001,
+        "text": " for the last few years acting as a lookout for his uncle's crack"
+    },
+    {
+        "start": 1336.6000000000001,
+        "end": 1337.92,
+        "text": " houses."
+    },
+    {
+        "start": 1337.92,
+        "end": 1341.8400000000001,
+        "text": " One day when he is supposed to be watching out for a police raid,"
+    },
+    {
+        "start": 1341.8400000000001,
+        "end": 1342.76,
+        "text": " there's a lot going on."
+    },
+    {
+        "start": 1342.76,
+        "end": 1344.24,
+        "text": " There's a fire happen."
+    },
+    {
+        "start": 1344.24,
+        "end": 1345.6000000000001,
+        "text": " Fire ambulances turn up."
+    },
+    {
+        "start": 1345.6000000000001,
+        "end": 1348.52,
+        "text": " There's a little girl who keeps pestering him, trying to talk to him."
+    },
+    {
+        "start": 1348.52,
+        "end": 1349.6000000000001,
+        "text": " And he wants to get rid of her."
+    },
+    {
+        "start": 1349.6,
+        "end": 1352.1599999999999,
+        "text": " He knows it's a dangerous place for her to be."
+    },
+    {
+        "start": 1352.1599999999999,
+        "end": 1355.4399999999998,
+        "text": " And too late, he realizes that the police raid, he can't"
+    },
+    {
+        "start": 1355.4399999999998,
+        "end": 1358.1599999999999,
+        "text": " warn the people in the crack house."
+    },
+    {
+        "start": 1358.1599999999999,
+        "end": 1361.0,
+        "text": " His uncle is needless to say furious with him."
+    },
+    {
+        "start": 1361.0,
+        "end": 1363.08,
+        "text": " Gives him, well, there's either a punishment"
+    },
+    {
+        "start": 1363.08,
+        "end": 1364.12,
+        "text": " to one last chance."
+    },
+    {
+        "start": 1364.12,
+        "end": 1365.36,
+        "text": " He says he's got to go off."
+    },
+    {
+        "start": 1365.36,
+        "end": 1366.36,
+        "text": " He's got to leave."
+    },
+    {
+        "start": 1366.36,
+        "end": 1369.1599999999999,
+        "text": " Los Angeles, he's got to travel, drive all the way up"
+    },
+    {
+        "start": 1369.1599999999999,
+        "end": 1372.6,
+        "text": " to Wisconsin, right the other side of the US."
+    },
+    {
+        "start": 1372.6,
+        "end": 1375.7199999999998,
+        "text": " And he is to shoot a man who is going"
+    },
+    {
+        "start": 1375.7199999999998,
+        "end": 1378.9599999999998,
+        "text": " to be a witness against the drug dealers."
+    },
+    {
+        "start": 1378.96,
+        "end": 1381.24,
+        "text": " And he says, you in or out."
+    },
+    {
+        "start": 1381.24,
+        "end": 1384.56,
+        "text": " And young East says, I'm in."
+    },
+    {
+        "start": 1384.56,
+        "end": 1387.2,
+        "text": " And so off he goes, he's sent off with three other guys."
+    },
+    {
+        "start": 1387.2,
+        "end": 1392.08,
+        "text": " There's a very smooth type who's about 20, called Michael Wilson,"
+    },
+    {
+        "start": 1392.08,
+        "end": 1394.56,
+        "text": " who's nominally in charge of it."
+    },
+    {
+        "start": 1394.56,
+        "end": 1397.52,
+        "text": " There's a fat Walter who is smart."
+    },
+    {
+        "start": 1397.52,
+        "end": 1399.52,
+        "text": " He's the smartest one of the lot."
+    },
+    {
+        "start": 1399.52,
+        "end": 1401.28,
+        "text": " And then he's 17."
+    },
+    {
+        "start": 1401.28,
+        "end": 1404.64,
+        "text": " And then there is a kid, a much younger, a 13-year-old,"
+    },
+    {
+        "start": 1404.64,
+        "end": 1407.6000000000001,
+        "text": " who is East's younger brother, who is something else again."
+    },
+    {
+        "start": 1407.6,
+        "end": 1410.6799999999998,
+        "text": " He is, I'd say, was a psychopath only."
+    },
+    {
+        "start": 1410.6799999999998,
+        "end": 1412.6799999999998,
+        "text": " I'm not quite sure what the legal definition is."
+    },
+    {
+        "start": 1412.6799999999998,
+        "end": 1415.4399999999998,
+        "text": " But he is certainly, he's already a killer at 13."
+    },
+    {
+        "start": 1415.4399999999998,
+        "end": 1418.6399999999999,
+        "text": " He's totally out of order, out of control."
+    },
+    {
+        "start": 1418.6399999999999,
+        "end": 1422.6399999999999,
+        "text": " And these four guys go off in their sort of souped up van,"
+    },
+    {
+        "start": 1422.6399999999999,
+        "end": 1425.3999999999999,
+        "text": " crossing America on this killing mission."
+    },
+    {
+        "start": 1425.3999999999999,
+        "end": 1427.08,
+        "text": " It's a kind of road book."
+    },
+    {
+        "start": 1427.08,
+        "end": 1428.12,
+        "text": " It's a gangster book."
+    },
+    {
+        "start": 1428.12,
+        "end": 1430.1599999999999,
+        "text": " But most of all, it's a coming of age."
+    },
+    {
+        "start": 1430.1599999999999,
+        "end": 1430.6799999999998,
+        "text": " Not full."
+    },
+    {
+        "start": 1430.6799999999998,
+        "end": 1435.08,
+        "text": " It's the story of East finally trying to work out who he is."
+    },
+    {
+        "start": 1435.08,
+        "end": 1437.04,
+        "text": " I think it's just a pretty fine book."
+    },
+    {
+        "start": 1437.04,
+        "end": 1438.04,
+        "text": " It's a little gibberish."
+    },
+    {
+        "start": 1438.04,
+        "end": 1443.76,
+        "text": " It's the, firstly, the number of times I wanted to stop reading it"
+    },
+    {
+        "start": 1443.76,
+        "end": 1445.56,
+        "text": " because it was so uncomfortable."
+    },
+    {
+        "start": 1445.56,
+        "end": 1447.48,
+        "text": " I mean, that's how good the writing was."
+    },
+    {
+        "start": 1447.48,
+        "end": 1451.12,
+        "text": " The scene that you describe about the raid on the crack house,"
+    },
+    {
+        "start": 1451.12,
+        "end": 1453.48,
+        "text": " when something happens to the little girl"
+    },
+    {
+        "start": 1453.48,
+        "end": 1458.36,
+        "text": " and the description of what happens in that scene."
+    },
+    {
+        "start": 1458.36,
+        "end": 1460.3999999999999,
+        "text": " And the thing is, is that you can kind of,"
+    },
+    {
+        "start": 1460.3999999999999,
+        "end": 1462.8,
+        "text": " the style of writing is foreshadowing"
+    },
+    {
+        "start": 1462.8,
+        "end": 1464.8799999999999,
+        "text": " that something horrible is going to happen."
+    },
+    {
+        "start": 1464.8799999999999,
+        "end": 1466.3999999999999,
+        "text": " And there's that horrible thing you do"
+    },
+    {
+        "start": 1466.44,
+        "end": 1467.64,
+        "text": " when you're reading something and you know,"
+    },
+    {
+        "start": 1467.64,
+        "end": 1468.64,
+        "text": " something horrible is happening."
+    },
+    {
+        "start": 1468.64,
+        "end": 1470.52,
+        "text": " You kind of want to turn three pages forward"
+    },
+    {
+        "start": 1470.52,
+        "end": 1473.76,
+        "text": " to either leap over the horribleness"
+    },
+    {
+        "start": 1473.76,
+        "end": 1477.2800000000002,
+        "text": " or to just, can I just say how horrible this is going to be now?"
+    },
+    {
+        "start": 1477.2800000000002,
+        "end": 1478.1200000000001,
+        "text": " Please."
+    },
+    {
+        "start": 1478.1200000000001,
+        "end": 1480.2,
+        "text": " And it all just kind of up and turning into a dardress."
+    },
+    {
+        "start": 1480.2,
+        "end": 1481.5600000000002,
+        "text": " Oh, it was better to see that."
+    },
+    {
+        "start": 1481.5600000000002,
+        "end": 1484.16,
+        "text": " That great, more rock-to-missing outcome."
+    },
+    {
+        "start": 1484.16,
+        "end": 1486.96,
+        "text": " It was, it was really, it was grim."
+    },
+    {
+        "start": 1486.96,
+        "end": 1490.64,
+        "text": " And what I loved about the arc of the book"
+    },
+    {
+        "start": 1490.64,
+        "end": 1492.5600000000002,
+        "text": " was from this kind of grim beginning."
+    },
+    {
+        "start": 1492.5600000000002,
+        "end": 1495.0800000000002,
+        "text": " Through to a kind of grim passage as well,"
+    },
+    {
+        "start": 1495.08,
+        "end": 1498.12,
+        "text": " was I love the fact that they revealed"
+    },
+    {
+        "start": 1498.12,
+        "end": 1500.08,
+        "text": " quite sort of deep into the book"
+    },
+    {
+        "start": 1500.08,
+        "end": 1502.4399999999998,
+        "text": " that East had never been out of Los Angeles."
+    },
+    {
+        "start": 1502.4399999999998,
+        "end": 1505.96,
+        "text": " This was him discovering America,"
+    },
+    {
+        "start": 1505.96,
+        "end": 1508.96,
+        "text": " but also in the reverse direction to that of the pioneers."
+    },
+    {
+        "start": 1508.96,
+        "end": 1511.72,
+        "text": " So he was, East was heading East"
+    },
+    {
+        "start": 1511.72,
+        "end": 1513.08,
+        "text": " and going through in America"
+    },
+    {
+        "start": 1513.08,
+        "end": 1514.76,
+        "text": " and getting more and more rural,"
+    },
+    {
+        "start": 1514.76,
+        "end": 1516.3999999999999,
+        "text": " each state they go through."
+    },
+    {
+        "start": 1516.3999999999999,
+        "end": 1519.1999999999998,
+        "text": " They have this really weird kind of incident"
+    },
+    {
+        "start": 1519.1999999999998,
+        "end": 1522.6799999999998,
+        "text": " where Michael, the kind of older minder of them,"
+    },
+    {
+        "start": 1522.68,
+        "end": 1525.8,
+        "text": " tacitly tries to go rogue in Las Vegas."
+    },
+    {
+        "start": 1525.8,
+        "end": 1527.52,
+        "text": " And that is incredibly horrible"
+    },
+    {
+        "start": 1527.52,
+        "end": 1529.0800000000002,
+        "text": " because the things happen there"
+    },
+    {
+        "start": 1529.0800000000002,
+        "end": 1531.04,
+        "text": " that you aren't given the full description of."
+    },
+    {
+        "start": 1531.04,
+        "end": 1533.4,
+        "text": " And so, you know, he kind of Beverly"
+    },
+    {
+        "start": 1533.4,
+        "end": 1536.28,
+        "text": " just leaves it in your head for you to imagine exactly"
+    },
+    {
+        "start": 1536.28,
+        "end": 1537.88,
+        "text": " what is the little brother did"
+    },
+    {
+        "start": 1537.88,
+        "end": 1539.2,
+        "text": " to get them off the hooking vagus."
+    },
+    {
+        "start": 1539.2,
+        "end": 1541.8,
+        "text": " And it's so horrible just thinking about what he did"
+    },
+    {
+        "start": 1541.8,
+        "end": 1543.8,
+        "text": " because they just described the consequences"
+    },
+    {
+        "start": 1543.8,
+        "end": 1545.64,
+        "text": " and the look of fear in people's eyes."
+    },
+    {
+        "start": 1545.64,
+        "end": 1549.28,
+        "text": " It was extraordinary, but this sense of isolation"
+    },
+    {
+        "start": 1549.28,
+        "end": 1552.52,
+        "text": " and this weird single mission that they're on"
+    },
+    {
+        "start": 1552.52,
+        "end": 1553.6399999999999,
+        "text": " as they go through, I mean,"
+    },
+    {
+        "start": 1553.6399999999999,
+        "end": 1556.08,
+        "text": " it's almost weirdly siss-a-fe-and-task"
+    },
+    {
+        "start": 1556.08,
+        "end": 1558.28,
+        "text": " of having to travel across the country,"
+    },
+    {
+        "start": 1558.28,
+        "end": 1560.6399999999999,
+        "text": " pick ups and guns that have already been paid for."
+    },
+    {
+        "start": 1560.6399999999999,
+        "end": 1564.32,
+        "text": " Go on, you know, whack this guy, this judge"
+    },
+    {
+        "start": 1564.32,
+        "end": 1566.32,
+        "text": " that's gonna be a witness in a case"
+    },
+    {
+        "start": 1566.32,
+        "end": 1568.92,
+        "text": " and all of the things that are against him on the way."
+    },
+    {
+        "start": 1568.92,
+        "end": 1570.96,
+        "text": " All of that with the background of the fact"
+    },
+    {
+        "start": 1570.96,
+        "end": 1573.68,
+        "text": " that the lead protagonist is 15"
+    },
+    {
+        "start": 1573.68,
+        "end": 1575.48,
+        "text": " and has never been out of Los Angeles."
+    },
+    {
+        "start": 1575.48,
+        "end": 1579.08,
+        "text": " You can never shake the fact that this guy,"
+    },
+    {
+        "start": 1579.08,
+        "end": 1582.44,
+        "text": " he's a child, he's a child."
+    },
+    {
+        "start": 1582.44,
+        "end": 1584.0,
+        "text": " And that just kept rattling around it."
+    },
+    {
+        "start": 1584.0,
+        "end": 1585.52,
+        "text": " And that and the fact that the bad DNA"
+    },
+    {
+        "start": 1585.52,
+        "end": 1587.88,
+        "text": " is two years younger than the protagonist."
+    },
+    {
+        "start": 1587.88,
+        "end": 1590.2,
+        "text": " 13 years old, that's a really weird thing."
+    },
+    {
+        "start": 1590.2,
+        "end": 1593.0,
+        "text": " The first time that he kills someone"
+    },
+    {
+        "start": 1593.0,
+        "end": 1594.1200000000001,
+        "text": " and because I don't think it is,"
+    },
+    {
+        "start": 1594.1200000000001,
+        "end": 1595.2,
+        "text": " it's interesting you think, you know,"
+    },
+    {
+        "start": 1595.2,
+        "end": 1596.52,
+        "text": " is he a psychopath or not?"
+    },
+    {
+        "start": 1596.52,
+        "end": 1599.1200000000001,
+        "text": " My thought on these characters and it is,"
+    },
+    {
+        "start": 1599.1200000000001,
+        "end": 1600.6000000000001,
+        "text": " it's a thing that keeps coming back to you,"
+    },
+    {
+        "start": 1600.6000000000001,
+        "end": 1602.0800000000002,
+        "text": " reading it, you're reading it and then you suddenly go,"
+    },
+    {
+        "start": 1602.0800000000002,
+        "end": 1604.28,
+        "text": " I've just remembered again, 15 and 13"
+    },
+    {
+        "start": 1604.28,
+        "end": 1605.3600000000001,
+        "text": " because it goes away."
+    },
+    {
+        "start": 1605.3600000000001,
+        "end": 1607.64,
+        "text": " In fact, even everything about it, I think,"
+    },
+    {
+        "start": 1607.64,
+        "end": 1611.28,
+        "text": " I've found it very hard to actually get the correct age"
+    },
+    {
+        "start": 1611.28,
+        "end": 1614.28,
+        "text": " in my head, but I think it's just someone"
+    },
+    {
+        "start": 1614.28,
+        "end": 1618.12,
+        "text": " who the lack of any form of good influence in their life"
+    },
+    {
+        "start": 1618.12,
+        "end": 1620.16,
+        "text": " means that life is, yeah, it will just do that."
+    },
+    {
+        "start": 1620.16,
+        "end": 1621.0,
+        "text": " It doesn't matter."
+    },
+    {
+        "start": 1621.0,
+        "end": 1624.48,
+        "text": " There's something and mundane is the wrong word,"
+    },
+    {
+        "start": 1624.48,
+        "end": 1626.24,
+        "text": " but it's that fact that this is their life"
+    },
+    {
+        "start": 1626.24,
+        "end": 1627.6399999999999,
+        "text": " and this is what is going to happen."
+    },
+    {
+        "start": 1627.6399999999999,
+        "end": 1631.32,
+        "text": " And yes, it does then become this very strange experience"
+    },
+    {
+        "start": 1631.32,
+        "end": 1635.36,
+        "text": " as he goes, this is America beyond the secret,"
+    },
+    {
+        "start": 1635.36,
+        "end": 1637.36,
+        "text": " you know, the secret place where he sleeps."
+    },
+    {
+        "start": 1637.36,
+        "end": 1639.32,
+        "text": " That says no one knows where he sleeps."
+    },
+    {
+        "start": 1639.32,
+        "end": 1640.56,
+        "text": " You know, this is the America beyond."
+    },
+    {
+        "start": 1640.56,
+        "end": 1641.72,
+        "text": " I feel like I had a thing with this,"
+    },
+    {
+        "start": 1641.72,
+        "end": 1645.28,
+        "text": " that he was like some very well-trained young officer"
+    },
+    {
+        "start": 1645.28,
+        "end": 1648.6399999999999,
+        "text": " who's, I mean, he's enormously restrained."
+    },
+    {
+        "start": 1648.6399999999999,
+        "end": 1650.84,
+        "text": " He's learned not to show any emotion."
+    },
+    {
+        "start": 1650.84,
+        "end": 1652.36,
+        "text": " If somebody points a gun to his head,"
+    },
+    {
+        "start": 1652.36,
+        "end": 1654.1599999999999,
+        "text": " there's an occasion in this book, they do,"
+    },
+    {
+        "start": 1654.1599999999999,
+        "end": 1657.6,
+        "text": " he just knows to keep quite impassive, not move,"
+    },
+    {
+        "start": 1657.6,
+        "end": 1659.48,
+        "text": " not look frightened or anything."
+    },
+    {
+        "start": 1659.48,
+        "end": 1662.9199999999998,
+        "text": " And crucially, and this is central to really his character,"
+    },
+    {
+        "start": 1662.9199999999998,
+        "end": 1663.9199999999998,
+        "text": " is he is obedient."
+    },
+    {
+        "start": 1663.9199999999998,
+        "end": 1667.56,
+        "text": " If his uncle, the mob boss says,"
+    },
+    {
+        "start": 1667.56,
+        "end": 1669.8,
+        "text": " you're going to do this, he does it."
+    },
+    {
+        "start": 1669.8,
+        "end": 1673.8,
+        "text": " The other boys try and, you know, work their way around it."
+    },
+    {
+        "start": 1673.8,
+        "end": 1674.6399999999999,
+        "text": " He does it."
+    },
+    {
+        "start": 1674.6399999999999,
+        "end": 1675.84,
+        "text": " I mean, he's sort of honorable, isn't he?"
+    },
+    {
+        "start": 1675.84,
+        "end": 1679.24,
+        "text": " But he's kind of learning the world as he goes along."
+    },
+    {
+        "start": 1679.24,
+        "end": 1680.28,
+        "text": " I mean, I did believe in him."
+    },
+    {
+        "start": 1680.28,
+        "end": 1681.52,
+        "text": " Yeah, and there's a lot of this book,"
+    },
+    {
+        "start": 1681.52,
+        "end": 1683.08,
+        "text": " which I've really felt that kind of quality"
+    },
+    {
+        "start": 1683.08,
+        "end": 1685.3999999999999,
+        "text": " of synacesia that comes with descriptions of,"
+    },
+    {
+        "start": 1685.3999999999999,
+        "end": 1687.44,
+        "text": " just the little things, just when Beverly describes"
+    },
+    {
+        "start": 1687.44,
+        "end": 1690.24,
+        "text": " just the concrete dust and smell of urine."
+    },
+    {
+        "start": 1690.24,
+        "end": 1692.72,
+        "text": " And it was just that mixture of concrete dust and urine"
+    },
+    {
+        "start": 1692.72,
+        "end": 1694.44,
+        "text": " in the air and you just kind of go,"
+    },
+    {
+        "start": 1694.44,
+        "end": 1695.68,
+        "text": " yep, that's come right up my nose."
+    },
+    {
+        "start": 1695.68,
+        "end": 1697.56,
+        "text": " That has, you know, yeah."
+    },
+    {
+        "start": 1697.56,
+        "end": 1700.6,
+        "text": " Yes, he is, I think he's a terrific writer."
+    },
+    {
+        "start": 1700.6,
+        "end": 1704.52,
+        "text": " Anyway, we've been talking about Dodgers by Bill Beverly,"
+    },
+    {
+        "start": 1704.52,
+        "end": 1706.9199999999998,
+        "text": " published by No Exit Press."
+    },
+    {
+        "start": 1706.9199999999998,
+        "end": 1710.6399999999999,
+        "text": " Before that, we were talking about Dada, Art and Antiart"
+    },
+    {
+        "start": 1710.6399999999999,
+        "end": 1711.6399999999999,
+        "text": " by Hans Richter."
+    },
+    {
+        "start": 1711.6399999999999,
+        "end": 1713.8,
+        "text": " That was translated by David Britt"
+    },
+    {
+        "start": 1713.8,
+        "end": 1715.8799999999999,
+        "text": " and published by Thames and Hudson"
+    },
+    {
+        "start": 1715.8799999999999,
+        "end": 1719.9199999999998,
+        "text": " and Roadside Picnic by Akadi and Boris Strogatsky,"
+    },
+    {
+        "start": 1719.9199999999998,
+        "end": 1722.32,
+        "text": " translated by Olaena Bohmashenko"
+    },
+    {
+        "start": 1722.32,
+        "end": 1724.52,
+        "text": " and published by Galantz."
+    },
+    {
+        "start": 1724.52,
+        "end": 1726.28,
+        "text": " And until June, that's it."
+    },
+    {
+        "start": 1726.28,
+        "end": 1727.32,
+        "text": " But worry not."
+    },
+    {
+        "start": 1727.32,
+        "end": 1729.12,
+        "text": " While we're away, if you go online"
+    },
+    {
+        "start": 1729.12,
+        "end": 1730.8,
+        "text": " or use the I play a radio app,"
+    },
+    {
+        "start": 1730.8,
+        "end": 1733.6,
+        "text": " you'll find a plethora of good read suggestions,"
+    },
+    {
+        "start": 1733.6,
+        "end": 1736.96,
+        "text": " nonfiction, genre fiction, so-called literary fiction,"
+    },
+    {
+        "start": 1736.96,
+        "end": 1740.08,
+        "text": " from guests as various as Ruby Tando, Stephen Fry,"
+    },
+    {
+        "start": 1740.08,
+        "end": 1742.52,
+        "text": " Alan Davis and Lionel Shriver."
+    },
+    {
+        "start": 1742.52,
+        "end": 1744.04,
+        "text": " The more recent episodes are the ones"
+    },
+    {
+        "start": 1744.04,
+        "end": 1745.8,
+        "text": " with pictures of the guests."
+    },
+    {
+        "start": 1745.8,
+        "end": 1748.2,
+        "text": " But for now, a big thank you to today's guests,"
+    },
+    {
+        "start": 1748.2,
+        "end": 1750.72,
+        "text": " Robinins and Phil Jupiter's."
+    },
+    {
+        "start": 1750.72,
+        "end": 1753.6,
+        "text": " And to you, as ever, thanks for listening."
+    },
+    {
+        "start": 1754.6,
+        "end": 1757.28,
+        "text": " Thank you for listening to the podcast of a good read."
+    },
+    {
+        "start": 1757.28,
+        "end": 1758.28,
+        "text": " I hope you enjoyed it."
+    },
+    {
+        "start": 1758.28,
+        "end": 1760.32,
+        "text": " And if you did, why not tell your friends?"
+    },
+    {
+        "start": 1760.32,
+        "end": 1762.4399999999998,
+        "text": " You could also give us a review or rating"
+    },
+    {
+        "start": 1762.4399999999998,
+        "end": 1764.1999999999998,
+        "text": " on your podcast provider."
+    },
+    {
+        "start": 1764.1999999999998,
+        "end": 1766.3999999999999,
+        "text": " For me, Harriet Gilbert, till next time."
+    },
+    {
+        "start": 1766.3999999999999,
+        "end": 1767.6,
+        "text": " Again, thank you."
+    },
+    {
+        "start": 1767.6,
+        "end": 1771.7199999999998,
+        "text": " MUSIC"
+    },
+    {
+        "start": 1771.7199999999998,
+        "end": 1774.3999999999999,
+        "text": " So that was books and authors."
+    },
+    {
+        "start": 1774.3999999999999,
+        "end": 1777.0,
+        "text": " Has podcasting replaced your reading time, Eli?"
+    },
+    {
+        "start": 1777.0,
+        "end": 1779.0,
+        "text": " Well, basically, yeah."
+    },
+    {
+        "start": 1779.0,
+        "end": 1780.84,
+        "text": " You know how some people read,"
+    },
+    {
+        "start": 1780.84,
+        "end": 1782.36,
+        "text": " you know, the London Review of Books"
+    },
+    {
+        "start": 1782.36,
+        "end": 1783.9599999999998,
+        "text": " instead of actually reading books."
+    },
+    {
+        "start": 1783.9599999999998,
+        "end": 1785.6799999999998,
+        "text": " Well, that's what I do with podcasts."
+    },
+    {
+        "start": 1785.6799999999998,
+        "end": 1787.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1787.0,
+        "end": 1789.52,
+        "text": " You know, I'm hanging onto my book reading."
+    },
+    {
+        "start": 1789.52,
+        "end": 1790.52,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 1790.52,
+        "end": 1791.56,
+        "text": " If I can, it's good for the soul."
+    },
+    {
+        "start": 1791.56,
+        "end": 1792.56,
+        "text": " What are you reading right now?"
+    },
+    {
+        "start": 1792.56,
+        "end": 1794.52,
+        "text": " For the paper, I'm reading a John McGregor,"
+    },
+    {
+        "start": 1794.52,
+        "end": 1795.36,
+        "text": " reservoir 13."
+    },
+    {
+        "start": 1795.36,
+        "end": 1797.0,
+        "text": " I did just notice how I just said,"
+    },
+    {
+        "start": 1797.0,
+        "end": 1799.52,
+        "text": " I wanted to ask you, what are you reading right now?"
+    },
+    {
+        "start": 1799.52,
+        "end": 1800.84,
+        "text": " And I almost said what, and I said,"
+    },
+    {
+        "start": 1800.84,
+        "end": 1802.0,
+        "text": " what are you listening to, right?"
+    },
+    {
+        "start": 1802.0,
+        "end": 1804.56,
+        "text": " That was the actual word listening, Ken, instead of reading."
+    },
+    {
+        "start": 1804.56,
+        "end": 1806.84,
+        "text": " And what are you listening to then, if you're not reading?"
+    },
+    {
+        "start": 1806.84,
+        "end": 1811.6799999999998,
+        "text": " What if I'm listening to a whole lot of like really weird"
+    },
+    {
+        "start": 1811.68,
+        "end": 1813.8400000000001,
+        "text": " kind of improv comedy podcasts?"
+    },
+    {
+        "start": 1813.8400000000001,
+        "end": 1814.68,
+        "text": " Yeah."
+    },
+    {
+        "start": 1814.68,
+        "end": 1815.52,
+        "text": " I'm surprised by that."
+    },
+    {
+        "start": 1815.52,
+        "end": 1816.3600000000001,
+        "text": " Yeah, I know."
+    },
+    {
+        "start": 1816.3600000000001,
+        "end": 1818.16,
+        "text": " So listen, if you like books and authors,"
+    },
+    {
+        "start": 1818.16,
+        "end": 1821.48,
+        "text": " go search for it and subscribe to it wherever you found this."
+    },
+    {
+        "start": 1821.48,
+        "end": 1822.76,
+        "text": " We'll see you next time."
+    }
+]

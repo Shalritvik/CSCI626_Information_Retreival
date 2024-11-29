@@ -1,0 +1,2917 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.0,
+        "text": " This is an MPB Think Radio Podcast."
+    },
+    {
+        "start": 7.0,
+        "end": 11.0,
+        "text": " Hi, I'm Dr. Susan Butters, host of Southern Remedies, relatively speaking."
+    },
+    {
+        "start": 11.0,
+        "end": 16.16,
+        "text": " Join the conversation every Tuesday at 11 as we dissect issues that are important to you"
+    },
+    {
+        "start": 16.16,
+        "end": 17.16,
+        "text": " and your family."
+    },
+    {
+        "start": 17.16,
+        "end": 22.16,
+        "text": " That's relatively speaking, Tuesday's only on MPB Think Radio."
+    },
+    {
+        "start": 22.16,
+        "end": 27.84,
+        "text": " Hello, thanks for tuning in to Everyday Tech."
+    },
+    {
+        "start": 27.84,
+        "end": 31.44,
+        "text": " This is Abram Naney with Sabir Blahawk and IT expert."
+    },
+    {
+        "start": 31.44,
+        "end": 35.12,
+        "text": " Today we're ripping a page out of Next Stop Mississippi's book and highlighting event taking"
+    },
+    {
+        "start": 35.12,
+        "end": 37.24,
+        "text": " place right here in Jackson this weekend."
+    },
+    {
+        "start": 37.24,
+        "end": 40.32,
+        "text": " But it's much more of our own nerdy geeky vibe."
+    },
+    {
+        "start": 40.32,
+        "end": 46.120000000000005,
+        "text": " So, MPB's own Clark Lee and the owner of Alternative Culture Store Offbeat, Philip Rollins"
+    },
+    {
+        "start": 46.120000000000005,
+        "end": 49.120000000000005,
+        "text": " joined us today to talk about Jackson's anime fest."
+    },
+    {
+        "start": 49.120000000000005,
+        "end": 52.8,
+        "text": " With dozens of guests and vendors, anime fest promises to be a good time for all of those"
+    },
+    {
+        "start": 52.8,
+        "end": 53.8,
+        "text": " who attend."
+    },
+    {
+        "start": 53.8,
+        "end": 58.4,
+        "text": " Email Everyday Tech at mpbonline.org if you have any questions or comments."
+    },
+    {
+        "start": 58.4,
+        "end": 62.0,
+        "text": " And of course, don't forget about the talk to us feature on the MPB public media app where"
+    },
+    {
+        "start": 62.0,
+        "end": 66.03999999999999,
+        "text": " you can record a voice or video message and send it straight to us at Everyday Tech."
+    },
+    {
+        "start": 66.03999999999999,
+        "end": 67.64,
+        "text": " Now, Sabir, how's it going, man?"
+    },
+    {
+        "start": 67.64,
+        "end": 68.64,
+        "text": " How are you doing?"
+    },
+    {
+        "start": 68.64,
+        "end": 70.44,
+        "text": " It's been okay, man."
+    },
+    {
+        "start": 70.44,
+        "end": 72.64,
+        "text": " Surprisingly, somewhat of a slow morning."
+    },
+    {
+        "start": 72.64,
+        "end": 76.96,
+        "text": " Ankle say just completely just grinded to a halt or pause."
+    },
+    {
+        "start": 76.96,
+        "end": 81.96,
+        "text": " But after yesterday with the Facebook meta and everything it froze."
+    },
+    {
+        "start": 81.96,
+        "end": 86.47999999999999,
+        "text": " And today so far has actually been pretty quiet in terms of different things."
+    },
+    {
+        "start": 86.47999999999999,
+        "end": 87.47999999999999,
+        "text": " It could be worse."
+    },
+    {
+        "start": 87.47999999999999,
+        "end": 89.0,
+        "text": " So, knocking on wood."
+    },
+    {
+        "start": 89.0,
+        "end": 91.6,
+        "text": " Yeah, I imagine IT work at always be worse."
+    },
+    {
+        "start": 91.6,
+        "end": 92.6,
+        "text": " It always good."
+    },
+    {
+        "start": 92.6,
+        "end": 96.6,
+        "text": " We always just want to remind people and know we've talked about it in previous stations"
+    },
+    {
+        "start": 96.6,
+        "end": 99.36,
+        "text": " before in previous episodes before."
+    },
+    {
+        "start": 99.36,
+        "end": 102.08,
+        "text": " Always, always use two factor authentication."
+    },
+    {
+        "start": 102.08,
+        "end": 103.08,
+        "text": " Always."
+    },
+    {
+        "start": 103.08,
+        "end": 105.67999999999999,
+        "text": " Don't just rely on just your password."
+    },
+    {
+        "start": 105.67999999999999,
+        "end": 107.47999999999999,
+        "text": " Please don't rely on just your password."
+    },
+    {
+        "start": 107.47999999999999,
+        "end": 109.83999999999999,
+        "text": " Use two factor authentication."
+    },
+    {
+        "start": 109.84,
+        "end": 112.24000000000001,
+        "text": " You can touch bases with friends, family."
+    },
+    {
+        "start": 112.24000000000001,
+        "end": 116.84,
+        "text": " Just do a quick little Google search on how to use the two factor authentication, especially"
+    },
+    {
+        "start": 116.84,
+        "end": 121.84,
+        "text": " for your bank accounts for anything private and everything else."
+    },
+    {
+        "start": 121.84,
+        "end": 124.84,
+        "text": " Do not rely on just a password, no more."
+    },
+    {
+        "start": 124.84,
+        "end": 127.44,
+        "text": " Yeah, especially not if your password is password."
+    },
+    {
+        "start": 127.44,
+        "end": 128.44,
+        "text": " Right."
+    },
+    {
+        "start": 128.44,
+        "end": 130.44,
+        "text": " We went to that conversation."
+    },
+    {
+        "start": 130.44,
+        "end": 132.44,
+        "text": " We had that conversation."
+    },
+    {
+        "start": 132.44,
+        "end": 133.84,
+        "text": " You and I know the person."
+    },
+    {
+        "start": 133.84,
+        "end": 135.76,
+        "text": " I talked to you off the line about that, Philip."
+    },
+    {
+        "start": 135.76,
+        "end": 139.84,
+        "text": " I fussed at that person because they told me that their password is password."
+    },
+    {
+        "start": 139.84,
+        "end": 144.0,
+        "text": " And they said, be a don't talk about me."
+    },
+    {
+        "start": 144.0,
+        "end": 146.39999999999998,
+        "text": " And then you put her all the way to that."
+    },
+    {
+        "start": 146.39999999999998,
+        "end": 147.39999999999998,
+        "text": " She's still anonymous."
+    },
+    {
+        "start": 147.39999999999998,
+        "end": 148.39999999999998,
+        "text": " She don't know what she's saying."
+    },
+    {
+        "start": 148.39999999999998,
+        "end": 149.39999999999998,
+        "text": " I ain't said a name."
+    },
+    {
+        "start": 149.39999999999998,
+        "end": 150.39999999999998,
+        "text": " Yeah."
+    },
+    {
+        "start": 150.39999999999998,
+        "end": 153.23999999999998,
+        "text": " But it's hilarious."
+    },
+    {
+        "start": 153.23999999999998,
+        "end": 154.23999999999998,
+        "text": " It's hilarious."
+    },
+    {
+        "start": 154.23999999999998,
+        "end": 159.64,
+        "text": " But please, please folks, if you hear our voice, please use an authenticator, two factor"
+    },
+    {
+        "start": 159.64,
+        "end": 160.64,
+        "text": " authentication."
+    },
+    {
+        "start": 160.64,
+        "end": 161.64,
+        "text": " You got any questions?"
+    },
+    {
+        "start": 161.64,
+        "end": 166.79999999999998,
+        "text": " Touch base with your favorite IT guy or gal and get on out there and answer some questions"
+    },
+    {
+        "start": 166.79999999999998,
+        "end": 168.44,
+        "text": " because it's real."
+    },
+    {
+        "start": 168.44,
+        "end": 170.48,
+        "text": " These folks are getting really crafty out here."
+    },
+    {
+        "start": 170.48,
+        "end": 171.48,
+        "text": " You don't want to be scammed."
+    },
+    {
+        "start": 171.48,
+        "end": 176.11999999999998,
+        "text": " You don't want, and we talk about AI on here and sometimes people are using AI for the"
+    },
+    {
+        "start": 176.11999999999998,
+        "end": 177.11999999999998,
+        "text": " wrong reasons."
+    },
+    {
+        "start": 177.11999999999998,
+        "end": 180.51999999999998,
+        "text": " We want to make sure that you're not a victim of AI for different things."
+    },
+    {
+        "start": 180.51999999999998,
+        "end": 181.51999999999998,
+        "text": " Just be careful."
+    },
+    {
+        "start": 181.51999999999998,
+        "end": 182.51999999999998,
+        "text": " Make good choices."
+    },
+    {
+        "start": 182.51999999999998,
+        "end": 183.51999999999998,
+        "text": " Yeah."
+    },
+    {
+        "start": 183.51999999999998,
+        "end": 184.51999999999998,
+        "text": " Yeah, for sure."
+    },
+    {
+        "start": 184.51999999999998,
+        "end": 187.72,
+        "text": " So we're talking today about this weekend's anime fest."
+    },
+    {
+        "start": 187.72,
+        "end": 190.11999999999998,
+        "text": " I got to ask you, have you watched much anime?"
+    },
+    {
+        "start": 190.11999999999998,
+        "end": 191.11999999999998,
+        "text": " I know."
+    },
+    {
+        "start": 191.4,
+        "end": 194.36,
+        "text": " I know we've had a few conversations about Naruto."
+    },
+    {
+        "start": 194.36,
+        "end": 199.36,
+        "text": " There was an anime long time ago called Fist of the North Star."
+    },
+    {
+        "start": 199.36,
+        "end": 201.20000000000002,
+        "text": " That was my introduction to anime."
+    },
+    {
+        "start": 201.20000000000002,
+        "end": 205.08,
+        "text": " We first came out super long ago when way back when."
+    },
+    {
+        "start": 205.08,
+        "end": 207.4,
+        "text": " So yeah, I'm a die heart anime fan."
+    },
+    {
+        "start": 207.4,
+        "end": 208.4,
+        "text": " Okay."
+    },
+    {
+        "start": 208.4,
+        "end": 212.20000000000002,
+        "text": " Me and my mid-gid Collin, we're the anime nuts."
+    },
+    {
+        "start": 212.20000000000002,
+        "end": 217.16,
+        "text": " He just learned Neon Genesis Evangelion and he doesn't know what to do with himself."
+    },
+    {
+        "start": 217.16,
+        "end": 220.52,
+        "text": " He's like, what, why has this been on my life?"
+    },
+    {
+        "start": 220.52,
+        "end": 221.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 221.52,
+        "end": 225.72,
+        "text": " No, I consider myself much more of a casual anime watcher."
+    },
+    {
+        "start": 225.72,
+        "end": 230.35999999999999,
+        "text": " There's several that I enjoy, but they're all the big shows."
+    },
+    {
+        "start": 230.35999999999999,
+        "end": 237.12,
+        "text": " I grew up on Airbender and I like Full Metal Alchemist, my hero academia and stuff."
+    },
+    {
+        "start": 237.12,
+        "end": 239.28,
+        "text": " I said I was not going to bring you guys in until later."
+    },
+    {
+        "start": 239.28,
+        "end": 240.8,
+        "text": " I got to ask you guys."
+    },
+    {
+        "start": 240.8,
+        "end": 243.76,
+        "text": " What is your, do you watch my anime?"
+    },
+    {
+        "start": 243.76,
+        "end": 245.84,
+        "text": " I watch a lot of anime."
+    },
+    {
+        "start": 246.32,
+        "end": 247.32,
+        "text": " Yeah, okay."
+    },
+    {
+        "start": 247.32,
+        "end": 250.16,
+        "text": " So what have you been watching lately?"
+    },
+    {
+        "start": 250.16,
+        "end": 257.92,
+        "text": " Lately, I've been going back and trying to discover or rediscover old 90s and 80s anime."
+    },
+    {
+        "start": 257.92,
+        "end": 263.16,
+        "text": " So I've been watching stuff like Riding Bean, Dirty Pear."
+    },
+    {
+        "start": 263.16,
+        "end": 266.68,
+        "text": " It's another one called Gunsmith Cats that I really like."
+    },
+    {
+        "start": 266.68,
+        "end": 267.68,
+        "text": " Gotcha man."
+    },
+    {
+        "start": 267.68,
+        "end": 270.36,
+        "text": " So it's a lot."
+    },
+    {
+        "start": 270.36,
+        "end": 273.92,
+        "text": " Gotcha man was called Battle of the Planet for people that want to be half familiar"
+    },
+    {
+        "start": 273.92,
+        "end": 274.92,
+        "text": " or G4."
+    },
+    {
+        "start": 275.76,
+        "end": 277.24,
+        "text": " I've been kind of going back to the old stuff."
+    },
+    {
+        "start": 277.24,
+        "end": 281.32,
+        "text": " I've been keeping an eye because I read a lot of manga, which is Japanese comics."
+    },
+    {
+        "start": 281.32,
+        "end": 285.56,
+        "text": " And trying to figure out what's going to be like the next big thing that's going to be a"
+    },
+    {
+        "start": 285.56,
+        "end": 286.6,
+        "text": " death of today anime."
+    },
+    {
+        "start": 286.6,
+        "end": 289.64000000000004,
+        "text": " And one that's coming out this year is going to be Kajiu number nine."
+    },
+    {
+        "start": 289.64000000000004,
+        "end": 292.24,
+        "text": " And that's one I'm really looking forward to is about this guy."
+    },
+    {
+        "start": 292.24,
+        "end": 295.84000000000003,
+        "text": " He gets infected with a Kaji who's like a big monster."
+    },
+    {
+        "start": 295.84000000000003,
+        "end": 298.24,
+        "text": " So he gets infected with this monster stuff."
+    },
+    {
+        "start": 298.24,
+        "end": 304.12,
+        "text": " The planet has or the area has like these task force where people fight these giant Godzilla"
+    },
+    {
+        "start": 304.12,
+        "end": 308.76,
+        "text": " like creatures with like guns and weapons and they turn the Kajiu that they kill."
+    },
+    {
+        "start": 308.76,
+        "end": 311.84000000000003,
+        "text": " They turn them into the weapons that they can utilize."
+    },
+    {
+        "start": 311.84000000000003,
+        "end": 316.92,
+        "text": " And but he gets infected to where he becomes a Kajiu and he but he's still sentient."
+    },
+    {
+        "start": 316.92,
+        "end": 321.28000000000003,
+        "text": " So he's able to like kind of use that power for good or whatnot, but it's very kind of wacky"
+    },
+    {
+        "start": 321.28000000000003,
+        "end": 323.28000000000003,
+        "text": " and stuff like that."
+    },
+    {
+        "start": 323.28000000000003,
+        "end": 324.28000000000003,
+        "text": " Right."
+    },
+    {
+        "start": 324.28000000000003,
+        "end": 329.4,
+        "text": " Now Clark, I was introduced to you as a you are introduced to me as like the anime guy"
+    },
+    {
+        "start": 329.4,
+        "end": 332.4,
+        "text": " in the building or something like that."
+    },
+    {
+        "start": 332.4,
+        "end": 335.64,
+        "text": " So I'm guessing I don't have to ask the same question."
+    },
+    {
+        "start": 335.64,
+        "end": 337.64,
+        "text": " Have you watched anime?"
+    },
+    {
+        "start": 337.64,
+        "end": 345.35999999999996,
+        "text": " I have watched anime from the 80s as well watching battle of the planets a couple episodes"
+    },
+    {
+        "start": 345.35999999999996,
+        "end": 347.12,
+        "text": " of a speed racer as well."
+    },
+    {
+        "start": 347.12,
+        "end": 357.2,
+        "text": " But my my big introduction was a Japana on two two-nommie back when it back when it came"
+    },
+    {
+        "start": 357.2,
+        "end": 361.96,
+        "text": " out it was a robot circus and vampire 100D."
+    },
+    {
+        "start": 361.96,
+        "end": 370.24,
+        "text": " The original classic and that was they would air those at night and it was just one of"
+    },
+    {
+        "start": 370.24,
+        "end": 376.84,
+        "text": " those fantastic just the emergence into the right."
+    },
+    {
+        "start": 376.84,
+        "end": 385.24,
+        "text": " But going through being part of the concert I've met a lot of the my hero academia people."
+    },
+    {
+        "start": 385.24,
+        "end": 390.32,
+        "text": " Yeah, yeah, and they're they're very good and it's an interesting show."
+    },
+    {
+        "start": 390.32,
+        "end": 393.32,
+        "text": " I've made it through about three and a half four seasons."
+    },
+    {
+        "start": 393.32,
+        "end": 399.24,
+        "text": " Yeah, I'm completely up to date with what has been put on streaming services so far."
+    },
+    {
+        "start": 399.24,
+        "end": 402.0,
+        "text": " So I've enjoyed my hero academia a good bit."
+    },
+    {
+        "start": 402.0,
+        "end": 403.28000000000003,
+        "text": " Wait till you get into the manga."
+    },
+    {
+        "start": 403.28000000000003,
+        "end": 404.28000000000003,
+        "text": " Oh, that's what everyone says."
+    },
+    {
+        "start": 404.28000000000003,
+        "end": 408.92,
+        "text": " I did when I learned how to read it's going to be over."
+    },
+    {
+        "start": 408.92,
+        "end": 416.32,
+        "text": " You just make sure you read right to left right to left right to left."
+    },
+    {
+        "start": 416.32,
+        "end": 417.32,
+        "text": " For sure."
+    },
+    {
+        "start": 417.32,
+        "end": 423.40000000000003,
+        "text": " So historically what have been like you guys is severe what what has been your favorite?"
+    },
+    {
+        "start": 423.40000000000003,
+        "end": 427.88,
+        "text": " Like what really got me into I don't know if you met me and the twins good friend Bill"
+    },
+    {
+        "start": 427.88,
+        "end": 435.12,
+        "text": " but when I was back at Southern would really read I guess read and invigorated my love"
+    },
+    {
+        "start": 435.12,
+        "end": 437.16,
+        "text": " for anime was Naruto."
+    },
+    {
+        "start": 437.16,
+        "end": 438.8,
+        "text": " I love the story."
+    },
+    {
+        "start": 438.8,
+        "end": 444.32000000000005,
+        "text": " You have the main character Naruto who's been through all kinds of things in his life suffered"
+    },
+    {
+        "start": 444.32000000000005,
+        "end": 450.0,
+        "text": " loss at very young suffered bullying suffered acting out and everything else."
+    },
+    {
+        "start": 450.0,
+        "end": 455.48,
+        "text": " And it just really kind of struck a court with me that this young kid and then the whole"
+    },
+    {
+        "start": 455.48,
+        "end": 459.76000000000005,
+        "text": " when I even even younger than I was involved with Naruto I was very much involved with the"
+    },
+    {
+        "start": 459.76000000000005,
+        "end": 462.84000000000003,
+        "text": " chakra system and I just met my understanding of the chakra system."
+    },
+    {
+        "start": 462.84,
+        "end": 467.79999999999995,
+        "text": " So to see it weaponized in store and basically kind of like the story the way it had then"
+    },
+    {
+        "start": 467.79999999999995,
+        "end": 473.28,
+        "text": " I learned more about Japanese culture in terms of Sasuke being the name of of a great warrior."
+    },
+    {
+        "start": 473.28,
+        "end": 477.15999999999997,
+        "text": " The name is a great warrior or a chimaru being the name of a great demon."
+    },
+    {
+        "start": 477.15999999999997,
+        "end": 482.4,
+        "text": " So these are characters from Naruto and to hear all these things come out and then have"
+    },
+    {
+        "start": 482.4,
+        "end": 487.79999999999995,
+        "text": " them spelled out so creatively across the seasons by which it went through was amazing"
+    },
+    {
+        "start": 487.79999999999995,
+        "end": 492.28,
+        "text": " to me and this was when I was still in this was like my junior year when I was at Southern"
+    },
+    {
+        "start": 492.28,
+        "end": 493.67999999999995,
+        "text": " Miss when I was introduced to it."
+    },
+    {
+        "start": 493.67999999999995,
+        "end": 499.26,
+        "text": " I was like okay and it just re but it started off saying like you know this has flashing"
+    },
+    {
+        "start": 499.26,
+        "end": 501.88,
+        "text": " graphics be careful sitting too close to the TV."
+    },
+    {
+        "start": 501.88,
+        "end": 506.59999999999997,
+        "text": " You know it warned you on the epilepsy one like be careful you know saying someone may"
+    },
+    {
+        "start": 506.59999999999997,
+        "end": 510.59999999999997,
+        "text": " have you know you may have you know a behavior issue or anything else like that that may"
+    },
+    {
+        "start": 510.59999999999997,
+        "end": 513.72,
+        "text": " be triggered by it because these graphics about to get real."
+    },
+    {
+        "start": 513.72,
+        "end": 518.3199999999999,
+        "text": " I think that really kind of brought me into it and then a couple of folks you know back"
+    },
+    {
+        "start": 518.32,
+        "end": 523.44,
+        "text": " in college like I said we started with Naruto and just spiraled back out you know with"
+    },
+    {
+        "start": 523.44,
+        "end": 527.84,
+        "text": " what they call Shonen Jump which wound up being like that was the center and then you"
+    },
+    {
+        "start": 527.84,
+        "end": 533.12,
+        "text": " spiraled out so yeah your vampire 100 D's that I had watched before and like I said the"
+    },
+    {
+        "start": 533.12,
+        "end": 538.1600000000001,
+        "text": " all these other different great ones of course Dragon Ball Z of course that also helped"
+    },
+    {
+        "start": 538.1600000000001,
+        "end": 543.0400000000001,
+        "text": " be a springboard into all these other different titles that brought me into also mainstream"
+    },
+    {
+        "start": 543.0400000000001,
+        "end": 547.96,
+        "text": " shows like Ghost in the Shell which later became a movie whether you like that it didn't"
+    },
+    {
+        "start": 547.96,
+        "end": 552.64,
+        "text": " like it but Ghost in the Shell which became an actual live action movie and was more brought"
+    },
+    {
+        "start": 552.64,
+        "end": 557.1600000000001,
+        "text": " into Western culture I mean all these different things it's really there's a lot of there"
+    },
+    {
+        "start": 557.1600000000001,
+        "end": 560.1600000000001,
+        "text": " out there but you started with DBZ and Naruto."
+    },
+    {
+        "start": 560.1600000000001,
+        "end": 565.2800000000001,
+        "text": " Yeah I mean it's it's it's it appeals to so many people because like there's so many"
+    },
+    {
+        "start": 565.2800000000001,
+        "end": 569.88,
+        "text": " different stories that can be told like that like one of my friends that was way into anime"
+    },
+    {
+        "start": 569.88,
+        "end": 575.2,
+        "text": " got into it you know like how everyone else does and then he was watching rom coms at some"
+    },
+    {
+        "start": 575.2,
+        "end": 580.48,
+        "text": " point and stuff so there's so many different stories that can be told and you can really"
+    },
+    {
+        "start": 580.48,
+        "end": 585.9200000000001,
+        "text": " just go as far as you want like there's no there's no well I mean there is budget limits"
+    },
+    {
+        "start": 585.9200000000001,
+        "end": 591.8000000000001,
+        "text": " but like that like you're hand drawing stuff so they they go in like in so many different"
+    },
+    {
+        "start": 591.8000000000001,
+        "end": 595.48,
+        "text": " directions like it like the in the full metal alchemist and stuff I like I'm not going"
+    },
+    {
+        "start": 595.48,
+        "end": 601.32,
+        "text": " to talk about it but like they they try to become God or whatever and you can just go"
+    },
+    {
+        "start": 601.32,
+        "end": 607.6,
+        "text": " so far with all that yeah thanks for listening to mpb think radio and tuning into everyday"
+    },
+    {
+        "start": 607.6,
+        "end": 612.4000000000001,
+        "text": " tech this morning my name is Abram nanny I've got Sabir Abdulhawk here with me if you have"
+    },
+    {
+        "start": 612.4000000000001,
+        "end": 617.6400000000001,
+        "text": " questions or comments email them to everyday tech at mpbonline.org I said in the intro we're"
+    },
+    {
+        "start": 617.6400000000001,
+        "end": 623.84,
+        "text": " joined by one of mpb's own Clark Lee in studio who is involved in this anime slash convention"
+    },
+    {
+        "start": 623.84,
+        "end": 628.6400000000001,
+        "text": " community here in Jackson Clark welcome to the show thank you probably me here yeah official"
+    },
+    {
+        "start": 628.64,
+        "end": 635.12,
+        "text": " introduction so I got to ask you know what is it for everyone listen I say your mpb what"
+    },
+    {
+        "start": 635.12,
+        "end": 641.4399999999999,
+        "text": " do you do at mpb I work with promo I work in the programming department I'm in promos and"
+    },
+    {
+        "start": 641.4399999999999,
+        "end": 649.28,
+        "text": " I work with the production department I direct run camera just anything that's needed for"
+    },
+    {
+        "start": 649.28,
+        "end": 655.88,
+        "text": " for the production okay yes so that that and all around all around me and we also have"
+    },
+    {
+        "start": 655.88,
+        "end": 661.64,
+        "text": " the owner of alternative culture store offbeat located here in Jackson on here with us Philip"
+    },
+    {
+        "start": 661.64,
+        "end": 666.28,
+        "text": " Rollins thanks for joining us in studio with us today thank you for having me yeah appreciate"
+    },
+    {
+        "start": 666.28,
+        "end": 673.4,
+        "text": " you guys both being on so tell us a little bit about how you started Clark getting into involved"
+    },
+    {
+        "start": 673.4,
+        "end": 682.16,
+        "text": " with the miscivil anime fest I was drafted okay my best friend is the lawyer for the Comic"
+    },
+    {
+        "start": 682.16,
+        "end": 692.24,
+        "text": " Con company that is that is doing the anime fest and he used to be my boss at a comic book store we"
+    },
+    {
+        "start": 692.24,
+        "end": 699.68,
+        "text": " became best friends and I was like oh you know come on and and help and I've always been always"
+    },
+    {
+        "start": 699.68,
+        "end": 708.0,
+        "text": " like Con so he sort of drafted me into helping out and I got worked my way into being into guest"
+    },
+    {
+        "start": 708.8,
+        "end": 713.76,
+        "text": " right so your work is not just with anime fest it's with the convention all the convention"
+    },
+    {
+        "start": 713.76,
+        "end": 721.76,
+        "text": " everything well the the conventions that Vx Vx5 events puts on okay okay cool well Philip what about"
+    },
+    {
+        "start": 721.76,
+        "end": 727.2,
+        "text": " you how are you how have you been involved with you know how did how did offbeat get started and how"
+    },
+    {
+        "start": 727.2,
+        "end": 734.24,
+        "text": " did that transfer into the sort of culture that you guys have got built around yeah so offbeat we"
+    },
+    {
+        "start": 734.72,
+        "end": 741.2,
+        "text": " we've been around for we've approaching ten year anniversary and we will have a we carry records"
+    },
+    {
+        "start": 741.2,
+        "end": 747.28,
+        "text": " comics designatories anime figures manga and so we always been in touch with the anime community"
+    },
+    {
+        "start": 747.28,
+        "end": 752.88,
+        "text": " I've grown up with it and so these are things that I was like well we need a store here in the city"
+    },
+    {
+        "start": 752.88,
+        "end": 758.48,
+        "text": " that carries these things so is that having just one comic book shop or a record store I say let me"
+    },
+    {
+        "start": 758.48,
+        "end": 763.6,
+        "text": " combine these things because most people have similar interests so even the records I have anime"
+    },
+    {
+        "start": 763.6,
+        "end": 770.72,
+        "text": " soundtracks like Dragon Ball and Studio Ghibli and and some others as well too um but you know"
+    },
+    {
+        "start": 770.72,
+        "end": 775.76,
+        "text": " we're starting every two every second Sunday we're starting an anime and manga club for people"
+    },
+    {
+        "start": 775.76,
+        "end": 781.52,
+        "text": " that you know if they can't make that the convention or if they're overwhelmed by they can come and"
+    },
+    {
+        "start": 781.52,
+        "end": 786.32,
+        "text": " or they want to learn about more manga and anime they can come to the shop on the second every"
+    },
+    {
+        "start": 786.32,
+        "end": 792.1600000000001,
+        "text": " second Sunday and come and you know um learn about new manga or discover new manga meet like"
+    },
+    {
+        "start": 792.16,
+        "end": 798.0,
+        "text": " minded people um one of my best friends she's a cosplayer so she can do like you know you're"
+    },
+    {
+        "start": 798.0,
+        "end": 803.8399999999999,
+        "text": " introduction to cosplay I have a regular customer he's in the gumpla so he's planning on doing"
+    },
+    {
+        "start": 803.8399999999999,
+        "end": 808.7199999999999,
+        "text": " the gun and building workshop which we used to do before COVID but they got a good kill so"
+    },
+    {
+        "start": 809.4399999999999,
+        "end": 815.28,
+        "text": " we have like set up tables and people like build and you know get tips and how to sand and cut your"
+    },
+    {
+        "start": 815.28,
+        "end": 819.1999999999999,
+        "text": " nibs and everything like that but we're also gonna be you know having discounts for people that are"
+    },
+    {
+        "start": 819.2,
+        "end": 824.5600000000001,
+        "text": " active in the community because we want um the community to be active in person not just online"
+    },
+    {
+        "start": 824.5600000000001,
+        "end": 828.8000000000001,
+        "text": " and as well because anime and manga communities are very active online so you know we're gonna have"
+    },
+    {
+        "start": 828.8000000000001,
+        "end": 833.44,
+        "text": " like special discounts and we're gonna do like special shirts and everything else like that for"
+    },
+    {
+        "start": 834.0,
+        "end": 839.5200000000001,
+        "text": " people who are it actively involved as well too so instead of just waiting you know once or twice"
+    },
+    {
+        "start": 839.5200000000001,
+        "end": 844.88,
+        "text": " a year to you know cosplay or dress up or see the people that you that uh love this like head"
+    },
+    {
+        "start": 844.88,
+        "end": 850.16,
+        "text": " is like minded interest we're gonna do it once a month right yes so it's it's really those communities"
+    },
+    {
+        "start": 850.16,
+        "end": 857.52,
+        "text": " that um like those comic book communities that come and come to anime fest so for those that are"
+    },
+    {
+        "start": 857.52,
+        "end": 867.84,
+        "text": " are not familiar what is anime fest Clark it is the statewide uh con that uh cook commission that"
+    },
+    {
+        "start": 867.84,
+        "end": 877.2,
+        "text": " is specifically anime oriented and we have uh what we'll have anime well have vendors selling"
+    },
+    {
+        "start": 877.2,
+        "end": 883.44,
+        "text": " anime material if you like it almost any anime show there's somebody selling something"
+    },
+    {
+        "start": 884.1600000000001,
+        "end": 890.32,
+        "text": " that's that that's there but it's a place where you can come together and just talk about and"
+    },
+    {
+        "start": 890.32,
+        "end": 896.24,
+        "text": " experience anime stuff and get to meet hopefully some of the voices of your favorite anime stars"
+    },
+    {
+        "start": 896.32,
+        "end": 901.04,
+        "text": " right right that's that's one thing i was gonna bring up and thank you for bringing that up and"
+    },
+    {
+        "start": 901.04,
+        "end": 904.48,
+        "text": " thank and and first off you got my attention because you know i love Gundam when you say"
+    },
+    {
+        "start": 904.48,
+        "end": 910.5600000000001,
+        "text": " these are gun loud but roll up i'm a huge fan of Gundam which is a robot it's a robot series for"
+    },
+    {
+        "start": 910.5600000000001,
+        "end": 915.52,
+        "text": " folks who are listening never heard of it gun i'm a huge fan of Gundam you know that one but I do"
+    },
+    {
+        "start": 915.52,
+        "end": 919.52,
+        "text": " love that it's one of the favorite things about comic cons and anime cons and all these different"
+    },
+    {
+        "start": 919.52,
+        "end": 924.72,
+        "text": " things that are out you get to hear about that you get to meet the voice actors that are that are"
+    },
+    {
+        "start": 924.72,
+        "end": 931.6800000000001,
+        "text": " also involved with these i i follow uh uh steven steven j bloom who was known for outlaw i mean"
+    },
+    {
+        "start": 931.6800000000001,
+        "end": 937.84,
+        "text": " excuse me for cowboy bebop most mostly for cowboy bebop a whole lot of other voice acting and uh"
+    },
+    {
+        "start": 937.84,
+        "end": 944.4,
+        "text": " for a big oh he's one of my favorite and he's also pretty socio-political guy uh and he's also married"
+    },
+    {
+        "start": 944.4,
+        "end": 951.6,
+        "text": " to one of my other favorite voice actors uh mario lisabeth maglan who plays a matokakusa naigi from"
+    },
+    {
+        "start": 951.6,
+        "end": 958.8000000000001,
+        "text": " on the english dub of uh of uh ghost in the shell and julia from uh from um from uh from uh"
+    },
+    {
+        "start": 958.8000000000001,
+        "end": 963.52,
+        "text": " cowboy bebop as well so she it's great to actually meet these folks and hear from different folks"
+    },
+    {
+        "start": 963.52,
+        "end": 968.88,
+        "text": " he had a chance i would love to meet either one of them yeah that that that's just like steven j bloom"
+    },
+    {
+        "start": 968.88,
+        "end": 975.0400000000001,
+        "text": " he has his own actual um and voice acting is amazing voice over is amazing it's amazing industry he"
+    },
+    {
+        "start": 975.04,
+        "end": 982.8,
+        "text": " has his own school bloombar yep bloom spew bloom spew is is that's him on uh bloom spew is his um ij and"
+    },
+    {
+        "start": 982.8,
+        "end": 987.76,
+        "text": " twitter handle but yeah he's uh them the dumbest great getting the chance to meet these folks and then"
+    },
+    {
+        "start": 987.76,
+        "end": 993.36,
+        "text": " also understanding their ideologies and philosophies of these voice actors i was hoping someone's"
+    },
+    {
+        "start": 993.36,
+        "end": 999.4399999999999,
+        "text": " going to mention that if not i love voice actors i have his autograph hanging on my on my wall and"
+    },
+    {
+        "start": 999.4399999999999,
+        "end": 1004.64,
+        "text": " and i i know his agent she's a friend of mine that's amazing that's cool that's amazing is it is it"
+    },
+    {
+        "start": 1004.64,
+        "end": 1009.76,
+        "text": " in your office yeah oh that's a lot of the picture he can take a picture of it and then tag him i've"
+    },
+    {
+        "start": 1009.76,
+        "end": 1016.56,
+        "text": " i've i've heed him directly i'm a huge fan of his me yeah so claire you said guest relations with"
+    },
+    {
+        "start": 1017.52,
+        "end": 1025.6,
+        "text": " the convention uh what what was the company again of bx5 events okay so vx5e events"
+    },
+    {
+        "start": 1025.6,
+        "end": 1033.04,
+        "text": " well it's it's v an x and and and a v the romandume role uh okay okay he bent okay so you do"
+    },
+    {
+        "start": 1033.04,
+        "end": 1039.04,
+        "text": " guest relations to them what is what is that entail that entails uh going to get them at the air"
+    },
+    {
+        "start": 1039.04,
+        "end": 1045.12,
+        "text": " well they're arranging everything uh to get them here uh picking them up from the airport getting"
+    },
+    {
+        "start": 1045.12,
+        "end": 1051.52,
+        "text": " them to to the hotel and to the venue uh getting things that they may need sort of just being like"
+    },
+    {
+        "start": 1051.52,
+        "end": 1057.76,
+        "text": " their their con assistant uh i my main job all is during the con is taking care of the green room"
+    },
+    {
+        "start": 1057.84,
+        "end": 1064.56,
+        "text": " and making sure that they're taking care of at the the con okay and just making sure that they're"
+    },
+    {
+        "start": 1064.56,
+        "end": 1071.92,
+        "text": " uh that they and their agents have food water uh making sure that their um that dietary needs are"
+    },
+    {
+        "start": 1071.92,
+        "end": 1077.6,
+        "text": " are met and then getting them conveniently back to the airport right okay that's really cool"
+    },
+    {
+        "start": 1077.6,
+        "end": 1084.96,
+        "text": " that's cool i i uh i've been kind of involved with that sort of thing uh uh with winter jam when"
+    },
+    {
+        "start": 1084.96,
+        "end": 1089.44,
+        "text": " it comes to two below i don't know if you guys know what that is winter jam winter jam it's like a"
+    },
+    {
+        "start": 1089.44,
+        "end": 1097.44,
+        "text": " it's like a christian music concert that goes nationwide um so i've been at the lady i knew the lady"
+    },
+    {
+        "start": 1097.44,
+        "end": 1102.56,
+        "text": " that organized part of that for the two below so okay two below in you but that that was kind of"
+    },
+    {
+        "start": 1102.56,
+        "end": 1108.0,
+        "text": " cool yeah um that kind of comes here your stuff is yeah yeah and and and and what i hear from both"
+    },
+    {
+        "start": 1108.0,
+        "end": 1111.6000000000001,
+        "text": " you from what you're doing and everything else and what i hear you saying that also supplements"
+    },
+    {
+        "start": 1111.6,
+        "end": 1117.28,
+        "text": " from other stuff that that that offbeat is doing you constantly doing things to keep the community"
+    },
+    {
+        "start": 1117.28,
+        "end": 1121.6799999999998,
+        "text": " healthy and alive that's what's happening at at anime fest and some of the other things that"
+    },
+    {
+        "start": 1121.6799999999998,
+        "end": 1127.76,
+        "text": " offbeat is doing that's amazing yeah so so Phillip what is that what is anime fest until entail for"
+    },
+    {
+        "start": 1128.56,
+        "end": 1134.8,
+        "text": " a comic shop coming coming up um so the anime fest is pretty big and as well as a comic con that"
+    },
+    {
+        "start": 1134.8,
+        "end": 1140.48,
+        "text": " they do so they get a lot of out of towners a lot of people from i think Memphis or Louisiana they'll"
+    },
+    {
+        "start": 1140.48,
+        "end": 1145.28,
+        "text": " come and see the guests that they'll they'll be there and stuff like that so i'm right up the street"
+    },
+    {
+        "start": 1145.92,
+        "end": 1151.92,
+        "text": " on mononano or st. street and so i'm like i don't know three minutes away yeah so a lot of times"
+    },
+    {
+        "start": 1151.92,
+        "end": 1157.04,
+        "text": " is overflow from that and they will come in and they'll be like oh you have this and you also have"
+    },
+    {
+        "start": 1157.04,
+        "end": 1163.1200000000001,
+        "text": " this and i they bring out of this at the shot at the convention and stuff like that um so it's"
+    },
+    {
+        "start": 1163.1200000000001,
+        "end": 1169.52,
+        "text": " it's it's pretty interesting um it was a time where we had events and parties with one of the"
+    },
+    {
+        "start": 1169.52,
+        "end": 1175.44,
+        "text": " vendors uh where's the waifu and stuff like that and he's he's done events at the shop before"
+    },
+    {
+        "start": 1176.6399999999999,
+        "end": 1182.48,
+        "text": " um this is part of the covid as well too but you know it's uh it's you know it's a lot you know"
+    },
+    {
+        "start": 1182.48,
+        "end": 1189.04,
+        "text": " it's some crossover between the two yeah it's it's it's kind of work i mean you you foster the same"
+    },
+    {
+        "start": 1189.04,
+        "end": 1195.76,
+        "text": " culture yeah we're parallel basically yeah absolutely yeah so so it what does it mean"
+    },
+    {
+        "start": 1195.76,
+        "end": 1201.36,
+        "text": " claret for you to see like the the culture building and stuff like anime fest has gotten bigger and"
+    },
+    {
+        "start": 1201.36,
+        "end": 1208.72,
+        "text": " bigger over the years correct yes and what it means to to me and i'd like having like seeing people"
+    },
+    {
+        "start": 1210.08,
+        "end": 1215.92,
+        "text": " look it goes back to like when with star wars came out back in 77 none of y'all weren't we're alive"
+    },
+    {
+        "start": 1216.64,
+        "end": 1223.04,
+        "text": " no but it was um you know like you're on the playground and you have you know your different sets of"
+    },
+    {
+        "start": 1223.04,
+        "end": 1227.92,
+        "text": " people that may not play with each other but if you have like a common goal like how awesome"
+    },
+    {
+        "start": 1227.92,
+        "end": 1234.72,
+        "text": " star wars was you can come together over a certain topic and the playground can become less bloody"
+    },
+    {
+        "start": 1234.72,
+        "end": 1242.08,
+        "text": " ginger and interest so at at the fest you have people that can come together in in a safe family"
+    },
+    {
+        "start": 1242.08,
+        "end": 1249.52,
+        "text": " friendly environment and just just like oh i didn't know that you knew about this particular"
+    },
+    {
+        "start": 1249.52,
+        "end": 1254.0,
+        "text": " anime you know or i don't think that anybody knew about this and you come together and get to"
+    },
+    {
+        "start": 1254.0,
+        "end": 1262.24,
+        "text": " meet people and if you're those that are very creative can and and are good with sewing and"
+    },
+    {
+        "start": 1262.24,
+        "end": 1268.32,
+        "text": " making things they bring in their costumes and and there were costumes and you can see it's like"
+    },
+    {
+        "start": 1268.32,
+        "end": 1273.2,
+        "text": " oh that's my favorite character oh and then you can bond and form an instant friendship"
+    },
+    {
+        "start": 1274.0800000000002,
+        "end": 1281.1200000000001,
+        "text": " with with backgrounds like oh you like um this this particular character you like um"
+    },
+    {
+        "start": 1282.8,
+        "end": 1288.8,
+        "text": " every single character is just like oh you like that this particular oh well i like it too"
+    },
+    {
+        "start": 1288.8,
+        "end": 1295.2,
+        "text": " well you have all this you know that you're gonna have some similarities because like this"
+    },
+    {
+        "start": 1295.2,
+        "end": 1300.72,
+        "text": " character might mean you like so so so yeah it'll reverse pyramid out well it sounds like it"
+    },
+    {
+        "start": 1300.72,
+        "end": 1306.24,
+        "text": " seems like both like in terms of the both all the different things it's an opportunity for"
+    },
+    {
+        "start": 1306.24,
+        "end": 1310.64,
+        "text": " community that's what i that's what i hear from that yes active opportunity for community for"
+    },
+    {
+        "start": 1310.64,
+        "end": 1316.48,
+        "text": " things like the anime fest for for for initiatives and and and organizations like like offbeat and"
+    },
+    {
+        "start": 1316.48,
+        "end": 1320.96,
+        "text": " everything else like that and we're glad it was good to have this kind of conversation because we're"
+    },
+    {
+        "start": 1320.96,
+        "end": 1325.2,
+        "text": " actively talking about a way for people to be able to actively have it's an it's an active"
+    },
+    {
+        "start": 1325.2,
+        "end": 1330.08,
+        "text": " opportunity for communities like you said like it's it's interesting quote i was born in 80 but i"
+    },
+    {
+        "start": 1330.08,
+        "end": 1335.04,
+        "text": " mean like i remember the Star Wars lunch boxes and things like that but of course like when you"
+    },
+    {
+        "start": 1335.04,
+        "end": 1340.8799999999999,
+        "text": " see that of course yeah you people go across demographics they go across thing like i wouldn't really"
+    },
+    {
+        "start": 1340.8799999999999,
+        "end": 1345.28,
+        "text": " i don't know that i would talk to this person to that person but then you see them they they've got"
+    },
+    {
+        "start": 1345.28,
+        "end": 1350.8799999999999,
+        "text": " uh they've got a a pin that talks about my hair academia well that which is something which is"
+    },
+    {
+        "start": 1350.8799999999999,
+        "end": 1356.72,
+        "text": " amazing here i am about to be 44 years old and i was talking to my sons uh he had one of his"
+    },
+    {
+        "start": 1356.72,
+        "end": 1362.24,
+        "text": " sons friends had on some crocs they had like Naruto uh the giblets the giblets on them right and so"
+    },
+    {
+        "start": 1362.24,
+        "end": 1365.68,
+        "text": " i was looking i was like whoa is that sasuke and they were like what you know about sasuke"
+    },
+    {
+        "start": 1367.1200000000001,
+        "end": 1372.0,
+        "text": " it's hilarious and it's a it's a great opportunity i know i come from community where one of the"
+    },
+    {
+        "start": 1372.0,
+        "end": 1377.2,
+        "text": " things is talking about the intergenerational model it is amazing that folks like i get we're"
+    },
+    {
+        "start": 1377.2,
+        "end": 1383.04,
+        "text": " closer to aids than youtube i'm sure but i mean like we can have a conversation and even younger"
+    },
+    {
+        "start": 1383.04,
+        "end": 1388.24,
+        "text": " or older and still have a conversation again it's an opportunity for community yeah absolutely"
+    },
+    {
+        "start": 1388.24,
+        "end": 1394.6399999999999,
+        "text": " and uh and i i don't want to be like i'm not trying to stereotype or anything but not everyone like"
+    },
+    {
+        "start": 1395.68,
+        "end": 1400.8,
+        "text": " you can't just go up and not everyone can go up and talk to somebody right right um and i like for"
+    },
+    {
+        "start": 1400.8,
+        "end": 1406.72,
+        "text": " myself specifically i've always had this nerdy you know these nerdy interests and stuff like that"
+    },
+    {
+        "start": 1407.28,
+        "end": 1412.72,
+        "text": " um and i've never been good at approaching and talking to someone so when you come up to these"
+    },
+    {
+        "start": 1412.72,
+        "end": 1416.96,
+        "text": " conventions and stuff you see someone like like you said with your favorite characters it's like"
+    },
+    {
+        "start": 1416.96,
+        "end": 1423.44,
+        "text": " for me it was my one of my lifelong best friends uh we met because my brother and him had the same"
+    },
+    {
+        "start": 1423.44,
+        "end": 1429.84,
+        "text": " star wars puzzle nice in kindergarten okay so like because you have those common interests you"
+    },
+    {
+        "start": 1429.84,
+        "end": 1436.0,
+        "text": " you feel oh there's a way to talk to somebody there's a way to approach somebody so it's like a nice"
+    },
+    {
+        "start": 1436.0,
+        "end": 1442.32,
+        "text": " breaker yeah yeah yeah yeah yeah yeah yeah absolutely yes indeed we'll continue talking to with Clark"
+    },
+    {
+        "start": 1442.32,
+        "end": 1449.68,
+        "text": " and Philip about anime fest 2024 email us at everyday tech at mpb online dot org we're glad you found"
+    },
+    {
+        "start": 1449.68,
+        "end": 1455.2,
+        "text": " our show everyday tech on mpb think radio this is abrim nanny still here with severe dole hawk"
+    },
+    {
+        "start": 1455.2,
+        "end": 1460.8,
+        "text": " and filiproleins and clarkley if you have an event or convention or you think mpb are specifically"
+    },
+    {
+        "start": 1460.8,
+        "end": 1466.3999999999999,
+        "text": " so you can use everyday tech should cover email us at everyday tech at mpb online dot org now today"
+    },
+    {
+        "start": 1466.3999999999999,
+        "end": 1470.8,
+        "text": " we're talking about the event that's happening this weekend march 9th and 10th it's called anime fest"
+    },
+    {
+        "start": 1470.8,
+        "end": 1476.3999999999999,
+        "text": " right here at the Mississippi tradesmart here in Jackson and we're joined by clarkley and filiproleins"
+    },
+    {
+        "start": 1476.3999999999999,
+        "end": 1481.52,
+        "text": " to talk about that so with these conventions personalities are always a big draw for people wanting to come in"
+    },
+    {
+        "start": 1481.52,
+        "end": 1487.76,
+        "text": " so who who can people expect to be there well we have anime voices because it's anime con"
+    },
+    {
+        "start": 1487.76,
+        "end": 1495.2,
+        "text": " and they they branch out to do several things we have a kaiji tang adam mccarther Keith"
+    },
+    {
+        "start": 1495.2,
+        "end": 1502.0,
+        "text": " silverstein e m james corlate share me lee brianna nika bacher i've met brianna and i've met met adam"
+    },
+    {
+        "start": 1502.56,
+        "end": 1510.16,
+        "text": " that they're nice uh erica harlacher i've met it erica and yetko zander mobus creek wilson"
+    },
+    {
+        "start": 1510.72,
+        "end": 1518.3200000000002,
+        "text": " our our main draws and we have as we have our cos players a little miss cosplay geek out studio"
+    },
+    {
+        "start": 1518.3200000000002,
+        "end": 1525.92,
+        "text": " and kazuna cosplay and they'll be dressed in different characters yes they'll all be there to"
+    },
+    {
+        "start": 1525.92,
+        "end": 1532.64,
+        "text": " free the meet greet and get autographs or get something signed if you have like a plushie or"
+    },
+    {
+        "start": 1532.64,
+        "end": 1540.48,
+        "text": " or or or poster or yeah or or figurine that that is just you know just loving go and get it signed"
+    },
+    {
+        "start": 1540.48,
+        "end": 1546.64,
+        "text": " right right right and match your little piece of yeah that's your very special memorabilia"
+    },
+    {
+        "start": 1546.64,
+        "end": 1554.48,
+        "text": " it's actually and it's it's for people into the community that's like imagine going to like"
+    },
+    {
+        "start": 1554.48,
+        "end": 1558.3200000000002,
+        "text": " a basketball game and then you get to meet the basketball players at the end of the game"
+    },
+    {
+        "start": 1558.8,
+        "end": 1563.6799999999998,
+        "text": " like get a baseball sign or something yeah it's very similar so i saw on the website that two"
+    },
+    {
+        "start": 1563.6799999999998,
+        "end": 1568.08,
+        "text": " of the guests actually voice main characters on one of the biggest shows running now which is"
+    },
+    {
+        "start": 1568.08,
+        "end": 1574.3999999999999,
+        "text": " jujitsu kaisen right yeah yeah so that's that's sick honestly like that that they they're you guys"
+    },
+    {
+        "start": 1574.3999999999999,
+        "end": 1580.24,
+        "text": " were able to get someone or some people's that are so like high profile yeah um which i i'm sorry"
+    },
+    {
+        "start": 1580.24,
+        "end": 1585.76,
+        "text": " i'm terrible with names but shout out to them for coming that that's that's awesome and then"
+    },
+    {
+        "start": 1585.76,
+        "end": 1589.84,
+        "text": " that's definitely a show i'm about to jump into i think it's a good friend of my cassandra"
+    },
+    {
+        "start": 1589.84,
+        "end": 1594.72,
+        "text": " she used to when they put me on jujitsu kaisen yeah to jump on that so that's cool yeah that's excellent"
+    },
+    {
+        "start": 1595.68,
+        "end": 1600.4,
+        "text": " um and now i've imagined you've gotten to meet a lot of cool people because of these events"
+    },
+    {
+        "start": 1600.4,
+        "end": 1605.44,
+        "text": " yeah so is there is there anyone that sticks out to you specifically like looking back on the"
+    },
+    {
+        "start": 1605.44,
+        "end": 1610.24,
+        "text": " past events and stuff is there someone that you're like that was a really cool like some like dream"
+    },
+    {
+        "start": 1611.04,
+        "end": 1617.28,
+        "text": " person that you're able to meet uh not i'm sorry to put you on the spot there's and one"
+    },
+    {
+        "start": 1617.28,
+        "end": 1624.4,
+        "text": " instantly comes to mind it's just there's a there was a story in there it was uh before i was"
+    },
+    {
+        "start": 1625.2,
+        "end": 1631.92,
+        "text": " still working the the rooms i was asked uh my my buddy was asked if he could take a a guest to the"
+    },
+    {
+        "start": 1632.88,
+        "end": 1636.88,
+        "text": " to the hotel and i go oh well can i come along and then they're like well are you gonna"
+    },
+    {
+        "start": 1636.88,
+        "end": 1643.1200000000001,
+        "text": " bang girl out i'm like well you know it depends i thought it was like some voiceover person i'd"
+    },
+    {
+        "start": 1643.1200000000001,
+        "end": 1650.96,
+        "text": " never heard of right and i was told it's john Reese Davies oh yes solid and uh gimmeley on"
+    },
+    {
+        "start": 1651.8400000000001,
+        "end": 1659.44,
+        "text": " on the twin the uh lord of the rain yeah yeah and i knew ma as solid from in the end of jones in"
+    },
+    {
+        "start": 1659.44,
+        "end": 1664.72,
+        "text": " the last crit crusade and from raiders the lost art interest and i got in the car and we're we're"
+    },
+    {
+        "start": 1664.72,
+        "end": 1672.24,
+        "text": " driving and he's talking and i'm we're all talking and the Beatles uh radio station was on and it"
+    },
+    {
+        "start": 1672.24,
+        "end": 1679.1200000000001,
+        "text": " was at the time when the movie yesterday um was on and i said to my friend hey we're gonna go see"
+    },
+    {
+        "start": 1679.1200000000001,
+        "end": 1683.92,
+        "text": " this movie and you know that this move this song is in the film and we were talking and we talked"
+    },
+    {
+        "start": 1683.92,
+        "end": 1690.32,
+        "text": " all the way to we got to the the hilton and i got out and opened the door for mr davis and he goes"
+    },
+    {
+        "start": 1690.32,
+        "end": 1695.76,
+        "text": " oh you know thank you and uh get in there you Beatles found you and i got in there and then he"
+    },
+    {
+        "start": 1695.76,
+        "end": 1703.36,
+        "text": " sticks his head in and he goes i knew them and shut close the door and it was like for 10 seconds my"
+    },
+    {
+        "start": 1703.36,
+        "end": 1709.6,
+        "text": " buddy and i were just like silencing it was like and that's how you end the con that's it that's it"
+    },
+    {
+        "start": 1709.6,
+        "end": 1718.6399999999999,
+        "text": " but the uh the the last con uh i attended uh i got to spend an hour in the in the back just waiting"
+    },
+    {
+        "start": 1718.64,
+        "end": 1724.8000000000002,
+        "text": " for the the guest what what was waiting to to go to the airport got to spend an hour just having a great"
+    },
+    {
+        "start": 1725.6000000000001,
+        "end": 1734.3200000000002,
+        "text": " conversation with Sean Aston hmm just chilling out and you know he seems like just the coolest person"
+    },
+    {
+        "start": 1734.3200000000002,
+        "end": 1739.5200000000002,
+        "text": " like so nice he's a dad yeah he just it's like sitting down and talking with someone's dad"
+    },
+    {
+        "start": 1740.0,
+        "end": 1745.68,
+        "text": " and he was just and he's like yeah you know i need to need to get back on my uh i'm i i'm a"
+    },
+    {
+        "start": 1746.3200000000002,
+        "end": 1752.0,
+        "text": " treadmill and i need to get going on he just a regular guy i was just a regular guy so"
+    },
+    {
+        "start": 1752.0,
+        "end": 1757.2,
+        "text": " nicest people in the world so for people that are may not know for off the top of their head"
+    },
+    {
+        "start": 1757.2,
+        "end": 1765.1200000000001,
+        "text": " Sean Aston that is samwise gamji rudy from rudy yeah um more recently he was in stranger things"
+    },
+    {
+        "start": 1765.1200000000001,
+        "end": 1772.16,
+        "text": " uh but yeah that is that is super cool the big bang theory he was one of the uh doctors that"
+    },
+    {
+        "start": 1772.16,
+        "end": 1779.52,
+        "text": " was trying to rip off oh yeah um the nobel prize um okay i never watched much big bang theory"
+    },
+    {
+        "start": 1779.52,
+        "end": 1785.8400000000001,
+        "text": " personally but it's it's it's it's it's uh Sean Aston and he's uh he's John Aston a Gomez"
+    },
+    {
+        "start": 1785.8400000000001,
+        "end": 1793.76,
+        "text": " Adams from the tv show the Adams family right son and patty duke okay he's got for the older"
+    },
+    {
+        "start": 1793.76,
+        "end": 1801.44,
+        "text": " people that's not that's not a way that yeah that is that's a good good resume there"
+    },
+    {
+        "start": 1801.44,
+        "end": 1807.1200000000001,
+        "text": " Yeah, for sure. Yeah. So Philip and your line of work you see the the general excitement for these"
+    },
+    {
+        "start": 1807.44,
+        "end": 1814.16,
+        "text": " Shares and books and the community that comes with it. So do you think the community you see will show out at anime fest this weekend?"
+    },
+    {
+        "start": 1814.16,
+        "end": 1818.0,
+        "text": " Oh, yeah, they always will yeah, they ask me going I'm like, no, cool man"
+    },
+    {
+        "start": 1819.1200000000001,
+        "end": 1824.64,
+        "text": " And so I'm stuck at the store. So it's a big it's a big deal at the store for you guys"
+    },
+    {
+        "start": 1825.3600000000001,
+        "end": 1830.24,
+        "text": " So I mean, we're stocked up on like new manga and stuff like that and um the creator"
+    },
+    {
+        "start": 1830.4,
+        "end": 1836.0,
+        "text": " I just got in I'm excited to dive into it myself the creator full amount of alchemists. He has they have a new manga"
+    },
+    {
+        "start": 1836.96,
+        "end": 1838.64,
+        "text": " I'm gonna dive into"
+    },
+    {
+        "start": 1838.64,
+        "end": 1840.64,
+        "text": " Sometimes this week when I have a breather"
+    },
+    {
+        "start": 1842.56,
+        "end": 1844.56,
+        "text": " If I don't sell out so"
+    },
+    {
+        "start": 1844.96,
+        "end": 1849.04,
+        "text": " Right again, Ken. Ken. What is that can you say the name? What's the name of it? I can't remember the name"
+    },
+    {
+        "start": 1850.64,
+        "end": 1854.64,
+        "text": " Well, why you why you look that up? I know I look. I'm here. I'm here to tell them"
+    },
+    {
+        "start": 1855.1200000000001,
+        "end": 1857.28,
+        "text": " I'm planning on I told Philip"
+    },
+    {
+        "start": 1857.44,
+        "end": 1862.8799999999999,
+        "text": " I mean like I said I'm a huge Gundam fan and he's got this gun this that's behind his count"
+    },
+    {
+        "start": 1862.8799999999999,
+        "end": 1869.6,
+        "text": " I'm like, bro, I've got to get that and so you know why so before the anime fest gets here for all these folks come here"
+    },
+    {
+        "start": 1869.6,
+        "end": 1874.3999999999999,
+        "text": " And they make their way to offbeat so look there a local spot before they come and make their way to offbeat"
+    },
+    {
+        "start": 1874.6399999999999,
+        "end": 1880.48,
+        "text": " I got to make sure to get that before you got to beat them to it. Yeah, somebody's gonna get there before I do"
+    },
+    {
+        "start": 1881.2,
+        "end": 1886.0,
+        "text": " It's funny. So for people that don't know Gundam or Gunpla is basically like these snap on model kids"
+    },
+    {
+        "start": 1886.32,
+        "end": 1888.32,
+        "text": " They're from Japan. Correct and"
+    },
+    {
+        "start": 1888.72,
+        "end": 1891.92,
+        "text": " There's no glue required for these model kids and once you fully put together"
+    },
+    {
+        "start": 1891.92,
+        "end": 1894.48,
+        "text": " There's a fully plausible figure and everything"
+    },
+    {
+        "start": 1894.88,
+        "end": 1899.12,
+        "text": " So they come in different grades. There's like SD, which is super-deformed like"
+    },
+    {
+        "start": 1899.6,
+        "end": 1900.56,
+        "text": " Cheebie Q"
+    },
+    {
+        "start": 1900.72,
+        "end": 1905.36,
+        "text": " The mode then there's like a high grade then there's a master grade"
+    },
+    {
+        "start": 1905.6,
+        "end": 1910.96,
+        "text": " That's about those about eight inches then it goes to perfect grade and perfect grade you're building like an inner skeleton"
+    },
+    {
+        "start": 1911.28,
+        "end": 1915.2,
+        "text": " And then sometimes they come with like LED lights that you put into that skeleton"
+    },
+    {
+        "start": 1915.28,
+        "end": 1920.0800000000002,
+        "text": " Then you put the armor around it. I had a customer that came in and just random out the blue"
+    },
+    {
+        "start": 1920.0800000000002,
+        "end": 1924.96,
+        "text": " He walked in he said is that a model? I said yeah, he said I'm gonna get that I said sir. This is like"
+    },
+    {
+        "start": 1925.3600000000001,
+        "end": 1927.04,
+        "text": " $300 are you in this for yourself?"
+    },
+    {
+        "start": 1927.44,
+        "end": 1931.76,
+        "text": " Because I didn't want him like just to waste money, right? And so he was like no getting it from my son. I say"
+    },
+    {
+        "start": 1932.88,
+        "end": 1937.1200000000001,
+        "text": " Are you sure he's like no my son puts get a legos all the time and I say it's our this is a little bit more"
+    },
+    {
+        "start": 1938.0800000000002,
+        "end": 1944.32,
+        "text": " He said well, he puts get a legos in like 30 minutes and I'm like are you talking about like big kids? He's like yeah, I'm talking about like"
+    },
+    {
+        "start": 1945.12,
+        "end": 1947.12,
+        "text": " Star Destroyer type stuff"
+    },
+    {
+        "start": 1947.12,
+        "end": 1954.1599999999999,
+        "text": " I'm in like an hour to and I'm like okay, then he buys this perfect grade RX 78, which is like the main Gundam"
+    },
+    {
+        "start": 1954.96,
+        "end": 1956.48,
+        "text": " Comes with LED kits"
+    },
+    {
+        "start": 1956.48,
+        "end": 1962.48,
+        "text": " He comes to me. I seem to the following week. I say hey, I had to go. He said he built that in the hour 30 minutes"
+    },
+    {
+        "start": 1963.12,
+        "end": 1967.84,
+        "text": " And I'm like that is insane. I say so he was just doubted into this"
+    },
+    {
+        "start": 1969.36,
+        "end": 1971.36,
+        "text": " so yeah, it's"
+    },
+    {
+        "start": 1971.36,
+        "end": 1978.0,
+        "text": " Hope he comes to go to the anime fest if he or you know discovers Gundam because I don't think he knows about his son knows about it"
+    },
+    {
+        "start": 1978.0,
+        "end": 1980.32,
+        "text": " But I hope you know it leads to a gateway to"
+    },
+    {
+        "start": 1980.7199999999998,
+        "end": 1984.9599999999998,
+        "text": " Discovering about these things. So with anime manga. What we fail to talk about is we are too"
+    },
+    {
+        "start": 1985.36,
+        "end": 1989.1999999999998,
+        "text": " Just like with books and comic books. There's different genres and some genres"
+    },
+    {
+        "start": 1989.1999999999998,
+        "end": 1992.6399999999999,
+        "text": " It's not just like always all about Japan and stuff like that. No, it's about"
+    },
+    {
+        "start": 1993.4399999999998,
+        "end": 1999.1999999999998,
+        "text": " Some are about sports. There's um anime manga about figure skating boxing basketball football"
+    },
+    {
+        "start": 1999.52,
+        "end": 2003.3600000000001,
+        "text": " Then you have your rom com stuff then they're shown in which stands for boy"
+    },
+    {
+        "start": 2003.44,
+        "end": 2007.2,
+        "text": " These manga's like Naruto your dragon ball Z you might hear academia"
+    },
+    {
+        "start": 2007.44,
+        "end": 2011.3600000000001,
+        "text": " Did you have your show Joe which goes into sailor moon, which is like transforming"
+    },
+    {
+        "start": 2011.92,
+        "end": 2016.48,
+        "text": " powerful girls and women and stuff to have these powers and that can save the world as well too"
+    },
+    {
+        "start": 2017.04,
+        "end": 2023.04,
+        "text": " Then you have seen in and then it goes into which is like your power Rangers type stuff and then you have"
+    },
+    {
+        "start": 2023.8400000000001,
+        "end": 2028.32,
+        "text": " What's the one I'm forgetting you get horror which Junji Eto is very popular"
+    },
+    {
+        "start": 2028.96,
+        "end": 2029.9199999999998,
+        "text": " um"
+    },
+    {
+        "start": 2029.9199999999998,
+        "end": 2031.9199999999998,
+        "text": " Tokyo go"
+    },
+    {
+        "start": 2032.3999999999999,
+        "end": 2036.8,
+        "text": " Then you have psychological thrillers like monster which is on that flick shot should definitely check that out"
+    },
+    {
+        "start": 2037.6799999999998,
+        "end": 2039.6799999999998,
+        "text": " It's really really good. It's underrated"
+    },
+    {
+        "start": 2040.1599999999999,
+        "end": 2041.36,
+        "text": " um"
+    },
+    {
+        "start": 2041.36,
+        "end": 2045.9199999999998,
+        "text": " And so it can go on and on so if there's something that you like to read as a book or as a show that you like"
+    },
+    {
+        "start": 2046.24,
+        "end": 2052.48,
+        "text": " There's a there's a manga or anime that is kind of a company that can compliment what your taste is"
+    },
+    {
+        "start": 2053.44,
+        "end": 2060.16,
+        "text": " My wife loves murder mystery is just like every modern woman in world that try to I think they're plotting to kill us and take our"
+    },
+    {
+        "start": 2061.44,
+        "end": 2067.44,
+        "text": " But anyway, there's definitely no of course and then there's other uh, there's plenty of other ones that I can't I'm"
+    },
+    {
+        "start": 2068.08,
+        "end": 2074.64,
+        "text": " My wife finds and I'm just like I didn't tell you about this how you discovering this but I don't ask any questions, but she she loves it"
+    },
+    {
+        "start": 2075.6,
+        "end": 2081.68,
+        "text": " Um, but going back to the full metal alchemist is called the new book is called demons of the shadow realm"
+    },
+    {
+        "start": 2081.8399999999997,
+        "end": 2085.2,
+        "text": " Oh, wow, so we got something so it was already three volumes in right"
+    },
+    {
+        "start": 2085.6,
+        "end": 2090.7999999999997,
+        "text": " This is from the creator of my of full metal alchemist which is a very well-known anime"
+    },
+    {
+        "start": 2091.2799999999997,
+        "end": 2094.64,
+        "text": " And you have the two brothers and how they discovered alchemist"
+    },
+    {
+        "start": 2095.12,
+        "end": 2101.3599999999997,
+        "text": " Right now. It was a great story. So the same creator has this new title. Yeah, it's basically based on magic from what I gather"
+    },
+    {
+        "start": 2101.3599999999997,
+        "end": 2103.12,
+        "text": " So it's more magic based in um"
+    },
+    {
+        "start": 2104.0,
+        "end": 2106.3199999999997,
+        "text": " With the arcane arts and everything. It's right. Yeah"
+    },
+    {
+        "start": 2106.8799999999997,
+        "end": 2111.12,
+        "text": " Uh, you know, you mentioned sports based anime if I my my buddy will"
+    },
+    {
+        "start": 2111.44,
+        "end": 2113.6,
+        "text": " Will hate me if I don't shout out hi cue"
+    },
+    {
+        "start": 2114.4,
+        "end": 2116.4,
+        "text": " For all of us. Yeah"
+    },
+    {
+        "start": 2118.7999999999997,
+        "end": 2123.04,
+        "text": " How cute is really good. It's really good. My favorite is a hard to make no epo"
+    },
+    {
+        "start": 2124.08,
+        "end": 2126.72,
+        "text": " Big box big box and yeah, okay cool cool"
+    },
+    {
+        "start": 2126.7999999999997,
+        "end": 2134.3199999999997,
+        "text": " Now we mentioned a lot of like Gundams and stuff and uh, anime fest are they're gonna be like vendors selling Gundams manga"
+    },
+    {
+        "start": 2135.1200000000003,
+        "end": 2142.88,
+        "text": " Or manga however you say it uh, there will be several okay, and there's uh, they'll have if you like banners if you like"
+    },
+    {
+        "start": 2143.44,
+        "end": 2145.28,
+        "text": " Funko pops"
+    },
+    {
+        "start": 2145.28,
+        "end": 2147.28,
+        "text": " models"
+    },
+    {
+        "start": 2147.84,
+        "end": 2149.6800000000003,
+        "text": " Uh, one uh went to one"
+    },
+    {
+        "start": 2150.0800000000004,
+        "end": 2155.04,
+        "text": " What one kind and the guy was had printed a 3d print this part of every day tech"
+    },
+    {
+        "start": 2156.0,
+        "end": 2158.0,
+        "text": " 3d 3d printed"
+    },
+    {
+        "start": 2159.04,
+        "end": 2161.6000000000004,
+        "text": " Characters oh, oh, I bought a"
+    },
+    {
+        "start": 2162.08,
+        "end": 2163.6,
+        "text": " um"
+    },
+    {
+        "start": 2163.68,
+        "end": 2168.24,
+        "text": " For for my dad my dad's favorite monster is the creature from the black lagoon"
+    },
+    {
+        "start": 2169.2799999999997,
+        "end": 2178.0,
+        "text": " And I'm about one he went home and printed that out and brought it back as it was I wanted a little bit larger one than the one he had but they they have"
+    },
+    {
+        "start": 2180.7999999999997,
+        "end": 2187.8399999999997,
+        "text": " What they have backpacks that have led lights on right glasses that have that led"
+    },
+    {
+        "start": 2188.7999999999997,
+        "end": 2190.7999999999997,
+        "text": " animation"
+    },
+    {
+        "start": 2191.44,
+        "end": 2193.44,
+        "text": " So really a lot of imaginative"
+    },
+    {
+        "start": 2194.2400000000002,
+        "end": 2196.96,
+        "text": " Whatever well not whatever but uh"
+    },
+    {
+        "start": 2197.6800000000003,
+        "end": 2201.6800000000003,
+        "text": " A lot of things that you would want the vendors are are they're selling"
+    },
+    {
+        "start": 2204.96,
+        "end": 2212.7200000000003,
+        "text": " Yeah, yeah, right yeah, so um, you know, we've mentioned several times that like people like to cosplay and stuff um, so what"
+    },
+    {
+        "start": 2213.84,
+        "end": 2220.4,
+        "text": " Is there anything is there gonna be some sort of contest for cosplay areas and stuff there's always"
+    },
+    {
+        "start": 2220.96,
+        "end": 2225.84,
+        "text": " Our big event on saturday is the costume contest. Oh, yeah, we have panels"
+    },
+    {
+        "start": 2226.4,
+        "end": 2231.76,
+        "text": " Kick Q&A panels with the guests until about 445 450"
+    },
+    {
+        "start": 2232.4,
+        "end": 2237.28,
+        "text": " And then five o'clock is our costume contest and that is always the big draw"
+    },
+    {
+        "start": 2237.84,
+        "end": 2240.8,
+        "text": " Yeah, and you will see some very creative"
+    },
+    {
+        "start": 2241.36,
+        "end": 2244.96,
+        "text": " costumes you'll see some there like t-shirts or"
+    },
+    {
+        "start": 2245.44,
+        "end": 2248.2400000000002,
+        "text": " And you're just having a sword all the way to"
+    },
+    {
+        "start": 2249.04,
+        "end": 2259.2,
+        "text": " Teased out eyebrows and eyelashes of makeup done perfectly. Yeah, just spot on like screen accurate costumes nice"
+    },
+    {
+        "start": 2259.2799999999997,
+        "end": 2261.6,
+        "text": " and just like you know, there was like a"
+    },
+    {
+        "start": 2262.56,
+        "end": 2267.04,
+        "text": " A big five nights at Freddy's character. I saw the movie last night. It's good"
+    },
+    {
+        "start": 2267.4399999999996,
+        "end": 2271.04,
+        "text": " Yeah, there was one care that was like like Freddy just"
+    },
+    {
+        "start": 2271.6,
+        "end": 2273.2799999999997,
+        "text": " Really that big and then there's"
+    },
+    {
+        "start": 2273.92,
+        "end": 2278.7200000000003,
+        "text": " People with like the huge sites that are like plywood that I'm always like yeah, that's great now"
+    },
+    {
+        "start": 2278.8,
+        "end": 2284.2400000000002,
+        "text": " But in two hours you're gonna be dragging that right right right right yeah, that's dedication. Yeah"
+    },
+    {
+        "start": 2284.8,
+        "end": 2288.0,
+        "text": " That it there's you'll see so many different costumes"
+    },
+    {
+        "start": 2288.4,
+        "end": 2292.1600000000003,
+        "text": " One of the best costumes I saw it wasn't at one of the cons but it was"
+    },
+    {
+        "start": 2292.96,
+        "end": 2300.7200000000003,
+        "text": " Oh, it was uh the uh the doc had a costume cut contest years ago and they this person came in he was dressed as us"
+    },
+    {
+        "start": 2301.52,
+        "end": 2306.7999999999997,
+        "text": " Next just start trade the next generation Borg. Okay, and he had moving parts"
+    },
+    {
+        "start": 2307.9199999999996,
+        "end": 2309.9199999999996,
+        "text": " And it was just like that is amazing"
+    },
+    {
+        "start": 2310.72,
+        "end": 2314.24,
+        "text": " But the people they come to our our costume cut contest"
+    },
+    {
+        "start": 2315.2799999999997,
+        "end": 2321.8399999999997,
+        "text": " They don't see their kid they don't eat at their kitchen tables because it's all beaded out. It's all fabric"
+    },
+    {
+        "start": 2322.3999999999996,
+        "end": 2330.64,
+        "text": " sewing machine is like it's con season. Yeah, so they're getting their their costumes going and it's everything from t-shirt"
+    },
+    {
+        "start": 2330.72,
+        "end": 2338.08,
+        "text": " It's just screen accurate. Yeah, and it's mature and it is amazing. It's a it's a really cool like creative outlet. Oh, yeah"
+    },
+    {
+        "start": 2338.72,
+        "end": 2340.72,
+        "text": " Yeah, absolutely, absolutely, very cool"
+    },
+    {
+        "start": 2341.3599999999997,
+        "end": 2347.6,
+        "text": " So the website also mentions like Q Q&As and panels um is that is that a charge to attend those?"
+    },
+    {
+        "start": 2348.3999999999996,
+        "end": 2350.3999999999996,
+        "text": " No, the uh the panels are are free"
+    },
+    {
+        "start": 2351.7599999999998,
+        "end": 2356.0,
+        "text": " Hopefully it's there some of the more popular ones can be standing room only"
+    },
+    {
+        "start": 2356.72,
+        "end": 2362.4,
+        "text": " Like a shunch shun as soon as I as I said said before uh he had like a thousand people at his last one"
+    },
+    {
+        "start": 2362.4,
+        "end": 2364.4,
+        "text": " So it was sitting and standing room on"
+    },
+    {
+        "start": 2365.28,
+        "end": 2368.72,
+        "text": " But no the panels are are perfectly free"
+    },
+    {
+        "start": 2369.28,
+        "end": 2372.48,
+        "text": " Stay as long as it with paid attendance you can do"
+    },
+    {
+        "start": 2373.68,
+        "end": 2378.88,
+        "text": " Everything at the at the con right right support these vendors check these panels out"
+    },
+    {
+        "start": 2379.28,
+        "end": 2384.16,
+        "text": " You know see you know, you know come do your cosplay action and enter and everything else. That's amazing"
+    },
+    {
+        "start": 2384.16,
+        "end": 2388.3999999999996,
+        "text": " I've got a cousin of mine who's an amazing cosplayer. She is awesome. She's from Jacksonville"
+    },
+    {
+        "start": 2388.64,
+        "end": 2392.3999999999996,
+        "text": " And she's like she'll put something up. I'd be like what are you gonna do now?"
+    },
+    {
+        "start": 2392.8799999999997,
+        "end": 2398.64,
+        "text": " What are you gonna do? I don't know outside she and she actually has a background in belly dancing"
+    },
+    {
+        "start": 2399.04,
+        "end": 2401.2799999999997,
+        "text": " And so she also does these very you know"
+    },
+    {
+        "start": 2402.0,
+        "end": 2408.16,
+        "text": " Very on it intricate kind of actions and I keep challenging her to do spiral from X-Men"
+    },
+    {
+        "start": 2409.04,
+        "end": 2414.08,
+        "text": " I love spiral and so she and again like she and she does she has a background of belly dancing spiral"
+    },
+    {
+        "start": 2414.3999999999996,
+        "end": 2422.72,
+        "text": " Is a six armed uh she got she carries like weapons and every arm music swords and she she does a dance and she teleports"
+    },
+    {
+        "start": 2422.72,
+        "end": 2427.04,
+        "text": " That's her mutant power right and so I said you need to sign up but you need to make a spiral"
+    },
+    {
+        "start": 2427.3599999999997,
+        "end": 2430.72,
+        "text": " What's I said you would kill and so she every time I talk to her?"
+    },
+    {
+        "start": 2430.8799999999997,
+        "end": 2433.52,
+        "text": " I'm always sending her information about spiral. I'm like you"
+    },
+    {
+        "start": 2434.72,
+        "end": 2438.96,
+        "text": " You know saying then the spiral she's got this weird hat on like a captain's hat and then like uh"
+    },
+    {
+        "start": 2439.44,
+        "end": 2441.92,
+        "text": " Like a helmet. It's like a helmet is like a helmet"
+    },
+    {
+        "start": 2441.92,
+        "end": 2446.16,
+        "text": " And then she but she's got like all these swords and I'm like this is you you would kill a spiral"
+    },
+    {
+        "start": 2446.48,
+        "end": 2451.44,
+        "text": " So it's amazing. I love seeing cosplayers. It's cool. Yeah, that's that's really cool"
+    },
+    {
+        "start": 2451.44,
+        "end": 2458.7200000000003,
+        "text": " So where can people get tickets for this? I think it tickets online and they go they're we have an exclusive ticket provider"
+    },
+    {
+        "start": 2459.12,
+        "end": 2462.88,
+        "text": " T.I.X.R. tickets will be available also at the door the day of"
+    },
+    {
+        "start": 2463.52,
+        "end": 2467.92,
+        "text": " But they do it increase the the price at the day at the event if you go to"
+    },
+    {
+        "start": 2468.88,
+        "end": 2470.2400000000002,
+        "text": " the"
+    },
+    {
+        "start": 2470.2400000000002,
+        "end": 2481.04,
+        "text": " Mississippi anime fest if you type in Mississippi anime fest you can go to the website and go to frequently ask questions and you will see a place where a link where you can go and purchase tickets"
+    },
+    {
+        "start": 2481.36,
+        "end": 2487.92,
+        "text": " Okay, what is that the website is Mississippi anime fest? Yeah, you can just type it in google and it'll it'll pop up and just"
+    },
+    {
+        "start": 2488.56,
+        "end": 2492.08,
+        "text": " Click on it and it'll tell you all that you need to know very cool very cool"
+    },
+    {
+        "start": 2492.48,
+        "end": 2497.28,
+        "text": " Now Philip what what it's some other things that you expect uh to see at the store"
+    },
+    {
+        "start": 2497.36,
+        "end": 2503.6800000000003,
+        "text": " Do you I mean like you're you're gonna see some some cosplays and some some very dedicated"
+    },
+    {
+        "start": 2504.2400000000002,
+        "end": 2509.0400000000004,
+        "text": " Fans come in that's stored during this weekend, right? Maybe maybe I just you never know"
+    },
+    {
+        "start": 2510.0800000000004,
+        "end": 2515.36,
+        "text": " Not every and a person as an anime manga is definitely in the cosplay and stuff like right"
+    },
+    {
+        "start": 2515.44,
+        "end": 2520.32,
+        "text": " You know, they'll have like you know shirt on or have a backpack or you know even crocs or something like that"
+    },
+    {
+        "start": 2520.8,
+        "end": 2525.28,
+        "text": " So I may get the casual fan may who's you know just getting into it or you know"
+    },
+    {
+        "start": 2525.36,
+        "end": 2528.2400000000002,
+        "text": " I may have super die-hards that are coming to cool off"
+    },
+    {
+        "start": 2529.2000000000003,
+        "end": 2531.2000000000003,
+        "text": " It's like a break out of costume"
+    },
+    {
+        "start": 2532.0800000000004,
+        "end": 2534.0800000000004,
+        "text": " per se so"
+    },
+    {
+        "start": 2534.0800000000004,
+        "end": 2540.5600000000004,
+        "text": " I expect you know many all garments of life of the community to come through this weekend. Yeah, absolutely"
+    },
+    {
+        "start": 2541.1200000000003,
+        "end": 2547.2000000000003,
+        "text": " Well, we we're gonna stay here instead of taking our last break. So the questions that I have for you guys so"
+    },
+    {
+        "start": 2548.0800000000004,
+        "end": 2552.7200000000003,
+        "text": " In the future like what shows or characters would you like to see represented at the come at the"
+    },
+    {
+        "start": 2553.4399999999996,
+        "end": 2557.68,
+        "text": " Anime fest, but I would like to see is a"
+    },
+    {
+        "start": 2558.3999999999996,
+        "end": 2560.3999999999996,
+        "text": " Voltron oh"
+    },
+    {
+        "start": 2563.6,
+        "end": 2569.12,
+        "text": " No, I have seen video, but I've not seen in in person of a"
+    },
+    {
+        "start": 2571.12,
+        "end": 2573.6,
+        "text": " Kid size maybe like eight years old size"
+    },
+    {
+        "start": 2574.56,
+        "end": 2580.3999999999996,
+        "text": " fully transforming Optimus Prime wow like just like Lee Nova and he can"
+    },
+    {
+        "start": 2580.64,
+        "end": 2584.32,
+        "text": " Move around and it's like oh my goodness. Yeah, I've seen a video"
+    },
+    {
+        "start": 2584.7200000000003,
+        "end": 2588.4,
+        "text": " I would like to see a full lion Voltron. Yeah"
+    },
+    {
+        "start": 2589.6,
+        "end": 2594.2400000000002,
+        "text": " Yeah, Philip what about you? What in the future would you like to see in the future?"
+    },
+    {
+        "start": 2594.32,
+        "end": 2598.88,
+        "text": " Man, whether it be like a voice actor or cosplay or anything like that as far well as"
+    },
+    {
+        "start": 2600.2400000000002,
+        "end": 2605.12,
+        "text": " As far as cosplay I would probably like to see I'm a big video game person big fighting game person"
+    },
+    {
+        "start": 2605.2000000000003,
+        "end": 2607.2000000000003,
+        "text": " Yes, the whole anime fighting game communities"
+    },
+    {
+        "start": 2607.2799999999997,
+        "end": 2614.2799999999997,
+        "text": " Well some real-time stuff like that. I wouldn't mind seeing like some some actual like you know guilty gear like maybe soulback high"
+    },
+    {
+        "start": 2614.64,
+        "end": 2616.16,
+        "text": " high-key skate"
+    },
+    {
+        "start": 2616.16,
+        "end": 2618.48,
+        "text": " cosplay maybe even chips NF or"
+    },
+    {
+        "start": 2619.2799999999997,
+        "end": 2626.64,
+        "text": " My friend gamma ray gamma ray cosplay. She did may from a guilty gear one point. I had a giant anchor that she made out of"
+    },
+    {
+        "start": 2627.52,
+        "end": 2629.3599999999997,
+        "text": " Everything so it was really cool"
+    },
+    {
+        "start": 2630.3999999999996,
+        "end": 2636.4399999999996,
+        "text": " Actually actually challenge her to do it and she stepped up to the challenge and so this big giant orange hoodie and everything"
+    },
+    {
+        "start": 2637.4,
+        "end": 2641.0,
+        "text": " Well, that's always cool. I always think it's cool to see like scorpion and sub-zero"
+    },
+    {
+        "start": 2641.88,
+        "end": 2645.08,
+        "text": " Cosplay and stuff like that because that mortal combat's like my favorite franchise"
+    },
+    {
+        "start": 2645.08,
+        "end": 2649.56,
+        "text": " That might be pretty basic, but that's my favorite video game franchise that there is. It's so cool"
+    },
+    {
+        "start": 2652.92,
+        "end": 2657.48,
+        "text": " Yeah, if I if I could see like if I can meet one person at like an anime fest"
+    },
+    {
+        "start": 2657.48,
+        "end": 2661.2400000000002,
+        "text": " I'd probably say like either Bryce Papenbrook who is in"
+    },
+    {
+        "start": 2662.04,
+        "end": 2669.3999999999996,
+        "text": " He's a character in my hero academia, but he's also the main character and blue exorcist, which is something I've been into or Dante Bosco"
+    },
+    {
+        "start": 2669.64,
+        "end": 2673.3199999999997,
+        "text": " Got you. I met them both. You've met both of them. Yeah, that's what's all my god"
+    },
+    {
+        "start": 2673.3199999999997,
+        "end": 2676.68,
+        "text": " See, I just got to meet Stephen Stephen Blum if I can meet Stephen"
+    },
+    {
+        "start": 2677.7999999999997,
+        "end": 2685.72,
+        "text": " Even better if I can meet him and both Billingsley who both of them play the voices of spike and and and jet respectively from"
+    },
+    {
+        "start": 2685.72,
+        "end": 2692.2,
+        "text": " The bebop if I can meet both of them. I'm cool and they both did voice voice overs for the last of us"
+    },
+    {
+        "start": 2693.48,
+        "end": 2696.68,
+        "text": " Yeah, I'm always talking about the last of us. Yeah"
+    },
+    {
+        "start": 2699.8799999999997,
+        "end": 2705.9599999999996,
+        "text": " So so since I've got you experts here. I have to ask the question. What is the the feeling of"
+    },
+    {
+        "start": 2707.24,
+        "end": 2713.9599999999996,
+        "text": " You know the general feeling of the the live action adaptations that Netflix has been doing recently because I you know"
+    },
+    {
+        "start": 2714.68,
+        "end": 2716.68,
+        "text": " That is very divisive"
+    },
+    {
+        "start": 2716.92,
+        "end": 2718.92,
+        "text": " This is just from my own personal curiosity"
+    },
+    {
+        "start": 2719.56,
+        "end": 2722.6,
+        "text": " We're not gonna hold you against it. Hold it against it. I haven't watched any"
+    },
+    {
+        "start": 2722.76,
+        "end": 2729.4,
+        "text": " I love watching that the breakdowns are the shows and they seem to be doing well the like the newest"
+    },
+    {
+        "start": 2729.8,
+        "end": 2735.88,
+        "text": " Airbender. Yeah, but I'm just more of I'm very classic and very"
+    },
+    {
+        "start": 2737.4,
+        "end": 2742.76,
+        "text": " Picky with with with with what I watch. Yeah, it's I'm not like all this big branch out"
+    },
+    {
+        "start": 2742.76,
+        "end": 2747.0800000000004,
+        "text": " I'm like this little bit here this little bit here and we'll like stay on that right"
+    },
+    {
+        "start": 2748.0400000000004,
+        "end": 2753.96,
+        "text": " Yeah, so for me I have no problem with the live action stuff some of it I do like"
+    },
+    {
+        "start": 2755.2400000000002,
+        "end": 2758.6800000000003,
+        "text": " The you Hock show when I'm a huge you do Hock show that's like my always on favorite anime"
+    },
+    {
+        "start": 2759.0,
+        "end": 2763.4,
+        "text": " So I watched it because I was like okay, I'm gonna give it a chance and I didn't like it"
+    },
+    {
+        "start": 2763.88,
+        "end": 2766.36,
+        "text": " But I'm not going out my way to bash it or anything"
+    },
+    {
+        "start": 2767.0800000000004,
+        "end": 2768.28,
+        "text": " so"
+    },
+    {
+        "start": 2768.28,
+        "end": 2770.28,
+        "text": " I was I have this mindset of"
+    },
+    {
+        "start": 2771.0,
+        "end": 2772.76,
+        "text": " You know, this isn't for me"
+    },
+    {
+        "start": 2773.48,
+        "end": 2778.92,
+        "text": " And this is this may get somebody else into this the exactly the anime"
+    },
+    {
+        "start": 2779.96,
+        "end": 2785.5600000000004,
+        "text": " The one piece one was a success and it was very well-paced very well adapted casted great everything"
+    },
+    {
+        "start": 2785.96,
+        "end": 2788.84,
+        "text": " The problem with the you do Hock show when I had was the the pacing"
+    },
+    {
+        "start": 2789.8,
+        "end": 2792.84,
+        "text": " Perse because it was like oh is jumping from this arc to this arc"
+    },
+    {
+        "start": 2792.84,
+        "end": 2799.0800000000004,
+        "text": " And I was like oh, it's missing some parts here, right and I feel like it was cheating like you know people who will probably appreciate it"
+    },
+    {
+        "start": 2799.72,
+        "end": 2801.96,
+        "text": " So that was the issue I had with it"
+    },
+    {
+        "start": 2801.96,
+        "end": 2807.72,
+        "text": " But like the cowboy b-bop when that was people hated it and I was just like I think this deserved a chance because"
+    },
+    {
+        "start": 2808.2799999999997,
+        "end": 2810.2799999999997,
+        "text": " We didn't get a second season"
+    },
+    {
+        "start": 2810.2799999999997,
+        "end": 2813.4,
+        "text": " So I would love to see that continue on all right, right? Well, all right"
+    },
+    {
+        "start": 2813.4,
+        "end": 2821.4,
+        "text": " That is gonna wrap us up for the day. So thanks Sabir and Clark and Philip and everyone else for tuning in if you missed any of the show"
+    },
+    {
+        "start": 2821.48,
+        "end": 2825.7999999999997,
+        "text": " Make sure you listen back to it on your favorite podcasting app or download the MPB public media app"
+    },
+    {
+        "start": 2826.1200000000003,
+        "end": 2831.4,
+        "text": " Everyday tech is brought to you by Mississippi public broadcasting think radio and generous contributions from listeners"
+    },
+    {
+        "start": 2831.6400000000003,
+        "end": 2835.96,
+        "text": " Our show today was engineered actually by Marissa Vaughan call screeners"
+    },
+    {
+        "start": 2836.36,
+        "end": 2838.36,
+        "text": " We didn't have any calls today. Sorry about that"
+    },
+    {
+        "start": 2838.36,
+        "end": 2841.0,
+        "text": " I've been your host Abraham nanny also the podcast producer"
+    },
+    {
+        "start": 2841.5600000000004,
+        "end": 2848.6800000000003,
+        "text": " Thank you for tuning in up next is dr. Jimmy Stewart with the original Southern Rimini. We'll be back next Wednesday morning at 10 right here on MPB think radio"
+    },
+    {
+        "start": 2850.2000000000003,
+        "end": 2852.84,
+        "text": " This is an MPB think radio podcast"
+    },
+    {
+        "start": 2852.84,
+        "end": 2861.56,
+        "text": " Here previous shows visit mbonline.org or download the mbb public radio app to listen on your iPhone or Android phone"
+    }
+]

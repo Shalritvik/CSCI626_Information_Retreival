@@ -1,0 +1,1577 @@
+[
+    {
+        "start": 0.0,
+        "end": 8.72,
+        "text": " TII item 506 September 14th 2021 iPhone 13 13 mini 13 pro 13 pro max Apple Watch Series 7 and more"
+    },
+    {
+        "start": 11.4,
+        "end": 19.88,
+        "text": " In this episode we talk about the September 2021 Apple event new iPhones iPads Apple watches plus some other Apple news and"
+    },
+    {
+        "start": 20.16,
+        "end": 24.240000000000002,
+        "text": " More all covered in depth starting after the intro"
+    },
+    {
+        "start": 30.16,
+        "end": 35.4,
+        "text": " Welcome to today and I thought I like it a lot today an iPhone"
+    },
+    {
+        "start": 39.6,
+        "end": 46.04,
+        "text": " My beautiful iPhone which I never have out of my hand and that I do everything with and has become an"
+    },
+    {
+        "start": 46.56,
+        "end": 48.56,
+        "text": " extension of who I am"
+    },
+    {
+        "start": 48.72,
+        "end": 55.120000000000005,
+        "text": " Today's episode is brought to you by Lipson the best podcast hosting service period sign up with promo code podcast"
+    },
+    {
+        "start": 55.120000000000005,
+        "end": 58.2,
+        "text": " 411 and get the rest of this month and all of next month free"
+    },
+    {
+        "start": 59.040000000000006,
+        "end": 64.56,
+        "text": " Welcome to the show I'm house Rob and you are listening to the today and iOS podcast first up"
+    },
+    {
+        "start": 64.56,
+        "end": 69.68,
+        "text": " I want to thank Porter from Porter's podcast. Oh and my son for sending in the music you hear in the background"
+    },
+    {
+        "start": 70.0,
+        "end": 75.52000000000001,
+        "text": " Porter said hey dad this song was recorded on an iPad pro using Garageband"
+    },
+    {
+        "start": 75.52000000000001,
+        "end": 82.2,
+        "text": " The song is called something creepy and I transferred it to your computer using air drop regards Porter"
+    },
+    {
+        "start": 82.52000000000001,
+        "end": 86.44,
+        "text": " Well, thanks Porter for the music and folks. I'll put the full song at the end of the episode"
+    },
+    {
+        "start": 87.0,
+        "end": 91.03999999999999,
+        "text": " Also want to thank Steve for sending in the artwork for this episode Steve wrote"
+    },
+    {
+        "start": 91.56,
+        "end": 95.32,
+        "text": " Hi Rob. I've been listening since your first podcast in fact"
+    },
+    {
+        "start": 95.32,
+        "end": 102.28,
+        "text": " You quoted me when Apple lowered the price for the original iPhone just a month after we all stood in line to purchase one"
+    },
+    {
+        "start": 102.28,
+        "end": 110.0,
+        "text": " I wrote the show to say I salute you Steve jobs. I'll let you guess which finger who knows we all got a refund of"
+    },
+    {
+        "start": 110.2,
+        "end": 112.2,
+        "text": " $100 shortly after"
+    },
+    {
+        "start": 112.24000000000001,
+        "end": 117.04,
+        "text": " You've served an invaluable information source for all of us over the years including Apple"
+    },
+    {
+        "start": 117.48,
+        "end": 121.48,
+        "text": " Though they may not admit it openly regards Steve redman"
+    },
+    {
+        "start": 121.48,
+        "end": 127.8,
+        "text": " Well, thanks Steve for the artwork and folks you can see the artwork in the free T.I. Up via the bonus button for episode 506"
+    },
+    {
+        "start": 128.0,
+        "end": 134.28,
+        "text": " Or at Instagram dot com slash today and iOS and also at Facebook dot com slash today and iOS"
+    },
+    {
+        "start": 135.0,
+        "end": 140.92000000000002,
+        "text": " If you have some artwork and or music you have created on your iOS device that you would like to share with the audience"
+    },
+    {
+        "start": 141.23999999999998,
+        "end": 144.88,
+        "text": " Please email to me at today and iOS at gmail dot com"
+    },
+    {
+        "start": 145.07999999999998,
+        "end": 149.56,
+        "text": " Please make sure to include which app or apps you use to create set artwork and or music"
+    },
+    {
+        "start": 150.6,
+        "end": 156.11999999999998,
+        "text": " Before we get into the Apple September 2021 event we need to cover some urgent news"
+    },
+    {
+        "start": 156.83999999999997,
+        "end": 162.83999999999997,
+        "text": " Apple just released a critical security update for iPhones iPads Apple watches and Max"
+    },
+    {
+        "start": 163.48,
+        "end": 165.64,
+        "text": " This is a release the Hounds update"
+    },
+    {
+        "start": 165.95999999999998,
+        "end": 169.79999999999998,
+        "text": " You really really want to update all your iOS devices and max"
+    },
+    {
+        "start": 170.36,
+        "end": 175.88000000000002,
+        "text": " This fixes a zero-day zero-click exploit found by researchers with citizen lab"
+    },
+    {
+        "start": 176.36,
+        "end": 178.36,
+        "text": " And it's from the NSO group out of Israel"
+    },
+    {
+        "start": 178.92000000000002,
+        "end": 184.84,
+        "text": " This exploit takes advantage of a floor in Apple's iMessage app"
+    },
+    {
+        "start": 185.08,
+        "end": 189.8,
+        "text": " Which was used to push the Pegasus spyware to an activist phone"
+    },
+    {
+        "start": 190.60000000000002,
+        "end": 195.88000000000002,
+        "text": " In short, they call it a zero-day exploit because that is how many days the companies have to fix it"
+    },
+    {
+        "start": 196.60000000000002,
+        "end": 198.60000000000002,
+        "text": " And how many days you have to install it"
+    },
+    {
+        "start": 199.4,
+        "end": 207.07999999999998,
+        "text": " So again release the Hounds for iOS 14.8 update and any updates from Apple for your iPhone"
+    },
+    {
+        "start": 207.56,
+        "end": 216.04,
+        "text": " iPads Apple watches and Max that you're seeing right now September 14th 2021 and oh by the way the servers were really"
+    },
+    {
+        "start": 216.44,
+        "end": 218.44,
+        "text": " Really slow today for these updates"
+    },
+    {
+        "start": 219.07999999999998,
+        "end": 223.32,
+        "text": " Go get Hulu on another device and watch only murders in the building while you wait"
+    },
+    {
+        "start": 223.88,
+        "end": 227.56,
+        "text": " If you have any questions on this i have links in the show notes for episode"
+    },
+    {
+        "start": 227.95999999999998,
+        "end": 232.28,
+        "text": " 506 at today in iOS.com that go over this and more detail"
+    },
+    {
+        "start": 232.84,
+        "end": 234.84,
+        "text": " Okay now"
+    },
+    {
+        "start": 234.84,
+        "end": 236.51999999999998,
+        "text": " To the main news"
+    },
+    {
+        "start": 236.51999999999998,
+        "end": 245.0,
+        "text": " The Apple events started with a two-minute video where it went from violin music playing to lots of musical instruments and singing of the song california soul"
+    },
+    {
+        "start": 245.56,
+        "end": 246.92,
+        "text": " to then"
+    },
+    {
+        "start": 246.92,
+        "end": 250.76,
+        "text": " Way too much use of drones to the point i started getting motion sick"
+    },
+    {
+        "start": 251.23999999999998,
+        "end": 259.88,
+        "text": " And then finally temko came on and did some yadda yada all is great kind of talk that he does at the beginning of these presentations for a few seconds"
+    },
+    {
+        "start": 260.2,
+        "end": 265.64,
+        "text": " And the first new thing up for apple was apple tv plus which got about two minutes of"
+    },
+    {
+        "start": 266.2,
+        "end": 272.12,
+        "text": " Presentation time they did a video showing different previews of the different shows that are coming out this fall"
+    },
+    {
+        "start": 272.12,
+        "end": 276.44,
+        "text": " This is the new shows and then new seasons for a shows that are coming back"
+    },
+    {
+        "start": 276.92,
+        "end": 280.36,
+        "text": " There's some really good looking new shows plus some good older ones returning"
+    },
+    {
+        "start": 281.0,
+        "end": 285.4,
+        "text": " foundation as one the ones i'm most looking forward to per the new shows"
+    },
+    {
+        "start": 285.96,
+        "end": 289.64,
+        "text": " You'll be seeing those rolling out here over the next couple months including some"
+    },
+    {
+        "start": 290.12,
+        "end": 292.12,
+        "text": " Starting this week this Friday"
+    },
+    {
+        "start": 292.52,
+        "end": 296.76,
+        "text": " Next up was the ipad as in the new ipad"
+    },
+    {
+        "start": 297.48,
+        "end": 299.48,
+        "text": " Melody was a person doing the overview"
+    },
+    {
+        "start": 299.88,
+        "end": 304.36,
+        "text": " And first thing she mentioned was the processor the a13 bionic to be precise"
+    },
+    {
+        "start": 305.0,
+        "end": 312.44,
+        "text": " 20% faster gpu and cpu which is three times faster than the best selling chromebook and six times faster than the best selling"
+    },
+    {
+        "start": 312.52000000000004,
+        "end": 316.6,
+        "text": " Android tablet back camera is at eight megapixels still"
+    },
+    {
+        "start": 317.16,
+        "end": 323.8,
+        "text": " Apple improved the front cameras however with the front camera going to 12 megapixels ultra wide camera with"
+    },
+    {
+        "start": 324.28000000000003,
+        "end": 326.28000000000003,
+        "text": " 122 degree field of view"
+    },
+    {
+        "start": 327.0,
+        "end": 330.36,
+        "text": " Which is great for its new support of center stage"
+    },
+    {
+        "start": 331.08000000000004,
+        "end": 336.52000000000004,
+        "text": " With center stage being supported by not just apple apps, but also zoom blue jeans web ex"
+    },
+    {
+        "start": 336.84000000000003,
+        "end": 342.68,
+        "text": " Plus you can use center stage when recording videos and apps like tiktok double-take and explain everything"
+    },
+    {
+        "start": 343.0,
+        "end": 347.32,
+        "text": " So this is a really nice addition for the new ipad per apple pencil"
+    },
+    {
+        "start": 347.56,
+        "end": 352.68,
+        "text": " It is supporting the first generation only it does work with the same smart keyboard"
+    },
+    {
+        "start": 353.0,
+        "end": 354.92,
+        "text": " It still has the home button with touch ID"
+    },
+    {
+        "start": 355.40000000000003,
+        "end": 359.88,
+        "text": " It has a 10.2 inch retina display comes in silver or space gray"
+    },
+    {
+        "start": 360.52000000000004,
+        "end": 366.84000000000003,
+        "text": " Comes with a 20 watt usbc charger, but it's still lightning port not a usbc port"
+    },
+    {
+        "start": 367.56,
+        "end": 370.44,
+        "text": " pricing starts at 3.29 with 64 gig storage"
+    },
+    {
+        "start": 371.08000000000004,
+        "end": 375.40000000000003,
+        "text": " For the regular consumer version they doubled up the storage used to be intro was 32"
+    },
+    {
+        "start": 376.36,
+        "end": 382.12,
+        "text": " Or you can get it at 2.99 for schools you can order today and we'll start shipping right away"
+    },
+    {
+        "start": 382.92,
+        "end": 390.12,
+        "text": " Back to Tim and he went from that introduction for the all new ipad to the all new ipad"
+    },
+    {
+        "start": 390.44,
+        "end": 391.56,
+        "text": " Mini"
+    },
+    {
+        "start": 391.56,
+        "end": 396.76,
+        "text": " And then Tim passed the ball to Katie to go over the specs of the new ipad mini"
+    },
+    {
+        "start": 397.24,
+        "end": 400.36,
+        "text": " The screen is new all the screen design"
+    },
+    {
+        "start": 400.92,
+        "end": 405.16,
+        "text": " Which means no more home button with touch ID moving to the top button"
+    },
+    {
+        "start": 405.64,
+        "end": 412.76,
+        "text": " With all screen design they were able to stretch the screen to 8.3 inches while leaving the case size the same"
+    },
+    {
+        "start": 413.24,
+        "end": 416.68,
+        "text": " Comes in four colors purple pink starlight and space gray"
+    },
+    {
+        "start": 417.40000000000003,
+        "end": 421.88,
+        "text": " And if you think they seem to focus on the lady folks you would be correct"
+    },
+    {
+        "start": 422.36,
+        "end": 427.08,
+        "text": " It checks in at just 0.65 pounds or 203 grams for the Wi-Fi model"
+    },
+    {
+        "start": 427.8,
+        "end": 429.8,
+        "text": " Add four grams for the cellular model"
+    },
+    {
+        "start": 430.2,
+        "end": 434.28000000000003,
+        "text": " Compared to the last ipad mini the CPU is 40% faster"
+    },
+    {
+        "start": 434.84000000000003,
+        "end": 442.2,
+        "text": " And the GPU is 80% faster per the port it is updated to the usbc port"
+    },
+    {
+        "start": 442.28,
+        "end": 447.47999999999996,
+        "text": " Which means it supports usbc accessories making it much more functional"
+    },
+    {
+        "start": 448.03999999999996,
+        "end": 453.24,
+        "text": " And with 5g support that functionality can be in more places with great connection speed"
+    },
+    {
+        "start": 454.12,
+        "end": 456.28,
+        "text": " It also has Wi-Fi 6 support"
+    },
+    {
+        "start": 456.28,
+        "end": 460.36,
+        "text": " Back camera is improved to 12 megapixels and can record 4k video"
+    },
+    {
+        "start": 460.68,
+        "end": 466.12,
+        "text": " Front camera is also 12 megapixels and is the ultra wide so it to supports center stage"
+    },
+    {
+        "start": 467.08,
+        "end": 469.08,
+        "text": " You get stereo speakers in landscape mode"
+    },
+    {
+        "start": 469.64,
+        "end": 473.4,
+        "text": " And the big update it supports second gen apple pencil"
+    },
+    {
+        "start": 474.12,
+        "end": 477.96,
+        "text": " And yes, it supports mag charging of the apple pencil second gen"
+    },
+    {
+        "start": 478.76,
+        "end": 485.79999999999995,
+        "text": " The screen is a liquid retina display 8.3 inches LED backlit multi touch display with IPS tech"
+    },
+    {
+        "start": 486.36,
+        "end": 489.4,
+        "text": " 2266 by 1488 pixels"
+    },
+    {
+        "start": 490.2,
+        "end": 494.2,
+        "text": " At 326 pixels per inch with 500 nits of brightness"
+    },
+    {
+        "start": 494.91999999999996,
+        "end": 497.71999999999997,
+        "text": " And it is a true tone display per the processor"
+    },
+    {
+        "start": 498.20000000000005,
+        "end": 504.92,
+        "text": " It is the a 15 bionic with six core CPUs and five core GPU processors"
+    },
+    {
+        "start": 505.48,
+        "end": 512.76,
+        "text": " With a 16 core neural engine it comes with a 20 watt usbc charger and it is again a usbc port"
+    },
+    {
+        "start": 513.4,
+        "end": 521.24,
+        "text": " Pricing on this not 299 or 329 but rather pricing starts at 499 for the 64 not enough gigabyte version"
+    },
+    {
+        "start": 521.8000000000001,
+        "end": 525.72,
+        "text": " And there is also a 256 just the right size gigabyte version"
+    },
+    {
+        "start": 526.12,
+        "end": 535.08,
+        "text": " For the 256 gigabyte version and Wi-Fi pricing is 649 that jumps up to 799 for the 5G version"
+    },
+    {
+        "start": 535.88,
+        "end": 539.88,
+        "text": " You can order today and delivery is Thursday the 16th for some models"
+    },
+    {
+        "start": 540.52,
+        "end": 542.52,
+        "text": " It's chipping right away"
+    },
+    {
+        "start": 542.6800000000001,
+        "end": 548.28,
+        "text": " Overall the iPad mini update was the much bigger update for her the two iPads announced"
+    },
+    {
+        "start": 548.6800000000001,
+        "end": 552.52,
+        "text": " And overall Apple spent 17 minutes talking about iPads but really"
+    },
+    {
+        "start": 553.0799999999999,
+        "end": 557.64,
+        "text": " 499 or 649 even 799 for the 5G version"
+    },
+    {
+        "start": 558.28,
+        "end": 561.0,
+        "text": " That's a pretty good deal when you consider everything you get usbc"
+    },
+    {
+        "start": 561.64,
+        "end": 563.64,
+        "text": " support for the second gen Apple pencil"
+    },
+    {
+        "start": 564.6,
+        "end": 568.04,
+        "text": " Overall it was pretty impressed with the iPad mini update"
+    },
+    {
+        "start": 568.68,
+        "end": 570.68,
+        "text": " iPad update"
+    },
+    {
+        "start": 571.88,
+        "end": 577.88,
+        "text": " Tim Cook came back to introduce the next product update and that is the new Apple Watch series 7"
+    },
+    {
+        "start": 578.1999999999999,
+        "end": 580.1999999999999,
+        "text": " Which he then handed off to Jeff"
+    },
+    {
+        "start": 580.6,
+        "end": 588.6,
+        "text": " Tim did a lot of handing off video for the series 7 intro shows it getting hit with a rock or rocks when a person is"
+    },
+    {
+        "start": 588.6,
+        "end": 596.0400000000001,
+        "text": " crashing on a bike Apple is claiming the screen is more crack resistant and that screen is 20% bigger"
+    },
+    {
+        "start": 596.5200000000001,
+        "end": 598.6800000000001,
+        "text": " But the same basic size for the case"
+    },
+    {
+        "start": 599.4000000000001,
+        "end": 607.1600000000001,
+        "text": " This play is 70% brighter and Apple even showed off a full keyboard on the Apple Watch screen for typing messages"
+    },
+    {
+        "start": 607.6400000000001,
+        "end": 609.6400000000001,
+        "text": " Apple did not show"
+    },
+    {
+        "start": 609.8,
+        "end": 615.56,
+        "text": " The files that you would need to file down your fingers tips to get them so you could actually use"
+    },
+    {
+        "start": 616.36,
+        "end": 618.36,
+        "text": " That maybe a meat grinder or something like that"
+    },
+    {
+        "start": 619.08,
+        "end": 620.76,
+        "text": " That said"
+    },
+    {
+        "start": 620.76,
+        "end": 622.76,
+        "text": " We'll be interesting to see how that works"
+    },
+    {
+        "start": 623.48,
+        "end": 629.4,
+        "text": " I have hard enough time putting in my 4 digit code on the numeric keypad that they have up there"
+    },
+    {
+        "start": 629.4,
+        "end": 636.28,
+        "text": " And that's just 12 characters on the screen over 12 buttons now you want me to type on a qwerty keyboard on that screen"
+    },
+    {
+        "start": 637.0799999999999,
+        "end": 640.68,
+        "text": " Um yeah, good luck with that. I could see some entrepreneur soul"
+    },
+    {
+        "start": 641.24,
+        "end": 646.68,
+        "text": " Coming up with a little finger condoms with a small part of the tip of the finger condom missing"
+    },
+    {
+        "start": 647.24,
+        "end": 650.92,
+        "text": " So that only a little bit of your finger is available to tap on the screen"
+    },
+    {
+        "start": 651.4,
+        "end": 654.12,
+        "text": " Just for using the keyboard or again"
+    },
+    {
+        "start": 654.68,
+        "end": 657.64,
+        "text": " You could use a file or a grinder or a"
+    },
+    {
+        "start": 658.28,
+        "end": 662.6,
+        "text": " A dreamt tool to get your fingers down to a little point. It sounds painful"
+    },
+    {
+        "start": 663.08,
+        "end": 668.12,
+        "text": " The series seven is swim proof again per colors the aluminum comes in five different options"
+    },
+    {
+        "start": 668.6,
+        "end": 675.0,
+        "text": " Midnight starlight green blue and product red midnight is black and starlight appears to be more silver"
+    },
+    {
+        "start": 675.8000000000001,
+        "end": 677.8000000000001,
+        "text": " For the stainless steel version"
+    },
+    {
+        "start": 677.8000000000001,
+        "end": 681.32,
+        "text": " It will be available in graphite gold and stainless steel"
+    },
+    {
+        "start": 682.0400000000001,
+        "end": 686.12,
+        "text": " And for titanium you have the options of natural and space black"
+    },
+    {
+        "start": 686.84,
+        "end": 688.84,
+        "text": " Plus lots of new bands"
+    },
+    {
+        "start": 688.9200000000001,
+        "end": 696.12,
+        "text": " Some lower price some not so much and yes series seven works with all the older bands. Thank you apple"
+    },
+    {
+        "start": 696.76,
+        "end": 702.2800000000001,
+        "text": " Apple is claiming the new series seven charges 33% faster with the new charging"
+    },
+    {
+        "start": 702.76,
+        "end": 708.44,
+        "text": " Daptor they send with it and with just 45 minutes needed to charge it from zero to 80 percent"
+    },
+    {
+        "start": 708.6800000000001,
+        "end": 714.76,
+        "text": " The Apple Watch family is now the following Apple Watch series three starting at 199 apple watch s e starting at"
+    },
+    {
+        "start": 714.76,
+        "end": 718.76,
+        "text": " 279 and the apple watch series seven starting at 399"
+    },
+    {
+        "start": 719.4,
+        "end": 722.76,
+        "text": " The series seven will be available to order later this fall"
+    },
+    {
+        "start": 723.64,
+        "end": 728.52,
+        "text": " No specific dates given both fall means sometime after the end of September"
+    },
+    {
+        "start": 729.24,
+        "end": 732.84,
+        "text": " Overall apple spent nine minutes on the apple watch series"
+    },
+    {
+        "start": 733.8,
+        "end": 736.92,
+        "text": " Apple next went to apple fitness plus"
+    },
+    {
+        "start": 737.64,
+        "end": 743.48,
+        "text": " Which they said currently is available in six countries australia, Canada, Ireland, New Zealand, UK and the US"
+    },
+    {
+        "start": 744.44,
+        "end": 749.48,
+        "text": " But we'll be expanding to additional 15 more countries this fall which are"
+    },
+    {
+        "start": 750.04,
+        "end": 757.32,
+        "text": " Austria, Brazil, Colombia, France, Germany, Indonesia, Italy, Malaysia, Mexico, Portugal, Russia, Saudi Arabia, Spain, Switzerland and the UAE"
+    },
+    {
+        "start": 757.88,
+        "end": 761.32,
+        "text": " Bringing fitness plus to 21 countries in total by the end of this fall"
+    },
+    {
+        "start": 762.04,
+        "end": 765.32,
+        "text": " One new addition for fitness plus is guided meditations"
+    },
+    {
+        "start": 766.12,
+        "end": 770.04,
+        "text": " Fitness plus actually had about seven minutes of presentation time"
+    },
+    {
+        "start": 770.12,
+        "end": 774.04,
+        "text": " So I will put a good deal of time into that part of the presentation"
+    },
+    {
+        "start": 774.28,
+        "end": 777.0,
+        "text": " Tim came back to introduce the first new iPhones"
+    },
+    {
+        "start": 777.7199999999999,
+        "end": 782.36,
+        "text": " The 13 and 13 mini he then passed it over to kayan to do the heavy lifting"
+    },
+    {
+        "start": 783.0,
+        "end": 790.76,
+        "text": " First up the 13s will have two cameras but in a diagonal orientation rather than the vertical orientation that the 12 set"
+    },
+    {
+        "start": 791.64,
+        "end": 798.8399999999999,
+        "text": " The 13s will be IP68 water resistant and come in five colors product red starlight midnight blue and pink"
+    },
+    {
+        "start": 799.64,
+        "end": 805.32,
+        "text": " The screens will be 5.4 and 6.1 inches and are super retina xdrule displays"
+    },
+    {
+        "start": 806.2,
+        "end": 812.36,
+        "text": " For the mini its resolution is 2340 by 1080 at 476 pixels per inch"
+    },
+    {
+        "start": 813.1600000000001,
+        "end": 819.5600000000001,
+        "text": " And the 13 its resolution is 2532 by 1170 at 460 pixels per inch"
+    },
+    {
+        "start": 820.2,
+        "end": 827.48,
+        "text": " Below that display is an a 15-bionic chip with a six-core CPU to high performance scores for being efficient"
+    },
+    {
+        "start": 828.2,
+        "end": 834.84,
+        "text": " And a four-core CPU and 16 core neural engine and twice the system cache versus the 12"
+    },
+    {
+        "start": 835.48,
+        "end": 839.24,
+        "text": " There's a 30% boost in performance versus the 12 according to Apple"
+    },
+    {
+        "start": 839.88,
+        "end": 846.28,
+        "text": " Per the cameras there is a new wide camera with a bigger sensor with sensor shift OIS"
+    },
+    {
+        "start": 847.08,
+        "end": 849.08,
+        "text": " That's optical image stabilization"
+    },
+    {
+        "start": 849.8000000000001,
+        "end": 854.52,
+        "text": " There is a 2x optical zoom out and a digital zoom up to 5x"
+    },
+    {
+        "start": 855.4,
+        "end": 860.4399999999999,
+        "text": " On the video side there is a new offering cinematic mode where it can change"
+    },
+    {
+        "start": 860.92,
+        "end": 863.0799999999999,
+        "text": " Focus from one object to another"
+    },
+    {
+        "start": 863.8,
+        "end": 868.4399999999999,
+        "text": " With AI even helping with that for example someone you are focused on"
+    },
+    {
+        "start": 869.16,
+        "end": 871.8,
+        "text": " Turns their head to look at something in the background"
+    },
+    {
+        "start": 872.52,
+        "end": 877.56,
+        "text": " And it will automatically change the focus to the item in the background that person's looking at"
+    },
+    {
+        "start": 878.1999999999999,
+        "end": 882.84,
+        "text": " Say hello to the newest most overused feature for Christmas videos in 2021"
+    },
+    {
+        "start": 883.4,
+        "end": 890.76,
+        "text": " 5G was improved to include more bands on carriers will now be supported on 200 carriers in over 60 countries"
+    },
+    {
+        "start": 891.4,
+        "end": 893.4,
+        "text": " And battery life is getting better"
+    },
+    {
+        "start": 893.8000000000001,
+        "end": 896.0400000000001,
+        "text": " For the 13 mini it will improve"
+    },
+    {
+        "start": 896.76,
+        "end": 903.64,
+        "text": " One and a half hours versus the 12 mini and for the 13 it will improve two and a half hours versus the 12"
+    },
+    {
+        "start": 904.2800000000001,
+        "end": 907.24,
+        "text": " Those are both significant jumps in battery life improvements"
+    },
+    {
+        "start": 907.88,
+        "end": 912.52,
+        "text": " Storage options are now 128 to 56 and 512 gigabytes"
+    },
+    {
+        "start": 913.1600000000001,
+        "end": 917.1600000000001,
+        "text": " Pricing will start at 699 for the mini and 799 for the 13"
+    },
+    {
+        "start": 917.96,
+        "end": 925.32,
+        "text": " Orders will start early this Friday the 17th at 8 a.m. Eastern time with devices being delivered on Friday the 24th"
+    },
+    {
+        "start": 925.8000000000001,
+        "end": 931.88,
+        "text": " Tim came back to introduce the pro series iPhones the iPhone 13 pro and the iPhone 13 pro max"
+    },
+    {
+        "start": 932.9200000000001,
+        "end": 936.2,
+        "text": " No surprises with any names anywhere in this presentation"
+    },
+    {
+        "start": 936.76,
+        "end": 939.1600000000001,
+        "text": " He then passed off to jaws for the actual work"
+    },
+    {
+        "start": 939.7199999999999,
+        "end": 945.0,
+        "text": " First up there will be four colors graphite gold silver and Sierra blue"
+    },
+    {
+        "start": 945.16,
+        "end": 948.68,
+        "text": " Sierra blue looks really nice thing. I'm gonna go with Sierra blue the screen size"
+    },
+    {
+        "start": 948.8399999999999,
+        "end": 951.7199999999999,
+        "text": " This will be 6.1 inches and 6.7 inches"
+    },
+    {
+        "start": 952.36,
+        "end": 960.68,
+        "text": " They are super retina XDR displays with pro motion with the display dynamically changing between 10 and 120 hertz as needed"
+    },
+    {
+        "start": 961.0,
+        "end": 963.0,
+        "text": " The pro has resolution of"
+    },
+    {
+        "start": 963.16,
+        "end": 968.28,
+        "text": " 2532 by 1170 pixels at 460 ppi the max resolution"
+    },
+    {
+        "start": 969.0,
+        "end": 974.12,
+        "text": " Is 2778 by 1284 pixels at 458 pixels per inch"
+    },
+    {
+        "start": 975.16,
+        "end": 981.4,
+        "text": " 1200 knits for the display and HDR 1000 knits for the display and typical regular mode"
+    },
+    {
+        "start": 981.9599999999999,
+        "end": 985.72,
+        "text": " Now I do want to say this the 120 hertz is a big thing that apples touting"
+    },
+    {
+        "start": 986.04,
+        "end": 990.1999999999999,
+        "text": " It's nice that this is finally here, but it took a really long time. This should have been here last year"
+    },
+    {
+        "start": 990.4399999999999,
+        "end": 991.3199999999999,
+        "text": " Sorry"
+    },
+    {
+        "start": 991.3199999999999,
+        "end": 998.26,
+        "text": " This 120 hertz refresh. I mean you can find 400 500 dollar Android phones with 120 hertz refresh just saying"
+    },
+    {
+        "start": 998.6,
+        "end": 1006.68,
+        "text": " Below display is the a15 bionic with a 6 core CPU and 5 core GPU and 16 core neural engine"
+    },
+    {
+        "start": 1007.0,
+        "end": 1013.4,
+        "text": " There is a whole new camera system with again three cameras overall 2.2 times better low light performance"
+    },
+    {
+        "start": 1014.1999999999999,
+        "end": 1023.0799999999999,
+        "text": " A 6x optical zoom range that is 3x optical zoom in and 2x optical zoom out with digital zoom up to 15x"
+    },
+    {
+        "start": 1024.04,
+        "end": 1029.32,
+        "text": " The macro photography was something apple emphasized with a focal point as close as two centimeters"
+    },
+    {
+        "start": 1030.1200000000001,
+        "end": 1035.0,
+        "text": " Guess some can now do even closer private part picks for this joy"
+    },
+    {
+        "start": 1035.64,
+        "end": 1037.48,
+        "text": " For video recording"
+    },
+    {
+        "start": 1037.56,
+        "end": 1047.8,
+        "text": " You can now change the bokeh effect after the fact HDR video recording up to 60 frames per second digital zoom up to 9x for video recording"
+    },
+    {
+        "start": 1048.44,
+        "end": 1050.6000000000001,
+        "text": " Here's the key change here"
+    },
+    {
+        "start": 1050.6,
+        "end": 1059.8,
+        "text": " Battery life for the 13 pro is 1 and a half hours better than the 12 pro and 2 and a half hours better for the 13 pro max versus the 12 pro max"
+    },
+    {
+        "start": 1060.6,
+        "end": 1064.6,
+        "text": " offering now the best battery life of any iPhone ever"
+    },
+    {
+        "start": 1065.0,
+        "end": 1070.4399999999998,
+        "text": " So if you now want the iPhone with the best battery life in the current portfolio"
+    },
+    {
+        "start": 1070.52,
+        "end": 1078.1999999999998,
+        "text": " It is without a doubt the iPhone 13 pro max pricing starts at 999 for the pro and 1099 for the pro max"
+    },
+    {
+        "start": 1078.3600000000001,
+        "end": 1083.0800000000002,
+        "text": " Storage options are 128 not enough gigabytes 256. Oh, it's okay"
+    },
+    {
+        "start": 1083.64,
+        "end": 1088.92,
+        "text": " 512 that seems about right gigabytes and a new one terabyte because well"
+    },
+    {
+        "start": 1089.0,
+        "end": 1096.1200000000001,
+        "text": " You've got the money to blow version you can preorder on Friday the 17th at 8 a.m. Eastern time with delivery starting on the 24th"
+    },
+    {
+        "start": 1096.28,
+        "end": 1104.2,
+        "text": " If you're lucky enough to get in early if you have an iPhone 12 pro series the upgrade to the 13 pro series is very very minimal"
+    },
+    {
+        "start": 1104.52,
+        "end": 1110.8400000000001,
+        "text": " If you have an iPhone 11 pro series it is a bigger upgrade and if you have a 10 series or"
+    },
+    {
+        "start": 1111.32,
+        "end": 1112.76,
+        "text": " 10th S max"
+    },
+    {
+        "start": 1112.76,
+        "end": 1116.04,
+        "text": " Yeah, then it's really a big nice upgrade"
+    },
+    {
+        "start": 1116.8400000000001,
+        "end": 1122.2,
+        "text": " I could not recommend those with a 12 pro to upgrade. I mean really between the 12 and 13s"
+    },
+    {
+        "start": 1123.16,
+        "end": 1125.88,
+        "text": " And for those with 11 pro series"
+    },
+    {
+        "start": 1126.1200000000001,
+        "end": 1131.4,
+        "text": " Maybe you should upgrade this year if all is well maybe should wait a year if all's working well"
+    },
+    {
+        "start": 1132.0400000000002,
+        "end": 1136.2800000000002,
+        "text": " Maybe wait another year if you're feeling I'm running out of space the storage"
+    },
+    {
+        "start": 1136.44,
+        "end": 1139.64,
+        "text": " You maybe it's a little chipped up. Maybe then you looked up great this year"
+    },
+    {
+        "start": 1140.3600000000001,
+        "end": 1142.76,
+        "text": " If you have an iPhone 10s max"
+    },
+    {
+        "start": 1142.76,
+        "end": 1146.1200000000001,
+        "text": " Yeah, for that group of folks it's a no brain or top grade"
+    },
+    {
+        "start": 1146.76,
+        "end": 1149.88,
+        "text": " Overall the iPhones had 38 minutes of presentation time"
+    },
+    {
+        "start": 1150.44,
+        "end": 1161.0800000000002,
+        "text": " Tim came back for a quick two-minute recap for the entire iPhone line pricing starts now at 399 for the SE 499 for the iPhone 11 599 for the 12"
+    },
+    {
+        "start": 1161.64,
+        "end": 1164.92,
+        "text": " 699 for the 13 999 for the 13 pro"
+    },
+    {
+        "start": 1165.64,
+        "end": 1169.3200000000002,
+        "text": " It looks like for now Apple is keeping both the 11 and 12 lines"
+    },
+    {
+        "start": 1169.88,
+        "end": 1172.2,
+        "text": " All iPhones remain with the lightning port"
+    },
+    {
+        "start": 1172.8400000000001,
+        "end": 1176.2,
+        "text": " Only the iPad mini changed from lightning to usbc in this event"
+    },
+    {
+        "start": 1176.92,
+        "end": 1179.24,
+        "text": " The whole presentation was 78 minutes long"
+    },
+    {
+        "start": 1179.5600000000002,
+        "end": 1182.92,
+        "text": " iPhones had 38 of those minutes that's 49% of the time"
+    },
+    {
+        "start": 1183.48,
+        "end": 1189.24,
+        "text": " iPads had 17 minutes that's 22% of the time Apple watch had 9 minutes that's 12% of the time"
+    },
+    {
+        "start": 1189.72,
+        "end": 1192.28,
+        "text": " Apple fitness plus had 7 minutes that's 9% of the time"
+    },
+    {
+        "start": 1192.92,
+        "end": 1194.6,
+        "text": " Apple TV at two minutes"
+    },
+    {
+        "start": 1194.6,
+        "end": 1196.76,
+        "text": " The intro and wrap-up was five minutes"
+    },
+    {
+        "start": 1197.32,
+        "end": 1200.76,
+        "text": " That's how this presentation broke out. We'll see how that compares next year"
+    },
+    {
+        "start": 1201.72,
+        "end": 1205.88,
+        "text": " One thing not mentioned in the presentation or on the apple side or anything else I can find afterwards"
+    },
+    {
+        "start": 1206.52,
+        "end": 1214.68,
+        "text": " Is if the iPhone 13 pro max will support the Apple pencil now that does 120 refresh which it does not look like it will support the"
+    },
+    {
+        "start": 1214.92,
+        "end": 1215.88,
+        "text": " Apple pencil"
+    },
+    {
+        "start": 1215.88,
+        "end": 1219.0800000000002,
+        "text": " It sure would have been nice though on the iPhone 13 pro max"
+    },
+    {
+        "start": 1219.64,
+        "end": 1224.8400000000001,
+        "text": " For Apple to give support for the Apple pencil would have been nice nice little gesture something"
+    },
+    {
+        "start": 1225.64,
+        "end": 1232.8400000000001,
+        "text": " Because overall when you look at where we went for our from the 12 series to the 13 series and again 49% of time was about the iPhones"
+    },
+    {
+        "start": 1233.3200000000002,
+        "end": 1238.5200000000002,
+        "text": " When you look at where we went to and where we are now overall you have to say it was a"
+    },
+    {
+        "start": 1239.4,
+        "end": 1241.64,
+        "text": " Update um you know fan sable"
+    },
+    {
+        "start": 1241.64,
+        "end": 1247.0800000000002,
+        "text": " But there's not something you go. Oh, I have to get rid of my iPhone 12 and move to a 13"
+    },
+    {
+        "start": 1247.0800000000002,
+        "end": 1249.16,
+        "text": " I didn't see one compelling feature on my effect"
+    },
+    {
+        "start": 1249.88,
+        "end": 1255.72,
+        "text": " iPhone 11 owners are gonna be really hard pressed to convince themselves to upgrade to the iPhone 13"
+    },
+    {
+        "start": 1256.8400000000001,
+        "end": 1259.24,
+        "text": " iPhone 10 series 10 s series"
+    },
+    {
+        "start": 1259.3200000000002,
+        "end": 1264.1200000000001,
+        "text": " Absolutely no brainer move on up. Let me know your thoughts. What were your favorite new features?"
+    },
+    {
+        "start": 1264.68,
+        "end": 1269.72,
+        "text": " Did you think it was mad? Did you think it was exciting? Give us a call 206 moon dog. That's 206"
+    },
+    {
+        "start": 1269.72,
+        "end": 1273.08,
+        "text": " 666 6364. That's 206 moon dog"
+    },
+    {
+        "start": 1274.1200000000001,
+        "end": 1277.0,
+        "text": " Or shoot us an email today in iOS at gmail.com"
+    },
+    {
+        "start": 1277.16,
+        "end": 1283.72,
+        "text": " Love to hear your feedback here. What you think about the app element and are you getting a new iOS device?"
+    },
+    {
+        "start": 1283.72,
+        "end": 1285.72,
+        "text": " You're getting a new iPad?"
+    },
+    {
+        "start": 1286.04,
+        "end": 1293.64,
+        "text": " iPhone what are you getting? What did you order? Let me know the version the color the storage and give us a call and"
+    },
+    {
+        "start": 1293.96,
+        "end": 1299.16,
+        "text": " Shoot us an email. Let us know all the details or if you said this is just meh. I'm gonna hold on"
+    },
+    {
+        "start": 1299.72,
+        "end": 1303.24,
+        "text": " Let me know that too. Maybe you're holding out for the new Apple watch and be like the new Apple watch"
+    },
+    {
+        "start": 1303.56,
+        "end": 1305.48,
+        "text": " It is nicer with 20% bigger screen"
+    },
+    {
+        "start": 1306.1200000000001,
+        "end": 1310.28,
+        "text": " Still don't buy that purity keyboard on night screen. I just don't see how that's gonna work"
+    },
+    {
+        "start": 1311.16,
+        "end": 1316.84,
+        "text": " This episode I want to talk to you about podcast hosting. Did you know the ratio of active blogs active podcast is over"
+    },
+    {
+        "start": 1317.08,
+        "end": 1320.68,
+        "text": " 2500 to one if you understand out from the crowd podcasting is the best way"
+    },
+    {
+        "start": 1321.16,
+        "end": 1326.44,
+        "text": " There's more time in the day for people to listen to podcasts then for them to read blogs or watch videos"
+    },
+    {
+        "start": 1327.0800000000002,
+        "end": 1329.3200000000002,
+        "text": " This allows you to get out in front of your audience"
+    },
+    {
+        "start": 1329.88,
+        "end": 1333.8,
+        "text": " When they're driving in the car walking the dog working out or even working"
+    },
+    {
+        "start": 1334.3600000000001,
+        "end": 1340.8400000000001,
+        "text": " podcasting will help differentiate you from your fellow co-workers and help if you want to speak at virtual conferences and events"
+    },
+    {
+        "start": 1341.4,
+        "end": 1344.2,
+        "text": " And in live conferences and events when those come back in the future"
+    },
+    {
+        "start": 1344.8400000000001,
+        "end": 1347.56,
+        "text": " Plus podcasting is fun. It's something I've been doing now for"
+    },
+    {
+        "start": 1348.28,
+        "end": 1351.96,
+        "text": " Almost 17 years. I have said it for over 16 years now"
+    },
+    {
+        "start": 1352.3600000000001,
+        "end": 1356.68,
+        "text": " The best place to host a podcast absolutely positively is lipson"
+    },
+    {
+        "start": 1357.0,
+        "end": 1361.64,
+        "text": " l-i-b-s-y-n if you use promo code podcast411"
+    },
+    {
+        "start": 1362.3600000000001,
+        "end": 1365.96,
+        "text": " You will get the rest of the current month free and all of the next month free"
+    },
+    {
+        "start": 1366.52,
+        "end": 1370.3600000000001,
+        "text": " Again podcast411 get the rest of this month free and all of next month free"
+    },
+    {
+        "start": 1371.0,
+        "end": 1375.64,
+        "text": " For anyone that does start a podcast on lipson if you send me a promo of your podcast"
+    },
+    {
+        "start": 1375.72,
+        "end": 1377.96,
+        "text": " I will play it on future episode of ti"
+    },
+    {
+        "start": 1378.3600000000001,
+        "end": 1385.96,
+        "text": " Lipson for those that do not know the podcasting space is the largest podcast host by number of active podcasts and active episodes and total number of downloads all time"
+    },
+    {
+        "start": 1386.44,
+        "end": 1389.4,
+        "text": " Beyond it being where I host ti in work"
+    },
+    {
+        "start": 1389.64,
+        "end": 1396.76,
+        "text": " It is where Dan Carlin, Mac OScan, Dave Ramsey, Joyce Meyer, eBay, Oracle, Google and even Microsoft host their podcast"
+    },
+    {
+        "start": 1397.56,
+        "end": 1406.2,
+        "text": " Again, just use promo code podcast411 to get the rest of this month free or the month you sign up and free and all of the following month free"
+    },
+    {
+        "start": 1406.8400000000001,
+        "end": 1408.3600000000001,
+        "text": " How do I look?"
+    },
+    {
+        "start": 1408.3600000000001,
+        "end": 1410.3600000000001,
+        "text": " Perfect as always"
+    },
+    {
+        "start": 1410.3600000000001,
+        "end": 1411.96,
+        "text": " How do I look?"
+    },
+    {
+        "start": 1411.96,
+        "end": 1413.96,
+        "text": " Nice. I think you're ready to roll"
+    },
+    {
+        "start": 1415.16,
+        "end": 1416.1200000000001,
+        "text": " And before we go today"
+    },
+    {
+        "start": 1416.1200000000001,
+        "end": 1420.76,
+        "text": " I want to remind you to send in your feedback to the show 206666664"
+    },
+    {
+        "start": 1420.76,
+        "end": 1426.04,
+        "text": " That's 206 moon dog or record your feedback and email to the show at today and IOS at gmail.com"
+    },
+    {
+        "start": 1426.76,
+        "end": 1429.88,
+        "text": " The feedback can be a question or comment about something someone said on this episode"
+    },
+    {
+        "start": 1430.6000000000001,
+        "end": 1432.3600000000001,
+        "text": " Which at today's episode would be me"
+    },
+    {
+        "start": 1433.08,
+        "end": 1435.9599999999998,
+        "text": " Or it can be a question or rant you have about something else"
+    },
+    {
+        "start": 1435.9599999999998,
+        "end": 1440.04,
+        "text": " An app or product view good or bad as long as it is iOS related it is welcomed"
+    },
+    {
+        "start": 1440.6,
+        "end": 1444.52,
+        "text": " Always looking for a new artwork to feature that you created on iOS device"
+    },
+    {
+        "start": 1444.6,
+        "end": 1448.1999999999998,
+        "text": " Just put some ti i branding on it and send it in and of course"
+    },
+    {
+        "start": 1448.1999999999998,
+        "end": 1452.12,
+        "text": " We are always looking for more music created on an iOS device to play on the show"
+    },
+    {
+        "start": 1452.4399999999998,
+        "end": 1454.84,
+        "text": " This is your show and your feedback is greatly desired"
+    },
+    {
+        "start": 1455.56,
+        "end": 1461.1599999999999,
+        "text": " Also don't forget to check out our moderated mewee community by going to today in ios.com slash community"
+    },
+    {
+        "start": 1461.5600000000002,
+        "end": 1464.2,
+        "text": " When you go there you need to request to be added"
+    },
+    {
+        "start": 1464.2,
+        "end": 1467.4,
+        "text": " I have two questions first one seems to quickly weed out the android fanboys"
+    },
+    {
+        "start": 1467.5600000000002,
+        "end": 1469.5600000000002,
+        "text": " Which is the better os ios or android"
+    },
+    {
+        "start": 1470.3600000000001,
+        "end": 1473.48,
+        "text": " And well the android fanboys can't bring themselves to say ios"
+    },
+    {
+        "start": 1474.2,
+        "end": 1477.48,
+        "text": " They say either both or android and instantly they are rejected"
+    },
+    {
+        "start": 1477.5600000000002,
+        "end": 1480.92,
+        "text": " So yeah, it is a nice safe android fanboy freezone"
+    },
+    {
+        "start": 1481.5600000000002,
+        "end": 1485.5600000000002,
+        "text": " And you can ask questions or post articles about pretty much anything apple related"
+    },
+    {
+        "start": 1486.44,
+        "end": 1490.6000000000001,
+        "text": " Quick reminder if you are an app dev or an ibook author email me if you want your ibook"
+    },
+    {
+        "start": 1490.6,
+        "end": 1494.52,
+        "text": " Or app featured on the promo giveaway segment for free"
+    },
+    {
+        "start": 1495.08,
+        "end": 1500.1999999999998,
+        "text": " Just need five promo codes or more to give away simply email me at today and ios at gmail.com"
+    },
+    {
+        "start": 1500.1999999999998,
+        "end": 1503.8799999999999,
+        "text": " And please include a 60 second or less audio review of your app or ibook"
+    },
+    {
+        "start": 1503.9599999999998,
+        "end": 1505.9599999999998,
+        "text": " Indicating you are the dev or the author"
+    },
+    {
+        "start": 1506.28,
+        "end": 1510.1999999999998,
+        "text": " Also when you send in the promo codes, please make sure to let me know when they expire"
+    },
+    {
+        "start": 1510.4399999999998,
+        "end": 1515.24,
+        "text": " And finally check out the ti app which is free to you search for ti and the ios app store"
+    },
+    {
+        "start": 1515.32,
+        "end": 1522.68,
+        "text": " It is the best way to consume the show and to get push notifications each time a new episode of today and ios is released"
+    },
+    {
+        "start": 1523.4,
+        "end": 1525.4,
+        "text": " Again ti is what you need to search for"
+    },
+    {
+        "start": 1526.36,
+        "end": 1529.96,
+        "text": " Until the next time i'm your host rob reminding you to phone"
+    },
+    {
+        "start": 1530.6,
+        "end": 1534.84,
+        "text": " Different the show is hosted on lipson.com a part of the lips and media network"
+    },
+    {
+        "start": 1534.84,
+        "end": 1539.72,
+        "text": " If you're looking for podcast hosting go to lipson.com that is lib syn.com"
+    },
+    {
+        "start": 1540.1200000000001,
+        "end": 1543.08,
+        "text": " For hosting for your podcast and creation of your own smartphone"
+    },
+    {
+        "start": 1543.56,
+        "end": 1548.6799999999998,
+        "text": " The today and ios podcast can be found everywhere you listen to podcasts that includes apple podcast"
+    },
+    {
+        "start": 1549.0,
+        "end": 1552.76,
+        "text": " Spotify pandora overcast ditcher and everywhere else you listen to audio"
+    },
+    {
+        "start": 1663.8799999999999,
+        "end": 1665.8799999999999,
+        "text": " you"
+    },
+    {
+        "start": 1669.4399999999998,
+        "end": 1671.48,
+        "text": " You"
+    },
+    {
+        "start": 1683.3999999999999,
+        "end": 1685.3999999999999,
+        "text": " You"
+    }
+]

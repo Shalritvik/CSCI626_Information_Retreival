@@ -1,0 +1,1852 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 17.28,
+        "end": 19.32,
+        "text": " Hello and welcome to Podcasting House."
+    },
+    {
+        "start": 19.32,
+        "end": 21.0,
+        "text": " And if you're with us for the first time,"
+    },
+    {
+        "start": 21.0,
+        "end": 23.28,
+        "text": " a special hello just to you."
+    },
+    {
+        "start": 23.28,
+        "end": 24.36,
+        "text": " This is what we do."
+    },
+    {
+        "start": 24.36,
+        "end": 26.32,
+        "text": " Every week we choose a couple of podcasts"
+    },
+    {
+        "start": 26.32,
+        "end": 29.96,
+        "text": " from somewhere in the vast array of BBC podcasting."
+    },
+    {
+        "start": 30.0,
+        "end": 31.28,
+        "text": " And we recommend it to you."
+    },
+    {
+        "start": 31.28,
+        "end": 34.120000000000005,
+        "text": " And if you like it, well, you can subscribe to the feed for yourself."
+    },
+    {
+        "start": 34.120000000000005,
+        "end": 35.64,
+        "text": " And with me, I have Eli."
+    },
+    {
+        "start": 35.64,
+        "end": 40.4,
+        "text": " Eli, what have you got in your magic bag of podcasting marvellousness today?"
+    },
+    {
+        "start": 40.4,
+        "end": 42.72,
+        "text": " Well, today it's the inquiry."
+    },
+    {
+        "start": 42.72,
+        "end": 45.24,
+        "text": " Or as Americans would say, the inquiry."
+    },
+    {
+        "start": 45.24,
+        "end": 47.480000000000004,
+        "text": " Yep, you're in Britain now, Eli."
+    },
+    {
+        "start": 47.480000000000004,
+        "end": 49.32,
+        "text": " So it's the inquiry."
+    },
+    {
+        "start": 49.32,
+        "end": 50.16,
+        "text": " The inquiry."
+    },
+    {
+        "start": 50.16,
+        "end": 50.760000000000005,
+        "text": " Yes."
+    },
+    {
+        "start": 50.760000000000005,
+        "end": 51.519999999999996,
+        "text": " From the BBC."
+    },
+    {
+        "start": 51.519999999999996,
+        "end": 54.92,
+        "text": " Yes, perhaps there's going to be an episode from Singapore sometime."
+    },
+    {
+        "start": 54.92,
+        "end": 56.760000000000005,
+        "text": " It's no, from the World Service."
+    },
+    {
+        "start": 56.76,
+        "end": 59.92,
+        "text": " And each episode tries to answer one question."
+    },
+    {
+        "start": 59.92,
+        "end": 62.519999999999996,
+        "text": " How powerful is Facebook's algorithm?"
+    },
+    {
+        "start": 62.519999999999996,
+        "end": 65.0,
+        "text": " What does the Saudi Crown Prince want?"
+    },
+    {
+        "start": 65.0,
+        "end": 67.12,
+        "text": " Why doesn't Apple pay more tax?"
+    },
+    {
+        "start": 67.12,
+        "end": 69.12,
+        "text": " In this episode of the inquiry,"
+    },
+    {
+        "start": 69.12,
+        "end": 70.84,
+        "text": " they're answering this question or trying to."
+    },
+    {
+        "start": 70.84,
+        "end": 73.4,
+        "text": " How did we get hooked on plastics?"
+    },
+    {
+        "start": 73.4,
+        "end": 75.52,
+        "text": " So as clickbait headlines might say,"
+    },
+    {
+        "start": 75.52,
+        "end": 76.96,
+        "text": " the answer may surprise you."
+    },
+    {
+        "start": 76.96,
+        "end": 78.0,
+        "text": " Here's the inquiry."
+    },
+    {
+        "start": 78.0,
+        "end": 79.8,
+        "text": " Welcome to the inquiry podcast"
+    },
+    {
+        "start": 79.8,
+        "end": 83.0,
+        "text": " from the BBC World Service with me, Helena Merriman."
+    },
+    {
+        "start": 83.0,
+        "end": 84.68,
+        "text": " It's good to be back."
+    },
+    {
+        "start": 84.68,
+        "end": 87.56,
+        "text": " Each week we bring you four expert witnesses"
+    },
+    {
+        "start": 87.56,
+        "end": 90.72000000000001,
+        "text": " answering one pressing question from the news."
+    },
+    {
+        "start": 90.72000000000001,
+        "end": 95.84,
+        "text": " This week, exploding billiard balls, raider and stockings."
+    },
+    {
+        "start": 95.84,
+        "end": 99.08000000000001,
+        "text": " We bring you the extraordinary story of plastic."
+    },
+    {
+        "start": 102.76,
+        "end": 104.96000000000001,
+        "text": " In January this year, Halifax,"
+    },
+    {
+        "start": 104.96000000000001,
+        "end": 108.68,
+        "text": " a town on the east coast of Canada, had a problem."
+    },
+    {
+        "start": 108.68,
+        "end": 111.32000000000001,
+        "text": " Its recycling plant was full."
+    },
+    {
+        "start": 111.32,
+        "end": 115.72,
+        "text": " Waste plastic was piling up in bins outside people's homes."
+    },
+    {
+        "start": 115.72,
+        "end": 118.16,
+        "text": " So they buried it."
+    },
+    {
+        "start": 118.16,
+        "end": 120.83999999999999,
+        "text": " 300 tons."
+    },
+    {
+        "start": 120.83999999999999,
+        "end": 123.11999999999999,
+        "text": " In Alberta, on the other side of Canada,"
+    },
+    {
+        "start": 123.11999999999999,
+        "end": 124.47999999999999,
+        "text": " the same problem."
+    },
+    {
+        "start": 124.47999999999999,
+        "end": 128.68,
+        "text": " 5,000 tons of plastic with nowhere to go."
+    },
+    {
+        "start": 128.68,
+        "end": 134.2,
+        "text": " This time, they stockpiled it in sheds, trailers and warehouses."
+    },
+    {
+        "start": 134.2,
+        "end": 137.16,
+        "text": " It's a similar story across the US and Europe."
+    },
+    {
+        "start": 137.16,
+        "end": 139.4,
+        "text": " Millions of tons of waste plastic"
+    },
+    {
+        "start": 139.4,
+        "end": 142.68,
+        "text": " sitting and recycling plants and ports."
+    },
+    {
+        "start": 142.68,
+        "end": 144.32,
+        "text": " And that's because China,"
+    },
+    {
+        "start": 144.32,
+        "end": 146.84,
+        "text": " the world's largest recycler of plastic,"
+    },
+    {
+        "start": 146.84,
+        "end": 149.24,
+        "text": " has said enough."
+    },
+    {
+        "start": 149.24,
+        "end": 153.04000000000002,
+        "text": " On January 1, it banned imports of most of the waste plastic"
+    },
+    {
+        "start": 153.04000000000002,
+        "end": 154.92000000000002,
+        "text": " that sent its way."
+    },
+    {
+        "start": 154.92000000000002,
+        "end": 157.88,
+        "text": " And now, as the plastic mountains grow,"
+    },
+    {
+        "start": 157.88,
+        "end": 162.20000000000002,
+        "text": " concerns around plastic are becoming harder to ignore."
+    },
+    {
+        "start": 162.20000000000002,
+        "end": 164.36,
+        "text": " As our current rate of consumption,"
+    },
+    {
+        "start": 164.36,
+        "end": 168.16,
+        "text": " experts predict there'll be 12 billion tons of plastic"
+    },
+    {
+        "start": 168.16,
+        "end": 172.4,
+        "text": " in landfill or in a natural environment by 2020."
+    },
+    {
+        "start": 172.4,
+        "end": 176.32,
+        "text": " And most of it will take hundreds of years to break down."
+    },
+    {
+        "start": 176.32,
+        "end": 178.76,
+        "text": " So how did we get here?"
+    },
+    {
+        "start": 178.76,
+        "end": 182.4,
+        "text": " This week, we're going to tell you a remarkable story,"
+    },
+    {
+        "start": 182.4,
+        "end": 184.32,
+        "text": " a story of a great love affair"
+    },
+    {
+        "start": 184.32,
+        "end": 187.28,
+        "text": " with a material that changed the world."
+    },
+    {
+        "start": 187.28,
+        "end": 189.6,
+        "text": " In this week's inquiry, we're asking,"
+    },
+    {
+        "start": 189.6,
+        "end": 192.0,
+        "text": " how did we get hooked on plastic?"
+    },
+    {
+        "start": 192.0,
+        "end": 196.88,
+        "text": " The Earth of Plastics"
+    },
+    {
+        "start": 196.88,
+        "end": 204.24,
+        "text": " Part 1. The Birth of Plastics"
+    },
+    {
+        "start": 204.24,
+        "end": 212.24,
+        "text": " It was a world of wood and glass and iron and cotton and wool."
+    },
+    {
+        "start": 212.24,
+        "end": 216.8,
+        "text": " That's Susan Frankel, author of a book on the history of plastics."
+    },
+    {
+        "start": 216.8,
+        "end": 220.72,
+        "text": " She's talking about an age that most of us find hard to imagine."
+    },
+    {
+        "start": 220.72,
+        "end": 223.35999999999999,
+        "text": " A world before plastic."
+    },
+    {
+        "start": 223.35999999999999,
+        "end": 226.72,
+        "text": " It was a world where the things that people wanted,"
+    },
+    {
+        "start": 226.72,
+        "end": 231.84,
+        "text": " they had to turn to the natural world to make."
+    },
+    {
+        "start": 231.84,
+        "end": 235.2,
+        "text": " And some of the most highly prized natural materials"
+    },
+    {
+        "start": 235.2,
+        "end": 237.92,
+        "text": " with those which we could mold and shape."
+    },
+    {
+        "start": 237.92,
+        "end": 241.12,
+        "text": " So if the Aztecs used rubber to make balls"
+    },
+    {
+        "start": 241.12,
+        "end": 244.72,
+        "text": " that they could play an early version of basketball with,"
+    },
+    {
+        "start": 244.72,
+        "end": 248.72,
+        "text": " the Romans used amber to make faces out of."
+    },
+    {
+        "start": 248.72,
+        "end": 254.0,
+        "text": " People used horn to make things like combs or to make cups."
+    },
+    {
+        "start": 254.0,
+        "end": 258.08,
+        "text": " And these more pliable substances have one thing in common."
+    },
+    {
+        "start": 258.08,
+        "end": 260.8,
+        "text": " They contain a compound called a polymer,"
+    },
+    {
+        "start": 260.8,
+        "end": 263.52,
+        "text": " a chemical made up of giant molecules."
+    },
+    {
+        "start": 263.52,
+        "end": 265.52,
+        "text": " Think of them as very long necklaces"
+    },
+    {
+        "start": 265.52,
+        "end": 267.52,
+        "text": " that can do a lot of different things."
+    },
+    {
+        "start": 267.52,
+        "end": 270.0,
+        "text": " They can be flexible, they can be rigid,"
+    },
+    {
+        "start": 270.0,
+        "end": 273.04,
+        "text": " they can be brushy, they can be soft."
+    },
+    {
+        "start": 273.04,
+        "end": 277.36,
+        "text": " These materials are what some call the first natural plastics."
+    },
+    {
+        "start": 277.36,
+        "end": 280.88,
+        "text": " Scientists would search the natural world looking for them,"
+    },
+    {
+        "start": 280.88,
+        "end": 284.96000000000004,
+        "text": " killing tortoises for their shells, elephants for their ivory,"
+    },
+    {
+        "start": 284.96000000000004,
+        "end": 286.72,
+        "text": " stripping wood of its cellulose,"
+    },
+    {
+        "start": 286.72,
+        "end": 289.6,
+        "text": " and using those compounds to make boxes,"
+    },
+    {
+        "start": 289.6,
+        "end": 292.8,
+        "text": " combs, piano keys and billiard balls."
+    },
+    {
+        "start": 292.8,
+        "end": 296.40000000000003,
+        "text": " But demand soon started to outstrips supply."
+    },
+    {
+        "start": 296.40000000000003,
+        "end": 299.44,
+        "text": " Sometime in the early 1860s or so,"
+    },
+    {
+        "start": 299.44,
+        "end": 304.96000000000004,
+        "text": " a billiard bar company put up an ad offering $10,000"
+    },
+    {
+        "start": 304.96,
+        "end": 310.0,
+        "text": " to any inventive genius who could come up with a substitute for ivory."
+    },
+    {
+        "start": 310.0,
+        "end": 311.52,
+        "text": " It was a lot of money."
+    },
+    {
+        "start": 311.52,
+        "end": 314.47999999999996,
+        "text": " But then this had the potential to be a huge market."
+    },
+    {
+        "start": 315.28,
+        "end": 318.96,
+        "text": " As well as billiard balls, ivory was used to make buttons,"
+    },
+    {
+        "start": 318.96,
+        "end": 320.47999999999996,
+        "text": " trays and umbrella handles."
+    },
+    {
+        "start": 321.12,
+        "end": 324.4,
+        "text": " So finding a substitute was an exciting proposition."
+    },
+    {
+        "start": 324.4,
+        "end": 330.56,
+        "text": " That ad caught the eye of a printer in New York named John Wesley Hyatt."
+    },
+    {
+        "start": 330.56,
+        "end": 332.32,
+        "text": " We thought, okay, I'm up for this challenge"
+    },
+    {
+        "start": 332.4,
+        "end": 337.36,
+        "text": " and he started experimenting, looking for something that could replace ivory."
+    },
+    {
+        "start": 337.36,
+        "end": 341.36,
+        "text": " And trial and error for a couple of years in Eureka one day,"
+    },
+    {
+        "start": 341.36,
+        "end": 346.56,
+        "text": " he finds that he's developed this kind of semi-hard material"
+    },
+    {
+        "start": 346.56,
+        "end": 350.48,
+        "text": " that was malleable but also pretty sturdy."
+    },
+    {
+        "start": 350.71999999999997,
+        "end": 354.15999999999997,
+        "text": " He called it celluloid, because it contained cellulose,"
+    },
+    {
+        "start": 354.15999999999997,
+        "end": 356.48,
+        "text": " a polymer that's found in plant cells."
+    },
+    {
+        "start": 356.48,
+        "end": 358.71999999999997,
+        "text": " It was a pretty phenomenal material."
+    },
+    {
+        "start": 358.71999999999997,
+        "end": 361.76,
+        "text": " Men were now wearing celluloid shirt colors."
+    },
+    {
+        "start": 361.84,
+        "end": 364.88,
+        "text": " Women combing their hair with celluloid combs."
+    },
+    {
+        "start": 364.88,
+        "end": 366.32,
+        "text": " It was miraculous stuff."
+    },
+    {
+        "start": 366.96,
+        "end": 370.24,
+        "text": " There's one of the early promotional brochures for celluloid put it."
+    },
+    {
+        "start": 370.24,
+        "end": 373.36,
+        "text": " It will no longer be necessary to ransack the earth"
+    },
+    {
+        "start": 373.36,
+        "end": 377.03999999999996,
+        "text": " in pursuit of substances which are constantly growing scarcer."
+    },
+    {
+        "start": 377.28,
+        "end": 378.96,
+        "text": " Which is extraordinary hearing that now,"
+    },
+    {
+        "start": 378.96,
+        "end": 383.44,
+        "text": " because now we think of plastics as something that's doing great harm to the environment."
+    },
+    {
+        "start": 383.44,
+        "end": 386.15999999999997,
+        "text": " But back then it was seen as a protector."
+    },
+    {
+        "start": 386.15999999999997,
+        "end": 387.03999999999996,
+        "text": " Exactly."
+    },
+    {
+        "start": 387.03999999999996,
+        "end": 391.12,
+        "text": " It was seen as a way to not have to hunt elephants into extinction."
+    },
+    {
+        "start": 391.76,
+        "end": 394.0,
+        "text": " But celluloid wasn't perfect."
+    },
+    {
+        "start": 394.0,
+        "end": 396.32,
+        "text": " It would explode at random moments."
+    },
+    {
+        "start": 396.32,
+        "end": 400.24,
+        "text": " And that meant that the factories where celluloid were produced were like tinder boxes."
+    },
+    {
+        "start": 400.24,
+        "end": 405.84,
+        "text": " Workers often worked stripped of the waste with buckets of water nearby to put out fires."
+    },
+    {
+        "start": 405.84,
+        "end": 410.24,
+        "text": " It's actually why celluloid billiard balls never worked because when they bumped into each other,"
+    },
+    {
+        "start": 410.24,
+        "end": 414.0,
+        "text": " they let off this report like a shotgun."
+    },
+    {
+        "start": 414.64,
+        "end": 417.36,
+        "text": " Meanwhile, the demand for new materials kept growing."
+    },
+    {
+        "start": 417.92,
+        "end": 421.03999999999996,
+        "text": " Celluloid, after all, couldn't fulfill all our needs."
+    },
+    {
+        "start": 421.84,
+        "end": 425.92,
+        "text": " In the early 20th century, the US was bringing electricity to its cities."
+    },
+    {
+        "start": 426.48,
+        "end": 429.84,
+        "text": " And they used a substance called shellac to insulate the wires."
+    },
+    {
+        "start": 430.48,
+        "end": 432.64,
+        "text": " Making shellac though wasn't easy."
+    },
+    {
+        "start": 437.59999999999997,
+        "end": 443.36,
+        "text": " First, you had to track down a female lack beetle found in the forest of India and Thailand."
+    },
+    {
+        "start": 444.08,
+        "end": 450.56,
+        "text": " Then you had to wait patiently for those beetles to excrete a resin which could then be turned into"
+    },
+    {
+        "start": 450.56,
+        "end": 453.12,
+        "text": " shellac. It was painstaking work."
+    },
+    {
+        "start": 455.92,
+        "end": 462.56,
+        "text": " It takes something like a thousand lack beetles six months to produce a pound of shellac."
+    },
+    {
+        "start": 462.56,
+        "end": 465.84000000000003,
+        "text": " So lots of beetles. That's a lot of beetles."
+    },
+    {
+        "start": 467.84000000000003,
+        "end": 473.6,
+        "text": " And you're not going to be able to wire up an entire country on the excretions of little"
+    },
+    {
+        "start": 473.6,
+        "end": 479.12,
+        "text": " lack beetles. And that's where the most important scientist in the history of plastics comes in."
+    },
+    {
+        "start": 479.76,
+        "end": 483.2,
+        "text": " A Belgian called Leo Bakeland who emigrated to the US."
+    },
+    {
+        "start": 483.76,
+        "end": 488.4,
+        "text": " So Bakeland built a little lab behind his house overlooking the Hudson River."
+    },
+    {
+        "start": 488.4,
+        "end": 492.56,
+        "text": " And eventually came up with this substance that he called bake light."
+    },
+    {
+        "start": 493.2,
+        "end": 496.24,
+        "text": " Bake light was like nothing that had come before it."
+    },
+    {
+        "start": 499.68,
+        "end": 503.12,
+        "text": " Unlike celluloid which contained substances found in nature,"
+    },
+    {
+        "start": 503.68,
+        "end": 507.68,
+        "text": " Leo Bakeland's invention was made in a lab fully synthetic."
+    },
+    {
+        "start": 508.56,
+        "end": 511.84000000000003,
+        "text": " Scientists were now free from the constraints of the natural world."
+    },
+    {
+        "start": 512.48,
+        "end": 517.44,
+        "text": " Leo Bakeland became a scientist superstar appearing on the cover of Time magazine."
+    },
+    {
+        "start": 517.44,
+        "end": 522.48,
+        "text": " And soon there were Bakelight Ashtrays, Fountain Pens, Telephones and Radios."
+    },
+    {
+        "start": 528.4,
+        "end": 530.48,
+        "text": " The plastic age had begun."
+    },
+    {
+        "start": 533.28,
+        "end": 536.08,
+        "text": " Part 2. War Time Boom"
+    },
+    {
+        "start": 538.0799999999999,
+        "end": 543.76,
+        "text": " The smell of the factory floor is something you don't forget."
+    },
+    {
+        "start": 547.28,
+        "end": 549.5999999999999,
+        "text": " Our second expert witnessed Robert Bard."
+    },
+    {
+        "start": 550.16,
+        "end": 553.28,
+        "text": " His father had a factory which made machines out of plastic."
+    },
+    {
+        "start": 553.92,
+        "end": 556.7199999999999,
+        "text": " And when he was 12, he worked there over the summer holidays."
+    },
+    {
+        "start": 558.2399999999999,
+        "end": 562.8,
+        "text": " Because little fingers could get into the card sorters in those days with hunts cards and they got stuck."
+    },
+    {
+        "start": 562.8,
+        "end": 564.16,
+        "text": " You're a very useful employee."
+    },
+    {
+        "start": 564.48,
+        "end": 564.9599999999999,
+        "text": " Yes, right."
+    },
+    {
+        "start": 566.4,
+        "end": 570.0799999999999,
+        "text": " Robert Bard went on to become a curator at the Science Museum in London"
+    },
+    {
+        "start": 570.0799999999999,
+        "end": 572.16,
+        "text": " where he built up its plastics collection."
+    },
+    {
+        "start": 572.9599999999999,
+        "end": 575.76,
+        "text": " He's going to pick up the story for us in the 1930s."
+    },
+    {
+        "start": 576.48,
+        "end": 581.12,
+        "text": " Big new chemical companies have taken over where those lone scientists left off."
+    },
+    {
+        "start": 581.12,
+        "end": 583.52,
+        "text": " An invented a new generation of plastics."
+    },
+    {
+        "start": 584.0799999999999,
+        "end": 587.04,
+        "text": " Nylon polyethylene polythene polystyrene."
+    },
+    {
+        "start": 587.6,
+        "end": 589.1999999999999,
+        "text": " This was the new world."
+    },
+    {
+        "start": 589.1999999999999,
+        "end": 593.12,
+        "text": " This was the IT world of the 1930s."
+    },
+    {
+        "start": 594.08,
+        "end": 597.92,
+        "text": " And it seemed that the whole culture would change."
+    },
+    {
+        "start": 599.12,
+        "end": 601.84,
+        "text": " Not only were new kinds of plastics being invented,"
+    },
+    {
+        "start": 602.4,
+        "end": 605.92,
+        "text": " but engineers were coming up with faster ways of producing them."
+    },
+    {
+        "start": 605.92,
+        "end": 611.12,
+        "text": " Injection molding was a process of squirting a molten material into a mold."
+    },
+    {
+        "start": 611.84,
+        "end": 615.68,
+        "text": " And very quickly, large quantities of things,"
+    },
+    {
+        "start": 615.68,
+        "end": 620.48,
+        "text": " whether it's children's play bricks or aircraft modeling kits."
+    },
+    {
+        "start": 620.48,
+        "end": 621.92,
+        "text": " It made these huge quantities."
+    },
+    {
+        "start": 622.64,
+        "end": 626.8,
+        "text": " A photograph on the time shows two co-makers, a father and son."
+    },
+    {
+        "start": 627.4399999999999,
+        "end": 631.4399999999999,
+        "text": " The father stands next to a small stack of combs, 350 of them."
+    },
+    {
+        "start": 632.0,
+        "end": 637.4399999999999,
+        "text": " The son is surrounded by 10,000 of them, all made by injection molding."
+    },
+    {
+        "start": 639.8399999999999,
+        "end": 641.28,
+        "text": " These were good times."
+    },
+    {
+        "start": 645.52,
+        "end": 649.4399999999999,
+        "text": " Plastics were getting cheaper and cheaper and seem to be everywhere."
+    },
+    {
+        "start": 649.5200000000001,
+        "end": 652.32,
+        "text": " In department stores, magazines, films."
+    },
+    {
+        "start": 658.96,
+        "end": 662.8000000000001,
+        "text": " Cold porter even sang a song praising the virtues of cellophane."
+    },
+    {
+        "start": 663.7600000000001,
+        "end": 668.48,
+        "text": " Plastic held out the promise of a shiny new world that would cater to our every need."
+    },
+    {
+        "start": 669.44,
+        "end": 671.36,
+        "text": " But it was not yet to be."
+    },
+    {
+        "start": 680.4000000000001,
+        "end": 685.9200000000001,
+        "text": " At California's Mer Island shipyard, submarines of the American 19th Fleet line up in dock."
+    },
+    {
+        "start": 686.8000000000001,
+        "end": 690.96,
+        "text": " When World War II started, plastics disappeared off the shelves."
+    },
+    {
+        "start": 690.96,
+        "end": 692.96,
+        "text": " There were more urgent demands elsewhere."
+    },
+    {
+        "start": 693.7600000000001,
+        "end": 698.96,
+        "text": " A unique plastic accune which dries into a film is spun around the sub-steck guns."
+    },
+    {
+        "start": 698.96,
+        "end": 702.24,
+        "text": " These plastic overcotes guarantee to keep the guns in firing order."
+    },
+    {
+        "start": 703.0400000000001,
+        "end": 706.96,
+        "text": " Plastics, once used for toys, carparts or radios,"
+    },
+    {
+        "start": 707.0400000000001,
+        "end": 712.72,
+        "text": " were now kitting out submarines, aircraft, water fuses and even uniforms."
+    },
+    {
+        "start": 712.72,
+        "end": 718.32,
+        "text": " One of the problems they have, which is in wartime, is the problem of rotting."
+    },
+    {
+        "start": 719.2,
+        "end": 725.0400000000001,
+        "text": " And traditional materials rotted very quickly in the tropics, whereas synthetic fibers didn't rot."
+    },
+    {
+        "start": 725.6800000000001,
+        "end": 731.12,
+        "text": " Nylon, once used to make women stockings, was now common deared for parachutes and helmet lining."
+    },
+    {
+        "start": 731.6,
+        "end": 737.12,
+        "text": " And polythene, the main ingredient for walking sticks, was now used for radar."
+    },
+    {
+        "start": 737.12,
+        "end": 741.6,
+        "text": " And without polythene being available, airborne radar would not have been possible."
+    },
+    {
+        "start": 742.16,
+        "end": 745.68,
+        "text": " And that was necessary for detecting submarines from aeroplanes."
+    },
+    {
+        "start": 745.68,
+        "end": 748.24,
+        "text": " So that was very important, saved a lot of lives."
+    },
+    {
+        "start": 748.88,
+        "end": 753.84,
+        "text": " And beyond those niche inventions, something else was going on which would shape the future of the"
+    },
+    {
+        "start": 753.84,
+        "end": 754.88,
+        "text": " plastics industry."
+    },
+    {
+        "start": 755.84,
+        "end": 761.2,
+        "text": " Plastics were no longer made by combining chemicals with coal."
+    },
+    {
+        "start": 762.0,
+        "end": 763.84,
+        "text": " Now they were made from oil."
+    },
+    {
+        "start": 765.92,
+        "end": 773.2,
+        "text": " And this will make the chemical industry much more adept at making things cheaply."
+    },
+    {
+        "start": 775.28,
+        "end": 778.32,
+        "text": " At the end of the war, the plastics industry was booming."
+    },
+    {
+        "start": 778.96,
+        "end": 783.44,
+        "text": " It had developed technologies and products that no one had previously thought possible."
+    },
+    {
+        "start": 784.24,
+        "end": 787.36,
+        "text": " That was partly down to government money funding the war effort."
+    },
+    {
+        "start": 787.9200000000001,
+        "end": 789.12,
+        "text": " And now the war was over."
+    },
+    {
+        "start": 789.6800000000001,
+        "end": 792.32,
+        "text": " Plastics companies needed a new market."
+    },
+    {
+        "start": 797.5200000000001,
+        "end": 801.5200000000001,
+        "text": " Part three, damp cloth utopianism."
+    },
+    {
+        "start": 802.0,
+        "end": 811.28,
+        "text": " I was growing up in the 50s."
+    },
+    {
+        "start": 811.28,
+        "end": 814.64,
+        "text": " And most of the toys I got were made of plastic."
+    },
+    {
+        "start": 814.64,
+        "end": 818.24,
+        "text": " And the standard line was that well by noon they're almost all broken."
+    },
+    {
+        "start": 820.72,
+        "end": 824.64,
+        "text": " Meet Jeff Michael, historian and author of American Plastic."
+    },
+    {
+        "start": 825.28,
+        "end": 827.1999999999999,
+        "text": " A book about its cultural history."
+    },
+    {
+        "start": 827.76,
+        "end": 830.48,
+        "text": " He was born a few years after the end of the war."
+    },
+    {
+        "start": 830.48,
+        "end": 833.5200000000001,
+        "text": " And remembers growing up surrounded by cheap plastic."
+    },
+    {
+        "start": 834.48,
+        "end": 835.9200000000001,
+        "text": " Stuff broke pretty easily."
+    },
+    {
+        "start": 837.2800000000001,
+        "end": 842.08,
+        "text": " And that was partly because people didn't know that much about plastic and how to use it."
+    },
+    {
+        "start": 842.08,
+        "end": 848.0,
+        "text": " So it was very common for someone to try to stub out a cigarette in a polyethylene bowl."
+    },
+    {
+        "start": 848.0,
+        "end": 850.48,
+        "text": " And of course a cigarette would just melt right through it."
+    },
+    {
+        "start": 850.48,
+        "end": 856.5600000000001,
+        "text": " And so they quickly got the impression that plastics are now cheap and shoddy and no good."
+    },
+    {
+        "start": 857.76,
+        "end": 859.84,
+        "text": " Plastics needed a makeover."
+    },
+    {
+        "start": 859.84,
+        "end": 864.1600000000001,
+        "text": " So the companies enlisted the help of an organization founded in the 1930s."
+    },
+    {
+        "start": 864.8000000000001,
+        "end": 867.44,
+        "text": " The society for plastic industries."
+    },
+    {
+        "start": 867.44,
+        "end": 869.9200000000001,
+        "text": " So in the very beginning these were social gatherings."
+    },
+    {
+        "start": 869.9200000000001,
+        "end": 875.2800000000001,
+        "text": " They met at golf courses, hot springs, spas and places like that."
+    },
+    {
+        "start": 875.2800000000001,
+        "end": 877.0400000000001,
+        "text": " So sort of Gentleman's club."
+    },
+    {
+        "start": 877.0400000000001,
+        "end": 878.96,
+        "text": " Yeah, that's exactly it very much so."
+    },
+    {
+        "start": 878.96,
+        "end": 881.84,
+        "text": " You know, let some steam off and have some fun."
+    },
+    {
+        "start": 881.84,
+        "end": 885.6,
+        "text": " But now the society for plastic industries had more serious work to do."
+    },
+    {
+        "start": 886.4,
+        "end": 889.28,
+        "text": " It needed to build a new market for its products."
+    },
+    {
+        "start": 889.28,
+        "end": 893.6800000000001,
+        "text": " They cleverly addressed that by approaching editors of women's magazines,"
+    },
+    {
+        "start": 894.24,
+        "end": 897.0400000000001,
+        "text": " like House Beautiful, Better Homes and Gardens,"
+    },
+    {
+        "start": 897.76,
+        "end": 899.9200000000001,
+        "text": " which mostly dealt with domestic furnishings."
+    },
+    {
+        "start": 899.9200000000001,
+        "end": 901.84,
+        "text": " So they saw women as the way in?"
+    },
+    {
+        "start": 901.84,
+        "end": 906.88,
+        "text": " Women as the way in because the American woman was regarded by businessmen as the great"
+    },
+    {
+        "start": 906.88,
+        "end": 914.32,
+        "text": " national purchasing agent. She was the home supply agent. She shopped, men didn't."
+    },
+    {
+        "start": 914.48,
+        "end": 919.12,
+        "text": " They put ads in magazines to teach women about the different chemicals in plastics."
+    },
+    {
+        "start": 919.7600000000001,
+        "end": 922.72,
+        "text": " Unsurprisingly, that didn't do much for sales."
+    },
+    {
+        "start": 922.72,
+        "end": 924.4000000000001,
+        "text": " So they tried a different tactic."
+    },
+    {
+        "start": 938.48,
+        "end": 941.6,
+        "text": " They produced adverts in magazines and on TV,"
+    },
+    {
+        "start": 941.6800000000001,
+        "end": 947.44,
+        "text": " where they promote plastics, not as lab miracles, but as useful things to have around the house."
+    },
+    {
+        "start": 956.96,
+        "end": 960.88,
+        "text": " These are things that make life so much easier. They're easier to clean."
+    },
+    {
+        "start": 961.6800000000001,
+        "end": 965.12,
+        "text": " They're brighter. They come in colors like we've never seen before."
+    },
+    {
+        "start": 966.0,
+        "end": 970.1600000000001,
+        "text": " And they seem to be emphasizing hygiene that everything could be cleaned with the swish of a"
+    },
+    {
+        "start": 970.16,
+        "end": 974.8,
+        "text": " damp cloth. And I like to think of this as damp cloth utopianism."
+    },
+    {
+        "start": 975.28,
+        "end": 977.04,
+        "text": " And that was just the beginning."
+    },
+    {
+        "start": 978.0799999999999,
+        "end": 981.8399999999999,
+        "text": " Now let's go to a little town in New Jersey where things are really popping."
+    },
+    {
+        "start": 982.56,
+        "end": 985.1999999999999,
+        "text": " Yes, there's a party going on at Mrs. Betty Markins house."
+    },
+    {
+        "start": 985.92,
+        "end": 989.6,
+        "text": " They came up with ever more ingenious ways of marketing plastics."
+    },
+    {
+        "start": 990.3199999999999,
+        "end": 996.56,
+        "text": " Take the simple plastic container with an airtight lid, developed by an engineer called Earl Tapper."
+    },
+    {
+        "start": 996.56,
+        "end": 999.76,
+        "text": " And he realized that plastic was developing a bad name."
+    },
+    {
+        "start": 1000.0799999999999,
+        "end": 1004.0799999999999,
+        "text": " And so he became associated with this PR person called Brownie Wise."
+    },
+    {
+        "start": 1004.0799999999999,
+        "end": 1007.28,
+        "text": " And she came up with the Tupperware Party idea."
+    },
+    {
+        "start": 1016.4,
+        "end": 1020.2399999999999,
+        "text": " And the hostess of the party was sort of coffee and juices."
+    },
+    {
+        "start": 1020.2399999999999,
+        "end": 1026.24,
+        "text": " And there were games that were developed by Brownie Wise to put people in the proper mood to buy."
+    },
+    {
+        "start": 1026.24,
+        "end": 1027.2,
+        "text": " Sounds quite fun."
+    },
+    {
+        "start": 1027.2,
+        "end": 1028.32,
+        "text": " It was a phenomenon."
+    },
+    {
+        "start": 1033.36,
+        "end": 1039.44,
+        "text": " Tupperware was a hit as were nylon stockings for microtables, PVC packaging,"
+    },
+    {
+        "start": 1039.44,
+        "end": 1041.6,
+        "text": " like Robraz and fibreglass chairs."
+    },
+    {
+        "start": 1042.4,
+        "end": 1045.92,
+        "text": " The products were good, but more importantly, they were cheap."
+    },
+    {
+        "start": 1046.48,
+        "end": 1048.64,
+        "text": " It was no longer just the rich who could buy them."
+    },
+    {
+        "start": 1049.2,
+        "end": 1052.16,
+        "text": " Everyone could have a piece of this shiny new world."
+    },
+    {
+        "start": 1052.8000000000002,
+        "end": 1059.6000000000001,
+        "text": " Plastic products contributed to the democratization of stuff during the 40s, 50s, 60s."
+    },
+    {
+        "start": 1060.8000000000002,
+        "end": 1064.48,
+        "text": " We're surrounded by more and more stuff than we used to have."
+    },
+    {
+        "start": 1064.48,
+        "end": 1066.4,
+        "text": " That there's this flood of goods."
+    },
+    {
+        "start": 1067.28,
+        "end": 1071.28,
+        "text": " And we wouldn't have all of this if it weren't for plastics."
+    },
+    {
+        "start": 1071.92,
+        "end": 1074.4,
+        "text": " The plastics companies had found their market."
+    },
+    {
+        "start": 1075.0400000000002,
+        "end": 1080.4,
+        "text": " And in the process, turned the countries they operated in into consumer nations."
+    },
+    {
+        "start": 1080.64,
+        "end": 1082.88,
+        "text": " The industry was unstoppable."
+    },
+    {
+        "start": 1086.48,
+        "end": 1087.0400000000002,
+        "text": " Or was it?"
+    },
+    {
+        "start": 1092.0800000000002,
+        "end": 1092.88,
+        "text": " Part four."
+    },
+    {
+        "start": 1093.52,
+        "end": 1095.0400000000002,
+        "text": " Pressure on plastics."
+    },
+    {
+        "start": 1098.0800000000002,
+        "end": 1101.3600000000001,
+        "text": " I've always thought that one can be a more effective campaigner."
+    },
+    {
+        "start": 1101.3600000000001,
+        "end": 1106.8000000000002,
+        "text": " If you understand the thinking behind the companies that you're campaigning against."
+    },
+    {
+        "start": 1107.36,
+        "end": 1115.04,
+        "text": " Our final expert witnessed Jonathan Poritt has been campaigning on plastics issues for decades."
+    },
+    {
+        "start": 1117.28,
+        "end": 1120.56,
+        "text": " He's unusual in that he's advised plastics companies too."
+    },
+    {
+        "start": 1121.52,
+        "end": 1124.48,
+        "text": " The campaigns he was involved in go right back to the 70s."
+    },
+    {
+        "start": 1126.96,
+        "end": 1131.6,
+        "text": " In those days, we had concerns about the massive increase in the amount of waste going to"
+    },
+    {
+        "start": 1131.6,
+        "end": 1136.3999999999999,
+        "text": " landfill, often very poorly designed and regulated landfill sites with the risks of"
+    },
+    {
+        "start": 1136.96,
+        "end": 1138.6399999999999,
+        "text": " leaching into groundwater and so on."
+    },
+    {
+        "start": 1141.44,
+        "end": 1144.8,
+        "text": " In 1971, a TV ad was launched in the US."
+    },
+    {
+        "start": 1145.6,
+        "end": 1149.2,
+        "text": " In it, a Native American paddles a boat down a river,"
+    },
+    {
+        "start": 1149.2,
+        "end": 1150.96,
+        "text": " steering through plastic waste."
+    },
+    {
+        "start": 1151.76,
+        "end": 1157.76,
+        "text": " Some people have a deep abiding respect for the natural beauty that was once this country."
+    },
+    {
+        "start": 1160.08,
+        "end": 1161.28,
+        "text": " And some people don't."
+    },
+    {
+        "start": 1163.28,
+        "end": 1164.8799999999999,
+        "text": " People start pollution."
+    },
+    {
+        "start": 1165.68,
+        "end": 1166.64,
+        "text": " People can stop it."
+    },
+    {
+        "start": 1168.64,
+        "end": 1172.88,
+        "text": " They had an impact, but back then the concern was waste in general."
+    },
+    {
+        "start": 1172.88,
+        "end": 1176.3200000000002,
+        "text": " Plastics weren't the target, but that would soon change."
+    },
+    {
+        "start": 1177.1200000000001,
+        "end": 1180.96,
+        "text": " In the early 90s, campaigners focused their attention on PVC,"
+    },
+    {
+        "start": 1180.96,
+        "end": 1183.1200000000001,
+        "text": " a plastic mostly used in packaging."
+    },
+    {
+        "start": 1183.3600000000001,
+        "end": 1188.0800000000002,
+        "text": " There was concern on two counts, one that there was an impact on public health,"
+    },
+    {
+        "start": 1188.0800000000002,
+        "end": 1194.4,
+        "text": " that there were emissions associated with PVC when it was inadequately burnt in"
+    },
+    {
+        "start": 1194.4,
+        "end": 1196.72,
+        "text": " poorly performing incinerators."
+    },
+    {
+        "start": 1197.2800000000002,
+        "end": 1203.1200000000001,
+        "text": " And there was concern then about environmental concerns as well, just those volumes of plastic"
+    },
+    {
+        "start": 1203.1200000000001,
+        "end": 1204.48,
+        "text": " getting into the environment."
+    },
+    {
+        "start": 1205.0400000000002,
+        "end": 1210.0,
+        "text": " Jonathan Poritt spent 18 months hosting discussions between environmental groups and"
+    },
+    {
+        "start": 1210.0,
+        "end": 1211.44,
+        "text": " plastic companies."
+    },
+    {
+        "start": 1211.44,
+        "end": 1217.2,
+        "text": " They made big commitments on manufacturing to clean up all the factories that they were involved"
+    },
+    {
+        "start": 1217.2,
+        "end": 1219.1200000000001,
+        "text": " in. Big commitments on greenhouse gas emissions,"
+    },
+    {
+        "start": 1219.68,
+        "end": 1222.96,
+        "text": " so as to find ways of reducing the carbon footprint of their product."
+    },
+    {
+        "start": 1223.6000000000001,
+        "end": 1226.72,
+        "text": " These concerns, though, were confined to one or two plastics."
+    },
+    {
+        "start": 1230.4,
+        "end": 1235.52,
+        "text": " It wasn't until the late 90s, when yachts and cruise ships reported seeing huge volumes"
+    },
+    {
+        "start": 1235.52,
+        "end": 1240.8,
+        "text": " of plastic floating in the sea, the people realized what plastic was doing to the environment."
+    },
+    {
+        "start": 1241.3600000000001,
+        "end": 1246.64,
+        "text": " We're currently on Camillo Beach, on the big island of Hawaii."
+    },
+    {
+        "start": 1246.64,
+        "end": 1251.28,
+        "text": " This area is an accumulation point for marine debris."
+    },
+    {
+        "start": 1251.28,
+        "end": 1255.68,
+        "text": " It's currently in the running for the title of Dirtiest Beach in the world."
+    },
+    {
+        "start": 1260.72,
+        "end": 1264.8799999999999,
+        "text": " People were shocked. They took to the beaches to pick up plastic bottles."
+    },
+    {
+        "start": 1265.52,
+        "end": 1269.36,
+        "text": " And it wasn't just in Europe and the US that plastic waste was building up."
+    },
+    {
+        "start": 1271.44,
+        "end": 1278.72,
+        "text": " There's a huge issue at the moment in many countries in Southeast Asia, in India and elsewhere,"
+    },
+    {
+        "start": 1278.72,
+        "end": 1285.04,
+        "text": " about what are called flexible plastics. The use of these soft plastics for individual sashes,"
+    },
+    {
+        "start": 1285.68,
+        "end": 1289.3600000000001,
+        "text": " pouches for personal care products for food and so on."
+    },
+    {
+        "start": 1289.3600000000001,
+        "end": 1292.0,
+        "text": " They were once seen as an amazing invention,"
+    },
+    {
+        "start": 1292.0,
+        "end": 1297.28,
+        "text": " a way for poor people in remote communities to buy a small amount of shampoo or soap."
+    },
+    {
+        "start": 1297.28,
+        "end": 1303.92,
+        "text": " But the historical consequence of this now is literally all over the environment of Southeast Asia"
+    },
+    {
+        "start": 1304.0,
+        "end": 1309.3600000000001,
+        "text": " and elsewhere, not just in the cities, but throughout rural India, Indonesia, Malaysia."
+    },
+    {
+        "start": 1309.92,
+        "end": 1315.52,
+        "text": " And what are the responses being from the plastics companies to these questions?"
+    },
+    {
+        "start": 1316.48,
+        "end": 1321.04,
+        "text": " The difficulty is that although there are some very big players in the plastics industry,"
+    },
+    {
+        "start": 1321.04,
+        "end": 1324.96,
+        "text": " they're all sort of part of a much bigger global industry."
+    },
+    {
+        "start": 1324.96,
+        "end": 1332.16,
+        "text": " So huge amounts of plastic are manufactured in China, which is not subject to the same pressures."
+    },
+    {
+        "start": 1332.8000000000002,
+        "end": 1336.8000000000002,
+        "text": " And because it's such a big global industry, there was a tendency to say, well,"
+    },
+    {
+        "start": 1336.8000000000002,
+        "end": 1340.16,
+        "text": " there's no point picking on us, we've got to address this as a whole industry."
+    },
+    {
+        "start": 1340.16,
+        "end": 1343.0400000000002,
+        "text": " The trouble is nobody really addressed it."
+    },
+    {
+        "start": 1343.0400000000002,
+        "end": 1347.6000000000001,
+        "text": " Now there's a heightened awareness that this was something we shouldn't have allowed to happen."
+    },
+    {
+        "start": 1347.6000000000001,
+        "end": 1351.44,
+        "text": " And between us, the companies, the governments, the individual consumers,"
+    },
+    {
+        "start": 1352.24,
+        "end": 1356.72,
+        "text": " we know that we have collectively done a really bad job on this."
+    },
+    {
+        "start": 1356.8,
+        "end": 1361.84,
+        "text": " Given that some of these concerns first came to light 30, 40, 50 years ago,"
+    },
+    {
+        "start": 1362.48,
+        "end": 1366.56,
+        "text": " why do you think we as consumers are still so addicted to plastic?"
+    },
+    {
+        "start": 1368.32,
+        "end": 1373.52,
+        "text": " I guess we have just got used to the omnipresence of plastic in our lives."
+    },
+    {
+        "start": 1374.16,
+        "end": 1379.2,
+        "text": " It's now so deeply soared into individual behaviour that you've got to almost uproot"
+    },
+    {
+        "start": 1379.76,
+        "end": 1383.52,
+        "text": " those decades of consumerist driven behaviour."
+    },
+    {
+        "start": 1383.52,
+        "end": 1387.28,
+        "text": " And persuade people to think that this is a different story now, we have to do it differently."
+    },
+    {
+        "start": 1391.76,
+        "end": 1394.24,
+        "text": " So how did we get hooked on plastic?"
+    },
+    {
+        "start": 1396.96,
+        "end": 1402.0,
+        "text": " From those first inventions in the 19th century, plastics were seen as miraculous."
+    },
+    {
+        "start": 1402.72,
+        "end": 1404.72,
+        "text": " We could turn them into anything we wanted."
+    },
+    {
+        "start": 1405.44,
+        "end": 1409.28,
+        "text": " We wore plastics, played with plastics, fought wars with plastics."
+    },
+    {
+        "start": 1410.24,
+        "end": 1413.76,
+        "text": " They met our every need and then created new ones."
+    },
+    {
+        "start": 1417.44,
+        "end": 1421.12,
+        "text": " The industry found ingenious ways of getting into our homes,"
+    },
+    {
+        "start": 1421.12,
+        "end": 1423.44,
+        "text": " hooking us into a lifestyle that's hard to give up."
+    },
+    {
+        "start": 1427.76,
+        "end": 1430.24,
+        "text": " Plastics now are everywhere."
+    },
+    {
+        "start": 1430.24,
+        "end": 1432.72,
+        "text": " We couldn't have recorded this programme without them."
+    },
+    {
+        "start": 1432.72,
+        "end": 1434.56,
+        "text": " You wouldn't be able to listen without them."
+    },
+    {
+        "start": 1435.2,
+        "end": 1439.84,
+        "text": " They've seeped into every corner of our lives in ways that we no longer notice."
+    },
+    {
+        "start": 1441.04,
+        "end": 1445.04,
+        "text": " And perhaps that, more than anything, explains our addiction."
+    },
+    {
+        "start": 1445.76,
+        "end": 1450.3999999999999,
+        "text": " In becoming such a big part of our lives, they became invisible."
+    },
+    {
+        "start": 1455.2,
+        "end": 1460.08,
+        "text": " This inquiry was presented by me, Helena Merriman, and produced by Phoebe Keen."
+    },
+    {
+        "start": 1460.08,
+        "end": 1463.28,
+        "text": " It was mixed by Tom Brignel and the editor is Emma Rippen."
+    },
+    {
+        "start": 1463.92,
+        "end": 1467.36,
+        "text": " Next week we'll be asking, why is the Taliban resurging?"
+    },
+    {
+        "start": 1472.48,
+        "end": 1473.92,
+        "text": " So what did you think of that, Rian?"
+    },
+    {
+        "start": 1473.92,
+        "end": 1476.32,
+        "text": " Have you done anything about your plastic consumption, Ela?"
+    },
+    {
+        "start": 1476.32,
+        "end": 1480.32,
+        "text": " I really, really minimal tiny, tiny, not really so much things."
+    },
+    {
+        "start": 1480.32,
+        "end": 1481.28,
+        "text": " What about you, Rian?"
+    },
+    {
+        "start": 1481.28,
+        "end": 1485.68,
+        "text": " Well, they do say if we all took a small action, things would improve in the day."
+    },
+    {
+        "start": 1485.68,
+        "end": 1488.96,
+        "text": " So I'm not beating myself up, but I'm trying to do small things."
+    },
+    {
+        "start": 1488.96,
+        "end": 1489.36,
+        "text": " Like what?"
+    },
+    {
+        "start": 1490.0,
+        "end": 1492.7199999999998,
+        "text": " Not using plastic cutlery or taking my own."
+    },
+    {
+        "start": 1492.7199999999998,
+        "end": 1494.32,
+        "text": " I never use plastic bags."
+    },
+    {
+        "start": 1494.32,
+        "end": 1496.24,
+        "text": " Haven't used plastic bags for years."
+    },
+    {
+        "start": 1496.24,
+        "end": 1497.6,
+        "text": " Always carry my own plastic bag."
+    },
+    {
+        "start": 1497.6,
+        "end": 1498.32,
+        "text": " Well, that's good."
+    },
+    {
+        "start": 1498.32,
+        "end": 1502.8799999999999,
+        "text": " So when you say you use metal cutlery, you bring in your own cutlery to work."
+    },
+    {
+        "start": 1502.8799999999999,
+        "end": 1504.56,
+        "text": " No, I just don't use cutlery."
+    },
+    {
+        "start": 1504.56,
+        "end": 1506.9599999999998,
+        "text": " You just eat your salad with your hands."
+    },
+    {
+        "start": 1507.84,
+        "end": 1515.84,
+        "text": " I found that really interesting that plastic was originally sold as a way of saving the planet."
+    },
+    {
+        "start": 1515.9199999999998,
+        "end": 1520.48,
+        "text": " That we would no longer need to harvest ivory and do all this other stuff to make umbrella"
+    },
+    {
+        "start": 1520.48,
+        "end": 1521.12,
+        "text": " handles and stuff."
+    },
+    {
+        "start": 1521.12,
+        "end": 1525.9199999999998,
+        "text": " It was going to be this like really ecosystemal way of saving the planet."
+    },
+    {
+        "start": 1526.9599999999998,
+        "end": 1530.08,
+        "text": " If you like that, just search for the inquiry and subscribe."
+    },
+    {
+        "start": 1530.08,
+        "end": 1530.8,
+        "text": " Thanks for listening."
+    },
+    {
+        "start": 1530.8,
+        "end": 1531.76,
+        "text": " See you next time."
+    }
+]

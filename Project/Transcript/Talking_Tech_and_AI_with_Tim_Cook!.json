@@ -1,171 +1,181 @@
 [
     {
         "start": 0.0,
-        "end": 4.76,
-        "text": " All right, Tim."
+        "end": 4.0,
+        "text": " Alright, Tim."
     },
     {
-        "start": 4.76,
-        "end": 5.76,
-        "text": " Great to see you."
+        "start": 4.0,
+        "end": 6.5600000000000005,
+        "text": " Great to see you. Thanks for spending the time."
     },
     {
-        "start": 5.76,
-        "end": 6.84,
-        "text": " Thanks for spending the time."
-    },
-    {
-        "start": 6.84,
-        "end": 7.88,
+        "start": 6.5600000000000005,
+        "end": 7.76,
         "text": " Thank you for coming."
     },
     {
-        "start": 7.88,
-        "end": 10.040000000000001,
+        "start": 7.76,
+        "end": 10.4,
         "text": " So you had the WWDC keynote today."
     },
     {
-        "start": 10.040000000000001,
-        "end": 11.040000000000001,
+        "start": 10.4,
+        "end": 10.9,
         "text": " Yeah."
     },
     {
-        "start": 11.040000000000001,
-        "end": 12.040000000000001,
-        "text": " It was really fun to watch."
+        "start": 10.9,
+        "end": 13.200000000000001,
+        "text": " It was really fun to watch it was a whole two hours."
     },
     {
-        "start": 12.040000000000001,
-        "end": 13.4,
-        "text": " It was a whole two hours."
-    },
-    {
-        "start": 13.4,
-        "end": 17.56,
+        "start": 13.200000000000001,
+        "end": 17.44,
         "text": " I want to zoom all the way out because obviously a lot of talk about AI in general."
     },
     {
-        "start": 17.56,
-        "end": 18.56,
+        "start": 17.44,
+        "end": 17.94,
         "text": " Yeah."
     },
     {
-        "start": 18.56,
-        "end": 24.12,
-        "text": " And I'm kind of just left wondering how Apple defines AI in general, because I know if you"
+        "start": 17.94,
+        "end": 23.04,
+        "text": " And I'm kind of just left wondering how Apple defines AI in general."
     },
     {
-        "start": 24.12,
-        "end": 28.76,
-        "text": " ask a regular person, you might hear about generative AI, chatbots, things like that."
+        "start": 23.04,
+        "end": 26.0,
+        "text": " Because I know if you ask a regular person, you might hear about"
     },
     {
-        "start": 28.76,
-        "end": 29.76,
+        "start": 26.0,
+        "end": 28.56,
+        "text": " generative AI chatbots, things like that."
+    },
+    {
+        "start": 28.56,
+        "end": 29.06,
         "text": " Yeah."
     },
     {
-        "start": 29.92,
-        "end": 33.56,
-        "text": " So, you know, you're talking about relatively new additions to Apple's AI portfolio."
+        "start": 29.06,
+        "end": 34.08,
+        "text": " And these are relatively new additions to Apple's AI portfolio."
     },
     {
-        "start": 33.56,
-        "end": 36.28,
+        "start": 34.08,
+        "end": 36.4,
         "text": " How do you look at AI as Apple?"
     },
     {
-        "start": 36.28,
-        "end": 42.64,
+        "start": 36.4,
+        "end": 41.36,
         "text": " Well, we've been executing with AI for a long time."
     },
     {
-        "start": 42.64,
-        "end": 45.32,
-        "text": " It's that you're wearing a watch."
-    },
-    {
-        "start": 45.32,
-        "end": 47.400000000000006,
-        "text": " It's at the root of the watch."
-    },
-    {
-        "start": 47.400000000000006,
-        "end": 53.88,
-        "text": " I mean, you think about things like crash detection, fault detection, things like AFib,"
-    },
-    {
-        "start": 53.88,
-        "end": 57.160000000000004,
-        "text": " and all of this kind of stuff is machine learning at the end of the day."
-    },
-    {
-        "start": 57.519999999999996,
-        "end": 62.44,
-        "text": " But what has captured people's imagination is generative AI."
-    },
-    {
-        "start": 62.44,
-        "end": 73.24,
-        "text": " And we see it as the opportunity for a whole new curve of technology and providing and"
-    },
-    {
-        "start": 73.24,
-        "end": 80.52,
-        "text": " doing more things for people, providing an assistant for people, things that really improve"
-    },
-    {
-        "start": 80.52,
-        "end": 82.08,
-        "text": " people's lives."
-    },
-    {
-        "start": 82.08,
-        "end": 85.32,
-        "text": " So that's how we see it."
-    },
-    {
-        "start": 85.32,
-        "end": 89.39999999999999,
-        "text": " There's obviously, it's not without downside."
-    },
-    {
-        "start": 89.39999999999999,
-        "end": 93.6,
-        "text": " And so we approach it very thoughtfully."
-    },
-    {
-        "start": 93.6,
-        "end": 98.08,
-        "text": " And as you heard, we have always been focused on privacy."
-    },
-    {
-        "start": 98.08,
-        "end": 102.47999999999999,
-        "text": " And so privacy is a very key tenet of our thrust into AI."
-    },
-    {
-        "start": 102.47999999999999,
-        "end": 103.47999999999999,
+        "start": 41.36,
+        "end": 42.36,
         "text": " Right."
     },
     {
-        "start": 103.47999999999999,
-        "end": 108.19999999999999,
-        "text": " It's been interesting to watch Apple's arc with AI, because I made a whole piece, not"
+        "start": 42.36,
+        "end": 44.96,
+        "text": " It's that you're wearing a watch."
     },
     {
-        "start": 108.19999999999999,
-        "end": 112.8,
-        "text": " more than about a year ago, about how Apple seems to never say AI, even though they have"
+        "start": 44.96,
+        "end": 47.519999999999996,
+        "text": " It's at the root of the watch."
     },
     {
-        "start": 112.88,
-        "end": 117.39999999999999,
-        "text": " all these neural engines and machine learning and things like that."
+        "start": 47.519999999999996,
+        "end": 50.24,
+        "text": " I mean, you think about things like crash detection,"
     },
     {
-        "start": 117.39999999999999,
+        "start": 50.24,
+        "end": 55.68,
+        "text": " fall detection, things like a fib and all of this kind of stuff is machine learning."
+    },
+    {
+        "start": 55.68,
+        "end": 57.16,
+        "text": " At the end of the day."
+    },
+    {
+        "start": 57.16,
+        "end": 62.44,
+        "text": " And so, but what has captured people's imagination is generative AI."
+    },
+    {
+        "start": 62.44,
+        "end": 73.28,
+        "text": " And we see it as the opportunity for a whole new curve of technology and providing and"
+    },
+    {
+        "start": 73.28,
+        "end": 80.28,
+        "text": " doing more things for people, providing an assistant for people, things that really"
+    },
+    {
+        "start": 80.28,
+        "end": 82.12,
+        "text": " improve people's lives."
+    },
+    {
+        "start": 82.12,
+        "end": 85.36,
+        "text": " So that's how we see it."
+    },
+    {
+        "start": 85.36,
+        "end": 89.44,
+        "text": " Because obviously, it's not without downside."
+    },
+    {
+        "start": 89.44,
+        "end": 92.44,
+        "text": " And so we approach it very thoughtfully."
+    },
+    {
+        "start": 92.44,
+        "end": 98.12,
+        "text": " And as you heard, we have always been focused on privacy."
+    },
+    {
+        "start": 98.12,
+        "end": 102.52,
+        "text": " And so privacy is a very key tenant of our thrust in AI."
+    },
+    {
+        "start": 102.52,
+        "end": 103.52,
+        "text": " Right."
+    },
+    {
+        "start": 103.52,
+        "end": 105.64,
+        "text": " It's interesting to watch Apple's arc with AI."
+    },
+    {
+        "start": 105.64,
+        "end": 110.56,
+        "text": " Because I made a whole piece not more than about a year ago about how Apple seems to"
+    },
+    {
+        "start": 110.56,
+        "end": 111.56,
+        "text": " never say AI."
+    },
+    {
+        "start": 111.56,
+        "end": 116.76,
+        "text": " Even though they have all these neural engines, the machine learning and things like that."
+    },
+    {
+        "start": 116.76,
         "end": 120.88,
         "text": " And so now we have almost this pivot where now we're just saying it."
     },
@@ -176,233 +186,238 @@
     },
     {
         "start": 122.44,
-        "end": 123.75999999999999,
+        "end": 123.76,
         "text": " Apple intelligence now."
     },
     {
-        "start": 123.75999999999999,
-        "end": 127.03999999999999,
-        "text": " I'm curious why that changed now."
+        "start": 123.76,
+        "end": 127.0,
+        "text": " I'm curious why that change now."
     },
     {
-        "start": 127.03999999999999,
-        "end": 134.16,
+        "start": 127.0,
+        "end": 134.2,
         "text": " Well, in the beginning and throughout almost everything that we always do, we always talk"
     },
     {
-        "start": 134.16,
-        "end": 136.76,
+        "start": 134.2,
+        "end": 136.8,
         "text": " about the benefit to the user."
     },
     {
-        "start": 136.79999999999998,
+        "start": 136.8,
         "end": 144.56,
-        "text": " And so the benefit to the user is crash detection and fault detection, not the technology behind"
+        "text": " And so the benefit to the user is crash detection and fall detection, not the technology behind"
     },
     {
         "start": 144.56,
-        "end": 145.56,
+        "end": 146.36,
         "text": " the feature."
     },
     {
-        "start": 145.56,
-        "end": 146.56,
-        "text": " Sure."
-    },
-    {
-        "start": 146.56,
-        "end": 150.95999999999998,
+        "start": 146.36,
+        "end": 150.96,
         "text": " And so we still view it like that."
     },
     {
-        "start": 150.95999999999998,
-        "end": 161.6,
+        "start": 150.96,
+        "end": 161.56,
         "text": " But it became clear that people wanted to know our views on generative AI in particular."
     },
     {
-        "start": 161.6,
-        "end": 166.12,
+        "start": 161.56,
+        "end": 166.08,
         "text": " And so we decided to embrace it and called it Apple intelligence."
     },
     {
-        "start": 167.12,
-        "end": 170.4,
-        "text": " I have a quote from the Dua Lipa interview that you did."
+        "start": 166.08,
+        "end": 170.32000000000002,
+        "text": " I have a quote from the duolipian review that you did."
     },
     {
-        "start": 170.4,
-        "end": 171.4,
+        "start": 170.32000000000002,
+        "end": 171.32000000000002,
         "text": " Oh, OK."
     },
     {
-        "start": 171.4,
-        "end": 172.4,
+        "start": 171.32000000000002,
+        "end": 172.32000000000002,
         "text": " It was great."
     },
     {
-        "start": 172.4,
-        "end": 173.4,
+        "start": 172.32000000000002,
+        "end": 173.32000000000002,
         "text": " It was fun."
     },
     {
-        "start": 173.4,
-        "end": 174.4,
+        "start": 173.32000000000002,
+        "end": 174.32000000000002,
         "text": " She's fantastic."
     },
     {
-        "start": 174.4,
-        "end": 175.4,
+        "start": 174.32000000000002,
+        "end": 175.32000000000002,
         "text": " I loved it."
     },
     {
-        "start": 175.4,
-        "end": 176.4,
+        "start": 175.32000000000002,
+        "end": 176.32000000000002,
         "text": " It was great."
     },
     {
-        "start": 176.4,
-        "end": 180.92000000000002,
-        "text": " You had a quote that said, about AI, if it can be used for nefarious things, we won't"
+        "start": 176.32000000000002,
+        "end": 179.04000000000002,
+        "text": " You had a quote that said about AI."
     },
     {
-        "start": 180.92000000000002,
-        "end": 181.92000000000002,
-        "text": " go down that road."
+        "start": 179.04000000000002,
+        "end": 180.64000000000001,
+        "text": " It can be used for nefarious things."
     },
     {
-        "start": 181.92000000000002,
-        "end": 182.92000000000002,
-        "text": " Yeah."
+        "start": 180.64000000000001,
+        "end": 182.32000000000002,
+        "text": " We won't go down that road."
     },
     {
-        "start": 182.92000000000002,
-        "end": 186.48000000000002,
-        "text": " And at the time, I assumed that that meant generative AI was off the table, because of"
+        "start": 182.32000000000002,
+        "end": 186.44,
+        "text": " And at the time, I assumed that that meant generative AI was off the table."
     },
     {
-        "start": 186.48000000000002,
-        "end": 189.8,
-        "text": " all the things that we'd seen about what it was potentially capable of or things that"
+        "start": 186.44,
+        "end": 189.68,
+        "text": " Because of all the things that we'd seen about what it was potentially capable of or things"
     },
     {
-        "start": 189.8,
-        "end": 192.24,
-        "text": " it might do."
+        "start": 189.68,
+        "end": 192.28,
+        "text": " that it might do."
     },
     {
-        "start": 192.24,
-        "end": 193.24,
-        "text": " Has that changed?"
+        "start": 192.28,
+        "end": 193.28,
+        "text": " Is that changed?"
     },
     {
-        "start": 193.24,
-        "end": 198.08,
-        "text": " Is that something that was off the table and you figured now you've got the right tools"
+        "start": 193.28,
+        "end": 195.36,
+        "text": " Is that something that was off the table?"
     },
     {
-        "start": 198.08,
-        "end": 201.8,
-        "text": " or the right restrictions to make sure that that all goes super well?"
+        "start": 195.36,
+        "end": 200.64,
+        "text": " And you figure now you've got the right tools or the right restrictions to make sure that"
     },
     {
-        "start": 201.8,
-        "end": 202.8,
+        "start": 200.64,
+        "end": 201.64,
+        "text": " that all goes super well."
+    },
+    {
+        "start": 201.64,
+        "end": 202.64,
         "text": " How do you think about that?"
     },
     {
-        "start": 202.8,
-        "end": 204.84,
+        "start": 202.64,
+        "end": 204.88,
         "text": " Generative AI was never off the table."
     },
     {
-        "start": 204.84,
-        "end": 211.44,
+        "start": 204.88,
+        "end": 210.48,
         "text": " It was always about pursuing it in a thoughtful kind of way."
     },
     {
-        "start": 211.44,
-        "end": 213.08,
+        "start": 210.48,
+        "end": 213.28,
         "text": " And so that's what we've done."
     },
     {
-        "start": 213.08,
-        "end": 220.8,
-        "text": " And we've implemented it in ways that are less likely to create issues."
+        "start": 213.28,
+        "end": 220.96,
+        "text": " We've implemented it in ways that are less likely to create issues."
     },
     {
-        "start": 220.8,
-        "end": 221.8,
+        "start": 220.96,
+        "end": 221.96,
         "text": " How so?"
     },
     {
-        "start": 221.8,
-        "end": 222.8,
-        "text": " How so?"
+        "start": 221.96,
+        "end": 226.92000000000002,
+        "text": " Well, things that if you think about the kinds of things that we talked about, we talked"
     },
     {
-        "start": 223.8,
-        "end": 228.60000000000002,
-        "text": " If you think about the kinds of things that we talked about, we talked about personal"
+        "start": 226.92000000000002,
+        "end": 230.8,
+        "text": " about personal context."
     },
     {
-        "start": 228.60000000000002,
-        "end": 232.88000000000002,
-        "text": " context and we talked about privacy."
+        "start": 230.8,
+        "end": 232.92000000000002,
+        "text": " And we talked about privacy."
     },
     {
-        "start": 232.88000000000002,
-        "end": 240.8,
-        "text": " And so we're not waiting for a comprehensive privacy legislation, regulation to come into"
+        "start": 232.92000000000002,
+        "end": 240.84,
+        "text": " And so we're not waiting for a comprehensive privacy legislation regulation to come into"
     },
     {
-        "start": 240.8,
-        "end": 242.20000000000002,
+        "start": 240.84,
+        "end": 241.84,
         "text": " effect."
     },
     {
-        "start": 242.20000000000002,
+        "start": 241.84,
         "end": 244.92000000000002,
         "text": " We already view privacy as a fundamental human right."
     },
     {
         "start": 244.92000000000002,
-        "end": 250.96,
-        "text": " And so that's the lens that we see it at."
+        "end": 251.0,
+        "text": " And so that's the way we, that's the lens that we see it at."
     },
     {
-        "start": 251.92000000000002,
-        "end": 257.84000000000003,
-        "text": " Given that we're doing those things, personal context and privacy, we wanted to integrate"
+        "start": 251.0,
+        "end": 257.88,
+        "text": " And given that we're doing those things, personal context and privacy, we wanted to integrate"
     },
     {
-        "start": 257.84000000000003,
-        "end": 264.16,
-        "text": " it at a deep level so you're not having to think, oh, well, now I want to do something"
+        "start": 257.88,
+        "end": 259.8,
+        "text": " it at a deep level."
     },
     {
-        "start": 264.16,
+        "start": 259.8,
         "end": 266.32,
-        "text": " that uses intelligence."
+        "text": " So you're not having to think, oh, well, now I want to do something that uses intelligence."
     },
     {
         "start": 266.32,
-        "end": 270.72,
+        "end": 270.44,
         "text": " We put it in the apps that you're already using and integrated it deeply."
     },
     {
-        "start": 270.72,
-        "end": 271.72,
+        "start": 270.44,
+        "end": 271.44,
         "text": " Right."
     },
     {
-        "start": 271.72,
-        "end": 276.88,
-        "text": " Yeah, I think also now there's a lot of talk about it now that there is generative AI."
+        "start": 271.44,
+        "end": 273.92,
+        "text": " Yeah, I think also now there's a lot of talk about it."
     },
     {
-        "start": 276.88,
+        "start": 273.92,
+        "end": 276.92,
+        "text": " Now there is generative AI."
+    },
+    {
+        "start": 276.92,
         "end": 281.36,
-        "text": " A lot of people have, I mean, Apple's notorious for never sending anything to the cloud."
+        "text": " A lot of people have, I mean, Apple is notorious for never sending anything to the cloud."
     },
     {
         "start": 281.36,
@@ -421,586 +436,601 @@
     },
     {
         "start": 289.88,
-        "end": 291.71999999999997,
+        "end": 291.72,
         "text": " complex requests."
     },
     {
-        "start": 291.71999999999997,
-        "end": 293.04,
+        "start": 291.72,
+        "end": 293.20000000000005,
         "text": " You actually do have to go off the device."
     },
     {
-        "start": 293.04,
-        "end": 297.76,
-        "text": " So you've developed, I want to get the name right, private cloud compute."
+        "start": 293.20000000000005,
+        "end": 295.52000000000004,
+        "text": " So you've developed, I'm going to get the name right."
     },
     {
-        "start": 297.76,
+        "start": 295.52000000000004,
+        "end": 297.52000000000004,
+        "text": " Prior to cloud compute."
+    },
+    {
+        "start": 297.52000000000004,
         "end": 301.48,
         "text": " Explain this to us because I think the general chatter online is, well, they have to be sending"
     },
     {
         "start": 301.48,
-        "end": 306.36,
-        "text": " data to OpenAI, for example, to get a request back from Chad GPT."
+        "end": 306.8,
+        "text": " data to open AI, for example, to get a request back from chat GPT."
     },
     {
-        "start": 306.84000000000003,
-        "end": 313.0,
-        "text": " Well, there's private cloud compute and then there's the arrangement with OpenAI."
+        "start": 306.8,
+        "end": 313.04,
+        "text": " Well, there's private cloud computing and there's the arrangement with open AI."
     },
     {
-        "start": 313.0,
-        "end": 315.64,
+        "start": 313.04,
+        "end": 315.68,
         "text": " These two things are different."
     },
     {
-        "start": 315.64,
-        "end": 323.52000000000004,
+        "start": 315.68,
+        "end": 323.52,
         "text": " And so if you look at private cloud compute, we're utilizing the same silicon, not the"
     },
     {
-        "start": 323.52000000000004,
-        "end": 329.6,
+        "start": 323.52,
+        "end": 329.64,
         "text": " same silicon, but the same basic architecture as the silicon that's in the, well, that's"
     },
     {
-        "start": 329.6,
-        "end": 330.6,
+        "start": 329.64,
+        "end": 330.64,
         "text": " in the iPhone."
     },
     {
-        "start": 330.6,
-        "end": 331.6,
-        "text": " 15, yeah."
+        "start": 330.64,
+        "end": 331.64,
+        "text": " 15."
     },
     {
-        "start": 331.6,
-        "end": 336.04,
-        "text": " And we're using the same software."
+        "start": 331.64,
+        "end": 332.64,
+        "text": " Yeah."
     },
     {
-        "start": 336.72,
-        "end": 343.48,
+        "start": 332.64,
+        "end": 336.08,
+        "text": " And, and we're using the same software."
+    },
+    {
+        "start": 336.08,
+        "end": 343.44,
         "text": " And so we believe that we've done it in such a way that it's as safe and secure and private"
     },
     {
-        "start": 343.48,
-        "end": 347.92,
+        "start": 343.44,
+        "end": 347.91999999999996,
         "text": " in the private cloud compute as the device."
     },
     {
-        "start": 347.92,
-        "end": 355.92,
-        "text": " And so we've really worked on this a lot and put a lot of wood behind that arrow to assure"
+        "start": 347.91999999999996,
+        "end": 354.12,
+        "text": " And so we really, we've really worked on this a lot and put a lot of wood behind that"
     },
     {
-        "start": 355.92,
-        "end": 357.40000000000003,
-        "text": " that."
+        "start": 354.12,
+        "end": 357.36,
+        "text": " arrow to assure that."
     },
     {
-        "start": 357.40000000000003,
-        "end": 365.68,
-        "text": " If you're working on something that requires world knowledge, so you're out of the domain"
+        "start": 357.36,
+        "end": 362.68,
+        "text": " And if you're, if you're working on something that requires world knowledge, so you're out"
     },
     {
-        "start": 366.32,
-        "end": 373.28000000000003,
-        "text": " of personal context and so forth, then you may want to go and use one of the large language"
+        "start": 362.68,
+        "end": 372.44,
+        "text": " of the domain of personal context and so forth, then you, you may want to go and use one"
     },
     {
-        "start": 373.28000000000003,
-        "end": 375.24,
-        "text": " models that are on the market."
+        "start": 372.44,
+        "end": 377.24,
+        "text": " of the large language models that are on the market and we, we selected what we feel"
     },
     {
-        "start": 375.24,
+        "start": 377.24,
         "end": 382.92,
-        "text": " And we selected what we feel is the best one with OpenAI and Chad GPT."
+        "text": " is the best one with open AI and chat GPT."
     },
     {
         "start": 382.92,
-        "end": 385.6,
-        "text": " But you'll make a conscious decision to do that."
+        "end": 386.36,
+        "text": " But you'll make a conscious decision to do that every time."
     },
     {
-        "start": 385.6,
-        "end": 386.6,
-        "text": " Every time."
+        "start": 386.36,
+        "end": 391.2,
+        "text": " So you can guarantee that there will never be any data sent to open AI without your explicit"
     },
     {
-        "start": 386.6,
-        "end": 387.6,
-        "text": " Every time."
+        "start": 391.2,
+        "end": 392.2,
+        "text": " user."
     },
     {
-        "start": 387.6,
-        "end": 391.16,
-        "text": " So you can guarantee that there will never be any data sent to OpenAI without your explicit"
-    },
-    {
-        "start": 391.16,
-        "end": 392.16,
-        "text": " user validation."
-    },
-    {
-        "start": 392.16,
-        "end": 393.16,
+        "start": 392.2,
+        "end": 393.2,
         "text": " That's right."
     },
     {
-        "start": 393.16,
-        "end": 394.16,
+        "start": 393.2,
+        "end": 394.2,
         "text": " That's right."
     },
     {
-        "start": 394.16,
-        "end": 395.16,
-        "text": " You decide."
+        "start": 394.2,
+        "end": 395.2,
+        "text": " You're just sad."
     },
     {
-        "start": 395.64000000000004,
-        "end": 401.44,
+        "start": 395.2,
+        "end": 396.2,
+        "text": " Right."
+    },
+    {
+        "start": 396.2,
+        "end": 401.46000000000004,
         "text": " I also feel like there was this blip on the radar of standalone AI devices, which I found"
     },
     {
-        "start": 401.44,
-        "end": 402.44,
+        "start": 401.46000000000004,
+        "end": 402.46000000000004,
         "text": " really interesting."
     },
     {
-        "start": 402.44,
-        "end": 404.56,
+        "start": 402.46000000000004,
+        "end": 404.6,
         "text": " They didn't land too well."
     },
     {
-        "start": 404.56,
-        "end": 406.40000000000003,
+        "start": 404.6,
+        "end": 406.44,
         "text": " I think smartphones are pretty great."
     },
     {
-        "start": 406.40000000000003,
-        "end": 410.46000000000004,
+        "start": 406.44,
+        "end": 410.48,
         "text": " But there was an interesting conversation around that about using your phone less, maybe"
     },
     {
-        "start": 410.46000000000004,
-        "end": 414.44000000000005,
+        "start": 410.48,
+        "end": 414.68,
         "text": " having AI help you out in ways that let you spend less time on the screen."
     },
     {
-        "start": 414.44000000000005,
-        "end": 417.08000000000004,
-        "text": " And this is something you echoed also in the Dua Lipa interview."
+        "start": 414.68,
+        "end": 417.0,
+        "text": " And this is something you echoed also in the duly for interview."
     },
     {
-        "start": 417.08000000000004,
-        "end": 420.64000000000004,
-        "text": " If you're looking at your phone more than you're looking into someone else's eyes, something's"
+        "start": 417.0,
+        "end": 420.5,
+        "text": " Like if you're looking at your phone, more than you're looking at a so-and-else size,"
     },
     {
-        "start": 420.64000000000004,
-        "end": 421.64000000000004,
-        "text": " off there."
+        "start": 420.5,
+        "end": 421.5,
+        "text": " something's off there."
     },
     {
-        "start": 421.64000000000004,
-        "end": 422.64000000000004,
+        "start": 421.5,
+        "end": 422.5,
         "text": " Yeah."
     },
     {
-        "start": 423.12,
-        "end": 426.32,
-        "text": " Is there a future where we're using our phones less because of how well the intelligence"
+        "start": 422.5,
+        "end": 425.52,
+        "text": " Do you think there's a potential future where we're using our phones less because of how well"
     },
     {
-        "start": 426.32,
+        "start": 425.52,
         "end": 428.12,
-        "text": " works?"
+        "text": " the intelligence works?"
     },
     {
         "start": 428.12,
-        "end": 431.4,
+        "end": 431.64,
         "text": " I think it's a possibility and a significant possibility."
     },
     {
-        "start": 431.4,
-        "end": 440.28,
+        "start": 431.64,
+        "end": 440.24,
         "text": " I mean, for us, we've never been motivated for people to spend their lives on their devices."
     },
     {
-        "start": 440.28,
-        "end": 445.84,
+        "start": 440.24,
+        "end": 445.84000000000003,
         "text": " Our model is not one that needs engagement to succeed."
     },
     {
-        "start": 445.84,
-        "end": 450.44,
-        "text": " Our model is one that where we want to empower you to be able to do things you couldn't do"
+        "start": 445.84000000000003,
+        "end": 450.48,
+        "text": " Our model is one where we want to empower you to be able to do things you couldn't do"
     },
     {
-        "start": 450.44,
-        "end": 452.09999999999997,
+        "start": 450.48,
+        "end": 452.08,
         "text": " otherwise."
     },
     {
-        "start": 452.1,
-        "end": 460.02000000000004,
+        "start": 452.08,
+        "end": 460.0,
         "text": " We want to give you a tool so you can do incredible things that you couldn't do without the tool."
     },
     {
-        "start": 460.02000000000004,
-        "end": 462.78000000000003,
+        "start": 460.0,
+        "end": 462.76,
         "text": " That's what motivates us."
     },
     {
-        "start": 462.78000000000003,
+        "start": 462.76,
         "end": 467.56,
-        "text": " And so we come out with things like screen time, et cetera."
+        "text": " And so we come out with things like screen time, etc."
     },
     {
         "start": 467.56,
-        "end": 474.42,
+        "end": 474.4,
         "text": " So it's a bit in your face as to how much you're using your device."
     },
     {
-        "start": 474.42,
-        "end": 479.90000000000003,
-        "text": " We come out with, we count your notifications and so forth so that you can go in and say,"
+        "start": 474.4,
+        "end": 480.36,
+        "text": " We come out with counter notifications and so forth so that you can go in and say,"
     },
     {
-        "start": 480.29999999999995,
-        "end": 484.06,
+        "start": 480.36,
+        "end": 484.44,
         "text": " do I really want this many notifications?"
     },
     {
-        "start": 484.06,
-        "end": 491.65999999999997,
-        "text": " And we have focus kinds of states where you can silence the phone, et cetera."
+        "start": 484.44,
+        "end": 491.71999999999997,
+        "text": " We have focus kinds of states where you can silence the phone, etc."
     },
     {
-        "start": 491.65999999999997,
-        "end": 499.73999999999995,
-        "text": " And so I do believe that as things get smarter and smarter with Apple intelligence, that"
+        "start": 491.72,
+        "end": 499.96000000000004,
+        "text": " And so I do believe that as things get smarter and smarter with Apple Intelligence that you"
     },
     {
-        "start": 499.73999999999995,
-        "end": 508.9,
-        "text": " you can even take things that were taking more time will take less time now."
+        "start": 499.96000000000004,
+        "end": 508.96000000000004,
+        "text": " can even take things that we're taking more time will take less time now."
     },
     {
-        "start": 508.9,
-        "end": 511.17999999999995,
+        "start": 508.96000000000004,
+        "end": 511.56,
         "text": " And so I do think that opportunity exists."
     },
     {
-        "start": 511.17999999999995,
-        "end": 512.18,
+        "start": 511.56,
+        "end": 512.5600000000001,
         "text": " Interesting."
     },
     {
-        "start": 512.18,
-        "end": 513.18,
+        "start": 512.5600000000001,
+        "end": 513.5600000000001,
         "text": " Yeah."
     },
     {
-        "start": 513.18,
-        "end": 514.18,
+        "start": 513.5600000000001,
+        "end": 514.5600000000001,
         "text": " It's a curious future."
     },
     {
-        "start": 514.18,
-        "end": 515.18,
+        "start": 514.5600000000001,
+        "end": 515.5600000000001,
         "text": " It is."
     },
     {
-        "start": 515.18,
-        "end": 518.18,
-        "text": " It is."
-    },
-    {
-        "start": 518.18,
-        "end": 521.98,
+        "start": 515.56,
+        "end": 522.9599999999999,
         "text": " And I think I'm really optimistic about it."
     },
     {
-        "start": 521.98,
-        "end": 522.98,
-        "text": " Yeah."
+        "start": 522.9599999999999,
+        "end": 528.64,
+        "text": " I also feel like there's tons of chatter when you're first CEO of Apple about this new"
     },
     {
-        "start": 522.98,
-        "end": 528.18,
-        "text": " I also, I feel like there was tons of chatter when you were first CEO of Apple about this"
+        "start": 528.64,
+        "end": 534.5999999999999,
+        "text": " shift obviously coming from Steve Jobs and you've been CEO for, it feels like a long time"
     },
     {
-        "start": 528.18,
-        "end": 531.74,
-        "text": " new shift, obviously coming from Steve Jobs."
+        "start": 534.5999999999999,
+        "end": 535.5999999999999,
+        "text": " now."
     },
     {
-        "start": 531.74,
-        "end": 535.26,
-        "text": " And you've been CEO for what feels like a long time now."
+        "start": 535.5999999999999,
+        "end": 539.4,
+        "text": " And we're entering this new age of AI and I'm curious now there's a new chatter about"
     },
     {
-        "start": 535.26,
-        "end": 536.9,
-        "text": " And we're entering this new age of AI."
+        "start": 539.4,
+        "end": 540.88,
+        "text": " who's next CEO is going to be."
     },
     {
-        "start": 536.9,
-        "end": 540.8199999999999,
-        "text": " And I'm curious now, now there's new chatter about who's next CEO is going to be."
+        "start": 540.88,
+        "end": 545.4399999999999,
+        "text": " Do you feel like your legacy as CEO at Apple should be?"
     },
     {
-        "start": 540.8199999999999,
-        "end": 545.4599999999999,
-        "text": " What do you feel like your legacy as CEO at Apple should be?"
+        "start": 545.4399999999999,
+        "end": 548.08,
+        "text": " Yeah, Mark, I don't think about it."
     },
     {
-        "start": 545.4599999999999,
-        "end": 548.06,
-        "text": " Yeah, Marques, I don't think about it."
-    },
-    {
-        "start": 548.06,
+        "start": 548.08,
         "end": 557.4,
-        "text": " And so to me, a legacy is something that is defined by other people looking at you, not"
+        "text": " And so to me, a legacy is something that is defined by other people looking at you,"
     },
     {
         "start": 557.4,
-        "end": 560.9,
-        "text": " something that you define yourself."
+        "end": 560.68,
+        "text": " not something that you define yourself."
     },
     {
-        "start": 560.9,
-        "end": 561.9,
+        "start": 560.68,
+        "end": 562.68,
         "text": " Very fair."
     },
     {
-        "start": 562.66,
-        "end": 570.6999999999999,
-        "text": " And so, and I typically, I'm always focused on the forward, not the rear view mirror."
+        "start": 562.68,
+        "end": 570.72,
+        "text": " And so I typically, I'm always focused on the forward, not the rearview mirror."
     },
     {
-        "start": 570.6999999999999,
-        "end": 576.5799999999999,
-        "text": " And that's, that is a characteristic of Apple in general, is we're very focused on the forward."
+        "start": 570.72,
+        "end": 576.6,
+        "text": " And that is a characteristic of Apple in general is we're very focused on the forward."
     },
     {
-        "start": 576.5799999999999,
-        "end": 579.34,
+        "start": 576.6,
+        "end": 579.36,
         "text": " You won't find a museum here."
     },
     {
-        "start": 579.34,
-        "end": 584.78,
+        "start": 579.36,
+        "end": 584.8000000000001,
         "text": " And yet we would have lots of things that you might like to see and reminisce about."
     },
     {
-        "start": 584.78,
-        "end": 587.78,
+        "start": 584.8000000000001,
+        "end": 588.5600000000001,
         "text": " But we just don't, it's just not a part of our culture."
     },
     {
-        "start": 587.78,
-        "end": 588.78,
-        "text": " Yeah."
-    },
-    {
-        "start": 589.06,
-        "end": 592.38,
+        "start": 588.5600000000001,
+        "end": 592.36,
         "text": " And so I feel the same way personally."
     },
     {
-        "start": 592.38,
-        "end": 596.18,
-        "text": " At some point there will be another CEO."
+        "start": 592.36,
+        "end": 604.04,
+        "text": " At some point there will be another CEO and my whole focus in life will be on making"
     },
     {
-        "start": 596.18,
-        "end": 605.18,
-        "text": " And my whole focus in life will be on making them successful."
+        "start": 604.04,
+        "end": 605.04,
+        "text": " them successful."
     },
     {
-        "start": 605.18,
-        "end": 606.78,
-        "text": " Yeah, I like that answer."
+        "start": 605.04,
+        "end": 606.04,
+        "text": " Yeah, I like that."
     },
     {
-        "start": 606.78,
-        "end": 607.78,
-        "text": " It's a very LeBron answer."
+        "start": 606.04,
+        "end": 607.04,
+        "text": " That's a very LeBron answer."
     },
     {
-        "start": 607.78,
-        "end": 608.78,
-        "text": " I feel like he's said that."
+        "start": 607.04,
+        "end": 608.04,
+        "text": " Like you saw it."
     },
     {
-        "start": 608.78,
-        "end": 609.78,
-        "text": " Oh, is that right?"
+        "start": 608.04,
+        "end": 609.04,
+        "text": " Oh, it's our own things."
     },
     {
-        "start": 609.78,
-        "end": 610.78,
+        "start": 609.04,
+        "end": 610.04,
         "text": " Yeah."
     },
     {
-        "start": 610.78,
-        "end": 611.78,
+        "start": 610.04,
+        "end": 612.04,
         "text": " All right, I want to end with a little game."
     },
     {
-        "start": 611.78,
-        "end": 615.5799999999999,
+        "start": 612.04,
+        "end": 615.44,
         "text": " I don't know if you've seen these where, it's a blind ranking."
     },
     {
-        "start": 615.5799999999999,
-        "end": 617.02,
-        "text": " Have you seen what these are?"
+        "start": 615.44,
+        "end": 617.04,
+        "text": " Have you seen one of these there?"
     },
     {
-        "start": 617.02,
-        "end": 618.1,
+        "start": 617.04,
+        "end": 618.04,
         "text": " A blind ranking."
     },
     {
-        "start": 618.4200000000001,
-        "end": 622.1800000000001,
-        "text": " So we're going to do a top five Apple products of all time."
+        "start": 618.04,
+        "end": 619.04,
+        "text": " Blind ranking."
     },
     {
-        "start": 622.1800000000001,
-        "end": 625.02,
-        "text": " But I'm going to give you them one at a time and you don't know what the rest of them are."
+        "start": 619.04,
+        "end": 620.04,
+        "text": " So we're going to do a top five."
     },
     {
-        "start": 625.02,
-        "end": 628.7,
+        "start": 620.04,
+        "end": 622.16,
+        "text": " Apple products of all time."
+    },
+    {
+        "start": 622.16,
+        "end": 624.7199999999999,
+        "text": " But I'm going to give you them one at a time and you don't know what the rest of them"
+    },
+    {
+        "start": 624.7199999999999,
+        "end": 625.7199999999999,
+        "text": " are."
+    },
+    {
+        "start": 625.7199999999999,
+        "end": 629.04,
         "text": " So you have to rank the first one without knowing what two, three, four, and five are."
     },
     {
-        "start": 628.7,
-        "end": 631.5400000000001,
+        "start": 629.04,
+        "end": 631.52,
         "text": " Oh, and this is your ranking?"
     },
     {
-        "start": 631.5400000000001,
-        "end": 636.34,
-        "text": " This will be your unofficial ranking just based on your gut reaction of how you feel"
+        "start": 631.52,
+        "end": 634.0,
+        "text": " This will be your unofficial ranking."
     },
     {
-        "start": 636.34,
-        "end": 637.34,
-        "text": " about the products."
+        "start": 634.0,
+        "end": 637.1999999999999,
+        "text": " Just based on your gut reaction of how you feel about the product."
     },
     {
-        "start": 637.34,
-        "end": 638.34,
-        "text": " Oh, this is a tough one."
+        "start": 637.1999999999999,
+        "end": 639.12,
+        "text": " This is a tough one because it is a tough one."
     },
     {
-        "start": 638.34,
-        "end": 639.34,
-        "text": " It is a tough one."
-    },
-    {
-        "start": 639.34,
-        "end": 645.1800000000001,
+        "start": 639.12,
+        "end": 644.1999999999999,
         "text": " It's like asking you your favorite kids or nephews or nieces."
     },
     {
-        "start": 645.1800000000001,
-        "end": 646.1800000000001,
+        "start": 644.1999999999999,
+        "end": 646.1999999999999,
         "text": " We'll see how it goes."
     },
     {
-        "start": 646.1800000000001,
-        "end": 647.1800000000001,
+        "start": 646.1999999999999,
+        "end": 647.1999999999999,
         "text": " Yeah."
     },
     {
-        "start": 647.26,
-        "end": 652.3399999999999,
-        "text": " So, Macbook Air, it had that iconic moment of taking it out the envelope on stage."
+        "start": 647.1999999999999,
+        "end": 648.1999999999999,
+        "text": " Okay."
     },
     {
-        "start": 652.3399999999999,
-        "end": 654.8599999999999,
-        "text": " It's the most popular laptop in the world, I think."
+        "start": 648.2,
+        "end": 651.88,
+        "text": " But I had that iconic moment of like taking it out the envelope on stage."
     },
     {
-        "start": 654.8599999999999,
-        "end": 664.8,
-        "text": " It's the most popular in the world and that moment of taking it out of the folder established"
+        "start": 651.88,
+        "end": 652.88,
+        "text": " It's the most popular."
     },
     {
-        "start": 664.8,
-        "end": 670.5799999999999,
-        "text": " a characteristic about that device that lives today."
+        "start": 652.88,
+        "end": 654.9200000000001,
+        "text": " They're laptop in the world, I think."
     },
     {
-        "start": 670.5799999999999,
-        "end": 675.7199999999999,
+        "start": 654.9200000000001,
+        "end": 657.24,
+        "text": " It's the most popular in the world."
+    },
+    {
+        "start": 657.24,
+        "end": 668.0400000000001,
+        "text": " And that moment of taking it out of the folder, established a characteristic about that device"
+    },
+    {
+        "start": 668.0400000000001,
+        "end": 670.6400000000001,
+        "text": " that lives today."
+    },
+    {
+        "start": 670.6400000000001,
+        "end": 675.76,
         "text": " The first one, it wasn't about how many people would buy it."
     },
     {
         "start": 675.76,
-        "end": 678.1600000000001,
+        "end": 677.92,
         "text": " It was about establishing the foundation."
     },
     {
-        "start": 678.1600000000001,
-        "end": 680.86,
-        "text": " Was that the first Air product?"
+        "start": 677.92,
+        "end": 680.04,
+        "text": " Was that the first air?"
     },
     {
-        "start": 680.86,
-        "end": 683.32,
-        "text": " That was of any line."
+        "start": 680.04,
+        "end": 683.36,
+        "text": " That was the, that was of any line."
     },
     {
-        "start": 683.32,
-        "end": 684.32,
+        "start": 683.36,
+        "end": 684.36,
         "text": " Yeah."
     },
     {
-        "start": 684.32,
-        "end": 685.32,
-        "text": " It might have been."
+        "start": 684.36,
+        "end": 685.36,
+        "text": " You might have been there."
     },
     {
-        "start": 685.32,
-        "end": 686.32,
+        "start": 685.36,
+        "end": 686.36,
         "text": " I believe so, yes."
     },
     {
-        "start": 686.32,
-        "end": 687.32,
+        "start": 686.36,
+        "end": 687.36,
         "text": " Okay."
     },
     {
-        "start": 687.32,
-        "end": 688.32,
+        "start": 687.36,
+        "end": 688.36,
         "text": " I believe so."
     },
     {
-        "start": 688.32,
-        "end": 693.88,
+        "start": 688.36,
+        "end": 694.0,
         "text": " And so I'm going to fail miserably at giving you a ranking, but it was a huge moment."
     },
     {
-        "start": 693.88,
-        "end": 694.88,
+        "start": 694.0,
+        "end": 695.0,
         "text": " Yeah."
     },
     {
-        "start": 694.88,
+        "start": 695.0,
         "end": 696.64,
         "text": " A huge moment for the company."
     },
@@ -1011,26 +1041,26 @@
     },
     {
         "start": 697.64,
-        "end": 699.72,
+        "end": 699.68,
         "text": " Oh, wow."
     },
     {
-        "start": 699.72,
-        "end": 703.9200000000001,
+        "start": 699.68,
+        "end": 703.88,
         "text": " You know, tablets had been in the market for a long time."
     },
     {
-        "start": 703.92,
-        "end": 706.1999999999999,
+        "start": 703.88,
+        "end": 706.2,
         "text": " Our objective is never to be first."
     },
     {
-        "start": 706.1999999999999,
-        "end": 707.64,
+        "start": 706.2,
+        "end": 707.6,
         "text": " Our objective is to be best."
     },
     {
-        "start": 707.64,
+        "start": 707.6,
         "end": 709.4399999999999,
         "text": " I remember all the rumors leading up to it."
     },
@@ -1041,16 +1071,16 @@
     },
     {
         "start": 717.92,
-        "end": 723.5999999999999,
+        "end": 723.36,
         "text": " too nice about it in the beginning, including the name."
     },
     {
-        "start": 723.5999999999999,
-        "end": 729.76,
-        "text": " And yet, I couldn't live without my iPad today."
+        "start": 723.36,
+        "end": 727.88,
+        "text": " And yet I couldn't live without my iPad today."
     },
     {
-        "start": 729.76,
+        "start": 728.88,
         "end": 734.52,
         "text": " And so another huge moment for the company."
     },
@@ -1061,11 +1091,11 @@
     },
     {
         "start": 737.84,
-        "end": 743.3199999999999,
+        "end": 743.32,
         "text": " The Magic Mouse."
     },
     {
-        "start": 743.3199999999999,
+        "start": 743.32,
         "end": 748.8,
         "text": " It was also an incredible moment."
     },
@@ -1076,236 +1106,251 @@
     },
     {
         "start": 754.08,
-        "end": 758.24,
+        "end": 757.44,
         "text": " else you're going to name, probably."
     },
     {
-        "start": 758.92,
-        "end": 768.24,
-        "text": " But getting the ergonomics well done was key."
+        "start": 758.0,
+        "end": 768.0,
+        "text": " But the getting the ergonomics well done and was key."
     },
     {
-        "start": 768.24,
-        "end": 769.72,
+        "start": 768.0,
+        "end": 769.5200000000001,
         "text": " With Magic Mouse."
     },
     {
-        "start": 769.72,
-        "end": 770.72,
+        "start": 769.5200000000001,
+        "end": 770.5200000000001,
         "text": " Yeah."
     },
     {
-        "start": 770.72,
-        "end": 771.72,
+        "start": 770.5200000000001,
+        "end": 771.5200000000001,
         "text": " Okay."
     },
     {
-        "start": 771.72,
-        "end": 772.72,
-        "text": " Four out of five?"
+        "start": 771.5200000000001,
+        "end": 772.5200000000001,
+        "text": " Four out of five."
     },
     {
-        "start": 772.72,
-        "end": 773.72,
-        "text": " The iPhone?"
+        "start": 772.5200000000001,
+        "end": 773.5200000000001,
+        "text": " The iPhone."
     },
     {
-        "start": 773.72,
-        "end": 775.6800000000001,
-        "text": " Oh my God."
+        "start": 773.5200000000001,
+        "end": 774.6800000000001,
+        "text": " Oh, my God."
     },
     {
-        "start": 775.6800000000001,
-        "end": 776.6800000000001,
+        "start": 774.6800000000001,
+        "end": 776.8800000000001,
         "text": " It changed the world."
     },
     {
-        "start": 776.6800000000001,
-        "end": 777.88,
+        "start": 776.8800000000001,
+        "end": 777.8800000000001,
         "text": " It definitely changed the world."
     },
     {
-        "start": 777.88,
+        "start": 777.8800000000001,
         "end": 779.44,
         "text": " It changed the world."
     },
     {
         "start": 779.44,
-        "end": 791.7600000000001,
-        "text": " And the simplicity of defining the three things that were on the phone was brilliant to get"
+        "end": 791.6,
+        "text": " And the simplicity of defining the three things that were on the phone was brilliant to"
     },
     {
-        "start": 791.7600000000001,
-        "end": 796.2800000000001,
-        "text": " people to think about it like that."
+        "start": 791.6,
+        "end": 796.12,
+        "text": " get people to think about it like that."
     },
     {
-        "start": 796.2800000000001,
-        "end": 803.5200000000001,
-        "text": " And of course, opening up, this isn't talked about as much, but initially you'll remember"
+        "start": 796.12,
+        "end": 801.36,
+        "text": " And of course opening up, this isn't talked about as much."
     },
     {
-        "start": 803.5200000000001,
-        "end": 805.6800000000001,
-        "text": " that there was not an App Store."
+        "start": 801.36,
+        "end": 805.72,
+        "text": " But initially you'll remember that there was not an App Store."
     },
     {
-        "start": 805.7199999999999,
+        "start": 805.72,
         "end": 813.52,
         "text": " The App Store came a year later and that changed everything in the developer community."
     },
     {
         "start": 813.52,
-        "end": 821.88,
+        "end": 821.9200000000001,
         "text": " Because now I meet with students every WWDC and they give me such great inspiration."
     },
     {
-        "start": 821.88,
-        "end": 826.64,
+        "start": 821.9200000000001,
+        "end": 826.6800000000001,
         "text": " There were no students in the developer community at that particular point in time."
     },
     {
-        "start": 826.64,
-        "end": 834.8,
+        "start": 826.6800000000001,
+        "end": 834.8000000000001,
         "text": " Now the developer population is very diverse from an age point of view and everything else."
     },
     {
         "start": 834.8,
-        "end": 846.9599999999999,
-        "text": " And fundamentally it became an economic miracle for people and got well outside of just doing"
+        "end": 846.68,
+        "text": " And it just fundamentally became an economic miracle for people and got well outside of just"
     },
     {
-        "start": 846.9599999999999,
-        "end": 849.9599999999999,
-        "text": " it for a hobby."
+        "start": 846.68,
+        "end": 849.0,
+        "text": " doing it for a hobby."
     },
     {
-        "start": 849.9599999999999,
-        "end": 853.0,
+        "start": 849.0,
+        "end": 853.1999999999999,
         "text": " You look at all the businesses that came out of it."
     },
     {
-        "start": 853.0,
-        "end": 854.64,
-        "text": " Yeah, and now we have WWDC."
+        "start": 853.1999999999999,
+        "end": 854.1999999999999,
+        "text": " Yeah."
     },
     {
-        "start": 854.64,
-        "end": 855.64,
+        "start": 854.1999999999999,
+        "end": 855.1999999999999,
+        "text": " And now WWDC."
+    },
+    {
+        "start": 855.1999999999999,
+        "end": 856.1999999999999,
         "text": " That's right."
     },
     {
-        "start": 855.64,
-        "end": 858.88,
+        "start": 856.1999999999999,
+        "end": 859.1999999999999,
         "text": " Last but not least, Vision Pro."
     },
     {
-        "start": 858.88,
-        "end": 863.3599999999999,
-        "text": " Oh, I love Vision Pro."
+        "start": 859.2,
+        "end": 863.4000000000001,
+        "text": " I love Vision Pro."
     },
     {
-        "start": 863.36,
-        "end": 868.88,
+        "start": 863.4000000000001,
+        "end": 869.2,
         "text": " I was just using it last night to look at the screening."
     },
     {
-        "start": 868.88,
-        "end": 870.5600000000001,
+        "start": 869.2,
+        "end": 870.6,
         "text": " What do you use Vision Pro for?"
     },
     {
-        "start": 870.5600000000001,
-        "end": 872.16,
-        "text": " I ask everybody who has one what they use it for."
+        "start": 870.6,
+        "end": 872.2,
+        "text": " I ask everybody who has one."
     },
     {
-        "start": 872.16,
-        "end": 877.64,
+        "start": 872.2,
+        "end": 877.6800000000001,
         "text": " I use it for the entertainment value."
     },
     {
-        "start": 877.64,
+        "start": 877.6800000000001,
         "end": 885.84,
         "text": " I use it when I want to do multitasking because I find the multiple windows really effective"
     },
     {
         "start": 885.84,
-        "end": 889.16,
+        "end": 889.12,
         "text": " in doing this."
     },
     {
-        "start": 889.16,
-        "end": 894.64,
-        "text": " Of course I'm reviewing lots of apps on it right now and some of those are enterprise"
+        "start": 889.12,
+        "end": 895.5600000000001,
+        "text": " Of course I'm reviewing lots of apps on it right now and some of those are enterprise apps,"
     },
     {
-        "start": 894.64,
-        "end": 900.28,
-        "text": " apps, some people's proprietary apps that they want to share with us."
+        "start": 895.5600000000001,
+        "end": 900.32,
+        "text": " some people's proprietary apps that they want to share with us."
     },
     {
-        "start": 900.28,
-        "end": 907.48,
+        "start": 900.32,
+        "end": 907.52,
         "text": " And I'm seeing an extraordinary number and variety of things coming out of the enterprise"
     },
     {
-        "start": 907.48,
-        "end": 912.7199999999999,
-        "text": " area far earlier than we would have predicted."
+        "start": 907.52,
+        "end": 908.52,
+        "text": " area."
     },
     {
-        "start": 912.7199999999999,
-        "end": 918.4,
+        "start": 908.52,
+        "end": 912.72,
+        "text": " Far earlier than we would have predicted."
+    },
+    {
+        "start": 912.72,
+        "end": 917.64,
         "text": " Because businesses generally move slow to adopt."
     },
     {
-        "start": 918.4399999999999,
-        "end": 924.88,
-        "text": " What we're seeing is that half of the Fortune 100 is now buying Vision Pro for some project"
+        "start": 917.64,
+        "end": 923.96,
+        "text": " And what we're seeing is that half of the Fortune 100 is now buying Vision Pro for"
     },
     {
-        "start": 924.88,
-        "end": 930.16,
-        "text": " or the other or exploring it."
+        "start": 923.96,
+        "end": 929.24,
+        "text": " some project or the other or exploring it."
     },
     {
-        "start": 930.16,
-        "end": 936.4,
-        "text": " I'm looking at several of those."
+        "start": 929.24,
+        "end": 934.64,
+        "text": " And so I'm looking at several of those."
     },
     {
-        "start": 936.4,
-        "end": 943.56,
-        "text": " I find that it's still an emotional experience to look at your photos and with Vision OS"
+        "start": 934.64,
+        "end": 936.4399999999999,
+        "text": " Yeah."
     },
     {
-        "start": 944.4,
-        "end": 952.92,
-        "text": " being able to take your old photos and make them 3D, I think is a big thing."
+        "start": 936.4399999999999,
+        "end": 942.36,
+        "text": " I find that it's still an emotional experience to look at your photos."
     },
     {
-        "start": 952.92,
-        "end": 960.8,
-        "text": " I lost both of my parents before Vision Pro came out."
+        "start": 942.36,
+        "end": 950.04,
+        "text": " And with Vision OS 2, being able to take your old photos and make them 3D, I think is"
     },
     {
-        "start": 960.8,
-        "end": 971.2399999999999,
-        "text": " Being able to go back and look at those photos differently is something that it's an experience"
+        "start": 950.04,
+        "end": 952.6800000000001,
+        "text": " a big thing."
     },
     {
-        "start": 971.2399999999999,
-        "end": 972.7199999999999,
-        "text": " you can't replicate."
+        "start": 952.6800000000001,
+        "end": 964.08,
+        "text": " And I lost both of my parents and before Vision Pro came out and being able to go back and"
     },
     {
-        "start": 972.84,
-        "end": 973.84,
+        "start": 964.08,
+        "end": 972.32,
+        "text": " look at those photos differently is something that it's an experience you can't replicate."
+    },
+    {
+        "start": 972.32,
+        "end": 973.32,
         "text": " Sure."
     },
     {
-        "start": 973.84,
+        "start": 973.32,
         "end": 977.6800000000001,
         "text": " Well, we didn't get a blind ranking but we got a pretty good retrospective of some of"
     },
@@ -1317,7 +1362,7 @@
     {
         "start": 978.6800000000001,
         "end": 979.6800000000001,
-        "text": " Thanks again for the time."
+        "text": " Thanks again."
     },
     {
         "start": 979.6800000000001,
@@ -1326,27 +1371,22 @@
     },
     {
         "start": 980.6800000000001,
-        "end": 984.6800000000001,
-        "text": " Looking forward to the next feature drops and the next W-D-O but this was fun."
+        "end": 984.72,
+        "text": " We can forward to the next feature drops in the next dub dub but this was fun."
     },
     {
-        "start": 984.6800000000001,
-        "end": 985.6800000000001,
+        "start": 984.72,
+        "end": 985.72,
         "text": " Thank you."
     },
     {
-        "start": 985.6800000000001,
-        "end": 986.6800000000001,
+        "start": 985.72,
+        "end": 986.72,
         "text": " Yeah, it was great fun."
     },
     {
-        "start": 986.6800000000001,
-        "end": 987.6800000000001,
+        "start": 986.72,
+        "end": 987.72,
         "text": " Thank you for coming."
-    },
-    {
-        "start": 987.6800000000001,
-        "end": 988.6800000000001,
-        "text": " Thanks for having me."
     }
 ]

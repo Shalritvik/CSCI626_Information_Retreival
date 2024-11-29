@@ -1,0 +1,4367 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 17.28,
+        "end": 19.68,
+        "text": " Hello and welcome to Podcasting House."
+    },
+    {
+        "start": 19.68,
+        "end": 22.48,
+        "text": " And if you're with us for the first time, you're especially welcome."
+    },
+    {
+        "start": 22.48,
+        "end": 24.32,
+        "text": " And this is what you need to know."
+    },
+    {
+        "start": 24.32,
+        "end": 26.88,
+        "text": " We choose a couple of podcasts for you every week."
+    },
+    {
+        "start": 26.88,
+        "end": 30.56,
+        "text": " And they're all from the BBC's huge, great library of podcasts."
+    },
+    {
+        "start": 30.56,
+        "end": 33.76,
+        "text": " And then if you like it, well, you can find it and subscribe wherever you"
+    },
+    {
+        "start": 33.76,
+        "end": 36.48,
+        "text": " subscribe to your podcasts. I am Rian."
+    },
+    {
+        "start": 36.48,
+        "end": 38.08,
+        "text": " And with me, I have Eli."
+    },
+    {
+        "start": 38.08,
+        "end": 38.76,
+        "text": " Hello."
+    },
+    {
+        "start": 38.76,
+        "end": 41.2,
+        "text": " Eli, what have you been listening to this week?"
+    },
+    {
+        "start": 41.2,
+        "end": 44.72,
+        "text": " Today, we're listening to episode one of Evil Genius."
+    },
+    {
+        "start": 44.72,
+        "end": 45.36,
+        "text": " Sounds good."
+    },
+    {
+        "start": 45.36,
+        "end": 46.480000000000004,
+        "text": " With Russell Cain."
+    },
+    {
+        "start": 46.480000000000004,
+        "end": 50.4,
+        "text": " It's a podcast about brilliant bastards in history."
+    },
+    {
+        "start": 50.4,
+        "end": 53.599999999999994,
+        "text": " People who contributed something special to the world,"
+    },
+    {
+        "start": 53.6,
+        "end": 57.68,
+        "text": " but whose private lives undercut their brilliance through"
+    },
+    {
+        "start": 57.68,
+        "end": 61.84,
+        "text": " spitefulness, abuse, or just plain vanilla."
+    },
+    {
+        "start": 61.84,
+        "end": 63.120000000000005,
+        "text": " So it's a new show."
+    },
+    {
+        "start": 63.120000000000005,
+        "end": 64.96000000000001,
+        "text": " Episode one is about John Lennon."
+    },
+    {
+        "start": 64.96000000000001,
+        "end": 66.72,
+        "text": " This is Evil Genius with Russell Cain."
+    },
+    {
+        "start": 70.72,
+        "end": 71.52000000000001,
+        "text": " Genius."
+    },
+    {
+        "start": 71.52000000000001,
+        "end": 71.92,
+        "text": " Genius."
+    },
+    {
+        "start": 71.92,
+        "end": 72.48,
+        "text": " Genius."
+    },
+    {
+        "start": 73.36,
+        "end": 77.04,
+        "text": " Hello. Welcome to Evil Genius, the BBC podcast where we take legendary"
+    },
+    {
+        "start": 77.04,
+        "end": 80.96000000000001,
+        "text": " achievers from history and ask, were they actually any good?"
+    },
+    {
+        "start": 80.96,
+        "end": 83.83999999999999,
+        "text": " I'm talking stellar figures who were also rather rowgish."
+    },
+    {
+        "start": 83.83999999999999,
+        "end": 86.63999999999999,
+        "text": " Icoms who were sometimes bang out of order."
+    },
+    {
+        "start": 86.63999999999999,
+        "end": 89.91999999999999,
+        "text": " Sometimes even revealing lovely stuff about people you thought were vile."
+    },
+    {
+        "start": 89.91999999999999,
+        "end": 91.67999999999999,
+        "text": " Make your own list in your head, people."
+    },
+    {
+        "start": 91.67999999999999,
+        "end": 93.19999999999999,
+        "text": " Can you still respect a vision?"
+    },
+    {
+        "start": 93.19999999999999,
+        "end": 96.24,
+        "text": " Revere the art or thinking once we've reflected on what utter"
+    },
+    {
+        "start": 96.24,
+        "end": 98.08,
+        "text": " dastards they were or not?"
+    },
+    {
+        "start": 98.88,
+        "end": 101.75999999999999,
+        "text": " Here, I'm interested in agreeing on only one thing."
+    },
+    {
+        "start": 101.75999999999999,
+        "end": 102.72,
+        "text": " Were they Evil?"
+    },
+    {
+        "start": 104.88,
+        "end": 105.83999999999999,
+        "text": " Or Genius?"
+    },
+    {
+        "start": 106.48,
+        "end": 111.92,
+        "text": " I took less fee to make that sound happen."
+    },
+    {
+        "start": 113.2,
+        "end": 116.80000000000001,
+        "text": " No grey areas in this studio, apart from my tragically just for men covered here,"
+    },
+    {
+        "start": 117.36,
+        "end": 120.80000000000001,
+        "text": " we'll be sticking the subject in one of those boxes by the end of the show."
+    },
+    {
+        "start": 121.68,
+        "end": 125.36,
+        "text": " And helping me be reductive to the point of light entertainment and"
+    },
+    {
+        "start": 125.36,
+        "end": 130.64000000000001,
+        "text": " cutting at the other end is Rachel Paris, comedian, musician, actor from Lester,"
+    },
+    {
+        "start": 130.64000000000001,
+        "end": 133.68,
+        "text": " you might have seen her absolutely smashing the masher report,"
+    },
+    {
+        "start": 133.76000000000002,
+        "end": 135.84,
+        "text": " doing brilliant series too. I'm absolutely loving it."
+    },
+    {
+        "start": 135.84,
+        "end": 137.68,
+        "text": " Also, your vintage dresses are here."
+    },
+    {
+        "start": 137.68,
+        "end": 139.12,
+        "text": " And you enjoy a long walk on the beach."
+    },
+    {
+        "start": 139.12,
+        "end": 140.32,
+        "text": " Were you being ironic when you said that?"
+    },
+    {
+        "start": 140.32,
+        "end": 142.96,
+        "text": " I was being ironic about the last one, but I'm really"
+    },
+    {
+        "start": 142.96,
+        "end": 144.16,
+        "text": " into vintage dresses."
+    },
+    {
+        "start": 144.16,
+        "end": 144.8,
+        "text": " Oh, glad to hear it."
+    },
+    {
+        "start": 144.8,
+        "end": 147.20000000000002,
+        "text": " And you've got a genius or evil fact about yourself?"
+    },
+    {
+        "start": 147.20000000000002,
+        "end": 148.72,
+        "text": " Well, I suppose on that topic actually."
+    },
+    {
+        "start": 148.72,
+        "end": 152.16,
+        "text": " So I am a genius definitely with charity shops."
+    },
+    {
+        "start": 152.16,
+        "end": 153.52,
+        "text": " I can walk into a charity shop."
+    },
+    {
+        "start": 153.52,
+        "end": 159.28,
+        "text": " It doesn't matter if it's like high end low end and I can spot a bargain and amazing things."
+    },
+    {
+        "start": 159.28,
+        "end": 160.64000000000001,
+        "text": " I can just go in and sniff it."
+    },
+    {
+        "start": 160.64000000000001,
+        "end": 161.60000000000002,
+        "text": " I'm sorry, now where they are."
+    },
+    {
+        "start": 161.6,
+        "end": 163.84,
+        "text": " Bargain radar genius, very, very useful."
+    },
+    {
+        "start": 163.84,
+        "end": 168.07999999999998,
+        "text": " We've got Sean McLaughlin, a stand up, a veteran of Edinburgh."
+    },
+    {
+        "start": 168.07999999999998,
+        "end": 172.0,
+        "text": " It can take pain to an almost unbelievable level, like all of us."
+    },
+    {
+        "start": 172.0,
+        "end": 172.32,
+        "text": " Yes."
+    },
+    {
+        "start": 172.32,
+        "end": 173.68,
+        "text": " I went to Edinburgh for nine times."
+    },
+    {
+        "start": 173.68,
+        "end": 176.16,
+        "text": " The last time I went was when everyone of my posters had"
+    },
+    {
+        "start": 176.16,
+        "end": 177.68,
+        "text": " twat go away written on."
+    },
+    {
+        "start": 177.68,
+        "end": 178.88,
+        "text": " That's when it's time to leave."
+    },
+    {
+        "start": 178.88,
+        "end": 180.07999999999998,
+        "text": " And I've apologized so often."
+    },
+    {
+        "start": 180.07999999999998,
+        "end": 183.28,
+        "text": " I know, but really awkward when I explained I wasn't Nick Grimshaw."
+    },
+    {
+        "start": 183.28,
+        "end": 186.72,
+        "text": " So anything genius or evil you'd like to reveal?"
+    },
+    {
+        "start": 186.72,
+        "end": 188.88,
+        "text": " I just remembered actually me and my friends."
+    },
+    {
+        "start": 188.96,
+        "end": 190.16,
+        "text": " This is quite evil."
+    },
+    {
+        "start": 190.16,
+        "end": 197.6,
+        "text": " When we were in secondary school, we stole the props that were needed for the GCSE art students."
+    },
+    {
+        "start": 197.6,
+        "end": 198.0,
+        "text": " What?"
+    },
+    {
+        "start": 198.0,
+        "end": 200.32,
+        "text": " For them to draw in their exam."
+    },
+    {
+        "start": 200.32,
+        "end": 203.28,
+        "text": " But it was all, it didn't mean to steal them."
+    },
+    {
+        "start": 203.28,
+        "end": 205.28,
+        "text": " It was, they were drawing chocolate."
+    },
+    {
+        "start": 205.28,
+        "end": 208.64,
+        "text": " And we went into an art room in a break and there was just no to kick out to me, ain't them?"
+    },
+    {
+        "start": 209.44,
+        "end": 213.04,
+        "text": " Ironically it led to the most genius bout of hand painting ever seen."
+    },
+    {
+        "start": 215.35999999999999,
+        "end": 218.32,
+        "text": " Finally, helping me evaluate evil or genius is novelist."
+    },
+    {
+        "start": 218.32,
+        "end": 220.88,
+        "text": " Genius or own right, Kaz Freer who grew up in Coventry,"
+    },
+    {
+        "start": 220.88,
+        "end": 222.32,
+        "text": " done loads of weird or wonderful jobs."
+    },
+    {
+        "start": 222.32,
+        "end": 223.84,
+        "text": " Waitressing, headhunter."
+    },
+    {
+        "start": 223.84,
+        "end": 224.56,
+        "text": " Is that right?"
+    },
+    {
+        "start": 224.56,
+        "end": 226.32,
+        "text": " Yes, which makes me sound like a wrestler."
+    },
+    {
+        "start": 226.32,
+        "end": 227.76,
+        "text": " Very old, isn't it?"
+    },
+    {
+        "start": 227.76,
+        "end": 229.44,
+        "text": " And you're also a manic arsenal fan,"
+    },
+    {
+        "start": 229.44,
+        "end": 231.6,
+        "text": " a normally shout-out at the telly when they're playing."
+    },
+    {
+        "start": 231.6,
+        "end": 234.0,
+        "text": " Anything evil or genius you want to tell us about that you've been up to?"
+    },
+    {
+        "start": 234.0,
+        "end": 234.95999999999998,
+        "text": " Or do?"
+    },
+    {
+        "start": 234.95999999999998,
+        "end": 236.72,
+        "text": " I think I'm fairly genius at."
+    },
+    {
+        "start": 236.72,
+        "end": 239.28,
+        "text": " And this was before I started writing crime fiction to be fair."
+    },
+    {
+        "start": 239.28,
+        "end": 243.76,
+        "text": " Since I was a child at just being able to spot who done it in any sort of,"
+    },
+    {
+        "start": 243.76,
+        "end": 245.6,
+        "text": " any novel, any TV show."
+    },
+    {
+        "start": 245.68,
+        "end": 249.84,
+        "text": " People don't watch things with me because I'm just well known for getting it within five minutes."
+    },
+    {
+        "start": 249.84,
+        "end": 251.6,
+        "text": " I think we really like literary,"
+    },
+    {
+        "start": 251.6,
+        "end": 252.96,
+        "text": " especially if they took into the police."
+    },
+    {
+        "start": 252.96,
+        "end": 254.32,
+        "text": " That would be a good character."
+    },
+    {
+        "start": 254.32,
+        "end": 256.71999999999997,
+        "text": " Like a novelist, do they take into a police station?"
+    },
+    {
+        "start": 256.71999999999997,
+        "end": 257.52,
+        "text": " I love you."
+    },
+    {
+        "start": 257.52,
+        "end": 260.32,
+        "text": " And he has to write, it goes into like automatic writing and writes the crime down."
+    },
+    {
+        "start": 260.32,
+        "end": 260.96,
+        "text": " I like it."
+    },
+    {
+        "start": 260.96,
+        "end": 261.76,
+        "text": " Have that one on me."
+    },
+    {
+        "start": 262.96,
+        "end": 264.24,
+        "text": " So how are we going to do this?"
+    },
+    {
+        "start": 264.24,
+        "end": 267.28,
+        "text": " I've distributed envelopes amongst my panelists."
+    },
+    {
+        "start": 267.28,
+        "end": 272.48,
+        "text": " Periodically, we'll open an envelope and reveal a curveball fact about today's subject."
+    },
+    {
+        "start": 272.48,
+        "end": 273.92,
+        "text": " Okay guys, this is evil genius."
+    },
+    {
+        "start": 273.92,
+        "end": 276.32,
+        "text": " You probably want to know who we're going to be talking about."
+    },
+    {
+        "start": 276.32,
+        "end": 277.6,
+        "text": " John Lennon."
+    },
+    {
+        "start": 278.24,
+        "end": 279.44,
+        "text": " Now I know what you're thinking."
+    },
+    {
+        "start": 279.44,
+        "end": 280.24,
+        "text": " I know what you're thinking."
+    },
+    {
+        "start": 280.24,
+        "end": 281.12,
+        "text": " Where's the evil?"
+    },
+    {
+        "start": 281.68,
+        "end": 283.52000000000004,
+        "text": " Yeah, you might not like the music,"
+    },
+    {
+        "start": 283.52000000000004,
+        "end": 284.64000000000004,
+        "text": " but come on."
+    },
+    {
+        "start": 284.64000000000004,
+        "end": 287.28000000000003,
+        "text": " It's part of our history as Brits,"
+    },
+    {
+        "start": 287.28000000000003,
+        "end": 291.36,
+        "text": " made amazing songs, changed the face of rock and roll pop music, music forever."
+    },
+    {
+        "start": 291.36,
+        "end": 292.56,
+        "text": " Where's the evil guys?"
+    },
+    {
+        "start": 292.56,
+        "end": 293.84000000000003,
+        "text": " Around sunglasses."
+    },
+    {
+        "start": 293.84000000000003,
+        "end": 294.8,
+        "text": " Round sunglasses."
+    },
+    {
+        "start": 294.8,
+        "end": 296.0,
+        "text": " They never existed before."
+    },
+    {
+        "start": 296.0,
+        "end": 296.32,
+        "text": " Yes."
+    },
+    {
+        "start": 297.76,
+        "end": 298.96000000000004,
+        "text": " Any thoughts on John Lennon?"
+    },
+    {
+        "start": 298.96000000000004,
+        "end": 300.96000000000004,
+        "text": " Initially any fans, any haters?"
+    },
+    {
+        "start": 300.96000000000004,
+        "end": 301.68,
+        "text": " Never heard of him."
+    },
+    {
+        "start": 301.68,
+        "end": 302.16,
+        "text": " I'll be honest."
+    },
+    {
+        "start": 303.12,
+        "end": 304.72,
+        "text": " What you're talking about."
+    },
+    {
+        "start": 304.72,
+        "end": 305.12,
+        "text": " Great."
+    },
+    {
+        "start": 305.12,
+        "end": 306.8,
+        "text": " You're going to be really useful, Sean."
+    },
+    {
+        "start": 306.8,
+        "end": 308.32000000000005,
+        "text": " As always, Rachel."
+    },
+    {
+        "start": 308.32000000000005,
+        "end": 310.32000000000005,
+        "text": " I know some of his songs."
+    },
+    {
+        "start": 312.08000000000004,
+        "end": 316.72,
+        "text": " I've seen him on a bed with Yoco-O-No."
+    },
+    {
+        "start": 318.72,
+        "end": 323.84000000000003,
+        "text": " I have read a bit about him in a book called The Wallrus was Paul,"
+    },
+    {
+        "start": 323.84000000000003,
+        "end": 327.52000000000004,
+        "text": " which is about Paul McCartney being dead, which is a great read."
+    },
+    {
+        "start": 328.8,
+        "end": 331.20000000000005,
+        "text": " But no, they sent it to my knowledge of home."
+    },
+    {
+        "start": 331.28,
+        "end": 332.15999999999997,
+        "text": " Okay, let's come on."
+    },
+    {
+        "start": 332.15999999999997,
+        "end": 336.47999999999996,
+        "text": " What type of music do you listen to when you're not listening to Stormzy's Child Bear Troops?"
+    },
+    {
+        "start": 337.92,
+        "end": 339.12,
+        "text": " Just tragic stuff."
+    },
+    {
+        "start": 340.96,
+        "end": 342.32,
+        "text": " What is your musical taste?"
+    },
+    {
+        "start": 342.32,
+        "end": 343.59999999999997,
+        "text": " Come on, we all want to know now, guys."
+    },
+    {
+        "start": 343.59999999999997,
+        "end": 344.4,
+        "text": " Oh my god."
+    },
+    {
+        "start": 345.12,
+        "end": 346.24,
+        "text": " Nazi marching music."
+    },
+    {
+        "start": 346.24,
+        "end": 349.84,
+        "text": " No, just like 90s indie, trying to be like 18."
+    },
+    {
+        "start": 349.84,
+        "end": 352.32,
+        "text": " But 90s indie is the child of Lennon's vision."
+    },
+    {
+        "start": 353.76,
+        "end": 356.48,
+        "text": " I probably would have said he was a genius then,"
+    },
+    {
+        "start": 356.48,
+        "end": 359.28,
+        "text": " but then you grow up and you get older and you get wise, I don't you."
+    },
+    {
+        "start": 359.28,
+        "end": 363.28,
+        "text": " So you're musically, you'll probably have the taste closest to knowing a little bit about Lennon."
+    },
+    {
+        "start": 363.28,
+        "end": 366.55999999999995,
+        "text": " Because I'll admit, it's not my cup of tea."
+    },
+    {
+        "start": 366.55999999999995,
+        "end": 371.84,
+        "text": " I kind of, I never really know which songs he wrote or which ones he sang."
+    },
+    {
+        "start": 371.84,
+        "end": 376.47999999999996,
+        "text": " I know the Beatles, but when people go, that wasn't Lennon, that was McCartney."
+    },
+    {
+        "start": 376.47999999999996,
+        "end": 379.44,
+        "text": " And sometimes they say that was a George Harrison or what I'm like."
+    },
+    {
+        "start": 379.44,
+        "end": 381.76,
+        "text": " They don't go into the third one, they go into the third."
+    },
+    {
+        "start": 381.76,
+        "end": 383.2,
+        "text": " Never ring day, they poor, or ring day."
+    },
+    {
+        "start": 383.2,
+        "end": 384.88,
+        "text": " No one likes Thomas the tech."
+    },
+    {
+        "start": 384.88,
+        "end": 386.79999999999995,
+        "text": " Well, let's crack up in the first envelope."
+    },
+    {
+        "start": 387.52000000000004,
+        "end": 389.04,
+        "text": " Alright, envelope one."
+    },
+    {
+        "start": 389.04,
+        "end": 391.52000000000004,
+        "text": " Just says Beatles."
+    },
+    {
+        "start": 392.32,
+        "end": 394.24,
+        "text": " Yeah, so we're already sort of there."
+    },
+    {
+        "start": 394.24,
+        "end": 397.84000000000003,
+        "text": " This is the first fact revealed by Shorzeze Genius fact."
+    },
+    {
+        "start": 398.48,
+        "end": 400.56,
+        "text": " He created the Beatles."
+    },
+    {
+        "start": 400.56,
+        "end": 401.04,
+        "text": " Come on."
+    },
+    {
+        "start": 401.04,
+        "end": 402.0,
+        "text": " I don't know who he'd this guy in."
+    },
+    {
+        "start": 402.0,
+        "end": 402.88,
+        "text": " I thought so."
+    },
+    {
+        "start": 402.88,
+        "end": 405.84000000000003,
+        "text": " Yeah, he thought he was a Russian communist dictator for it."
+    },
+    {
+        "start": 405.84000000000003,
+        "end": 406.72,
+        "text": " I got confused."
+    },
+    {
+        "start": 407.68,
+        "end": 412.16,
+        "text": " No, he created the greatest rock band, the planet, as probably ever seen."
+    },
+    {
+        "start": 412.16,
+        "end": 414.40000000000003,
+        "text": " The first boy band that was also a rock band changed."
+    },
+    {
+        "start": 414.4,
+        "end": 417.76,
+        "text": " The face of music represented the UK all over the world,"
+    },
+    {
+        "start": 417.76,
+        "end": 419.28,
+        "text": " smashed America."
+    },
+    {
+        "start": 419.28,
+        "end": 422.79999999999995,
+        "text": " We can be proudly say you were British because we had the Beatles."
+    },
+    {
+        "start": 423.35999999999996,
+        "end": 428.32,
+        "text": " I mean, okay, this is from the spectator, one of my favorite magazines which I subscribe to know."
+    },
+    {
+        "start": 429.2,
+        "end": 430.0,
+        "text": " Love me, dude."
+    },
+    {
+        "start": 430.0,
+        "end": 433.44,
+        "text": " It was number 17 in the UK late 1962."
+    },
+    {
+        "start": 433.44,
+        "end": 437.35999999999996,
+        "text": " And number one in the USA in 1964 is a basic pop song,"
+    },
+    {
+        "start": 437.35999999999996,
+        "end": 440.4,
+        "text": " three chords, minimal bluesy melody and childish lyrics."
+    },
+    {
+        "start": 440.4,
+        "end": 443.67999999999995,
+        "text": " But I'm musicians, neck hairs, tremble, nevertheless."
+    },
+    {
+        "start": 444.0,
+        "end": 447.28000000000003,
+        "text": " They already had the four boys, the luscious out of tune,"
+    },
+    {
+        "start": 447.28000000000003,
+        "end": 449.44,
+        "text": " your in tune, unison singing sound."
+    },
+    {
+        "start": 449.44,
+        "end": 452.72,
+        "text": " There's a perky melodic lyric chemistry in their work."
+    },
+    {
+        "start": 453.6,
+        "end": 454.64,
+        "text": " I'm genius, right?"
+    },
+    {
+        "start": 455.68,
+        "end": 459.76,
+        "text": " I do think the Beatles' music is quite incredible."
+    },
+    {
+        "start": 459.76,
+        "end": 460.72,
+        "text": " Which is a favorite track."
+    },
+    {
+        "start": 460.72,
+        "end": 462.96000000000004,
+        "text": " I know we're all pretending to be more ignorant than we are,"
+    },
+    {
+        "start": 462.96000000000004,
+        "end": 466.24,
+        "text": " but it's one of those things, like sometimes on this show,"
+    },
+    {
+        "start": 466.24,
+        "end": 468.64,
+        "text": " I might be talking about Evelyn or Einstein, right?"
+    },
+    {
+        "start": 468.64,
+        "end": 470.32,
+        "text": " You have a no stuff or you don't."
+    },
+    {
+        "start": 470.4,
+        "end": 475.76,
+        "text": " But every single one of us have grown up with some sort of Beatles music in the background"
+    },
+    {
+        "start": 475.76,
+        "end": 476.71999999999997,
+        "text": " at some point."
+    },
+    {
+        "start": 476.71999999999997,
+        "end": 480.56,
+        "text": " If you're born in bread British and you've got particularly if you've got British parents,"
+    },
+    {
+        "start": 480.56,
+        "end": 481.76,
+        "text": " you grew up with that music."
+    },
+    {
+        "start": 481.76,
+        "end": 483.84,
+        "text": " Did anyone's parents play it all the time?"
+    },
+    {
+        "start": 483.84,
+        "end": 484.56,
+        "text": " Yeah, a lot."
+    },
+    {
+        "start": 484.56,
+        "end": 487.68,
+        "text": " And what also you're just picking up by Osmosis in films and TV shut?"
+    },
+    {
+        "start": 487.68,
+        "end": 488.88,
+        "text": " I mean, it's just everywhere."
+    },
+    {
+        "start": 488.88,
+        "end": 490.64,
+        "text": " Yeah, mine really didn't play it,"
+    },
+    {
+        "start": 490.64,
+        "end": 494.24,
+        "text": " but as soon as you hit the point where you start going to other people's houses"
+    },
+    {
+        "start": 494.24,
+        "end": 496.08,
+        "text": " and listening to music, it came into it."
+    },
+    {
+        "start": 496.08,
+        "end": 499.03999999999996,
+        "text": " It was instantly, instantly like a classic."
+    },
+    {
+        "start": 499.04,
+        "end": 501.6,
+        "text": " And I love that with the Beatles, like their transition for,"
+    },
+    {
+        "start": 501.6,
+        "end": 504.48,
+        "text": " I love all their, when I was younger, I really loved their early,"
+    },
+    {
+        "start": 504.48,
+        "end": 506.88,
+        "text": " those essentially three-cord songs,"
+    },
+    {
+        "start": 506.88,
+        "end": 509.12,
+        "text": " but they never were quite just three-cord songs."
+    },
+    {
+        "start": 509.12,
+        "end": 512.0,
+        "text": " Like the choices they make musically, I'm a musician,"
+    },
+    {
+        "start": 512.0,
+        "end": 514.88,
+        "text": " and I've always been fascinated by the unusual things they do."
+    },
+    {
+        "start": 514.88,
+        "end": 517.36,
+        "text": " I think my favourite of their early ones is help."
+    },
+    {
+        "start": 517.36,
+        "end": 520.88,
+        "text": " And it's weird, like the places they go is unusual."
+    },
+    {
+        "start": 520.88,
+        "end": 523.9200000000001,
+        "text": " They may be chained, but then when like a day in the life"
+    },
+    {
+        "start": 523.9200000000001,
+        "end": 528.4,
+        "text": " and the long-winding, right, they've got such variety in what they do."
+    },
+    {
+        "start": 528.4,
+        "end": 531.52,
+        "text": " It's funny you should, two things you've said there."
+    },
+    {
+        "start": 531.52,
+        "end": 534.3199999999999,
+        "text": " I don't know whether you've meant to, are so striking."
+    },
+    {
+        "start": 534.3199999999999,
+        "end": 537.04,
+        "text": " One, you've picked the music that John Lennon went on"
+    },
+    {
+        "start": 537.04,
+        "end": 540.64,
+        "text": " to utterly disown, and it's called simplistic and plastic,"
+    },
+    {
+        "start": 540.64,
+        "end": 543.1999999999999,
+        "text": " and he hated performing it, he loved everything it stood for."
+    },
+    {
+        "start": 543.1999999999999,
+        "end": 545.04,
+        "text": " Only when he moved into the war-rust stuff,"
+    },
+    {
+        "start": 545.04,
+        "end": 547.4399999999999,
+        "text": " and eventually when he left was he really him,"
+    },
+    {
+        "start": 547.4399999999999,
+        "end": 552.4,
+        "text": " apart from help, which was his genuine cry for help,"
+    },
+    {
+        "start": 552.4,
+        "end": 555.1999999999999,
+        "text": " when he wrote those lyrics, because he hated so much,"
+    },
+    {
+        "start": 555.2,
+        "end": 558.32,
+        "text": " the sort of one direction he typed things it would have been back then."
+    },
+    {
+        "start": 558.88,
+        "end": 562.4000000000001,
+        "text": " The manufactured, plasticky, repetitious, record label,"
+    },
+    {
+        "start": 562.4000000000001,
+        "end": 563.9200000000001,
+        "text": " PR nature of the business."
+    },
+    {
+        "start": 564.96,
+        "end": 566.4000000000001,
+        "text": " It's so weird. Did he write that one then?"
+    },
+    {
+        "start": 567.2,
+        "end": 571.5200000000001,
+        "text": " Well, Lennon and McCartney collaborated, that's the story."
+    },
+    {
+        "start": 571.5200000000001,
+        "end": 575.0400000000001,
+        "text": " But when you listen to Lennon bitterly speaking in the 70s,"
+    },
+    {
+        "start": 575.0400000000001,
+        "end": 577.12,
+        "text": " he's like, we actually wrote and separate drums,"
+    },
+    {
+        "start": 577.12,
+        "end": 579.44,
+        "text": " and we'd come together and we'd just pick whichever version we liked."
+    },
+    {
+        "start": 579.44,
+        "end": 581.6,
+        "text": " I couldn't stand a lot of the shite,"
+    },
+    {
+        "start": 581.6,
+        "end": 583.84,
+        "text": " he was stuff for the man and all that."
+    },
+    {
+        "start": 583.9200000000001,
+        "end": 586.8000000000001,
+        "text": " But it's timeless, where as all that, I am the war-rust,"
+    },
+    {
+        "start": 586.8000000000001,
+        "end": 590.32,
+        "text": " and all that kind of the really psychedelic stuff,"
+    },
+    {
+        "start": 590.32,
+        "end": 591.84,
+        "text": " it's just really dated now."
+    },
+    {
+        "start": 591.84,
+        "end": 593.2,
+        "text": " Not on a bag of mushrooms, isn't it?"
+    },
+    {
+        "start": 594.32,
+        "end": 596.48,
+        "text": " I can tell you now, I really understood."
+    },
+    {
+        "start": 596.48,
+        "end": 598.4,
+        "text": " I mean, I was chitting in the woods and crying."
+    },
+    {
+        "start": 598.4,
+        "end": 599.84,
+        "text": " I really understood that song."
+    },
+    {
+        "start": 599.84,
+        "end": 603.52,
+        "text": " I think what's amazing about the Beatles story, in general,"
+    },
+    {
+        "start": 603.52,
+        "end": 605.0400000000001,
+        "text": " is how short it is."
+    },
+    {
+        "start": 605.76,
+        "end": 608.1600000000001,
+        "text": " It was not in 62 or 63, it was their debut,"
+    },
+    {
+        "start": 608.1600000000001,
+        "end": 610.4000000000001,
+        "text": " and their final album was not in 70."
+    },
+    {
+        "start": 610.4000000000001,
+        "end": 612.1600000000001,
+        "text": " So in seven or eight years,"
+    },
+    {
+        "start": 612.24,
+        "end": 615.36,
+        "text": " they went from being, what was basically a Buddy Holly Tribute Act."
+    },
+    {
+        "start": 616.0799999999999,
+        "end": 618.0799999999999,
+        "text": " To, I mean, branching out, as you say,"
+    },
+    {
+        "start": 618.0799999999999,
+        "end": 619.76,
+        "text": " rock music and directions,"
+    },
+    {
+        "start": 619.76,
+        "end": 621.36,
+        "text": " no one really thought it was capable of."
+    },
+    {
+        "start": 621.92,
+        "end": 625.04,
+        "text": " I think it's easy given how iconic so many of their eras are."
+    },
+    {
+        "start": 625.04,
+        "end": 627.12,
+        "text": " It's easy to forget how prolific they were."
+    },
+    {
+        "start": 627.8399999999999,
+        "end": 629.8399999999999,
+        "text": " So let me throw that back to you guys,"
+    },
+    {
+        "start": 629.8399999999999,
+        "end": 633.68,
+        "text": " because I think we all do jobs that have the temptation to do that."
+    },
+    {
+        "start": 633.68,
+        "end": 636.4,
+        "text": " We start all bright-eyed and earnest with how"
+    },
+    {
+        "start": 636.4,
+        "end": 639.52,
+        "text": " love me do comedy show or our first novel."
+    },
+    {
+        "start": 639.6,
+        "end": 643.4399999999999,
+        "text": " But the temptation to disappear down surreal way"
+    },
+    {
+        "start": 643.4399999999999,
+        "end": 646.72,
+        "text": " or into James Joyce Finnegan's wake experiment way."
+    },
+    {
+        "start": 646.72,
+        "end": 647.68,
+        "text": " It's strong, isn't it?"
+    },
+    {
+        "start": 647.68,
+        "end": 649.04,
+        "text": " Do you know what my theory is?"
+    },
+    {
+        "start": 649.04,
+        "end": 651.12,
+        "text": " I call it this theory, and it connects all of us."
+    },
+    {
+        "start": 651.12,
+        "end": 653.1999999999999,
+        "text": " The floating bum hole syndrome."
+    },
+    {
+        "start": 653.1999999999999,
+        "end": 656.48,
+        "text": " And what it is, you start, you start,"
+    },
+    {
+        "start": 656.48,
+        "end": 657.76,
+        "text": " blessed with a gift, right?"
+    },
+    {
+        "start": 657.76,
+        "end": 658.72,
+        "text": " Whatever your gift is."
+    },
+    {
+        "start": 658.72,
+        "end": 660.16,
+        "text": " Mine is, as much as I try to put it in,"
+    },
+    {
+        "start": 660.16,
+        "end": 662.24,
+        "text": " I'm just good at being funny on stage."
+    },
+    {
+        "start": 662.24,
+        "end": 664.64,
+        "text": " Sooner or later, a bum hole floats next to you,"
+    },
+    {
+        "start": 664.64,
+        "end": 667.1999999999999,
+        "text": " constantly tempting you to disappear up it"
+    },
+    {
+        "start": 667.2800000000001,
+        "end": 670.88,
+        "text": " with more arty surreal or obstruct goals."
+    },
+    {
+        "start": 670.88,
+        "end": 672.96,
+        "text": " Many people get sucked up that bum hole."
+    },
+    {
+        "start": 672.96,
+        "end": 674.48,
+        "text": " I only need to be spat out five years later"
+    },
+    {
+        "start": 674.48,
+        "end": 676.08,
+        "text": " doing what they originally did anyway."
+    },
+    {
+        "start": 677.12,
+        "end": 679.2,
+        "text": " I think that's true, and I think it's both."
+    },
+    {
+        "start": 680.48,
+        "end": 681.84,
+        "text": " This bum hole thing's got legs."
+    },
+    {
+        "start": 683.36,
+        "end": 684.32,
+        "text": " Otherwise it's not a bum?"
+    },
+    {
+        "start": 684.32,
+        "end": 685.9200000000001,
+        "text": " I'm not going to name any stand-ups,"
+    },
+    {
+        "start": 685.9200000000001,
+        "end": 687.36,
+        "text": " but you know what I'm talking about."
+    },
+    {
+        "start": 687.36,
+        "end": 687.9200000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 687.9200000000001,
+        "end": 691.44,
+        "text": " I myself, I half disappeared up it."
+    },
+    {
+        "start": 692.0,
+        "end": 694.5600000000001,
+        "text": " Only sartorially, and quickly climbed out again."
+    },
+    {
+        "start": 694.5600000000001,
+        "end": 696.88,
+        "text": " And then I'm a stand-up, that's it."
+    },
+    {
+        "start": 696.88,
+        "end": 698.88,
+        "text": " You know, I'm not going to win the booker prize,"
+    },
+    {
+        "start": 698.88,
+        "end": 700.32,
+        "text": " get back down to earth."
+    },
+    {
+        "start": 700.64,
+        "end": 702.96,
+        "text": " You've been given a gift, pursue it, and do it well."
+    },
+    {
+        "start": 703.52,
+        "end": 706.48,
+        "text": " Wasn't John Lennon just disappearing up"
+    },
+    {
+        "start": 706.48,
+        "end": 708.24,
+        "text": " surreal artsy way?"
+    },
+    {
+        "start": 708.24,
+        "end": 711.36,
+        "text": " And in fact, if he'd not been such an angry,"
+    },
+    {
+        "start": 711.36,
+        "end": 714.32,
+        "text": " miserable bugger, they could have done loads more"
+    },
+    {
+        "start": 714.32,
+        "end": 715.36,
+        "text": " of what they did in the beginning,"
+    },
+    {
+        "start": 715.36,
+        "end": 717.92,
+        "text": " which is the songs we all remember now, right?"
+    },
+    {
+        "start": 717.92,
+        "end": 719.6,
+        "text": " What stood the test of time?"
+    },
+    {
+        "start": 720.16,
+        "end": 720.48,
+        "text": " More."
+    },
+    {
+        "start": 721.04,
+        "end": 724.64,
+        "text": " Well, I think the thing with this is as much as he might have gone up that,"
+    },
+    {
+        "start": 724.64,
+        "end": 726.24,
+        "text": " he's a little, a little bum hole."
+    },
+    {
+        "start": 726.4,
+        "end": 728.48,
+        "text": " And he did, he was mid-rectum, definitely."
+    },
+    {
+        "start": 728.48,
+        "end": 729.28,
+        "text": " He was mid-ship."
+    },
+    {
+        "start": 730.32,
+        "end": 732.88,
+        "text": " He was touching the lower intestine immediately."
+    },
+    {
+        "start": 732.88,
+        "end": 736.0,
+        "text": " But he was still selling a shitload of albums."
+    },
+    {
+        "start": 736.0,
+        "end": 739.6800000000001,
+        "text": " I know, yeah, those songs even the later albums still contain,"
+    },
+    {
+        "start": 739.6800000000001,
+        "end": 740.48,
+        "text": " like classics."
+    },
+    {
+        "start": 740.48,
+        "end": 742.16,
+        "text": " So he never went full, you know."
+    },
+    {
+        "start": 742.16,
+        "end": 744.48,
+        "text": " Well, but he did, though, because it was because of him,"
+    },
+    {
+        "start": 744.48,
+        "end": 747.92,
+        "text": " the Beatles split up, named me apart from Imagine,"
+    },
+    {
+        "start": 747.92,
+        "end": 750.96,
+        "text": " and jealous, and woman, one song,"
+    },
+    {
+        "start": 750.96,
+        "end": 755.28,
+        "text": " the man wrote and released in a 12 years of his life,"
+    },
+    {
+        "start": 755.4399999999999,
+        "end": 756.9599999999999,
+        "text": " which he constantly released on, you can't,"
+    },
+    {
+        "start": 756.9599999999999,
+        "end": 758.16,
+        "text": " because it was all..."
+    },
+    {
+        "start": 758.16,
+        "end": 759.68,
+        "text": " Merry Christmas, War is over."
+    },
+    {
+        "start": 759.68,
+        "end": 760.64,
+        "text": " Well, there you go."
+    },
+    {
+        "start": 760.64,
+        "end": 761.28,
+        "text": " But one."
+    },
+    {
+        "start": 761.28,
+        "end": 762.16,
+        "text": " But mostly..."
+    },
+    {
+        "start": 762.16,
+        "end": 764.16,
+        "text": " He told Yoko she could sing, that puts him in a..."
+    },
+    {
+        "start": 764.16,
+        "end": 764.72,
+        "text": " Yeah, yeah."
+    },
+    {
+        "start": 764.72,
+        "end": 769.1999999999999,
+        "text": " Go on Spotify, the listen figures are in negative figures."
+    },
+    {
+        "start": 769.1999999999999,
+        "end": 771.1999999999999,
+        "text": " So he was putting music out."
+    },
+    {
+        "start": 771.1999999999999,
+        "end": 772.64,
+        "text": " You didn't even rate your..."
+    },
+    {
+        "start": 772.64,
+        "end": 773.4399999999999,
+        "text": " Perhaps you didn't even..."
+    },
+    {
+        "start": 773.4399999999999,
+        "end": 774.3199999999999,
+        "text": " No."
+    },
+    {
+        "start": 774.3199999999999,
+        "end": 775.36,
+        "text": " He was putting albums out."
+    },
+    {
+        "start": 775.36,
+        "end": 777.52,
+        "text": " I just assumed he was, you know, busy with..."
+    },
+    {
+        "start": 777.52,
+        "end": 778.0799999999999,
+        "text": " No."
+    },
+    {
+        "start": 778.0799999999999,
+        "end": 778.48,
+        "text": " Peace."
+    },
+    {
+        "start": 779.4399999999999,
+        "end": 780.56,
+        "text": " Well, that's where it started."
+    },
+    {
+        "start": 780.56,
+        "end": 781.12,
+        "text": " It's really something."
+    },
+    {
+        "start": 781.12,
+        "end": 782.0799999999999,
+        "text": " It's really something."
+    },
+    {
+        "start": 782.0799999999999,
+        "end": 783.36,
+        "text": " That's where it started."
+    },
+    {
+        "start": 784.08,
+        "end": 785.28,
+        "text": " I'm a politics."
+    },
+    {
+        "start": 785.28,
+        "end": 786.32,
+        "text": " I can change the world."
+    },
+    {
+        "start": 786.32,
+        "end": 787.76,
+        "text": " No, you're a brilliant musician."
+    },
+    {
+        "start": 787.76,
+        "end": 788.8000000000001,
+        "text": " You've lost it."
+    },
+    {
+        "start": 788.8000000000001,
+        "end": 790.88,
+        "text": " But that can hardly be in the name of evil, can it?"
+    },
+    {
+        "start": 790.88,
+        "end": 792.48,
+        "text": " If he's like trying to make..."
+    },
+    {
+        "start": 792.48,
+        "end": 796.24,
+        "text": " It's not evil, but I'm trying to balance his genius for you,"
+    },
+    {
+        "start": 796.24,
+        "end": 799.76,
+        "text": " because it's such a massive stack on the genius side."
+    },
+    {
+        "start": 799.76,
+        "end": 800.8000000000001,
+        "text": " I just want you to remember,"
+    },
+    {
+        "start": 800.8000000000001,
+        "end": 802.8000000000001,
+        "text": " half of the songwriting was McCarty,"
+    },
+    {
+        "start": 802.8000000000001,
+        "end": 804.5600000000001,
+        "text": " and he kept him quite earthed."
+    },
+    {
+        "start": 804.5600000000001,
+        "end": 807.9200000000001,
+        "text": " And when left on his own, was he actually that good?"
+    },
+    {
+        "start": 807.9200000000001,
+        "end": 809.04,
+        "text": " The evidence doesn't look good,"
+    },
+    {
+        "start": 809.04,
+        "end": 810.8000000000001,
+        "text": " apart from Imagine, which is a lovely track,"
+    },
+    {
+        "start": 810.8000000000001,
+        "end": 812.4,
+        "text": " and I cry, I forgot hang over if I hear it."
+    },
+    {
+        "start": 812.48,
+        "end": 814.8,
+        "text": " I will definitely think"
+    },
+    {
+        "start": 814.8,
+        "end": 816.72,
+        "text": " there was sort of stardust in the Beatles,"
+    },
+    {
+        "start": 816.72,
+        "end": 818.72,
+        "text": " and Onizzo, he was a bit of a..."
+    },
+    {
+        "start": 818.72,
+        "end": 819.84,
+        "text": " Oh, no, it's hard to say."
+    },
+    {
+        "start": 819.84,
+        "end": 821.36,
+        "text": " Maybe he would have found his way back then."
+    },
+    {
+        "start": 821.36,
+        "end": 822.3199999999999,
+        "text": " He was on his own."
+    },
+    {
+        "start": 822.3199999999999,
+        "end": 822.48,
+        "text": " Yeah."
+    },
+    {
+        "start": 822.48,
+        "end": 824.0799999999999,
+        "text": " He just blends into..."
+    },
+    {
+        "start": 824.0799999999999,
+        "end": 826.56,
+        "text": " I don't know enough about him."
+    },
+    {
+        "start": 826.56,
+        "end": 829.84,
+        "text": " And then does that mean that he's like, as iconic, I don't know."
+    },
+    {
+        "start": 829.84,
+        "end": 831.28,
+        "text": " He's just like the Beatles to me,"
+    },
+    {
+        "start": 831.28,
+        "end": 834.16,
+        "text": " just his blur and who wrote what, and..."
+    },
+    {
+        "start": 834.16,
+        "end": 836.4,
+        "text": " But I just wanted to ask you as a writer, Caz."
+    },
+    {
+        "start": 836.4,
+        "end": 839.68,
+        "text": " How often, when you sit there, honestly,"
+    },
+    {
+        "start": 839.68,
+        "end": 842.56,
+        "text": " when you look at the adjectives that come into your head,"
+    },
+    {
+        "start": 842.56,
+        "end": 845.68,
+        "text": " do you have to fight against the pretension gene,"
+    },
+    {
+        "start": 845.68,
+        "end": 848.88,
+        "text": " which John Lennon so massively failed over and over again?"
+    },
+    {
+        "start": 848.88,
+        "end": 849.76,
+        "text": " Are you sometimes like,"
+    },
+    {
+        "start": 849.76,
+        "end": 852.3199999999999,
+        "text": " I could use the word legubriously there, or are you on to?"
+    },
+    {
+        "start": 852.3199999999999,
+        "end": 853.8399999999999,
+        "text": " Yeah, but either there's a fix it,"
+    },
+    {
+        "start": 853.8399999999999,
+        "end": 855.52,
+        "text": " whereas he would just have, yes, men going,"
+    },
+    {
+        "start": 855.52,
+        "end": 857.28,
+        "text": " you're amazing, you're amazing."
+    },
+    {
+        "start": 857.28,
+        "end": 858.64,
+        "text": " So do you sometimes succumb to it,"
+    },
+    {
+        "start": 858.64,
+        "end": 860.3199999999999,
+        "text": " what we call the wall-rusing?"
+    },
+    {
+        "start": 860.3199999999999,
+        "end": 862.56,
+        "text": " Yeah, yeah, definitely, definitely."
+    },
+    {
+        "start": 862.56,
+        "end": 863.76,
+        "text": " I mean, I'm getting better at it,"
+    },
+    {
+        "start": 863.76,
+        "end": 866.16,
+        "text": " but then I just know that someone will cut the drivel out,"
+    },
+    {
+        "start": 866.16,
+        "end": 868.0799999999999,
+        "text": " but who would tell John Lennon know,"
+    },
+    {
+        "start": 868.08,
+        "end": 871.5200000000001,
+        "text": " because he's notoriously arrogant and bigger than Jesus."
+    },
+    {
+        "start": 871.5200000000001,
+        "end": 872.96,
+        "text": " I mean, that's evil in itself."
+    },
+    {
+        "start": 872.96,
+        "end": 875.2,
+        "text": " If you're going in the biblical term of evil,"
+    },
+    {
+        "start": 875.2,
+        "end": 877.12,
+        "text": " to claim you're bigger than Jesus."
+    },
+    {
+        "start": 877.12,
+        "end": 879.44,
+        "text": " The suspense about which way you're voting, yeah."
+    },
+    {
+        "start": 879.44,
+        "end": 880.64,
+        "text": " Okay."
+    },
+    {
+        "start": 880.64,
+        "end": 882.0,
+        "text": " He's really cutting it."
+    },
+    {
+        "start": 882.0,
+        "end": 884.5600000000001,
+        "text": " Maybe, maybe, you know, I can beat this way, do you?"
+    },
+    {
+        "start": 884.5600000000001,
+        "end": 885.2,
+        "text": " Yeah, yeah."
+    },
+    {
+        "start": 885.2,
+        "end": 886.24,
+        "text": " Well, that was the genius point."
+    },
+    {
+        "start": 886.24,
+        "end": 887.44,
+        "text": " I don't think you're going to be persuaded"
+    },
+    {
+        "start": 887.44,
+        "end": 889.44,
+        "text": " when envelope 2 is opened, please."
+    },
+    {
+        "start": 890.64,
+        "end": 891.84,
+        "text": " And envelope 2 says,"
+    },
+    {
+        "start": 892.72,
+        "end": 893.2,
+        "text": " violent."
+    },
+    {
+        "start": 894.0,
+        "end": 896.4000000000001,
+        "text": " Yes, I'm afraid to break the nose,"
+    },
+    {
+        "start": 896.48,
+        "end": 900.3199999999999,
+        "text": " and this was news to me as not a massive John Lennon fan,"
+    },
+    {
+        "start": 900.3199999999999,
+        "end": 902.16,
+        "text": " I didn't know everything about him."
+    },
+    {
+        "start": 902.16,
+        "end": 904.16,
+        "text": " He was quite a violent man."
+    },
+    {
+        "start": 904.9599999999999,
+        "end": 907.12,
+        "text": " He was very violent when he was younger."
+    },
+    {
+        "start": 907.12,
+        "end": 910.72,
+        "text": " There were lots of examples of him getting into fights"
+    },
+    {
+        "start": 910.72,
+        "end": 912.72,
+        "text": " and all sorts, which I suppose isn't necessarily"
+    },
+    {
+        "start": 912.72,
+        "end": 913.92,
+        "text": " the worst thing in the world."
+    },
+    {
+        "start": 913.92,
+        "end": 915.36,
+        "text": " There are many hot-headed people out there,"
+    },
+    {
+        "start": 916.0,
+        "end": 917.84,
+        "text": " but there's sort of, I suppose,"
+    },
+    {
+        "start": 917.84,
+        "end": 919.1999999999999,
+        "text": " narcissistic touches there,"
+    },
+    {
+        "start": 919.1999999999999,
+        "end": 921.6,
+        "text": " where if his ego or reputation was threatened,"
+    },
+    {
+        "start": 921.6,
+        "end": 922.88,
+        "text": " he could be explosive."
+    },
+    {
+        "start": 923.4399999999999,
+        "end": 925.36,
+        "text": " Bob Wooler kept remarking"
+    },
+    {
+        "start": 925.36,
+        "end": 926.72,
+        "text": " of John Lennon's friendship with Epstein,"
+    },
+    {
+        "start": 926.72,
+        "end": 927.76,
+        "text": " it was a bit too close,"
+    },
+    {
+        "start": 927.76,
+        "end": 929.6800000000001,
+        "text": " and John Lennon burst in and beat"
+    },
+    {
+        "start": 929.6800000000001,
+        "end": 931.28,
+        "text": " the living daylight out of him."
+    },
+    {
+        "start": 931.28,
+        "end": 933.36,
+        "text": " I think he ended up in hospital."
+    },
+    {
+        "start": 933.36,
+        "end": 935.6,
+        "text": " I'm afraid it doesn't end there."
+    },
+    {
+        "start": 935.6,
+        "end": 938.0,
+        "text": " He was also violent to women."
+    },
+    {
+        "start": 938.0,
+        "end": 940.72,
+        "text": " He had a very ambiguous attitude to women."
+    },
+    {
+        "start": 940.72,
+        "end": 941.84,
+        "text": " Listen to his interviews."
+    },
+    {
+        "start": 941.84,
+        "end": 942.32,
+        "text": " The word,"
+    },
+    {
+        "start": 942.96,
+        "end": 944.8000000000001,
+        "text": " hor, crops up over and over again,"
+    },
+    {
+        "start": 944.8000000000001,
+        "end": 947.52,
+        "text": " and said with an edge that, to me,"
+    },
+    {
+        "start": 947.52,
+        "end": 949.76,
+        "text": " is slightly telling,"
+    },
+    {
+        "start": 949.76,
+        "end": 952.08,
+        "text": " you know, this business is not just about the horrors that come out."
+    },
+    {
+        "start": 952.08,
+        "end": 954.8000000000001,
+        "text": " You know, you know, when there's a fist underneath that word,"
+    },
+    {
+        "start": 954.8,
+        "end": 956.0,
+        "text": " you can use it one of two ways."
+    },
+    {
+        "start": 956.0,
+        "end": 957.4399999999999,
+        "text": " He didn't mean in a corporate sense."
+    },
+    {
+        "start": 957.4399999999999,
+        "end": 960.8,
+        "text": " He was being misogynistic when he said it."
+    },
+    {
+        "start": 960.8,
+        "end": 963.3599999999999,
+        "text": " He hit his first wife allegedly,"
+    },
+    {
+        "start": 963.3599999999999,
+        "end": 964.4,
+        "text": " I'll probably say,"
+    },
+    {
+        "start": 964.4,
+        "end": 966.64,
+        "text": " but I mean, he himself said"
+    },
+    {
+        "start": 966.64,
+        "end": 967.92,
+        "text": " that he'd been violent towards women."
+    },
+    {
+        "start": 967.92,
+        "end": 969.12,
+        "text": " He had all this rage."
+    },
+    {
+        "start": 969.12,
+        "end": 970.9599999999999,
+        "text": " Now, it's because he lost his mother, blah, blah, blah."
+    },
+    {
+        "start": 971.68,
+        "end": 972.9599999999999,
+        "text": " He said,"
+    },
+    {
+        "start": 972.9599999999999,
+        "end": 975.12,
+        "text": " all that I used to be cruel to my woman."
+    },
+    {
+        "start": 975.12,
+        "end": 979.28,
+        "text": " I beat her and kept her apart from the things that she loved was me."
+    },
+    {
+        "start": 979.28,
+        "end": 981.1999999999999,
+        "text": " I used to be cruel to my woman."
+    },
+    {
+        "start": 981.1999999999999,
+        "end": 984.16,
+        "text": " And physically, any woman, I was a hitter."
+    },
+    {
+        "start": 984.16,
+        "end": 986.3199999999999,
+        "text": " I couldn't express myself when I hit."
+    },
+    {
+        "start": 986.3199999999999,
+        "end": 988.3199999999999,
+        "text": " I thought men and I hit women."
+    },
+    {
+        "start": 989.12,
+        "end": 991.68,
+        "text": " And that's in playboy, the radical feminist magazine."
+    },
+    {
+        "start": 991.68,
+        "end": 993.68,
+        "text": " So that's obviously quite controversial."
+    },
+    {
+        "start": 993.68,
+        "end": 996.48,
+        "text": " It was published there next to an exposed breast."
+    },
+    {
+        "start": 996.48,
+        "end": 997.6,
+        "text": " So what do we think?"
+    },
+    {
+        "start": 997.6,
+        "end": 998.56,
+        "text": " This is the man who thinks about,"
+    },
+    {
+        "start": 998.56,
+        "end": 999.68,
+        "text": " I want to hold your hand."
+    },
+    {
+        "start": 999.68,
+        "end": 1001.12,
+        "text": " Not I want to punch you in the face"
+    },
+    {
+        "start": 1001.12,
+        "end": 1003.04,
+        "text": " and then pretend you fell down the stairs."
+    },
+    {
+        "start": 1003.04,
+        "end": 1003.92,
+        "text": " I want to hold your hand."
+    },
+    {
+        "start": 1003.92,
+        "end": 1006.0799999999999,
+        "text": " There's love, there's emotion, there's hugging, blah, blah."
+    },
+    {
+        "start": 1006.8,
+        "end": 1010.0,
+        "text": " And then it was also piece, piece, piece in his later years."
+    },
+    {
+        "start": 1010.0,
+        "end": 1013.52,
+        "text": " And he actually himself says that he was"
+    },
+    {
+        "start": 1014.56,
+        "end": 1015.68,
+        "text": " hitting women and men."
+    },
+    {
+        "start": 1016.9599999999999,
+        "end": 1018.64,
+        "text": " I mean, just to just to temper it a bit,"
+    },
+    {
+        "start": 1018.64,
+        "end": 1020.7199999999999,
+        "text": " if it's a bit too slam dunk for you,"
+    },
+    {
+        "start": 1020.7199999999999,
+        "end": 1022.8,
+        "text": " he did have a weird childhood."
+    },
+    {
+        "start": 1022.8,
+        "end": 1024.96,
+        "text": " His dad abandoned him when he was two."
+    },
+    {
+        "start": 1025.68,
+        "end": 1029.92,
+        "text": " And his mum was hit by a car right outside his aunties house."
+    },
+    {
+        "start": 1029.92,
+        "end": 1031.44,
+        "text": " The aunt who he's already living with,"
+    },
+    {
+        "start": 1031.44,
+        "end": 1033.36,
+        "text": " because his mum was a bit irresponsible."
+    },
+    {
+        "start": 1033.36,
+        "end": 1035.36,
+        "text": " So he had some complex stuff going on there"
+    },
+    {
+        "start": 1035.36,
+        "end": 1037.04,
+        "text": " with parental absence and women."
+    },
+    {
+        "start": 1037.04,
+        "end": 1039.2,
+        "text": " It's not an excuse, obviously."
+    },
+    {
+        "start": 1039.2,
+        "end": 1041.68,
+        "text": " But it's definitely in the mix."
+    },
+    {
+        "start": 1042.3200000000002,
+        "end": 1043.44,
+        "text": " Well, it might be in the mix,"
+    },
+    {
+        "start": 1043.44,
+        "end": 1045.2,
+        "text": " but I think there's a lot of people"
+    },
+    {
+        "start": 1045.2,
+        "end": 1047.3600000000001,
+        "text": " who have tough times going up"
+    },
+    {
+        "start": 1047.3600000000001,
+        "end": 1049.2,
+        "text": " that don't resort to that sort of stuff."
+    },
+    {
+        "start": 1049.2,
+        "end": 1052.72,
+        "text": " The first thing I thought before you got onto the woman"
+    },
+    {
+        "start": 1052.72,
+        "end": 1055.2,
+        "text": " being was that he doesn't look like a brawler."
+    },
+    {
+        "start": 1055.2,
+        "end": 1057.68,
+        "text": " He's like, that really surprised me."
+    },
+    {
+        "start": 1057.68,
+        "end": 1058.0800000000002,
+        "text": " I know."
+    },
+    {
+        "start": 1058.0800000000002,
+        "end": 1059.92,
+        "text": " He just, he doesn't look like that kind of..."
+    },
+    {
+        "start": 1059.92,
+        "end": 1061.1200000000001,
+        "text": " He's called a scrawny guy."
+    },
+    {
+        "start": 1061.1200000000001,
+        "end": 1062.0800000000002,
+        "text": " Popfike."
+    },
+    {
+        "start": 1062.0800000000002,
+        "end": 1064.4,
+        "text": " All I'm saying is Ben Kingsley sexy beast."
+    },
+    {
+        "start": 1065.1200000000001,
+        "end": 1066.72,
+        "text": " That's one of the scariest things I've ever seen."
+    },
+    {
+        "start": 1068.0,
+        "end": 1070.64,
+        "text": " Also, if I can't find my car keys, don't get him away."
+    },
+    {
+        "start": 1070.64,
+        "end": 1072.0,
+        "text": " But if you're going to go back to his dad,"
+    },
+    {
+        "start": 1072.0,
+        "end": 1073.76,
+        "text": " leaving him and his mum being hit by a car,"
+    },
+    {
+        "start": 1073.76,
+        "end": 1076.88,
+        "text": " which is terrible and is obviously going to make it's mark,"
+    },
+    {
+        "start": 1076.88,
+        "end": 1078.64,
+        "text": " but then you're getting into that hole."
+    },
+    {
+        "start": 1078.64,
+        "end": 1080.8000000000002,
+        "text": " Are you born evil or are you made evil?"
+    },
+    {
+        "start": 1080.8000000000002,
+        "end": 1082.5600000000002,
+        "text": " And that's a whole separate podcast."
+    },
+    {
+        "start": 1082.5600000000002,
+        "end": 1085.3600000000001,
+        "text": " Yeah, that is because, you know,"
+    },
+    {
+        "start": 1085.3600000000001,
+        "end": 1086.48,
+        "text": " but there are, like you said,"
+    },
+    {
+        "start": 1086.48,
+        "end": 1088.24,
+        "text": " there are plenty of people that go through"
+    },
+    {
+        "start": 1088.24,
+        "end": 1089.92,
+        "text": " painful episodes in their life."
+    },
+    {
+        "start": 1089.92,
+        "end": 1091.76,
+        "text": " And they will act out in certain ways."
+    },
+    {
+        "start": 1091.76,
+        "end": 1093.2800000000002,
+        "text": " They might hurt people emotionally,"
+    },
+    {
+        "start": 1093.2800000000002,
+        "end": 1094.24,
+        "text": " but there's something."
+    },
+    {
+        "start": 1095.0400000000002,
+        "end": 1096.4,
+        "text": " He actually said this."
+    },
+    {
+        "start": 1097.1200000000001,
+        "end": 1100.3200000000002,
+        "text": " It is the most violent people who go for love and peace."
+    },
+    {
+        "start": 1100.96,
+        "end": 1103.2,
+        "text": " I don't think Gandhi went around like,"
+    },
+    {
+        "start": 1103.8400000000001,
+        "end": 1105.76,
+        "text": " honestly, you're slapping people."
+    },
+    {
+        "start": 1105.76,
+        "end": 1106.5600000000002,
+        "text": " You should have seen him down,"
+    },
+    {
+        "start": 1106.5600000000002,
+        "end": 1107.2800000000002,
+        "text": " where I spoke."
+    },
+    {
+        "start": 1108.8000000000002,
+        "end": 1110.4,
+        "text": " Obviously, he couldn't eat because he was protesting,"
+    },
+    {
+        "start": 1110.4,
+        "end": 1111.2800000000002,
+        "text": " so he was even more angry."
+    },
+    {
+        "start": 1113.2800000000002,
+        "end": 1114.64,
+        "text": " Let's play a thought experiment there."
+    },
+    {
+        "start": 1114.64,
+        "end": 1118.16,
+        "text": " Let's just pretend John Lennon didn't physically act out,"
+    },
+    {
+        "start": 1118.16,
+        "end": 1120.96,
+        "text": " but was massively interested and passionate about violence"
+    },
+    {
+        "start": 1120.96,
+        "end": 1123.6000000000001,
+        "text": " and like looking at violent pictures was obsessed with it,"
+    },
+    {
+        "start": 1123.6000000000001,
+        "end": 1125.76,
+        "text": " but proclaimed love and peace and sang about it."
+    },
+    {
+        "start": 1126.88,
+        "end": 1129.5200000000002,
+        "text": " Is that that's okay because he didn't physically act it or is does it?"
+    },
+    {
+        "start": 1129.68,
+        "end": 1130.48,
+        "text": " It's better, yeah."
+    },
+    {
+        "start": 1130.48,
+        "end": 1131.28,
+        "text": " It's better."
+    },
+    {
+        "start": 1131.28,
+        "end": 1131.92,
+        "text": " It's probably better."
+    },
+    {
+        "start": 1131.92,
+        "end": 1133.68,
+        "text": " But better if he's no one else is getting hurt."
+    },
+    {
+        "start": 1133.68,
+        "end": 1135.84,
+        "text": " But does it, more importantly, for this show,"
+    },
+    {
+        "start": 1135.84,
+        "end": 1137.52,
+        "text": " way down against the genius,"
+    },
+    {
+        "start": 1137.52,
+        "end": 1138.96,
+        "text": " or is it a bare no relation?"
+    },
+    {
+        "start": 1138.96,
+        "end": 1141.92,
+        "text": " If I feel something when I hear the peaceful loving song,"
+    },
+    {
+        "start": 1141.92,
+        "end": 1144.72,
+        "text": " is it damaged by the impulses of the writer,"
+    },
+    {
+        "start": 1144.72,
+        "end": 1146.16,
+        "text": " or is it irrelevant?"
+    },
+    {
+        "start": 1146.16,
+        "end": 1149.12,
+        "text": " Well, that old thing about separating the art from the artist"
+    },
+    {
+        "start": 1149.12,
+        "end": 1152.32,
+        "text": " and there is no answer to it,"
+    },
+    {
+        "start": 1152.32,
+        "end": 1157.12,
+        "text": " but I would say that being a person who beats up his wife"
+    },
+    {
+        "start": 1158.08,
+        "end": 1160.8,
+        "text": " and admits as much in playboy magazine,"
+    },
+    {
+        "start": 1160.8,
+        "end": 1162.6399999999999,
+        "text": " I mean, even being somebody talks to playboy magazine,"
+    },
+    {
+        "start": 1162.6399999999999,
+        "end": 1167.52,
+        "text": " you know, alone, probably does put a bit of an asterisk"
+    },
+    {
+        "start": 1168.4799999999998,
+        "end": 1169.52,
+        "text": " when you're saying,"
+    },
+    {
+        "start": 1169.52,
+        "end": 1171.76,
+        "text": " I'm going to lie in bed and solve the world's problems."
+    },
+    {
+        "start": 1171.76,
+        "end": 1173.12,
+        "text": " I'm trying to play devil's advocate."
+    },
+    {
+        "start": 1173.12,
+        "end": 1176.1599999999999,
+        "text": " Yeah, I just imagine being in my pro wife being seated in my room."
+    },
+    {
+        "start": 1176.1599999999999,
+        "end": 1177.76,
+        "text": " Why he gave that?"
+    },
+    {
+        "start": 1177.76,
+        "end": 1180.1599999999999,
+        "text": " I'd be interested in know why he gave that interview."
+    },
+    {
+        "start": 1180.1599999999999,
+        "end": 1182.0,
+        "text": " Was it supposed to be this sort of tell-all"
+    },
+    {
+        "start": 1182.0,
+        "end": 1185.36,
+        "text": " I'm just purging my soul and I'm going to be a good man after this,"
+    },
+    {
+        "start": 1185.4399999999998,
+        "end": 1187.9199999999998,
+        "text": " or was it just like a throwaway comment, or..."
+    },
+    {
+        "start": 1187.9199999999998,
+        "end": 1190.8799999999999,
+        "text": " I bet he kissed in Jane Mansfield's cocktail"
+    },
+    {
+        "start": 1190.8799999999999,
+        "end": 1192.8799999999999,
+        "text": " and then just watched her drink it because she'd..."
+    },
+    {
+        "start": 1193.6799999999998,
+        "end": 1198.7199999999998,
+        "text": " I don't know, had she rebuffed him or was annoying him trying to come onto him too much?"
+    },
+    {
+        "start": 1198.7199999999998,
+        "end": 1200.7199999999998,
+        "text": " And that's how Foster's logo is invented."
+    },
+    {
+        "start": 1203.12,
+        "end": 1204.8,
+        "text": " And also you win, this tastes amazing."
+    },
+    {
+        "start": 1204.8,
+        "end": 1205.84,
+        "text": " Let's take it online."
+    },
+    {
+        "start": 1206.8,
+        "end": 1208.24,
+        "text": " It's interesting that we're going,"
+    },
+    {
+        "start": 1208.24,
+        "end": 1210.56,
+        "text": " oh, 70s, oh, men were such brooks back then."
+    },
+    {
+        "start": 1210.56,
+        "end": 1212.8,
+        "text": " Or is it something far darker here?"
+    },
+    {
+        "start": 1212.8,
+        "end": 1214.6399999999999,
+        "text": " The guy is such a narcissist."
+    },
+    {
+        "start": 1214.72,
+        "end": 1217.44,
+        "text": " He even gets off on the attention of going,"
+    },
+    {
+        "start": 1217.44,
+        "end": 1218.64,
+        "text": " I want started a house fire."
+    },
+    {
+        "start": 1218.64,
+        "end": 1221.76,
+        "text": " I like talking cats and sort of provocative blas-a"
+    },
+    {
+        "start": 1221.76,
+        "end": 1224.3200000000002,
+        "text": " and here are my sins,ness of it."
+    },
+    {
+        "start": 1224.3200000000002,
+        "end": 1225.0400000000002,
+        "text": " Do you know what I mean?"
+    },
+    {
+        "start": 1225.0400000000002,
+        "end": 1227.3600000000001,
+        "text": " There are some, but I wouldn't know people like that"
+    },
+    {
+        "start": 1227.3600000000001,
+        "end": 1229.0400000000002,
+        "text": " that saw me, I just scratched the car on the way,"
+    },
+    {
+        "start": 1229.0400000000002,
+        "end": 1230.24,
+        "text": " not going to report anything."
+    },
+    {
+        "start": 1230.24,
+        "end": 1232.72,
+        "text": " Enjoy the confessional nature of it,"
+    },
+    {
+        "start": 1232.72,
+        "end": 1234.0800000000002,
+        "text": " which is even weirder, is it not,"
+    },
+    {
+        "start": 1234.0800000000002,
+        "end": 1235.8400000000001,
+        "text": " than men were bastards in the 70s?"
+    },
+    {
+        "start": 1236.48,
+        "end": 1237.92,
+        "text": " Yeah, I think there might be an element."
+    },
+    {
+        "start": 1237.92,
+        "end": 1239.68,
+        "text": " I'm to be fair, I don't know loads about them,"
+    },
+    {
+        "start": 1239.68,
+        "end": 1241.2800000000002,
+        "text": " but I think there might be an element of that."
+    },
+    {
+        "start": 1241.2800000000002,
+        "end": 1242.64,
+        "text": " It's kind of that equivalent, like you say,"
+    },
+    {
+        "start": 1243.1200000000001,
+        "end": 1246.64,
+        "text": " do you even know, like, proud of their dark side?"
+    },
+    {
+        "start": 1246.64,
+        "end": 1249.6000000000001,
+        "text": " And I think we all are, to a certain extent,"
+    },
+    {
+        "start": 1249.6000000000001,
+        "end": 1251.2,
+        "text": " because you're like, I'm such an interest,"
+    },
+    {
+        "start": 1251.2,
+        "end": 1252.64,
+        "text": " I am such a fascinating person."
+    },
+    {
+        "start": 1252.64,
+        "end": 1254.0,
+        "text": " This is what I think was going on."
+    },
+    {
+        "start": 1254.0,
+        "end": 1255.68,
+        "text": " I am intriguing, aren't I?"
+    },
+    {
+        "start": 1255.68,
+        "end": 1257.76,
+        "text": " But when you take it too far and you beat up women,"
+    },
+    {
+        "start": 1257.76,
+        "end": 1258.5600000000002,
+        "text": " then it's bad."
+    },
+    {
+        "start": 1258.5600000000002,
+        "end": 1262.4,
+        "text": " Yeah, okay, let's open our third fact."
+    },
+    {
+        "start": 1262.4,
+        "end": 1264.3200000000002,
+        "text": " Will it be something genius or something evil?"
+    },
+    {
+        "start": 1264.3200000000002,
+        "end": 1265.44,
+        "text": " Bad dad."
+    },
+    {
+        "start": 1266.5600000000002,
+        "end": 1271.3600000000001,
+        "text": " I'm afraid to throw bad dad into the equation with John Lennon."
+    },
+    {
+        "start": 1271.4399999999998,
+        "end": 1273.28,
+        "text": " I could never have foresaw this."
+    },
+    {
+        "start": 1275.28,
+        "end": 1277.36,
+        "text": " What we should say, it's more complex than that,"
+    },
+    {
+        "start": 1277.36,
+        "end": 1279.52,
+        "text": " is a dad of two halves."
+    },
+    {
+        "start": 1279.52,
+        "end": 1283.36,
+        "text": " He goes from perhaps the most emotionally negligent"
+    },
+    {
+        "start": 1283.36,
+        "end": 1285.76,
+        "text": " cruel dad in the emotional psychological sense,"
+    },
+    {
+        "start": 1285.76,
+        "end": 1288.8,
+        "text": " to giving up his career to be a stay at home husband"
+    },
+    {
+        "start": 1288.8,
+        "end": 1291.04,
+        "text": " and a women's right campaigner when it was"
+    },
+    {
+        "start": 1291.04,
+        "end": 1293.28,
+        "text": " barely even in the public lexicon."
+    },
+    {
+        "start": 1294.08,
+        "end": 1296.24,
+        "text": " How is that for a complex?"
+    },
+    {
+        "start": 1296.24,
+        "end": 1298.8799999999999,
+        "text": " We're talking about Julian, Lennon here, guys."
+    },
+    {
+        "start": 1299.3600000000001,
+        "end": 1301.7600000000002,
+        "text": " All we know is what's been written."
+    },
+    {
+        "start": 1301.7600000000002,
+        "end": 1303.92,
+        "text": " When the band got big, it's a bit like one direction these days."
+    },
+    {
+        "start": 1303.92,
+        "end": 1306.4,
+        "text": " Everyone has to pretend not to have girlfriend's"
+    },
+    {
+        "start": 1306.4,
+        "end": 1307.6000000000001,
+        "text": " because you're then you're more attractive"
+    },
+    {
+        "start": 1307.6000000000001,
+        "end": 1308.8000000000002,
+        "text": " to the screaming female fans."
+    },
+    {
+        "start": 1308.8000000000002,
+        "end": 1312.0,
+        "text": " So his wife was invisible as was his son."
+    },
+    {
+        "start": 1312.0,
+        "end": 1314.16,
+        "text": " Then we must imagine that lots of affairs"
+    },
+    {
+        "start": 1314.16,
+        "end": 1315.3600000000001,
+        "text": " and one night Stan started."
+    },
+    {
+        "start": 1315.3600000000001,
+        "end": 1317.44,
+        "text": " Then eventually he has an affair with Yoko Bona."
+    },
+    {
+        "start": 1317.44,
+        "end": 1320.48,
+        "text": " It splits them up and it goes and he dropped his family"
+    },
+    {
+        "start": 1320.48,
+        "end": 1321.1200000000001,
+        "text": " like that."
+    },
+    {
+        "start": 1322.16,
+        "end": 1322.5600000000002,
+        "text": " Gone."
+    },
+    {
+        "start": 1323.68,
+        "end": 1326.8000000000002,
+        "text": " He said incredibly cruel things to Julian over the year."
+    },
+    {
+        "start": 1326.8000000000002,
+        "end": 1328.48,
+        "text": " One that really sticks in my mind."
+    },
+    {
+        "start": 1328.56,
+        "end": 1331.68,
+        "text": " I don't know why it does was he asked him not to laugh"
+    },
+    {
+        "start": 1331.68,
+        "end": 1333.92,
+        "text": " in his presence because he found his laugh so repulsive"
+    },
+    {
+        "start": 1333.92,
+        "end": 1334.4,
+        "text": " and annoying."
+    },
+    {
+        "start": 1335.6,
+        "end": 1338.16,
+        "text": " He said that too when he was very little."
+    },
+    {
+        "start": 1338.16,
+        "end": 1342.48,
+        "text": " He then mixed that with being obsessed and very close"
+    },
+    {
+        "start": 1342.48,
+        "end": 1344.8,
+        "text": " to Sean Lennon, his son with Yoko Rono."
+    },
+    {
+        "start": 1344.8,
+        "end": 1346.16,
+        "text": " To the point where he says,"
+    },
+    {
+        "start": 1346.16,
+        "end": 1347.52,
+        "text": " I'm not going to record any albums."
+    },
+    {
+        "start": 1347.52,
+        "end": 1348.64,
+        "text": " I'm going to stay at home."
+    },
+    {
+        "start": 1348.64,
+        "end": 1350.64,
+        "text": " Yoko is going to go and be the business woman"
+    },
+    {
+        "start": 1350.64,
+        "end": 1352.64,
+        "text": " and I'm going to give up my whole life to racing."
+    },
+    {
+        "start": 1352.64,
+        "end": 1356.4,
+        "text": " Now when I imagine being the older son"
+    },
+    {
+        "start": 1356.48,
+        "end": 1359.92,
+        "text": " and seeing that I have fantastic quote here just to kick us off."
+    },
+    {
+        "start": 1359.92,
+        "end": 1363.44,
+        "text": " So Julian Lennon chafed at hearing his father's peace loving stance"
+    },
+    {
+        "start": 1363.44,
+        "end": 1364.88,
+        "text": " perpetually celebrated."
+    },
+    {
+        "start": 1364.88,
+        "end": 1366.48,
+        "text": " He told the Daily Telegraph,"
+    },
+    {
+        "start": 1366.48,
+        "end": 1368.8000000000002,
+        "text": " I have to say that from my point of view"
+    },
+    {
+        "start": 1368.8000000000002,
+        "end": 1370.48,
+        "text": " I felt he was a hypocrite."
+    },
+    {
+        "start": 1370.48,
+        "end": 1372.88,
+        "text": " Dad could talk about peace and love out loud to the world"
+    },
+    {
+        "start": 1372.88,
+        "end": 1374.3200000000002,
+        "text": " but he could never show it to the people"
+    },
+    {
+        "start": 1374.3200000000002,
+        "end": 1377.2800000000002,
+        "text": " who supposedly meant the most to him, his wife and son."
+    },
+    {
+        "start": 1377.2800000000002,
+        "end": 1379.2800000000002,
+        "text": " How can you talk about peace and love"
+    },
+    {
+        "start": 1379.2800000000002,
+        "end": 1381.6000000000001,
+        "text": " and have a family in bits and pieces?"
+    },
+    {
+        "start": 1381.6000000000001,
+        "end": 1384.72,
+        "text": " No communication, a adultery divorce."
+    },
+    {
+        "start": 1384.72,
+        "end": 1385.92,
+        "text": " You can't do it,"
+    },
+    {
+        "start": 1385.92,
+        "end": 1388.24,
+        "text": " not if you're being true and honest with yourself."
+    },
+    {
+        "start": 1388.96,
+        "end": 1390.16,
+        "text": " Mike, drop."
+    },
+    {
+        "start": 1393.3600000000001,
+        "end": 1396.56,
+        "text": " Guys, I guess the bottom line is he was never being true"
+    },
+    {
+        "start": 1396.56,
+        "end": 1397.6000000000001,
+        "text": " and honest with himself."
+    },
+    {
+        "start": 1397.6000000000001,
+        "end": 1398.56,
+        "text": " Am I right?"
+    },
+    {
+        "start": 1398.56,
+        "end": 1402.56,
+        "text": " So does that mean we have to discount the music we sway to?"
+    },
+    {
+        "start": 1403.2,
+        "end": 1405.04,
+        "text": " It depends how much you love them I suppose."
+    },
+    {
+        "start": 1405.04,
+        "end": 1408.0,
+        "text": " I'm just not a big enough fan that all this terrible bad,"
+    },
+    {
+        "start": 1408.0,
+        "end": 1410.64,
+        "text": " particularly that bad that's a that's a pauling."
+    },
+    {
+        "start": 1410.64,
+        "end": 1411.6000000000001,
+        "text": " I don't have children."
+    },
+    {
+        "start": 1411.6000000000001,
+        "end": 1413.84,
+        "text": " I'm not, don't love children"
+    },
+    {
+        "start": 1413.84,
+        "end": 1416.8799999999999,
+        "text": " but children laughing is like one of the best things in the world."
+    },
+    {
+        "start": 1416.8799999999999,
+        "end": 1420.3999999999999,
+        "text": " It's like it's such a cruel awful thing to say."
+    },
+    {
+        "start": 1420.3999999999999,
+        "end": 1423.12,
+        "text": " It's the type of thing you've like I wish I thought of that"
+    },
+    {
+        "start": 1423.12,
+        "end": 1424.32,
+        "text": " for a character in a novel."
+    },
+    {
+        "start": 1424.32,
+        "end": 1427.6799999999998,
+        "text": " It is such a powerful image of going don't laugh."
+    },
+    {
+        "start": 1427.6799999999998,
+        "end": 1428.8,
+        "text": " I hate you a lot."
+    },
+    {
+        "start": 1428.8,
+        "end": 1430.6399999999999,
+        "text": " Be bad enough if one adult,"
+    },
+    {
+        "start": 1430.6399999999999,
+        "end": 1432.1599999999999,
+        "text": " that's another adult in a relationship"
+    },
+    {
+        "start": 1432.1599999999999,
+        "end": 1433.6,
+        "text": " because say that to a kid."
+    },
+    {
+        "start": 1433.6,
+        "end": 1438.24,
+        "text": " So a slightly jaunty tune doesn't really make up for that."
+    },
+    {
+        "start": 1438.24,
+        "end": 1441.6,
+        "text": " How does that fit with give peace a chance and love me do?"
+    },
+    {
+        "start": 1442.3999999999999,
+        "end": 1444.6399999999999,
+        "text": " Well it sounds like John Lennon did give peace a chance"
+    },
+    {
+        "start": 1444.6399999999999,
+        "end": 1445.84,
+        "text": " and he didn't really take it."
+    },
+    {
+        "start": 1445.84,
+        "end": 1447.04,
+        "text": " He didn't give a chance."
+    },
+    {
+        "start": 1447.04,
+        "end": 1448.3999999999999,
+        "text": " I gave it a chance."
+    },
+    {
+        "start": 1448.3999999999999,
+        "end": 1449.36,
+        "text": " Yeah I gave it a chance."
+    },
+    {
+        "start": 1449.36,
+        "end": 1452.08,
+        "text": " Do we know what Julian was laughing at?"
+    },
+    {
+        "start": 1452.9599999999998,
+        "end": 1454.56,
+        "text": " No, because he might have been there."
+    },
+    {
+        "start": 1454.56,
+        "end": 1455.9199999999998,
+        "text": " I mean he was laughing at John's."
+    },
+    {
+        "start": 1455.9199999999998,
+        "end": 1457.36,
+        "text": " He was laughing at it really affected the genre."
+    },
+    {
+        "start": 1457.36,
+        "end": 1459.76,
+        "text": " John Lennon had caught the top of his thumb off at that moment."
+    },
+    {
+        "start": 1460.8,
+        "end": 1462.0,
+        "text": " That does change the story."
+    },
+    {
+        "start": 1462.0,
+        "end": 1463.36,
+        "text": " Do we know what his laugh was like?"
+    },
+    {
+        "start": 1463.36,
+        "end": 1465.12,
+        "text": " I mean maybe he had a point."
+    },
+    {
+        "start": 1465.12,
+        "end": 1466.8,
+        "text": " Maybe it was in a pauling."
+    },
+    {
+        "start": 1466.8,
+        "end": 1468.3999999999999,
+        "text": " He could have been one of those."
+    },
+    {
+        "start": 1468.48,
+        "end": 1469.68,
+        "text": " Ah, ah, ah."
+    },
+    {
+        "start": 1471.2,
+        "end": 1472.5600000000002,
+        "text": " What about people that have no laugh?"
+    },
+    {
+        "start": 1473.2,
+        "end": 1474.0800000000002,
+        "text": " Have you ever made, that makes me so..."
+    },
+    {
+        "start": 1474.0800000000002,
+        "end": 1474.72,
+        "text": " What? Like..."
+    },
+    {
+        "start": 1474.72,
+        "end": 1475.76,
+        "text": " Well they, I sort of..."
+    },
+    {
+        "start": 1475.76,
+        "end": 1477.44,
+        "text": " It's not going to translate well on you."
+    },
+    {
+        "start": 1477.44,
+        "end": 1478.48,
+        "text": " It makes bad listening."
+    },
+    {
+        "start": 1478.48,
+        "end": 1479.52,
+        "text": " But the mouth opens."
+    },
+    {
+        "start": 1480.0800000000002,
+        "end": 1481.68,
+        "text": " And it's like the person's laughing,"
+    },
+    {
+        "start": 1481.68,
+        "end": 1483.68,
+        "text": " but you're not sure if they're having a heart attack or something."
+    },
+    {
+        "start": 1486.0,
+        "end": 1487.2,
+        "text": " I wish you could see the face."
+    },
+    {
+        "start": 1488.88,
+        "end": 1490.3200000000002,
+        "text": " Well people have a noisy smile."
+    },
+    {
+        "start": 1490.3200000000002,
+        "end": 1491.68,
+        "text": " Have you ever had one of those?"
+    },
+    {
+        "start": 1491.68,
+        "end": 1494.0800000000002,
+        "text": " It's when you ask for a photo and you hear everyone saying..."
+    },
+    {
+        "start": 1495.04,
+        "end": 1496.8799999999999,
+        "text": " Oh no!"
+    },
+    {
+        "start": 1496.8799999999999,
+        "end": 1498.3999999999999,
+        "text": " Oh great."
+    },
+    {
+        "start": 1498.3999999999999,
+        "end": 1500.3999999999999,
+        "text": " I mean that word, if he had a noisy smile,"
+    },
+    {
+        "start": 1500.3999999999999,
+        "end": 1502.0,
+        "text": " I think it would have been legitimate to say,"
+    },
+    {
+        "start": 1502.0,
+        "end": 1504.08,
+        "text": " at least stop smiling, I hate the sound of your smile."
+    },
+    {
+        "start": 1504.08,
+        "end": 1506.32,
+        "text": " I've got a beat up, we saw he's got noisy smile."
+    },
+    {
+        "start": 1506.32,
+        "end": 1509.36,
+        "text": " I think if you just said he was a shit father overall"
+    },
+    {
+        "start": 1509.36,
+        "end": 1512.08,
+        "text": " and he was as shit-to-shawn as he was to Julian,"
+    },
+    {
+        "start": 1512.08,
+        "end": 1514.32,
+        "text": " we'd probably still have some bad things to say about him,"
+    },
+    {
+        "start": 1514.32,
+        "end": 1516.0,
+        "text": " but that split is just..."
+    },
+    {
+        "start": 1516.0,
+        "end": 1517.36,
+        "text": " Yeah, I'm forgivable."
+    },
+    {
+        "start": 1517.36,
+        "end": 1519.76,
+        "text": " I realise I'm slightly more obsessed with this"
+    },
+    {
+        "start": 1519.76,
+        "end": 1520.96,
+        "text": " than most people I meet,"
+    },
+    {
+        "start": 1520.96,
+        "end": 1522.3999999999999,
+        "text": " because I've got the chip on my..."
+    },
+    {
+        "start": 1522.48,
+        "end": 1525.2800000000002,
+        "text": " I've got a McCain's factory on my shoulder."
+    },
+    {
+        "start": 1525.8400000000001,
+        "end": 1527.6000000000001,
+        "text": " I'm very conflicted about class."
+    },
+    {
+        "start": 1527.6000000000001,
+        "end": 1529.3600000000001,
+        "text": " I grew up in a council road and then..."
+    },
+    {
+        "start": 1529.3600000000001,
+        "end": 1531.3600000000001,
+        "text": " But then my dad bought our own council house."
+    },
+    {
+        "start": 1531.3600000000001,
+        "end": 1534.16,
+        "text": " So we were neither proper council estate working class"
+    },
+    {
+        "start": 1534.16,
+        "end": 1535.52,
+        "text": " and we certainly weren't middle class."
+    },
+    {
+        "start": 1535.52,
+        "end": 1537.6000000000001,
+        "text": " We were the upper working class,"
+    },
+    {
+        "start": 1537.6000000000001,
+        "end": 1540.0800000000002,
+        "text": " which is one of the most confusing fricking things to bake."
+    },
+    {
+        "start": 1540.0800000000002,
+        "end": 1541.8400000000001,
+        "text": " You don't belong anywhere."
+    },
+    {
+        "start": 1542.5600000000002,
+        "end": 1545.1200000000001,
+        "text": " And then you still feel bitter when you get older."
+    },
+    {
+        "start": 1545.1200000000001,
+        "end": 1546.72,
+        "text": " You could have done more if you'd lived in a barrier,"
+    },
+    {
+        "start": 1546.72,
+        "end": 1547.8400000000001,
+        "text": " it was all mixed up."
+    },
+    {
+        "start": 1547.8400000000001,
+        "end": 1550.4,
+        "text": " But it's led to some great stand-up I like to think"
+    },
+    {
+        "start": 1550.4,
+        "end": 1551.44,
+        "text": " and some angry rants."
+    },
+    {
+        "start": 1552.16,
+        "end": 1556.0,
+        "text": " John Lennon had similar sorts of thoughts,"
+    },
+    {
+        "start": 1556.0,
+        "end": 1557.76,
+        "text": " the angry working class hero."
+    },
+    {
+        "start": 1557.76,
+        "end": 1559.1200000000001,
+        "text": " But here's a newsflash."
+    },
+    {
+        "start": 1559.1200000000001,
+        "end": 1561.44,
+        "text": " They grew up in a very well-to-do,"
+    },
+    {
+        "start": 1561.44,
+        "end": 1563.52,
+        "text": " villagey part of Liverpool,"
+    },
+    {
+        "start": 1563.52,
+        "end": 1565.92,
+        "text": " which if you go on Google Images now"
+    },
+    {
+        "start": 1565.92,
+        "end": 1566.8,
+        "text": " and have a look at it,"
+    },
+    {
+        "start": 1566.8,
+        "end": 1570.0,
+        "text": " it's like a cute little town square artisanal shops."
+    },
+    {
+        "start": 1570.0,
+        "end": 1571.68,
+        "text": " He wasn't working class at all."
+    },
+    {
+        "start": 1571.68,
+        "end": 1572.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 1572.4,
+        "end": 1576.3200000000002,
+        "text": " Was it McCartney was like the genuinely really poor guy going to do?"
+    },
+    {
+        "start": 1576.3200000000002,
+        "end": 1578.24,
+        "text": " But I don't think McCartney ever professed"
+    },
+    {
+        "start": 1578.24,
+        "end": 1579.44,
+        "text": " I've come from nothing me."
+    },
+    {
+        "start": 1579.52,
+        "end": 1583.2,
+        "text": " But John Lennon, as he put on the robes of peace"
+    },
+    {
+        "start": 1583.2,
+        "end": 1584.72,
+        "text": " and the robes of feminism,"
+    },
+    {
+        "start": 1584.72,
+        "end": 1585.6000000000001,
+        "text": " also thought, you know what,"
+    },
+    {
+        "start": 1585.6000000000001,
+        "end": 1588.24,
+        "text": " I quite fancy the robes of the poor working man as well."
+    },
+    {
+        "start": 1588.24,
+        "end": 1589.68,
+        "text": " Was any of it real?"
+    },
+    {
+        "start": 1590.4,
+        "end": 1591.76,
+        "text": " It's probably going to be the first time"
+    },
+    {
+        "start": 1591.76,
+        "end": 1593.68,
+        "text": " that John Lennon's ever been compared to JLo,"
+    },
+    {
+        "start": 1593.68,
+        "end": 1595.1200000000001,
+        "text": " but didn't she do that as well?"
+    },
+    {
+        "start": 1595.1200000000001,
+        "end": 1596.96,
+        "text": " She did, like, a whole journey from the block."
+    },
+    {
+        "start": 1596.96,
+        "end": 1598.24,
+        "text": " She genuinely was from the block."
+    },
+    {
+        "start": 1598.24,
+        "end": 1600.96,
+        "text": " No, she's like from some quite posh part of the block."
+    },
+    {
+        "start": 1600.96,
+        "end": 1602.16,
+        "text": " She was on the block."
+    },
+    {
+        "start": 1602.16,
+        "end": 1603.76,
+        "text": " From the block, but the good end of the block."
+    },
+    {
+        "start": 1603.76,
+        "end": 1605.04,
+        "text": " I'm having a shit day."
+    },
+    {
+        "start": 1605.04,
+        "end": 1607.92,
+        "text": " Then she's going to tell me Nicki Minaj's bottom is not real."
+    },
+    {
+        "start": 1608.0,
+        "end": 1609.44,
+        "text": " We'll go home crying on the shoe."
+    },
+    {
+        "start": 1611.1200000000001,
+        "end": 1612.64,
+        "text": " Who thinks they come from a posh background"
+    },
+    {
+        "start": 1612.64,
+        "end": 1615.2,
+        "text": " and who comes from a proper working class background in this room?"
+    },
+    {
+        "start": 1615.2,
+        "end": 1616.5600000000002,
+        "text": " My mum's a cleaner."
+    },
+    {
+        "start": 1616.5600000000002,
+        "end": 1618.0800000000002,
+        "text": " My dad was a manual labourer."
+    },
+    {
+        "start": 1618.0800000000002,
+        "end": 1618.8000000000002,
+        "text": " Back to me."
+    },
+    {
+        "start": 1618.8000000000002,
+        "end": 1620.0800000000002,
+        "text": " Slam dunk working class, right?"
+    },
+    {
+        "start": 1620.0800000000002,
+        "end": 1622.72,
+        "text": " Yeah, I wouldn't say I'm posh at all working class."
+    },
+    {
+        "start": 1622.72,
+        "end": 1624.72,
+        "text": " I'd say I was right banging the middle."
+    },
+    {
+        "start": 1624.72,
+        "end": 1626.48,
+        "text": " Lower middle, middle, middle, upper middle."
+    },
+    {
+        "start": 1626.48,
+        "end": 1628.3200000000002,
+        "text": " My dad was very grouper,"
+    },
+    {
+        "start": 1628.3200000000002,
+        "end": 1629.68,
+        "text": " but he worked at a university."
+    },
+    {
+        "start": 1629.68,
+        "end": 1630.64,
+        "text": " We was fine."
+    },
+    {
+        "start": 1630.64,
+        "end": 1632.24,
+        "text": " Middle, your middle middle."
+    },
+    {
+        "start": 1632.24,
+        "end": 1632.5600000000002,
+        "text": " Yeah."
+    },
+    {
+        "start": 1632.5600000000002,
+        "end": 1633.3600000000001,
+        "text": " That's the worst, isn't he?"
+    },
+    {
+        "start": 1633.3600000000001,
+        "end": 1634.8000000000002,
+        "text": " Got nothing to moan about, really."
+    },
+    {
+        "start": 1634.8000000000002,
+        "end": 1635.44,
+        "text": " No."
+    },
+    {
+        "start": 1635.44,
+        "end": 1637.6000000000001,
+        "text": " Same middle, gray area."
+    },
+    {
+        "start": 1637.6799999999998,
+        "end": 1639.28,
+        "text": " Like, hair dresser."
+    },
+    {
+        "start": 1639.9199999999998,
+        "end": 1642.8799999999999,
+        "text": " Like, bank clerk, semi-detached, lester."
+    },
+    {
+        "start": 1642.8799999999999,
+        "end": 1643.4399999999998,
+        "text": " It's a low em."
+    },
+    {
+        "start": 1643.4399999999998,
+        "end": 1644.08,
+        "text": " You go low."
+    },
+    {
+        "start": 1644.08,
+        "end": 1645.1999999999998,
+        "text": " You can comfortably go low,"
+    },
+    {
+        "start": 1645.1999999999998,
+        "end": 1646.32,
+        "text": " with a middle, middle low em,"
+    },
+    {
+        "start": 1646.32,
+        "end": 1647.52,
+        "text": " with a upper working."
+    },
+    {
+        "start": 1647.52,
+        "end": 1648.48,
+        "text": " What about you, can?"
+    },
+    {
+        "start": 1648.48,
+        "end": 1650.32,
+        "text": " Cleaner, JCB driver."
+    },
+    {
+        "start": 1650.32,
+        "end": 1651.6799999999998,
+        "text": " That's what I'm talking about."
+    },
+    {
+        "start": 1651.6799999999998,
+        "end": 1653.04,
+        "text": " You're just that."
+    },
+    {
+        "start": 1653.04,
+        "end": 1654.0,
+        "text": " I'm not going to look at your hands"
+    },
+    {
+        "start": 1654.0,
+        "end": 1654.9599999999998,
+        "text": " because they're probably split"
+    },
+    {
+        "start": 1654.9599999999998,
+        "end": 1656.6399999999999,
+        "text": " when you're at the scrub floors"
+    },
+    {
+        "start": 1656.6399999999999,
+        "end": 1657.76,
+        "text": " in the early part of your life"
+    },
+    {
+        "start": 1657.76,
+        "end": 1658.8799999999999,
+        "text": " to save up to pens,"
+    },
+    {
+        "start": 1658.8799999999999,
+        "end": 1661.76,
+        "text": " to scratch out your Rubio-Metry tails on"
+    },
+    {
+        "start": 1661.76,
+        "end": 1663.6799999999998,
+        "text": " on a bit of toilet paper in a back cupboard"
+    },
+    {
+        "start": 1663.6799999999998,
+        "end": 1665.1999999999998,
+        "text": " to just so your talent could be recognised."
+    },
+    {
+        "start": 1665.2,
+        "end": 1667.3600000000001,
+        "text": " I definitely, like, most people"
+    },
+    {
+        "start": 1667.3600000000001,
+        "end": 1670.72,
+        "text": " think I'm much pusher background than I am."
+    },
+    {
+        "start": 1670.72,
+        "end": 1671.92,
+        "text": " I think I think it could be..."
+    },
+    {
+        "start": 1671.92,
+        "end": 1672.96,
+        "text": " Have you got just like Northern..."
+    },
+    {
+        "start": 1672.96,
+        "end": 1673.76,
+        "text": " What's your name?"
+    },
+    {
+        "start": 1673.76,
+        "end": 1674.56,
+        "text": " Well, it's like Midlands."
+    },
+    {
+        "start": 1674.56,
+        "end": 1675.04,
+        "text": " Midlands."
+    },
+    {
+        "start": 1675.04,
+        "end": 1677.3600000000001,
+        "text": " That's what your middle class and Midlands, you've got..."
+    },
+    {
+        "start": 1677.3600000000001,
+        "end": 1677.8400000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 1677.8400000000001,
+        "end": 1679.04,
+        "text": " I've got no thing."
+    },
+    {
+        "start": 1679.04,
+        "end": 1679.52,
+        "text": " You have."
+    },
+    {
+        "start": 1679.52,
+        "end": 1681.04,
+        "text": " The people I definitely get seen is like"
+    },
+    {
+        "start": 1681.04,
+        "end": 1681.6000000000001,
+        "text": " the pusher one."
+    },
+    {
+        "start": 1681.6000000000001,
+        "end": 1682.32,
+        "text": " I think it's two things."
+    },
+    {
+        "start": 1682.32,
+        "end": 1683.8400000000001,
+        "text": " I think it's playing the piano."
+    },
+    {
+        "start": 1683.8400000000001,
+        "end": 1685.8400000000001,
+        "text": " It's like instantly a pusher up."
+    },
+    {
+        "start": 1685.8400000000001,
+        "end": 1686.56,
+        "text": " And..."
+    },
+    {
+        "start": 1687.6000000000001,
+        "end": 1688.88,
+        "text": " And I'm quite still."
+    },
+    {
+        "start": 1689.8400000000001,
+        "end": 1690.64,
+        "text": " Yeah."
+    },
+    {
+        "start": 1690.64,
+        "end": 1691.8400000000001,
+        "text": " I'm quite still."
+    },
+    {
+        "start": 1691.8400000000001,
+        "end": 1693.44,
+        "text": " I'm quite calm and still."
+    },
+    {
+        "start": 1693.44,
+        "end": 1694.56,
+        "text": " And I think finishing school..."
+    },
+    {
+        "start": 1694.72,
+        "end": 1695.84,
+        "text": " Yeah, I think that's what it..."
+    },
+    {
+        "start": 1695.84,
+        "end": 1696.32,
+        "text": " I think that's..."
+    },
+    {
+        "start": 1696.32,
+        "end": 1698.08,
+        "text": " Possibly people have less emotions."
+    },
+    {
+        "start": 1698.08,
+        "end": 1698.8,
+        "text": " Let's face it."
+    },
+    {
+        "start": 1700.0,
+        "end": 1702.0,
+        "text": " No, the reason I'm asking you is"
+    },
+    {
+        "start": 1702.0,
+        "end": 1704.32,
+        "text": " that he pushed the scouser working"
+    },
+    {
+        "start": 1704.32,
+        "end": 1706.96,
+        "text": " like accent in this country, particularly."
+    },
+    {
+        "start": 1706.96,
+        "end": 1709.2,
+        "text": " He is such a powerful marker"
+    },
+    {
+        "start": 1709.2,
+        "end": 1709.84,
+        "text": " and he was like,"
+    },
+    {
+        "start": 1709.84,
+        "end": 1711.9199999999998,
+        "text": " your scouser boy made good"
+    },
+    {
+        "start": 1711.9199999999998,
+        "end": 1712.8,
+        "text": " and the whole time."
+    },
+    {
+        "start": 1713.28,
+        "end": 1714.8799999999999,
+        "text": " He wasn't your scouser boy made good"
+    },
+    {
+        "start": 1714.8799999999999,
+        "end": 1717.2,
+        "text": " who goes piece of chance and loved women."
+    },
+    {
+        "start": 1717.2,
+        "end": 1718.72,
+        "text": " He was a bit of a wife, Beaty,"
+    },
+    {
+        "start": 1719.36,
+        "end": 1720.24,
+        "text": " semi-pocho."
+    },
+    {
+        "start": 1720.96,
+        "end": 1724.24,
+        "text": " But the music was some of the best the planet"
+    },
+    {
+        "start": 1724.32,
+        "end": 1725.1200000000001,
+        "text": " has ever known."
+    },
+    {
+        "start": 1725.68,
+        "end": 1727.44,
+        "text": " I mean, seriously, without it,"
+    },
+    {
+        "start": 1727.44,
+        "end": 1729.76,
+        "text": " we'd probably still be listening to Schubert today."
+    },
+    {
+        "start": 1730.48,
+        "end": 1731.6,
+        "text": " And that'd be awful."
+    },
+    {
+        "start": 1731.6,
+        "end": 1732.0,
+        "text": " I know."
+    },
+    {
+        "start": 1732.0,
+        "end": 1734.16,
+        "text": " Actually, it was a Schubert's amazing."
+    },
+    {
+        "start": 1734.16,
+        "end": 1735.44,
+        "text": " I mean, he's a whole other subject,"
+    },
+    {
+        "start": 1735.44,
+        "end": 1737.04,
+        "text": " Diodes syphilis, total wanker."
+    },
+    {
+        "start": 1737.04,
+        "end": 1737.68,
+        "text": " But what sounds?"
+    },
+    {
+        "start": 1738.4,
+        "end": 1739.52,
+        "text": " Hashtag death of the maiden."
+    },
+    {
+        "start": 1739.52,
+        "end": 1740.56,
+        "text": " So it's time to..."
+    },
+    {
+        "start": 1741.44,
+        "end": 1742.64,
+        "text": " It's time how else are brilliant?"
+    },
+    {
+        "start": 1742.64,
+        "end": 1743.68,
+        "text": " It's Michael, I've had a tag."
+    },
+    {
+        "start": 1743.68,
+        "end": 1744.32,
+        "text": " Sorry."
+    },
+    {
+        "start": 1744.32,
+        "end": 1745.76,
+        "text": " It's such a brilliant piece of music."
+    },
+    {
+        "start": 1745.76,
+        "end": 1747.28,
+        "text": " Anyway, so let's not go down the Schubert."
+    },
+    {
+        "start": 1747.28,
+        "end": 1747.76,
+        "text": " No, it'll..."
+    },
+    {
+        "start": 1748.4,
+        "end": 1749.52,
+        "text": " It's time to vote, guys."
+    },
+    {
+        "start": 1750.16,
+        "end": 1751.2,
+        "text": " Now, this show..."
+    },
+    {
+        "start": 1751.2,
+        "end": 1752.4,
+        "text": " You could look at it as reductive"
+    },
+    {
+        "start": 1752.4,
+        "end": 1753.76,
+        "text": " or you could look at it as courageous."
+    },
+    {
+        "start": 1754.24,
+        "end": 1755.44,
+        "text": " Think of it as two scales."
+    },
+    {
+        "start": 1756.16,
+        "end": 1757.68,
+        "text": " Not musical scales today."
+    },
+    {
+        "start": 1758.16,
+        "end": 1760.08,
+        "text": " We can only be evil"
+    },
+    {
+        "start": 1760.64,
+        "end": 1762.24,
+        "text": " or the lower register of genius."
+    },
+    {
+        "start": 1762.8,
+        "end": 1764.08,
+        "text": " Are we a shrill of evil"
+    },
+    {
+        "start": 1764.64,
+        "end": 1766.4,
+        "text": " or a baritone of genius?"
+    },
+    {
+        "start": 1767.1200000000001,
+        "end": 1769.44,
+        "text": " Kaz, I'm going to ask you to vote first."
+    },
+    {
+        "start": 1770.72,
+        "end": 1772.0,
+        "text": " I'm going to go evil."
+    },
+    {
+        "start": 1772.0,
+        "end": 1772.72,
+        "text": " Didn't see it coming."
+    },
+    {
+        "start": 1775.76,
+        "end": 1776.24,
+        "text": " And just..."
+    },
+    {
+        "start": 1776.24,
+        "end": 1778.96,
+        "text": " I'm still feeling bit uncomfortable about evil."
+    },
+    {
+        "start": 1778.96,
+        "end": 1780.88,
+        "text": " But, you know, if I've got to make a decision,"
+    },
+    {
+        "start": 1780.88,
+        "end": 1781.6,
+        "text": " then the..."
+    },
+    {
+        "start": 1781.6,
+        "end": 1783.6,
+        "text": " the scales are definitely tipping that way."
+    },
+    {
+        "start": 1783.6799999999998,
+        "end": 1788.3999999999999,
+        "text": " Just a big fake, hypocrite, bad dad."
+    },
+    {
+        "start": 1788.3999999999999,
+        "end": 1789.84,
+        "text": " Just, yeah, evil."
+    },
+    {
+        "start": 1790.32,
+        "end": 1792.56,
+        "text": " Rachel, don't be influenced by everyone around you."
+    },
+    {
+        "start": 1792.56,
+        "end": 1794.48,
+        "text": " You are a musician yourself."
+    },
+    {
+        "start": 1794.48,
+        "end": 1795.52,
+        "text": " You play music."
+    },
+    {
+        "start": 1795.52,
+        "end": 1797.36,
+        "text": " You have to acknowledge the genius."
+    },
+    {
+        "start": 1797.36,
+        "end": 1798.3999999999999,
+        "text": " But do you acknowledge it enough?"
+    },
+    {
+        "start": 1798.8799999999999,
+        "end": 1800.48,
+        "text": " I don't acknowledge it enough."
+    },
+    {
+        "start": 1801.6,
+        "end": 1804.0,
+        "text": " I think he's evil of the two options."
+    },
+    {
+        "start": 1804.0,
+        "end": 1804.8,
+        "text": " I think he's evil."
+    },
+    {
+        "start": 1804.8,
+        "end": 1807.6799999999998,
+        "text": " I think that he did his best work in conjunction"
+    },
+    {
+        "start": 1807.6799999999998,
+        "end": 1810.0,
+        "text": " with Macartney when he was in the Beatles."
+    },
+    {
+        "start": 1810.56,
+        "end": 1813.28,
+        "text": " And I think there's too much bad stuff."
+    },
+    {
+        "start": 1813.76,
+        "end": 1814.48,
+        "text": " On the other side."
+    },
+    {
+        "start": 1815.36,
+        "end": 1816.8799999999999,
+        "text": " That just leaves you shone, no pressure."
+    },
+    {
+        "start": 1818.0,
+        "end": 1819.28,
+        "text": " Well, I just don't..."
+    },
+    {
+        "start": 1819.28,
+        "end": 1821.52,
+        "text": " I have to call him evil"
+    },
+    {
+        "start": 1822.32,
+        "end": 1825.36,
+        "text": " because I also think he's just infected,"
+    },
+    {
+        "start": 1825.36,
+        "end": 1826.3999999999999,
+        "text": " Britain, with this."
+    },
+    {
+        "start": 1827.12,
+        "end": 1828.1599999999999,
+        "text": " I'm just sick of him."
+    },
+    {
+        "start": 1828.8,
+        "end": 1829.76,
+        "text": " Sick of him."
+    },
+    {
+        "start": 1829.76,
+        "end": 1831.12,
+        "text": " You just don't know what perfecting is."
+    },
+    {
+        "start": 1831.12,
+        "end": 1833.9199999999998,
+        "text": " When you think we've got the leg of the site of him on posters,"
+    },
+    {
+        "start": 1833.9199999999998,
+        "end": 1836.0,
+        "text": " on books, some sick of documentaries about him,"
+    },
+    {
+        "start": 1836.0,
+        "end": 1838.3999999999999,
+        "text": " films about him, I don't give a shit."
+    },
+    {
+        "start": 1838.3999999999999,
+        "end": 1840.08,
+        "text": " Christmas you can't move without that song."
+    },
+    {
+        "start": 1840.08,
+        "end": 1840.9599999999998,
+        "text": " Oh, okay."
+    },
+    {
+        "start": 1840.9599999999998,
+        "end": 1841.4399999999998,
+        "text": " I also..."
+    },
+    {
+        "start": 1841.4399999999998,
+        "end": 1843.36,
+        "text": " Just come back to the coloured round glasses as well."
+    },
+    {
+        "start": 1843.36,
+        "end": 1844.1599999999999,
+        "text": " Exactly."
+    },
+    {
+        "start": 1844.1599999999999,
+        "end": 1845.12,
+        "text": " Well, that's the vote."
+    },
+    {
+        "start": 1845.12,
+        "end": 1846.4799999999998,
+        "text": " I'm afraid John Lennon is."
+    },
+    {
+        "start": 1847.84,
+        "end": 1848.56,
+        "text": " Evil."
+    },
+    {
+        "start": 1848.56,
+        "end": 1850.24,
+        "text": " And he goes into the evil box."
+    },
+    {
+        "start": 1850.8,
+        "end": 1852.32,
+        "text": " Panel, thank you so much."
+    },
+    {
+        "start": 1852.32,
+        "end": 1854.8799999999999,
+        "text": " It's some of the stuff that's come out in today's discussion."
+    },
+    {
+        "start": 1854.8799999999999,
+        "end": 1855.36,
+        "text": " It went places."
+    },
+    {
+        "start": 1855.36,
+        "end": 1856.4799999999998,
+        "text": " I didn't think it would go."
+    },
+    {
+        "start": 1856.4799999999998,
+        "end": 1859.76,
+        "text": " It's been fun watching you wrestle your love of music"
+    },
+    {
+        "start": 1859.76,
+        "end": 1862.6399999999999,
+        "text": " with your hatred of misogyny and beating."
+    },
+    {
+        "start": 1862.6399999999999,
+        "end": 1864.0,
+        "text": " So to be pretty standard."
+    },
+    {
+        "start": 1865.84,
+        "end": 1868.0,
+        "text": " Do subscribe if you've enjoyed evil genius."
+    },
+    {
+        "start": 1868.0,
+        "end": 1869.04,
+        "text": " The topics are varied."
+    },
+    {
+        "start": 1869.76,
+        "end": 1871.6799999999998,
+        "text": " If you want to hear a man struggling with the subject,"
+    },
+    {
+        "start": 1871.6799999999998,
+        "end": 1872.7199999999998,
+        "text": " he's had a week to learn about."
+    },
+    {
+        "start": 1872.88,
+        "end": 1874.64,
+        "text": " Three panelists who have been briefed properly."
+    },
+    {
+        "start": 1874.64,
+        "end": 1877.04,
+        "text": " Click subscribe now."
+    },
+    {
+        "start": 1877.04,
+        "end": 1879.2,
+        "text": " If you've liked it, leave a glowing review underneath."
+    },
+    {
+        "start": 1879.84,
+        "end": 1881.28,
+        "text": " Don't, if you haven't liked it,"
+    },
+    {
+        "start": 1881.28,
+        "end": 1882.32,
+        "text": " and if you leave a negative review,"
+    },
+    {
+        "start": 1882.32,
+        "end": 1884.32,
+        "text": " I will get your IP address and come and hurt you."
+    },
+    {
+        "start": 1884.32,
+        "end": 1887.44,
+        "text": " Because I am evil and my comedy isn't that good."
+    },
+    {
+        "start": 1887.44,
+        "end": 1887.68,
+        "text": " Bye."
+    },
+    {
+        "start": 1893.68,
+        "end": 1895.76,
+        "text": " Nice to hear Russell Kane doing something different there."
+    },
+    {
+        "start": 1895.76,
+        "end": 1896.24,
+        "text": " Yeah."
+    },
+    {
+        "start": 1896.24,
+        "end": 1897.6000000000001,
+        "text": " Yeah, it was really good, wasn't it?"
+    },
+    {
+        "start": 1897.6000000000001,
+        "end": 1898.48,
+        "text": " Yeah, I like him."
+    },
+    {
+        "start": 1898.48,
+        "end": 1901.44,
+        "text": " If you like that, just search for evil genius with Russell Kane"
+    },
+    {
+        "start": 1901.44,
+        "end": 1902.24,
+        "text": " and subscribe."
+    },
+    {
+        "start": 1902.8,
+        "end": 1903.52,
+        "text": " Thanks for listening."
+    },
+    {
+        "start": 1903.52,
+        "end": 1904.32,
+        "text": " See you next time."
+    }
+]

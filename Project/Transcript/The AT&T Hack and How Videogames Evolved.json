@@ -1,0 +1,4022 @@
+[
+    {
+        "start": 0.0,
+        "end": 9.0,
+        "text": " This is an MPB Think Radio Podcast."
+    },
+    {
+        "start": 9.0,
+        "end": 14.72,
+        "text": " The 10-minute time out is a mini podcast that brings Mississippi Sports stories to life."
+    },
+    {
+        "start": 14.72,
+        "end": 19.84,
+        "text": " Join me, Lacey Alexander, as I learn more about the teams, athletes, staff and programs"
+    },
+    {
+        "start": 19.84,
+        "end": 22.0,
+        "text": " that make our state proud."
+    },
+    {
+        "start": 22.0,
+        "end": 26.32,
+        "text": " One-on-one interviews with influential playmakers paint a clear picture for listeners of how"
+    },
+    {
+        "start": 26.32,
+        "end": 30.16,
+        "text": " Mississippi Sports inspire and energize our community."
+    },
+    {
+        "start": 30.16,
+        "end": 33.92,
+        "text": " New episodes released every other Friday on your favorite podcasting app."
+    },
+    {
+        "start": 33.92,
+        "end": 38.68,
+        "text": " Hello, thanks for tuning in to Everyday Tech."
+    },
+    {
+        "start": 38.68,
+        "end": 43.32,
+        "text": " This is Abram Nanny with Sabir Abdul-Hawk and IT expert."
+    },
+    {
+        "start": 43.32,
+        "end": 46.84,
+        "text": " For the past few weeks, we've been talking about the different changes in both music and"
+    },
+    {
+        "start": 46.84,
+        "end": 48.16,
+        "text": " movie entertainment."
+    },
+    {
+        "start": 48.16,
+        "end": 52.6,
+        "text": " So today, we're going to close out that conversation and discuss how video games have changed over"
+    },
+    {
+        "start": 52.6,
+        "end": 53.6,
+        "text": " the years."
+    },
+    {
+        "start": 53.6,
+        "end": 55.84,
+        "text": " But before that, surprise, surprise."
+    },
+    {
+        "start": 55.84,
+        "end": 58.760000000000005,
+        "text": " Of course, we have another hack to talk about."
+    },
+    {
+        "start": 58.760000000000005,
+        "end": 63.120000000000005,
+        "text": " Email everydaytech at mpbonline.org if you have any questions or comments."
+    },
+    {
+        "start": 63.120000000000005,
+        "end": 67.24000000000001,
+        "text": " And of course, don't forget about the talk to us feature on the MPB Public Media app,"
+    },
+    {
+        "start": 67.24000000000001,
+        "end": 71.96000000000001,
+        "text": " where you can record a voice or video message and send it straight to us at everyday tech."
+    },
+    {
+        "start": 71.96000000000001,
+        "end": 73.76,
+        "text": " Sabir, how you doing, man?"
+    },
+    {
+        "start": 73.76,
+        "end": 76.64,
+        "text": " What's the IT life been like this past week?"
+    },
+    {
+        "start": 76.64,
+        "end": 77.96000000000001,
+        "text": " The IT life."
+    },
+    {
+        "start": 77.96,
+        "end": 82.88,
+        "text": " Let's put it this way."
+    },
+    {
+        "start": 82.88,
+        "end": 86.67999999999999,
+        "text": " Ladies and gentlemen, always communicate."
+    },
+    {
+        "start": 86.67999999999999,
+        "end": 87.83999999999999,
+        "text": " Always communicate."
+    },
+    {
+        "start": 87.83999999999999,
+        "end": 88.83999999999999,
+        "text": " Always communicate."
+    },
+    {
+        "start": 88.83999999999999,
+        "end": 93.8,
+        "text": " Whenever there's something big that's being changed, if you're realizing that you're"
+    },
+    {
+        "start": 93.8,
+        "end": 100.0,
+        "text": " going through a tough time with something or if you realize that something new has changed,"
+    },
+    {
+        "start": 100.0,
+        "end": 102.36,
+        "text": " let's make sure we inform people."
+    },
+    {
+        "start": 102.36,
+        "end": 103.72,
+        "text": " Let's not surprise people."
+    },
+    {
+        "start": 103.72,
+        "end": 106.75999999999999,
+        "text": " Let's not pull something on them."
+    },
+    {
+        "start": 106.76,
+        "end": 109.24000000000001,
+        "text": " Otherwise, it can turn into be a hiccup."
+    },
+    {
+        "start": 109.24000000000001,
+        "end": 113.04,
+        "text": " But just been putting out fires as usual."
+    },
+    {
+        "start": 113.04,
+        "end": 114.72,
+        "text": " Putting out fires as usual."
+    },
+    {
+        "start": 114.72,
+        "end": 122.68,
+        "text": " And it has been a pretty productive week in terms of doing that."
+    },
+    {
+        "start": 122.68,
+        "end": 126.96000000000001,
+        "text": " You know, Abraham I always tell everybody, I don't believe in the word should when it comes"
+    },
+    {
+        "start": 126.96000000000001,
+        "end": 127.96000000000001,
+        "text": " with IT."
+    },
+    {
+        "start": 127.96000000000001,
+        "end": 130.88,
+        "text": " When it comes with IT, I don't believe in the word should."
+    },
+    {
+        "start": 130.88,
+        "end": 140.79999999999998,
+        "text": " And the unspoken rule of IT is to find another IT division or department to blame."
+    },
+    {
+        "start": 140.79999999999998,
+        "end": 144.07999999999998,
+        "text": " I do not strive to that level of theory."
+    },
+    {
+        "start": 144.07999999999998,
+        "end": 145.07999999999998,
+        "text": " I don't."
+    },
+    {
+        "start": 145.07999999999998,
+        "end": 146.07999999999998,
+        "text": " And maybe I don't know."
+    },
+    {
+        "start": 146.07999999999998,
+        "end": 147.07999999999998,
+        "text": " Maybe some of it."
+    },
+    {
+        "start": 147.07999999999998,
+        "end": 149.56,
+        "text": " I don't like the word should when it comes with IT."
+    },
+    {
+        "start": 149.56,
+        "end": 154.28,
+        "text": " If you're describing something in terms of fixing something with IT, anytime someone says"
+    },
+    {
+        "start": 154.28,
+        "end": 157.48,
+        "text": " the word should, I'm a communicator first."
+    },
+    {
+        "start": 157.48,
+        "end": 159.12,
+        "text": " It does not denote confidence."
+    },
+    {
+        "start": 159.12,
+        "end": 165.12,
+        "text": " So I've been dealing with a bunch of sheds this week and a lot of hand-ranging and a lot"
+    },
+    {
+        "start": 165.12,
+        "end": 166.84,
+        "text": " of blame somebody else's."
+    },
+    {
+        "start": 166.84,
+        "end": 172.32,
+        "text": " So it's been kind of a frustrating week in IT, but we're going to push through it."
+    },
+    {
+        "start": 172.32,
+        "end": 173.32,
+        "text": " Yep."
+    },
+    {
+        "start": 173.32,
+        "end": 179.08,
+        "text": " I mean, you, we talked a little bit off air about what's happening with your workplace."
+    },
+    {
+        "start": 179.08,
+        "end": 182.92000000000002,
+        "text": " And that's a big change coming into effect."
+    },
+    {
+        "start": 182.92000000000002,
+        "end": 186.96,
+        "text": " And it's not, it's a big tough thing to deal with."
+    },
+    {
+        "start": 186.96,
+        "end": 189.04000000000002,
+        "text": " Yeah, I mean, we push through it."
+    },
+    {
+        "start": 189.04000000000002,
+        "end": 194.12,
+        "text": " And the main thing is you always want to communicate a sense of confidence."
+    },
+    {
+        "start": 194.12,
+        "end": 198.92000000000002,
+        "text": " You want to communicate a sense of, you know, we got things under control."
+    },
+    {
+        "start": 198.92000000000002,
+        "end": 200.72,
+        "text": " Don't worry about it."
+    },
+    {
+        "start": 200.72,
+        "end": 202.36,
+        "text": " And we told that line."
+    },
+    {
+        "start": 202.36,
+        "end": 203.76000000000002,
+        "text": " We told that line in IT."
+    },
+    {
+        "start": 203.76000000000002,
+        "end": 204.76000000000002,
+        "text": " A lot."
+    },
+    {
+        "start": 204.76000000000002,
+        "end": 212.36,
+        "text": " I would imagine we're not unlike probably like a clinic or a surgical or, you know, some"
+    },
+    {
+        "start": 212.36,
+        "end": 214.36,
+        "text": " kind of something dealing with health, right?"
+    },
+    {
+        "start": 214.36,
+        "end": 218.48000000000002,
+        "text": " But internally, you're like, oh my God, everything's broken, everything's broken."
+    },
+    {
+        "start": 218.48000000000002,
+        "end": 221.92000000000002,
+        "text": " But you can't be focused on the fact that things are broken."
+    },
+    {
+        "start": 221.92000000000002,
+        "end": 227.28,
+        "text": " You have to look at, you have to bring forth an air of positivity, bring forth an air"
+    },
+    {
+        "start": 227.28,
+        "end": 232.72000000000003,
+        "text": " of, you know, collaboration and team working and bring forth an air of, you know what, we're"
+    },
+    {
+        "start": 232.72000000000003,
+        "end": 234.4,
+        "text": " going to get this squared away."
+    },
+    {
+        "start": 234.4,
+        "end": 235.84,
+        "text": " And inside I'm dying."
+    },
+    {
+        "start": 235.84,
+        "end": 238.84,
+        "text": " Inside I'm dying."
+    },
+    {
+        "start": 238.84,
+        "end": 242.28000000000003,
+        "text": " But outside I have to be able to convey like, look, I know this is shruff."
+    },
+    {
+        "start": 242.28000000000003,
+        "end": 243.8,
+        "text": " I know this is tough."
+    },
+    {
+        "start": 243.8,
+        "end": 244.8,
+        "text": " I know this is a struggle."
+    },
+    {
+        "start": 244.8,
+        "end": 246.52,
+        "text": " We're going to push through it."
+    },
+    {
+        "start": 246.52,
+        "end": 250.08,
+        "text": " And that's what my teammates and I do day in, day out."
+    },
+    {
+        "start": 250.08,
+        "end": 251.08,
+        "text": " Yeah."
+    },
+    {
+        "start": 251.08,
+        "end": 255.56,
+        "text": " So always exude the confidence in the work that you're doing."
+    },
+    {
+        "start": 255.56,
+        "end": 256.84000000000003,
+        "text": " And don't use the word should."
+    },
+    {
+        "start": 256.84000000000003,
+        "end": 257.84000000000003,
+        "text": " Don't use the word should."
+    },
+    {
+        "start": 257.84000000000003,
+        "end": 262.6,
+        "text": " So when you say that, you mean like, you're not saying like, oh, well, this, this monitor"
+    },
+    {
+        "start": 262.6,
+        "end": 264.52,
+        "text": " should work for you, right?"
+    },
+    {
+        "start": 264.52,
+        "end": 265.52,
+        "text": " That's what you're saying."
+    },
+    {
+        "start": 265.52,
+        "end": 266.88,
+        "text": " I don't, I'm talking about anything."
+    },
+    {
+        "start": 266.88,
+        "end": 267.88,
+        "text": " Anything."
+    },
+    {
+        "start": 267.88,
+        "end": 268.88,
+        "text": " Anything at all."
+    },
+    {
+        "start": 268.88,
+        "end": 272.8,
+        "text": " It, it, it, it, when it comes to, when it comes to IT, I tell all my folks, I'll be in"
+    },
+    {
+        "start": 272.8,
+        "end": 276.24,
+        "text": " the middle of saying something and I'll let the word should escape my mouth."
+    },
+    {
+        "start": 276.24,
+        "end": 279.64,
+        "text": " I will stop and smack my hand like I'm somebody."
+    },
+    {
+        "start": 279.64,
+        "end": 283.24,
+        "text": " I'll be like, I'll be like, I said the word should and they know me enough."
+    },
+    {
+        "start": 283.24,
+        "end": 285.28000000000003,
+        "text": " They'd be like, yep, you said the word should."
+    },
+    {
+        "start": 285.28000000000003,
+        "end": 289.32,
+        "text": " And so I tell them, I'm like, if I say the word should without batting an eye or correcting"
+    },
+    {
+        "start": 289.32,
+        "end": 292.0,
+        "text": " myself, I'm probably an alien."
+    },
+    {
+        "start": 292.0,
+        "end": 297.40000000000003,
+        "text": " The original spirit is probably somewhere on, you know, somewhere in a ship being dissected,"
+    },
+    {
+        "start": 297.40000000000003,
+        "end": 298.6,
+        "text": " you know, the real severe is gone."
+    },
+    {
+        "start": 298.6,
+        "end": 299.6,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 299.6,
+        "end": 304.64000000000004,
+        "text": " And when you say the word should, it should, from a communicative standpoint, does not,"
+    },
+    {
+        "start": 304.64000000000004,
+        "end": 306.04,
+        "text": " you know, confidence."
+    },
+    {
+        "start": 306.04,
+        "end": 310.68,
+        "text": " And I hear people in this field say it all the time without batting an eye."
+    },
+    {
+        "start": 310.68,
+        "end": 316.0,
+        "text": " And so although I understand where they're coming from, I understand where they're, they're"
+    },
+    {
+        "start": 316.0,
+        "end": 323.24,
+        "text": " getting to, but as an end user or as someone that may not be tech savvy or, or is maybe"
+    },
+    {
+        "start": 323.24,
+        "end": 329.56,
+        "text": " even a little anxious about the way how things work in this world, in terms of technology"
+    },
+    {
+        "start": 330.0,
+        "end": 333.96,
+        "text": " if you hear someone that's supposed to be helping you say the word should take it with a"
+    },
+    {
+        "start": 333.96,
+        "end": 335.2,
+        "text": " grain of salt."
+    },
+    {
+        "start": 335.2,
+        "end": 337.0,
+        "text": " They're doing their best, right."
+    },
+    {
+        "start": 337.0,
+        "end": 338.4,
+        "text": " But take it with the grain of salt."
+    },
+    {
+        "start": 338.4,
+        "end": 339.56,
+        "text": " And a severe does it."
+    },
+    {
+        "start": 339.56,
+        "end": 340.6,
+        "text": " It's an alien abduction."
+    },
+    {
+        "start": 340.6,
+        "end": 343.28000000000003,
+        "text": " And if I do it, it's not the real one."
+    },
+    {
+        "start": 343.28000000000003,
+        "end": 349.24,
+        "text": " And if that's the case, then I guess the aliens, they made the, they made the best choice,"
+    },
+    {
+        "start": 349.24,
+        "end": 350.4,
+        "text": " taking the best of us first."
+    },
+    {
+        "start": 350.4,
+        "end": 351.4,
+        "text": " I don't know."
+    },
+    {
+        "start": 351.4,
+        "end": 354.08,
+        "text": " They're going to go ahead, just kidding at me."
+    },
+    {
+        "start": 354.08,
+        "end": 355.08,
+        "text": " And that's it."
+    },
+    {
+        "start": 355.08,
+        "end": 356.08,
+        "text": " Right."
+    },
+    {
+        "start": 356.08,
+        "end": 357.08,
+        "text": " Have you seen the movie Beekeeper?"
+    },
+    {
+        "start": 357.08,
+        "end": 359.0,
+        "text": " No, I haven't."
+    },
+    {
+        "start": 359.0,
+        "end": 362.72,
+        "text": " We just saw it this past weekend, Jason Stadham."
+    },
+    {
+        "start": 362.72,
+        "end": 371.44,
+        "text": " And here he is, he's someone that, someone that is dear to him gets, suffers an issue of"
+    },
+    {
+        "start": 371.44,
+        "end": 373.48,
+        "text": " security of compromise."
+    },
+    {
+        "start": 373.48,
+        "end": 376.08,
+        "text": " They're, and they get hacked."
+    },
+    {
+        "start": 376.08,
+        "end": 380.24,
+        "text": " And it causes irrevocable damage to that person."
+    },
+    {
+        "start": 380.24,
+        "end": 385.84,
+        "text": " And it made me think about it as a tech, as a tech provider, as a tech expert, as a subject"
+    },
+    {
+        "start": 385.84,
+        "end": 392.35999999999996,
+        "text": " matter expert, that the responsibility that we in tech have to be able to make the best"
+    },
+    {
+        "start": 392.35999999999996,
+        "end": 393.35999999999996,
+        "text": " decisions."
+    },
+    {
+        "start": 393.35999999999996,
+        "end": 400.84,
+        "text": " And I think solid communications, and I think denoting a sense of confidence helps to be"
+    },
+    {
+        "start": 400.84,
+        "end": 403.0,
+        "text": " able to let people's angst."
+    },
+    {
+        "start": 403.0,
+        "end": 407.96,
+        "text": " You know, you, you, and the movie, in the movie, you see it happen to the detriment, to"
+    },
+    {
+        "start": 407.96,
+        "end": 408.96,
+        "text": " the severe detriment."
+    },
+    {
+        "start": 408.96,
+        "end": 413.32,
+        "text": " I won't give the movie away to the severe detriment of someone."
+    },
+    {
+        "start": 413.32,
+        "end": 420.44,
+        "text": " But we want to be able to let people know that we are going to try to fix their issues."
+    },
+    {
+        "start": 420.44,
+        "end": 424.59999999999997,
+        "text": " What we do on this show all the time, we try to give the best information we can based"
+    },
+    {
+        "start": 424.59999999999997,
+        "end": 425.6,
+        "text": " on our experience."
+    },
+    {
+        "start": 425.6,
+        "end": 426.6,
+        "text": " We're open to being wrong."
+    },
+    {
+        "start": 426.6,
+        "end": 428.36,
+        "text": " We're open to being educated."
+    },
+    {
+        "start": 428.36,
+        "end": 432.28,
+        "text": " We open to hearing different things."
+    },
+    {
+        "start": 432.28,
+        "end": 437.48,
+        "text": " But it's, it's always about trying to be able to have a sense of confidence to do some"
+    },
+    {
+        "start": 437.48,
+        "end": 441.36,
+        "text": " course correction when necessary and try to guide people on the right path."
+    },
+    {
+        "start": 441.36,
+        "end": 445.36,
+        "text": " And I think, I think shows like every day tech do a pretty decent job."
+    },
+    {
+        "start": 445.36,
+        "end": 448.84000000000003,
+        "text": " Yeah, and not to, not to to our own horn or brag on ourselves."
+    },
+    {
+        "start": 448.84000000000003,
+        "end": 451.84000000000003,
+        "text": " Not to our own, not to our own, not at all."
+    },
+    {
+        "start": 451.84000000000003,
+        "end": 452.84000000000003,
+        "text": " Absolutely."
+    },
+    {
+        "start": 452.84000000000003,
+        "end": 453.84000000000003,
+        "text": " All right."
+    },
+    {
+        "start": 453.84000000000003,
+        "end": 455.32,
+        "text": " Well, we have so much to talk about today."
+    },
+    {
+        "start": 455.32,
+        "end": 461.0,
+        "text": " But first, I would like to get to our first caller, Jim and Jackson has a question about"
+    },
+    {
+        "start": 461.0,
+        "end": 462.0,
+        "text": " a product."
+    },
+    {
+        "start": 462.0,
+        "end": 463.0,
+        "text": " Jim, what's going on?"
+    },
+    {
+        "start": 463.0,
+        "end": 466.52000000000004,
+        "text": " This product is called an owl, O-W-L."
+    },
+    {
+        "start": 466.52,
+        "end": 472.08,
+        "text": " And I'm told it's used for video conferences when you've got a group that's broadcasting."
+    },
+    {
+        "start": 472.08,
+        "end": 475.2,
+        "text": " Can you tell me about that and how it works?"
+    },
+    {
+        "start": 475.2,
+        "end": 477.15999999999997,
+        "text": " So I have seen these."
+    },
+    {
+        "start": 477.15999999999997,
+        "end": 478.44,
+        "text": " I have seen these."
+    },
+    {
+        "start": 478.44,
+        "end": 479.44,
+        "text": " Okay."
+    },
+    {
+        "start": 479.44,
+        "end": 480.44,
+        "text": " So how's it going, Jim?"
+    },
+    {
+        "start": 480.44,
+        "end": 482.28,
+        "text": " I've heard about these."
+    },
+    {
+        "start": 482.28,
+        "end": 484.59999999999997,
+        "text": " They are in composition."
+    },
+    {
+        "start": 484.59999999999997,
+        "end": 490.0,
+        "text": " They're like in contrast and competition to some of these bigger names that are out there."
+    },
+    {
+        "start": 490.0,
+        "end": 490.84,
+        "text": " They're actually pretty good."
+    },
+    {
+        "start": 490.84,
+        "end": 491.84,
+        "text": " They sit in."
+    },
+    {
+        "start": 491.84,
+        "end": 498.15999999999997,
+        "text": " They even can work as a video kind of like an echo or like an Amazon product or Alexa"
+    },
+    {
+        "start": 498.15999999999997,
+        "end": 499.71999999999997,
+        "text": " product or something."
+    },
+    {
+        "start": 499.71999999999997,
+        "end": 501.35999999999996,
+        "text": " But they're pretty good."
+    },
+    {
+        "start": 501.35999999999996,
+        "end": 503.4,
+        "text": " Now, I've heard great things about them."
+    },
+    {
+        "start": 503.4,
+        "end": 509.32,
+        "text": " I've never used one myself, but I know where they moved."
+    },
+    {
+        "start": 509.32,
+        "end": 510.32,
+        "text": " They used to be in Tuscaloosa."
+    },
+    {
+        "start": 510.32,
+        "end": 515.64,
+        "text": " I had a friend of mine in Tuscaloosa around the Tuscaloosa Northport area that had one"
+    },
+    {
+        "start": 515.64,
+        "end": 517.3199999999999,
+        "text": " and they loved it."
+    },
+    {
+        "start": 517.3199999999999,
+        "end": 518.3199999999999,
+        "text": " They loved it."
+    },
+    {
+        "start": 518.3199999999999,
+        "end": 521.8,
+        "text": " If I had known you were going to talk about this, I would have contacted that person."
+    },
+    {
+        "start": 521.8,
+        "end": 525.4799999999999,
+        "text": " They got their review about it, but they really loved it."
+    },
+    {
+        "start": 525.4799999999999,
+        "end": 531.28,
+        "text": " They used to work for a University of Alabama and now they do consulting in the North"
+    },
+    {
+        "start": 531.28,
+        "end": 533.76,
+        "text": " Port area, but they loved it."
+    },
+    {
+        "start": 533.76,
+        "end": 535.28,
+        "text": " They absolutely loved it."
+    },
+    {
+        "start": 535.28,
+        "end": 537.28,
+        "text": " So is that a severe stamp of approval?"
+    },
+    {
+        "start": 537.28,
+        "end": 538.28,
+        "text": " I would."
+    },
+    {
+        "start": 538.28,
+        "end": 543.4,
+        "text": " I would, based on a good friend of mine that recommends it and everything, yes, I would"
+    },
+    {
+        "start": 543.4,
+        "end": 545.12,
+        "text": " stamp a sample approval."
+    },
+    {
+        "start": 545.12,
+        "end": 548.56,
+        "text": " You know me, I'm skeptical of a lot of things."
+    },
+    {
+        "start": 548.56,
+        "end": 549.8,
+        "text": " I don't give that ease."
+    },
+    {
+        "start": 549.8,
+        "end": 552.04,
+        "text": " I would give that, you know, a go for it, brother."
+    },
+    {
+        "start": 552.04,
+        "end": 553.04,
+        "text": " I would go for it."
+    },
+    {
+        "start": 553.04,
+        "end": 558.04,
+        "text": " Where did you already buy a gem or are you trying to have a difficult set in it up?"
+    },
+    {
+        "start": 558.04,
+        "end": 559.4,
+        "text": " Just looking at it."
+    },
+    {
+        "start": 559.4,
+        "end": 560.4,
+        "text": " I got you."
+    },
+    {
+        "start": 560.4,
+        "end": 561.4,
+        "text": " I would recommend it."
+    },
+    {
+        "start": 561.4,
+        "end": 562.4,
+        "text": " Good friend of mine."
+    },
+    {
+        "start": 562.4,
+        "end": 564.4399999999999,
+        "text": " He actually is a good colleague of mine."
+    },
+    {
+        "start": 564.4399999999999,
+        "end": 566.3199999999999,
+        "text": " We've learned a lot of things from each other over the years."
+    },
+    {
+        "start": 566.3199999999999,
+        "end": 567.4799999999999,
+        "text": " I would go for it, man."
+    },
+    {
+        "start": 567.4799999999999,
+        "end": 570.28,
+        "text": " I think I was a pretty good one."
+    },
+    {
+        "start": 570.28,
+        "end": 573.68,
+        "text": " I was, it looks like it's pretty spiffy."
+    },
+    {
+        "start": 573.68,
+        "end": 578.76,
+        "text": " I'm even looking online at some of the reviews right now where we're talking about it."
+    },
+    {
+        "start": 578.76,
+        "end": 580.76,
+        "text": " It looks pretty dog on good, brother."
+    },
+    {
+        "start": 580.76,
+        "end": 582.3199999999999,
+        "text": " Thank you very much."
+    },
+    {
+        "start": 582.3199999999999,
+        "end": 583.68,
+        "text": " No problem, no problem."
+    },
+    {
+        "start": 583.68,
+        "end": 584.68,
+        "text": " Absolutely."
+    },
+    {
+        "start": 584.68,
+        "end": 585.68,
+        "text": " Thank you for your call, Jim."
+    },
+    {
+        "start": 585.68,
+        "end": 589.84,
+        "text": " I got to say that's the first reference I've heard to this product."
+    },
+    {
+        "start": 589.84,
+        "end": 591.64,
+        "text": " I've not heard to it."
+    },
+    {
+        "start": 591.64,
+        "end": 597.04,
+        "text": " And you know, I feel like I need to be a little bit more out today with some of this stuff."
+    },
+    {
+        "start": 597.04,
+        "end": 604.16,
+        "text": " Sometimes like I will, like when I'm at, I'll go to like, when I'm at a inline in a grocery"
+    },
+    {
+        "start": 604.16,
+        "end": 605.16,
+        "text": " store."
+    },
+    {
+        "start": 605.16,
+        "end": 610.48,
+        "text": " Or if I'm waiting for some food to be delivered or whatever, you know, just, I got a quick"
+    },
+    {
+        "start": 610.48,
+        "end": 611.48,
+        "text": " moment."
+    },
+    {
+        "start": 611.48,
+        "end": 614.8399999999999,
+        "text": " I may open up my news app and just go to tech and see what's out there."
+    },
+    {
+        "start": 614.8399999999999,
+        "end": 616.4399999999999,
+        "text": " I already get a lot of different things."
+    },
+    {
+        "start": 616.4399999999999,
+        "end": 617.92,
+        "text": " Some of it's kind of heavy."
+    },
+    {
+        "start": 617.92,
+        "end": 622.28,
+        "text": " Some of them what they call like white papers, which is basically like research articles"
+    },
+    {
+        "start": 622.28,
+        "end": 625.24,
+        "text": " about a particular topic or particular issue."
+    },
+    {
+        "start": 625.24,
+        "end": 628.04,
+        "text": " But yeah, I was talking to a friend of mine."
+    },
+    {
+        "start": 628.04,
+        "end": 630.4399999999999,
+        "text": " That friend of mine, he's actually, yeah, he's in Northport."
+    },
+    {
+        "start": 630.4399999999999,
+        "end": 632.0799999999999,
+        "text": " He's still in Northport."
+    },
+    {
+        "start": 632.08,
+        "end": 638.36,
+        "text": " I would, he, he and I talked, it was probably late last year, last time I talked and he"
+    },
+    {
+        "start": 638.36,
+        "end": 640.88,
+        "text": " was, he was, he was sharing that he's about to jump on that car."
+    },
+    {
+        "start": 640.88,
+        "end": 642.1600000000001,
+        "text": " I said, you still got that little thing."
+    },
+    {
+        "start": 642.1600000000001,
+        "end": 643.1600000000001,
+        "text": " What'd you call it?"
+    },
+    {
+        "start": 643.1600000000001,
+        "end": 644.1600000000001,
+        "text": " He's, I said, that's the owl."
+    },
+    {
+        "start": 644.1600000000001,
+        "end": 645.1600000000001,
+        "text": " I was like, what's he guy?"
+    },
+    {
+        "start": 645.1600000000001,
+        "end": 646.1600000000001,
+        "text": " He's like, man, how you like?"
+    },
+    {
+        "start": 646.1600000000001,
+        "end": 647.1600000000001,
+        "text": " He's a man."
+    },
+    {
+        "start": 647.1600000000001,
+        "end": 648.1600000000001,
+        "text": " It's pretty dope."
+    },
+    {
+        "start": 648.1600000000001,
+        "end": 649.1600000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 649.1600000000001,
+        "end": 650.1600000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 650.1600000000001,
+        "end": 651.1600000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 651.1600000000001,
+        "end": 652.1600000000001,
+        "text": " Cool."
+    },
+    {
+        "start": 652.1600000000001,
+        "end": 653.1600000000001,
+        "text": " Cool."
+    },
+    {
+        "start": 653.1600000000001,
+        "end": 654.1600000000001,
+        "text": " Very cool."
+    },
+    {
+        "start": 654.1600000000001,
+        "end": 655.1600000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 655.1600000000001,
+        "end": 656.1600000000001,
+        "text": " Well, still have a lot of show left."
+    },
+    {
+        "start": 656.1600000000001,
+        "end": 657.1600000000001,
+        "text": " So stay tuned and email us at everyday tech at mpbonline.org."
+    },
+    {
+        "start": 657.1600000000001,
+        "end": 661.2800000000001,
+        "text": " Like I mentioned, we've got several things to talk about from the AT&T hack to the Microsoft"
+    },
+    {
+        "start": 661.28,
+        "end": 666.24,
+        "text": " outage to our subject matter for the day about games changing."
+    },
+    {
+        "start": 666.24,
+        "end": 671.36,
+        "text": " So thanks for listening to MPB think radio and tuning into everyday tech this morning."
+    },
+    {
+        "start": 671.36,
+        "end": 672.36,
+        "text": " My name is Abraham Naney."
+    },
+    {
+        "start": 672.36,
+        "end": 676.9599999999999,
+        "text": " I've got Sabir Abdul Haq, the resident IT expert here with me."
+    },
+    {
+        "start": 676.9599999999999,
+        "end": 680.24,
+        "text": " Email your questions or comments to everyday tech at mpbonline.org."
+    },
+    {
+        "start": 680.24,
+        "end": 686.12,
+        "text": " Now, I've mentioned that we're, we've got several topics to talk about today, but we,"
+    },
+    {
+        "start": 686.12,
+        "end": 689.9599999999999,
+        "text": " we do also would love to take your calls."
+    },
+    {
+        "start": 689.96,
+        "end": 691.8000000000001,
+        "text": " Show please call in."
+    },
+    {
+        "start": 691.8000000000001,
+        "end": 696.4000000000001,
+        "text": " So the first thing I wanted to talk about was that during the show last week, I wasn't"
+    },
+    {
+        "start": 696.4000000000001,
+        "end": 704.12,
+        "text": " able to check my email, but I got an email during the show last week from AT&T talking about"
+    },
+    {
+        "start": 704.12,
+        "end": 707.5600000000001,
+        "text": " the date of reach that they had."
+    },
+    {
+        "start": 707.5600000000001,
+        "end": 715.0400000000001,
+        "text": " And it turns out I happened to be one of the, the customers that were affected by that."
+    },
+    {
+        "start": 715.0400000000001,
+        "end": 719.64,
+        "text": " So this was the press release they sent out or not the press release, the customer"
+    },
+    {
+        "start": 719.64,
+        "end": 720.64,
+        "text": " statement or whatever."
+    },
+    {
+        "start": 720.64,
+        "end": 725.08,
+        "text": " It says, hello, we're reaching out to let you know that some of your data was accessed"
+    },
+    {
+        "start": 725.08,
+        "end": 726.56,
+        "text": " without authorization."
+    },
+    {
+        "start": 726.56,
+        "end": 730.92,
+        "text": " Although we have no current indication of any public release or illegal use of your data,"
+    },
+    {
+        "start": 730.92,
+        "end": 734.04,
+        "text": " we respect the privacy of your information and want to provide you with details about"
+    },
+    {
+        "start": 734.04,
+        "end": 736.0,
+        "text": " the event."
+    },
+    {
+        "start": 736.0,
+        "end": 741.08,
+        "text": " We found out that AT&T call and text records were accessed by cyber criminals who have"
+    },
+    {
+        "start": 741.08,
+        "end": 745.16,
+        "text": " claimed responsibility for unlawful access to other companies in the past."
+    },
+    {
+        "start": 745.16,
+        "end": 747.76,
+        "text": " At least one individual has been arrested."
+    },
+    {
+        "start": 747.76,
+        "end": 752.96,
+        "text": " The investigation indicates the data included the phone numbers of your call and text interactions"
+    },
+    {
+        "start": 752.96,
+        "end": 757.72,
+        "text": " from May 1st, 2022 to October 31st, 2022."
+    },
+    {
+        "start": 757.72,
+        "end": 761.28,
+        "text": " So that was about a span of four months."
+    },
+    {
+        "start": 761.28,
+        "end": 764.8,
+        "text": " Compromise data does not include the content of calls or text."
+    },
+    {
+        "start": 764.8,
+        "end": 765.8,
+        "text": " So that's good."
+    },
+    {
+        "start": 765.8,
+        "end": 771.68,
+        "text": " So no information was accessed just what you or who you were contacting through what methods"
+    },
+    {
+        "start": 771.68,
+        "end": 773.24,
+        "text": " pretty much."
+    },
+    {
+        "start": 773.24,
+        "end": 781.4,
+        "text": " But it's not the worst case scenario, but it's also like, I don't want random people"
+    },
+    {
+        "start": 781.4,
+        "end": 785.0,
+        "text": " that know who I'm texting or calling or anything like that."
+    },
+    {
+        "start": 785.0,
+        "end": 786.0,
+        "text": " Right."
+    },
+    {
+        "start": 786.0,
+        "end": 793.84,
+        "text": " And the bigger thing is like the real serious push, I'm talking about like serious push for"
+    },
+    {
+        "start": 793.84,
+        "end": 798.72,
+        "text": " two-factor authentication and everything else really didn't really really really really"
+    },
+    {
+        "start": 798.72,
+        "end": 804.4,
+        "text": " get strong, strong until like around 2021 to present day."
+    },
+    {
+        "start": 804.4,
+        "end": 808.9200000000001,
+        "text": " So this was the time when things might have still end with everything."
+    },
+    {
+        "start": 808.9200000000001,
+        "end": 815.4,
+        "text": " As with everything in AT, a lot of times things still have bugs to work out and kings to"
+    },
+    {
+        "start": 815.4,
+        "end": 817.2,
+        "text": " work out whenever something new happens."
+    },
+    {
+        "start": 817.2,
+        "end": 822.0400000000001,
+        "text": " And so when you've got two factor authentication, multi factor authentication that are coming"
+    },
+    {
+        "start": 822.0400000000001,
+        "end": 824.44,
+        "text": " through, there might have been some still different ways."
+    },
+    {
+        "start": 824.44,
+        "end": 827.76,
+        "text": " Kind of like we talked about, I think the right aid hack that happened without us back"
+    },
+    {
+        "start": 827.76,
+        "end": 832.0,
+        "text": " in 2017, no one was really using two factor authentication in 2017."
+    },
+    {
+        "start": 832.0,
+        "end": 835.24,
+        "text": " It wasn't, it wasn't the standard."
+    },
+    {
+        "start": 835.24,
+        "end": 836.24,
+        "text": " It wasn't the standard."
+    },
+    {
+        "start": 836.24,
+        "end": 839.28,
+        "text": " Like people were using it, but not to the point that they are now."
+    },
+    {
+        "start": 839.28,
+        "end": 840.28,
+        "text": " Right."
+    },
+    {
+        "start": 840.28,
+        "end": 845.56,
+        "text": " Every, hopefully everyone, especially the cabillans and cabillans non-planet of people that"
+    },
+    {
+        "start": 845.56,
+        "end": 853.3199999999999,
+        "text": " listen to us, that listen to us on the air, are listening to us every show when we stress,"
+    },
+    {
+        "start": 853.32,
+        "end": 858.0400000000001,
+        "text": " please change your passwords regularly, please use two factor authentication."
+    },
+    {
+        "start": 858.0400000000001,
+        "end": 860.6800000000001,
+        "text": " That password is not the only thing."
+    },
+    {
+        "start": 860.6800000000001,
+        "end": 863.72,
+        "text": " So but yeah, we want to make good decisions."
+    },
+    {
+        "start": 863.72,
+        "end": 865.5200000000001,
+        "text": " And I really hate that you went through that."
+    },
+    {
+        "start": 865.5200000000001,
+        "end": 867.32,
+        "text": " I'm sorry, man."
+    },
+    {
+        "start": 867.32,
+        "end": 874.6400000000001,
+        "text": " You know, I'm kind of at peace with the fact that my number is out there."
+    },
+    {
+        "start": 874.6400000000001,
+        "end": 880.12,
+        "text": " Like I know people are going to hear, are going to find my number and stuff at some point."
+    },
+    {
+        "start": 880.12,
+        "end": 884.68,
+        "text": " I just don't want the contents of my phone gone out there."
+    },
+    {
+        "start": 884.68,
+        "end": 886.64,
+        "text": " And it looks like that didn't happen."
+    },
+    {
+        "start": 886.64,
+        "end": 894.28,
+        "text": " So I mean, when you put your phone number on 8 million different websites and you have"
+    },
+    {
+        "start": 894.28,
+        "end": 900.36,
+        "text": " to have multi factor authentication or you have to have access through it for so many"
+    },
+    {
+        "start": 900.36,
+        "end": 905.48,
+        "text": " different things, like it's bound to happen to many people at some point."
+    },
+    {
+        "start": 905.48,
+        "end": 915.32,
+        "text": " And this hack specifically says it affected 7.6 million current AT&T users and over 65 million"
+    },
+    {
+        "start": 915.32,
+        "end": 917.12,
+        "text": " former customers."
+    },
+    {
+        "start": 917.12,
+        "end": 918.12,
+        "text": " That's a lot."
+    },
+    {
+        "start": 918.12,
+        "end": 919.44,
+        "text": " That's a whole lot."
+    },
+    {
+        "start": 919.44,
+        "end": 920.44,
+        "text": " That's a whole lot."
+    },
+    {
+        "start": 920.44,
+        "end": 925.2,
+        "text": " And that really sucks, especially in the former customer part because you're not even"
+    },
+    {
+        "start": 925.2,
+        "end": 930.08,
+        "text": " a part of their network anymore and you're still in a bad way."
+    },
+    {
+        "start": 930.08,
+        "end": 932.32,
+        "text": " So that really, that really kind of bites."
+    },
+    {
+        "start": 932.6400000000001,
+        "end": 938.8000000000001,
+        "text": " I do imagine that a lot of people, or the reason for accessing former customers was to"
+    },
+    {
+        "start": 938.8000000000001,
+        "end": 944.0,
+        "text": " find out, you know, switching information, like playing and switching information."
+    },
+    {
+        "start": 944.0,
+        "end": 945.0,
+        "text": " That's crazy."
+    },
+    {
+        "start": 945.0,
+        "end": 949.48,
+        "text": " What real quick, I know we still got stuff to talk about, but what do they say that they're"
+    },
+    {
+        "start": 949.48,
+        "end": 950.48,
+        "text": " going to do?"
+    },
+    {
+        "start": 950.48,
+        "end": 954.84,
+        "text": " I know the impact is not doing anything, but what's to happen in the future, they give"
+    },
+    {
+        "start": 954.84,
+        "end": 956.48,
+        "text": " you any steps to what to."
+    },
+    {
+        "start": 956.48,
+        "end": 957.48,
+        "text": " Okay."
+    },
+    {
+        "start": 957.72,
+        "end": 962.6,
+        "text": " What is AT&T doing that says protecting customer data is a top priority."
+    },
+    {
+        "start": 962.6,
+        "end": 965.5600000000001,
+        "text": " We have confirmed the affected system has been secured."
+    },
+    {
+        "start": 965.5600000000001,
+        "end": 969.4,
+        "text": " We hold ourselves to high privacy standards and are always looking for ways to improve"
+    },
+    {
+        "start": 969.4,
+        "end": 971.48,
+        "text": " our security practices."
+    },
+    {
+        "start": 971.48,
+        "end": 975.36,
+        "text": " And it says it is always advisable to be careful when taking calls from numbers that you"
+    },
+    {
+        "start": 975.36,
+        "end": 978.9200000000001,
+        "text": " do not recognize and stay alert to any fraud or theft attempts."
+    },
+    {
+        "start": 978.9200000000001,
+        "end": 979.9200000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 979.9200000000001,
+        "end": 980.9200000000001,
+        "text": " Thank you, I got you."
+    },
+    {
+        "start": 980.9200000000001,
+        "end": 981.9200000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 981.9200000000001,
+        "end": 985.9200000000001,
+        "text": " Well, I mean, you know, good on them for letting you letting you know as soon as they were"
+    },
+    {
+        "start": 985.9200000000001,
+        "end": 986.9200000000001,
+        "text": " able to deal with it."
+    },
+    {
+        "start": 987.64,
+        "end": 994.8399999999999,
+        "text": " I hate that you did still suffer through a regardless, but I do imagine that the information"
+    },
+    {
+        "start": 994.8399999999999,
+        "end": 997.92,
+        "text": " access was used to attempt scams."
+    },
+    {
+        "start": 997.92,
+        "end": 1008.12,
+        "text": " If I had to guess is that like people use the email to send email scam links or the emails"
+    },
+    {
+        "start": 1008.12,
+        "end": 1016.52,
+        "text": " that they learned that they hacked and the data that they scoured were used to try to"
+    },
+    {
+        "start": 1016.52,
+        "end": 1019.12,
+        "text": " get scams, try to access the scam."
+    },
+    {
+        "start": 1019.12,
+        "end": 1025.8799999999999,
+        "text": " So, you know, I do imagine that's probably where people, you know, some scam artists,"
+    },
+    {
+        "start": 1025.8799999999999,
+        "end": 1029.08,
+        "text": " because I've been contacted by scam artists, been aware of them."
+    },
+    {
+        "start": 1029.08,
+        "end": 1033.04,
+        "text": " And I do imagine that's probably where that information came from."
+    },
+    {
+        "start": 1033.04,
+        "end": 1034.04,
+        "text": " Yeah."
+    },
+    {
+        "start": 1034.04,
+        "end": 1035.04,
+        "text": " Yeah."
+    },
+    {
+        "start": 1035.04,
+        "end": 1038.96,
+        "text": " So that's a big bummer, but I think we're going to try to move on from that a little"
+    },
+    {
+        "start": 1038.96,
+        "end": 1045.16,
+        "text": " bit and talk to Rao in Vicksburg, who has some questions related to iPhones and I Cloud."
+    },
+    {
+        "start": 1045.16,
+        "end": 1046.16,
+        "text": " Rao, how's it going?"
+    },
+    {
+        "start": 1046.16,
+        "end": 1047.16,
+        "text": " I'm fine."
+    },
+    {
+        "start": 1047.16,
+        "end": 1048.16,
+        "text": " You know, I have two questions."
+    },
+    {
+        "start": 1048.16,
+        "end": 1049.16,
+        "text": " I have a specific question."
+    },
+    {
+        "start": 1049.16,
+        "end": 1055.16,
+        "text": " I hope you will answer both of them in case you have to go to a very convenient."
+    },
+    {
+        "start": 1055.16,
+        "end": 1056.16,
+        "text": " Okay."
+    },
+    {
+        "start": 1056.16,
+        "end": 1057.16,
+        "text": " First question is this."
+    },
+    {
+        "start": 1057.16,
+        "end": 1062.16,
+        "text": " I have that switch from iPhone SE to SE2."
+    },
+    {
+        "start": 1062.16,
+        "end": 1063.16,
+        "text": " Okay."
+    },
+    {
+        "start": 1063.16,
+        "end": 1064.16,
+        "text": " Now, I know they're compatible."
+    },
+    {
+        "start": 1064.16,
+        "end": 1066.16,
+        "text": " All of that stuff, I know."
+    },
+    {
+        "start": 1066.16,
+        "end": 1068.16,
+        "text": " Now, what's going to be this?"
+    },
+    {
+        "start": 1068.16,
+        "end": 1075.64,
+        "text": " How can I erase, you know, the iPhone SE, or the UK SE2, that not work out, I can get"
+    },
+    {
+        "start": 1075.9,
+        "end": 1076.64,
+        "text": " to do it."
+    },
+    {
+        "start": 1076.64,
+        "end": 1078.72,
+        "text": " And if you want to do that, we can do that."
+    },
+    {
+        "start": 1078.72,
+        "end": 1079.72,
+        "text": " And the answer is, yeah."
+    },
+    {
+        "start": 1079.72,
+        "end": 1080.72,
+        "text": " So you know, the phone is actually due data."
+    },
+    {
+        "start": 1080.72,
+        "end": 1085.24,
+        "text": " You get a software that enables things to do that because going and you know, going"
+    },
+    {
+        "start": 1085.24,
+        "end": 1089.72,
+        "text": " to the magnet to somewhere that somebody's the wife of my heart is that kind of a thing"
+    },
+    {
+        "start": 1089.72,
+        "end": 1090.96,
+        "text": " that I don't want to do that."
+    },
+    {
+        "start": 1090.96,
+        "end": 1095.6000000000001,
+        "text": " So you did something that will allow, the software that will allow me to wipe out"
+    },
+    {
+        "start": 1095.6000000000001,
+        "end": 1096.96,
+        "text": " the data using the software."
+    },
+    {
+        "start": 1096.96,
+        "end": 1104.1000000000001,
+        "text": " You know, which I can do at home because they told me how to erase my whole software"
+    },
+    {
+        "start": 1104.1,
+        "end": 1108.78,
+        "text": " iPhone thing but I'm not sure if I want to be actually to on-clam"
+    },
+    {
+        "start": 1108.78,
+        "end": 1113.5,
+        "text": " a satisfied with it. I know otherwise I want to return it in which case I want to"
+    },
+    {
+        "start": 1113.5,
+        "end": 1118.3799999999999,
+        "text": " write for the data. Okay so just a quick question to clarify your question is"
+    },
+    {
+        "start": 1118.3799999999999,
+        "end": 1122.9399999999998,
+        "text": " how can you wipe the data from your iCloud account? No no from my iPhone."
+    },
+    {
+        "start": 1122.9399999999998,
+        "end": 1127.4599999999998,
+        "text": " Right iPhone. Okay. Is there a software that you can use too?"
+    },
+    {
+        "start": 1127.46,
+        "end": 1132.14,
+        "text": " We're going to see RSE2. Anyone of them can software should work."
+    },
+    {
+        "start": 1132.14,
+        "end": 1137.02,
+        "text": " We software is what I'm interested in so I can use it to say if I want to wipe out"
+    },
+    {
+        "start": 1137.02,
+        "end": 1144.1000000000001,
+        "text": " the one from RSE2 I can do it before returning it. Gotcha. Gotcha. So and this is"
+    },
+    {
+        "start": 1144.1000000000001,
+        "end": 1152.06,
+        "text": " for privacy or are you talking about just to be able to clean space? I don't want"
+    },
+    {
+        "start": 1152.06,
+        "end": 1161.22,
+        "text": " to have my car. Gotcha. Gotcha. Gotcha. I've tried a few. One of the best"
+    },
+    {
+        "start": 1161.22,
+        "end": 1165.62,
+        "text": " ones I have and I'm not sitting near my son's computer. We put on his"
+    },
+    {
+        "start": 1165.62,
+        "end": 1171.2,
+        "text": " computer because they have it but you can there are a lot of different things to"
+    },
+    {
+        "start": 1171.2,
+        "end": 1176.02,
+        "text": " be able to keep things going. A vast I've told I've spoken before on this on the"
+    },
+    {
+        "start": 1176.02,
+        "end": 1180.94,
+        "text": " show how much I meet personally. It's just me personally. A vast is a cross"
+    },
+    {
+        "start": 1180.94,
+        "end": 1186.22,
+        "text": " platform app. AV AST they do a lot of different things. They're they're really"
+    },
+    {
+        "start": 1186.22,
+        "end": 1191.5800000000002,
+        "text": " excellent for their antivirus and in terms of their malware defense like in"
+    },
+    {
+        "start": 1191.5800000000002,
+        "end": 1195.94,
+        "text": " terms of avoiding hackers and be avoiding hack attempts but I also recommend"
+    },
+    {
+        "start": 1195.94,
+        "end": 1200.54,
+        "text": " them. They also have a lot of things for privacy. So and it is cross-platform."
+    },
+    {
+        "start": 1200.54,
+        "end": 1208.8,
+        "text": " So quickly. You with a you view are going to present a 25 three lee in town a A"
+    },
+    {
+        "start": 1208.8,
+        "end": 1214.86,
+        "text": " like alpha so alpha Victor alpha Sierra with cen go of avec's"
+    },
+    {
+        "start": 1214.86,
+        "end": 1222.8999999999999,
+        "text": " yes. It is OK. Yes. And you have seja prime potential being the"
+    },
+    {
+        "start": 1222.8999999999999,
+        "end": 1228.6599999999999,
+        "text": " name. Because you areiza\u00e7\u00e3o. Whatever machine personal yes. yes. Yes."
+    },
+    {
+        "start": 1228.66,
+        "end": 1232.66,
+        "text": " Now, the second question is this."
+    },
+    {
+        "start": 1232.66,
+        "end": 1243.74,
+        "text": " If I want to, you know, previously I cut down my iPhone, I see data usage because most"
+    },
+    {
+        "start": 1243.74,
+        "end": 1245.74,
+        "text": " of it was front to photos."
+    },
+    {
+        "start": 1245.74,
+        "end": 1252.74,
+        "text": " So I cut down most of 50 something like something close to file."
+    },
+    {
+        "start": 1252.74,
+        "end": 1259.74,
+        "text": " So I can't tell my, you know, my iPhone 50 with these accounts, cut script, okay."
+    },
+    {
+        "start": 1259.74,
+        "end": 1268.74,
+        "text": " But that I still there, I see my data, I still there because I have to know it."
+    },
+    {
+        "start": 1268.74,
+        "end": 1276.74,
+        "text": " Now, what I want to do is download, I have started subscribing to the 50G now."
+    },
+    {
+        "start": 1276.74,
+        "end": 1278.74,
+        "text": " And so I had an iCloud subscription."
+    },
+    {
+        "start": 1278.74,
+        "end": 1286.74,
+        "text": " I want to download the whatever is in the cloud to my cell phone because I have plenty of,"
+    },
+    {
+        "start": 1286.74,
+        "end": 1291.74,
+        "text": " you know, I use a lot of plenty of storage, you know, it's really quick for a 32 and I was 62."
+    },
+    {
+        "start": 1291.74,
+        "end": 1297.74,
+        "text": " And I only use about 8G or so of, you know, storage and the iCloud."
+    },
+    {
+        "start": 1297.74,
+        "end": 1305.74,
+        "text": " So I want to, you know, but I want to get all the old ones out so I can back it up to 100L."
+    },
+    {
+        "start": 1305.74,
+        "end": 1306.74,
+        "text": " Okay."
+    },
+    {
+        "start": 1306.74,
+        "end": 1307.74,
+        "text": " That is my choice."
+    },
+    {
+        "start": 1307.74,
+        "end": 1314.74,
+        "text": " And so I want to know, how does the iCloud, do they still have my old data, that's my"
+    },
+    {
+        "start": 1314.74,
+        "end": 1315.74,
+        "text": " concern."
+    },
+    {
+        "start": 1315.74,
+        "end": 1322.74,
+        "text": " But more than that, when I dumps up from my cloud to my present phone, whatever it is, does it"
+    },
+    {
+        "start": 1322.74,
+        "end": 1328.74,
+        "text": " throw the old versions or old, you know, data files, they are replaced, some like, you know,"
+    },
+    {
+        "start": 1328.74,
+        "end": 1334.74,
+        "text": " IBM comes to present on them with a new or whatever is the latest version of that particular file."
+    },
+    {
+        "start": 1334.74,
+        "end": 1335.74,
+        "text": " Right."
+    },
+    {
+        "start": 1335.74,
+        "end": 1341.24,
+        "text": " So I can't speak for in terms of like version history and everything."
+    },
+    {
+        "start": 1341.24,
+        "end": 1344.74,
+        "text": " I swear by Google Drive, that's what I use."
+    },
+    {
+        "start": 1344.74,
+        "end": 1346.74,
+        "text": " This is my opinion."
+    },
+    {
+        "start": 1346.74,
+        "end": 1350.98,
+        "text": " But also I hear you also talking about your data usage and I'm guessing your meaning in terms"
+    },
+    {
+        "start": 1350.98,
+        "end": 1352.74,
+        "text": " of your internet connectivity."
+    },
+    {
+        "start": 1352.74,
+        "end": 1357.3,
+        "text": " And I know we, you know, I will try to, if you could, let's do this."
+    },
+    {
+        "start": 1357.3,
+        "end": 1358.3,
+        "text": " Can you do us a favor?"
+    },
+    {
+        "start": 1358.3,
+        "end": 1359.3,
+        "text": " Can you email us?"
+    },
+    {
+        "start": 1359.3,
+        "end": 1361.5,
+        "text": " Can you send us an email with your questions?"
+    },
+    {
+        "start": 1361.74,
+        "end": 1365.42,
+        "text": " Because I know we can have, we can probably give us some time to be able to research your"
+    },
+    {
+        "start": 1365.42,
+        "end": 1370.98,
+        "text": " questions and to give you some, some, some more in depth deep dive answers."
+    },
+    {
+        "start": 1370.98,
+        "end": 1372.58,
+        "text": " Is that, is that okay?"
+    },
+    {
+        "start": 1372.58,
+        "end": 1380.94,
+        "text": " Yeah, that, that email is everyday tech at mpbeonline.org."
+    },
+    {
+        "start": 1380.94,
+        "end": 1385.18,
+        "text": " And we'll also have the email address and the podcast description."
+    },
+    {
+        "start": 1385.18,
+        "end": 1388.34,
+        "text": " It's in every podcast description that we've ever done."
+    },
+    {
+        "start": 1388.34,
+        "end": 1392.54,
+        "text": " So if you need to, if you listen to the podcast, you can just search up everyday tech on your"
+    },
+    {
+        "start": 1392.54,
+        "end": 1395.8999999999999,
+        "text": " podcasting app and click any of the episodes."
+    },
+    {
+        "start": 1395.8999999999999,
+        "end": 1399.58,
+        "text": " And then there should be an address and there is an address in there."
+    },
+    {
+        "start": 1399.58,
+        "end": 1403.4599999999998,
+        "text": " And you should just have to, you, you be able to click it and it'll pull up your, your"
+    },
+    {
+        "start": 1403.4599999999998,
+        "end": 1407.4199999999998,
+        "text": " mailbox and it should be able to send straight from there."
+    },
+    {
+        "start": 1407.4199999999998,
+        "end": 1416.36,
+        "text": " I believe the question ultimately is if you download something from the iCloud onto your"
+    },
+    {
+        "start": 1416.36,
+        "end": 1419.76,
+        "text": " iPhone, does it also remain in the cloud?"
+    },
+    {
+        "start": 1419.76,
+        "end": 1422.7199999999998,
+        "text": " And I believe that is true."
+    },
+    {
+        "start": 1422.7199999999998,
+        "end": 1424.4399999999998,
+        "text": " It is, it is going to stay there."
+    },
+    {
+        "start": 1424.4399999999998,
+        "end": 1427.9199999999998,
+        "text": " But then I also want to be able to see there are certain things that we could do about in"
+    },
+    {
+        "start": 1427.9199999999998,
+        "end": 1430.8,
+        "text": " terms of what I thought I heard him say was version history."
+    },
+    {
+        "start": 1430.8,
+        "end": 1432.8,
+        "text": " And I would love to be able to help on with that."
+    },
+    {
+        "start": 1432.8,
+        "end": 1434.7199999999998,
+        "text": " But there may be further details."
+    },
+    {
+        "start": 1434.7199999999998,
+        "end": 1437.6799999999998,
+        "text": " I don't want to put your privacy over this air brother or else."
+    },
+    {
+        "start": 1437.6799999999998,
+        "end": 1439.8799999999999,
+        "text": " So that's why I was like, could you email us?"
+    },
+    {
+        "start": 1439.8799999999999,
+        "end": 1441.52,
+        "text": " That would be my recommendation."
+    },
+    {
+        "start": 1441.52,
+        "end": 1442.52,
+        "text": " You can email us."
+    },
+    {
+        "start": 1442.52,
+        "end": 1444.12,
+        "text": " We can be able to discuss it further."
+    },
+    {
+        "start": 1444.12,
+        "end": 1445.12,
+        "text": " Yeah."
+    },
+    {
+        "start": 1445.12,
+        "end": 1446.12,
+        "text": " Absolutely."
+    },
+    {
+        "start": 1446.12,
+        "end": 1452.36,
+        "text": " And that email is every day tech at mpbeonline.org."
+    },
+    {
+        "start": 1452.36,
+        "end": 1458.52,
+        "text": " And if you need to, if it helps you explain anything you can send, you can take a screenshot,"
+    },
+    {
+        "start": 1458.52,
+        "end": 1462.8799999999999,
+        "text": " take a picture, screen captures or anything that will help you with that."
+    },
+    {
+        "start": 1462.8799999999999,
+        "end": 1465.76,
+        "text": " So thank you for calling us."
+    },
+    {
+        "start": 1465.76,
+        "end": 1469.8,
+        "text": " I'm sorry that we're having a little bit of trouble explaining it on the air."
+    },
+    {
+        "start": 1469.8,
+        "end": 1474.0,
+        "text": " It's just that we don't want to risk any privacy as, especially considering that privacy"
+    },
+    {
+        "start": 1474.0,
+        "end": 1476.56,
+        "text": " seems to be a little bit of a concern for you."
+    },
+    {
+        "start": 1476.56,
+        "end": 1479.08,
+        "text": " So we don't want to risk any of that."
+    },
+    {
+        "start": 1479.08,
+        "end": 1482.64,
+        "text": " Email us at every day tech at mpbeonline.org."
+    },
+    {
+        "start": 1482.64,
+        "end": 1485.28,
+        "text": " So what is everyone watching right now?"
+    },
+    {
+        "start": 1485.28,
+        "end": 1487.68,
+        "text": " What TV shows or movies are popular?"
+    },
+    {
+        "start": 1487.68,
+        "end": 1493.04,
+        "text": " This is Abram Nanny still here with Sabir Abdul-Hot who is ready to answer your questions."
+    },
+    {
+        "start": 1493.04,
+        "end": 1497.88,
+        "text": " So what is popular on the top streaming services as of today?"
+    },
+    {
+        "start": 1497.88,
+        "end": 1498.88,
+        "text": " July 24th."
+    },
+    {
+        "start": 1498.88,
+        "end": 1503.56,
+        "text": " Yeah, July 24th, 2024 here's what we've got."
+    },
+    {
+        "start": 1503.56,
+        "end": 1507.6,
+        "text": " So on Netflix, the movie Ghostbusters, Frozen Empire, tops the movie charts."
+    },
+    {
+        "start": 1507.6,
+        "end": 1511.12,
+        "text": " It's cover-cars, it takes over as the number one show with its new season."
+    },
+    {
+        "start": 1511.12,
+        "end": 1514.6,
+        "text": " I've been, I need to catch up on cover-cars myself."
+    },
+    {
+        "start": 1514.6,
+        "end": 1519.96,
+        "text": " But anyways, HBO sees Twister become the number one movie as its successor is just released"
+    },
+    {
+        "start": 1519.96,
+        "end": 1521.12,
+        "text": " in theaters."
+    },
+    {
+        "start": 1521.12,
+        "end": 1525.32,
+        "text": " And of course, House of the Dragon remains the number one show for the sixth week."
+    },
+    {
+        "start": 1525.32,
+        "end": 1529.8799999999999,
+        "text": " On Disney Plus, newcomer Descendants, the rise of red is still the number one movie."
+    },
+    {
+        "start": 1529.88,
+        "end": 1533.0800000000002,
+        "text": " And of course, Bluey tops the show charts."
+    },
+    {
+        "start": 1533.0800000000002,
+        "end": 1537.16,
+        "text": " Man, I gotta check that Descendants one out."
+    },
+    {
+        "start": 1537.16,
+        "end": 1540.4,
+        "text": " My wife and I missed, we've been on the go so much."
+    },
+    {
+        "start": 1540.4,
+        "end": 1543.0800000000002,
+        "text": " We missed House of the Dragon this Sunday."
+    },
+    {
+        "start": 1543.0800000000002,
+        "end": 1544.3200000000002,
+        "text": " We gonna jump on that."
+    },
+    {
+        "start": 1544.3200000000002,
+        "end": 1545.3200000000002,
+        "text": " I got you."
+    },
+    {
+        "start": 1545.3200000000002,
+        "end": 1552.64,
+        "text": " Yeah, the Descendants, it's, it, it, it, it, it, it, it, it, it, it, it, it, it, it, it,"
+    },
+    {
+        "start": 1552.64,
+        "end": 1556.3200000000002,
+        "text": " this is like the third sequel or something like that."
+    },
+    {
+        "start": 1556.32,
+        "end": 1561.2,
+        "text": " But the Descendants is a cool concept where it's like the, the daughters of Disney princesses."
+    },
+    {
+        "start": 1561.2,
+        "end": 1564.1599999999999,
+        "text": " If I'm not mistaken, if I'm thinking of the wrong thing, someone call in and correct"
+    },
+    {
+        "start": 1564.1599999999999,
+        "end": 1569.84,
+        "text": " me and yell at me, but I believe that's what it is."
+    },
+    {
+        "start": 1569.84,
+        "end": 1575.48,
+        "text": " So Amazon Primes movie chart sees my spine debut at number one while the show The Boyz"
+    },
+    {
+        "start": 1575.48,
+        "end": 1577.3999999999999,
+        "text": " remains at number one."
+    },
+    {
+        "start": 1577.3999999999999,
+        "end": 1578.3999999999999,
+        "text": " Of course."
+    },
+    {
+        "start": 1578.3999999999999,
+        "end": 1582.8,
+        "text": " The newly released Transformers Rise of the Beast is the number one movie while Lombon"
+    },
+    {
+        "start": 1582.8,
+        "end": 1586.24,
+        "text": " Bass Reves stays the number one show on Paramount Plus."
+    },
+    {
+        "start": 1586.24,
+        "end": 1591.6399999999999,
+        "text": " And finally, the number one movie in show on Hulu is the same we saw on HBO last week."
+    },
+    {
+        "start": 1591.6399999999999,
+        "end": 1594.28,
+        "text": " Godzilla Kong and House of the Dragon."
+    },
+    {
+        "start": 1594.28,
+        "end": 1599.48,
+        "text": " So that's what people in the United States are streaming right now according to FlixPotroll.com"
+    },
+    {
+        "start": 1599.48,
+        "end": 1602.8799999999999,
+        "text": " personally, even though like I said, I fell out of watching it myself."
+    },
+    {
+        "start": 1602.8799999999999,
+        "end": 1608.72,
+        "text": " I'm excited that Cobra Kai on Netflix is still seeing success and I don't have, excuse"
+    },
+    {
+        "start": 1608.72,
+        "end": 1609.72,
+        "text": " me."
+    },
+    {
+        "start": 1609.72,
+        "end": 1612.24,
+        "text": " I don't have a Netflix subscription myself."
+    },
+    {
+        "start": 1612.24,
+        "end": 1614.8,
+        "text": " So I haven't been able to watch it."
+    },
+    {
+        "start": 1614.8,
+        "end": 1619.04,
+        "text": " But I did enjoy the first two or three seasons."
+    },
+    {
+        "start": 1619.04,
+        "end": 1624.1200000000001,
+        "text": " Yeah, I love the first three seasons were really well written."
+    },
+    {
+        "start": 1624.1200000000001,
+        "end": 1629.92,
+        "text": " But I, yeah, I'm going to, it's getting away from me just like the boys is."
+    },
+    {
+        "start": 1629.92,
+        "end": 1632.4,
+        "text": " And I just hadn't had a chance to binge watch them."
+    },
+    {
+        "start": 1632.4,
+        "end": 1637.04,
+        "text": " Probably when I'm doing one of my all nighters, my wife is going to throw fuss at me or"
+    },
+    {
+        "start": 1637.04,
+        "end": 1638.04,
+        "text": " whatever."
+    },
+    {
+        "start": 1638.2,
+        "end": 1642.44,
+        "text": " I'll probably just binge watch the catch up on boys and then maybe I'll jump up on"
+    },
+    {
+        "start": 1642.44,
+        "end": 1644.04,
+        "text": " on Cobra Kai."
+    },
+    {
+        "start": 1644.04,
+        "end": 1645.04,
+        "text": " Right."
+    },
+    {
+        "start": 1645.04,
+        "end": 1647.52,
+        "text": " I think the boy, the boys is my bigger priority right now."
+    },
+    {
+        "start": 1647.52,
+        "end": 1648.52,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 1648.52,
+        "end": 1649.52,
+        "text": " I got you."
+    },
+    {
+        "start": 1649.52,
+        "end": 1650.52,
+        "text": " I got you."
+    },
+    {
+        "start": 1650.52,
+        "end": 1651.52,
+        "text": " Yeah."
+    },
+    {
+        "start": 1651.52,
+        "end": 1652.52,
+        "text": " We've been watching the boys."
+    },
+    {
+        "start": 1652.52,
+        "end": 1655.76,
+        "text": " I think we're on the last episode of not the most recent season, but the last season before"
+    },
+    {
+        "start": 1655.76,
+        "end": 1656.76,
+        "text": " it."
+    },
+    {
+        "start": 1656.76,
+        "end": 1660.28,
+        "text": " So I see season three last episode of season three."
+    },
+    {
+        "start": 1660.28,
+        "end": 1664.76,
+        "text": " But also what disappoints me is that the new season of the bear dropped at the same time"
+    },
+    {
+        "start": 1664.76,
+        "end": 1668.0,
+        "text": " that House of the Dragon has been dropping."
+    },
+    {
+        "start": 1668.0,
+        "end": 1673.04,
+        "text": " And I really think the bear would have done, would have topped the charts if House of"
+    },
+    {
+        "start": 1673.04,
+        "end": 1675.48,
+        "text": " the Dragon wasn't releasing it at the same time."
+    },
+    {
+        "start": 1675.48,
+        "end": 1678.96,
+        "text": " Because we've been watching it the past couple of days."
+    },
+    {
+        "start": 1678.96,
+        "end": 1684.04,
+        "text": " We're already almost through with season two and we started watching like Thursday of"
+    },
+    {
+        "start": 1684.04,
+        "end": 1686.44,
+        "text": " last week like that."
+    },
+    {
+        "start": 1686.44,
+        "end": 1690.12,
+        "text": " That show moves so fast, but it's so good."
+    },
+    {
+        "start": 1690.12,
+        "end": 1691.12,
+        "text": " That's what's up."
+    },
+    {
+        "start": 1691.12,
+        "end": 1692.12,
+        "text": " That's what's up."
+    },
+    {
+        "start": 1692.12,
+        "end": 1693.12,
+        "text": " Yeah."
+    },
+    {
+        "start": 1693.12,
+        "end": 1697.3999999999999,
+        "text": " So I don't know if Marshall Ramsey is listening, but he loves to talk about the bear."
+    },
+    {
+        "start": 1697.3999999999999,
+        "end": 1698.6799999999998,
+        "text": " Now you're talking."
+    },
+    {
+        "start": 1698.6799999999998,
+        "end": 1704.76,
+        "text": " So I know he's a big fan of that, especially when he talks about talks with other chefs"
+    },
+    {
+        "start": 1704.76,
+        "end": 1705.76,
+        "text": " and stuff."
+    },
+    {
+        "start": 1705.76,
+        "end": 1707.32,
+        "text": " And he loves to relate that to that."
+    },
+    {
+        "start": 1707.32,
+        "end": 1711.32,
+        "text": " So thanks to Flix Patrol for putting all that together."
+    },
+    {
+        "start": 1711.32,
+        "end": 1715.6399999999999,
+        "text": " If you want to find out on your streaming service or how your favorite show is doing on"
+    },
+    {
+        "start": 1715.6399999999999,
+        "end": 1720.9599999999998,
+        "text": " whatever streaming service you can go to Flix Patrol dot com and Sabir."
+    },
+    {
+        "start": 1720.9599999999998,
+        "end": 1721.9599999999998,
+        "text": " So."
+    },
+    {
+        "start": 1721.96,
+        "end": 1724.3600000000001,
+        "text": " Is past Thursday or Friday?"
+    },
+    {
+        "start": 1724.3600000000001,
+        "end": 1727.32,
+        "text": " No, no, no, no, no, no, no, yeah, yeah, Friday."
+    },
+    {
+        "start": 1727.32,
+        "end": 1730.2,
+        "text": " The Microsoft outage happens."
+    },
+    {
+        "start": 1730.2,
+        "end": 1739.3600000000001,
+        "text": " What went down with that and how much did that affect your work and as a as an IT guy?"
+    },
+    {
+        "start": 1739.3600000000001,
+        "end": 1743.0,
+        "text": " So so the global outage."
+    },
+    {
+        "start": 1743.0,
+        "end": 1744.92,
+        "text": " That's that's a great question."
+    },
+    {
+        "start": 1744.92,
+        "end": 1747.48,
+        "text": " There's a global outage that happened."
+    },
+    {
+        "start": 1747.48,
+        "end": 1752.4,
+        "text": " So let me go ahead and first say Mac devices were not affected."
+    },
+    {
+        "start": 1752.4,
+        "end": 1756.6,
+        "text": " I still had to work."
+    },
+    {
+        "start": 1756.6,
+        "end": 1758.0,
+        "text": " My devices were not affected."
+    },
+    {
+        "start": 1758.0,
+        "end": 1759.0,
+        "text": " I know."
+    },
+    {
+        "start": 1759.0,
+        "end": 1764.44,
+        "text": " We had to come into work and then all the things were fine."
+    },
+    {
+        "start": 1764.44,
+        "end": 1765.44,
+        "text": " I can't believe it."
+    },
+    {
+        "start": 1765.44,
+        "end": 1766.44,
+        "text": " You're right."
+    },
+    {
+        "start": 1766.44,
+        "end": 1767.44,
+        "text": " Of course."
+    },
+    {
+        "start": 1767.44,
+        "end": 1771.96,
+        "text": " Y'all aren't the only people to say that because some people like look, these computers"
+    },
+    {
+        "start": 1771.96,
+        "end": 1774.96,
+        "text": " like to stay gone until next Friday."
+    },
+    {
+        "start": 1774.96,
+        "end": 1776.68,
+        "text": " Like it was on social media."
+    },
+    {
+        "start": 1776.68,
+        "end": 1780.44,
+        "text": " Everybody like, yeah, these computers to stay offline, but it was crazy."
+    },
+    {
+        "start": 1780.44,
+        "end": 1785.4,
+        "text": " It was so of course, we all know the story."
+    },
+    {
+        "start": 1785.4,
+        "end": 1790.88,
+        "text": " Cybersecurity company, Christrack software brought down millions of PCs, billions of dollars"
+    },
+    {
+        "start": 1790.88,
+        "end": 1796.64,
+        "text": " worth of damage across all kinds of industries, including airline transport and that includes"
+    },
+    {
+        "start": 1796.64,
+        "end": 1801.72,
+        "text": " both like people getting on airplanes and everything else and like delivering packages."
+    },
+    {
+        "start": 1801.72,
+        "end": 1807.56,
+        "text": " Like through the air, retail and of course, banking."
+    },
+    {
+        "start": 1807.56,
+        "end": 1813.84,
+        "text": " It basically said that in terms of it impacted financial markets and everything else."
+    },
+    {
+        "start": 1813.84,
+        "end": 1818.32,
+        "text": " Crowdstrike is a third party developer or a company that builds an app."
+    },
+    {
+        "start": 1818.32,
+        "end": 1824.76,
+        "text": " Crowdstrike build their third party company and its Crowdstrike's update."
+    },
+    {
+        "start": 1824.76,
+        "end": 1828.8,
+        "text": " It really hit IT systems all over the globe."
+    },
+    {
+        "start": 1828.8,
+        "end": 1834.52,
+        "text": " It caused that crash all over PCs like Windows based computers, Microsoft based computers."
+    },
+    {
+        "start": 1834.52,
+        "end": 1839.56,
+        "text": " Given everything of what we call the BSOD or the blue screen of death, and it provided"
+    },
+    {
+        "start": 1839.56,
+        "end": 1842.28,
+        "text": " a lot of different fix."
+    },
+    {
+        "start": 1842.28,
+        "end": 1846.84,
+        "text": " It's been tamped down, but it is still impacted."
+    },
+    {
+        "start": 1846.84,
+        "end": 1851.96,
+        "text": " As Microsoft is consistently easing even up to an hour ago, the last read I was looking"
+    },
+    {
+        "start": 1851.96,
+        "end": 1856.56,
+        "text": " at are still pushing out different fixes."
+    },
+    {
+        "start": 1856.56,
+        "end": 1861.9199999999998,
+        "text": " By and large, a lot of organizations I would imagine my organization and y'all there at"
+    },
+    {
+        "start": 1861.9199999999998,
+        "end": 1865.6799999999998,
+        "text": " MPB aren't as affected."
+    },
+    {
+        "start": 1865.6799999999998,
+        "end": 1870.08,
+        "text": " Sometimes though people that are working remotely will."
+    },
+    {
+        "start": 1870.08,
+        "end": 1876.6799999999998,
+        "text": " And basically it just, the issue is because Crowdstrike is a third party vendor, they don't"
+    },
+    {
+        "start": 1876.6799999999998,
+        "end": 1881.36,
+        "text": " work for Microsoft, but they've got software that is so popular."
+    },
+    {
+        "start": 1881.36,
+        "end": 1883.12,
+        "text": " It's all over the place."
+    },
+    {
+        "start": 1883.12,
+        "end": 1889.0,
+        "text": " And the analogy I like to be able to use, this was rough, but in my opinion this wasn't"
+    },
+    {
+        "start": 1889.0,
+        "end": 1894.4399999999998,
+        "text": " as rough as we had an issue with what's called solar winds was that last year, year before."
+    },
+    {
+        "start": 1894.4399999999998,
+        "end": 1898.4799999999998,
+        "text": " Imagine it's a lot like as if you were to open a book."
+    },
+    {
+        "start": 1898.4799999999998,
+        "end": 1903.9199999999998,
+        "text": " This issue has been like opening up a book and it has a table of contents and it's got"
+    },
+    {
+        "start": 1903.9199999999998,
+        "end": 1906.6,
+        "text": " chapter names but no actual book content."
+    },
+    {
+        "start": 1906.6,
+        "end": 1908.76,
+        "text": " Well, it's not much of a book is it?"
+    },
+    {
+        "start": 1908.76,
+        "end": 1910.08,
+        "text": " That's kind of what happens."
+    },
+    {
+        "start": 1910.08,
+        "end": 1912.56,
+        "text": " Because the computer is going to look at specific things."
+    },
+    {
+        "start": 1912.56,
+        "end": 1914.36,
+        "text": " And so that's kind of what's happened."
+    },
+    {
+        "start": 1914.36,
+        "end": 1918.52,
+        "text": " The solar winds which happened, what was that last year, that last year, two years ago,"
+    },
+    {
+        "start": 1918.52,
+        "end": 1919.52,
+        "text": " when solar winds went down."
+    },
+    {
+        "start": 1919.52,
+        "end": 1920.52,
+        "text": " I remember that."
+    },
+    {
+        "start": 1920.52,
+        "end": 1921.52,
+        "text": " I remember that."
+    },
+    {
+        "start": 1921.52,
+        "end": 1925.52,
+        "text": " It had to have been at least a year and a half ago because I don't remember being here"
+    },
+    {
+        "start": 1925.52,
+        "end": 1928.12,
+        "text": " when it happened."
+    },
+    {
+        "start": 1928.12,
+        "end": 1934.8,
+        "text": " Solar winds was worse in my opinion because whereas, whereas this issue has been like a"
+    },
+    {
+        "start": 1934.8,
+        "end": 1940.24,
+        "text": " book without words, without actual content words, the solar winds issue was like opening"
+    },
+    {
+        "start": 1940.24,
+        "end": 1942.12,
+        "text": " up a book and there are no pages."
+    },
+    {
+        "start": 1942.12,
+        "end": 1945.32,
+        "text": " That's not that it's even worse."
+    },
+    {
+        "start": 1945.32,
+        "end": 1949.7199999999998,
+        "text": " You might find letters like type written letters just in a jumble in the book."
+    },
+    {
+        "start": 1949.7199999999998,
+        "end": 1950.8799999999999,
+        "text": " There's no pages."
+    },
+    {
+        "start": 1950.8799999999999,
+        "end": 1954.9199999999998,
+        "text": " So that's why I thought solar winds was worse."
+    },
+    {
+        "start": 1954.9199999999998,
+        "end": 1958.8,
+        "text": " I think a couple of IT groups would be like, well, I don't know that it was worse or"
+    },
+    {
+        "start": 1958.8,
+        "end": 1959.8,
+        "text": " yeah, you're right."
+    },
+    {
+        "start": 1959.8,
+        "end": 1961.6,
+        "text": " But I mean, it's different things."
+    },
+    {
+        "start": 1961.6,
+        "end": 1966.0,
+        "text": " But by and large, it has been hitting a lot of different folks."
+    },
+    {
+        "start": 1966.84,
+        "end": 1972.32,
+        "text": " It's been from issues with international commission agreements."
+    },
+    {
+        "start": 1972.32,
+        "end": 1974.68,
+        "text": " The European Commission has a complaint that's going out."
+    },
+    {
+        "start": 1974.68,
+        "end": 1976.4,
+        "text": " It's a 2009 agreement."
+    },
+    {
+        "start": 1976.4,
+        "end": 1981.16,
+        "text": " Microsoft plays to give third party security apps, developers the same level of access to"
+    },
+    {
+        "start": 1981.16,
+        "end": 1984.4,
+        "text": " its operating system as Microsoft itself."
+    },
+    {
+        "start": 1984.4,
+        "end": 1987.84,
+        "text": " Well, that's kind of what caused this, Rob."
+    },
+    {
+        "start": 1987.84,
+        "end": 1995.12,
+        "text": " Because imagine if you have a recipe, Abram, and it's your recipe and you're selling"
+    },
+    {
+        "start": 1995.12,
+        "end": 1997.76,
+        "text": " these amazing steaks on the market."
+    },
+    {
+        "start": 1997.76,
+        "end": 1999.04,
+        "text": " And Jermaine says, you know what?"
+    },
+    {
+        "start": 1999.04,
+        "end": 2002.56,
+        "text": " I want to be able to have access to be able to put my own flavor on it."
+    },
+    {
+        "start": 2002.56,
+        "end": 2004.9199999999998,
+        "text": " And so if you change it, it's going to change the flavor of it."
+    },
+    {
+        "start": 2004.9199999999998,
+        "end": 2005.9199999999998,
+        "text": " It's not going to be the same thing."
+    },
+    {
+        "start": 2005.9199999999998,
+        "end": 2006.9199999999998,
+        "text": " Right."
+    },
+    {
+        "start": 2006.9199999999998,
+        "end": 2008.4399999999998,
+        "text": " I'll follow you now."
+    },
+    {
+        "start": 2008.4399999999998,
+        "end": 2009.76,
+        "text": " That's kind of how that's going."
+    },
+    {
+        "start": 2009.76,
+        "end": 2014.7199999999998,
+        "text": " So it was a 2009 agreement that Microsoft had with the European Commission to go ahead"
+    },
+    {
+        "start": 2014.7199999999998,
+        "end": 2015.84,
+        "text": " and do this."
+    },
+    {
+        "start": 2015.84,
+        "end": 2022.1999999999998,
+        "text": " And in doing so, CrowdStrike, which is a big company, their vulnerability spread like wildfire."
+    },
+    {
+        "start": 2022.2,
+        "end": 2025.56,
+        "text": " And so, and because of that, now they've got to walk all that back."
+    },
+    {
+        "start": 2025.56,
+        "end": 2030.92,
+        "text": " But CrowdStrike, because it's their vulnerability, impact, and Microsoft is so on CrowdStrike to"
+    },
+    {
+        "start": 2030.92,
+        "end": 2031.92,
+        "text": " get it fixed."
+    },
+    {
+        "start": 2031.92,
+        "end": 2032.92,
+        "text": " That's rough."
+    },
+    {
+        "start": 2032.92,
+        "end": 2034.72,
+        "text": " Can I say this?"
+    },
+    {
+        "start": 2034.72,
+        "end": 2040.0,
+        "text": " I have to say this because of the fact, especially with the airlines still being affected by this"
+    },
+    {
+        "start": 2040.0,
+        "end": 2045.72,
+        "text": " whole outage and everything, it's almost like, and it's funny to me, it's almost like"
+    },
+    {
+        "start": 2045.72,
+        "end": 2052.7200000000003,
+        "text": " nobody knew what plan A was before we had Microsoft."
+    },
+    {
+        "start": 2052.7200000000003,
+        "end": 2059.44,
+        "text": " Before we had this interconnected internet, nobody can remember how we got the planes off"
+    },
+    {
+        "start": 2059.44,
+        "end": 2063.56,
+        "text": " the ground without Microsoft."
+    },
+    {
+        "start": 2063.56,
+        "end": 2064.56,
+        "text": " Right."
+    },
+    {
+        "start": 2064.56,
+        "end": 2072.36,
+        "text": " And so here's my, my only quip with that is when we move from one technology source to"
+    },
+    {
+        "start": 2072.36,
+        "end": 2076.6,
+        "text": " another technology source, what we need to do is write a book, right?"
+    },
+    {
+        "start": 2076.6,
+        "end": 2081.88,
+        "text": " The pamphlet that tells us how to work the one we just left."
+    },
+    {
+        "start": 2081.88,
+        "end": 2086.6400000000003,
+        "text": " How did, how was the systems before Microsoft got implemented?"
+    },
+    {
+        "start": 2086.6400000000003,
+        "end": 2091.44,
+        "text": " Now, not to say I'm trying to knock out IT because the beer, this is your livelihood."
+    },
+    {
+        "start": 2091.44,
+        "end": 2097.32,
+        "text": " And we would not be on this show from 10 until 11 if it wasn't for Microsoft in the internet."
+    },
+    {
+        "start": 2097.32,
+        "end": 2102.32,
+        "text": " But again, what happened to, I mean, how did we get the planes off the ground?"
+    },
+    {
+        "start": 2102.36,
+        "end": 2104.6800000000003,
+        "text": " Before Microsoft, how did things work?"
+    },
+    {
+        "start": 2104.6800000000003,
+        "end": 2105.6800000000003,
+        "text": " How did businesses work?"
+    },
+    {
+        "start": 2105.6800000000003,
+        "end": 2110.84,
+        "text": " Now we're linking and lynching everything on internet capability."
+    },
+    {
+        "start": 2110.84,
+        "end": 2114.32,
+        "text": " And not only that, we have to go down even one more notch."
+    },
+    {
+        "start": 2114.32,
+        "end": 2118.76,
+        "text": " We're lynching it on the fact that we think electricity is always going to be on."
+    },
+    {
+        "start": 2118.76,
+        "end": 2120.76,
+        "text": " See, I have to go all the way down there."
+    },
+    {
+        "start": 2120.76,
+        "end": 2128.8,
+        "text": " So why are we lynching our systems and our livelihood on things that can literally go off"
+    },
+    {
+        "start": 2128.8,
+        "end": 2130.4,
+        "text": " in the next two seconds?"
+    },
+    {
+        "start": 2130.4,
+        "end": 2136.4,
+        "text": " So you bring forth a really good point that probably would eat up probably a whole another show."
+    },
+    {
+        "start": 2136.4,
+        "end": 2137.4,
+        "text": " I know."
+    },
+    {
+        "start": 2137.4,
+        "end": 2138.4,
+        "text": " Let's do it."
+    },
+    {
+        "start": 2138.4,
+        "end": 2139.4,
+        "text": " Let's do it."
+    },
+    {
+        "start": 2139.4,
+        "end": 2141.4,
+        "text": " Let's eat up 11 o'clock now."
+    },
+    {
+        "start": 2141.4,
+        "end": 2142.4,
+        "text": " Right, right."
+    },
+    {
+        "start": 2142.4,
+        "end": 2145.4,
+        "text": " Have you ever seen the movie Live Free or Die Hard?"
+    },
+    {
+        "start": 2145.4,
+        "end": 2146.4,
+        "text": " No."
+    },
+    {
+        "start": 2146.4,
+        "end": 2148.4,
+        "text": " It was, so check it out."
+    },
+    {
+        "start": 2148.4,
+        "end": 2151.4,
+        "text": " It was part of the Die Hard series, Bruce Willis series."
+    },
+    {
+        "start": 2151.4,
+        "end": 2156.4,
+        "text": " It was like the fourth installment where everything they called it called it a fire sale."
+    },
+    {
+        "start": 2156.4,
+        "end": 2157.4,
+        "text": " That's what they called it in the group."
+    },
+    {
+        "start": 2157.4,
+        "end": 2159.4,
+        "text": " Some people back then, that's what they used to call it then."
+    },
+    {
+        "start": 2159.4,
+        "end": 2161.4,
+        "text": " Where they basically did exactly that."
+    },
+    {
+        "start": 2161.4,
+        "end": 2167.4,
+        "text": " They pulled technology out of everything and everybody went, hey, why are just it's a pretty good movie."
+    },
+    {
+        "start": 2167.4,
+        "end": 2168.4,
+        "text": " I actually liked it."
+    },
+    {
+        "start": 2168.4,
+        "end": 2169.4,
+        "text": " I actually, it wasn't."
+    },
+    {
+        "start": 2169.4,
+        "end": 2170.4,
+        "text": " I don't know."
+    },
+    {
+        "start": 2170.4,
+        "end": 2172.4,
+        "text": " And then here's the thing."
+    },
+    {
+        "start": 2172.4,
+        "end": 2173.4,
+        "text": " I'm 41 years old."
+    },
+    {
+        "start": 2173.4,
+        "end": 2176.4,
+        "text": " I was literally on the cusp of everything."
+    },
+    {
+        "start": 2176.4,
+        "end": 2179.4,
+        "text": " I'm not, I'm not too old to not remember."
+    },
+    {
+        "start": 2179.4,
+        "end": 2180.4,
+        "text": " You know what I'm saying?"
+    },
+    {
+        "start": 2180.4,
+        "end": 2182.4,
+        "text": " I'm not too young to not have known."
+    },
+    {
+        "start": 2182.4,
+        "end": 2188.4,
+        "text": " And so when things go down like this, my first thought is how did they get the planes off the ground without Microsoft?"
+    },
+    {
+        "start": 2188.4,
+        "end": 2189.4,
+        "text": " That's my first thought."
+    },
+    {
+        "start": 2189.4,
+        "end": 2193.4,
+        "text": " It's like when your electricity goes out and you're like, well, what do I do now?"
+    },
+    {
+        "start": 2193.4,
+        "end": 2199.4,
+        "text": " Like the other day in mind was out because of the storm or no because of a wreck outside the house,"
+    },
+    {
+        "start": 2199.4,
+        "end": 2200.4,
+        "text": " messed with a telephone pole."
+    },
+    {
+        "start": 2200.4,
+        "end": 2204.4,
+        "text": " Anyways, the electricity was out and I was like, well, what do I do?"
+    },
+    {
+        "start": 2204.4,
+        "end": 2205.4,
+        "text": " I was so bored."
+    },
+    {
+        "start": 2205.4,
+        "end": 2208.4,
+        "text": " The better than you're from work."
+    },
+    {
+        "start": 2208.4,
+        "end": 2210.4,
+        "text": " You better get out of the game."
+    },
+    {
+        "start": 2210.4,
+        "end": 2213.4,
+        "text": " I've decided to start reading now."
+    },
+    {
+        "start": 2213.4,
+        "end": 2214.4,
+        "text": " Right there."
+    },
+    {
+        "start": 2214.4,
+        "end": 2215.4,
+        "text": " There's a habit to pick up."
+    },
+    {
+        "start": 2215.4,
+        "end": 2216.4,
+        "text": " There's a habit to pick up."
+    },
+    {
+        "start": 2216.4,
+        "end": 2217.4,
+        "text": " There you go."
+    },
+    {
+        "start": 2217.4,
+        "end": 2218.4,
+        "text": " There you go."
+    },
+    {
+        "start": 2218.4,
+        "end": 2222.4,
+        "text": " But I think the biggest thing is like a lot of times we have to, we are right."
+    },
+    {
+        "start": 2222.4,
+        "end": 2227.4,
+        "text": " A lot of times we have to figure out what we're going to do."
+    },
+    {
+        "start": 2227.4,
+        "end": 2229.4,
+        "text": " A lot of these systems are all interconnected."
+    },
+    {
+        "start": 2229.4,
+        "end": 2235.4,
+        "text": " So if one really important link, if one really important linchpin comes off,"
+    },
+    {
+        "start": 2235.4,
+        "end": 2238.4,
+        "text": " it's going to have a domino effect to other things."
+    },
+    {
+        "start": 2238.4,
+        "end": 2244.4,
+        "text": " So the fact that these things, and again, I don't know anything about the FAA or all their stuff."
+    },
+    {
+        "start": 2244.4,
+        "end": 2250.4,
+        "text": " But if one of those very important linchpins comes loose, that changes everything."
+    },
+    {
+        "start": 2250.4,
+        "end": 2255.4,
+        "text": " And so this is one of those linchpins that we implemented later."
+    },
+    {
+        "start": 2255.4,
+        "end": 2256.4,
+        "text": " Oh, I agree."
+    },
+    {
+        "start": 2256.4,
+        "end": 2257.4,
+        "text": " I agree."
+    },
+    {
+        "start": 2257.4,
+        "end": 2261.4,
+        "text": " But then like, but you have to think about how this works in terms of radar systems,"
+    },
+    {
+        "start": 2261.4,
+        "end": 2268.4,
+        "text": " in terms of communications with other airports, in terms of current air traffic that's already up there."
+    },
+    {
+        "start": 2268.4,
+        "end": 2270.4,
+        "text": " What are you going to do when all of a sudden that happens?"
+    },
+    {
+        "start": 2270.4,
+        "end": 2275.4,
+        "text": " Because all the flights didn't just suddenly take off or just land when this happened."
+    },
+    {
+        "start": 2275.4,
+        "end": 2277.4,
+        "text": " There were things already up in the air."
+    },
+    {
+        "start": 2277.4,
+        "end": 2283.4,
+        "text": " So I mean, I think that's a, you know, one thing we could probably talk about on a future show perhaps is the,"
+    },
+    {
+        "start": 2283.4,
+        "end": 2287.4,
+        "text": " what are some of the plan Bs and Cs?"
+    },
+    {
+        "start": 2287.4,
+        "end": 2294.4,
+        "text": " And I'm sure a lot of these air traffic controllers had their own, they had to have their own things in terms of backups."
+    },
+    {
+        "start": 2294.4,
+        "end": 2301.4,
+        "text": " So people can safely get, you know, landed and safely be, you know, traverse the airspace without running into each other."
+    },
+    {
+        "start": 2301.4,
+        "end": 2302.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2302.4,
+        "end": 2312.4,
+        "text": " Because, but I mean, in any given moment that that brings things very scary in terms of human life, in terms of, you know, everything else in terms of the very ecosystems and environments and everything else we live in."
+    },
+    {
+        "start": 2312.4,
+        "end": 2314.4,
+        "text": " So I hope they get on to it."
+    },
+    {
+        "start": 2314.4,
+        "end": 2315.4,
+        "text": " I really want to get on it."
+    },
+    {
+        "start": 2315.4,
+        "end": 2319.4,
+        "text": " Let's have our, our doomsday fall out plan show."
+    },
+    {
+        "start": 2319.4,
+        "end": 2320.4,
+        "text": " Here's my thing."
+    },
+    {
+        "start": 2320.4,
+        "end": 2322.4,
+        "text": " Don't forget where from whence we came."
+    },
+    {
+        "start": 2322.4,
+        "end": 2323.4,
+        "text": " That's what I'm saying."
+    },
+    {
+        "start": 2323.4,
+        "end": 2324.4,
+        "text": " Don't forget."
+    },
+    {
+        "start": 2324.4,
+        "end": 2325.4,
+        "text": " I completely agree."
+    },
+    {
+        "start": 2325.4,
+        "end": 2340.4,
+        "text": " I mean, every, it just electricity and internet just so fat quickly became a part of infrastructure like the cornerstone of an infrastructure like it was the pyramid of,"
+    },
+    {
+        "start": 2340.4,
+        "end": 2346.4,
+        "text": " this is the most hippie thing I've ever said, the pyramid of society has been built upon."
+    },
+    {
+        "start": 2346.4,
+        "end": 2351.4,
+        "text": " I know you don't, has been built upon electricity and internet at this point."
+    },
+    {
+        "start": 2351.4,
+        "end": 2352.4,
+        "text": " Yeah, anyways, yeah."
+    },
+    {
+        "start": 2352.4,
+        "end": 2368.4,
+        "text": " So the Microsoft outage affected everything from, you know, people trying to send emails on outlook to, like you said, flight plans and hospitals operating ICU units and ventilators and respirators."
+    },
+    {
+        "start": 2368.4,
+        "end": 2380.4,
+        "text": " And I remember a couple of weeks ago at the hospital that my wife works at, they had a full electrical outage including the backup generator."
+    },
+    {
+        "start": 2380.4,
+        "end": 2384.4,
+        "text": " So they literally had to like manually pump ventilators."
+    },
+    {
+        "start": 2384.4,
+        "end": 2385.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2385.4,
+        "end": 2397.4,
+        "text": " So it was, I mean, now the hospitals, I have to give it to them when I'm not to say IT doesn't have their plans, but the hospitals, they literally have plan A, B, they have to train that way."
+    },
+    {
+        "start": 2397.4,
+        "end": 2402.4,
+        "text": " So they train for if A goes wrong, B goes wrong, C goes wrong, D goes wrong."
+    },
+    {
+        "start": 2402.4,
+        "end": 2404.4,
+        "text": " You know, absolutely, absolutely."
+    },
+    {
+        "start": 2404.4,
+        "end": 2405.4,
+        "text": " Absolutely."
+    },
+    {
+        "start": 2405.4,
+        "end": 2408.4,
+        "text": " You know what, I digress and I'm going to go hug a tree for you, Abram, thanks."
+    },
+    {
+        "start": 2408.4,
+        "end": 2409.4,
+        "text": " Thank you so much."
+    },
+    {
+        "start": 2409.4,
+        "end": 2410.4,
+        "text": " Thank you."
+    },
+    {
+        "start": 2410.4,
+        "end": 2412.4,
+        "text": " I appreciate that."
+    },
+    {
+        "start": 2412.4,
+        "end": 2417.4,
+        "text": " You know, have a book in a smile, not a coconut smile, but a book in a smile."
+    },
+    {
+        "start": 2417.4,
+        "end": 2418.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2418.4,
+        "end": 2420.4,
+        "text": " Gays electricity goes out, that's crazy."
+    },
+    {
+        "start": 2420.4,
+        "end": 2422.4,
+        "text": " Well, look, gee, you don't have to go too far to find a tree."
+    },
+    {
+        "start": 2422.4,
+        "end": 2423.4,
+        "text": " I know."
+    },
+    {
+        "start": 2423.4,
+        "end": 2424.4,
+        "text": " At least not on this campus."
+    },
+    {
+        "start": 2424.4,
+        "end": 2425.4,
+        "text": " I know, I know."
+    },
+    {
+        "start": 2425.4,
+        "end": 2426.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2426.4,
+        "end": 2430.4,
+        "text": " Well, we have a few minutes left."
+    },
+    {
+        "start": 2430.4,
+        "end": 2432.4,
+        "text": " You have any other questions or comments."
+    },
+    {
+        "start": 2432.4,
+        "end": 2437.4,
+        "text": " You can also email the show at EverydayTech at mpbeonline.org."
+    },
+    {
+        "start": 2437.4,
+        "end": 2449.4,
+        "text": " We're going to stay here through this and continue talking about our final subject of the day, which was learning about the history of gaming and how that has changed."
+    },
+    {
+        "start": 2449.4,
+        "end": 2459.4,
+        "text": " And obviously, you know, the gaming industry started with arcade, or really it started before that, but arcade cabinets is where it really got popular."
+    },
+    {
+        "start": 2459.4,
+        "end": 2467.4,
+        "text": " And so in 1972, the first video arcade video game was released by a company named Atari titled Pong."
+    },
+    {
+        "start": 2467.4,
+        "end": 2472.4,
+        "text": " Three years later, in 1975 Atari released their first at home console."
+    },
+    {
+        "start": 2472.4,
+        "end": 2475.4,
+        "text": " Never played in Atari myself, I got to say."
+    },
+    {
+        "start": 2475.4,
+        "end": 2478.4,
+        "text": " I've played, I've played emulators."
+    },
+    {
+        "start": 2478.4,
+        "end": 2484.4,
+        "text": " I know that's not what you're supposed to say, but you're a younger guy."
+    },
+    {
+        "start": 2484.4,
+        "end": 2486.4,
+        "text": " We'll let you live with you."
+    },
+    {
+        "start": 2486.4,
+        "end": 2487.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2487.4,
+        "end": 2488.4,
+        "text": " Thank you."
+    },
+    {
+        "start": 2488.4,
+        "end": 2489.4,
+        "text": " Appreciate that."
+    },
+    {
+        "start": 2489.4,
+        "end": 2499.4,
+        "text": " And then in the early 1980s, the video game industry almost completely died because there were way too many consoles, no uniformity and an over saturated low quality market."
+    },
+    {
+        "start": 2499.4,
+        "end": 2504.4,
+        "text": " Several companies eventually filed bankruptcy, never to be seen or heard from again."
+    },
+    {
+        "start": 2504.4,
+        "end": 2508.4,
+        "text": " So, severe, you get what I mean when I say like too many consoles, no uniformity."
+    },
+    {
+        "start": 2508.4,
+        "end": 2520.4,
+        "text": " So there was no, like if you had a cartridge or if you had something like this, that chords did not hook up to the same TVs."
+    },
+    {
+        "start": 2520.4,
+        "end": 2522.4,
+        "text": " So it's all that sort of stuff."
+    },
+    {
+        "start": 2522.4,
+        "end": 2525.4,
+        "text": " Like you had to have a specific TV to play a specific console."
+    },
+    {
+        "start": 2525.4,
+        "end": 2528.4,
+        "text": " So it was, it was complicated at that time."
+    },
+    {
+        "start": 2529.4,
+        "end": 2539.4,
+        "text": " In 1985, the industry was saved by a Japanese company that spouted higher quality 8-bit graphics, colors, sound and altogether captivating gameplay experience."
+    },
+    {
+        "start": 2539.4,
+        "end": 2542.4,
+        "text": " And severe, the name of that company was..."
+    },
+    {
+        "start": 2542.4,
+        "end": 2543.4,
+        "text": " But you said Japanese company."
+    },
+    {
+        "start": 2543.4,
+        "end": 2544.4,
+        "text": " Japanese company."
+    },
+    {
+        "start": 2544.4,
+        "end": 2545.4,
+        "text": " Oh, you're going Nintendo."
+    },
+    {
+        "start": 2545.4,
+        "end": 2546.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2546.4,
+        "end": 2548.4,
+        "text": " This is the other thing is the..."
+    },
+    {
+        "start": 2548.4,
+        "end": 2555.4,
+        "text": " The Nintendo Entertainment system was released along with still continuing game franchises like Mario and Zelda."
+    },
+    {
+        "start": 2556.4,
+        "end": 2568.4,
+        "text": " So, which is wild that even, let's say 85, that's 40 years later, that Mario and Zelda are still probably the two most iconic game franchises."
+    },
+    {
+        "start": 2568.4,
+        "end": 2572.4,
+        "text": " Yeah, it's, they're not going to wear, they're going to wear no time song."
+    },
+    {
+        "start": 2572.4,
+        "end": 2578.4,
+        "text": " Okay, and at this point, they're the cornerstones on which the pyramid of..."
+    },
+    {
+        "start": 2579.4,
+        "end": 2580.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2580.4,
+        "end": 2594.4,
+        "text": " In 1989, Nintendo saw its first competition in the 16-bit console, the Sega Genesis, which began the famous rivalry of Sega and Nintendo or the rivalry of Sonic and Mario."
+    },
+    {
+        "start": 2594.4,
+        "end": 2604.4,
+        "text": " And you know, even that says 1989 was when that happened, but like even when I was growing up, like we still had the argument of Mario versus Sonic."
+    },
+    {
+        "start": 2605.4,
+        "end": 2610.4,
+        "text": " Then we eventually got Mario and Sonic at the Olympics, so I guess they screwed it over a little bit."
+    },
+    {
+        "start": 2610.4,
+        "end": 2611.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2611.4,
+        "end": 2616.4,
+        "text": " The Nintendo Olympics was that what it was called or something like that, I don't remember."
+    },
+    {
+        "start": 2616.4,
+        "end": 2617.4,
+        "text": " That was, that was interest."
+    },
+    {
+        "start": 2617.4,
+        "end": 2618.4,
+        "text": " I love the..."
+    },
+    {
+        "start": 2618.4,
+        "end": 2619.4,
+        "text": " That was awesome at the Olympics."
+    },
+    {
+        "start": 2619.4,
+        "end": 2620.4,
+        "text": " I do remember they crossed up."
+    },
+    {
+        "start": 2620.4,
+        "end": 2622.4,
+        "text": " Yeah, that was cool."
+    },
+    {
+        "start": 2622.4,
+        "end": 2632.4,
+        "text": " And then in 1995, Sega released the Saturn system, which was the first system to see 3D gaming and feature a 32-bit console."
+    },
+    {
+        "start": 2633.4,
+        "end": 2644.4,
+        "text": " Which sounds like they were doing good, but they rushed the console in order to beat out the next generation, the PlayStation, which was cheaper and famously the first 64-bit console than the N64."
+    },
+    {
+        "start": 2644.4,
+        "end": 2652.4,
+        "text": " Talking about these and the format changes and stuff, we talked about how the Saturn became the first disk-based system and then PlayStation was also a disk-based."
+    },
+    {
+        "start": 2652.4,
+        "end": 2655.4,
+        "text": " And then Xbox came along and is disk-based."
+    },
+    {
+        "start": 2655.4,
+        "end": 2660.4,
+        "text": " And then you think about Nintendo and they never moved on from cartridges."
+    },
+    {
+        "start": 2660.4,
+        "end": 2661.4,
+        "text": " They didn't."
+    },
+    {
+        "start": 2662.4,
+        "end": 2667.4,
+        "text": " Which is, I don't get how they can put... I don't understand how any of that works anyways."
+    },
+    {
+        "start": 2667.4,
+        "end": 2674.4,
+        "text": " How you can put a full game like that onto a disk or a cartridge or anything like that."
+    },
+    {
+        "start": 2674.4,
+        "end": 2681.4,
+        "text": " But I definitely don't understand how the cartridges are so small and they get such big games on there."
+    },
+    {
+        "start": 2681.4,
+        "end": 2682.4,
+        "text": " Yes and do."
+    },
+    {
+        "start": 2682.4,
+        "end": 2683.4,
+        "text": " Yeah, I love it."
+    },
+    {
+        "start": 2683.4,
+        "end": 2684.4,
+        "text": " You gotta love it, baby."
+    },
+    {
+        "start": 2684.4,
+        "end": 2685.4,
+        "text": " Shout out to video games."
+    },
+    {
+        "start": 2685.4,
+        "end": 2687.4,
+        "text": " Yeah, yeah."
+    },
+    {
+        "start": 2688.4,
+        "end": 2697.4,
+        "text": " So Sony then released the PlayStation 2, which was the first console to use DVDs for its copies and dominated the US and dominated the US market at the time."
+    },
+    {
+        "start": 2697.4,
+        "end": 2701.4,
+        "text": " At this time, Sega essentially faded from the console wars."
+    },
+    {
+        "start": 2701.4,
+        "end": 2713.4,
+        "text": " This began the modern age of gaming, the three console war, Microsoft's Xbox 360, Sony's PlayStation 3, and Nintendo's Wii all released within a year of each other from 2005 to 2006."
+    },
+    {
+        "start": 2713.4,
+        "end": 2714.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2714.4,
+        "end": 2719.4,
+        "text": " Now we've talked about this before. The rivalry has primarily been Xbox and PlayStation."
+    },
+    {
+        "start": 2719.4,
+        "end": 2721.4,
+        "text": " And then Nintendo kind of had its own thing."
+    },
+    {
+        "start": 2721.4,
+        "end": 2727.4,
+        "text": " And I remember back in the day, I remember when all this came out, all these consoles came out."
+    },
+    {
+        "start": 2727.4,
+        "end": 2732.4,
+        "text": " Everyone would argue about whether you wanted an Xbox 360 or you wanted a PS3."
+    },
+    {
+        "start": 2732.4,
+        "end": 2738.4,
+        "text": " But everyone also, like it was a guarantee that you wanted an Nintendo Wii with the motion controls and everything."
+    },
+    {
+        "start": 2738.4,
+        "end": 2739.4,
+        "text": " You were so serious."
+    },
+    {
+        "start": 2739.4,
+        "end": 2740.4,
+        "text": " Yeah, regardless."
+    },
+    {
+        "start": 2740.4,
+        "end": 2741.4,
+        "text": " Yeah."
+    },
+    {
+        "start": 2741.4,
+        "end": 2755.4,
+        "text": " And then of course, since then the gaming ecosystem has been vastly different technical has seen vastly different technological advances that we can't completely cover from Blu-ray disc being used to playable action figures to augmented and virtual reality."
+    },
+    {
+        "start": 2755.4,
+        "end": 2761.4,
+        "text": " The world of gaming is constantly updating and changing and it's exciting to see where we're going with it all."
+    },
+    {
+        "start": 2761.4,
+        "end": 2764.4,
+        "text": " And I remember the playable action figures."
+    },
+    {
+        "start": 2764.4,
+        "end": 2766.4,
+        "text": " I think that's kind of faded from existence at this point."
+    },
+    {
+        "start": 2766.4,
+        "end": 2771.4,
+        "text": " But the Skylanders things and Nintendo, what are they called?"
+    },
+    {
+        "start": 2771.4,
+        "end": 2772.4,
+        "text": " The Mies?"
+    },
+    {
+        "start": 2772.4,
+        "end": 2774.4,
+        "text": " Not the Mies, but something else."
+    },
+    {
+        "start": 2774.4,
+        "end": 2775.4,
+        "text": " Anyways."
+    },
+    {
+        "start": 2775.4,
+        "end": 2776.4,
+        "text": " Mivo."
+    },
+    {
+        "start": 2776.4,
+        "end": 2777.4,
+        "text": " Mivo, yeah, yeah, yeah, there you go."
+    },
+    {
+        "start": 2777.4,
+        "end": 2779.4,
+        "text": " All right. Well, that's going to wrap us up for the day."
+    },
+    {
+        "start": 2779.4,
+        "end": 2782.4,
+        "text": " So thanks, Sabir, for helping myself and our callers out."
+    },
+    {
+        "start": 2782.4,
+        "end": 2783.4,
+        "text": " It's been a good show."
+    },
+    {
+        "start": 2783.4,
+        "end": 2785.4,
+        "text": " We covered a lot of topics today."
+    },
+    {
+        "start": 2785.4,
+        "end": 2790.4,
+        "text": " So if you have any questions, email everyday tech at mpbonline.org."
+    },
+    {
+        "start": 2790.4,
+        "end": 2792.4,
+        "text": " Today's show is engineered by Jermaine Flood."
+    },
+    {
+        "start": 2792.4,
+        "end": 2794.4,
+        "text": " Our call screener was Will Pickering."
+    },
+    {
+        "start": 2794.4,
+        "end": 2796.4,
+        "text": " I've been your host, Abram Nanny."
+    },
+    {
+        "start": 2796.4,
+        "end": 2801.4,
+        "text": " Turn in next Wednesday at 10 on mpbthinkradio for more everyday tech."
+    },
+    {
+        "start": 2801.4,
+        "end": 2803.4,
+        "text": " This is an mpbthinkradio podcast."
+    },
+    {
+        "start": 2803.4,
+        "end": 2813.4,
+        "text": " To hear previous shows, visit mpbonline.org or download the mpb public radio app to listen on your iPhone or Android phone on demand."
+    }
+]

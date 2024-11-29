@@ -1,0 +1,2167 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 17.76,
+        "end": 19.76,
+        "text": " Hello and welcome to Podcasting House."
+    },
+    {
+        "start": 19.76,
+        "end": 21.76,
+        "text": " And if you're listening to us for the first time,"
+    },
+    {
+        "start": 21.76,
+        "end": 23.2,
+        "text": " well this is what you need to know."
+    },
+    {
+        "start": 23.2,
+        "end": 25.44,
+        "text": " Twice a week, we listen to a BBC podcast,"
+    },
+    {
+        "start": 25.44,
+        "end": 27.32,
+        "text": " we think you might like to."
+    },
+    {
+        "start": 27.32,
+        "end": 29.32,
+        "text": " And if you do like it, then you can search for it"
+    },
+    {
+        "start": 29.32,
+        "end": 31.32,
+        "text": " and subscribe wherever you got this one."
+    },
+    {
+        "start": 31.32,
+        "end": 35.32,
+        "text": " So I'm Rian and with me, I have a new guest in the studio,"
+    },
+    {
+        "start": 35.32,
+        "end": 36.32,
+        "text": " not really at sea life."
+    },
+    {
+        "start": 36.32,
+        "end": 37.8,
+        "text": " I was looking around."
+    },
+    {
+        "start": 37.8,
+        "end": 39.44,
+        "text": " Who are you talking about?"
+    },
+    {
+        "start": 39.44,
+        "end": 40.44,
+        "text": " No, it's just me."
+    },
+    {
+        "start": 40.44,
+        "end": 41.6,
+        "text": " So what have you got today?"
+    },
+    {
+        "start": 41.6,
+        "end": 44.04,
+        "text": " Well, we're about to hear death in ice valley."
+    },
+    {
+        "start": 44.04,
+        "end": 46.480000000000004,
+        "text": " Now this is a co-production between the BBC World Service"
+    },
+    {
+        "start": 46.480000000000004,
+        "end": 50.24,
+        "text": " and NRK, which is the public broadcaster in Norway."
+    },
+    {
+        "start": 50.24,
+        "end": 53.400000000000006,
+        "text": " So there's this missing persons case in Norway."
+    },
+    {
+        "start": 53.400000000000006,
+        "end": 56.84,
+        "text": " And like everybody in Norway knows about this case."
+    },
+    {
+        "start": 56.84,
+        "end": 60.120000000000005,
+        "text": " It turns the classic missing persons case on its head."
+    },
+    {
+        "start": 60.120000000000005,
+        "end": 62.440000000000005,
+        "text": " There's a body, but nobody knows who it is."
+    },
+    {
+        "start": 62.440000000000005,
+        "end": 64.2,
+        "text": " And usually it's the other way around."
+    },
+    {
+        "start": 64.2,
+        "end": 66.56,
+        "text": " So it's a little bit like the Mountain Jane Do case"
+    },
+    {
+        "start": 66.56,
+        "end": 68.4,
+        "text": " that was on the reveal podcast last year,"
+    },
+    {
+        "start": 68.4,
+        "end": 71.12,
+        "text": " if anyone out there listens to reveal."
+    },
+    {
+        "start": 71.12,
+        "end": 74.52000000000001,
+        "text": " Now you'll hear two main voices in this podcast,"
+    },
+    {
+        "start": 74.52000000000001,
+        "end": 77.4,
+        "text": " a British documentary maker named Neil McCarthy"
+    },
+    {
+        "start": 77.4,
+        "end": 81.48,
+        "text": " and a Norwegian investigative reporter, Marit Higraf."
+    },
+    {
+        "start": 81.48,
+        "end": 83.88,
+        "text": " And basically they try to crack the case."
+    },
+    {
+        "start": 83.88,
+        "end": 86.88,
+        "text": " So this is episode one of Death in Ice Valley."
+    },
+    {
+        "start": 116.88,
+        "end": 141.88,
+        "text": " From the BBC World Service and NRK, this is Death in Ice Valley."
+    },
+    {
+        "start": 147.88,
+        "end": 153.88,
+        "text": " Some people take their secrets with them to the grave when they die."
+    },
+    {
+        "start": 153.88,
+        "end": 157.88,
+        "text": " And some graves hold more secrets than others."
+    },
+    {
+        "start": 157.88,
+        "end": 161.88,
+        "text": " There's one in particular in the main cemetery in Bergen,"
+    },
+    {
+        "start": 161.88,
+        "end": 164.88,
+        "text": " a city on the west coast of Norway."
+    },
+    {
+        "start": 164.88,
+        "end": 167.88,
+        "text": " It's hidden on R\u00f8d-R\u00f8d-Dandrumbosch."
+    },
+    {
+        "start": 167.88,
+        "end": 170.88,
+        "text": " You could walk right past it on the gravel path"
+    },
+    {
+        "start": 170.88,
+        "end": 173.88,
+        "text": " and you wouldn't know it was there."
+    },
+    {
+        "start": 174.88,
+        "end": 180.88,
+        "text": " There's no headstone, no cross, no sign at all identifying"
+    },
+    {
+        "start": 180.88,
+        "end": 182.88,
+        "text": " who lies beneath."
+    },
+    {
+        "start": 182.88,
+        "end": 187.88,
+        "text": " One morning in February 1971,"
+    },
+    {
+        "start": 187.88,
+        "end": 191.88,
+        "text": " a small group of people working for the Bergen police"
+    },
+    {
+        "start": 191.88,
+        "end": 194.88,
+        "text": " huddles together in the icy rain."
+    },
+    {
+        "start": 194.88,
+        "end": 199.88,
+        "text": " They watch as a white coffin is slowly lowered into the ground"
+    },
+    {
+        "start": 199.88,
+        "end": 201.88,
+        "text": " on this spot."
+    },
+    {
+        "start": 202.88,
+        "end": 206.88,
+        "text": " The coffin is decorated with tulips and carnations"
+    },
+    {
+        "start": 206.88,
+        "end": 208.88,
+        "text": " and lined with sink."
+    },
+    {
+        "start": 208.88,
+        "end": 212.88,
+        "text": " None of the funeral guests know the dead person inside."
+    },
+    {
+        "start": 212.88,
+        "end": 217.88,
+        "text": " There are no relatives of the deceased at the graveside."
+    },
+    {
+        "start": 221.88,
+        "end": 226.88,
+        "text": " The priest opens his Bible and reads from the verse about the unknown woman,"
+    },
+    {
+        "start": 226.88,
+        "end": 229.88,
+        "text": " saying that the woman before them is also unknown."
+    },
+    {
+        "start": 229.88,
+        "end": 232.88,
+        "text": " He adds, as the coffin disappears from view,"
+    },
+    {
+        "start": 232.88,
+        "end": 237.88,
+        "text": " in all probability, she is also buried in a land unknown to her."
+    },
+    {
+        "start": 237.88,
+        "end": 240.88,
+        "text": " The zinc-lined coffin wouldn't disintegrate."
+    },
+    {
+        "start": 240.88,
+        "end": 243.88,
+        "text": " It was chosen in case her family were ever found"
+    },
+    {
+        "start": 243.88,
+        "end": 246.88,
+        "text": " and she could be returned home."
+    },
+    {
+        "start": 247.88,
+        "end": 250.88,
+        "text": " When people go missing, they're usually missed."
+    },
+    {
+        "start": 250.88,
+        "end": 254.88,
+        "text": " Someone must have missed her somewhere when she was gone."
+    },
+    {
+        "start": 254.88,
+        "end": 258.88,
+        "text": " Somebody must know something."
+    },
+    {
+        "start": 260.88,
+        "end": 264.88,
+        "text": " This is the story of a woman traveling in Norway in 1970"
+    },
+    {
+        "start": 264.88,
+        "end": 270.88,
+        "text": " who died a terrible death and left behind a trail of strange clues."
+    },
+    {
+        "start": 270.88,
+        "end": 275.88,
+        "text": " Her real identity has remained unknown for almost 50 years"
+    },
+    {
+        "start": 275.88,
+        "end": 280.88,
+        "text": " and it's one of the wealth most intriguing and solved mysteries."
+    },
+    {
+        "start": 280.88,
+        "end": 288.88,
+        "text": " Kind of a novel and specially at this time, 1970, the Cold War."
+    },
+    {
+        "start": 293.88,
+        "end": 301.88,
+        "text": " She was laying with her head down there and her legs up her."
+    },
+    {
+        "start": 305.88,
+        "end": 309.88,
+        "text": " Why was she traveling around with all these identities?"
+    },
+    {
+        "start": 309.88,
+        "end": 311.88,
+        "text": " Will she aspire?"
+    },
+    {
+        "start": 313.88,
+        "end": 315.88,
+        "text": " It was like a cover-up."
+    },
+    {
+        "start": 315.88,
+        "end": 321.88,
+        "text": " It was like a layer of protection around this whole question about this lady."
+    },
+    {
+        "start": 322.88,
+        "end": 325.88,
+        "text": " Episode 1, The Isdal Woman."
+    },
+    {
+        "start": 326.88,
+        "end": 328.88,
+        "text": " I'm Mardi Teigraf."
+    },
+    {
+        "start": 328.88,
+        "end": 332.88,
+        "text": " I'm an investigative reporter from Noways N.A.K."
+    },
+    {
+        "start": 332.88,
+        "end": 334.88,
+        "text": " then Norwegian public broadcaster."
+    },
+    {
+        "start": 334.88,
+        "end": 338.88,
+        "text": " And I'm Neil McCarthy, a radio documentary maker from the BBC."
+    },
+    {
+        "start": 339.88,
+        "end": 346.88,
+        "text": " Together we are trying to unravel the mystery of an unidentified woman known in Noways as the Isdal Woman,"
+    },
+    {
+        "start": 346.88,
+        "end": 350.88,
+        "text": " a mystery that has haunted my country for 47 years."
+    },
+    {
+        "start": 351.88,
+        "end": 355.88,
+        "text": " Still today nobody knows who this woman was, where she was from,"
+    },
+    {
+        "start": 355.88,
+        "end": 360.88,
+        "text": " and what she was doing in Noways, on the North Atlantic coast of Scandinavia."
+    },
+    {
+        "start": 360.88,
+        "end": 362.88,
+        "text": " That's what we would like to find out."
+    },
+    {
+        "start": 363.88,
+        "end": 369.88,
+        "text": " In this podcast series we're going to find out whatever we can about her life, her death and the world she was living in."
+    },
+    {
+        "start": 369.88,
+        "end": 373.88,
+        "text": " And it's about using new technology and the power of podcasting to do that."
+    },
+    {
+        "start": 373.88,
+        "end": 375.88,
+        "text": " So listen closely."
+    },
+    {
+        "start": 375.88,
+        "end": 378.88,
+        "text": " You never know, you might be able to help us solve this true crime."
+    },
+    {
+        "start": 385.88,
+        "end": 391.88,
+        "text": " We begin where the Isdal Woman was found on the 29th of November in 1970."
+    },
+    {
+        "start": 391.88,
+        "end": 398.88,
+        "text": " She gets this name from a beautiful but desolate valley called Isdal in Norwegian, meaning Ice Valley."
+    },
+    {
+        "start": 398.88,
+        "end": 404.88,
+        "text": " It's next to the port city of Bergen in western Norway and that's where the body was found."
+    },
+    {
+        "start": 405.88,
+        "end": 409.88,
+        "text": " A large black lake fills the bottom of Ice Valley."
+    },
+    {
+        "start": 409.88,
+        "end": 414.88,
+        "text": " Pine forests give way to scree and bear rock halfway up the mountain."
+    },
+    {
+        "start": 414.88,
+        "end": 419.88,
+        "text": " In winter there are few hours of daylight here and it gets very cold and wet."
+    },
+    {
+        "start": 420.88,
+        "end": 432.88,
+        "text": " So this is all just broken trees, chopped down forest, there's trunks, logs, branches, broken up in the path which is completely sodden."
+    },
+    {
+        "start": 434.88,
+        "end": 442.88,
+        "text": " There's been a lot of rain already and more rain coming in in this valley on the outskirts of the wetest of Norwegian towns."
+    },
+    {
+        "start": 443.88,
+        "end": 444.88,
+        "text": " Yeah."
+    },
+    {
+        "start": 444.88,
+        "end": 445.88,
+        "text": " Welcome to Norway."
+    },
+    {
+        "start": 445.88,
+        "end": 446.88,
+        "text": " Ah?"
+    },
+    {
+        "start": 446.88,
+        "end": 448.88,
+        "text": " Welcome to Norway."
+    },
+    {
+        "start": 448.88,
+        "end": 449.88,
+        "text": " Yeah, nice weather here."
+    },
+    {
+        "start": 449.88,
+        "end": 452.88,
+        "text": " It's a nice stroll in Norwegian woodhouse."
+    },
+    {
+        "start": 456.88,
+        "end": 461.88,
+        "text": " Marit has been working on the case since she got the Norwegian police to reopen it a couple of years ago."
+    },
+    {
+        "start": 461.88,
+        "end": 463.88,
+        "text": " Unlike me, she knows it well."
+    },
+    {
+        "start": 463.88,
+        "end": 466.88,
+        "text": " She's actually probably the world authority on it."
+    },
+    {
+        "start": 466.88,
+        "end": 470.88,
+        "text": " But there are still many unanswered questions, even for her."
+    },
+    {
+        "start": 470.88,
+        "end": 473.88,
+        "text": " I mean, the story itself, it's real up and riddle."
+    },
+    {
+        "start": 473.88,
+        "end": 479.88,
+        "text": " There are a lot of people who have been trying to solve this mystery for years."
+    },
+    {
+        "start": 479.88,
+        "end": 484.88,
+        "text": " Police, men, private investigators, authors, journalists."
+    },
+    {
+        "start": 484.88,
+        "end": 488.88,
+        "text": " A lot of people have been reading documents and trying to solve this mystery."
+    },
+    {
+        "start": 488.88,
+        "end": 490.88,
+        "text": " Nobody came anywhere."
+    },
+    {
+        "start": 490.88,
+        "end": 491.88,
+        "text": " So why should we?"
+    },
+    {
+        "start": 491.88,
+        "end": 498.88,
+        "text": " Yes, because we thought what can modern technology and methods done by the police?"
+    },
+    {
+        "start": 498.88,
+        "end": 499.88,
+        "text": " Like DNA."
+    },
+    {
+        "start": 499.88,
+        "end": 510.88,
+        "text": " What can methods like that give us of possibilities today to come further in this mysterious one?"
+    },
+    {
+        "start": 510.88,
+        "end": 516.88,
+        "text": " The scientific methods used in detecting crime known as forensics have come a long way in 47 years."
+    },
+    {
+        "start": 516.88,
+        "end": 522.88,
+        "text": " DNA, for instance, our unique genetic code is now a key to unlocking many crime mysteries."
+    },
+    {
+        "start": 522.88,
+        "end": 524.88,
+        "text": " Anyway, back to the valley."
+    },
+    {
+        "start": 525.88,
+        "end": 528.88,
+        "text": " It's not a well-worn path."
+    },
+    {
+        "start": 528.88,
+        "end": 531.88,
+        "text": " I don't know who would come up here."
+    },
+    {
+        "start": 531.88,
+        "end": 534.88,
+        "text": " It's a bit aggraced."
+    },
+    {
+        "start": 534.88,
+        "end": 535.88,
+        "text": " Hold on to."
+    },
+    {
+        "start": 535.88,
+        "end": 539.88,
+        "text": " There's a fast-flowing river to the side."
+    },
+    {
+        "start": 539.88,
+        "end": 542.88,
+        "text": " Because it's been raining all night."
+    },
+    {
+        "start": 542.88,
+        "end": 546.88,
+        "text": " So this is Isdal Valley."
+    },
+    {
+        "start": 546.88,
+        "end": 549.88,
+        "text": " This is definitely Isdal Valley."
+    },
+    {
+        "start": 549.88,
+        "end": 550.88,
+        "text": " Yes."
+    },
+    {
+        "start": 550.88,
+        "end": 555.88,
+        "text": " Karl Halvoros, you're back again after 47 years."
+    },
+    {
+        "start": 555.88,
+        "end": 558.88,
+        "text": " I've never been here since."
+    },
+    {
+        "start": 558.88,
+        "end": 571.88,
+        "text": " And Karl Halvor is actually the only person still alive from the crew of police officers who went out there on that particular day when the message came."
+    },
+    {
+        "start": 571.88,
+        "end": 572.88,
+        "text": " Yes."
+    },
+    {
+        "start": 572.88,
+        "end": 574.88,
+        "text": " Somebody had found a dead body in Isdal."
+    },
+    {
+        "start": 574.88,
+        "end": 575.88,
+        "text": " That's right."
+    },
+    {
+        "start": 575.88,
+        "end": 576.88,
+        "text": " So you were the first one on the scene."
+    },
+    {
+        "start": 576.88,
+        "end": 578.88,
+        "text": " Is this strange to be back?"
+    },
+    {
+        "start": 578.88,
+        "end": 579.88,
+        "text": " Yes, it is."
+    },
+    {
+        "start": 579.88,
+        "end": 584.88,
+        "text": " And I'm getting some few memories."
+    },
+    {
+        "start": 584.88,
+        "end": 586.88,
+        "text": " But we're still not there."
+    },
+    {
+        "start": 586.88,
+        "end": 589.88,
+        "text": " We're heading towards the scene."
+    },
+    {
+        "start": 589.88,
+        "end": 592.88,
+        "text": " Do you remember when the call came in?"
+    },
+    {
+        "start": 592.88,
+        "end": 596.88,
+        "text": " Yes, it was Sunday morning about 9pm."
+    },
+    {
+        "start": 596.88,
+        "end": 599.88,
+        "text": " And I was at home on duty."
+    },
+    {
+        "start": 599.88,
+        "end": 602.88,
+        "text": " There had been a fire."
+    },
+    {
+        "start": 602.88,
+        "end": 603.88,
+        "text": " She was burned."
+    },
+    {
+        "start": 603.88,
+        "end": 609.88,
+        "text": " His girls had found a dead body and a rest of the fire."
+    },
+    {
+        "start": 609.88,
+        "end": 611.88,
+        "text": " That was the message."
+    },
+    {
+        "start": 611.88,
+        "end": 616.88,
+        "text": " So don't climbing up these hills, you knew nothing?"
+    },
+    {
+        "start": 616.88,
+        "end": 618.88,
+        "text": " We hadn't the faintest idea."
+    },
+    {
+        "start": 618.88,
+        "end": 620.88,
+        "text": " We didn't know anything."
+    },
+    {
+        "start": 620.88,
+        "end": 623.88,
+        "text": " It was a dead person. That's all the new..."
+    },
+    {
+        "start": 624.88,
+        "end": 626.88,
+        "text": " So, Mary, call Halvor."
+    },
+    {
+        "start": 626.88,
+        "end": 629.88,
+        "text": " The retired policeman is talking about some girls."
+    },
+    {
+        "start": 629.88,
+        "end": 631.88,
+        "text": " Who are they?"
+    },
+    {
+        "start": 631.88,
+        "end": 639.88,
+        "text": " They were then 10 and 12 years old, two young girls, out for a walk with their father, a professor."
+    },
+    {
+        "start": 639.88,
+        "end": 643.88,
+        "text": " They had a terrible shock when they found her."
+    },
+    {
+        "start": 643.88,
+        "end": 648.88,
+        "text": " They had to get out of the valley as quickly as they could and call the police."
+    },
+    {
+        "start": 648.88,
+        "end": 651.88,
+        "text": " And remember, back then, in 1970, they went on mobile phones."
+    },
+    {
+        "start": 651.88,
+        "end": 658.88,
+        "text": " So they had to walk the long way around that lake and back to Bergen City, where they managed to call the police."
+    },
+    {
+        "start": 658.88,
+        "end": 660.88,
+        "text": " They must have been very scared."
+    },
+    {
+        "start": 660.88,
+        "end": 662.88,
+        "text": " They must have been at that age."
+    },
+    {
+        "start": 662.88,
+        "end": 666.88,
+        "text": " Do you just tell me that story reminds me of something that happened to me at a similar age."
+    },
+    {
+        "start": 666.88,
+        "end": 668.88,
+        "text": " I would have only been about 12."
+    },
+    {
+        "start": 668.88,
+        "end": 670.88,
+        "text": " And I went out fishing with a friend."
+    },
+    {
+        "start": 670.88,
+        "end": 672.88,
+        "text": " This is out from where I grew up."
+    },
+    {
+        "start": 672.88,
+        "end": 674.88,
+        "text": " We were out there."
+    },
+    {
+        "start": 674.88,
+        "end": 677.88,
+        "text": " We saw something we didn't know what it was."
+    },
+    {
+        "start": 677.88,
+        "end": 678.88,
+        "text": " It was a seagull on it."
+    },
+    {
+        "start": 678.88,
+        "end": 681.88,
+        "text": " We thought it was a sea lion that had washed up probably dead."
+    },
+    {
+        "start": 681.88,
+        "end": 684.88,
+        "text": " And on the way back from fishing, we went to investigate."
+    },
+    {
+        "start": 684.88,
+        "end": 686.88,
+        "text": " And we realised that it wasn't a sea lion."
+    },
+    {
+        "start": 686.88,
+        "end": 692.88,
+        "text": " We saw a body laid out on the sand, face down, with clothes on."
+    },
+    {
+        "start": 692.88,
+        "end": 694.88,
+        "text": " But the clothes were all ripped."
+    },
+    {
+        "start": 694.88,
+        "end": 698.88,
+        "text": " And I thought my first impression was, oh, it has to be a shop dummy of some kind."
+    },
+    {
+        "start": 698.88,
+        "end": 700.88,
+        "text": " That's been a float and washed up."
+    },
+    {
+        "start": 700.88,
+        "end": 703.88,
+        "text": " But then you realised you saw the flesh, you saw."
+    },
+    {
+        "start": 703.88,
+        "end": 708.88,
+        "text": " The whole waste that had gone on after the body being in the sea for a long time,"
+    },
+    {
+        "start": 708.88,
+        "end": 711.88,
+        "text": " you realised it was a corpse, it was a dead person."
+    },
+    {
+        "start": 711.88,
+        "end": 714.88,
+        "text": " And I was very thankful that I couldn't see the face as well,"
+    },
+    {
+        "start": 714.88,
+        "end": 717.88,
+        "text": " because that might have led to real nightmares."
+    },
+    {
+        "start": 717.88,
+        "end": 723.88,
+        "text": " But our first reaction as two young boys was to just run to flee that scene."
+    },
+    {
+        "start": 723.88,
+        "end": 726.88,
+        "text": " And run back to shore and call for help."
+    },
+    {
+        "start": 726.88,
+        "end": 728.88,
+        "text": " And not look back."
+    },
+    {
+        "start": 728.88,
+        "end": 732.88,
+        "text": " And that's just triggered the similar memory of what those girls went through."
+    },
+    {
+        "start": 732.88,
+        "end": 735.88,
+        "text": " It must have been a traumatic experience for you as a child."
+    },
+    {
+        "start": 735.88,
+        "end": 740.88,
+        "text": " And I guess it tells a lot about also how those two girls were feeling."
+    },
+    {
+        "start": 740.88,
+        "end": 745.88,
+        "text": " Because actually they never want to speak about what happened back then."
+    },
+    {
+        "start": 745.88,
+        "end": 748.88,
+        "text": " And I've been speaking to one of them off record."
+    },
+    {
+        "start": 748.88,
+        "end": 752.88,
+        "text": " And she says it's something they're determined to keep with them."
+    },
+    {
+        "start": 752.88,
+        "end": 757.88,
+        "text": " And she says it's something they're determined to keep within the family."
+    },
+    {
+        "start": 770.88,
+        "end": 775.88,
+        "text": " We've been to the clambering uphill on this very, very rainy day in Bergen."
+    },
+    {
+        "start": 775.88,
+        "end": 779.88,
+        "text": " In fact, it was rainy before, but now it's coming down thick and swirls."
+    },
+    {
+        "start": 779.88,
+        "end": 782.88,
+        "text": " You can't get a wind, you can't really get away from it."
+    },
+    {
+        "start": 782.88,
+        "end": 784.88,
+        "text": " Look into the valley."
+    },
+    {
+        "start": 784.88,
+        "end": 787.88,
+        "text": " And it's almost like we're inside a cloud, I guess."
+    },
+    {
+        "start": 787.88,
+        "end": 790.88,
+        "text": " It's hanging so low and the lake is sort of black below."
+    },
+    {
+        "start": 790.88,
+        "end": 792.88,
+        "text": " What's the name of the lake?"
+    },
+    {
+        "start": 792.88,
+        "end": 794.88,
+        "text": " Swatadika."
+    },
+    {
+        "start": 794.88,
+        "end": 797.88,
+        "text": " Black the black dye or something in English."
+    },
+    {
+        "start": 797.88,
+        "end": 801.88,
+        "text": " This part of the valley actually is called Dotsol."
+    },
+    {
+        "start": 801.88,
+        "end": 803.88,
+        "text": " Death Valley."
+    },
+    {
+        "start": 803.88,
+        "end": 805.88,
+        "text": " Yes, the whole mirror."
+    },
+    {
+        "start": 805.88,
+        "end": 806.88,
+        "text": " It's called that."
+    },
+    {
+        "start": 806.88,
+        "end": 807.88,
+        "text": " Do you know why?"
+    },
+    {
+        "start": 807.88,
+        "end": 815.88,
+        "text": " Because I know that it has been quite a lot of stories and myths about people found dead here."
+    },
+    {
+        "start": 815.88,
+        "end": 819.88,
+        "text": " Suicides and children found dead here."
+    },
+    {
+        "start": 819.88,
+        "end": 823.88,
+        "text": " And our woman, Easter Woman, is one of them."
+    },
+    {
+        "start": 826.88,
+        "end": 833.88,
+        "text": " The story of the Easter Woman captured the public imagination in 1970 when it hit the headlines."
+    },
+    {
+        "start": 833.88,
+        "end": 836.88,
+        "text": " Who was this mysterious woman?"
+    },
+    {
+        "start": 836.88,
+        "end": 841.88,
+        "text": " What could she have been doing in that Death Valley and how did she die?"
+    },
+    {
+        "start": 841.88,
+        "end": 847.88,
+        "text": " And storytellers are still captivated by her, like one of no-ways most famous crime writers,"
+    },
+    {
+        "start": 847.88,
+        "end": 849.88,
+        "text": " also from Bergen, Gunal Stolassen."
+    },
+    {
+        "start": 849.88,
+        "end": 853.88,
+        "text": " He's used to creating situations, riddles and solutions."
+    },
+    {
+        "start": 853.88,
+        "end": 859.88,
+        "text": " Our story is real life, but because it reads like a novel, I think we should talk to him."
+    },
+    {
+        "start": 859.88,
+        "end": 866.88,
+        "text": " Here he is with grey hair, sweat back and glasses, wearing a raincoat and holding an umbrella, of course."
+    },
+    {
+        "start": 866.88,
+        "end": 873.88,
+        "text": " We call it the Isre Valley, but the colloquial name of Death Part of the Valley is the Death Valley, the Valley of Death."
+    },
+    {
+        "start": 873.88,
+        "end": 877.88,
+        "text": " Because there has been some accidents there because of the very steep hills."
+    },
+    {
+        "start": 877.88,
+        "end": 883.88,
+        "text": " And there was a place where people in the medieval age went to commit suicide."
+    },
+    {
+        "start": 884.88,
+        "end": 896.88,
+        "text": " If it wasn't suicide, I think that she did it on a very, very curious way in a place that it's impossible to understand how she could find if she wasn't very well-known in Bergen."
+    },
+    {
+        "start": 896.88,
+        "end": 902.88,
+        "text": " That's why I think she must have had an appointment with someone who was locally known."
+    },
+    {
+        "start": 902.88,
+        "end": 910.88,
+        "text": " Because if I would have a secret appointment with someone, I could suggest that we meet in that valley,"
+    },
+    {
+        "start": 910.88,
+        "end": 914.88,
+        "text": " because in November it was not many people going there."
+    },
+    {
+        "start": 920.88,
+        "end": 928.88,
+        "text": " So according to his theory, this woman, whoever she was, must have known somebody and met them up here in the valley or been taken here."
+    },
+    {
+        "start": 928.88,
+        "end": 932.88,
+        "text": " Gonna obviously believes her death, whatever it was, wasn't a suicide."
+    },
+    {
+        "start": 932.88,
+        "end": 937.88,
+        "text": " Keep that in mind, there are plenty more theories about this still to come."
+    },
+    {
+        "start": 941.88,
+        "end": 944.88,
+        "text": " Paul, does it start to look familiar?"
+    },
+    {
+        "start": 944.88,
+        "end": 949.88,
+        "text": " Yes, I know, I've been here before."
+    },
+    {
+        "start": 957.88,
+        "end": 960.88,
+        "text": " But it is a long time since."
+    },
+    {
+        "start": 960.88,
+        "end": 964.88,
+        "text": " It's like a collection of bolders here."
+    },
+    {
+        "start": 964.88,
+        "end": 972.88,
+        "text": " Paul jumbled up and it's almost like they rolled down from the mountain and they covered in moss at most of them."
+    },
+    {
+        "start": 972.88,
+        "end": 974.88,
+        "text": " Wishing him amongst the rocks."
+    },
+    {
+        "start": 974.88,
+        "end": 983.88,
+        "text": " She was laying with her head down there and her legs up here."
+    },
+    {
+        "start": 984.88,
+        "end": 1000.88,
+        "text": " It was burned in all the front and it was some burned wood from earlier fire place."
+    },
+    {
+        "start": 1000.88,
+        "end": 1006.88,
+        "text": " And it smells a little burnt flesh."
+    },
+    {
+        "start": 1007.88,
+        "end": 1012.88,
+        "text": " It felt it when we were right here."
+    },
+    {
+        "start": 1012.88,
+        "end": 1017.88,
+        "text": " It felt like we were here."
+    },
+    {
+        "start": 1022.88,
+        "end": 1029.88,
+        "text": " Now, Karl Halver-Oz, our only living police witness, says there were remnants of a small fire."
+    },
+    {
+        "start": 1030.88,
+        "end": 1035.88,
+        "text": " But I've read all the police reports from the scene and there's no mention of a fire."
+    },
+    {
+        "start": 1035.88,
+        "end": 1040.88,
+        "text": " On the contrary, the reports specifically say there was no fire place."
+    },
+    {
+        "start": 1040.88,
+        "end": 1043.88,
+        "text": " It was the woman herself that was on fire."
+    },
+    {
+        "start": 1043.88,
+        "end": 1048.88,
+        "text": " And do we know anything about how long she'd been up in the valley or the time of death?"
+    },
+    {
+        "start": 1048.88,
+        "end": 1052.88,
+        "text": " No, we don't know how long she was there before she died."
+    },
+    {
+        "start": 1052.88,
+        "end": 1056.88,
+        "text": " We don't know how long she had been dead before her body was found."
+    },
+    {
+        "start": 1056.88,
+        "end": 1059.88,
+        "text": " Actually, that's some of many unanswered questions."
+    },
+    {
+        "start": 1059.88,
+        "end": 1065.88,
+        "text": " Because in the CSI dramas, they always seem to be able to tell how long the body's been lifeless."
+    },
+    {
+        "start": 1065.88,
+        "end": 1068.88,
+        "text": " Deaths, unfortunately, only in the movies."
+    },
+    {
+        "start": 1068.88,
+        "end": 1072.88,
+        "text": " According to forensic pathologist Ab's spoken to, they can't."
+    },
+    {
+        "start": 1075.88,
+        "end": 1078.88,
+        "text": " It was burned all in front."
+    },
+    {
+        "start": 1078.88,
+        "end": 1082.88,
+        "text": " And she was laying like that as far as I remember with her arms like that."
+    },
+    {
+        "start": 1082.88,
+        "end": 1087.88,
+        "text": " It's called a box-a-grip, I think, in police or it was called at that time."
+    },
+    {
+        "start": 1087.88,
+        "end": 1094.88,
+        "text": " It means the person having their arms crossed in front of him or her in this case."
+    },
+    {
+        "start": 1094.88,
+        "end": 1100.88,
+        "text": " And I was told it's a thing that happens by people who are severe burned."
+    },
+    {
+        "start": 1100.88,
+        "end": 1106.88,
+        "text": " That the skin contracts and the arms crossing and going up."
+    },
+    {
+        "start": 1106.88,
+        "end": 1119.88,
+        "text": " We thought perhaps she had been sitting over a fire and burned her and she had thrown herself back."
+    },
+    {
+        "start": 1119.88,
+        "end": 1122.88,
+        "text": " And like that. But we don't know."
+    },
+    {
+        "start": 1122.88,
+        "end": 1124.88,
+        "text": " More like an accident?"
+    },
+    {
+        "start": 1124.88,
+        "end": 1126.88,
+        "text": " No, not an accident."
+    },
+    {
+        "start": 1126.88,
+        "end": 1129.88,
+        "text": " Well, perhaps nobody knows."
+    },
+    {
+        "start": 1129.88,
+        "end": 1139.88,
+        "text": " Nearly 50 years later and still nobody knows if it's an accident."
+    },
+    {
+        "start": 1139.88,
+        "end": 1147.88,
+        "text": " That's right. Look, these are the photos of the crime scene taken by the police photographer."
+    },
+    {
+        "start": 1147.88,
+        "end": 1151.88,
+        "text": " The body is in between the boulders, just as Karl Halvor described."
+    },
+    {
+        "start": 1151.88,
+        "end": 1157.88,
+        "text": " The body itself is in a very burnt state down to the sort of sinew and tendon"
+    },
+    {
+        "start": 1157.88,
+        "end": 1160.88,
+        "text": " that's gone through the skin and all the clothes have gone."
+    },
+    {
+        "start": 1160.88,
+        "end": 1163.88,
+        "text": " It must have been a horrifically painful way to die."
+    },
+    {
+        "start": 1163.88,
+        "end": 1169.88,
+        "text": " And you can see there's a team of about 506 forensic investigators here amongst the trees."
+    },
+    {
+        "start": 1169.88,
+        "end": 1173.88,
+        "text": " What does the crime scene report from the police say?"
+    },
+    {
+        "start": 1173.88,
+        "end": 1182.88,
+        "text": " It tells us she was a young woman, height 164 centimeters, slim with broad hips, well-built."
+    },
+    {
+        "start": 1182.88,
+        "end": 1188.88,
+        "text": " Color of hair is brownish, black. She has a small round face, brown eyes and small ears."
+    },
+    {
+        "start": 1188.88,
+        "end": 1194.88,
+        "text": " So she doesn't have the stereotypically Scandinavian blue eyes and fair hair?"
+    },
+    {
+        "start": 1194.88,
+        "end": 1200.88,
+        "text": " No, she doesn't. It also talks about different objects led out around her."
+    },
+    {
+        "start": 1200.88,
+        "end": 1211.88,
+        "text": " There was two bottle, small bottles with something water perhaps and some piece of clothes."
+    },
+    {
+        "start": 1211.88,
+        "end": 1221.88,
+        "text": " And one rubber boot, not on her, besides her. One of those were burned."
+    },
+    {
+        "start": 1221.88,
+        "end": 1226.88,
+        "text": " That rubber boot is going to be a key piece of evidence, so keep that in mind."
+    },
+    {
+        "start": 1226.88,
+        "end": 1232.88,
+        "text": " Also laid out was a watch with a hands showing 10 minutes past 10."
+    },
+    {
+        "start": 1232.88,
+        "end": 1238.88,
+        "text": " That's the time that watches are usually set to in the shop window, you know, before they are sold."
+    },
+    {
+        "start": 1238.88,
+        "end": 1241.88,
+        "text": " So was the watch never used?"
+    },
+    {
+        "start": 1241.88,
+        "end": 1247.88,
+        "text": " Yeah, there was a picture here of the watch amongst all the different photos."
+    },
+    {
+        "start": 1247.88,
+        "end": 1251.88,
+        "text": " And some quite beautiful jewelry here, some earrings and a ring."
+    },
+    {
+        "start": 1251.88,
+        "end": 1256.88,
+        "text": " And also found you can see here some plastic bottles."
+    },
+    {
+        "start": 1256.88,
+        "end": 1262.88,
+        "text": " The interesting, most interesting thing about these bottles was the content was water."
+    },
+    {
+        "start": 1262.88,
+        "end": 1266.88,
+        "text": " They've got signs of being partially melted. One is almost entirely melted."
+    },
+    {
+        "start": 1266.88,
+        "end": 1269.88,
+        "text": " So they had water and not fuel interestingly."
+    },
+    {
+        "start": 1269.88,
+        "end": 1278.88,
+        "text": " Not fuel. So besides these things, they found a tiny ring, probably used to hold a passport photo in place."
+    },
+    {
+        "start": 1278.88,
+        "end": 1282.88,
+        "text": " Besides the ring was some burnt pieces of paper."
+    },
+    {
+        "start": 1282.88,
+        "end": 1288.88,
+        "text": " So we can imagine maybe she burnt the passport up there or somebody did."
+    },
+    {
+        "start": 1288.88,
+        "end": 1304.88,
+        "text": " But the most significant and interesting thing on this scene was actually that all the labels on the clothes and on the items had been cut off her clothes and rubbed off the bottles. Isn't that interesting?"
+    },
+    {
+        "start": 1304.88,
+        "end": 1312.88,
+        "text": " Well, that sort of confirms the passport theory, somehow she is trying to just sort of scratch away her existence, her identity."
+    },
+    {
+        "start": 1312.88,
+        "end": 1314.88,
+        "text": " Or somebody else did."
+    },
+    {
+        "start": 1314.88,
+        "end": 1326.88,
+        "text": " I remember we wondered if somebody wanted to use suicide."
+    },
+    {
+        "start": 1326.88,
+        "end": 1334.88,
+        "text": " Why on earth climb up here and make a fire?"
+    },
+    {
+        "start": 1334.88,
+        "end": 1339.88,
+        "text": " That doesn't make sense."
+    },
+    {
+        "start": 1339.88,
+        "end": 1346.88,
+        "text": " And if somebody wanted to kill her, why took her up here?"
+    },
+    {
+        "start": 1346.88,
+        "end": 1352.88,
+        "text": " I guess she had been forced to walk up here."
+    },
+    {
+        "start": 1352.88,
+        "end": 1357.88,
+        "text": " There was a lot of questions but not no answers."
+    },
+    {
+        "start": 1360.88,
+        "end": 1363.88,
+        "text": " But you've seen many crime scenes before."
+    },
+    {
+        "start": 1363.88,
+        "end": 1365.88,
+        "text": " Not like this."
+    },
+    {
+        "start": 1365.88,
+        "end": 1367.88,
+        "text": " No."
+    },
+    {
+        "start": 1368.88,
+        "end": 1377.88,
+        "text": " It came into my mind from time to time and I wonder what on earth happened that day."
+    },
+    {
+        "start": 1377.88,
+        "end": 1382.88,
+        "text": " So I don't think I will forget it."
+    },
+    {
+        "start": 1382.88,
+        "end": 1387.88,
+        "text": " No. Not before I get answer."
+    },
+    {
+        "start": 1390.88,
+        "end": 1395.88,
+        "text": " Would you like a solution on this mystery case?"
+    },
+    {
+        "start": 1395.88,
+        "end": 1400.88,
+        "text": " Yes. But I don't do nothing, I will have any solution."
+    },
+    {
+        "start": 1400.88,
+        "end": 1402.88,
+        "text": " No."
+    },
+    {
+        "start": 1402.88,
+        "end": 1405.88,
+        "text": " I'm not optimistic."
+    },
+    {
+        "start": 1425.88,
+        "end": 1430.88,
+        "text": " I'm not optimistic."
+    },
+    {
+        "start": 1430.88,
+        "end": 1435.88,
+        "text": " I'm not optimistic."
+    },
+    {
+        "start": 1435.88,
+        "end": 1440.88,
+        "text": " I'm not optimistic."
+    },
+    {
+        "start": 1440.88,
+        "end": 1445.88,
+        "text": " I'm not optimistic."
+    },
+    {
+        "start": 1445.88,
+        "end": 1450.88,
+        "text": " I'm not optimistic."
+    },
+    {
+        "start": 1451.88,
+        "end": 1460.88,
+        "text": " So we're in a chilly Oslo."
+    },
+    {
+        "start": 1460.88,
+        "end": 1463.88,
+        "text": " The sun is quite low in the sky."
+    },
+    {
+        "start": 1463.88,
+        "end": 1466.88,
+        "text": " You can see it through the clouds."
+    },
+    {
+        "start": 1466.88,
+        "end": 1469.88,
+        "text": " It's early afternoon outside of Erie."
+    },
+    {
+        "start": 1469.88,
+        "end": 1476.88,
+        "text": " Fortified looking building with the word Kripos or the letters K-R-I-P-O-S on the side."
+    },
+    {
+        "start": 1476.88,
+        "end": 1488.88,
+        "text": " Well, we are in an industrial area in the north-eastern part of Oslo and Kripos means the national or the Norwegian criminal investigation service."
+    },
+    {
+        "start": 1488.88,
+        "end": 1495.88,
+        "text": " So this is their main building and we're going here to meet some of our partners."
+    },
+    {
+        "start": 1495.88,
+        "end": 1498.88,
+        "text": " So this brings the case up to present day."
+    },
+    {
+        "start": 1498.88,
+        "end": 1505.88,
+        "text": " These are the current some-saving or some recently retired officers who've taken another look at the cold case of the I-Star woman."
+    },
+    {
+        "start": 1505.88,
+        "end": 1512.88,
+        "text": " Yes, actually it all began here with they have a unit for identification and it's the leader of that unit."
+    },
+    {
+        "start": 1512.88,
+        "end": 1521.88,
+        "text": " He was the one I spoke to first in the very beginning of this investigation to ask how can we do this?"
+    },
+    {
+        "start": 1521.88,
+        "end": 1525.88,
+        "text": " What can we do with an old case like this?"
+    },
+    {
+        "start": 1525.88,
+        "end": 1530.88,
+        "text": " There are experts on it so let's go in and ask them our questions."
+    },
+    {
+        "start": 1535.88,
+        "end": 1537.88,
+        "text": " I'll be right back."
+    },
+    {
+        "start": 1537.88,
+        "end": 1539.88,
+        "text": " Hi, this is the guy who's going to be here."
+    },
+    {
+        "start": 1539.88,
+        "end": 1540.88,
+        "text": " Yeah?"
+    },
+    {
+        "start": 1540.88,
+        "end": 1547.88,
+        "text": " Pierre Angel recently retired as head of the Norwegian police's identification team at Kripos."
+    },
+    {
+        "start": 1547.88,
+        "end": 1554.88,
+        "text": " He and his colleagues traveled the world, especially after disasters, trying to identify dead bodies."
+    },
+    {
+        "start": 1554.88,
+        "end": 1563.88,
+        "text": " They were in Thailand after the tsunami in 2004 when thousands of people were washed away and searched for by their loved ones."
+    },
+    {
+        "start": 1563.88,
+        "end": 1573.88,
+        "text": " They also did the grim work identifying the bodies of so many young people after the terrible massacre in Norway in 2011."
+    },
+    {
+        "start": 1573.88,
+        "end": 1578.88,
+        "text": " DNA, our individual genetic code is a vital tool in their toolbox."
+    },
+    {
+        "start": 1578.88,
+        "end": 1587.88,
+        "text": " It wasn't used in criminal investigations until the mid-1980s so it was no use when the I-Star woman was found in 1970."
+    },
+    {
+        "start": 1587.88,
+        "end": 1589.88,
+        "text": " But it is now."
+    },
+    {
+        "start": 1589.88,
+        "end": 1596.88,
+        "text": " Yes, it's not longer a criminal-active case, but it's still an unsolved identification case."
+    },
+    {
+        "start": 1596.88,
+        "end": 1599.88,
+        "text": " This was like you say. It was a sleeping case."
+    },
+    {
+        "start": 1599.88,
+        "end": 1601.88,
+        "text": " Then we spoke together."
+    },
+    {
+        "start": 1601.88,
+        "end": 1607.88,
+        "text": " And what made you and the police to reopen this 47-year-old case?"
+    },
+    {
+        "start": 1607.88,
+        "end": 1612.88,
+        "text": " Well, it's always interesting for us to look at cases with new eyes."
+    },
+    {
+        "start": 1612.88,
+        "end": 1614.88,
+        "text": " Norway should be easy to identify."
+    },
+    {
+        "start": 1614.88,
+        "end": 1618.88,
+        "text": " But the main thing is that somebody has to report missing."
+    },
+    {
+        "start": 1618.88,
+        "end": 1621.88,
+        "text": " We have to do something to compare with."
+    },
+    {
+        "start": 1621.88,
+        "end": 1625.88,
+        "text": " And so far in this case we haven't found that information."
+    },
+    {
+        "start": 1625.88,
+        "end": 1632.88,
+        "text": " So we really hope that the focus that NRK and BBC are putting into this case."
+    },
+    {
+        "start": 1632.88,
+        "end": 1634.88,
+        "text": " Absolutely, I hope for identification."
+    },
+    {
+        "start": 1634.88,
+        "end": 1641.88,
+        "text": " Some persons in the world or Europe think maybe this could be my out or some kind of family relation."
+    },
+    {
+        "start": 1642.88,
+        "end": 1644.88,
+        "text": " How do you go about the next day?"
+    },
+    {
+        "start": 1644.88,
+        "end": 1647.88,
+        "text": " Actually, we are fishing in the big sea."
+    },
+    {
+        "start": 1647.88,
+        "end": 1652.88,
+        "text": " But the media's interest in this case could actually help us a lot."
+    },
+    {
+        "start": 1652.88,
+        "end": 1657.88,
+        "text": " Because we need to build up the interest for the case in some areas."
+    },
+    {
+        "start": 1657.88,
+        "end": 1668.88,
+        "text": " And maybe some persons are going to report that girl, lady, missing again with the new information that we could have today."
+    },
+    {
+        "start": 1668.88,
+        "end": 1670.88,
+        "text": " And that is DNA, first of all."
+    },
+    {
+        "start": 1670.88,
+        "end": 1677.88,
+        "text": " If we have some kind of breakthrough through family DNA, the DNA profile should be some kind of family relation."
+    },
+    {
+        "start": 1677.88,
+        "end": 1681.88,
+        "text": " So then we have to figure out, is it the correct connection here?"
+    },
+    {
+        "start": 1681.88,
+        "end": 1683.88,
+        "text": " We all have someone."
+    },
+    {
+        "start": 1683.88,
+        "end": 1687.88,
+        "text": " We have friends, we have relatives, we have an aunt, a neighbor."
+    },
+    {
+        "start": 1687.88,
+        "end": 1694.88,
+        "text": " Somebody is or was missing her or knew that she was gone."
+    },
+    {
+        "start": 1694.88,
+        "end": 1703.88,
+        "text": " So it's all about reaching out there with the correct information about this woman to see somebody who knows,"
+    },
+    {
+        "start": 1703.88,
+        "end": 1708.88,
+        "text": " oh, there were a woman here around 1970 didn't see her after that."
+    },
+    {
+        "start": 1712.88,
+        "end": 1715.88,
+        "text": " Now let's get back to 1970."
+    },
+    {
+        "start": 1715.88,
+        "end": 1719.88,
+        "text": " The police have an unidentified female body on a mountainside."
+    },
+    {
+        "start": 1719.88,
+        "end": 1722.88,
+        "text": " So presumably they send her for an autopsy."
+    },
+    {
+        "start": 1722.88,
+        "end": 1728.88,
+        "text": " Yes, to the Gardes Institute at the University Hospital in Bergen to determine course of death."
+    },
+    {
+        "start": 1728.88,
+        "end": 1732.88,
+        "text": " Did the police keep her secrets, keep a lid on this thing?"
+    },
+    {
+        "start": 1732.88,
+        "end": 1734.88,
+        "text": " Or did they put out an appeal to the public?"
+    },
+    {
+        "start": 1734.88,
+        "end": 1744.88,
+        "text": " Because they had no obvious leads on who she was, they quickly got the media to report the discovery of the easter woman as the newspapers called her."
+    },
+    {
+        "start": 1744.88,
+        "end": 1746.88,
+        "text": " Can we have a look at some of those first reports?"
+    },
+    {
+        "start": 1746.88,
+        "end": 1751.88,
+        "text": " Yes, this is the, on the first day after the finding of the dead body."
+    },
+    {
+        "start": 1751.88,
+        "end": 1757.88,
+        "text": " You see here this is the biggest local newspaper in Bergen, Bergen's Tidna."
+    },
+    {
+        "start": 1757.88,
+        "end": 1762.88,
+        "text": " And you see a small article down here, young girl found that in Eastown."
+    },
+    {
+        "start": 1762.88,
+        "end": 1764.88,
+        "text": " Young girl."
+    },
+    {
+        "start": 1764.88,
+        "end": 1767.88,
+        "text": " So there's no idea of age at this stage."
+    },
+    {
+        "start": 1767.88,
+        "end": 1773.88,
+        "text": " Not that this, you know, these are the first newspaper articles about the body being found in Eastown."
+    },
+    {
+        "start": 1773.88,
+        "end": 1779.88,
+        "text": " The next day it says, who is the young dead girl in Eastown?"
+    },
+    {
+        "start": 1779.88,
+        "end": 1784.88,
+        "text": " And then there's a picture of a grainy picture of the valley and an arrow where she was found."
+    },
+    {
+        "start": 1784.88,
+        "end": 1787.88,
+        "text": " The woman was burned but no fire in Eastown."
+    },
+    {
+        "start": 1787.88,
+        "end": 1789.88,
+        "text": " No fire was found."
+    },
+    {
+        "start": 1789.88,
+        "end": 1793.88,
+        "text": " So this is going to start catching people's imagination pretty quickly, isn't it?"
+    },
+    {
+        "start": 1793.88,
+        "end": 1794.88,
+        "text": " Because it's already a mystery."
+    },
+    {
+        "start": 1794.88,
+        "end": 1800.88,
+        "text": " The journalist obviously got leaks from the police already here on the first couple of days."
+    },
+    {
+        "start": 1800.88,
+        "end": 1808.88,
+        "text": " This is one of the national newspapers in Oslo, Dogbla, saying on the 2nd of December that dead body in Bergen is a mystery."
+    },
+    {
+        "start": 1808.88,
+        "end": 1812.88,
+        "text": " And still, after 47 years, still a mystery."
+    },
+    {
+        "start": 1812.88,
+        "end": 1816.88,
+        "text": " Yeah, well, let's hope less of a mystery by the end of this podcast series."
+    },
+    {
+        "start": 1816.88,
+        "end": 1821.88,
+        "text": " What the police must have been trying to do is to track her movements backwards,"
+    },
+    {
+        "start": 1821.88,
+        "end": 1825.88,
+        "text": " as well as to try and find out who she was, because if they could find out where she'd been,"
+    },
+    {
+        "start": 1825.88,
+        "end": 1829.88,
+        "text": " then they could start to fill in who she might have been."
+    },
+    {
+        "start": 1829.88,
+        "end": 1836.88,
+        "text": " Yes, the first major breakthrough happened in Bergen railway station three days after her body was found."
+    },
+    {
+        "start": 1836.88,
+        "end": 1837.88,
+        "text": " What happened there?"
+    },
+    {
+        "start": 1837.88,
+        "end": 1843.88,
+        "text": " The police found two suitcases containing lots of very curious clues."
+    },
+    {
+        "start": 1843.88,
+        "end": 1846.88,
+        "text": " They had been left there by the Eastown woman."
+    },
+    {
+        "start": 1868.88,
+        "end": 1873.88,
+        "text": " The police found two suitcases containing lots of very curious clues."
+    },
+    {
+        "start": 1873.88,
+        "end": 1879.88,
+        "text": " The police found two suitcases containing lots of very curious clues."
+    },
+    {
+        "start": 1879.88,
+        "end": 1885.88,
+        "text": " The police found two suitcases containing lots of very curious clues."
+    },
+    {
+        "start": 1885.88,
+        "end": 1891.88,
+        "text": " The police found two suitcases containing lots of very curious clues."
+    },
+    {
+        "start": 1891.88,
+        "end": 1897.88,
+        "text": " The police found two suitcases containing lots of very curious clues."
+    },
+    {
+        "start": 1897.88,
+        "end": 1902.88,
+        "text": " The police found two suitcases containing lots of very curious clues."
+    },
+    {
+        "start": 1902.88,
+        "end": 1905.88,
+        "text": " Next time, in death, in ice valley."
+    },
+    {
+        "start": 1905.88,
+        "end": 1908.88,
+        "text": " She was not talking very loud."
+    },
+    {
+        "start": 1908.88,
+        "end": 1913.88,
+        "text": " She had a silent voice, but I didn't feel she was shy."
+    },
+    {
+        "start": 1913.88,
+        "end": 1919.88,
+        "text": " I just felt she has an agenda and she doesn't want to talk about it to anybody."
+    },
+    {
+        "start": 1922.88,
+        "end": 1933.88,
+        "text": " Episode 2 of Death in Ice Valley will be released next Monday."
+    },
+    {
+        "start": 1933.88,
+        "end": 1938.88,
+        "text": " We're still making these podcasts and we'll react when we find any new developments in the story."
+    },
+    {
+        "start": 1938.88,
+        "end": 1946.88,
+        "text": " If you think you have any specific leads on this case, please email MaritonMe directly at deathinicefalleyatbbc.com."
+    },
+    {
+        "start": 1946.88,
+        "end": 1951.88,
+        "text": " That's deathinicefalleyatbbc.com."
+    },
+    {
+        "start": 1951.88,
+        "end": 1957.88,
+        "text": " If wherever you get your podcasts allows you to do this, please do rate the podcast and leave comments."
+    },
+    {
+        "start": 1957.88,
+        "end": 1960.88,
+        "text": " And we'd like to invite you to be part of our Deathinicefalley Facebook group."
+    },
+    {
+        "start": 1960.88,
+        "end": 1965.88,
+        "text": " Anyone can join and we'll be sharing as many photographs and documents as we can."
+    },
+    {
+        "start": 1965.88,
+        "end": 1968.88,
+        "text": " We'll be adding more after each episode."
+    },
+    {
+        "start": 1968.88,
+        "end": 1973.88,
+        "text": " Go to facebook.com slash groups slash deathinicefalley."
+    },
+    {
+        "start": 1973.88,
+        "end": 1977.88,
+        "text": " We're also putting documents, pictures and videos on our website."
+    },
+    {
+        "start": 1977.88,
+        "end": 1981.88,
+        "text": " That's bbcworldservice.com slash deathinicefalley."
+    },
+    {
+        "start": 1981.88,
+        "end": 1985.88,
+        "text": " Thanks for listening."
+    },
+    {
+        "start": 1985.88,
+        "end": 1992.88,
+        "text": " Deathinicefalley is an original podcast series made by the BBC World Service and NIK."
+    },
+    {
+        "start": 1992.88,
+        "end": 1996.88,
+        "text": " It's presented by Neil McCarthy and me, Maritugraff."
+    },
+    {
+        "start": 1996.88,
+        "end": 2000.88,
+        "text": " Sound Designed and Original Music is by Phil Channel."
+    },
+    {
+        "start": 2000.88,
+        "end": 2005.88,
+        "text": " Additional investigation by Stola Hansen and Aivindbyshilla from NIK."
+    },
+    {
+        "start": 2005.88,
+        "end": 2008.88,
+        "text": " The series editor is Philip Sellers."
+    },
+    {
+        "start": 2008.88,
+        "end": 2012.88,
+        "text": " The BBC World Service editor is John Manell."
+    },
+    {
+        "start": 2012.88,
+        "end": 2016.88,
+        "text": " The podcast is studio mix by Donald McDonald."
+    },
+    {
+        "start": 2016.88,
+        "end": 2021.88,
+        "text": " The producer of Deathinicefalley is Neil McCarthy."
+    },
+    {
+        "start": 2030.88,
+        "end": 2038.88,
+        "text": " So that was Deathinicefalley episode 1. What did you think, Rian?"
+    },
+    {
+        "start": 2038.88,
+        "end": 2043.88,
+        "text": " Well, these podcasts in Scandinavia are going to do a massive generalisation."
+    },
+    {
+        "start": 2043.88,
+        "end": 2045.88,
+        "text": " They are so popular."
+    },
+    {
+        "start": 2045.88,
+        "end": 2049.88,
+        "text": " I went to talk about them at some point last year or so."
+    },
+    {
+        "start": 2049.88,
+        "end": 2057.88,
+        "text": " There were photographs of the size of theatres that they fill out with people sitting there waiting to hear the first ep of a new podcast like this."
+    },
+    {
+        "start": 2057.88,
+        "end": 2060.88,
+        "text": " All their broadsheet newspapers will get behind it."
+    },
+    {
+        "start": 2060.88,
+        "end": 2062.88,
+        "text": " The subscriber numbers are massive."
+    },
+    {
+        "start": 2062.88,
+        "end": 2065.88,
+        "text": " So they'll do public sort of airings of..."
+    },
+    {
+        "start": 2065.88,
+        "end": 2068.88,
+        "text": " And people aren't sitting there looking at a screen. They're just looking at nothing."
+    },
+    {
+        "start": 2068.88,
+        "end": 2070.88,
+        "text": " They're listening."
+    },
+    {
+        "start": 2070.88,
+        "end": 2072.88,
+        "text": " Well, I don't know because you can't see the screen."
+    },
+    {
+        "start": 2072.88,
+        "end": 2074.88,
+        "text": " These were still photographs."
+    },
+    {
+        "start": 2074.88,
+        "end": 2076.88,
+        "text": " But it's a listening event."
+    },
+    {
+        "start": 2076.88,
+        "end": 2079.88,
+        "text": " And there are quite a few of them."
+    },
+    {
+        "start": 2079.88,
+        "end": 2080.88,
+        "text": " That's cool."
+    },
+    {
+        "start": 2080.88,
+        "end": 2083.88,
+        "text": " But when they make it big, they make it really big."
+    },
+    {
+        "start": 2083.88,
+        "end": 2086.88,
+        "text": " Well, I think this is a big one."
+    },
+    {
+        "start": 2086.88,
+        "end": 2092.88,
+        "text": " So if you want to hear the rest of this and find out what happens, find out what they uncover, search for it, and subscribe."
+    },
+    {
+        "start": 2092.88,
+        "end": 2093.88,
+        "text": " Deathinicefalley."
+    },
+    {
+        "start": 2093.88,
+        "end": 2097.88,
+        "text": " Using whatever service you're using to listen to this podcast right now."
+    },
+    {
+        "start": 2097.88,
+        "end": 2100.88,
+        "text": " That's all from us. See you next time."
+    }
+]

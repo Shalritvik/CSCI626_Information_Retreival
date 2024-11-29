@@ -1,0 +1,5197 @@
+[
+    {
+        "start": 0.0,
+        "end": 1.8,
+        "text": " Hey, there's cyber listeners, Matthew here."
+    },
+    {
+        "start": 1.8,
+        "end": 4.5200000000000005,
+        "text": " Just a quick show note at the beginning of the episode."
+    },
+    {
+        "start": 4.5200000000000005,
+        "end": 8.120000000000001,
+        "text": " We get into legislation around artificial intelligence"
+    },
+    {
+        "start": 8.120000000000001,
+        "end": 9.36,
+        "text": " in this episode."
+    },
+    {
+        "start": 9.36,
+        "end": 10.92,
+        "text": " It's a really great conversation."
+    },
+    {
+        "start": 10.92,
+        "end": 13.8,
+        "text": " Want to note that hours after we got done recording"
+    },
+    {
+        "start": 13.8,
+        "end": 16.36,
+        "text": " this call, the Federal Communications Commission"
+    },
+    {
+        "start": 16.36,
+        "end": 20.88,
+        "text": " declared that the use of AI generated voices in Robocalls"
+    },
+    {
+        "start": 20.88,
+        "end": 23.56,
+        "text": " is a scam and is illegal."
+    },
+    {
+        "start": 23.56,
+        "end": 25.240000000000002,
+        "text": " And the way they did this was pretty interesting"
+    },
+    {
+        "start": 25.240000000000002,
+        "end": 27.88,
+        "text": " because it was not like new laws."
+    },
+    {
+        "start": 27.88,
+        "end": 30.599999999999998,
+        "text": " It was using old laws to basically"
+    },
+    {
+        "start": 30.599999999999998,
+        "end": 34.68,
+        "text": " confirm that this new technology falls under the auspices"
+    },
+    {
+        "start": 34.68,
+        "end": 36.08,
+        "text": " of a scam."
+    },
+    {
+        "start": 36.08,
+        "end": 39.12,
+        "text": " It was essentially a ruling that used"
+    },
+    {
+        "start": 39.12,
+        "end": 41.08,
+        "text": " the Telephone Consumer Protection Act, which"
+    },
+    {
+        "start": 41.08,
+        "end": 48.44,
+        "text": " is from 1991 to say that generating a fake voice"
+    },
+    {
+        "start": 48.44,
+        "end": 51.28,
+        "text": " and calling someone and trying to get them to do something"
+    },
+    {
+        "start": 51.28,
+        "end": 52.68,
+        "text": " is a scam."
+    },
+    {
+        "start": 52.68,
+        "end": 55.0,
+        "text": " As we talk about in this episode, this happened"
+    },
+    {
+        "start": 55.0,
+        "end": 58.12,
+        "text": " because before the New Hampshire primary voters were"
+    },
+    {
+        "start": 58.12,
+        "end": 60.12,
+        "text": " getting calls from an AI-generated Biden"
+    },
+    {
+        "start": 60.12,
+        "end": 61.92,
+        "text": " who was telling them not to vote."
+    },
+    {
+        "start": 61.92,
+        "end": 65.64,
+        "text": " So again, this happened literally hours after we got done"
+    },
+    {
+        "start": 65.64,
+        "end": 67.56,
+        "text": " having this conversation."
+    },
+    {
+        "start": 67.56,
+        "end": 70.32,
+        "text": " And that is why it is not mentioned in this episode."
+    },
+    {
+        "start": 70.32,
+        "end": 77.32,
+        "text": " It's a human system."
+    },
+    {
+        "start": 77.32,
+        "end": 81.32,
+        "text": " I know this."
+    },
+    {
+        "start": 81.32,
+        "end": 84.32,
+        "text": " It's the whole files of the park."
+    },
+    {
+        "start": 84.32,
+        "end": 86.32,
+        "text": " It tells everything."
+    },
+    {
+        "start": 86.32,
+        "end": 89.32,
+        "text": " Sir, he's uploading the virus."
+    },
+    {
+        "start": 89.32,
+        "end": 90.32,
+        "text": " He's got one."
+    },
+    {
+        "start": 90.32,
+        "end": 94.32,
+        "text": " The package is being deleted."
+    },
+    {
+        "start": 94.32,
+        "end": 105.0,
+        "text": " It's weird with the Mjannis K. and you'll introduce yourselves."
+    },
+    {
+        "start": 105.0,
+        "end": 107.32,
+        "text": " Jannis, are you starting?"
+    },
+    {
+        "start": 107.32,
+        "end": 108.91999999999999,
+        "text": " Hi, I'm Mjannis Rose."
+    },
+    {
+        "start": 108.91999999999999,
+        "end": 115.47999999999999,
+        "text": " I am a senior editor at Motherboard where I cover AI and other topics."
+    },
+    {
+        "start": 115.47999999999999,
+        "end": 116.47999999999999,
+        "text": " I'm Leah Holland."
+    },
+    {
+        "start": 116.47999999999999,
+        "end": 118.8,
+        "text": " I use their sheep pronouns and I'm the campaigns and comms"
+    },
+    {
+        "start": 118.8,
+        "end": 120.63999999999999,
+        "text": " director, additional rights organization"
+    },
+    {
+        "start": 120.63999999999999,
+        "end": 122.63999999999999,
+        "text": " fight for the future."
+    },
+    {
+        "start": 122.64,
+        "end": 125.48,
+        "text": " And can you tell me a little bit about what fight for the future"
+    },
+    {
+        "start": 125.48,
+        "end": 128.48,
+        "text": " does and what you all are working on?"
+    },
+    {
+        "start": 128.48,
+        "end": 131.84,
+        "text": " Yeah, so fight for the future is a queer women"
+    },
+    {
+        "start": 131.84,
+        "end": 135.0,
+        "text": " led national digital rights nonprofit that really"
+    },
+    {
+        "start": 135.0,
+        "end": 140.08,
+        "text": " focuses on issues of surveillance and privacy and censorship."
+    },
+    {
+        "start": 140.08,
+        "end": 144.96,
+        "text": " We like to be the grassroots voice of the users of technology"
+    },
+    {
+        "start": 144.96,
+        "end": 149.32,
+        "text": " and speak up for their interests when corporations or legislators"
+    },
+    {
+        "start": 149.32,
+        "end": 153.44,
+        "text": " are making bad decisions on behalf of the masses online."
+    },
+    {
+        "start": 153.44,
+        "end": 157.32,
+        "text": " So Janice, you've been talking about doing kind of an AI"
+    },
+    {
+        "start": 157.32,
+        "end": 161.95999999999998,
+        "text": " episode with this specific bent for a while."
+    },
+    {
+        "start": 161.95999999999998,
+        "end": 163.51999999999998,
+        "text": " And then we had a new story."
+    },
+    {
+        "start": 163.51999999999998,
+        "end": 165.32,
+        "text": " There was a pretty great news peg for it."
+    },
+    {
+        "start": 165.32,
+        "end": 167.0,
+        "text": " I mean, it's a horrible story, but it's a good news"
+    },
+    {
+        "start": 167.0,
+        "end": 168.76,
+        "text": " peg for what we're going to be talking about."
+    },
+    {
+        "start": 168.76,
+        "end": 171.24,
+        "text": " I wanted you to kind of run us through that first."
+    },
+    {
+        "start": 171.24,
+        "end": 172.79999999999998,
+        "text": " It's kind of like table setting."
+    },
+    {
+        "start": 172.79999999999998,
+        "end": 175.32,
+        "text": " Yeah, so I think it was last week."
+    },
+    {
+        "start": 175.32,
+        "end": 178.64,
+        "text": " There was this big story about Taylor Swift"
+    },
+    {
+        "start": 178.64,
+        "end": 181.27999999999997,
+        "text": " as a lot of big stories tend to be these days."
+    },
+    {
+        "start": 181.27999999999997,
+        "end": 185.51999999999998,
+        "text": " And essentially, there was this website that started"
+    },
+    {
+        "start": 185.51999999999998,
+        "end": 189.92,
+        "text": " producing deep fake AI nodes of Taylor Swift."
+    },
+    {
+        "start": 189.92,
+        "end": 194.6,
+        "text": " And they started, of course, spreading on social media,"
+    },
+    {
+        "start": 194.6,
+        "end": 198.35999999999999,
+        "text": " including on Twitter, which is now called X because Elon"
+    },
+    {
+        "start": 198.35999999999999,
+        "end": 201.95999999999998,
+        "text": " Musk is an edge lord and Facebook and Instagram"
+    },
+    {
+        "start": 201.95999999999998,
+        "end": 203.92,
+        "text": " and other places and Reddit."
+    },
+    {
+        "start": 203.92,
+        "end": 207.95999999999998,
+        "text": " And basically, this was entirely a thing that"
+    },
+    {
+        "start": 207.96,
+        "end": 210.20000000000002,
+        "text": " was entirely predictable to pretty much anyone"
+    },
+    {
+        "start": 210.20000000000002,
+        "end": 212.68,
+        "text": " who has been paying attention to the space."
+    },
+    {
+        "start": 212.68,
+        "end": 215.84,
+        "text": " These are AI models that are able to generate images."
+    },
+    {
+        "start": 215.84,
+        "end": 218.76000000000002,
+        "text": " And they've been getting increasingly sophisticated,"
+    },
+    {
+        "start": 218.76000000000002,
+        "end": 220.4,
+        "text": " increasingly powerful."
+    },
+    {
+        "start": 220.4,
+        "end": 223.28,
+        "text": " We've been covering them for quite a while at Motherboard"
+    },
+    {
+        "start": 223.28,
+        "end": 226.36,
+        "text": " since the days when they released Dali, which"
+    },
+    {
+        "start": 226.36,
+        "end": 231.16,
+        "text": " is opening eyes sort of first foray into these kinds"
+    },
+    {
+        "start": 231.16,
+        "end": 233.60000000000002,
+        "text": " of like generative AI things."
+    },
+    {
+        "start": 233.6,
+        "end": 238.07999999999998,
+        "text": " Yeah, it kind of ended up in this kind of big headline way"
+    },
+    {
+        "start": 238.07999999999998,
+        "end": 242.04,
+        "text": " where here's a famous woman who is essentially"
+    },
+    {
+        "start": 242.04,
+        "end": 247.04,
+        "text": " being humiliated on a massive international scale"
+    },
+    {
+        "start": 247.04,
+        "end": 249.35999999999999,
+        "text": " by this technology that is created"
+    },
+    {
+        "start": 249.35999999999999,
+        "end": 253.84,
+        "text": " by large tech corporations that are for the most part"
+    },
+    {
+        "start": 253.84,
+        "end": 258.04,
+        "text": " completely unregulated from producing these tools."
+    },
+    {
+        "start": 258.04,
+        "end": 261.0,
+        "text": " And this is a thing that usually, as you said,"
+    },
+    {
+        "start": 261.0,
+        "end": 262.48,
+        "text": " we've been covering this for a long time."
+    },
+    {
+        "start": 262.48,
+        "end": 264.6,
+        "text": " This has been going on for a while years."
+    },
+    {
+        "start": 264.6,
+        "end": 267.36,
+        "text": " And it seems to me that the big part of the new story"
+    },
+    {
+        "start": 267.36,
+        "end": 270.96000000000004,
+        "text": " this time was that it kind of breached containment."
+    },
+    {
+        "start": 270.96000000000004,
+        "end": 275.52000000000004,
+        "text": " It went from discord groups where it's being shared privately."
+    },
+    {
+        "start": 275.52000000000004,
+        "end": 276.56,
+        "text": " She doesn't make it right."
+    },
+    {
+        "start": 276.56,
+        "end": 278.92,
+        "text": " I'm just saying that that's kind of where these things kind"
+    },
+    {
+        "start": 278.92,
+        "end": 281.12,
+        "text": " of percolate and have been on forchan"
+    },
+    {
+        "start": 281.12,
+        "end": 283.92,
+        "text": " and then made it into more mainstream sources."
+    },
+    {
+        "start": 283.92,
+        "end": 286.72,
+        "text": " Do we have any idea like how or why that happened?"
+    },
+    {
+        "start": 286.72,
+        "end": 289.8,
+        "text": " Why did this start getting circulated on Twitter,"
+    },
+    {
+        "start": 289.8,
+        "end": 291.24,
+        "text": " all of a sudden?"
+    },
+    {
+        "start": 291.24,
+        "end": 293.40000000000003,
+        "text": " Yeah, well, I mean, there's been a couple of events"
+    },
+    {
+        "start": 293.40000000000003,
+        "end": 296.6,
+        "text": " leading up to this that have been kind of testing the waters"
+    },
+    {
+        "start": 296.6,
+        "end": 299.96000000000004,
+        "text": " in, so to speak, and like there were a couple of incidents"
+    },
+    {
+        "start": 299.96000000000004,
+        "end": 303.04,
+        "text": " that were, you know, cited in some of this legislation"
+    },
+    {
+        "start": 303.04,
+        "end": 306.36,
+        "text": " that we're gonna talk about that involved, for example,"
+    },
+    {
+        "start": 306.36,
+        "end": 311.36,
+        "text": " people making fake songs that were that essentially used"
+    },
+    {
+        "start": 312.08,
+        "end": 316.2,
+        "text": " like a large cache of audio of the singing voices"
+    },
+    {
+        "start": 316.2,
+        "end": 318.44,
+        "text": " of people like Drake and the Weekend"
+    },
+    {
+        "start": 318.44,
+        "end": 321.84,
+        "text": " in order to produce new songs that sounded like"
+    },
+    {
+        "start": 321.84,
+        "end": 324.2,
+        "text": " they were being sung by those artists."
+    },
+    {
+        "start": 324.2,
+        "end": 326.71999999999997,
+        "text": " And that was like one thing that happened."
+    },
+    {
+        "start": 326.71999999999997,
+        "end": 329.08,
+        "text": " That was I think a couple of months ago."
+    },
+    {
+        "start": 329.08,
+        "end": 331.12,
+        "text": " And then, you know, there was of course"
+    },
+    {
+        "start": 331.12,
+        "end": 335.88,
+        "text": " that viral George Carlin stand up routine that was awful,"
+    },
+    {
+        "start": 335.88,
+        "end": 339.48,
+        "text": " which we wrote about where the George Carlin's family"
+    },
+    {
+        "start": 339.48,
+        "end": 343.32,
+        "text": " is actually suing the tech podcast,"
+    },
+    {
+        "start": 343.32,
+        "end": 347.04,
+        "text": " which is like sponsored by an AI company"
+    },
+    {
+        "start": 347.04,
+        "end": 350.24,
+        "text": " that is completely anonymous, which is really weird and shady."
+    },
+    {
+        "start": 350.24,
+        "end": 352.8,
+        "text": " And they won't, the comedians have signed NDAs"
+    },
+    {
+        "start": 352.8,
+        "end": 355.28000000000003,
+        "text": " and won't disclose the exact nature of their relationship"
+    },
+    {
+        "start": 355.28000000000003,
+        "end": 357.16,
+        "text": " or who's behind the AI."
+    },
+    {
+        "start": 357.16,
+        "end": 360.0,
+        "text": " Also fun follow up after the lawsuit dropped."
+    },
+    {
+        "start": 360.0,
+        "end": 362.6,
+        "text": " One of the guys copped to writing the whole thing."
+    },
+    {
+        "start": 364.44,
+        "end": 366.24,
+        "text": " Yeah, really fun."
+    },
+    {
+        "start": 366.24,
+        "end": 369.72,
+        "text": " Which is like another, like put a pin in that."
+    },
+    {
+        "start": 369.72,
+        "end": 370.92,
+        "text": " It will come back to that."
+    },
+    {
+        "start": 370.92,
+        "end": 372.92,
+        "text": " I don't know if that's gonna really save you."
+    },
+    {
+        "start": 372.92,
+        "end": 373.76,
+        "text": " Like, just not."
+    },
+    {
+        "start": 373.76,
+        "end": 374.6,
+        "text": " No, it's not."
+    },
+    {
+        "start": 375.36,
+        "end": 377.08000000000004,
+        "text": " By saying, oh yeah, by the way, I wrote it."
+    },
+    {
+        "start": 377.08000000000004,
+        "end": 378.08000000000004,
+        "text": " How just kidding."
+    },
+    {
+        "start": 378.08000000000004,
+        "end": 379.24,
+        "text": " It wasn't an AI."
+    },
+    {
+        "start": 379.24,
+        "end": 382.16,
+        "text": " Yeah, I don't know if that's gonna really help your gaze."
+    },
+    {
+        "start": 382.16,
+        "end": 383.88,
+        "text": " No, absolutely not."
+    },
+    {
+        "start": 383.88,
+        "end": 387.76000000000005,
+        "text": " So, Leah, what did you, I assume you were following the story."
+    },
+    {
+        "start": 387.76000000000005,
+        "end": 389.28000000000003,
+        "text": " What did you make of it?"
+    },
+    {
+        "start": 389.28000000000003,
+        "end": 393.68,
+        "text": " And also what did you make of the calls for legislation afterward?"
+    },
+    {
+        "start": 393.68,
+        "end": 395.48,
+        "text": " Because there was quite a bit of them."
+    },
+    {
+        "start": 395.48,
+        "end": 399.44,
+        "text": " Yeah, I made it that something like this"
+    },
+    {
+        "start": 399.44,
+        "end": 400.92,
+        "text": " was more or less inevitable."
+    },
+    {
+        "start": 400.92,
+        "end": 405.92,
+        "text": " And that the impacts of AI impersonation"
+    },
+    {
+        "start": 406.08000000000004,
+        "end": 410.76,
+        "text": " or deepfakes or humiliation of women"
+    },
+    {
+        "start": 410.76,
+        "end": 412.92,
+        "text": " and people from marginalized communities in particular"
+    },
+    {
+        "start": 412.92,
+        "end": 415.24,
+        "text": " is only gonna get worse"
+    },
+    {
+        "start": 416.24,
+        "end": 419.12,
+        "text": " as we adjust to the new reality of these tools being."
+    },
+    {
+        "start": 419.12,
+        "end": 423.08000000000004,
+        "text": " So, broadly available and don't really have."
+    },
+    {
+        "start": 423.08000000000004,
+        "end": 424.56,
+        "text": " If we even have on the internet at all,"
+    },
+    {
+        "start": 424.56,
+        "end": 426.72,
+        "text": " maybe cultural worries about what we're supposed to,"
+    },
+    {
+        "start": 426.72,
+        "end": 429.92,
+        "text": " are not supposed to be doing people with images"
+    },
+    {
+        "start": 429.92,
+        "end": 433.52000000000004,
+        "text": " and what have you, I think that this is something"
+    },
+    {
+        "start": 433.52000000000004,
+        "end": 438.52000000000004,
+        "text": " that we are right now in the start of adjusting to both"
+    },
+    {
+        "start": 438.52000000000004,
+        "end": 441.96000000000004,
+        "text": " when it comes to, when it comes to three different categories"
+    },
+    {
+        "start": 441.96000000000004,
+        "end": 443.92,
+        "text": " of people that I think are important to think about."
+    },
+    {
+        "start": 443.92,
+        "end": 446.68,
+        "text": " The first of which is your Taylor Swift,"
+    },
+    {
+        "start": 446.68,
+        "end": 450.0,
+        "text": " the second of which is your abuse survivors,"
+    },
+    {
+        "start": 450.0,
+        "end": 453.04,
+        "text": " your everyday people who have been victims"
+    },
+    {
+        "start": 453.04,
+        "end": 454.92,
+        "text": " of revenge porn and what have you."
+    },
+    {
+        "start": 454.92,
+        "end": 457.32,
+        "text": " And then the third here also is politicians."
+    },
+    {
+        "start": 457.32,
+        "end": 460.8,
+        "text": " Everybody's screaming from the rooftops about that."
+    },
+    {
+        "start": 460.8,
+        "end": 463.52,
+        "text": " Biden, Deep fake, Robo call telling people not to vote."
+    },
+    {
+        "start": 463.52,
+        "end": 465.2,
+        "text": " And I think that in the election year,"
+    },
+    {
+        "start": 465.2,
+        "end": 468.15999999999997,
+        "text": " we're gonna be seeing a lot more play on that."
+    },
+    {
+        "start": 468.15999999999997,
+        "end": 471.52,
+        "text": " And we haven't only seen calls for legislation here."
+    },
+    {
+        "start": 471.52,
+        "end": 475.15999999999997,
+        "text": " We've seen actual legislation being proposed"
+    },
+    {
+        "start": 475.15999999999997,
+        "end": 477.32,
+        "text": " several different bills federally"
+    },
+    {
+        "start": 477.32,
+        "end": 480.0,
+        "text": " that on their surface seemed to be trying to do a good thing,"
+    },
+    {
+        "start": 480.0,
+        "end": 484.08,
+        "text": " but unfortunately, it seems would potentially make"
+    },
+    {
+        "start": 484.08,
+        "end": 487.44,
+        "text": " the situation worse or make the overall status"
+    },
+    {
+        "start": 487.44,
+        "end": 489.91999999999996,
+        "text": " of artists in particular of the next generation"
+    },
+    {
+        "start": 489.91999999999996,
+        "end": 492.84,
+        "text": " of Taylor Swift's worse than it is today."
+    },
+    {
+        "start": 492.84,
+        "end": 494.44,
+        "text": " First of all, can you tell me more"
+    },
+    {
+        "start": 494.44,
+        "end": 497.03999999999996,
+        "text": " about the Biden, Deep fake call?"
+    },
+    {
+        "start": 497.03999999999996,
+        "end": 500.68,
+        "text": " Yeah, so in New Hampshire, I think a couple of weeks back"
+    },
+    {
+        "start": 500.68,
+        "end": 505.2,
+        "text": " during the primary, there was a really interesting"
+    },
+    {
+        "start": 506.56,
+        "end": 508.88,
+        "text": " operation that was carried out."
+    },
+    {
+        "start": 508.88,
+        "end": 513.3199999999999,
+        "text": " I think it was first flagged by a election organizer"
+    },
+    {
+        "start": 513.32,
+        "end": 517.44,
+        "text": " whose phone number was spoofed to call people in New Hampshire"
+    },
+    {
+        "start": 517.44,
+        "end": 521.6,
+        "text": " and play a recording of what sounded like Joe Biden,"
+    },
+    {
+        "start": 521.6,
+        "end": 523.7600000000001,
+        "text": " telling them not to cut turn out in vote."
+    },
+    {
+        "start": 524.84,
+        "end": 527.9200000000001,
+        "text": " And the election worker, our election organizer found out"
+    },
+    {
+        "start": 527.9200000000001,
+        "end": 529.9200000000001,
+        "text": " that this had happened when people started calling"
+    },
+    {
+        "start": 529.9200000000001,
+        "end": 531.0,
+        "text": " her number back."
+    },
+    {
+        "start": 532.2,
+        "end": 537.2,
+        "text": " And that is very obviously a concerning thing"
+    },
+    {
+        "start": 539.72,
+        "end": 542.08,
+        "text": " when you can take the voice of a politician"
+    },
+    {
+        "start": 542.36,
+        "end": 544.64,
+        "text": " and tell those who support them to do something"
+    },
+    {
+        "start": 544.64,
+        "end": 548.2,
+        "text": " that they don't want them to do."
+    },
+    {
+        "start": 548.2,
+        "end": 550.76,
+        "text": " And I'll also add to that simultaneously,"
+    },
+    {
+        "start": 550.76,
+        "end": 553.9200000000001,
+        "text": " we also are now seeing politicians like Donald Trump"
+    },
+    {
+        "start": 553.9200000000001,
+        "end": 555.9200000000001,
+        "text": " claiming that photos they don't like,"
+    },
+    {
+        "start": 555.9200000000001,
+        "end": 558.6,
+        "text": " that don't make him look good,"
+    },
+    {
+        "start": 558.6,
+        "end": 562.9200000000001,
+        "text": " our alternative AI, DeepFix, and that those photos aren't real."
+    },
+    {
+        "start": 562.9200000000001,
+        "end": 566.24,
+        "text": " So it's just, it's a mess is what it is."
+    },
+    {
+        "start": 566.24,
+        "end": 568.44,
+        "text": " We're entering into a lovely world where,"
+    },
+    {
+        "start": 568.44,
+        "end": 572.4000000000001,
+        "text": " I mean, not only can you not trust audio video"
+    },
+    {
+        "start": 572.4000000000001,
+        "end": 574.44,
+        "text": " that you see especially online,"
+    },
+    {
+        "start": 574.44,
+        "end": 577.5600000000001,
+        "text": " but then people can use it as a way to dismiss"
+    },
+    {
+        "start": 577.5600000000001,
+        "end": 579.6400000000001,
+        "text": " any information they don't like."
+    },
+    {
+        "start": 579.6400000000001,
+        "end": 582.6400000000001,
+        "text": " I was actually thinking about what is a term"
+    },
+    {
+        "start": 582.6400000000001,
+        "end": 585.12,
+        "text": " for that last phenomenon you just described"
+    },
+    {
+        "start": 585.12,
+        "end": 587.6800000000001,
+        "text": " because in, I know in activist spaces,"
+    },
+    {
+        "start": 587.6800000000001,
+        "end": 590.9200000000001,
+        "text": " there's a term called Fed Jacketing or Snitch Jacketing,"
+    },
+    {
+        "start": 590.9200000000001,
+        "end": 592.1600000000001,
+        "text": " which essentially means when you,"
+    },
+    {
+        "start": 592.1600000000001,
+        "end": 594.6400000000001,
+        "text": " when people start accusing one another"
+    },
+    {
+        "start": 594.6400000000001,
+        "end": 598.4000000000001,
+        "text": " of being secret informants or secret like government agents,"
+    },
+    {
+        "start": 598.5600000000001,
+        "end": 600.2,
+        "text": " and so I feel like in the same way,"
+    },
+    {
+        "start": 600.2,
+        "end": 602.84,
+        "text": " we're about to, because of the fact that"
+    },
+    {
+        "start": 602.84,
+        "end": 607.84,
+        "text": " the media environment is so completely chaotic and untrustworthy,"
+    },
+    {
+        "start": 609.6800000000001,
+        "end": 612.2,
+        "text": " and because of AI playing a huge part in that,"
+    },
+    {
+        "start": 612.2,
+        "end": 615.32,
+        "text": " it feels like we're about to start seeing like AI Jacketing"
+    },
+    {
+        "start": 615.32,
+        "end": 617.32,
+        "text": " or some, some, I don't know,"
+    },
+    {
+        "start": 617.32,
+        "end": 618.96,
+        "text": " I was trying to come up with like a better term for it,"
+    },
+    {
+        "start": 618.96,
+        "end": 621.2,
+        "text": " but like I've been noticing this recently,"
+    },
+    {
+        "start": 621.2,
+        "end": 625.44,
+        "text": " and also with your reporting, Matt, on PowerWorld,"
+    },
+    {
+        "start": 625.44,
+        "end": 628.6800000000001,
+        "text": " there were people, the PowerWorld is this,"
+    },
+    {
+        "start": 628.6800000000001,
+        "end": 631.0400000000001,
+        "text": " is this video game that we've been talking about where,"
+    },
+    {
+        "start": 631.0400000000001,
+        "end": 634.5200000000001,
+        "text": " it's essentially Pokemon, but like it's made by this other company"
+    },
+    {
+        "start": 634.5200000000001,
+        "end": 636.84,
+        "text": " and that they kind of sort of kind of look like Pokemon,"
+    },
+    {
+        "start": 636.84,
+        "end": 639.36,
+        "text": " but they're not, and people hate this game,"
+    },
+    {
+        "start": 639.36,
+        "end": 643.08,
+        "text": " because it's like, like jolting off of Nintendo's IP,"
+    },
+    {
+        "start": 643.08,
+        "end": 646.36,
+        "text": " and some people were accusing it of using AI generated assets,"
+    },
+    {
+        "start": 646.36,
+        "end": 647.9200000000001,
+        "text": " but there was no evidence for that,"
+    },
+    {
+        "start": 647.9200000000001,
+        "end": 650.8000000000001,
+        "text": " so it's just kind of like another example of people,"
+    },
+    {
+        "start": 650.8000000000001,
+        "end": 654.1600000000001,
+        "text": " you know, using this like environment of distrust"
+    },
+    {
+        "start": 654.16,
+        "end": 657.3199999999999,
+        "text": " to like, pro-accusations."
+    },
+    {
+        "start": 657.3199999999999,
+        "end": 661.0799999999999,
+        "text": " The PowerWorld one is a really low stakes good example,"
+    },
+    {
+        "start": 661.0799999999999,
+        "end": 664.1999999999999,
+        "text": " because I remember watching that,"
+    },
+    {
+        "start": 664.1999999999999,
+        "end": 667.16,
+        "text": " it was one account on Twitter,"
+    },
+    {
+        "start": 667.16,
+        "end": 670.76,
+        "text": " accused of the game of stealing assets"
+    },
+    {
+        "start": 670.76,
+        "end": 673.4,
+        "text": " and using generative AI to change them just enough,"
+    },
+    {
+        "start": 673.4,
+        "end": 676.8399999999999,
+        "text": " and then provided like screenshots"
+    },
+    {
+        "start": 676.8399999999999,
+        "end": 679.0799999999999,
+        "text": " that proved quote unquote that this is what,"
+    },
+    {
+        "start": 679.0799999999999,
+        "end": 680.8399999999999,
+        "text": " this is what had happened,"
+    },
+    {
+        "start": 680.8399999999999,
+        "end": 682.8,
+        "text": " and it's one of those things where like you hear about it,"
+    },
+    {
+        "start": 682.92,
+        "end": 686.12,
+        "text": " and then it becomes just part of the conversation around the game,"
+    },
+    {
+        "start": 686.12,
+        "end": 688.4,
+        "text": " like, oh, they used AI, did you know that they used AI"
+    },
+    {
+        "start": 688.4,
+        "end": 690.68,
+        "text": " isn't this terrible, et cetera, et cetera?"
+    },
+    {
+        "start": 690.68,
+        "end": 693.4,
+        "text": " And the company had previously published a game"
+    },
+    {
+        "start": 693.4,
+        "end": 696.28,
+        "text": " that used generative AI in it,"
+    },
+    {
+        "start": 696.28,
+        "end": 698.0,
+        "text": " it was like a social deduction game"
+    },
+    {
+        "start": 698.0,
+        "end": 701.1999999999999,
+        "text": " where you're trying to figure out what portrait"
+    },
+    {
+        "start": 701.1999999999999,
+        "end": 704.16,
+        "text": " was created by generative AI,"
+    },
+    {
+        "start": 704.16,
+        "end": 707.92,
+        "text": " kind of like an among us using mid-journey basically,"
+    },
+    {
+        "start": 707.92,
+        "end": 710.3599999999999,
+        "text": " then the person that had done the original tweet"
+    },
+    {
+        "start": 710.3599999999999,
+        "end": 712.12,
+        "text": " citing the evidence admitted that they just made"
+    },
+    {
+        "start": 712.12,
+        "end": 713.68,
+        "text": " the whole thing up later,"
+    },
+    {
+        "start": 713.68,
+        "end": 715.5600000000001,
+        "text": " and then it was complete bullshit."
+    },
+    {
+        "start": 715.5600000000001,
+        "end": 718.36,
+        "text": " So yeah, I think AI jacketing is a good term."
+    },
+    {
+        "start": 718.36,
+        "end": 721.84,
+        "text": " They were also just like posting screenshots of like"
+    },
+    {
+        "start": 721.84,
+        "end": 724.88,
+        "text": " the CEO's tweets saying like, oh yeah,"
+    },
+    {
+        "start": 724.88,
+        "end": 727.88,
+        "text": " I think the generative AI is interesting."
+    },
+    {
+        "start": 727.88,
+        "end": 729.96,
+        "text": " Like that was all I said."
+    },
+    {
+        "start": 729.96,
+        "end": 732.5600000000001,
+        "text": " And then we also see, I've seen because I'm also"
+    },
+    {
+        "start": 732.5600000000001,
+        "end": 734.8,
+        "text": " an author in a huge publishing nerd,"
+    },
+    {
+        "start": 734.8,
+        "end": 739.6,
+        "text": " we've seen cover authors and publishing be accused"
+    },
+    {
+        "start": 739.6,
+        "end": 744.6,
+        "text": " by the cancel mob that exists within publishing"
+    },
+    {
+        "start": 745.08,
+        "end": 747.32,
+        "text": " rightly sometimes and also wrongly sometimes"
+    },
+    {
+        "start": 747.32,
+        "end": 750.48,
+        "text": " of using AI to make book covers"
+    },
+    {
+        "start": 750.48,
+        "end": 752.52,
+        "text": " when in reality this is an artist who's worked"
+    },
+    {
+        "start": 752.52,
+        "end": 755.0400000000001,
+        "text": " a very long time to make something extraordinarily beautiful"
+    },
+    {
+        "start": 755.0400000000001,
+        "end": 757.88,
+        "text": " and that sort of controversy"
+    },
+    {
+        "start": 757.88,
+        "end": 762.48,
+        "text": " and just the sheer mental and emotional way"
+    },
+    {
+        "start": 762.48,
+        "end": 765.6,
+        "text": " of that sort of attack, they're really serious"
+    },
+    {
+        "start": 765.6,
+        "end": 768.32,
+        "text": " and pretty harmful this whole idea"
+    },
+    {
+        "start": 768.32,
+        "end": 771.2,
+        "text": " that if you touch AI at all, then we should"
+    },
+    {
+        "start": 771.2,
+        "end": 772.84,
+        "text": " throw you off a cliff."
+    },
+    {
+        "start": 772.84,
+        "end": 776.12,
+        "text": " I was following one of those stories last year"
+    },
+    {
+        "start": 776.12,
+        "end": 779.4000000000001,
+        "text": " and didn't get a chance to really report out on it."
+    },
+    {
+        "start": 779.4000000000001,
+        "end": 782.12,
+        "text": " There was mostly happening in like Facebook groups"
+    },
+    {
+        "start": 782.12,
+        "end": 785.72,
+        "text": " and it was a freelance artist who they,"
+    },
+    {
+        "start": 785.72,
+        "end": 789.84,
+        "text": " people had decided had used AI to generate her covers"
+    },
+    {
+        "start": 789.84,
+        "end": 791.6800000000001,
+        "text": " and I could not tell."
+    },
+    {
+        "start": 791.6800000000001,
+        "end": 795.8000000000001,
+        "text": " Like I couldn't quite decide for my own set,"
+    },
+    {
+        "start": 795.8000000000001,
+        "end": 798.12,
+        "text": " to my own satisfaction, like if she was using"
+    },
+    {
+        "start": 798.12,
+        "end": 803.12,
+        "text": " Generative AI or if she was just a very talented artist"
+    },
+    {
+        "start": 803.72,
+        "end": 806.48,
+        "text": " there weren't like a lot like some of the tells were there,"
+    },
+    {
+        "start": 806.48,
+        "end": 809.08,
+        "text": " maybe she used it to like do a pass"
+    },
+    {
+        "start": 809.08,
+        "end": 811.24,
+        "text": " but it was difficult, it was really hard"
+    },
+    {
+        "start": 811.24,
+        "end": 814.44,
+        "text": " and that's ultimately part of why I didn't report on it"
+    },
+    {
+        "start": 814.44,
+        "end": 816.84,
+        "text": " because I couldn't make a determination either way"
+    },
+    {
+        "start": 816.84,
+        "end": 821.84,
+        "text": " and there have been scandals around the use"
+    },
+    {
+        "start": 822.2,
+        "end": 826.76,
+        "text": " of Generative AI by major publishers in the past few years."
+    },
+    {
+        "start": 826.92,
+        "end": 828.4399999999999,
+        "text": " This stuff does happen."
+    },
+    {
+        "start": 828.4399999999999,
+        "end": 831.16,
+        "text": " Everyone's getting paranoid, it's terrible."
+    },
+    {
+        "start": 832.08,
+        "end": 836.36,
+        "text": " I think that that is symptomatic to a certain extent"
+    },
+    {
+        "start": 836.36,
+        "end": 838.36,
+        "text": " of the fact that we are grappling with this thing"
+    },
+    {
+        "start": 838.36,
+        "end": 840.64,
+        "text": " as a culture and how it's gonna be"
+    },
+    {
+        "start": 840.64,
+        "end": 842.16,
+        "text": " and how we're gonna think about it"
+    },
+    {
+        "start": 842.16,
+        "end": 845.16,
+        "text": " and how what are the acceptable ways to use it"
+    },
+    {
+        "start": 845.16,
+        "end": 849.04,
+        "text": " and what are the acceptable ways to criticize it"
+    },
+    {
+        "start": 849.04,
+        "end": 851.56,
+        "text": " and we're not there yet collectively"
+    },
+    {
+        "start": 851.56,
+        "end": 853.88,
+        "text": " and that growing pain to me, well,"
+    },
+    {
+        "start": 853.88,
+        "end": 855.8,
+        "text": " I think very painful for a lot of people"
+    },
+    {
+        "start": 855.8,
+        "end": 859.52,
+        "text": " also seems relatively normal in terms of technology."
+    },
+    {
+        "start": 859.52,
+        "end": 863.16,
+        "text": " We do kind of go through this every time there's a sea change, right?"
+    },
+    {
+        "start": 863.16,
+        "end": 864.76,
+        "text": " And it's going to take,"
+    },
+    {
+        "start": 865.8,
+        "end": 867.96,
+        "text": " I think on the legislative side, unfortunately,"
+    },
+    {
+        "start": 867.96,
+        "end": 869.8,
+        "text": " probably years to catch up"
+    },
+    {
+        "start": 869.8,
+        "end": 872.6,
+        "text": " and we're probably gonna do some things that we shouldn't do."
+    },
+    {
+        "start": 872.6,
+        "end": 873.84,
+        "text": " Yeah."
+    },
+    {
+        "start": 873.84,
+        "end": 876.12,
+        "text": " Janice, you were gonna say something about paranoia?"
+    },
+    {
+        "start": 876.12,
+        "end": 879.56,
+        "text": " Oh, just that, you know, this kind of paranoia"
+    },
+    {
+        "start": 879.56,
+        "end": 881.92,
+        "text": " has made worse by the fact that, you know,"
+    },
+    {
+        "start": 882.0,
+        "end": 883.9599999999999,
+        "text": " this stuff is actually is happening."
+    },
+    {
+        "start": 883.9599999999999,
+        "end": 888.28,
+        "text": " Like people are generating, like using generative AI"
+    },
+    {
+        "start": 888.28,
+        "end": 890.8,
+        "text": " to do all these kind of like deceptive things."
+    },
+    {
+        "start": 890.8,
+        "end": 894.56,
+        "text": " And so, you know, it's because of that"
+    },
+    {
+        "start": 894.56,
+        "end": 898.68,
+        "text": " that the sort of accusations become effective."
+    },
+    {
+        "start": 898.68,
+        "end": 899.92,
+        "text": " Like it wouldn't be effective"
+    },
+    {
+        "start": 899.92,
+        "end": 902.52,
+        "text": " if we weren't currently living in a time"
+    },
+    {
+        "start": 902.52,
+        "end": 907.3199999999999,
+        "text": " when it was so trivially easy to generate visual propaganda"
+    },
+    {
+        "start": 907.3199999999999,
+        "end": 911.76,
+        "text": " using a system created by large corporations"
+    },
+    {
+        "start": 911.76,
+        "end": 914.76,
+        "text": " that were built using millions of other images"
+    },
+    {
+        "start": 914.76,
+        "end": 916.6,
+        "text": " taken without permission."
+    },
+    {
+        "start": 916.6,
+        "end": 920.36,
+        "text": " And playing off of that paranoid surface area,"
+    },
+    {
+        "start": 920.36,
+        "end": 923.08,
+        "text": " one of the most common quote unquote solutions"
+    },
+    {
+        "start": 923.08,
+        "end": 928.08,
+        "text": " that I see proposed to try to make the internet trustworthy again"
+    },
+    {
+        "start": 928.16,
+        "end": 933.16,
+        "text": " or some sort of gonciote type task"
+    },
+    {
+        "start": 934.28,
+        "end": 939.28,
+        "text": " is to enforce AI labeling regimes"
+    },
+    {
+        "start": 939.8,
+        "end": 944.8,
+        "text": " across every tool that uses generative AI"
+    },
+    {
+        "start": 945.3199999999999,
+        "end": 949.36,
+        "text": " to make images or video or music or what have you."
+    },
+    {
+        "start": 949.36,
+        "end": 951.76,
+        "text": " And on the surface, that could seem like a good idea,"
+    },
+    {
+        "start": 951.76,
+        "end": 954.36,
+        "text": " but we have a lot of concerns about the reality"
+    },
+    {
+        "start": 954.36,
+        "end": 958.4,
+        "text": " that in many places, generative AI tools will be made"
+    },
+    {
+        "start": 958.4,
+        "end": 961.56,
+        "text": " that don't have those AI labeling regimes"
+    },
+    {
+        "start": 961.56,
+        "end": 966.56,
+        "text": " and that if we come to trust that what is labeled as AI"
+    },
+    {
+        "start": 967.1199999999999,
+        "end": 971.04,
+        "text": " is AI and what is not labeled as AI is real,"
+    },
+    {
+        "start": 971.04,
+        "end": 975.8,
+        "text": " that sets the ground for the most sophisticated"
+    },
+    {
+        "start": 975.8,
+        "end": 979.3599999999999,
+        "text": " and most manipulative actors with the highest stakes"
+    },
+    {
+        "start": 979.3599999999999,
+        "end": 981.8,
+        "text": " to be able to fool us."
+    },
+    {
+        "start": 981.8,
+        "end": 984.52,
+        "text": " And there's all these secondary cascading effects"
+    },
+    {
+        "start": 984.52,
+        "end": 987.4399999999999,
+        "text": " of content filtering on platforms"
+    },
+    {
+        "start": 987.4399999999999,
+        "end": 990.7199999999999,
+        "text": " and whether or not we're surveilling and collecting data"
+    },
+    {
+        "start": 990.7199999999999,
+        "end": 993.9599999999999,
+        "text": " on who's making AI images at the point of creation."
+    },
+    {
+        "start": 994.6800000000001,
+        "end": 998.4000000000001,
+        "text": " There's a lot there and I see a lot of folks"
+    },
+    {
+        "start": 998.4000000000001,
+        "end": 1003.4000000000001,
+        "text": " trying to go down that path and I think like you said Matthew,"
+    },
+    {
+        "start": 1003.96,
+        "end": 1008.08,
+        "text": " it's really important to think these through all the way"
+    },
+    {
+        "start": 1008.08,
+        "end": 1010.08,
+        "text": " both upstream and the downstream"
+    },
+    {
+        "start": 1010.08,
+        "end": 1013.44,
+        "text": " because even a little move like we should label it"
+    },
+    {
+        "start": 1013.44,
+        "end": 1016.12,
+        "text": " could have a lot of unintentional effects."
+    },
+    {
+        "start": 1016.12,
+        "end": 1017.24,
+        "text": " What would that even look like?"
+    },
+    {
+        "start": 1017.24,
+        "end": 1018.84,
+        "text": " Are you talking like a watermark?"
+    },
+    {
+        "start": 1018.84,
+        "end": 1020.76,
+        "text": " What's been suggested?"
+    },
+    {
+        "start": 1020.76,
+        "end": 1024.8799999999999,
+        "text": " Yeah, they're talking about visual watermarks,"
+    },
+    {
+        "start": 1024.8799999999999,
+        "end": 1029.92,
+        "text": " they're talking about invisible cryptographic watermarks"
+    },
+    {
+        "start": 1029.92,
+        "end": 1033.76,
+        "text": " that then your Instagram or what have you could read"
+    },
+    {
+        "start": 1033.76,
+        "end": 1037.72,
+        "text": " and then pull a label in the app from that."
+    },
+    {
+        "start": 1037.72,
+        "end": 1042.72,
+        "text": " But the reality of the internet to get around restrictions"
+    },
+    {
+        "start": 1042.8799999999999,
+        "end": 1045.4,
+        "text": " such as these is well established."
+    },
+    {
+        "start": 1047.12,
+        "end": 1049.6,
+        "text": " I wanna go back a little bit and talk about"
+    },
+    {
+        "start": 1049.6399999999999,
+        "end": 1051.8,
+        "text": " more in depth some of the legislation"
+    },
+    {
+        "start": 1051.8,
+        "end": 1054.6,
+        "text": " that's being proposed, some of it's being proposed"
+    },
+    {
+        "start": 1054.6,
+        "end": 1058.12,
+        "text": " at a state level, it's being proposed at a federal level."
+    },
+    {
+        "start": 1058.12,
+        "end": 1060.04,
+        "text": " I think the most well-known one is probably"
+    },
+    {
+        "start": 1060.04,
+        "end": 1061.6799999999998,
+        "text": " the NoFakes Act."
+    },
+    {
+        "start": 1061.6799999999998,
+        "end": 1063.6799999999998,
+        "text": " Can you walk us through some of this stuff?"
+    },
+    {
+        "start": 1063.6799999999998,
+        "end": 1065.1599999999999,
+        "text": " And is it good?"
+    },
+    {
+        "start": 1065.1599999999999,
+        "end": 1066.24,
+        "text": " Is it bad?"
+    },
+    {
+        "start": 1067.76,
+        "end": 1071.6399999999999,
+        "text": " I think it is common from the right place with legislators."
+    },
+    {
+        "start": 1071.6399999999999,
+        "end": 1075.08,
+        "text": " So the NoFakes Act, I think is a good one"
+    },
+    {
+        "start": 1075.08,
+        "end": 1077.1599999999999,
+        "text": " to walk through."
+    },
+    {
+        "start": 1077.1599999999999,
+        "end": 1079.32,
+        "text": " There's also the No AI fraud act,"
+    },
+    {
+        "start": 1079.36,
+        "end": 1082.96,
+        "text": " just maybe the next evolution of NoFakes"
+    },
+    {
+        "start": 1082.96,
+        "end": 1085.24,
+        "text": " or at least proposed more recently"
+    },
+    {
+        "start": 1085.24,
+        "end": 1088.48,
+        "text": " and some of the terms in there are a little bit more reasonable."
+    },
+    {
+        "start": 1088.48,
+        "end": 1092.3999999999999,
+        "text": " But this approach that both of those acts in particular"
+    },
+    {
+        "start": 1092.3999999999999,
+        "end": 1096.36,
+        "text": " are taking right now is the idea that they should create"
+    },
+    {
+        "start": 1096.36,
+        "end": 1099.56,
+        "text": " a new federal intellectual property right"
+    },
+    {
+        "start": 1099.56,
+        "end": 1102.52,
+        "text": " to everyone's likeness."
+    },
+    {
+        "start": 1102.52,
+        "end": 1106.1599999999999,
+        "text": " So that's to your face, to your voice,"
+    },
+    {
+        "start": 1106.16,
+        "end": 1110.48,
+        "text": " your mannerisms essentially are right to your body."
+    },
+    {
+        "start": 1110.48,
+        "end": 1115.48,
+        "text": " And it's representation in the digital world."
+    },
+    {
+        "start": 1116.44,
+        "end": 1119.6000000000001,
+        "text": " And the idea behind doing that is that if you have"
+    },
+    {
+        "start": 1119.6000000000001,
+        "end": 1121.88,
+        "text": " a right to that and it's your intellectual property,"
+    },
+    {
+        "start": 1121.88,
+        "end": 1125.76,
+        "text": " then you can sue people who use it without your permission."
+    },
+    {
+        "start": 1126.8400000000001,
+        "end": 1129.44,
+        "text": " But the problem in creating that new right"
+    },
+    {
+        "start": 1129.44,
+        "end": 1132.44,
+        "text": " and with this legislation, the first problem that I have"
+    },
+    {
+        "start": 1132.44,
+        "end": 1136.48,
+        "text": " with it is that it's establishing a new transferable"
+    },
+    {
+        "start": 1136.48,
+        "end": 1138.76,
+        "text": " intellectual property right."
+    },
+    {
+        "start": 1138.76,
+        "end": 1143.3200000000002,
+        "text": " And I believe that it's incredibly important for us"
+    },
+    {
+        "start": 1143.3200000000002,
+        "end": 1146.3600000000001,
+        "text": " to really question whether we want to let people"
+    },
+    {
+        "start": 1146.3600000000001,
+        "end": 1148.56,
+        "text": " sell their rights to the representation"
+    },
+    {
+        "start": 1148.56,
+        "end": 1151.92,
+        "text": " of their physical body in the digital realm"
+    },
+    {
+        "start": 1151.92,
+        "end": 1155.24,
+        "text": " and video and music, what have you."
+    },
+    {
+        "start": 1155.24,
+        "end": 1158.76,
+        "text": " And it's funny because it felt like"
+    },
+    {
+        "start": 1158.76,
+        "end": 1160.56,
+        "text": " some sort of twisty groundhog day"
+    },
+    {
+        "start": 1160.56,
+        "end": 1163.24,
+        "text": " when the deep fakes were of Taylor Swift"
+    },
+    {
+        "start": 1163.24,
+        "end": 1168.24,
+        "text": " because I had just been walking through the impact"
+    },
+    {
+        "start": 1168.52,
+        "end": 1172.76,
+        "text": " of the No AI fraud act in particular"
+    },
+    {
+        "start": 1172.76,
+        "end": 1175.36,
+        "text": " in the context of Taylor Swift's own experiences"
+    },
+    {
+        "start": 1175.36,
+        "end": 1179.32,
+        "text": " and artists where early on she signed away"
+    },
+    {
+        "start": 1179.32,
+        "end": 1181.48,
+        "text": " to the rights intellectual property rights"
+    },
+    {
+        "start": 1181.48,
+        "end": 1184.72,
+        "text": " to her master recordings, which were ultimately acquired"
+    },
+    {
+        "start": 1184.72,
+        "end": 1188.08,
+        "text": " by the Skyscuder Bron who she doesn't like very much"
+    },
+    {
+        "start": 1188.08,
+        "end": 1189.72,
+        "text": " for reasons that you can Google."
+    },
+    {
+        "start": 1189.72,
+        "end": 1193.48,
+        "text": " And to think about if at that time,"
+    },
+    {
+        "start": 1193.48,
+        "end": 1196.2,
+        "text": " there had also been a right to Taylor's face"
+    },
+    {
+        "start": 1196.2,
+        "end": 1198.72,
+        "text": " or a right to the sound of her voice."
+    },
+    {
+        "start": 1198.72,
+        "end": 1202.1200000000001,
+        "text": " And the incentive of major content companies"
+    },
+    {
+        "start": 1202.1200000000001,
+        "end": 1205.56,
+        "text": " or the rich men of Hollywood to get as many rights"
+    },
+    {
+        "start": 1205.56,
+        "end": 1209.32,
+        "text": " as they can so that they can exploit them maximally"
+    },
+    {
+        "start": 1209.32,
+        "end": 1210.8,
+        "text": " would have probably meant that that contract"
+    },
+    {
+        "start": 1210.8,
+        "end": 1213.08,
+        "text": " that she signed at that time would have included her face"
+    },
+    {
+        "start": 1213.08,
+        "end": 1215.1200000000001,
+        "text": " in her voice and that Skyscuder Bron could potentially"
+    },
+    {
+        "start": 1215.1200000000001,
+        "end": 1217.08,
+        "text": " own those two today."
+    },
+    {
+        "start": 1217.08,
+        "end": 1219.16,
+        "text": " And that is incredibly concerning."
+    },
+    {
+        "start": 1219.3200000000002,
+        "end": 1222.96,
+        "text": " And that to me is the fundamental no holds barred"
+    },
+    {
+        "start": 1222.96,
+        "end": 1224.3200000000002,
+        "text": " this law is ridiculous."
+    },
+    {
+        "start": 1224.3200000000002,
+        "end": 1228.48,
+        "text": " We need to kill it dead fact because what it does"
+    },
+    {
+        "start": 1228.48,
+        "end": 1230.5600000000002,
+        "text": " is it sets up all these artists that it's trying"
+    },
+    {
+        "start": 1230.5600000000002,
+        "end": 1235.4,
+        "text": " to protect instead to be exploited without their consent"
+    },
+    {
+        "start": 1235.4,
+        "end": 1240.0,
+        "text": " by AI so long as that AI is being wielded by the person"
+    },
+    {
+        "start": 1240.0,
+        "end": 1242.8000000000002,
+        "text": " who has acquired the rights to their body."
+    },
+    {
+        "start": 1243.64,
+        "end": 1246.0800000000002,
+        "text": " And also wouldn't that mean like you would have"
+    },
+    {
+        "start": 1246.0800000000002,
+        "end": 1248.24,
+        "text": " to register yourself in a government database"
+    },
+    {
+        "start": 1248.32,
+        "end": 1252.52,
+        "text": " of some kind before you were able to pursue"
+    },
+    {
+        "start": 1252.52,
+        "end": 1253.92,
+        "text": " like a criminal case against someone"
+    },
+    {
+        "start": 1253.92,
+        "end": 1256.28,
+        "text": " that's making revenge porn of you?"
+    },
+    {
+        "start": 1256.28,
+        "end": 1258.72,
+        "text": " You know, I don't think that I think that"
+    },
+    {
+        "start": 1258.72,
+        "end": 1261.48,
+        "text": " because it's an intellectual property right"
+    },
+    {
+        "start": 1261.48,
+        "end": 1263.4,
+        "text": " that it actually would be something"
+    },
+    {
+        "start": 1263.4,
+        "end": 1266.6,
+        "text": " that you have automatically, but you are correct there"
+    },
+    {
+        "start": 1266.6,
+        "end": 1271.04,
+        "text": " that the right is the right to sue."
+    },
+    {
+        "start": 1271.04,
+        "end": 1274.1200000000001,
+        "text": " It's not the right to have the AI porn"
+    },
+    {
+        "start": 1274.1200000000001,
+        "end": 1276.0,
+        "text": " of you removed from the internet."
+    },
+    {
+        "start": 1276.0,
+        "end": 1277.64,
+        "text": " It's not a take down."
+    },
+    {
+        "start": 1277.64,
+        "end": 1281.8400000000001,
+        "text": " It's the right to get into a legal battle"
+    },
+    {
+        "start": 1281.8400000000001,
+        "end": 1284.88,
+        "text": " with various entities, some of them"
+    },
+    {
+        "start": 1284.88,
+        "end": 1287.88,
+        "text": " who maybe deserve it more than others under this bill"
+    },
+    {
+        "start": 1289.1200000000001,
+        "end": 1293.4,
+        "text": " and engage in protracted legal shenanigans"
+    },
+    {
+        "start": 1293.4,
+        "end": 1296.44,
+        "text": " with your army of lawyers, which is much more accessible"
+    },
+    {
+        "start": 1296.44,
+        "end": 1299.6000000000001,
+        "text": " to a politician or a celebrity than to an average human being."
+    },
+    {
+        "start": 1299.6000000000001,
+        "end": 1303.0800000000002,
+        "text": " How do you think we should legislatively handle this?"
+    },
+    {
+        "start": 1303.0800000000002,
+        "end": 1306.0,
+        "text": " I don't have all the answers here for sure"
+    },
+    {
+        "start": 1306.04,
+        "end": 1307.64,
+        "text": " because this is incredibly complicated,"
+    },
+    {
+        "start": 1307.64,
+        "end": 1312.16,
+        "text": " but one of the places to start is with the existing laws"
+    },
+    {
+        "start": 1312.16,
+        "end": 1314.44,
+        "text": " that a bunch of these people who've been affected"
+    },
+    {
+        "start": 1314.44,
+        "end": 1317.28,
+        "text": " that we're already talking about are already suing under."
+    },
+    {
+        "start": 1317.28,
+        "end": 1320.8,
+        "text": " Most states have a right of publicity law"
+    },
+    {
+        "start": 1320.8,
+        "end": 1324.52,
+        "text": " that allows them to sue, that allows celebrities"
+    },
+    {
+        "start": 1324.52,
+        "end": 1328.24,
+        "text": " or public figures to sue if people misuse their images"
+    },
+    {
+        "start": 1328.24,
+        "end": 1331.2,
+        "text": " and some sort of manner that is commercial"
+    },
+    {
+        "start": 1331.2,
+        "end": 1332.84,
+        "text": " or could be construed as commercial."
+    },
+    {
+        "start": 1332.9599999999998,
+        "end": 1336.12,
+        "text": " And then at the same time, we have a defamation law,"
+    },
+    {
+        "start": 1336.12,
+        "end": 1340.9599999999998,
+        "text": " which can often be a way to, for average people"
+    },
+    {
+        "start": 1340.9599999999998,
+        "end": 1344.28,
+        "text": " to sue those who humiliate them"
+    },
+    {
+        "start": 1344.28,
+        "end": 1346.84,
+        "text": " and while protects celebrities less."
+    },
+    {
+        "start": 1346.84,
+        "end": 1350.6399999999999,
+        "text": " So between those two, depending on where you live"
+    },
+    {
+        "start": 1350.6399999999999,
+        "end": 1354.28,
+        "text": " and in the majority of states, there's some good stuff there."
+    },
+    {
+        "start": 1354.28,
+        "end": 1356.48,
+        "text": " There's some good mechanisms, at least in terms of"
+    },
+    {
+        "start": 1356.48,
+        "end": 1359.76,
+        "text": " if you wanna get a lawyer and if you wanna sue"
+    },
+    {
+        "start": 1359.76,
+        "end": 1362.1999999999998,
+        "text": " the person who's causing you misery."
+    },
+    {
+        "start": 1362.24,
+        "end": 1367.24,
+        "text": " But still that doesn't actually give victims"
+    },
+    {
+        "start": 1368.44,
+        "end": 1373.04,
+        "text": " of these deepfakes a real time way to say,"
+    },
+    {
+        "start": 1373.04,
+        "end": 1377.0,
+        "text": " hey, we get this disgusting form of me off the internet,"
+    },
+    {
+        "start": 1377.0,
+        "end": 1379.52,
+        "text": " this is humiliating me and it's spreading everywhere."
+    },
+    {
+        "start": 1379.52,
+        "end": 1384.52,
+        "text": " And while it pains me because I know how extensively"
+    },
+    {
+        "start": 1385.76,
+        "end": 1388.1200000000001,
+        "text": " something like the Digital Millennium Copyright Act"
+    },
+    {
+        "start": 1388.1200000000001,
+        "end": 1391.8,
+        "text": " has been abused, these sort of notice and takedown systems."
+    },
+    {
+        "start": 1391.8,
+        "end": 1395.0,
+        "text": " I'm talking to a lot of people and none of us really see"
+    },
+    {
+        "start": 1395.0,
+        "end": 1400.0,
+        "text": " another way to make something that is actually responsive"
+    },
+    {
+        "start": 1400.8,
+        "end": 1403.52,
+        "text": " to the harms that people are gonna be experiencing."
+    },
+    {
+        "start": 1403.52,
+        "end": 1404.9199999999998,
+        "text": " But what we can get right this time,"
+    },
+    {
+        "start": 1404.9199999999998,
+        "end": 1407.8,
+        "text": " and I think with Donald Trump right now claiming"
+    },
+    {
+        "start": 1407.8,
+        "end": 1411.6399999999999,
+        "text": " that actual photos of him or deepfakes is that unlike"
+    },
+    {
+        "start": 1411.6399999999999,
+        "end": 1413.84,
+        "text": " the DNCA, we could build a system where there are"
+    },
+    {
+        "start": 1413.84,
+        "end": 1415.84,
+        "text": " actual consequences if you abuse it."
+    },
+    {
+        "start": 1415.84,
+        "end": 1418.0,
+        "text": " If you say that's an embarrassing video,"
+    },
+    {
+        "start": 1418.0,
+        "end": 1420.48,
+        "text": " if you were a video of police misconduct"
+    },
+    {
+        "start": 1420.48,
+        "end": 1423.48,
+        "text": " or what have you is a deepfake and it actually isn't."
+    },
+    {
+        "start": 1423.48,
+        "end": 1425.32,
+        "text": " So that's where I'd start."
+    },
+    {
+        "start": 1426.76,
+        "end": 1427.76,
+        "text": " Oh, that's interesting."
+    },
+    {
+        "start": 1427.76,
+        "end": 1431.88,
+        "text": " What do you, I didn't even think about the possibility"
+    },
+    {
+        "start": 1431.88,
+        "end": 1434.72,
+        "text": " of a public person getting into trouble for lying"
+    },
+    {
+        "start": 1434.72,
+        "end": 1437.24,
+        "text": " about a real image being a deepfake."
+    },
+    {
+        "start": 1437.24,
+        "end": 1438.28,
+        "text": " Oh yeah, that's coming."
+    },
+    {
+        "start": 1439.64,
+        "end": 1442.48,
+        "text": " Has anyone proposed legislation or is this just like"
+    },
+    {
+        "start": 1442.48,
+        "end": 1443.76,
+        "text": " conversations?"
+    },
+    {
+        "start": 1444.88,
+        "end": 1449.16,
+        "text": " This is conversations because we, I think that a lot"
+    },
+    {
+        "start": 1449.16,
+        "end": 1453.3600000000001,
+        "text": " of the people who are looking at nofakes or no AI fraud"
+    },
+    {
+        "start": 1453.3600000000001,
+        "end": 1458.0400000000002,
+        "text": " or what have you and saying that these are terrible laws"
+    },
+    {
+        "start": 1458.0400000000002,
+        "end": 1460.76,
+        "text": " with an unintended, extremely harmful consequences"
+    },
+    {
+        "start": 1460.76,
+        "end": 1463.44,
+        "text": " are also really feeling for the reality"
+    },
+    {
+        "start": 1463.44,
+        "end": 1465.5600000000002,
+        "text": " that people are gonna face with these technologies"
+    },
+    {
+        "start": 1465.5600000000002,
+        "end": 1467.92,
+        "text": " and knowing that we need to do something."
+    },
+    {
+        "start": 1467.92,
+        "end": 1472.92,
+        "text": " And happily we're having much more of a proactive conversation"
+    },
+    {
+        "start": 1472.92,
+        "end": 1474.92,
+        "text": " here amongst ourselves about what we do want"
+    },
+    {
+        "start": 1474.92,
+        "end": 1479.0800000000002,
+        "text": " than I think we have maybe with previous online revolutions."
+    },
+    {
+        "start": 1479.6000000000001,
+        "end": 1480.92,
+        "text": " That was one of the things that struck me"
+    },
+    {
+        "start": 1480.92,
+        "end": 1483.76,
+        "text": " when initially I wrote about the nofakes"
+    },
+    {
+        "start": 1483.76,
+        "end": 1485.8000000000002,
+        "text": " and then there was another law in Tennessee"
+    },
+    {
+        "start": 1485.8000000000002,
+        "end": 1489.16,
+        "text": " that I think was proposed the same day, which is that,"
+    },
+    {
+        "start": 1489.16,
+        "end": 1490.8400000000001,
+        "text": " and this is like what I wrote about"
+    },
+    {
+        "start": 1490.8400000000001,
+        "end": 1492.8400000000001,
+        "text": " in the article I wrote a couple of weeks ago,"
+    },
+    {
+        "start": 1492.8400000000001,
+        "end": 1496.3200000000002,
+        "text": " which is like, it seems like the just of these laws"
+    },
+    {
+        "start": 1496.3200000000002,
+        "end": 1499.92,
+        "text": " is sort of intended to protect celebrities."
+    },
+    {
+        "start": 1499.92,
+        "end": 1503.76,
+        "text": " And maybe the rest of us too, kind of sort of."
+    },
+    {
+        "start": 1503.76,
+        "end": 1507.6000000000001,
+        "text": " And that's kind of like where I came out this from,"
+    },
+    {
+        "start": 1507.6799999999998,
+        "end": 1509.9199999999998,
+        "text": " which is like the fact that like, you know,"
+    },
+    {
+        "start": 1509.9199999999998,
+        "end": 1511.8799999999999,
+        "text": " a lot of people have been talking about this"
+    },
+    {
+        "start": 1511.8799999999999,
+        "end": 1515.8,
+        "text": " as a concern for a while, but now that Taylor Swift is mad,"
+    },
+    {
+        "start": 1515.8,
+        "end": 1520.24,
+        "text": " now that like the weekend and a Drake are mad about this."
+    },
+    {
+        "start": 1520.24,
+        "end": 1524.08,
+        "text": " And it's not just, you know, it's not just like photos,"
+    },
+    {
+        "start": 1524.08,
+        "end": 1528.0,
+        "text": " it's also like music and, you know, voice rights, music,"
+    },
+    {
+        "start": 1528.0,
+        "end": 1529.76,
+        "text": " and then all other kinds of stuff"
+    },
+    {
+        "start": 1529.76,
+        "end": 1532.4399999999998,
+        "text": " that could be considered, you know, intellectual property"
+    },
+    {
+        "start": 1532.4399999999998,
+        "end": 1536.6,
+        "text": " or, you know, personalized sort of like intimate representations"
+    },
+    {
+        "start": 1536.6,
+        "end": 1538.36,
+        "text": " of someone's person."
+    },
+    {
+        "start": 1538.36,
+        "end": 1543.36,
+        "text": " It seems to me like, that's where this always starts and ends"
+    },
+    {
+        "start": 1543.3999999999999,
+        "end": 1546.7199999999998,
+        "text": " when we get quote unquote privacy protections"
+    },
+    {
+        "start": 1546.7199999999998,
+        "end": 1550.12,
+        "text": " or something that is supposed to at least in theory,"
+    },
+    {
+        "start": 1550.12,
+        "end": 1553.0,
+        "text": " be like protecting privacy is that it's generally"
+    },
+    {
+        "start": 1553.0,
+        "end": 1556.36,
+        "text": " winds up protecting famous and rich people"
+    },
+    {
+        "start": 1556.36,
+        "end": 1559.9599999999998,
+        "text": " and not doesn't do a whole lot for regular people"
+    },
+    {
+        "start": 1559.9599999999998,
+        "end": 1563.4399999999998,
+        "text": " who are facing abuse and harassment and, you know,"
+    },
+    {
+        "start": 1563.44,
+        "end": 1566.96,
+        "text": " sexual violence and, you know, the copyright system,"
+    },
+    {
+        "start": 1566.96,
+        "end": 1569.3600000000001,
+        "text": " as you were just mentioning, like the copyright system,"
+    },
+    {
+        "start": 1569.3600000000001,
+        "end": 1572.3600000000001,
+        "text": " you're saying like, oh, you know, we keep looking at this,"
+    },
+    {
+        "start": 1572.3600000000001,
+        "end": 1575.28,
+        "text": " like we don't see any other way of enforcing that."
+    },
+    {
+        "start": 1575.28,
+        "end": 1579.56,
+        "text": " So like what would be different about this compared to like,"
+    },
+    {
+        "start": 1579.56,
+        "end": 1581.6000000000001,
+        "text": " you know, the fact that, you know, when people,"
+    },
+    {
+        "start": 1581.6000000000001,
+        "end": 1585.1200000000001,
+        "text": " when artists, for example, have people profiting"
+    },
+    {
+        "start": 1585.1200000000001,
+        "end": 1589.2,
+        "text": " from their art that they release like music or otherwise,"
+    },
+    {
+        "start": 1589.2,
+        "end": 1590.72,
+        "text": " you know, there is a motive or dress,"
+    },
+    {
+        "start": 1590.72,
+        "end": 1592.48,
+        "text": " but it's not very accessible,"
+    },
+    {
+        "start": 1592.56,
+        "end": 1594.6,
+        "text": " unless you have a lot of money to litigate it."
+    },
+    {
+        "start": 1594.6,
+        "end": 1597.76,
+        "text": " So what's the fix here when it comes to this stuff,"
+    },
+    {
+        "start": 1597.76,
+        "end": 1600.84,
+        "text": " if in the past, this has been kind of the status quo?"
+    },
+    {
+        "start": 1600.84,
+        "end": 1602.3600000000001,
+        "text": " That's a great question,"
+    },
+    {
+        "start": 1602.3600000000001,
+        "end": 1604.1200000000001,
+        "text": " because we are really swimming upstream"
+    },
+    {
+        "start": 1604.1200000000001,
+        "end": 1606.84,
+        "text": " against the headline grabbers here."
+    },
+    {
+        "start": 1606.84,
+        "end": 1609.64,
+        "text": " If something horrible is being done to Taylor Swift"
+    },
+    {
+        "start": 1609.64,
+        "end": 1612.52,
+        "text": " and you know, by God, Josh Hawley can draw out there"
+    },
+    {
+        "start": 1612.52,
+        "end": 1614.92,
+        "text": " with a bill and wave it in the air"
+    },
+    {
+        "start": 1614.92,
+        "end": 1618.32,
+        "text": " and it's gonna get covered, you know, all over creation."
+    },
+    {
+        "start": 1618.32,
+        "end": 1621.72,
+        "text": " The motive there is really clear and straightforward."
+    },
+    {
+        "start": 1621.76,
+        "end": 1624.1200000000001,
+        "text": " All the additions like laws that grab headlines,"
+    },
+    {
+        "start": 1624.1200000000001,
+        "end": 1628.48,
+        "text": " they like flashy partnerships with celebrities and,"
+    },
+    {
+        "start": 1628.48,
+        "end": 1633.2,
+        "text": " and then I would also say that the lobby of those IP rights"
+    },
+    {
+        "start": 1633.2,
+        "end": 1637.2,
+        "text": " holders, the major labels and publishers and project companies"
+    },
+    {
+        "start": 1637.2,
+        "end": 1639.1200000000001,
+        "text": " and what have you is extremely powerful"
+    },
+    {
+        "start": 1639.1200000000001,
+        "end": 1642.0,
+        "text": " and really well organized and from the moment that this all blew up,"
+    },
+    {
+        "start": 1642.0,
+        "end": 1644.76,
+        "text": " they've been in legislative offices, you know,"
+    },
+    {
+        "start": 1644.76,
+        "end": 1647.1200000000001,
+        "text": " gunning for a bill that's gonna benefit, you know,"
+    },
+    {
+        "start": 1647.1200000000001,
+        "end": 1650.84,
+        "text": " the universal music groups of the world."
+    },
+    {
+        "start": 1650.84,
+        "end": 1654.56,
+        "text": " And yeah, and that's why for myself, I turned towards"
+    },
+    {
+        "start": 1654.56,
+        "end": 1658.76,
+        "text": " and I think that there are also legislators who are thinking"
+    },
+    {
+        "start": 1658.76,
+        "end": 1663.76,
+        "text": " in this way better tools for every day people,"
+    },
+    {
+        "start": 1665.56,
+        "end": 1669.6799999999998,
+        "text": " because I don't think that there is going to be an effective way"
+    },
+    {
+        "start": 1669.6799999999998,
+        "end": 1674.6799999999998,
+        "text": " to censor or we can't put the rabbit back in the hat"
+    },
+    {
+        "start": 1675.48,
+        "end": 1676.56,
+        "text": " with AI."
+    },
+    {
+        "start": 1676.56,
+        "end": 1680.36,
+        "text": " What we need is proactive tools to address it"
+    },
+    {
+        "start": 1680.36,
+        "end": 1684.76,
+        "text": " in a way that is minimally invasive when it comes to,"
+    },
+    {
+        "start": 1684.76,
+        "end": 1687.08,
+        "text": " you know, surveillance and censoring speech"
+    },
+    {
+        "start": 1687.08,
+        "end": 1689.8,
+        "text": " and slapping upload filters across the whole internet"
+    },
+    {
+        "start": 1689.8,
+        "end": 1691.08,
+        "text": " isn't the right thing."
+    },
+    {
+        "start": 1691.08,
+        "end": 1693.32,
+        "text": " Either I would look at something like,"
+    },
+    {
+        "start": 1693.32,
+        "end": 1695.3999999999999,
+        "text": " well, we've got Google reverse image search"
+    },
+    {
+        "start": 1695.3999999999999,
+        "end": 1697.08,
+        "text": " and we know that that works pretty good"
+    },
+    {
+        "start": 1697.08,
+        "end": 1701.36,
+        "text": " and we've got, you know, the DMCA and that, you know,"
+    },
+    {
+        "start": 1701.36,
+        "end": 1703.24,
+        "text": " this is established protocol for that"
+    },
+    {
+        "start": 1703.24,
+        "end": 1706.1599999999999,
+        "text": " and we've got this idea that, and we've learned a lot"
+    },
+    {
+        "start": 1706.16,
+        "end": 1708.92,
+        "text": " since that legislation went in."
+    },
+    {
+        "start": 1708.92,
+        "end": 1711.52,
+        "text": " And so can we slap something together"
+    },
+    {
+        "start": 1711.52,
+        "end": 1713.5600000000002,
+        "text": " that doesn't reinvent the wheel"
+    },
+    {
+        "start": 1713.5600000000002,
+        "end": 1714.88,
+        "text": " and just gives people the right to say,"
+    },
+    {
+        "start": 1714.88,
+        "end": 1719.88,
+        "text": " hey, this is a horrific photo of a horrific fake photo of me."
+    },
+    {
+        "start": 1720.72,
+        "end": 1723.2,
+        "text": " Please scrub it off the internet"
+    },
+    {
+        "start": 1723.2,
+        "end": 1725.48,
+        "text": " and they can make that request in a way"
+    },
+    {
+        "start": 1725.48,
+        "end": 1728.44,
+        "text": " that the platforms have to be accountable to."
+    },
+    {
+        "start": 1728.44,
+        "end": 1729.8400000000001,
+        "text": " Because I think that's the other thing."
+    },
+    {
+        "start": 1729.8400000000001,
+        "end": 1732.48,
+        "text": " It's really hard to be heard as an individual"
+    },
+    {
+        "start": 1732.48,
+        "end": 1734.48,
+        "text": " when platforms are dealing with so many users."
+    },
+    {
+        "start": 1735.3600000000001,
+        "end": 1737.76,
+        "text": " About that point on platforms being accountable,"
+    },
+    {
+        "start": 1737.76,
+        "end": 1739.44,
+        "text": " this is kind of like something I say a lot"
+    },
+    {
+        "start": 1739.44,
+        "end": 1742.44,
+        "text": " and when I'm talking about this topic is that like,"
+    },
+    {
+        "start": 1742.44,
+        "end": 1745.76,
+        "text": " we're kind of addressing a symptom of a problem here"
+    },
+    {
+        "start": 1745.76,
+        "end": 1747.48,
+        "text": " and not the actual problem"
+    },
+    {
+        "start": 1747.48,
+        "end": 1751.6,
+        "text": " and the problem is that we have all these giant tech companies"
+    },
+    {
+        "start": 1751.6,
+        "end": 1753.52,
+        "text": " that are producing this technology"
+    },
+    {
+        "start": 1753.52,
+        "end": 1756.24,
+        "text": " and they basically have no regulation"
+    },
+    {
+        "start": 1756.24,
+        "end": 1758.28,
+        "text": " and they're kind of just doing whatever they want"
+    },
+    {
+        "start": 1758.28,
+        "end": 1761.2,
+        "text": " and that's, you know, there's even like,"
+    },
+    {
+        "start": 1761.2,
+        "end": 1763.48,
+        "text": " these like lobby groups like Elon Musk"
+    },
+    {
+        "start": 1763.48,
+        "end": 1765.16,
+        "text": " has like this like AI institute"
+    },
+    {
+        "start": 1765.16,
+        "end": 1766.48,
+        "text": " that's like essentially saying,"
+    },
+    {
+        "start": 1766.48,
+        "end": 1768.92,
+        "text": " you must let us develop AI and if you don't,"
+    },
+    {
+        "start": 1768.92,
+        "end": 1770.72,
+        "text": " then you're killing people."
+    },
+    {
+        "start": 1770.72,
+        "end": 1771.88,
+        "text": " People will die."
+    },
+    {
+        "start": 1771.88,
+        "end": 1776.88,
+        "text": " And so, you know, that's kind of like what I always frame"
+    },
+    {
+        "start": 1776.88,
+        "end": 1780.0,
+        "text": " the surround is like, we're dealing with a symptom"
+    },
+    {
+        "start": 1780.0,
+        "end": 1783.88,
+        "text": " and not the like actual problem, which is that like, you know,"
+    },
+    {
+        "start": 1783.88,
+        "end": 1785.84,
+        "text": " and even the way in which these tech companies"
+    },
+    {
+        "start": 1785.84,
+        "end": 1790.28,
+        "text": " address this problem sometimes is very much like bandaid"
+    },
+    {
+        "start": 1790.28,
+        "end": 1791.1200000000001,
+        "text": " oriented."
+    },
+    {
+        "start": 1791.1200000000001,
+        "end": 1793.44,
+        "text": " Like I was writing an article a couple weeks ago"
+    },
+    {
+        "start": 1793.44,
+        "end": 1796.44,
+        "text": " about the filtering, the filtering system"
+    },
+    {
+        "start": 1796.44,
+        "end": 1799.6000000000001,
+        "text": " on some of these things like like on OpenAI"
+    },
+    {
+        "start": 1799.6000000000001,
+        "end": 1804.04,
+        "text": " like has been constantly needing to patch chat GPT"
+    },
+    {
+        "start": 1804.04,
+        "end": 1807.76,
+        "text": " and like, Dolly and all these like image generators"
+    },
+    {
+        "start": 1807.76,
+        "end": 1812.76,
+        "text": " because people keep finding ways to like get past the like"
+    },
+    {
+        "start": 1813.4,
+        "end": 1816.56,
+        "text": " content filter system that like prevents them"
+    },
+    {
+        "start": 1816.56,
+        "end": 1819.72,
+        "text": " from generating certain types of images"
+    },
+    {
+        "start": 1819.72,
+        "end": 1821.2,
+        "text": " through all these kind of tricky ways"
+    },
+    {
+        "start": 1821.2,
+        "end": 1823.24,
+        "text": " and it's just this cat and mouse game"
+    },
+    {
+        "start": 1823.24,
+        "end": 1826.4,
+        "text": " and you know, when it comes to some of these,"
+    },
+    {
+        "start": 1826.4,
+        "end": 1828.6,
+        "text": " I was reading this paper and when it comes to some"
+    },
+    {
+        "start": 1828.6,
+        "end": 1830.96,
+        "text": " of these systems, what they're actually doing is that"
+    },
+    {
+        "start": 1830.96,
+        "end": 1833.84,
+        "text": " they're just, they're still generating the content"
+    },
+    {
+        "start": 1833.84,
+        "end": 1835.56,
+        "text": " and then they're just not showing it."
+    },
+    {
+        "start": 1835.56,
+        "end": 1838.28,
+        "text": " So it's not even that they're like preventing"
+    },
+    {
+        "start": 1838.28,
+        "end": 1840.24,
+        "text": " the content from being created in the first place,"
+    },
+    {
+        "start": 1840.24,
+        "end": 1842.4,
+        "text": " they're just filtering it out."
+    },
+    {
+        "start": 1842.4,
+        "end": 1845.76,
+        "text": " Like they're just saying, you know, the equivalent of like,"
+    },
+    {
+        "start": 1845.76,
+        "end": 1849.64,
+        "text": " I can't do that Dave is what the policy is right now"
+    },
+    {
+        "start": 1849.64,
+        "end": 1851.68,
+        "text": " is what the sort of mitigation policy is"
+    },
+    {
+        "start": 1851.68,
+        "end": 1853.2,
+        "text": " for a lot of these things."
+    },
+    {
+        "start": 1853.2,
+        "end": 1856.2,
+        "text": " But really it's off camera sketching that image you asked for"
+    },
+    {
+        "start": 1856.2,
+        "end": 1858.5600000000002,
+        "text": " and just storing it in a digital warehouse somewhere"
+    },
+    {
+        "start": 1858.5600000000002,
+        "end": 1861.8,
+        "text": " and all the forbidden images you'll never be able to see."
+    },
+    {
+        "start": 1862.8400000000001,
+        "end": 1865.76,
+        "text": " Yeah, but it's like, it's like, even if nobody sees that image"
+    },
+    {
+        "start": 1865.76,
+        "end": 1867.76,
+        "text": " that's indicative of a larger problem,"
+    },
+    {
+        "start": 1867.76,
+        "end": 1871.8,
+        "text": " which is that like, we don't actually know how to stop that"
+    },
+    {
+        "start": 1871.8,
+        "end": 1875.3200000000002,
+        "text": " from happening because the training has already occurred."
+    },
+    {
+        "start": 1875.3200000000002,
+        "end": 1880.1200000000001,
+        "text": " These systems are already built on top of billions of images"
+    },
+    {
+        "start": 1880.12,
+        "end": 1881.9199999999998,
+        "text": " that were taken without permission."
+    },
+    {
+        "start": 1881.9199999999998,
+        "end": 1884.56,
+        "text": " And you know, some of them, we wrote another story about this"
+    },
+    {
+        "start": 1884.56,
+        "end": 1889.08,
+        "text": " a couple of weeks ago, LAI on, which is a probably,"
+    },
+    {
+        "start": 1889.08,
+        "end": 1891.7199999999998,
+        "text": " one of the most commonly used image databases used"
+    },
+    {
+        "start": 1891.7199999999998,
+        "end": 1895.1599999999999,
+        "text": " in generative AI, it contains billions of images"
+    },
+    {
+        "start": 1895.1599999999999,
+        "end": 1896.8799999999999,
+        "text": " that are taken from web scraping."
+    },
+    {
+        "start": 1896.8799999999999,
+        "end": 1901.2399999999998,
+        "text": " And it was found that I think about 3000 instances"
+    },
+    {
+        "start": 1901.2399999999998,
+        "end": 1904.9599999999998,
+        "text": " of CSAM of child exploitation were found in the state"
+    },
+    {
+        "start": 1904.9599999999998,
+        "end": 1907.1599999999999,
+        "text": " in this massive database."
+    },
+    {
+        "start": 1907.1599999999999,
+        "end": 1909.52,
+        "text": " And it's like, you know, that's kind of the,"
+    },
+    {
+        "start": 1909.52,
+        "end": 1911.44,
+        "text": " that's kind of an example of what we're dealing with here."
+    },
+    {
+        "start": 1911.44,
+        "end": 1916.44,
+        "text": " It's like the sort of like base problem has already occurred."
+    },
+    {
+        "start": 1916.84,
+        "end": 1918.76,
+        "text": " We're just getting the results of it now."
+    },
+    {
+        "start": 1918.76,
+        "end": 1921.6399999999999,
+        "text": " And you can filter the results, but that doesn't ultimately"
+    },
+    {
+        "start": 1921.6399999999999,
+        "end": 1924.44,
+        "text": " like solve the fact that like where the soul came from."
+    },
+    {
+        "start": 1926.48,
+        "end": 1928.76,
+        "text": " All right, so blisters are going to pause there for a break."
+    },
+    {
+        "start": 1928.76,
+        "end": 1930.32,
+        "text": " We'll be right back after this."
+    },
+    {
+        "start": 1933.72,
+        "end": 1934.76,
+        "text": " Hey, I'm Ryan Reynolds."
+    },
+    {
+        "start": 1934.76,
+        "end": 1937.24,
+        "text": " At Midmobile, we like to do the opposite"
+    },
+    {
+        "start": 1937.24,
+        "end": 1938.8,
+        "text": " of what big wireless does."
+    },
+    {
+        "start": 1938.84,
+        "end": 1940.1599999999999,
+        "text": " They charge you a lot."
+    },
+    {
+        "start": 1940.1599999999999,
+        "end": 1941.36,
+        "text": " We charge you a little."
+    },
+    {
+        "start": 1941.36,
+        "end": 1944.36,
+        "text": " So naturally, when they announced that be raising their prices"
+    },
+    {
+        "start": 1944.36,
+        "end": 1947.68,
+        "text": " due to inflation, we decided to deflate our prices"
+    },
+    {
+        "start": 1947.68,
+        "end": 1949.08,
+        "text": " due to not hating you."
+    },
+    {
+        "start": 1949.08,
+        "end": 1949.68,
+        "text": " That's right."
+    },
+    {
+        "start": 1949.68,
+        "end": 1952.48,
+        "text": " We're cutting the price of mint unlimited from $30 a month"
+    },
+    {
+        "start": 1952.48,
+        "end": 1954.48,
+        "text": " to just $15 a month."
+    },
+    {
+        "start": 1954.48,
+        "end": 1957.24,
+        "text": " Give it a try at minemobile.com slash switch."
+    },
+    {
+        "start": 1957.24,
+        "end": 1959.8,
+        "text": " $45 up from payment equivalent to $15 per month."
+    },
+    {
+        "start": 1959.8,
+        "end": 1961.32,
+        "text": " New customers on first three month plan only,"
+    },
+    {
+        "start": 1961.32,
+        "end": 1962.2,
+        "text": " taxes and fees extra,"
+    },
+    {
+        "start": 1962.2,
+        "end": 1963.9199999999998,
+        "text": " speed slower above 40 gigabyte CDTL."
+    },
+    {
+        "start": 1969.0,
+        "end": 1970.36,
+        "text": " All right, cyber listeners, welcome back."
+    },
+    {
+        "start": 1970.36,
+        "end": 1973.32,
+        "text": " We are back on talking about legislation"
+    },
+    {
+        "start": 1973.32,
+        "end": 1974.8799999999999,
+        "text": " and artificial intelligence."
+    },
+    {
+        "start": 1976.44,
+        "end": 1981.44,
+        "text": " On C-SAM, I noted that several of the local legislation"
+    },
+    {
+        "start": 1982.1599999999999,
+        "end": 1984.0,
+        "text": " was pretty narrow."
+    },
+    {
+        "start": 1984.0,
+        "end": 1989.0,
+        "text": " I think Ohio specifically is just about miners."
+    },
+    {
+        "start": 1990.04,
+        "end": 1993.52,
+        "text": " And I don't know why they like zero did on that specific thing."
+    },
+    {
+        "start": 1993.52,
+        "end": 1994.68,
+        "text": " It didn't do something for adults,"
+    },
+    {
+        "start": 1994.68,
+        "end": 1997.76,
+        "text": " but the proposed like Ohio draft legislation"
+    },
+    {
+        "start": 1997.76,
+        "end": 2002.08,
+        "text": " would narrowly target sexual,"
+    },
+    {
+        "start": 2002.08,
+        "end": 2006.8,
+        "text": " like basically deep fakes made of people under the age of 18."
+    },
+    {
+        "start": 2006.8,
+        "end": 2010.24,
+        "text": " And I thought that was an interesting carve out,"
+    },
+    {
+        "start": 2010.24,
+        "end": 2013.52,
+        "text": " no protection for anyone above the age of 18."
+    },
+    {
+        "start": 2013.52,
+        "end": 2016.68,
+        "text": " Legislators do often find it easier to pass bills"
+    },
+    {
+        "start": 2016.68,
+        "end": 2018.04,
+        "text": " that are about saving the children."
+    },
+    {
+        "start": 2018.04,
+        "end": 2022.48,
+        "text": " That's a common technique that we've experienced"
+    },
+    {
+        "start": 2022.48,
+        "end": 2024.8799999999999,
+        "text": " across the range of the issue areas"
+    },
+    {
+        "start": 2024.8799999999999,
+        "end": 2026.8,
+        "text": " that we work on."
+    },
+    {
+        "start": 2027.8799999999999,
+        "end": 2031.96,
+        "text": " At the same time, I haven't reviewed that bill specifically"
+    },
+    {
+        "start": 2031.96,
+        "end": 2034.72,
+        "text": " and what its enforcement mechanisms are,"
+    },
+    {
+        "start": 2034.72,
+        "end": 2039.52,
+        "text": " but I do think that narrowly targeted legislation"
+    },
+    {
+        "start": 2039.52,
+        "end": 2041.2,
+        "text": " that is focusing on specific harms"
+    },
+    {
+        "start": 2041.2,
+        "end": 2044.36,
+        "text": " is not a terrible direction to go generally."
+    },
+    {
+        "start": 2044.36,
+        "end": 2048.24,
+        "text": " And you just have to make sure that you are burning down"
+    },
+    {
+        "start": 2048.24,
+        "end": 2050.2,
+        "text": " the whole internet or important resources"
+    },
+    {
+        "start": 2050.2,
+        "end": 2054.72,
+        "text": " from our communities or online speech or what have you"
+    },
+    {
+        "start": 2055.3999999999996,
+        "end": 2058.9199999999996,
+        "text": " and pursue of those protections."
+    },
+    {
+        "start": 2061.8799999999997,
+        "end": 2063.3599999999997,
+        "text": " I feel like we're going to."
+    },
+    {
+        "start": 2064.3199999999997,
+        "end": 2068.08,
+        "text": " I feel like it may not be Taylor,"
+    },
+    {
+        "start": 2068.08,
+        "end": 2070.2799999999997,
+        "text": " maybe not be Taylor Swift,"
+    },
+    {
+        "start": 2070.2799999999997,
+        "end": 2073.2,
+        "text": " but something is going to happen to somebody that has power,"
+    },
+    {
+        "start": 2073.2,
+        "end": 2074.9199999999996,
+        "text": " that they are not going to like."
+    },
+    {
+        "start": 2075.8799999999997,
+        "end": 2079.52,
+        "text": " And then there will be a law that oversteps."
+    },
+    {
+        "start": 2079.52,
+        "end": 2084.08,
+        "text": " It feels like what is going to happen in the next few years, right?"
+    },
+    {
+        "start": 2084.08,
+        "end": 2086.2,
+        "text": " More or am I completely out of bounds?"
+    },
+    {
+        "start": 2087.0,
+        "end": 2091.24,
+        "text": " Oh, I'm been waiting for that ever since this whole hell of blue."
+    },
+    {
+        "start": 2091.24,
+        "end": 2093.92,
+        "text": " I started up over a year ago now."
+    },
+    {
+        "start": 2095.0,
+        "end": 2100.12,
+        "text": " Absolutely, we're going to see something massively impactful"
+    },
+    {
+        "start": 2100.12,
+        "end": 2101.2799999999997,
+        "text": " to somebody."
+    },
+    {
+        "start": 2101.2799999999997,
+        "end": 2103.2799999999997,
+        "text": " I mean, who's more powerful than Taylor Swift?"
+    },
+    {
+        "start": 2103.2799999999997,
+        "end": 2104.44,
+        "text": " I don't really know."
+    },
+    {
+        "start": 2105.7599999999998,
+        "end": 2109.7599999999998,
+        "text": " But happening to a legislator or with a compelling impact"
+    },
+    {
+        "start": 2109.7599999999998,
+        "end": 2112.2799999999997,
+        "text": " on democracy or what have you."
+    },
+    {
+        "start": 2112.28,
+        "end": 2116.76,
+        "text": " And that may force us to confront faster than we're ready,"
+    },
+    {
+        "start": 2116.76,
+        "end": 2121.76,
+        "text": " what we need to do to mitigate these harms."
+    },
+    {
+        "start": 2122.2000000000003,
+        "end": 2126.28,
+        "text": " And I think that these early legislative drafts"
+    },
+    {
+        "start": 2126.28,
+        "end": 2131.28,
+        "text": " and the criticisms of them and what have you are getting"
+    },
+    {
+        "start": 2134.28,
+        "end": 2137.6800000000003,
+        "text": " civil society and forcing legislators into conversations"
+    },
+    {
+        "start": 2137.6800000000003,
+        "end": 2140.84,
+        "text": " where we are talking about how not to throw the baby out"
+    },
+    {
+        "start": 2140.84,
+        "end": 2145.6800000000003,
+        "text": " of the bathwater and that part of the reason that we are"
+    },
+    {
+        "start": 2145.6800000000003,
+        "end": 2150.4,
+        "text": " where we are today with the mass image scraping"
+    },
+    {
+        "start": 2150.4,
+        "end": 2153.44,
+        "text": " and the biometric databases and the, you know,"
+    },
+    {
+        "start": 2153.44,
+        "end": 2158.44,
+        "text": " just being able to log in on some data broker website."
+    },
+    {
+        "start": 2158.44,
+        "end": 2165.44,
+        "text": " And I was thinking of a case where a family was almost tricked"
+    },
+    {
+        "start": 2165.44,
+        "end": 2170.6400000000003,
+        "text": " into sending bail money for their son after somebody got all"
+    },
+    {
+        "start": 2170.64,
+        "end": 2174.16,
+        "text": " the phone numbers for the family and person into the son's voice"
+    },
+    {
+        "start": 2174.16,
+        "end": 2176.2,
+        "text": " and this that and the other thing."
+    },
+    {
+        "start": 2176.2,
+        "end": 2178.0,
+        "text": " A lot of the vulnerabilities we're facing here"
+    },
+    {
+        "start": 2178.0,
+        "end": 2181.8799999999997,
+        "text": " is just because we don't have data privacy and at least in the US"
+    },
+    {
+        "start": 2181.8799999999997,
+        "end": 2183.92,
+        "text": " in any sort of substantial way."
+    },
+    {
+        "start": 2183.92,
+        "end": 2186.68,
+        "text": " We really haven't grappled with one of the worst"
+    },
+    {
+        "start": 2186.68,
+        "end": 2191.4,
+        "text": " and most extreme harms of the era of the internet"
+    },
+    {
+        "start": 2191.4,
+        "end": 2194.6,
+        "text": " that some say that we're leaving."
+    },
+    {
+        "start": 2194.6,
+        "end": 2198.04,
+        "text": " And I would say too that you're coming into the election"
+    },
+    {
+        "start": 2198.04,
+        "end": 2201.52,
+        "text": " thinking about if the Cambridge Analytica"
+    },
+    {
+        "start": 2201.52,
+        "end": 2205.48,
+        "text": " but with this technology and the ability to analyze and iterate"
+    },
+    {
+        "start": 2205.48,
+        "end": 2207.96,
+        "text": " at scale is extremely concerning."
+    },
+    {
+        "start": 2207.96,
+        "end": 2213.7599999999998,
+        "text": " And again, that goes back to privacy and that we don't have it"
+    },
+    {
+        "start": 2213.7599999999998,
+        "end": 2216.56,
+        "text": " and that data is just laying there to be exploited."
+    },
+    {
+        "start": 2217.64,
+        "end": 2219.12,
+        "text": " Yeah, that's a good point that we've kind of,"
+    },
+    {
+        "start": 2219.12,
+        "end": 2222.6,
+        "text": " we've moved on to like a new phase of the internet"
+    },
+    {
+        "start": 2222.6,
+        "end": 2226.24,
+        "text": " having not solved any of the problems of the previous phase"
+    },
+    {
+        "start": 2226.24,
+        "end": 2227.4399999999996,
+        "text": " of the internet."
+    },
+    {
+        "start": 2227.4399999999996,
+        "end": 2230.3199999999997,
+        "text": " And now we have, you know, and I always, I keep saying"
+    },
+    {
+        "start": 2230.3199999999997,
+        "end": 2233.4799999999996,
+        "text": " that like the sort of deep fake phenomenon is going to be like"
+    },
+    {
+        "start": 2233.4799999999996,
+        "end": 2236.2799999999997,
+        "text": " the death of not the literal death"
+    },
+    {
+        "start": 2236.2799999999997,
+        "end": 2239.68,
+        "text": " but it's going to be the end of like boomers"
+    },
+    {
+        "start": 2239.68,
+        "end": 2242.7599999999998,
+        "text": " like like following, finding like Taylor Swift videos"
+    },
+    {
+        "start": 2242.7599999999998,
+        "end": 2246.12,
+        "text": " like saying here click here for this cook for a free cookware"
+    },
+    {
+        "start": 2246.12,
+        "end": 2248.56,
+        "text": " set which actually happened."
+    },
+    {
+        "start": 2248.56,
+        "end": 2250.7599999999998,
+        "text": " That was another story we did a couple of weeks ago"
+    },
+    {
+        "start": 2250.7599999999998,
+        "end": 2254.2,
+        "text": " about somebody deep faking Taylor Swift's voice"
+    },
+    {
+        "start": 2254.2799999999997,
+        "end": 2256.2799999999997,
+        "text": " and like getting people to like click on a link"
+    },
+    {
+        "start": 2256.2799999999997,
+        "end": 2258.7599999999998,
+        "text": " for you know, cookware set though,"
+    },
+    {
+        "start": 2258.7599999999998,
+        "end": 2261.68,
+        "text": " that wasn't being offered and didn't exist."
+    },
+    {
+        "start": 2261.68,
+        "end": 2265.2799999999997,
+        "text": " And it was like, you know, it's so trivially easy."
+    },
+    {
+        "start": 2265.2799999999997,
+        "end": 2267.7999999999997,
+        "text": " That's the, that's like the sort of industrial scale"
+    },
+    {
+        "start": 2267.7999999999997,
+        "end": 2271.0,
+        "text": " that comes into play when which is all built off"
+    },
+    {
+        "start": 2271.0,
+        "end": 2274.7599999999998,
+        "text": " of the fact that we didn't really address a ton of these issues"
+    },
+    {
+        "start": 2274.7599999999998,
+        "end": 2277.9199999999996,
+        "text": " before they became like able to be automated."
+    },
+    {
+        "start": 2277.9199999999996,
+        "end": 2280.52,
+        "text": " Oh, I would say that it's the death knelfer"
+    },
+    {
+        "start": 2280.52,
+        "end": 2282.68,
+        "text": " for millennials too."
+    },
+    {
+        "start": 2282.68,
+        "end": 2284.04,
+        "text": " Oh yeah, for sure."
+    },
+    {
+        "start": 2284.04,
+        "end": 2287.2,
+        "text": " I think the millennials are the ones being targeted"
+    },
+    {
+        "start": 2287.2,
+        "end": 2288.44,
+        "text": " by Taylor Swift."
+    },
+    {
+        "start": 2288.44,
+        "end": 2290.32,
+        "text": " The boomers are all getting phone calls."
+    },
+    {
+        "start": 2290.32,
+        "end": 2292.8,
+        "text": " That's true."
+    },
+    {
+        "start": 2292.8,
+        "end": 2295.36,
+        "text": " So this is just like, this is the advanced robo call"
+    },
+    {
+        "start": 2295.36,
+        "end": 2297.56,
+        "text": " for the people that grew up online."
+    },
+    {
+        "start": 2297.56,
+        "end": 2302.56,
+        "text": " And I wonder how much of all of this will burn down"
+    },
+    {
+        "start": 2303.56,
+        "end": 2305.6,
+        "text": " to avoid getting hurt."
+    },
+    {
+        "start": 2305.6,
+        "end": 2307.48,
+        "text": " And that's one of my big concerns."
+    },
+    {
+        "start": 2307.48,
+        "end": 2310.6,
+        "text": " So I also don't, but also I don't know,"
+    },
+    {
+        "start": 2310.6,
+        "end": 2312.4,
+        "text": " I don't know what you do."
+    },
+    {
+        "start": 2312.52,
+        "end": 2314.04,
+        "text": " Just I simply don't."
+    },
+    {
+        "start": 2315.04,
+        "end": 2318.48,
+        "text": " Well, I would say that there are a fair amount of parallels"
+    },
+    {
+        "start": 2318.48,
+        "end": 2321.1600000000003,
+        "text": " or I remember back in high school,"
+    },
+    {
+        "start": 2321.1600000000003,
+        "end": 2323.52,
+        "text": " whether or not you're allowed to cite Wikipedia"
+    },
+    {
+        "start": 2323.52,
+        "end": 2324.96,
+        "text": " and whether you can trust the internet,"
+    },
+    {
+        "start": 2324.96,
+        "end": 2327.2000000000003,
+        "text": " whether you can trust what you read on the internet."
+    },
+    {
+        "start": 2327.2000000000003,
+        "end": 2330.2000000000003,
+        "text": " And that sort of media literacy"
+    },
+    {
+        "start": 2330.2000000000003,
+        "end": 2333.08,
+        "text": " and the existential dread of a website"
+    },
+    {
+        "start": 2333.08,
+        "end": 2334.8,
+        "text": " that you can change instead of a newspaper"
+    },
+    {
+        "start": 2334.8,
+        "end": 2338.84,
+        "text": " that you can't was really present in that time."
+    },
+    {
+        "start": 2338.92,
+        "end": 2343.92,
+        "text": " And this to an extent feels like that,"
+    },
+    {
+        "start": 2344.4,
+        "end": 2348.4,
+        "text": " although we're talking about much more convincing mediums"
+    },
+    {
+        "start": 2348.4,
+        "end": 2352.04,
+        "text": " to our little animal brains that have not evolved"
+    },
+    {
+        "start": 2352.04,
+        "end": 2353.56,
+        "text": " for any of this."
+    },
+    {
+        "start": 2353.56,
+        "end": 2358.56,
+        "text": " And so, well, I'm not sitting in the most optimistic place"
+    },
+    {
+        "start": 2359.52,
+        "end": 2362.52,
+        "text": " here. I also don't feel that it's completely foreign territory."
+    },
+    {
+        "start": 2362.52,
+        "end": 2364.6400000000003,
+        "text": " And that to me at least is encouraging."
+    },
+    {
+        "start": 2365.6,
+        "end": 2366.44,
+        "text": " It's a fair point."
+    },
+    {
+        "start": 2366.44,
+        "end": 2370.44,
+        "text": " Like we've been through big horse frightening changes"
+    },
+    {
+        "start": 2370.44,
+        "end": 2373.52,
+        "text": " like about the way the information sphere works before."
+    },
+    {
+        "start": 2373.52,
+        "end": 2374.8799999999997,
+        "text": " And though to Janice's point,"
+    },
+    {
+        "start": 2374.8799999999997,
+        "end": 2376.72,
+        "text": " we may have not solved some of the previous issues"
+    },
+    {
+        "start": 2376.72,
+        "end": 2381.72,
+        "text": " we are surviving and still using the internet."
+    },
+    {
+        "start": 2382.04,
+        "end": 2384.3599999999997,
+        "text": " How and how the ways we use the internet"
+    },
+    {
+        "start": 2384.3599999999997,
+        "end": 2385.96,
+        "text": " I think will definitely change."
+    },
+    {
+        "start": 2385.96,
+        "end": 2389.3599999999997,
+        "text": " And that's my transition into talking about"
+    },
+    {
+        "start": 2389.3599999999997,
+        "end": 2393.52,
+        "text": " the kind of the back half of the conversation today."
+    },
+    {
+        "start": 2393.52,
+        "end": 2396.4,
+        "text": " Just kind of how we started talking about this offline"
+    },
+    {
+        "start": 2396.4,
+        "end": 2399.52,
+        "text": " Janice, which is that the AI thing is interesting"
+    },
+    {
+        "start": 2400.52,
+        "end": 2403.52,
+        "text": " because it's in a boom cycle right now"
+    },
+    {
+        "start": 2404.48,
+        "end": 2406.96,
+        "text": " that I think looks very different to you and I"
+    },
+    {
+        "start": 2406.96,
+        "end": 2409.84,
+        "text": " because we're journalists and we have our inboxes"
+    },
+    {
+        "start": 2409.84,
+        "end": 2411.44,
+        "text": " are very strange."
+    },
+    {
+        "start": 2411.44,
+        "end": 2415.08,
+        "text": " It looks a lot on the surface like what"
+    },
+    {
+        "start": 2415.08,
+        "end": 2419.28,
+        "text": " Web 3 in crypto looked like a year ago, right?"
+    },
+    {
+        "start": 2420.0400000000004,
+        "end": 2424.6400000000003,
+        "text": " Could you tell me about your thoughts on how"
+    },
+    {
+        "start": 2424.6400000000003,
+        "end": 2426.36,
+        "text": " AI's become the new Web 3?"
+    },
+    {
+        "start": 2427.32,
+        "end": 2428.6800000000003,
+        "text": " Oh, for sure."
+    },
+    {
+        "start": 2428.6800000000003,
+        "end": 2432.1600000000003,
+        "text": " I mean, I guess the best way of phrasing this is"
+    },
+    {
+        "start": 2432.88,
+        "end": 2436.52,
+        "text": " like I invite, well, okay, I don't invite other people"
+    },
+    {
+        "start": 2436.52,
+        "end": 2437.6400000000003,
+        "text": " to look in my inbox."
+    },
+    {
+        "start": 2437.6400000000003,
+        "end": 2443.1200000000003,
+        "text": " But like if I were to give you a sampling of my email inbox"
+    },
+    {
+        "start": 2443.1200000000003,
+        "end": 2447.1200000000003,
+        "text": " on a weekly basis, you would see countless pitches."
+    },
+    {
+        "start": 2447.44,
+        "end": 2450.16,
+        "text": " Some of the worst pitches that I've ever seen in my life"
+    },
+    {
+        "start": 2450.16,
+        "end": 2453.48,
+        "text": " from all these companies that didn't exist six months ago."
+    },
+    {
+        "start": 2453.48,
+        "end": 2457.4,
+        "text": " And oftentimes, and I've been needing to do a more sort of"
+    },
+    {
+        "start": 2457.4,
+        "end": 2459.72,
+        "text": " like in-depth investigation about this"
+    },
+    {
+        "start": 2459.72,
+        "end": 2461.56,
+        "text": " and maybe even write about it."
+    },
+    {
+        "start": 2461.56,
+        "end": 2463.7599999999998,
+        "text": " A lot of the times I will look up these companies"
+    },
+    {
+        "start": 2463.7599999999998,
+        "end": 2465.2,
+        "text": " that didn't exist six months ago"
+    },
+    {
+        "start": 2465.2,
+        "end": 2468.12,
+        "text": " and I will find that their founders are the same people"
+    },
+    {
+        "start": 2468.12,
+        "end": 2472.7599999999998,
+        "text": " who did crypto startups and Web 3 startups like a year ago."
+    },
+    {
+        "start": 2472.7599999999998,
+        "end": 2475.52,
+        "text": " And you know, this is kind of driving home for me,"
+    },
+    {
+        "start": 2475.52,
+        "end": 2480.52,
+        "text": " the fact that we are in this kind of looping hype cycle"
+    },
+    {
+        "start": 2480.52,
+        "end": 2483.6,
+        "text": " when it comes to tech and when it comes to the sort of like"
+    },
+    {
+        "start": 2483.6,
+        "end": 2487.28,
+        "text": " economics and like the phase of capitalism that we're in"
+    },
+    {
+        "start": 2487.28,
+        "end": 2490.2,
+        "text": " where there's really no new ideas."
+    },
+    {
+        "start": 2490.2,
+        "end": 2493.08,
+        "text": " Everyone is just kind of like tweaking the ideas"
+    },
+    {
+        "start": 2493.08,
+        "end": 2496.92,
+        "text": " a little bit each time and trying to sell their new gift."
+    },
+    {
+        "start": 2496.92,
+        "end": 2498.92,
+        "text": " And you know, AI is the new grip."
+    },
+    {
+        "start": 2498.92,
+        "end": 2500.92,
+        "text": " There is a difference I should mention."
+    },
+    {
+        "start": 2500.92,
+        "end": 2504.8,
+        "text": " Like I think that unlike like NFTs, for example,"
+    },
+    {
+        "start": 2504.8,
+        "end": 2509.8,
+        "text": " there is an actual use case in a lot of cases for AI"
+    },
+    {
+        "start": 2509.8,
+        "end": 2510.7200000000003,
+        "text": " to automate things."
+    },
+    {
+        "start": 2510.7200000000003,
+        "end": 2515.2400000000002,
+        "text": " I think that like the allure of automation is pretty undeniable."
+    },
+    {
+        "start": 2515.2400000000002,
+        "end": 2520.2400000000002,
+        "text": " And I think that especially when it comes to companies"
+    },
+    {
+        "start": 2520.8,
+        "end": 2523.96,
+        "text": " that are looking for ways to cut costs"
+    },
+    {
+        "start": 2523.96,
+        "end": 2526.6800000000003,
+        "text": " and do like the sort of siren call of that"
+    },
+    {
+        "start": 2526.6800000000003,
+        "end": 2530.0800000000004,
+        "text": " is just completely unable to be resisted."
+    },
+    {
+        "start": 2530.0800000000004,
+        "end": 2534.44,
+        "text": " And beyond that, there are actual use cases"
+    },
+    {
+        "start": 2534.44,
+        "end": 2539.44,
+        "text": " in which AI can be I think used to like help people."
+    },
+    {
+        "start": 2540.68,
+        "end": 2544.16,
+        "text": " However, you know, it has all these problems"
+    },
+    {
+        "start": 2544.16,
+        "end": 2546.28,
+        "text": " that we've been talking about up to now."
+    },
+    {
+        "start": 2546.28,
+        "end": 2550.88,
+        "text": " And in a lot of ways, the sort of like cycle"
+    },
+    {
+        "start": 2550.88,
+        "end": 2554.4,
+        "text": " that we've gotten into where it seems like it's becoming"
+    },
+    {
+        "start": 2554.4,
+        "end": 2557.12,
+        "text": " faster like Mark Zuckerberg was pitching everybody"
+    },
+    {
+        "start": 2557.12,
+        "end": 2559.7200000000003,
+        "text": " on the metaverse like a year ago."
+    },
+    {
+        "start": 2559.7200000000003,
+        "end": 2561.76,
+        "text": " Was it that recently?"
+    },
+    {
+        "start": 2561.76,
+        "end": 2563.92,
+        "text": " And already divesting from that."
+    },
+    {
+        "start": 2563.92,
+        "end": 2568.48,
+        "text": " And it's kind of like a weird death spiral type vibe"
+    },
+    {
+        "start": 2568.48,
+        "end": 2570.7200000000003,
+        "text": " right now in tech."
+    },
+    {
+        "start": 2570.7200000000003,
+        "end": 2573.4,
+        "text": " Yeah, he's got a shed what 22% of his workforce"
+    },
+    {
+        "start": 2573.4,
+        "end": 2578.4,
+        "text": " to get returns back up on the company, which worked."
+    },
+    {
+        "start": 2579.76,
+        "end": 2583.08,
+        "text": " Short term actions produce lovely short term results."
+    },
+    {
+        "start": 2583.08,
+        "end": 2584.96,
+        "text": " Yeah, everybody's in short term right now."
+    },
+    {
+        "start": 2584.96,
+        "end": 2585.8,
+        "text": " That's the thing."
+    },
+    {
+        "start": 2585.8,
+        "end": 2589.28,
+        "text": " Everybody is like, it's just what's the latest buzzword soup"
+    },
+    {
+        "start": 2589.28,
+        "end": 2591.2400000000002,
+        "text": " that we can sell people on?"
+    },
+    {
+        "start": 2591.24,
+        "end": 2594.16,
+        "text": " I think everyone's in short term most of the time, right?"
+    },
+    {
+        "start": 2594.16,
+        "end": 2596.7599999999998,
+        "text": " It's kind of the way the business operates."
+    },
+    {
+        "start": 2596.7599999999998,
+        "end": 2598.72,
+        "text": " That's what it feels like to me anyway."
+    },
+    {
+        "start": 2598.72,
+        "end": 2600.04,
+        "text": " The way business operates."
+    },
+    {
+        "start": 2600.04,
+        "end": 2605.04,
+        "text": " Yeah, I recall the moment when I was reading the crypto VC"
+    },
+    {
+        "start": 2605.16,
+        "end": 2610.16,
+        "text": " is moving to AI article and business inside"
+    },
+    {
+        "start": 2611.0,
+        "end": 2612.0,
+        "text": " or who knows what it was."
+    },
+    {
+        "start": 2612.0,
+        "end": 2617.0,
+        "text": " But and my first reaction was just, oh, here we go."
+    },
+    {
+        "start": 2617.84,
+        "end": 2622.84,
+        "text": " Here we go, here come the new AI thought leadership,"
+    },
+    {
+        "start": 2624.0,
+        "end": 2628.68,
+        "text": " human rights, whatever human artistry campaign."
+    },
+    {
+        "start": 2628.68,
+        "end": 2633.68,
+        "text": " But it's the RIA and these sorts of like new organizations"
+    },
+    {
+        "start": 2635.88,
+        "end": 2639.8,
+        "text": " that are being being stood up often by like VC capital"
+    },
+    {
+        "start": 2639.8,
+        "end": 2642.2,
+        "text": " or established entities or what have you"
+    },
+    {
+        "start": 2642.2,
+        "end": 2646.8,
+        "text": " to sort of assort her from the work that activists"
+    },
+    {
+        "start": 2646.8,
+        "end": 2648.7200000000003,
+        "text": " have been doing for years."
+    },
+    {
+        "start": 2648.7200000000003,
+        "end": 2652.96,
+        "text": " It was from our perspective, it was really profound"
+    },
+    {
+        "start": 2652.96,
+        "end": 2657.96,
+        "text": " over the past year to see how erased so much of the like decades"
+    },
+    {
+        "start": 2660.32,
+        "end": 2663.48,
+        "text": " of work of folks at the algorithm adjusted just as league"
+    },
+    {
+        "start": 2663.48,
+        "end": 2665.36,
+        "text": " of like our work on facial recognition"
+    },
+    {
+        "start": 2666.36,
+        "end": 2669.4,
+        "text": " was from the larger conversation"
+    },
+    {
+        "start": 2669.4,
+        "end": 2673.92,
+        "text": " and the gut instinct there was 110% to build something new"
+    },
+    {
+        "start": 2674.84,
+        "end": 2678.36,
+        "text": " rather than to go to the analysis and advocacy"
+    },
+    {
+        "start": 2678.36,
+        "end": 2682.6800000000003,
+        "text": " that had been happening for years upon years"
+    },
+    {
+        "start": 2682.6800000000003,
+        "end": 2686.6,
+        "text": " and this space and actually had a lot of good frames"
+    },
+    {
+        "start": 2686.6,
+        "end": 2690.0,
+        "text": " and good starting points for ways to think about this"
+    },
+    {
+        "start": 2690.0,
+        "end": 2694.16,
+        "text": " and a right-sforward way that would actually help AI"
+    },
+    {
+        "start": 2694.16,
+        "end": 2698.04,
+        "text": " be that force for good instead of just another tool"
+    },
+    {
+        "start": 2698.04,
+        "end": 2698.96,
+        "text": " dystopia."
+    },
+    {
+        "start": 2700.0,
+        "end": 2702.76,
+        "text": " It's kind of Silicon Valley's attitude all over, right?"
+    },
+    {
+        "start": 2702.76,
+        "end": 2705.8,
+        "text": " It's trapped in this eternal present moment"
+    },
+    {
+        "start": 2705.8,
+        "end": 2710.0400000000004,
+        "text": " with no sense of the history that it's attempting"
+    },
+    {
+        "start": 2710.0400000000004,
+        "end": 2712.5600000000004,
+        "text": " to disrupt quote unquote, right?"
+    },
+    {
+        "start": 2712.5600000000004,
+        "end": 2715.6000000000004,
+        "text": " It doesn't understand that whatever,"
+    },
+    {
+        "start": 2715.6000000000004,
+        "end": 2718.48,
+        "text": " a lot of the products and services it's trying to offer"
+    },
+    {
+        "start": 2718.48,
+        "end": 2721.5200000000004,
+        "text": " are already being offered in a way"
+    },
+    {
+        "start": 2721.5200000000004,
+        "end": 2723.84,
+        "text": " that the marketplace deems efficient"
+    },
+    {
+        "start": 2723.84,
+        "end": 2727.7200000000003,
+        "text": " and that if you try to release X, Y or Z product"
+    },
+    {
+        "start": 2727.7200000000003,
+        "end": 2731.2400000000002,
+        "text": " you're just going to end up where the market is now"
+    },
+    {
+        "start": 2731.24,
+        "end": 2735.08,
+        "text": " but in 30 years time and after hurting a lot of people"
+    },
+    {
+        "start": 2735.08,
+        "end": 2736.8799999999997,
+        "text": " and maybe not making nearly as much money"
+    },
+    {
+        "start": 2736.8799999999997,
+        "end": 2738.56,
+        "text": " as you thought you would."
+    },
+    {
+        "start": 2738.56,
+        "end": 2741.3199999999997,
+        "text": " And then it's capitalism again."
+    },
+    {
+        "start": 2741.3199999999997,
+        "end": 2743.3599999999997,
+        "text": " There are there incentivized to do that"
+    },
+    {
+        "start": 2743.3599999999997,
+        "end": 2746.4799999999996,
+        "text": " is that is how they are supposed to operate legally"
+    },
+    {
+        "start": 2746.4799999999996,
+        "end": 2748.72,
+        "text": " out of obligation to their shareholders, which is..."
+    },
+    {
+        "start": 2750.4399999999996,
+        "end": 2751.9599999999996,
+        "text": " Which hurts, you know?"
+    },
+    {
+        "start": 2753.2799999999997,
+        "end": 2756.56,
+        "text": " I just saw somebody, a good example of what we're talking about."
+    },
+    {
+        "start": 2756.56,
+        "end": 2760.4799999999996,
+        "text": " I just saw somebody screenshot a tweet of someone complaining"
+    },
+    {
+        "start": 2760.52,
+        "end": 2764.52,
+        "text": " because Revil, the like startup that has,"
+    },
+    {
+        "start": 2764.52,
+        "end": 2766.4,
+        "text": " I don't know if they have this where you are, Leah,"
+    },
+    {
+        "start": 2766.4,
+        "end": 2768.8,
+        "text": " but it's like the sort of like mo-peds"
+    },
+    {
+        "start": 2768.8,
+        "end": 2772.04,
+        "text": " that you can rent with an app and drive around."
+    },
+    {
+        "start": 2772.04,
+        "end": 2774.92,
+        "text": " Revil is apparently closing in New York City"
+    },
+    {
+        "start": 2774.92,
+        "end": 2777.32,
+        "text": " so they're not gonna, they're done."
+    },
+    {
+        "start": 2777.32,
+        "end": 2780.4,
+        "text": " And somebody was complaining about this saying,"
+    },
+    {
+        "start": 2780.4,
+        "end": 2782.96,
+        "text": " great, now that Revil isn't around,"
+    },
+    {
+        "start": 2782.96,
+        "end": 2786.8,
+        "text": " there's no way to get between North and South Brooklyn"
+    },
+    {
+        "start": 2786.8,
+        "end": 2790.04,
+        "text": " without paying $65 and someone was just like,"
+    },
+    {
+        "start": 2791.16,
+        "end": 2794.12,
+        "text": " well, how about these alternatives"
+    },
+    {
+        "start": 2794.12,
+        "end": 2795.64,
+        "text": " that you can definitely get you"
+    },
+    {
+        "start": 2795.64,
+        "end": 2799.36,
+        "text": " between North and South Brooklyn for less than $65"
+    },
+    {
+        "start": 2799.36,
+        "end": 2803.48,
+        "text": " and it's like the B34 bus and the G train."
+    },
+    {
+        "start": 2804.72,
+        "end": 2807.32,
+        "text": " So it's like, you know, that's just kind of like,"
+    },
+    {
+        "start": 2807.32,
+        "end": 2811.08,
+        "text": " you know, reinventing the wheel and calling it"
+    },
+    {
+        "start": 2811.08,
+        "end": 2813.96,
+        "text": " a tech startup is kind of like the thing."
+    },
+    {
+        "start": 2813.96,
+        "end": 2818.48,
+        "text": " Also, I was looking through my deleted email inbox"
+    },
+    {
+        "start": 2818.48,
+        "end": 2821.64,
+        "text": " just to give some examples of like the type of garbage"
+    },
+    {
+        "start": 2821.64,
+        "end": 2823.12,
+        "text": " that I'm getting."
+    },
+    {
+        "start": 2823.12,
+        "end": 2824.88,
+        "text": " One of these things says,"
+    },
+    {
+        "start": 2824.88,
+        "end": 2827.36,
+        "text": " AI girlfriends are on the rise."
+    },
+    {
+        "start": 2827.36,
+        "end": 2829.28,
+        "text": " Could they make men behave better?"
+    },
+    {
+        "start": 2831.44,
+        "end": 2833.04,
+        "text": " Much think about."
+    },
+    {
+        "start": 2833.04,
+        "end": 2834.4,
+        "text": " Absolutely not."
+    },
+    {
+        "start": 2834.4,
+        "end": 2835.2400000000002,
+        "text": " They will."
+    },
+    {
+        "start": 2835.2400000000002,
+        "end": 2837.8,
+        "text": " It's like the general sense of this is like,"
+    },
+    {
+        "start": 2837.8,
+        "end": 2842.04,
+        "text": " have you done any thought about what this problem is"
+    },
+    {
+        "start": 2842.04,
+        "end": 2843.64,
+        "text": " and that you're trying to address?"
+    },
+    {
+        "start": 2843.64,
+        "end": 2845.72,
+        "text": " Like, why does it exist?"
+    },
+    {
+        "start": 2845.72,
+        "end": 2847.2400000000002,
+        "text": " And that goes back to the age old,"
+    },
+    {
+        "start": 2847.24,
+        "end": 2848.8799999999997,
+        "text": " the whole technology will save us thing."
+    },
+    {
+        "start": 2848.8799999999997,
+        "end": 2850.72,
+        "text": " Like, we don't have to address human problems"
+    },
+    {
+        "start": 2850.72,
+        "end": 2851.9599999999996,
+        "text": " as we can just make it happen,"
+    },
+    {
+        "start": 2851.9599999999996,
+        "end": 2856.68,
+        "text": " which is one of my long term fist shakes in space."
+    },
+    {
+        "start": 2856.68,
+        "end": 2859.9199999999996,
+        "text": " Yes, it's just so apparent that even a lot of this stuff"
+    },
+    {
+        "start": 2859.9199999999996,
+        "end": 2863.24,
+        "text": " that we're talking about with AI and what have you,"
+    },
+    {
+        "start": 2863.24,
+        "end": 2866.3999999999996,
+        "text": " like at the core of that is like economic anxiety"
+    },
+    {
+        "start": 2866.3999999999996,
+        "end": 2868.2799999999997,
+        "text": " is lack of education is social ills"
+    },
+    {
+        "start": 2868.2799999999997,
+        "end": 2869.9199999999996,
+        "text": " and we don't want to touch that."
+    },
+    {
+        "start": 2869.9199999999996,
+        "end": 2874.9199999999996,
+        "text": " So your inbox looks full of AI girlfriends, Janice."
+    },
+    {
+        "start": 2875.16,
+        "end": 2876.3599999999997,
+        "text": " Oh, yeah, for sure."
+    },
+    {
+        "start": 2876.36,
+        "end": 2878.7200000000003,
+        "text": " I think it's really responding to the fact that,"
+    },
+    {
+        "start": 2878.7200000000003,
+        "end": 2880.6,
+        "text": " yeah, that people are,"
+    },
+    {
+        "start": 2880.6,
+        "end": 2885.44,
+        "text": " people are very anxious about the economy for good reasons."
+    },
+    {
+        "start": 2885.44,
+        "end": 2887.36,
+        "text": " And it's because there's kind of like,"
+    },
+    {
+        "start": 2887.36,
+        "end": 2889.32,
+        "text": " the money is kind of gone, right?"
+    },
+    {
+        "start": 2889.32,
+        "end": 2892.56,
+        "text": " It's like, people are losing jobs."
+    },
+    {
+        "start": 2892.56,
+        "end": 2895.8,
+        "text": " Entire industries are kind of like, you know,"
+    },
+    {
+        "start": 2895.8,
+        "end": 2900.1600000000003,
+        "text": " dying out, you know, it's very tempting to basically say,"
+    },
+    {
+        "start": 2900.1600000000003,
+        "end": 2903.76,
+        "text": " hey, we found a way to fix this complicated social problem"
+    },
+    {
+        "start": 2903.76,
+        "end": 2904.6,
+        "text": " with an app."
+    },
+    {
+        "start": 2904.6,
+        "end": 2907.2,
+        "text": " And like, you know, I kind of almost understand"
+    },
+    {
+        "start": 2907.2,
+        "end": 2909.2799999999997,
+        "text": " why a lot of people are able to accept that."
+    },
+    {
+        "start": 2909.2799999999997,
+        "end": 2911.56,
+        "text": " It's sort of in the same vein as the,"
+    },
+    {
+        "start": 2911.56,
+        "end": 2914.8399999999997,
+        "text": " you know, the sort of mega church preacher saying,"
+    },
+    {
+        "start": 2914.8399999999997,
+        "end": 2916.7599999999998,
+        "text": " like, I have this thing this one way."
+    },
+    {
+        "start": 2916.7599999999998,
+        "end": 2917.6,
+        "text": " It's kind of, you know,"
+    },
+    {
+        "start": 2917.6,
+        "end": 2919.68,
+        "text": " and that's like we've talked about Silicon Valley"
+    },
+    {
+        "start": 2919.68,
+        "end": 2921.2799999999997,
+        "text": " as kind of like this new kind of,"
+    },
+    {
+        "start": 2921.2799999999997,
+        "end": 2923.2799999999997,
+        "text": " almost religious institution."
+    },
+    {
+        "start": 2923.2799999999997,
+        "end": 2925.68,
+        "text": " And it kind of resembles that in a lot of ways."
+    },
+    {
+        "start": 2925.68,
+        "end": 2930.0,
+        "text": " It's offering people very simplistic solutions"
+    },
+    {
+        "start": 2930.0,
+        "end": 2933.44,
+        "text": " to complicated problems that most people don't have time"
+    },
+    {
+        "start": 2933.44,
+        "end": 2936.4,
+        "text": " to like fully think about or analyze."
+    },
+    {
+        "start": 2937.52,
+        "end": 2940.2000000000003,
+        "text": " People are drawn to that because they still want to have hope,"
+    },
+    {
+        "start": 2940.2000000000003,
+        "end": 2942.28,
+        "text": " you know, that's fair."
+    },
+    {
+        "start": 2942.28,
+        "end": 2944.2400000000002,
+        "text": " That's understandable, even if it's false,"
+    },
+    {
+        "start": 2944.2400000000002,
+        "end": 2946.8,
+        "text": " and even if ultimately the reality is"
+    },
+    {
+        "start": 2946.8,
+        "end": 2950.0,
+        "text": " we've just got much, much bigger work to do than AI girlfriends."
+    },
+    {
+        "start": 2950.0,
+        "end": 2951.68,
+        "text": " Yeah, girlfriends are going to distract us"
+    },
+    {
+        "start": 2951.68,
+        "end": 2953.7200000000003,
+        "text": " from the work we have to do."
+    },
+    {
+        "start": 2953.7200000000003,
+        "end": 2957.76,
+        "text": " I think that's a lovely place to close at the conversation"
+    },
+    {
+        "start": 2957.76,
+        "end": 2960.04,
+        "text": " unless Janice or Lee have something else."
+    },
+    {
+        "start": 2961.04,
+        "end": 2962.44,
+        "text": " No, I'm good."
+    },
+    {
+        "start": 2962.44,
+        "end": 2964.04,
+        "text": " I'm going to go to the bunch of copyright lawyers"
+    },
+    {
+        "start": 2964.04,
+        "end": 2967.2,
+        "text": " talk about talking about all this next."
+    },
+    {
+        "start": 2968.48,
+        "end": 2970.2,
+        "text": " Thank you so much for coming on to cyber"
+    },
+    {
+        "start": 2970.2,
+        "end": 2971.8,
+        "text": " and walking us through this."
+    },
+    {
+        "start": 2973.24,
+        "end": 2974.72,
+        "text": " It's been such a pleasure."
+    },
+    {
+        "start": 2974.72,
+        "end": 2976.56,
+        "text": " It's really been a good conversation."
+    },
+    {
+        "start": 2976.56,
+        "end": 2978.64,
+        "text": " And yeah, happy to come back anytime."
+    },
+    {
+        "start": 2978.64,
+        "end": 2980.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2980.64,
+        "end": 2982.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2982.64,
+        "end": 2984.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2984.64,
+        "end": 2986.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2986.64,
+        "end": 2988.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2988.64,
+        "end": 2990.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2990.64,
+        "end": 2992.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2992.64,
+        "end": 2994.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2994.64,
+        "end": 2996.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2996.64,
+        "end": 2998.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 2998.64,
+        "end": 3000.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3000.64,
+        "end": 3002.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3002.64,
+        "end": 3004.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3004.64,
+        "end": 3006.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3006.64,
+        "end": 3008.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3008.64,
+        "end": 3010.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3010.64,
+        "end": 3012.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3012.64,
+        "end": 3014.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3014.64,
+        "end": 3016.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3016.64,
+        "end": 3018.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3018.64,
+        "end": 3020.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3020.64,
+        "end": 3022.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3022.64,
+        "end": 3024.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3024.64,
+        "end": 3026.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3026.64,
+        "end": 3028.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3028.64,
+        "end": 3030.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3030.64,
+        "end": 3032.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3032.64,
+        "end": 3034.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3034.64,
+        "end": 3036.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3036.64,
+        "end": 3038.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3038.64,
+        "end": 3040.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3040.64,
+        "end": 3042.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3042.64,
+        "end": 3044.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3044.64,
+        "end": 3046.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3046.64,
+        "end": 3048.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3048.64,
+        "end": 3050.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3050.64,
+        "end": 3052.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3052.64,
+        "end": 3054.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3054.64,
+        "end": 3056.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3056.64,
+        "end": 3058.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3058.64,
+        "end": 3060.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3060.64,
+        "end": 3062.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3062.64,
+        "end": 3063.64,
+        "text": " I'm going to go to the bunch of copyright lawyers."
+    },
+    {
+        "start": 3063.64,
+        "end": 3068.64,
+        "text": " This podcast is brought to you by Aura."
+    },
+    {
+        "start": 3068.64,
+        "end": 3071.64,
+        "text": " 2024 has seen a surge in high profile data breaches,"
+    },
+    {
+        "start": 3071.64,
+        "end": 3075.64,
+        "text": " raising serious concerns about the security of personal information."
+    },
+    {
+        "start": 3075.64,
+        "end": 3078.64,
+        "text": " This past summer, National Public Data reported a breach"
+    },
+    {
+        "start": 3078.64,
+        "end": 3080.64,
+        "text": " potentially affecting every American."
+    },
+    {
+        "start": 3080.64,
+        "end": 3082.64,
+        "text": " That's why we're thrilled to partner with Aura."
+    },
+    {
+        "start": 3082.64,
+        "end": 3085.64,
+        "text": " Aura is a complete online safety toolkit,"
+    },
+    {
+        "start": 3085.64,
+        "end": 3087.64,
+        "text": " which includes a variety of other features"
+    },
+    {
+        "start": 3087.64,
+        "end": 3089.64,
+        "text": " to keep you safe online,"
+    },
+    {
+        "start": 3089.64,
+        "end": 3091.64,
+        "text": " including a VPN for secure browsing."
+    },
+    {
+        "start": 3091.64,
+        "end": 3093.64,
+        "text": " Data broker opt out to stop companies"
+    },
+    {
+        "start": 3093.64,
+        "end": 3095.64,
+        "text": " from selling your personal information,"
+    },
+    {
+        "start": 3095.64,
+        "end": 3097.64,
+        "text": " a password manager to help you create"
+    },
+    {
+        "start": 3097.64,
+        "end": 3099.64,
+        "text": " and store strong passwords and more."
+    },
+    {
+        "start": 3099.64,
+        "end": 3102.64,
+        "text": " For a limited time, Aura is offering our listeners"
+    },
+    {
+        "start": 3102.64,
+        "end": 3105.64,
+        "text": " a 14-day trial plus a check of your data"
+    },
+    {
+        "start": 3105.64,
+        "end": 3108.64,
+        "text": " to see if your personal information has been leaked online."
+    },
+    {
+        "start": 3108.64,
+        "end": 3112.64,
+        "text": " All for free when you visit Aura.com slash safety."
+    },
+    {
+        "start": 3112.64,
+        "end": 3117.64,
+        "text": " That's Aura.com slash safety to sign up for a 14-day free trial"
+    },
+    {
+        "start": 3117.64,
+        "end": 3120.64,
+        "text": " and start protecting you and your loved ones."
+    },
+    {
+        "start": 3120.64,
+        "end": 3124.64,
+        "text": " That's aur.a.com slash safety."
+    },
+    {
+        "start": 3124.64,
+        "end": 3128.64,
+        "text": " Certain terms apply, so be sure to check the site for details."
+    }
+]

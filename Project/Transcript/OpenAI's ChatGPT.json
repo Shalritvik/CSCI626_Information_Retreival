@@ -1,0 +1,2227 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.0,
+        "text": " This is an MPB Think Radio Podcast."
+    },
+    {
+        "start": 7.0,
+        "end": 13.84,
+        "text": " Hi, I'm Dr. Jimmy Stewart, Professor of Internal Medicine and Pediatrics at the University"
+    },
+    {
+        "start": 13.84,
+        "end": 15.68,
+        "text": " of Mississippi Medical Center."
+    },
+    {
+        "start": 15.68,
+        "end": 20.080000000000002,
+        "text": " On the original Southern remedy, we answer questions about all aspects of your health"
+    },
+    {
+        "start": 20.080000000000002,
+        "end": 24.0,
+        "text": " and share some of the latest medical information in the news."
+    },
+    {
+        "start": 24.0,
+        "end": 28.560000000000002,
+        "text": " You can listen to the show on Wednesdays at 11 on MPB Think Radio or you can subscribe"
+    },
+    {
+        "start": 28.56,
+        "end": 35.56,
+        "text": " to the podcast by searching for Southern Rimini on your preferred podcasting app."
+    },
+    {
+        "start": 35.56,
+        "end": 38.72,
+        "text": " Welcome into Everyday Tech on MPB Think Radio."
+    },
+    {
+        "start": 38.72,
+        "end": 42.56,
+        "text": " I'm your host Jay White here today with Jeremy Thompson, the Hanyesburg computer doctor"
+    },
+    {
+        "start": 42.56,
+        "end": 47.12,
+        "text": " and Wilts-Katrear IT Director with Rankin County and IT Instructor at Holmes Community College."
+    },
+    {
+        "start": 47.12,
+        "end": 52.0,
+        "text": " Everyday Tech is MPB Think Radio's show about consumer technology and your very own personal"
+    },
+    {
+        "start": 52.0,
+        "end": 54.96,
+        "text": " IT department all wrapped up into one convenient package."
+    },
+    {
+        "start": 54.96,
+        "end": 60.04,
+        "text": " Jeremy can help you, fix it, Wilts can help you keep it safe and they can do both well"
+    },
+    {
+        "start": 60.04,
+        "end": 61.88,
+        "text": " seeing good hands either way."
+    },
+    {
+        "start": 61.88,
+        "end": 67.2,
+        "text": " They're coming up today, a fish spent on owner's money online revealed his credit card"
+    },
+    {
+        "start": 67.2,
+        "end": 69.8,
+        "text": " information on a YouTube stream."
+    },
+    {
+        "start": 69.8,
+        "end": 74.48,
+        "text": " That's a real sentence that I just said that it really happened to real life."
+    },
+    {
+        "start": 74.48,
+        "end": 75.8,
+        "text": " Really?"
+    },
+    {
+        "start": 75.8,
+        "end": 76.8,
+        "text": " That really happened."
+    },
+    {
+        "start": 76.8,
+        "end": 78.56,
+        "text": " We'll have that story."
+    },
+    {
+        "start": 78.56,
+        "end": 81.64,
+        "text": " Sam Song's Galaxy unpacked event is today."
+    },
+    {
+        "start": 81.64,
+        "end": 85.32000000000001,
+        "text": " Now for the Android heads out there, this is the big deal."
+    },
+    {
+        "start": 85.32000000000001,
+        "end": 90.8,
+        "text": " This is when the lead of the Android pack releases what they're doing with their lead"
+    },
+    {
+        "start": 90.8,
+        "end": 91.8,
+        "text": " products."
+    },
+    {
+        "start": 91.8,
+        "end": 97.2,
+        "text": " So it's a big deal for Android users today and for folks who don't worship at the altar"
+    },
+    {
+        "start": 97.2,
+        "end": 98.2,
+        "text": " of Apple."
+    },
+    {
+        "start": 98.2,
+        "end": 105.12,
+        "text": " AMD thinks that PC sales and their slump will end after maybe one more rough quarter."
+    },
+    {
+        "start": 105.12,
+        "end": 107.12,
+        "text": " Let me talk about that."
+    },
+    {
+        "start": 107.12,
+        "end": 111.24000000000001,
+        "text": " But today our main focus is chat GPT."
+    },
+    {
+        "start": 111.24,
+        "end": 116.83999999999999,
+        "text": " This is something that has just recently kind of exploded onto the scene."
+    },
+    {
+        "start": 116.83999999999999,
+        "end": 122.91999999999999,
+        "text": " And well, I feel like we could do and probably will at some point 10 shows on these."
+    },
+    {
+        "start": 122.91999999999999,
+        "end": 125.56,
+        "text": " But I feel like we could do 10 straight shows talking about."
+    },
+    {
+        "start": 125.56,
+        "end": 135.92,
+        "text": " I mean, really with each layer that you peel back, you just you uncover more limitless"
+    },
+    {
+        "start": 135.92,
+        "end": 138.8,
+        "text": " possibilities with this."
+    },
+    {
+        "start": 138.8,
+        "end": 144.20000000000002,
+        "text": " And that can be scary because we know how responsible big tech is."
+    },
+    {
+        "start": 144.20000000000002,
+        "end": 150.16000000000003,
+        "text": " And we know how ethical big tech is and what morals they have."
+    },
+    {
+        "start": 150.16000000000003,
+        "end": 152.96,
+        "text": " So we're sure they're going to guard it well."
+    },
+    {
+        "start": 152.96,
+        "end": 155.44,
+        "text": " Artificial intelligence in its future."
+    },
+    {
+        "start": 155.44,
+        "end": 159.96,
+        "text": " But open, excuse me, a chat GPT which I keep want to call open GPT."
+    },
+    {
+        "start": 159.96,
+        "end": 163.04000000000002,
+        "text": " I don't know what that was and what it had in my what effect it had in my life."
+    },
+    {
+        "start": 163.04000000000002,
+        "end": 165.04000000000002,
+        "text": " But man, it's stamped in there."
+    },
+    {
+        "start": 165.04000000000002,
+        "end": 166.44,
+        "text": " So we want to hear from you this morning."
+    },
+    {
+        "start": 166.44,
+        "end": 169.42,
+        "text": " Any tech problems, you got any issues, you got any questions, you want to talk to us"
+    },
+    {
+        "start": 169.42,
+        "end": 172.44,
+        "text": " about chat GPT, what if you've been able to make it do so far?"
+    },
+    {
+        "start": 172.44,
+        "end": 179.76,
+        "text": " What's the wackiest, exaniest or most eye poppingly good thing that you've been able to do?"
+    },
+    {
+        "start": 179.76,
+        "end": 183.86,
+        "text": " We were talking about this yesterday and I asked it to write a 30 second promo that's"
+    },
+    {
+        "start": 183.86,
+        "end": 187.2,
+        "text": " Jason Klein, our director of radio has been on me to make."
+    },
+    {
+        "start": 187.2,
+        "end": 191.2,
+        "text": " And I took the concept that he gave me for the promo and I asked it to write me a 30 second"
+    },
+    {
+        "start": 191.2,
+        "end": 192.2,
+        "text": " promo."
+    },
+    {
+        "start": 192.2,
+        "end": 194.28,
+        "text": " And it went and did it."
+    },
+    {
+        "start": 194.28,
+        "end": 196.68,
+        "text": " It wasn't exactly perfect, right?"
+    },
+    {
+        "start": 196.68,
+        "end": 202.28,
+        "text": " Because it didn't, it wasn't, it didn't start from the right perspective."
+    },
+    {
+        "start": 202.28,
+        "end": 206.56,
+        "text": " It started as almost like a, like a, it was like welcome to MPB think radio."
+    },
+    {
+        "start": 206.56,
+        "end": 208.24,
+        "text": " I was like, that's not how I was started."
+    },
+    {
+        "start": 208.24,
+        "end": 212.36,
+        "text": " If you're already listening to the station, you've already got your welcome as you understand."
+    },
+    {
+        "start": 212.36,
+        "end": 218.84,
+        "text": " But outside of that, it basically slapped out a 30 second radio promo with pretty good"
+    },
+    {
+        "start": 218.84,
+        "end": 221.64,
+        "text": " syntax quickly to the point."
+    },
+    {
+        "start": 221.64,
+        "end": 222.92000000000002,
+        "text": " Did it really quick?"
+    },
+    {
+        "start": 223.32,
+        "end": 225.72,
+        "text": " I'm like, man, that's a pretty narrow niche right there."
+    },
+    {
+        "start": 225.72,
+        "end": 227.39999999999998,
+        "text": " If it's right in radio promos."
+    },
+    {
+        "start": 227.39999999999998,
+        "end": 229.79999999999998,
+        "text": " Our jobs are no longer safe, Jay."
+    },
+    {
+        "start": 229.79999999999998,
+        "end": 231.0,
+        "text": " I know, right?"
+    },
+    {
+        "start": 231.0,
+        "end": 232.0,
+        "text": " Matter of time."
+    },
+    {
+        "start": 232.0,
+        "end": 234.27999999999997,
+        "text": " Did you read it?"
+    },
+    {
+        "start": 234.27999999999997,
+        "end": 235.27999999999997,
+        "text": " Let me see."
+    },
+    {
+        "start": 235.27999999999997,
+        "end": 238.32,
+        "text": " I was trying to dig it up quickly and here's what I wrote it."
+    },
+    {
+        "start": 238.32,
+        "end": 245.07999999999998,
+        "text": " I started laughing because my description of what I was asking it to do is actually longer"
+    },
+    {
+        "start": 245.07999999999998,
+        "end": 248.48,
+        "text": " than what I was asking it to do."
+    },
+    {
+        "start": 248.48,
+        "end": 249.48,
+        "text": " Here's what I told it."
+    },
+    {
+        "start": 249.48,
+        "end": 254.32,
+        "text": " 30 second radio promo for MPB think radio about transitioning from over the air listening"
+    },
+    {
+        "start": 254.32,
+        "end": 258.28,
+        "text": " to listening digitally to the live streamer podcast like tens of thousands of Mississippi"
+    },
+    {
+        "start": 258.28,
+        "end": 261.28,
+        "text": " and have done hundreds of thousands of times."
+    },
+    {
+        "start": 261.28,
+        "end": 262.28,
+        "text": " Right?"
+    },
+    {
+        "start": 262.28,
+        "end": 264.28,
+        "text": " I counted the promo itself right there."
+    },
+    {
+        "start": 264.28,
+        "end": 265.59999999999997,
+        "text": " We just re-arranged some of those bits."
+    },
+    {
+        "start": 265.59999999999997,
+        "end": 267.88,
+        "text": " You basically already read it."
+    },
+    {
+        "start": 267.88,
+        "end": 271.56,
+        "text": " But I wanted to see what it can do."
+    },
+    {
+        "start": 271.56,
+        "end": 273.44,
+        "text": " It says welcome to MPB think radio."
+    },
+    {
+        "start": 273.44,
+        "end": 277.15999999999997,
+        "text": " We're Mississippi's premier source for news, culture and conversation."
+    },
+    {
+        "start": 277.16,
+        "end": 280.88000000000005,
+        "text": " Now you can listen to us anytime, anywhere, with a live stream and podcast, you can stay"
+    },
+    {
+        "start": 280.88000000000005,
+        "end": 283.36,
+        "text": " connected to the stories that matter to you."
+    },
+    {
+        "start": 283.36,
+        "end": 287.28000000000003,
+        "text": " Join tens of thousands of Mississippi and have already made the switch to digital listening."
+    },
+    {
+        "start": 287.28000000000003,
+        "end": 289.92,
+        "text": " Tune in today and experience the power."
+    },
+    {
+        "start": 289.92,
+        "end": 293.44000000000005,
+        "text": " Power it says of MPB think radio."
+    },
+    {
+        "start": 293.44000000000005,
+        "end": 294.44000000000005,
+        "text": " How about that?"
+    },
+    {
+        "start": 294.44000000000005,
+        "end": 295.92,
+        "text": " Pretty good."
+    },
+    {
+        "start": 295.92,
+        "end": 297.92,
+        "text": " Jeremy Wilts, good morning."
+    },
+    {
+        "start": 297.92,
+        "end": 304.16,
+        "text": " Jeremy, what do you think about open chat GPT?"
+    },
+    {
+        "start": 304.16,
+        "end": 305.64000000000004,
+        "text": " It's open AI is the maker of it."
+    },
+    {
+        "start": 305.64,
+        "end": 307.12,
+        "text": " I think that's where I'm confusing."
+    },
+    {
+        "start": 307.12,
+        "end": 309.56,
+        "text": " Open AI is the creator of chat GPT."
+    },
+    {
+        "start": 309.56,
+        "end": 314.15999999999997,
+        "text": " But Jeremy, I certainly think that's impressive."
+    },
+    {
+        "start": 314.15999999999997,
+        "end": 316.36,
+        "text": " We need to turn the games."
+    },
+    {
+        "start": 316.36,
+        "end": 319.71999999999997,
+        "text": " I think that's pretty impressive."
+    },
+    {
+        "start": 319.71999999999997,
+        "end": 327.15999999999997,
+        "text": " Although, more or less, it just kind of like gave you a generic fluff paragraph and then"
+    },
+    {
+        "start": 327.15999999999997,
+        "end": 330.24,
+        "text": " just sort of filled in the blanks with what you wanted."
+    },
+    {
+        "start": 330.24,
+        "end": 332.28,
+        "text": " But isn't that writing anyways?"
+    },
+    {
+        "start": 332.28,
+        "end": 333.28,
+        "text": " Right."
+    },
+    {
+        "start": 333.28,
+        "end": 335.59999999999997,
+        "text": " That is by and large, generally speaking."
+    },
+    {
+        "start": 335.6,
+        "end": 340.0,
+        "text": " But AI can already do with different things."
+    },
+    {
+        "start": 340.0,
+        "end": 343.04,
+        "text": " It writes articles and different stuff like that."
+    },
+    {
+        "start": 343.04,
+        "end": 350.68,
+        "text": " I've seen it websites like Max Preps, which is a high school sports website."
+    },
+    {
+        "start": 350.68,
+        "end": 354.12,
+        "text": " It can take the score of a game and the teams records and the two teams playing it where"
+    },
+    {
+        "start": 354.12,
+        "end": 355.12,
+        "text": " they're playing it."
+    },
+    {
+        "start": 355.12,
+        "end": 362.88,
+        "text": " Basically, right, AI generated very general 30,000 foot view article about any sport, any"
+    },
+    {
+        "start": 362.88,
+        "end": 364.88,
+        "text": " game."
+    },
+    {
+        "start": 365.04,
+        "end": 367.2,
+        "text": " It's kind of like that to some certain extent."
+    },
+    {
+        "start": 367.2,
+        "end": 368.2,
+        "text": " Wilts, good morning."
+    },
+    {
+        "start": 368.2,
+        "end": 369.48,
+        "text": " How's it going for you, sir?"
+    },
+    {
+        "start": 369.48,
+        "end": 370.48,
+        "text": " Oh, man."
+    },
+    {
+        "start": 370.48,
+        "end": 371.48,
+        "text": " Pretty good."
+    },
+    {
+        "start": 371.48,
+        "end": 372.48,
+        "text": " Pretty good."
+    },
+    {
+        "start": 372.48,
+        "end": 377.04,
+        "text": " Just keeping it between the ditches and wondering where was chat GPT back when I was having"
+    },
+    {
+        "start": 377.04,
+        "end": 378.48,
+        "text": " to write all those term papers."
+    },
+    {
+        "start": 378.48,
+        "end": 379.48,
+        "text": " I mean, come on."
+    },
+    {
+        "start": 379.48,
+        "end": 381.71999999999997,
+        "text": " I feel like I'm really kind of missing out in this generation now."
+    },
+    {
+        "start": 381.71999999999997,
+        "end": 383.32,
+        "text": " Now I'm feeling the generational gap."
+    },
+    {
+        "start": 383.32,
+        "end": 384.32,
+        "text": " Right."
+    },
+    {
+        "start": 384.32,
+        "end": 385.32,
+        "text": " And here's the thing."
+    },
+    {
+        "start": 385.32,
+        "end": 388.44,
+        "text": " I've kind of failed to lay this out correctly."
+    },
+    {
+        "start": 388.44,
+        "end": 394.84,
+        "text": " And Wilts just went to one of the main things, one of the main things about chat,"
+    },
+    {
+        "start": 394.84,
+        "end": 407.03999999999996,
+        "text": " GPT is that students at universities are asking this chat GPT to write out papers for"
+    },
+    {
+        "start": 407.03999999999996,
+        "end": 408.56,
+        "text": " them."
+    },
+    {
+        "start": 408.56,
+        "end": 411.28,
+        "text": " And it can do it in very quick order."
+    },
+    {
+        "start": 411.28,
+        "end": 421.12,
+        "text": " These papers are passing like plagiarism tests and being turned in at major and big time"
+    },
+    {
+        "start": 421.12,
+        "end": 424.88,
+        "text": " universities and tech schools and trade schools and things like that."
+    },
+    {
+        "start": 424.88,
+        "end": 427.68,
+        "text": " And folks is worried about it."
+    },
+    {
+        "start": 427.68,
+        "end": 429.08,
+        "text": " And I can't look."
+    },
+    {
+        "start": 429.08,
+        "end": 432.32,
+        "text": " I'm a father of four who's over 40."
+    },
+    {
+        "start": 432.32,
+        "end": 436.84000000000003,
+        "text": " So there's built in worry and just waking up and getting out of the bed that everything"
+    },
+    {
+        "start": 436.84000000000003,
+        "end": 437.92,
+        "text": " will land right."
+    },
+    {
+        "start": 437.92,
+        "end": 444.92,
+        "text": " But there is worry that this is how we lose control of the world to robots, right?"
+    },
+    {
+        "start": 444.92,
+        "end": 454.72,
+        "text": " Well, okay, so open AI, put out a tool to verify whether something was written by its"
+    },
+    {
+        "start": 454.72,
+        "end": 456.88,
+        "text": " chat GPT or not."
+    },
+    {
+        "start": 456.88,
+        "end": 460.84000000000003,
+        "text": " It says that it's not entirely accurate."
+    },
+    {
+        "start": 460.84000000000003,
+        "end": 465.08000000000004,
+        "text": " It's the equivalent of Bladerunner's Voight comp test, which I'm going to have to look"
+    },
+    {
+        "start": 465.08000000000004,
+        "end": 466.08000000000004,
+        "text": " that up."
+    },
+    {
+        "start": 466.08000000000004,
+        "end": 474.12,
+        "text": " So that's self that's a self verifying tool basically for the program, right?"
+    },
+    {
+        "start": 474.12,
+        "end": 475.12,
+        "text": " I guess so."
+    },
+    {
+        "start": 475.12,
+        "end": 476.84000000000003,
+        "text": " Yeah, like did I write this?"
+    },
+    {
+        "start": 476.84000000000003,
+        "end": 477.84000000000003,
+        "text": " Maybe I wrote this."
+    },
+    {
+        "start": 477.84000000000003,
+        "end": 478.84000000000003,
+        "text": " Yeah."
+    },
+    {
+        "start": 478.84000000000003,
+        "end": 483.36,
+        "text": " Well, you're going to hear from a teaching standpoint."
+    },
+    {
+        "start": 483.36,
+        "end": 490.56,
+        "text": " There will be, you know, there will be a, we already use some other ways of looking for"
+    },
+    {
+        "start": 490.56,
+        "end": 491.56,
+        "text": " plagiarism."
+    },
+    {
+        "start": 491.56,
+        "end": 495.72,
+        "text": " Like for example, when papers are submitted right now on the teaching side, we can run"
+    },
+    {
+        "start": 495.72,
+        "end": 496.88,
+        "text": " it through different things."
+    },
+    {
+        "start": 496.88,
+        "end": 499.68,
+        "text": " And, you know, teachers can use Google too."
+    },
+    {
+        "start": 499.68,
+        "end": 503.24,
+        "text": " So there's the thing is."
+    },
+    {
+        "start": 503.24,
+        "end": 505.88,
+        "text": " The thing is, it's always kind of entertaining when people think it's like, oh, I'm going"
+    },
+    {
+        "start": 505.88,
+        "end": 509.68,
+        "text": " to sit here and I'm going to copy this, this page word for word and just kind of include"
+    },
+    {
+        "start": 509.68,
+        "end": 510.68,
+        "text": " that into my answer."
+    },
+    {
+        "start": 510.68,
+        "end": 514.64,
+        "text": " And it's like, no, no, these, these online systems are already meant to check that."
+    },
+    {
+        "start": 514.64,
+        "end": 519.6,
+        "text": " I think it would just be a matter of time and probably a very brief time before there's"
+    },
+    {
+        "start": 519.6,
+        "end": 524.72,
+        "text": " going to be some kind of mechanism to see if you're using AI to write things because."
+    },
+    {
+        "start": 524.72,
+        "end": 531.6800000000001,
+        "text": " And beyond that, it's like, have you ever seen like somebody who, I don't know, I'm trying"
+    },
+    {
+        "start": 531.68,
+        "end": 537.18,
+        "text": " to think of the nice way of putting this, but when you write and speak normally one"
+    },
+    {
+        "start": 537.18,
+        "end": 541.3599999999999,
+        "text": " way and all of a sudden you turn in a paper and it's, it's got a different tone to it."
+    },
+    {
+        "start": 541.3599999999999,
+        "end": 547.5999999999999,
+        "text": " It really jumps out and is very blazingly obvious that it's not your work."
+    },
+    {
+        "start": 547.5999999999999,
+        "end": 548.5999999999999,
+        "text": " All right."
+    },
+    {
+        "start": 548.5999999999999,
+        "end": 549.76,
+        "text": " So here's, here's a question."
+    },
+    {
+        "start": 549.76,
+        "end": 556.88,
+        "text": " I mean, we've gone down a very hot trail right here and you're, you're a professor at"
+    },
+    {
+        "start": 556.88,
+        "end": 561.88,
+        "text": " one of Mississippi's junior college, junior or community colleges."
+    },
+    {
+        "start": 561.88,
+        "end": 563.08,
+        "text": " So this is interesting."
+    },
+    {
+        "start": 563.08,
+        "end": 566.84,
+        "text": " This is very interesting."
+    },
+    {
+        "start": 566.84,
+        "end": 572.08,
+        "text": " I guess, let me back up, Jeremy, if you will, if you want to and you can certainly decline"
+    },
+    {
+        "start": 572.08,
+        "end": 573.08,
+        "text": " this."
+    },
+    {
+        "start": 573.08,
+        "end": 578.72,
+        "text": " But if there's a way, give us a 30,000 foot view of what chat GPT is and what it does."
+    },
+    {
+        "start": 578.72,
+        "end": 586.56,
+        "text": " For folks who are not aware and not and don't have an idea of how and what this thing"
+    },
+    {
+        "start": 586.56,
+        "end": 592.0799999999999,
+        "text": " is capable of, let folks kind of know what it is because it's, chat GPT is kind of a,"
+    },
+    {
+        "start": 592.0799999999999,
+        "end": 596.2399999999999,
+        "text": " I don't know, it's misleading to a certain extent because it makes it sound like it's like"
+    },
+    {
+        "start": 596.2399999999999,
+        "end": 600.04,
+        "text": " a little chat box that can happen in a computer, which is technically true."
+    },
+    {
+        "start": 600.04,
+        "end": 604.8399999999999,
+        "text": " But there's, I mean, that's like, that's 0.00001% of what it is."
+    },
+    {
+        "start": 604.8399999999999,
+        "end": 605.8399999999999,
+        "text": " Okay."
+    },
+    {
+        "start": 605.8399999999999,
+        "end": 609.28,
+        "text": " First off, thank you for throwing me out here with another one of these."
+    },
+    {
+        "start": 609.28,
+        "end": 612.64,
+        "text": " Give us the 30,000 foot view without even warning me that this was coming."
+    },
+    {
+        "start": 612.64,
+        "end": 616.4399999999999,
+        "text": " But basically, I gave you plenty of opportunity to, to, to, to, to, to, to, to, to, to, to, to,"
+    },
+    {
+        "start": 617.1600000000001,
+        "end": 622.0,
+        "text": " I do have the, the, the, the Wicked Pity get page open so I could read you with the, the, the, the,"
+    },
+    {
+        "start": 623.0,
+        "end": 627.96,
+        "text": " the, the, the, the very general description of it is, but I was, you know, I was going to let you kind of throw your creativity in there."
+    },
+    {
+        "start": 628.6800000000001,
+        "end": 634.6400000000001,
+        "text": " Well, basically, I mean, we continue to test what we can do with AI."
+    },
+    {
+        "start": 634.6400000000001,
+        "end": 639.84,
+        "text": " And first it was like, well, can we get them to simulate human behavior like in a chat room?"
+    },
+    {
+        "start": 639.96,
+        "end": 640.1600000000001,
+        "text": " Right."
+    },
+    {
+        "start": 640.1600000000001,
+        "end": 642.1600000000001,
+        "text": " And we mean, we're going to say AI a lot today."
+    },
+    {
+        "start": 642.1600000000001,
+        "end": 642.8000000000001,
+        "text": " We already have it."
+    },
+    {
+        "start": 642.8000000000001,
+        "end": 643.96,
+        "text": " That's artificial intelligence."
+    },
+    {
+        "start": 643.96,
+        "end": 644.48,
+        "text": " What we're talking about."
+    },
+    {
+        "start": 644.48,
+        "end": 644.6800000000001,
+        "text": " Yeah."
+    },
+    {
+        "start": 644.68,
+        "end": 648.92,
+        "text": " Artificial intelligence, which if we said that every time the whole show would be over."
+    },
+    {
+        "start": 648.92,
+        "end": 649.4,
+        "text": " Right."
+    },
+    {
+        "start": 649.4,
+        "end": 649.5999999999999,
+        "text": " Right."
+    },
+    {
+        "start": 649.5999999999999,
+        "end": 649.8,
+        "text": " Right."
+    },
+    {
+        "start": 649.8,
+        "end": 649.88,
+        "text": " Right."
+    },
+    {
+        "start": 651.16,
+        "end": 655.9599999999999,
+        "text": " So the idea is that we continue to, to test what we can do with this thing."
+    },
+    {
+        "start": 655.9599999999999,
+        "end": 661.3599999999999,
+        "text": " And first it was a chat room where, you know, can, can we make this simulate a human that you're talking to?"
+    },
+    {
+        "start": 661.3599999999999,
+        "end": 663.04,
+        "text": " Can we make someone think that?"
+    },
+    {
+        "start": 663.4,
+        "end": 665.1999999999999,
+        "text": " And the answer was yes, we could do that."
+    },
+    {
+        "start": 665.52,
+        "end": 670.24,
+        "text": " So then scientists and technologists built on top of that."
+    },
+    {
+        "start": 670.24,
+        "end": 673.5999999999999,
+        "text": " And they were like, okay, well, now we want to make it smarter."
+    },
+    {
+        "start": 673.6,
+        "end": 675.48,
+        "text": " We want to make it like all encompassing."
+    },
+    {
+        "start": 675.48,
+        "end": 682.9200000000001,
+        "text": " And this has been something that has been tried a few times over the past several years where,"
+    },
+    {
+        "start": 683.9200000000001,
+        "end": 684.6,
+        "text": " who was it?"
+    },
+    {
+        "start": 684.6,
+        "end": 691.44,
+        "text": " Was it Microsoft that created the AI that they let loose on Twitter?"
+    },
+    {
+        "start": 691.72,
+        "end": 697.9200000000001,
+        "text": " And it very rapidly became educated in, you know, when I'm getting way off base."
+    },
+    {
+        "start": 698.2,
+        "end": 698.5600000000001,
+        "text": " Okay."
+    },
+    {
+        "start": 698.7199999999999,
+        "end": 704.52,
+        "text": " So basically, this is something that has been played with over time."
+    },
+    {
+        "start": 704.52,
+        "end": 712.16,
+        "text": " And it's something that has to be approached very carefully because the machine is learning from its interactions with every person that talks to it."
+    },
+    {
+        "start": 712.16,
+        "end": 715.2399999999999,
+        "text": " So it, it, it creates its own."
+    },
+    {
+        "start": 715.2399999999999,
+        "end": 720.3599999999999,
+        "text": " It's basically like a computer brain that is being developed to handle all kinds of prompts."
+    },
+    {
+        "start": 720.3599999999999,
+        "end": 728.1199999999999,
+        "text": " And at this point, chat GPT is the culmination of that brain where we can tell it that we want."
+    },
+    {
+        "start": 728.56,
+        "end": 734.64,
+        "text": " Information or we want it to give us information on a certain topic and it will go for as long as you want it to."
+    },
+    {
+        "start": 734.64,
+        "end": 737.64,
+        "text": " And this is something that's already been let out in the wild."
+    },
+    {
+        "start": 737.64,
+        "end": 747.88,
+        "text": " There are reporters that are creating articles with this thing, which is something that needs to be done carefully because this information has not embedded."
+    },
+    {
+        "start": 747.88,
+        "end": 751.9599999999999,
+        "text": " So we are trusting it, you know, hey, this is what it's putting out there."
+    },
+    {
+        "start": 751.9599999999999,
+        "end": 758.1199999999999,
+        "text": " Do we, do we take it with a grain of salt or do we, do we actually, do we know that this thing is talking,"
+    },
+    {
+        "start": 758.12,
+        "end": 760.0,
+        "text": " it knows what it's talking about."
+    },
+    {
+        "start": 760.0,
+        "end": 764.04,
+        "text": " And so this is something that we're, you know, we're just seeing the ramping up effect of this."
+    },
+    {
+        "start": 764.04,
+        "end": 776.72,
+        "text": " We've, we've used artwork to tell a computer, you know, give me a dinosaur wearing a birthday hat and it can generate that art with you art for you based on that very general explanation of what you want."
+    },
+    {
+        "start": 776.72,
+        "end": 784.44,
+        "text": " So it is a machine generated from a machine generated response from a prompt."
+    },
+    {
+        "start": 784.44,
+        "end": 790.2800000000001,
+        "text": " And you can tell it pretty much whatever you want it to do or talk about."
+    },
+    {
+        "start": 790.2800000000001,
+        "end": 791.12,
+        "text": " Absolutely."
+    },
+    {
+        "start": 791.12,
+        "end": 794.8800000000001,
+        "text": " That was like 50,000, 100 million foot view."
+    },
+    {
+        "start": 794.8800000000001,
+        "end": 803.8000000000001,
+        "text": " It's a very, I don't know that there is a very simple way that you can describe what it is and what it does and what its potential is."
+    },
+    {
+        "start": 803.8000000000001,
+        "end": 804.32,
+        "text": " Yeah."
+    },
+    {
+        "start": 804.32,
+        "end": 814.4000000000001,
+        "text": " And it's one of these things now that they're looking to integrate into Microsoft Word and other writing utilities and programs to help people."
+    },
+    {
+        "start": 814.4,
+        "end": 830.64,
+        "text": " With this now that part of I'm still kind of grasping it like what, what are we doing here is, is this, is this to enable people to be lazy or is this like actually a tool that we can use to make our lives easier."
+    },
+    {
+        "start": 830.64,
+        "end": 836.0799999999999,
+        "text": " And so far, it seems like the answer is it's a tool to, to make us lazy."
+    },
+    {
+        "start": 836.32,
+        "end": 845.1600000000001,
+        "text": " But that's one thing that we have to approach very carefully because as this thing takes away our own abilities, it may replace our abilities."
+    },
+    {
+        "start": 845.1600000000001,
+        "end": 853.44,
+        "text": " But at this point, it's something that needs to be approached very carefully because not everything that this machine spews out is factual."
+    },
+    {
+        "start": 853.44,
+        "end": 856.48,
+        "text": " And that's, that's a big point."
+    },
+    {
+        "start": 856.5600000000001,
+        "end": 867.12,
+        "text": " It is interesting that there is so much data and so much information that this database has."
+    },
+    {
+        "start": 867.12,
+        "end": 869.04,
+        "text": " It's extremely intelligent."
+    },
+    {
+        "start": 869.04,
+        "end": 871.48,
+        "text": " It's almost immeasurably intelligent."
+    },
+    {
+        "start": 871.48,
+        "end": 878.28,
+        "text": " But the one thing that it does not have is a human being's ability to interpret context."
+    },
+    {
+        "start": 878.28,
+        "end": 885.12,
+        "text": " And so the intelligence of it can take it, a tremendous amount of the way."
+    },
+    {
+        "start": 885.12,
+        "end": 901.08,
+        "text": " But it will never, well, I don't want to say that yet, can it take it all the way into acting, responding, performing, interpreting information like a human being."
+    },
+    {
+        "start": 901.08,
+        "end": 905.64,
+        "text": " It just can't, there are too many variables in human beings and not artificial intelligence."
+    },
+    {
+        "start": 905.64,
+        "end": 907.08,
+        "text": " Just can't get there yet."
+    },
+    {
+        "start": 907.08,
+        "end": 919.12,
+        "text": " I don't want to say that it will, that it will never be able to replicate human behavior in that way or or or or mind processes, but I don't know, maybe it will one day."
+    },
+    {
+        "start": 919.12,
+        "end": 928.08,
+        "text": " So wills and in Jeremy Scratch on the education element of this quickly for just a second there."
+    },
+    {
+        "start": 928.08,
+        "end": 933.08,
+        "text": " But wills as an educator."
+    },
+    {
+        "start": 933.08,
+        "end": 951.08,
+        "text": " This is man, this is setting the education industry and sector on fire because there are a lot of people whose ultimate, I guess, objective is to protect education from this."
+    },
+    {
+        "start": 951.08,
+        "end": 961.08,
+        "text": " A lot of other people want to try to see, try to see how you could use it to its fullest extent."
+    },
+    {
+        "start": 961.08,
+        "end": 975.08,
+        "text": " And to me, just listening to a podcast this morning, it had me thinking of, you know, maybe it is able to fundamentally reshape how we do education in that."
+    },
+    {
+        "start": 975.08,
+        "end": 995.08,
+        "text": " We're not, we're not trying to have kids for years and years and years on end, memorize data because data will be somewhere else now and it will be able to, it will be able to be called up instantly by a thing just by you asking it out loud."
+    },
+    {
+        "start": 995.08,
+        "end": 1005.08,
+        "text": " So I don't know that there's a need for us to teach each other this or the same volume of data as before because it can be relied upon somewhere else."
+    },
+    {
+        "start": 1005.08,
+        "end": 1015.08,
+        "text": " But at the same time, it's all that data that goes into people that makes them makes all of us individually who we are and what our creativity is and our passions and stuff like that."
+    },
+    {
+        "start": 1015.08,
+        "end": 1019.08,
+        "text": " So there's, there's a slippery slope there."
+    },
+    {
+        "start": 1019.08,
+        "end": 1027.08,
+        "text": " Well, I think we already see a lot of that. If I press to you right now, do you remember 10 people, 10 of your friend's phone numbers? No."
+    },
+    {
+        "start": 1027.08,
+        "end": 1040.08,
+        "text": " And how much do we already rely on spell check and people can't even spell anymore. So, I mean, it's like, you know, they're instead, you know, I mean, and, and quite honestly, this is kind of, it kind of touches on a pet peeve of mine."
+    },
+    {
+        "start": 1040.08,
+        "end": 1047.08,
+        "text": " It is something that anybody who's ever been in one of my classes knows when I do discussion questions on testing and everything else."
+    },
+    {
+        "start": 1047.08,
+        "end": 1057.08,
+        "text": " I make them is this is not meant to be an English class, but I say, okay, this is a short answer. And I expected to be in complete sentences, you know, I'm down a herb."
+    },
+    {
+        "start": 1057.08,
+        "end": 1067.08,
+        "text": " Because at the end of the day, we, in my opinion, that slippery slope is we start losing that ability to effectively communicate."
+    },
+    {
+        "start": 1067.08,
+        "end": 1078.08,
+        "text": " And so, you know, I already have lost in many instances the ability to remember phone numbers. The party and many instances lost the ability to spell because it's so much easier because, you know,"
+    },
+    {
+        "start": 1078.08,
+        "end": 1087.08,
+        "text": " outlook or word or your phone or whatever, it'll just correct the spelling for you who needs to really know how to spell inconvenience or impossible."
+    },
+    {
+        "start": 1087.08,
+        "end": 1106.08,
+        "text": " And so that's one thing that I try to do in the class like, okay, you need to communicate in a complete sentence, because here's the thing, you know, when I'm sitting here at work and I'm having to send an email or I'm having to communicate to my end users or communicate to my boss or communicate to my co workers."
+    },
+    {
+        "start": 1106.08,
+        "end": 1112.08,
+        "text": " I'm communicating with a whole bunch of different generations and I'm sorry certain groups of people are not going to understand."
+    },
+    {
+        "start": 1112.08,
+        "end": 1125.08,
+        "text": " You know, as you know, text, shorthand and I think that's where that's where the risk really comes in is can people actually communicate? I mean, I'm all for shorthand when it comes to it and it comes in handy, but."
+    },
+    {
+        "start": 1125.08,
+        "end": 1138.08,
+        "text": " I've seen it wait and you know, I see it a lot in discussion questions I know how I hear somebody talking in class and all of a sudden they get to the online portion and it's like i'm, you know, speaking to a sigma Freud or you know,"
+    },
+    {
+        "start": 1138.08,
+        "end": 1149.08,
+        "text": " George Washington with all these like, where for our thousand all this like, you know, very eloquent language and it's like senior test papers, you don't speak that way, you don't already talk that way."
+    },
+    {
+        "start": 1149.08,
+        "end": 1154.08,
+        "text": " I don't know it."
+    },
+    {
+        "start": 1154.08,
+        "end": 1167.08,
+        "text": " So and this is another one and if we have educators list things, yeah, if somebody has someone who's actually written a couple of books, I had to actually think on these things and now the idea that I can just plug in a couple of parameters and write my third book."
+    },
+    {
+        "start": 1167.08,
+        "end": 1195.08,
+        "text": " Well, and here's a thing and this is partly what Jason, I've also and I got on this conversation is that one of the examples that he had seen is that somebody had basically just asked this thing to write a book about a topic and it did and so he copied it because it's it is it is all original again, it's not it's not plagiarized or you can check for it to be and he did and it wasn't it's all original."
+    },
+    {
+        "start": 1195.08,
+        "end": 1205.08,
+        "text": " And he published the book to Amazon and started selling books, I mean, just asked this thing to write a book form it did and because it's artificial intelligence."
+    },
+    {
+        "start": 1205.08,
+        "end": 1216.08,
+        "text": " I suppose it because he asked it the question it belongs to him it's open source and you know, because it has the amount of information it does this is."
+    },
+    {
+        "start": 1216.08,
+        "end": 1233.08,
+        "text": " You know brand new information iterated in the way that it was for the first time so it's original technically in that manner and he can he can go and make money off of something that he just asked artificial intelligence to do we didn't really make it himself but in that regard let me take it back to education for a minute."
+    },
+    {
+        "start": 1233.08,
+        "end": 1245.08,
+        "text": " Now, well, if you're talking about how you can tell you can you can read you can look at a paper know who a person is and say okay, they don't talk like that."
+    },
+    {
+        "start": 1245.08,
+        "end": 1254.08,
+        "text": " They don't use language like that they don't use you know color as colorful descriptors like that or more to the point and their patterns of speaking."
+    },
+    {
+        "start": 1254.08,
+        "end": 1260.08,
+        "text": " I know this is not this is not their original creative work."
+    },
+    {
+        "start": 1260.08,
+        "end": 1279.08,
+        "text": " And the way that education has always worked yes that's the way it it has been kind of set up in the future will we even worry about that will it not be did you come up with this will it be that did you learn it the right way or do you understand what it is this is saying."
+    },
+    {
+        "start": 1279.08,
+        "end": 1290.08,
+        "text": " Do you comprehend what you claim you wrote yeah and is that is that can that open us up to a style of learning that is like all new that we can't comprehend that can unlock."
+    },
+    {
+        "start": 1290.08,
+        "end": 1308.08,
+        "text": " You know in learning quickly and in different kind of ways that can unlock intelligence like we've never had or is that a slippery slope into maybe and I think I can't remember which one you kind of set it like this earlier is slippery slope into mega laziness."
+    },
+    {
+        "start": 1308.08,
+        "end": 1321.08,
+        "text": " Well not only that but like where where is all the information that this machine ascertains where does it come from yeah does it come from rando blogs does it come from Wikipedia I mean I assume that it comes from all sources."
+    },
+    {
+        "start": 1321.08,
+        "end": 1337.08,
+        "text": " So again the the issue is like how how truthful is the information how factual is it how accurate is it and so if we're going to be hammering out AI books is it just going to be page after page of random drivel or is it going to be a"
+    },
+    {
+        "start": 1337.08,
+        "end": 1339.08,
+        "text": " drivel or is it actually."
+    },
+    {
+        "start": 1339.08,
+        "end": 1349.08,
+        "text": " Sensible I mean did the guy even read the book or did he just literally tell it to throw a book out there and print it well that is the thing I mean it can it can put together."
+    },
+    {
+        "start": 1349.08,
+        "end": 1357.08,
+        "text": " A well written book because it has data I mean it knows how books are written it's got it it is well familiar with."
+    },
+    {
+        "start": 1357.08,
+        "end": 1367.08,
+        "text": " The structure of you know out millions of books because that's all part of its database which is part of the dangerous thing it's like if you want to ask this."
+    },
+    {
+        "start": 1367.08,
+        "end": 1385.08,
+        "text": " Chat GPT to write a book there's no human on earth that has as much point of reference of how to set up and write a book as this thing does so all you do is give it a topic and then it's going to go right the best book you can have written but it has no human creativity so at the same time it's like the worst book ever written."
+    },
+    {
+        "start": 1385.08,
+        "end": 1402.08,
+        "text": " But it's like 100% grammatically correct and can large by and large be almost perfectly factually correct so it does have value but at the same time it just it's blowing norms away and it's freaking people out because they're not sure exactly how to approach it."
+    },
+    {
+        "start": 1402.08,
+        "end": 1422.08,
+        "text": " Well again based on where it gets this information it's almost like it's going to become an echo chamber of itself yeah and it's just going to keep regurgitating the same information and refining that over and over that's kind of what I'm worried about is it's like there aren't going to be any new thoughts out there if this thing is doing all the thinking and writing for everybody yeah."
+    },
+    {
+        "start": 1422.08,
+        "end": 1451.08,
+        "text": " And that's the other part of it and that's kind of what I was asking is like it's awesome that it allows us the creativity to take this knowledge and apply it in ways but are we going to learn less and less and are we going to rely on the intelligence or not intelligence are we going to rely on the data to live off in the cloud somewhere instead of our brains but does it allow our brains to be able to learn more about the things that are going to be in the world."
+    },
+    {
+        "start": 1451.08,
+        "end": 1464.08,
+        "text": " It does allow our brains to have more room for other stuff and that's that's some way off on the edge of the nebula type of stuff that people are thinking about now that they've never really had the opportunity to think about before."
+    },
+    {
+        "start": 1464.08,
+        "end": 1480.08,
+        "text": " Three dorks are chopping this up and we're all I think we're hype about the possibilities of it but also the dangers of it at the same time we could talk about this obviously for the whole hour without taking a break specifically if you're listening to the show and you are an educator you're probably working right now."
+    },
+    {
+        "start": 1480.08,
+        "end": 1509.08,
+        "text": " But if you are listening to this show or if you're listening to the podcast later or on demand at MP beyond line dot org send us an email every day tech at MP beyond line dot org and let us think let us know what you think about the potential of this and its future and education because that's really where this thing could fly off the handle and just blow up society in a million different ways or just could unlock the key to intelligence and not."
+    },
+    {
+        "start": 1509.08,
+        "end": 1527.08,
+        "text": " How it's implied in the future or could do both probably will do a little bit of both this is every day tech on MPB think radio with wilts and Jeremy I'm J let's go right to the phones to start the second half of the show will start in Cleveland with Chuck Chuck."
+    },
+    {
+        "start": 1527.08,
+        "end": 1529.08,
+        "text": " Thanks for calling what's going on this morning."
+    },
+    {
+        "start": 1529.08,
+        "end": 1532.08,
+        "text": " Good morning gentlemen great show by the way."
+    },
+    {
+        "start": 1532.08,
+        "end": 1533.08,
+        "text": " Thank you sir."
+    },
+    {
+        "start": 1533.08,
+        "end": 1538.08,
+        "text": " I do happen to be a professor at the Alpha State."
+    },
+    {
+        "start": 1538.08,
+        "end": 1539.08,
+        "text": " Awesome."
+    },
+    {
+        "start": 1539.08,
+        "end": 1543.08,
+        "text": " My question is not really about chat gpp."
+    },
+    {
+        "start": 1543.08,
+        "end": 1557.08,
+        "text": " My technical question was what is your opinion on the windows 11 extended security features like ppm and secure boot."
+    },
+    {
+        "start": 1557.08,
+        "end": 1578.08,
+        "text": " I just bought a mini pc recently and that was turned off and I managed to enable it and I noticed the boot time is quite a bit longer now and I was wondering what the the game thought about those security features so they were installing or not."
+    },
+    {
+        "start": 1578.08,
+        "end": 1593.08,
+        "text": " I mean they usually come set up by default especially secure boot tpm is more of a module that you can access if you need the features from that did you turn on secure boot or did you turn on the tpm."
+    },
+    {
+        "start": 1593.08,
+        "end": 1595.08,
+        "text": " All of it."
+    },
+    {
+        "start": 1595.08,
+        "end": 1606.08,
+        "text": " Yeah I mean it did it did it did the increase the boot time I just I really had enough play around with it to see if it's slowed down its execution of things but."
+    },
+    {
+        "start": 1606.08,
+        "end": 1611.08,
+        "text": " Do you recommend that people make sure that's on on the latest computers."
+    },
+    {
+        "start": 1611.08,
+        "end": 1622.08,
+        "text": " Yeah I mean more or less it's it's become the default but if it's slowing your computer down I mean depending on how old your computer is it may just be one that doesn't."
+    },
+    {
+        "start": 1622.08,
+        "end": 1635.08,
+        "text": " Run well with those particular options in your bios obviously it supports it but yeah those things will slow your machine down because they're added security features to protect your computer from malware accessing credentials and other sensitive."
+    },
+    {
+        "start": 1635.08,
+        "end": 1640.08,
+        "text": " Information do they have to be turned on to protect you any better."
+    },
+    {
+        "start": 1640.08,
+        "end": 1645.08,
+        "text": " You know I can't really."
+    },
+    {
+        "start": 1645.08,
+        "end": 1658.08,
+        "text": " Yes for surely they do something but as far as like turning them off and leading yourself vulnerable I would say as long as you're not some super high up official that's being targeted by hackers you're probably okay."
+    },
+    {
+        "start": 1658.08,
+        "end": 1671.08,
+        "text": " If you want your computer to boot up faster and you can deal with going without those it's not going to likely you like super vulnerable to anything major like just keep your virus protection and your operating system up to date and you should be good."
+    },
+    {
+        "start": 1671.08,
+        "end": 1686.08,
+        "text": " As far as somebody getting physical access to your computer it's never secure in that sense unless your drive is encrypted so if you've got super important information on there may want to extend your boot time you may want to encrypt your drive with bit locker to go that extra mile."
+    },
+    {
+        "start": 1686.08,
+        "end": 1693.08,
+        "text": " Right right well that's good let me just ask you one final question does the."
+    },
+    {
+        "start": 1693.08,
+        "end": 1701.08,
+        "text": " When you have computers arrived in your shop that have this activated do you notice that they have less virus root kit kind of problems."
+    },
+    {
+        "start": 1701.08,
+        "end": 1710.08,
+        "text": " No no definitely not it doesn't it doesn't prevent that kind of stuff necessarily it's all about finding vulnerabilities and exploits and that stuff and I'm sure."
+    },
+    {
+        "start": 1710.08,
+        "end": 1720.08,
+        "text": " Those modules have been exploited by hackers already so it's more or less one of those like security through obscurity oh it's on and it makes me feel warm and fluffy type things."
+    },
+    {
+        "start": 1720.08,
+        "end": 1727.08,
+        "text": " It does keep you better protected yes in some cases but does it just absolutely guarantee it no definitely not."
+    },
+    {
+        "start": 1727.08,
+        "end": 1739.08,
+        "text": " Well thank you very much yes sir so you know he asked a good question because it's like well does that does that protect my computer from any other kind of viruses or anything no you the user if you launch something on your computer on your computer."
+    },
+    {
+        "start": 1739.08,
+        "end": 1749.08,
+        "text": " On a website you open a add or whatever that's running in a special section of your operating system that is less protected and so it treats everything."
+    },
+    {
+        "start": 1749.08,
+        "end": 1759.08,
+        "text": " As a program and it just runs it straight through so that's why you can still get a virus when you're online even though you have the best virus protection even though you have TPM enabled and secure."
+    },
+    {
+        "start": 1759.08,
+        "end": 1783.08,
+        "text": " And what is TPM TPM stays for trusted platform module and it is basically a chip on your system that can enable encryption and better protect your system it also allows a lot of control for people on will says and who do a lot of device management for like multiple users and things like that TPM is not something necessarily that the average user will need an access."
+    },
+    {
+        "start": 1783.08,
+        "end": 1812.08,
+        "text": " Yeah we we use things like that because in a corporate type environment we are controlling hundreds of computers and yeah we're actually kind of going through that right now because we have you know the looming you know as I think effective today windows 10 is no longer going to be sold with new computers so we're we're all being forced to go the way of windows 11 and TPM is a big piece of that but it is mostly at this point at least a."
+    },
+    {
+        "start": 1812.08,
+        "end": 1817.08,
+        "text": " A corporate security program will use it with bit locker and things like that."
+    },
+    {
+        "start": 1817.08,
+        "end": 1841.08,
+        "text": " All right we appreciate the call this morning we've been talking some about chat GPT and Java Chapman our engineer today during the break was telling me about some stuff that he was searching and interacting with it and while you guys were answering that that great question we just got a phone call I'm just looking at him shake his head as he watches this thing work in the other room Java what were you doing?"
+    },
+    {
+        "start": 1841.08,
+        "end": 1865.08,
+        "text": " If you have not been on chat GTP because I had to like refresh the screen so many times because it gets to capacity so quick it does so if you get a chance please go on it is it is fun I've asked it I've asked chat GTP a couple of fellow softful questions like what is like what is love you know baby don't hurt me."
+    },
+    {
+        "start": 1865.08,
+        "end": 1885.08,
+        "text": " Yeah, I said baby don't hurt me back and then I actually I said like who would win in a boxing match Muhammad Ali on Mike Tyson don't go what did I have to say I have to know oh with this one it gave out first it said it is difficult to say who would win it's that's my a voice."
+    },
+    {
+        "start": 1885.08,
+        "end": 1914.08,
+        "text": " It is difficult to say who would win in a hypothetical boxing match between Muhammad Ali and Mike Tyson is both fighters were exceptional boxes in their respective errors and had unique styles and abilities it goes on the list basically their records for Muhammad Ali and Mike Tyson and then two different paragraphs and then it ends it says in a hypothetical match between the two fighters and it's impossible to say for certain who would come out on top as outcome would depend on the number of factors such as fighters physical condition strategy."
+    },
+    {
+        "start": 1915.08,
+        "end": 1933.08,
+        "text": " And tactics on the day of the fight ultimately both Muhammad Ali and Mike Tyson were remarkable boxes in an on right in any hypothetical match between them would have been an exciting and closely contested battle like that's on the right now I hope that guys get paid by the word."
+    },
+    {
+        "start": 1933.08,
+        "end": 1956.08,
+        "text": " And then I asked it to write a rap song about Jackson Mississippi I will not wrap it but it gave me one two three no gave me two verses two courses a bridge and an outro this chat GTP is amazing yep yep absolutely I said I asked it or a rap song about South Jackson and it did."
+    },
+    {
+        "start": 1956.08,
+        "end": 1968.08,
+        "text": " Did it get specific because this thing listed like now it's anything about like psychs park or something like that but it did say like I don't know blues and gospel and soul food and barbecue which I mean that's like all of Mississippi."
+    },
+    {
+        "start": 1968.08,
+        "end": 1981.08,
+        "text": " Yeah that's it that's a little bit of what you includes the king Edward hotel the Mississippi civil rights museum gave several landmarks I mean like this is it did it in all within like 30 seconds did it rhyme."
+    },
+    {
+        "start": 1981.08,
+        "end": 1988.08,
+        "text": " Yes sir that was in comparison I asked it to write a R&B song and it was completely different."
+    },
+    {
+        "start": 1988.08,
+        "end": 2008.08,
+        "text": " And it included landmarks and you know it had a different a different tempo and beat it in rhyme as much I can see where people you know where you can add your singing you know in the difference then just wrapping a song with the rhyming words is this is and like I said it did all in like 30 seconds."
+    },
+    {
+        "start": 2008.08,
+        "end": 2019.08,
+        "text": " Oh it does say something about the king Edward here which is not in South Jackson so the streets line with trees and the smell of fresh air a community of people with love and care from the capital."
+    },
+    {
+        "start": 2019.08,
+        "end": 2036.08,
+        "text": " No you got a rapid no sir no sir I'm kind of William shot in a rocket man it over here from the capital to the king over hotel South Jackson you'll never find a place like this one to dwell I need more rap to rap tunes with dwell in it the word well."
+    },
+    {
+        "start": 2036.08,
+        "end": 2042.08,
+        "text": " All right let's go back to the phones they filled up quickly let's go to Fernand who's in Clinton Fernand thanks for hanging on how's it going."
+    },
+    {
+        "start": 2042.08,
+        "end": 2048.08,
+        "text": " Hey Fernand are you there. Oh start over for us there we had a we had a malfunction there for a second what's going on."
+    },
+    {
+        "start": 2048.08,
+        "end": 2062.08,
+        "text": " Yeah yeah hi I love your show guys thank you Chad GPT has been the talk of the days in these past weeks as well I'm actually an early adopter of Chad GPT."
+    },
+    {
+        "start": 2062.08,
+        "end": 2079.08,
+        "text": " I've got a smart home which is I don't know if your engineer knows home assistant and I've incorporated to Chad GPT to home assistant and it can do a lot."
+    },
+    {
+        "start": 2079.08,
+        "end": 2096.08,
+        "text": " Now see like like personal automations and see that's that stuff blows my mind fascinates me that that sends me down the rabbit hole that you got to go pull me back out of the dark from I don't know through the same way but yes but the personal like"
+    },
+    {
+        "start": 2096.08,
+        "end": 2104.08,
+        "text": " automations and stuff like that yes and on top of that and because it gets a lot more technical."
+    },
+    {
+        "start": 2104.08,
+        "end": 2119.08,
+        "text": " My kids use it and on top of that it can correct code that I did wrong and it will give me the suggestions or it will fix it for me."
+    },
+    {
+        "start": 2119.08,
+        "end": 2131.08,
+        "text": " So I was to that you know that automation would create a difficulty with another automation it will tell me that you need to correct this or it will give me the suggestion."
+    },
+    {
+        "start": 2131.08,
+        "end": 2134.08,
+        "text": " It's so so amazing."
+    },
+    {
+        "start": 2134.08,
+        "end": 2153.08,
+        "text": " I think auto creates pictures for my rooms for example like the themes and all and the lighten as well I have over 120 IOTs those smart devices and switches and all of that and you know it is so mind blowing."
+    },
+    {
+        "start": 2153.08,
+        "end": 2161.08,
+        "text": " I mean I've been waiting for it but at the end it's scary at the end of the day it's scary to think of what is capable of doing."
+    },
+    {
+        "start": 2161.08,
+        "end": 2169.08,
+        "text": " I'm just mind blowing it really really is hey Fernand thanks for hanging on for us and we appreciate the call and glad to get you on here."
+    },
+    {
+        "start": 2169.08,
+        "end": 2181.08,
+        "text": " Thank you guys thank you absolutely let's move it along quickly because folks are in and want to talk about this let's go next to Jerry who is in Ellisville Jerry what's going on."
+    },
+    {
+        "start": 2181.08,
+        "end": 2192.08,
+        "text": " Yes sir I just recently heard about GBT and I was wondering when you're talking about being lazy making us lazy."
+    },
+    {
+        "start": 2192.08,
+        "end": 2208.08,
+        "text": " I have a book and that I've been working on for a few years and some short stories I was just wondering can you put your text in and have it edited."
+    },
+    {
+        "start": 2208.08,
+        "end": 2227.08,
+        "text": " In other words make it all grammatically correct and with quotation marks for people speaking and so forth or do you know absolutely you can you can ask it to you can ask it to proofread and then and then put you know I guess like copy and paste your stuff in and it'll do it really."
+    },
+    {
+        "start": 2227.08,
+        "end": 2245.08,
+        "text": " And that's I mean folks are using that for like English homework and things like that and see how I got on I don't know what the what the harm is with that necessarily again slippery slope let people in the door they kick it open and ransacked the house and everything else in it I get it but like that that stuff I don't necessarily see the harm in that."
+    },
+    {
+        "start": 2245.08,
+        "end": 2274.08,
+        "text": " You so you would have to copy and paste like 300 pages you could absolutely you could I'll be checking I'll be checking into it then because I want to get lazy there you can for a job like that you're saving resources right there pal that's not laziness that's frugalness is what that is saving time to yes sir okay thanks a lot I love y'all show Jerry thank you so much sir we appreciate your column let's go."
+    },
+    {
+        "start": 2274.08,
+        "end": 2303.08,
+        "text": " Next to Oxford we got David David thanks for calling. Good morning. Hey I hope you can hear me I'm busy working but I'm listening to your show as I'm going through and I just wanted to tell you that there is a podcast by John Favaro called offline and one of the podcast he did talked about chat GPT he talked with I can't remember the name of the guy but he was some kind of I'm not going to talk about that."
+    },
+    {
+        "start": 2304.08,
+        "end": 2333.08,
+        "text": " He's a language professor and he was talking about how the chat GPT you know he could write maybe a 10th grade kind of paper you know but it can't write you can't write something that you know is going to be going to pass you know as a reasonable assignment you know for college or anything but I think what I would I gather"
+    },
+    {
+        "start": 2333.08,
+        "end": 2356.08,
+        "text": " from this and also this is another comment they made is that you know it's like writing your first draft and so the chat GPT writes the first draft and then you still have the option for your creativity to come involved with with the rest of the rest of the whatever story or book or whatever."
+    },
+    {
+        "start": 2356.08,
+        "end": 2385.08,
+        "text": " Oh no doubt for sure I mean you know we were kind of making the joke and I mentioned earlier that I asked it to write a 30 second radio promo and it did and it didn't it didn't write it in the in the proper context but it write out a framework that I could take this word out and that word out and basically the promo is basically written so I mean it I mean yeah it was like 90% done I mean it wasn't it wasn't how I would have done it personally but for"
+    },
+    {
+        "start": 2385.08,
+        "end": 2391.08,
+        "text": " 99% of people doing that was perfectly fine which is kind of scary to some certain extent."
+    },
+    {
+        "start": 2391.08,
+        "end": 2414.08,
+        "text": " Yeah I also wonder if it's it's kind of like you know we use calculator to do math you know right but we're still we're still using our brains to you know to come up with equations for the for the calculator to consider or that's a great that's a perfect correlation David and we appreciate the call"
+    },
+    {
+        "start": 2414.08,
+        "end": 2427.08,
+        "text": " that I heard some folks on a podcast make is that you know people thought bringing calculators in a classroom is just going to turn kids brains into mush because they weren't going to do math anymore."
+    },
+    {
+        "start": 2427.08,
+        "end": 2443.08,
+        "text": " That's not necessarily it still learn learn math but it's part of I mean they're they're in our cell phones they're on your wristwatches now it's part of life calculators are everywhere so you don't have to do that heavy stuff"
+    },
+    {
+        "start": 2443.08,
+        "end": 2464.08,
+        "text": " that heavy lifting with your brain it's unnecessary this is kind of the same thing but I understand the stakes are way bigger and I've used this terminology already about five times in the show but the slope is certainly slicker slippery more slippery Jeremy what were you going to say you're going to jump in there for a second."
+    },
+    {
+        "start": 2464.08,
+        "end": 2491.08,
+        "text": " Well okay so I was thinking about the fact that like you know I don't write copy for a living I'm not like you know educated in it I haven't taken courses in or anything of course I have the courses I've just never actually attended them but because I don't have time so I think about like hey okay can this thing right copy for me so I didn't realize that we could log in I thought we had to like have a special account I know back in December you had to have a special account but now you can just go and set up an account and you can start playing with this thing so I said."
+    },
+    {
+        "start": 2491.08,
+        "end": 2520.08,
+        "text": " Right add copy for frustrated technology users who need a technology pro and it's pretty awesome that you can just give it a prompt and tell it like literally I want you basically just at you asked it to write an ad for your business basically yes I did I'm going to stick it on my website once I hone it a little bit but I get the point now like it's like it's sort of like a spreadsheet does all the math for you and it's just kind of like you just sort of fill in the blanks here where you feel like it's lacking so it is cool it is a great thing."
+    },
+    {
+        "start": 2521.08,
+        "end": 2550.08,
+        "text": " I'm not a really neat tool. I definitely see the benefit for it in businesses and whatnot especially like mine where literally if I don't sit down and type that stuff out it's never going to make it to the internet so it is cool to have this tool off to the side to be able to to help put my brain on the back burner a little bit so I can focus on other stuff this definitely has use and it definitely has utility and I know that Microsoft is looking at integrating this thing directly into Microsoft"
+    },
+    {
+        "start": 2550.08,
+        "end": 2555.08,
+        "text": " directly into Microsoft Word so that you can use it as a tool in that program."
+    },
+    {
+        "start": 2555.08,
+        "end": 2564.08,
+        "text": " Absolutely they are they're going to make a lot of money off of it too I heard some folks guessing that maybe inside of five years they've been a trillion dollar."
+    },
+    {
+        "start": 2564.08,
+        "end": 2571.08,
+        "text": " Trillion dollar product trillion dollar grossing product how about that not evaluation grossing."
+    },
+    {
+        "start": 2572.08,
+        "end": 2579.08,
+        "text": " That's pretty big all right let's go to Elaine who's been patient with us in equipment county Elaine thanks for calling good morning what's going on with you."
+    },
+    {
+        "start": 2580.08,
+        "end": 2587.08,
+        "text": " You have talked about this before this man and gave some recommendations but it was far south of here."
+    },
+    {
+        "start": 2588.08,
+        "end": 2600.08,
+        "text": " My late husband died very unexpectedly and he had part of his computer locked up and I really need some information that's in it."
+    },
+    {
+        "start": 2602.08,
+        "end": 2612.08,
+        "text": " Could you help give me the suggestion for somebody up probably around Oxford or some place that I could take it and get some help getting in."
+    },
+    {
+        "start": 2612.08,
+        "end": 2620.08,
+        "text": " Well as far as an actual individual or company that you could take your device to no there are a few factors here."
+    },
+    {
+        "start": 2620.08,
+        "end": 2628.08,
+        "text": " Earlier in the show we were talking about Bitlocker if your husband has Bitlocker on his computer and you do not have access to that code."
+    },
+    {
+        "start": 2629.08,
+        "end": 2634.08,
+        "text": " You may not be able to get the stuff off of it depending on how old the computer is and you may not have Bitlocker."
+    },
+    {
+        "start": 2634.08,
+        "end": 2635.08,
+        "text": " You definitely can."
+    },
+    {
+        "start": 2635.08,
+        "end": 2647.08,
+        "text": " It's been HP that was purchased in their late 2020 early 2021."
+    },
+    {
+        "start": 2647.08,
+        "end": 2652.08,
+        "text": " It could very well have Bitlocker enabled by default seeing a lot of them do that."
+    },
+    {
+        "start": 2652.08,
+        "end": 2664.08,
+        "text": " So you would have to take it to an IT Pro to assess it and see if either he could get around the password or if he can pull the drive and pull the files off."
+    },
+    {
+        "start": 2664.08,
+        "end": 2672.08,
+        "text": " But if the drive is encrypted with Bitlocker that is the purpose of that to allow your data to be secure if it is removed."
+    },
+    {
+        "start": 2672.08,
+        "end": 2680.08,
+        "text": " Now if you can get access to his Microsoft account usually you can reset that through access to the email if you still have his phone."
+    },
+    {
+        "start": 2680.08,
+        "end": 2682.08,
+        "text": " You might be able to reset the account."
+    },
+    {
+        "start": 2682.08,
+        "end": 2684.08,
+        "text": " I can get into his email."
+    },
+    {
+        "start": 2684.08,
+        "end": 2690.08,
+        "text": " If you can get into his Microsoft account and his drive has Bitlocker on it."
+    },
+    {
+        "start": 2690.08,
+        "end": 2694.08,
+        "text": " It's very possible that the Bitlocker key is stored in his Microsoft account."
+    },
+    {
+        "start": 2694.08,
+        "end": 2700.08,
+        "text": " So if the drive has Bitlocker on it you need to check his Microsoft account and see if it has the decryption key."
+    },
+    {
+        "start": 2700.08,
+        "end": 2705.08,
+        "text": " I know that all of this is like speaking Greek but if you seek out an IT guy."
+    },
+    {
+        "start": 2705.08,
+        "end": 2711.08,
+        "text": " It's okay. It's totally okay. We totally understand that's why we have this show to begin with."
+    },
+    {
+        "start": 2711.08,
+        "end": 2720.08,
+        "text": " But you need to seek out an IT guy who can convert that nerd to English so that he can help you get access to those files."
+    },
+    {
+        "start": 2720.08,
+        "end": 2728.08,
+        "text": " All right. Well that's what I need some help with. I have no idea how to find someone like that."
+    },
+    {
+        "start": 2728.08,
+        "end": 2733.08,
+        "text": " Well this is what I do all day long. I am."
+    },
+    {
+        "start": 2733.08,
+        "end": 2738.08,
+        "text": " Yeah. So there should be other computer companies around you."
+    },
+    {
+        "start": 2738.08,
+        "end": 2741.08,
+        "text": " I would like to look up on Google see if you can find some good reviews."
+    },
+    {
+        "start": 2741.08,
+        "end": 2749.08,
+        "text": " You might even be able to find an individual because nobody cares more about their business than the guy that's running it."
+    },
+    {
+        "start": 2749.08,
+        "end": 2756.08,
+        "text": " Okay. So you don't really have any suggestions for North."
+    },
+    {
+        "start": 2756.08,
+        "end": 2761.08,
+        "text": " Unfortunately no. I don't have anyone in I don't know anybody in that area."
+    },
+    {
+        "start": 2761.08,
+        "end": 2765.08,
+        "text": " Will says it's speaking up so I assume he doesn't either."
+    },
+    {
+        "start": 2765.08,
+        "end": 2772.08,
+        "text": " No, I mean, you know, I'm kind of like you. I mean it's like if somebody were in South, you know, Ron Haddishburg I would say you but I mean there's just."
+    },
+    {
+        "start": 2772.08,
+        "end": 2773.08,
+        "text": " Yeah, there's no."
+    },
+    {
+        "start": 2773.08,
+        "end": 2776.08,
+        "text": " I just don't have a roller deck so who some of the."
+    },
+    {
+        "start": 2776.08,
+        "end": 2785.08,
+        "text": " But I'm guessing between Greenwood, Greenville, Grenada, Cleveland and Clarksdale and baseball."
+    },
+    {
+        "start": 2785.08,
+        "end": 2789.08,
+        "text": " Somebody there's got to be some IT pros between those five or six towns."
+    },
+    {
+        "start": 2789.08,
+        "end": 2795.08,
+        "text": " Somebody's got to be or somebody needs to open up an office because they're missing an opportunity if they had nobody in all them towns."
+    },
+    {
+        "start": 2795.08,
+        "end": 2800.08,
+        "text": " Okay. Here's one. It's got good reviews on Google. They got 27 reviews."
+    },
+    {
+        "start": 2800.08,
+        "end": 2807.08,
+        "text": " They got a 4.8 review. You know, don't hold this against me. I don't know what they can do but it's called rocket computer solutions."
+    },
+    {
+        "start": 2807.08,
+        "end": 2809.08,
+        "text": " It's there in Oxford."
+    },
+    {
+        "start": 2809.08,
+        "end": 2815.08,
+        "text": " I'm going to go based on their Google reviews that they do a good job for people and it says they repair computers."
+    },
+    {
+        "start": 2815.08,
+        "end": 2819.08,
+        "text": " So I would I would seek out someone there that says they have 10 plus years experience."
+    },
+    {
+        "start": 2819.08,
+        "end": 2822.08,
+        "text": " So they should be able to help you out."
+    },
+    {
+        "start": 2822.08,
+        "end": 2824.08,
+        "text": " I hope."
+    },
+    {
+        "start": 2824.08,
+        "end": 2829.08,
+        "text": " All right, we appreciate the call from Elaine and Quipman County and Java had a good idea. He just mentioned."
+    },
+    {
+        "start": 2829.08,
+        "end": 2834.08,
+        "text": " That's I mean that's rock it like rock IT not rocket like rocket ship."
+    },
+    {
+        "start": 2834.08,
+        "end": 2840.08,
+        "text": " I mean, for us comes the worst like call the computer science department at Ole Miss."
+    },
+    {
+        "start": 2840.08,
+        "end": 2843.08,
+        "text": " Yeah, whoever answers the phone can probably answer the answer the question for you."
+    },
+    {
+        "start": 2843.08,
+        "end": 2851.08,
+        "text": " Yes, it's not. I mean, maybe you can guilt burden them into giving you a Google search into somebody that can find it."
+    },
+    {
+        "start": 2851.08,
+        "end": 2857.08,
+        "text": " And you may find that that that student, you know, who just needs a little extra cash maybe."
+    },
+    {
+        "start": 2857.08,
+        "end": 2864.08,
+        "text": " You got to be careful gentlemen because I help people who you know they'll find that kid who said he could help him with that problem."
+    },
+    {
+        "start": 2864.08,
+        "end": 2867.08,
+        "text": " And boy did that kid take it from bad to worse."
+    },
+    {
+        "start": 2867.08,
+        "end": 2869.08,
+        "text": " That's very true. That's very true."
+    },
+    {
+        "start": 2869.08,
+        "end": 2873.08,
+        "text": " All right, before we get out of here today, let's go to the Pride of Knots County."
+    },
+    {
+        "start": 2873.08,
+        "end": 2875.08,
+        "text": " It's less in Dysodocounty."
+    },
+    {
+        "start": 2875.08,
+        "end": 2877.08,
+        "text": " Less what's going on. How's it going?"
+    },
+    {
+        "start": 2877.08,
+        "end": 2883.08,
+        "text": " I'm going to get a quick point for you with this artificial intelligence."
+    },
+    {
+        "start": 2883.08,
+        "end": 2889.08,
+        "text": " I was wrapping up the search with a friend a few weeks ago and he said he worked along before."
+    },
+    {
+        "start": 2889.08,
+        "end": 2899.08,
+        "text": " They will be a, an AI where you can pretty much make a new Beatles record or a Stevie Wonder record or the value."
+    },
+    {
+        "start": 2899.08,
+        "end": 2904.08,
+        "text": " And it will sound just like original but it's a top-of-the-piece of music."
+    },
+    {
+        "start": 2904.08,
+        "end": 2906.08,
+        "text": " Is that over the horizon?"
+    },
+    {
+        "start": 2906.08,
+        "end": 2910.08,
+        "text": " It absolutely is. Spotify's already working on it."
+    },
+    {
+        "start": 2910.08,
+        "end": 2917.08,
+        "text": " Where you can give it an idea and a feel and it's going to write you a song."
+    },
+    {
+        "start": 2917.08,
+        "end": 2925.08,
+        "text": " So far, we've to play this machine and a Beatles song come up with a brand new one and I could pass it off as a lost Beatles gem."
+    },
+    {
+        "start": 2925.08,
+        "end": 2927.08,
+        "text": " Potentially."
+    },
+    {
+        "start": 2927.08,
+        "end": 2928.08,
+        "text": " That's a great idea."
+    },
+    {
+        "start": 2928.08,
+        "end": 2931.08,
+        "text": " Less we are just capitalizing on this AI lesson right."
+    },
+    {
+        "start": 2931.08,
+        "end": 2935.08,
+        "text": " Writing fake books, bringing up fake Beatles songs."
+    },
+    {
+        "start": 2935.08,
+        "end": 2939.08,
+        "text": " Drop this for me just before."
+    },
+    {
+        "start": 2939.08,
+        "end": 2944.08,
+        "text": " Somebody say free as a bird was already a fake Beatles song."
+    },
+    {
+        "start": 2944.08,
+        "end": 2947.08,
+        "text": " Well, this is the E3 hours."
+    },
+    {
+        "start": 2947.08,
+        "end": 2950.08,
+        "text": " Anyway, gentlemen, thank you very much for your time."
+    },
+    {
+        "start": 2950.08,
+        "end": 2953.08,
+        "text": " All right, Less we appreciate the call."
+    },
+    {
+        "start": 2953.08,
+        "end": 2956.08,
+        "text": " And that's going to do it for us. That's taking us right up to the end of the show."
+    },
+    {
+        "start": 2956.08,
+        "end": 2959.08,
+        "text": " We had one more call. He was Bobby on the line. Bobby were sorry. We're up against the end of it."
+    },
+    {
+        "start": 2959.08,
+        "end": 2960.08,
+        "text": " Give us a call back next week."
+    },
+    {
+        "start": 2960.08,
+        "end": 2967.08,
+        "text": " We had some emails to get to and there's plenty more to talk about including what the streaming stuff that's coming on board for February is going to be."
+    },
+    {
+        "start": 2967.08,
+        "end": 2974.08,
+        "text": " They will include all those links in the podcast episode of this or the podcast page of this episode."
+    },
+    {
+        "start": 2974.08,
+        "end": 2982.08,
+        "text": " You'll be able to get that at mpbeonline.org or wherever you download your podcast from or you want to listen to it on the MPB public media app."
+    },
+    {
+        "start": 2982.08,
+        "end": 2989.08,
+        "text": " You can do that too as well as listen live and on demand to any of the local or national shows that come on MPB think or music radio."
+    },
+    {
+        "start": 2989.08,
+        "end": 2994.08,
+        "text": " It's free and the iTunes and Google Play Store just search MPB public media app."
+    },
+    {
+        "start": 2994.08,
+        "end": 2997.08,
+        "text": " Hey, coming up next is the original Southern Remini with Dr. Jimmy Stewart."
+    },
+    {
+        "start": 2997.08,
+        "end": 3004.08,
+        "text": " Will it's Jeremy and I will be back next Wednesday at 10 for another episode of every day tech right here on Think Radio."
+    },
+    {
+        "start": 3004.08,
+        "end": 3006.08,
+        "text": " This is an MPB think radio podcast."
+    },
+    {
+        "start": 3006.08,
+        "end": 3008.08,
+        "text": " Here are previous shows."
+    },
+    {
+        "start": 3008.08,
+        "end": 3013.08,
+        "text": " Visit mbbeonline.org or download the MPB public radio app."
+    },
+    {
+        "start": 3013.08,
+        "end": 3016.08,
+        "text": " Listen on your iPhone or Android phone or demand."
+    }
+]

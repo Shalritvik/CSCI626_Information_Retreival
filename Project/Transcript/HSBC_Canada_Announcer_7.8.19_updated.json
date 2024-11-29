@@ -1,52 +1,47 @@
 [
     {
         "start": 0.0,
-        "end": 3.68,
+        "end": 3.64,
         "text": " PRX is supported by HSBC."
     },
     {
-        "start": 3.68,
-        "end": 8.36,
+        "start": 3.64,
+        "end": 8.32,
         "text": " Did you know you can get up to $700 when you start banking with HSBC?"
     },
     {
-        "start": 8.36,
-        "end": 11.08,
-        "text": " Plus you could pay no monthly banking fees?"
+        "start": 8.32,
+        "end": 13.18,
+        "text": " Plus you could pay no monthly banking fees, but really you get much, much more."
     },
     {
-        "start": 11.08,
-        "end": 13.44,
-        "text": " But really, you get much, much more."
+        "start": 13.18,
+        "end": 19.68,
+        "text": " Banking with HSBC has many advantages, like $0 global wire transfer fees, no interact"
     },
     {
-        "start": 13.44,
-        "end": 20.16,
-        "text": " Banking with HSBC has many advantages, like $0 global wire transfer fees, no interac e-transfer"
+        "start": 19.68,
+        "end": 25.28,
+        "text": " e-transfer fees, and access to over 3,300 ATMs all across the country."
     },
     {
-        "start": 20.16,
-        "end": 25.080000000000002,
-        "text": " fees, and access to over 3,300 ATMs all across the country."
-    },
-    {
-        "start": 25.080000000000002,
-        "end": 26.72,
+        "start": 25.28,
+        "end": 26.84,
         "text": " Terms and conditions apply."
     },
     {
-        "start": 26.72,
-        "end": 31.36,
-        "text": " Visit HSBC.ca slash offers today to get started."
+        "start": 26.84,
+        "end": 31.32,
+        "text": " Visit HSBC.ca-offers today to get started."
     },
     {
-        "start": 31.36,
-        "end": 33.04,
+        "start": 31.32,
+        "end": 33.08,
         "text": " HSBC Bank."
     },
     {
-        "start": 33.04,
-        "end": 34.48,
+        "start": 33.08,
+        "end": 34.44,
         "text": " Together we thrive."
     }
 ]

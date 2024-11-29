@@ -1,0 +1,3067 @@
+[
+    {
+        "start": 0.0,
+        "end": 14.0,
+        "text": " Yeah, what is up people of the internet welcome back to another episode of the waveform podcast. We're your hosts. I'm Mark as an I'm Andrew and this episode is a bit of a guest interview."
+    },
+    {
+        "start": 14.0,
+        "end": 25.0,
+        "text": " A bit. It's the whole interview. It's pretty exciting. We were able to get Hugo Barra to join us in the studio in the flesh. If you haven't heard the name or if you don't know if you've heard the name,"
+    },
+    {
+        "start": 25.0,
+        "end": 39.0,
+        "text": " you might remember Hugo from work at Google or Xiaomi or most recently. This is why we had him on. He had this huge super in depth blog post about vision pro and like the state of VR and AR."
+    },
+    {
+        "start": 39.0,
+        "end": 51.0,
+        "text": " And obviously he has experience from Oculus and a bunch of history and those companies, but there were a lot of things in those posts that I'd never read before like unique thoughts about VR and AR,"
+    },
+    {
+        "start": 51.0,
+        "end": 80.0,
+        "text": " which in a world where feels like everyone said everything about this stuff. It was it was really interesting to see so I wanted to dig in on some of his hot takes. Yeah, if you don't know the name, you know probably 10 products that he's worked on. No, like he's been in this space for so long and has a great of ton of great insights and is really, really knowledgeable just everything tech. Yeah, so it was really fun to have an X like a true expert in the industry come on and elaborate on some of his takes. So I think we should just jump right into it. Let's roll it."
+    },
+    {
+        "start": 80.0,
+        "end": 109.0,
+        "text": " Welcome Hugo Barra to waveform. Thank you guys. Thank you for having me. Really good to have you. We we've talked a little bit in the past about this, but we've seen you on stage presenting with with Google with Android stuff. We've seen the Xiaomi stuff and you've had a long history with VR. And we've talked a lot about Appalvision Pro on this on."
+    },
+    {
+        "start": 109.0,
+        "end": 125.0,
+        "text": " This on this podcast, but I feel like a lot of your thoughts are things that we hadn't even considered and a lot of takes from your blog post are angles about the history and the future of VR in general that we somehow haven't gotten to yet. And I would love to talk about them with you."
+    },
+    {
+        "start": 125.0,
+        "end": 144.0,
+        "text": " I'm excited to be here ready to do it. Okay, amazing. Well, I feel like the first thing I want to jump into is like vision pro as it exists today, like it's a pretty good product. You've owned one, you've used one. We've had our review unit, our review came out. What is your like 30 seconds summer you give to people who ask like, Oh, you've you vision pro, right? What do you what do you think of it?"
+    },
+    {
+        "start": 144.0,
+        "end": 163.0,
+        "text": " To me, the coolest thing about it is that it feels like a product that comes straight out of science fiction. And I think David you talked about this previously, you know, it is, I think easily the the most sophisticated piece of consumer technology sort of certainly that I've touched and likely of almost anything in the world today."
+    },
+    {
+        "start": 163.0,
+        "end": 182.0,
+        "text": " So putting on a vision pro feels like you're visiting the future, right? It has that taste of sci-fi is that is just a beautiful way to create curiosity to create optimism around tech and all that stuff. So sci fi."
+    },
+    {
+        "start": 182.0,
+        "end": 193.0,
+        "text": " It is a it is close to magic for a lot of people. I think who have never, especially people who have never tried other headsets. So that's something with a lot of reviews that I like to look at is context."
+    },
+    {
+        "start": 193.0,
+        "end": 209.0,
+        "text": " If you're reviewing this headset, have you tried other headsets? And if so, how many and how far back have you tried the headsets? And we are also briefly talking about like the first Oculus when it came out. How long ago that thing came out and how basic it was."
+    },
+    {
+        "start": 209.0,
+        "end": 221.0,
+        "text": " But if you've used headsets since then, this might not have the same magic appeal. But it is fun to give people who have never tried a headset, a look in the vision pro and just to look on your face."
+    },
+    {
+        "start": 221.0,
+        "end": 234.0,
+        "text": " Can I throw just a completely random story into the mix when talking about the history of the R. So I've been a VR enthusiast for my entire adult life. And for me started off when I was a freshman in college."
+    },
+    {
+        "start": 234.0,
+        "end": 257.0,
+        "text": " My first internship was I was a QA engineer at Walt Disney imaginary. This was in the 90s in a project that was part of Disney quest like the indoor theme park thing that they had going on until a few years ago. And this project was called the Aladdin Magic carpet. It was a virtual reality attraction."
+    },
+    {
+        "start": 257.0,
+        "end": 273.0,
+        "text": " And this was the craziest thing ever because of the equipment and technology that was available at the time. So you'd like sort of sit on a chair. It was kind of like just holding your bum. You put on a seatbelt. And then you put on this headset, which was this massive CRT display."
+    },
+    {
+        "start": 273.0,
+        "end": 284.0,
+        "text": " It protruded out like a foot and a half off your face. We can pull a photo and show it. And it was so heavy. Like we talk about 600 grams that said it was in the kilograms."
+    },
+    {
+        "start": 284.0,
+        "end": 301.0,
+        "text": " That it needed steel cables hanging off the ceiling to hold it in place. So your head, you know, wouldn't fall. And each I it was VGA resolution. So it was actually not bad. Each I was powered by a separate silicon graphics on its workstation."
+    },
+    {
+        "start": 301.0,
+        "end": 320.0,
+        "text": " And it was incredible. And they actually had what you might call the first motion controller that anyone ever came up with. Now this launched 25 years ago. So to me, the history of the art certainly in entertainment kind of starts back then. So boy, have we come a long way."
+    },
+    {
+        "start": 320.0,
+        "end": 328.0,
+        "text": " I could probably pull video from that from my family archive because I've gone to that ride so many times. Really? Do you remember what it was like?"
+    },
+    {
+        "start": 328.0,
+        "end": 340.0,
+        "text": " Was it mind blowing at I feel like it would be mind blowing to have it. Yeah, it was like a six year old. It was insane. Yeah, I was going to say Adam Hollywood. Wait, did you exist? I'm older than I look."
+    },
+    {
+        "start": 340.0,
+        "end": 348.0,
+        "text": " That's really funny. Yeah, I mean, so we even if you only go back to what one's your, did you use the first quest? I mean the first Oculus. Yeah, I did."
+    },
+    {
+        "start": 348.0,
+        "end": 370.0,
+        "text": " So that's a decade. Yeah, it was. Yeah, I mean, I was using it as a freshman in college in 2013. So yeah. So now now we're looking at like, okay, we've seen this arc of improvement. Clearly, we've figured out what parts of a VR headset that we want to improve the most to deliver the best experience to people."
+    },
+    {
+        "start": 370.0,
+        "end": 384.0,
+        "text": " Lots of resolution, lots of high quality sensors and tracking. And we've arrived in 2024 where we have things like Quest 3, Quest Pro. Those are the most common ones. I'm going to reference and now Apple Vision Pro."
+    },
+    {
+        "start": 384.0,
+        "end": 402.0,
+        "text": " I think one of the most interesting things is that while you may or may not consider Vision Pro the best VR headset, you can definitely argue that it's the most important VR headset, especially just because of the way people treat what Apple does."
+    },
+    {
+        "start": 402.0,
+        "end": 423.0,
+        "text": " Can you expand a little bit on why it's so important, not just for Apple, but for the entire industry of the whole? Yeah, totally. So first of all, I think that the Vision Pro is one of two seminal events for the for the VR industry. The other one is probably the founding of Oculus and obviously the subsequent acquisition that gave them so much investment, firepower."
+    },
+    {
+        "start": 423.0,
+        "end": 442.0,
+        "text": " But I really I put Vision Pro right up there for a very simple reason, which is like if Apple cares, then everybody cares. Right? Like if a brand that has earned the respect and reputation of consumers all around the world actually cares about this thing enough to put a product in the world with their perspective, then everybody cares."
+    },
+    {
+        "start": 442.0,
+        "end": 464.0,
+        "text": " Yeah, you know Palmer Lucky started Oculus used to say that like VR has to be something that everybody wants before it can become something that everybody can buy or can afford, which is by by the way in that long as I say that I wrote I don't even talk about price because I think it's not really the point of a product at this stage."
+    },
+    {
+        "start": 464.0,
+        "end": 479.0,
+        "text": " So to me, it is the fact that Apple has a perspective and they are applying the Apple attention to detail in a way that no one else frankly has a patience to do because it takes years to arrive at all of those little things that they've done."
+    },
+    {
+        "start": 480.0,
+        "end": 493.0,
+        "text": " And I think that's really important. There's one thing about the Vision Pro, which I think is probably the most important thing from a product perspective, which is how they introduced gaze and pinch."
+    },
+    {
+        "start": 494.0,
+        "end": 502.8,
+        "text": " To me, that is the VR equivalent of the introduction of multi-touch, which is without any doubt, right?"
+    },
+    {
+        "start": 502.8,
+        "end": 511.0,
+        "text": " Capacity of multi-touch is the defining characteristic of the current generation of smartphones and it was introduced in the first iPhone and defined that product more than anything else."
+    },
+    {
+        "start": 511.0,
+        "end": 517.0,
+        "text": " Yeah, if you go back and look at those videos of the first iPhone when he pinches to zoom in the picture and the whole crowd goes, oh, whoa, like that moment."
+    },
+    {
+        "start": 517.0,
+        "end": 521.0,
+        "text": " Yeah, that intuitive moment, that magical understanding everyone had that that click."
+    },
+    {
+        "start": 521.0,
+        "end": 524.0,
+        "text": " Yeah, that is interesting. So gaze, you think is one of them."
+    },
+    {
+        "start": 524.0,
+        "end": 526.0,
+        "text": " I think it's the combination."
+    },
+    {
+        "start": 526.0,
+        "end": 528.0,
+        "text": " Yeah, you know, it's looking at a thing."
+    },
+    {
+        "start": 528.0,
+        "end": 529.0,
+        "text": " Having the back in a way."
+    },
+    {
+        "start": 529.0,
+        "end": 530.0,
+        "text": " Yeah, exactly."
+    },
+    {
+        "start": 530.0,
+        "end": 534.0,
+        "text": " The fact that you're giving yourself have to figure it out by touching your other finger."
+    },
+    {
+        "start": 534.0,
+        "end": 537.0,
+        "text": " Yeah, yeah. People laugh when I said that, but that's true when you're actually touching your fingers."
+    },
+    {
+        "start": 537.0,
+        "end": 538.0,
+        "text": " Super high quality."
+    },
+    {
+        "start": 538.0,
+        "end": 539.0,
+        "text": " That's the moment."
+    },
+    {
+        "start": 539.0,
+        "end": 540.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 540.0,
+        "end": 544.0,
+        "text": " Okay, interesting. Yeah, I think and also this is the headset that has a screen on the outside of it."
+    },
+    {
+        "start": 544.0,
+        "end": 550.0,
+        "text": " It's got the eyes going through. It's got the transparency where you can see through and people can see your eyes."
+    },
+    {
+        "start": 550.0,
+        "end": 558.0,
+        "text": " Do you think that's also a critical part of maybe what makes VR more appealing to people or is that lower on the totem pole?"
+    },
+    {
+        "start": 558.0,
+        "end": 560.0,
+        "text": " I think that's much lower in the totem pole."
+    },
+    {
+        "start": 560.0,
+        "end": 564.0,
+        "text": " First of all, I don't know why, but no one's talking about the fact that that came straight out of Ready Player One."
+    },
+    {
+        "start": 564.0,
+        "end": 566.0,
+        "text": " Like where the headsets are all."
+    },
+    {
+        "start": 566.0,
+        "end": 569.0,
+        "text": " I think they're all optical pass through in Ready Player One."
+    },
+    {
+        "start": 569.0,
+        "end": 570.0,
+        "text": " Oh, yeah."
+    },
+    {
+        "start": 570.0,
+        "end": 571.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 571.0,
+        "end": 576.0,
+        "text": " And it's almost like eyesight when the person is super immersed in content, you can't see their eyes."
+    },
+    {
+        "start": 576.0,
+        "end": 577.0,
+        "text": " Right."
+    },
+    {
+        "start": 577.0,
+        "end": 580.0,
+        "text": " But then, yeah, it's like totally, I've gone back and I've watched."
+    },
+    {
+        "start": 580.0,
+        "end": 581.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 581.0,
+        "end": 582.0,
+        "text": " That's totally where it comes from."
+    },
+    {
+        "start": 582.0,
+        "end": 583.0,
+        "text": " So funny."
+    },
+    {
+        "start": 583.0,
+        "end": 584.0,
+        "text": " So funny."
+    },
+    {
+        "start": 584.0,
+        "end": 590.0,
+        "text": " I think that's like, it's like Apple design perspective at play here."
+    },
+    {
+        "start": 590.0,
+        "end": 599.0,
+        "text": " It's just like doing something really different and unique that tries to bring human nature out into this crazy, potentially isolating new type of technology."
+    },
+    {
+        "start": 599.0,
+        "end": 604.0,
+        "text": " I hope it survives because I think it's fascinating."
+    },
+    {
+        "start": 604.0,
+        "end": 608.0,
+        "text": " Let's forget about the implementation as it's there today."
+    },
+    {
+        "start": 608.0,
+        "end": 611.0,
+        "text": " I think it's going to get a lot better if they decide to keep investing on it."
+    },
+    {
+        "start": 611.0,
+        "end": 620.0,
+        "text": " I hope it stays, but I worry that it may not because the quest to reducing weight, yeah, pun was not intended."
+    },
+    {
+        "start": 620.0,
+        "end": 622.0,
+        "text": " Is so much more important."
+    },
+    {
+        "start": 622.0,
+        "end": 631.0,
+        "text": " Do you think that's something that would only happen in the non-pro version, like in your opinion, would they keep it in the pro model and still try to get rid of weight in other ways?"
+    },
+    {
+        "start": 631.0,
+        "end": 651.0,
+        "text": " There's one circumstance where I think they might, which is if they, if the pro model uses such premium lightweight materials, carbon, et cetera, you know, very expensive, but lightweight materials that it allows the bill of weight to sort of still have that lenticular display, which I don't know how much that thing weighs."
+    },
+    {
+        "start": 651.0,
+        "end": 658.0,
+        "text": " But it's probably like into 30 gram, 20 to 30 gram territory, maybe, including the display controller."
+    },
+    {
+        "start": 658.0,
+        "end": 660.0,
+        "text": " But thank you so much, I have a glass on the outside."
+    },
+    {
+        "start": 660.0,
+        "end": 663.0,
+        "text": " And or faux glass, pseudo glass, whatever that is."
+    },
+    {
+        "start": 663.0,
+        "end": 664.0,
+        "text": " Yeah, yeah."
+    },
+    {
+        "start": 664.0,
+        "end": 674.0,
+        "text": " Which, so I think it comes down to like this trade off space of weight versus features, which I think is so ridiculously important."
+    },
+    {
+        "start": 674.0,
+        "end": 695.0,
+        "text": " I'm kind of curious about your thoughts on like Apple doesn't like to call it as a VR headset, you know, they like to call it a spatial computing headset, which the first time I ever used this at our first briefing at WDC, I sort of it sort of clicked for me with that meant because they had been talking about that over and over again, like it's spatial computing the era of spatial computing it's here."
+    },
+    {
+        "start": 695.0,
+        "end": 704.0,
+        "text": " And for the most part, unless you immerse yourself in a full environment, you are mostly in just an AR environment. That's right."
+    },
+    {
+        "start": 704.0,
+        "end": 715.0,
+        "text": " And so I know that now with the Quest 3 and with the Quest Pro, but mostly with the Quest 3 meta has been pushing into like, okay, we actually also have to enable these like AR mixed reality environments."
+    },
+    {
+        "start": 715.0,
+        "end": 735.0,
+        "text": " But in your, in your opinion, do you think that the mixed reality spatial computing like paradigm is the thing that's going to like push forward because I feel like meta sort of gave up on that a little bit for quite a while and realize people mostly uses for gaming."
+    },
+    {
+        "start": 735.0,
+        "end": 744.0,
+        "text": " Yeah. And that actually I think is a reason why the this still feels like a dev kit because there's not, there's nothing to do in it yet."
+    },
+    {
+        "start": 744.0,
+        "end": 759.0,
+        "text": " And like they want you to use it for work. But like, do you think that that's, that's a paradigm that's going to move forward or do you think that Apple is going to realize that maybe the hyper productivity stuff is not it, but they're still merit to spatial computing and they'll pivot."
+    },
+    {
+        "start": 759.0,
+        "end": 774.0,
+        "text": " So I think short answer is I think spatial computing is the right bat to place with mixed reality, augmented reality, whatever we want to call it as sort of this super important defining element of it."
+    },
+    {
+        "start": 774.0,
+        "end": 779.0,
+        "text": " I think it is, it had just as so much more utility."
+    },
+    {
+        "start": 779.0,
+        "end": 800.0,
+        "text": " You know, the oasis isn't the thing, in my opinion, right. The way the way the way Oculus ended up focusing on gaming beyond sort of its founding philosophy, you know, it was a company that was built by gamers was the fact that we tried other things and they didn't work."
+    },
+    {
+        "start": 800.0,
+        "end": 811.0,
+        "text": " You know, so gaming was like, okay, like product market fit exists here. Let's keep investing on tech that would enable something like makes reality, but let's go all in on gaming first."
+    },
+    {
+        "start": 811.0,
+        "end": 824.0,
+        "text": " Yeah. I think that that's what I keep thinking about those, especially the quest headsets is they didn't really necessarily have an obvious thing and gaming kind of surfaced as the thing that people like to do the most."
+    },
+    {
+        "start": 824.0,
+        "end": 839.0,
+        "text": " And that's that's the thing that people started gravitating towards and it works really well with controllers. And now I see, I mean, this has happened with Apple products before where first gen comes out and we just kind of wait and see what developers come up with and oh, it seems like oh fitness is catching on so the watches now fitness watch."
+    },
+    {
+        "start": 839.0,
+        "end": 847.0,
+        "text": " Is it possible that a new thing will come up as the thing that people want to do in vision pro or does it have to be gaming again because there's no controllers with the vision pro."
+    },
+    {
+        "start": 847.0,
+        "end": 858.0,
+        "text": " Yeah, so it feels like gaming is going to be a weakness of the vision pro. There's no really immersive VR or AR gaming experiences that I have found to be convincing yet."
+    },
+    {
+        "start": 858.0,
+        "end": 865.0,
+        "text": " Yeah, so spatial computing feels like it's the other possible big thing, but yeah, I don't know gaming gaming is pretty good on the quest."
+    },
+    {
+        "start": 865.0,
+        "end": 874.0,
+        "text": " I think gaming is first of all, it is a it is a piece of anything you want to do because like if it's a productivity device, you're still going to want to have fun with it."
+    },
+    {
+        "start": 874.0,
+        "end": 889.0,
+        "text": " I do think that that sort of casual gaming mix reality gaming is a sort of fertile enough territory that Apple can kind of go all in on that stuff for a while without without sort of giving"
+    },
+    {
+        "start": 889.0,
+        "end": 896.0,
+        "text": " sort of giving into the immersive gaming stuff, which as you said, I think would require some sort of controller support and so on."
+    },
+    {
+        "start": 896.0,
+        "end": 912.0,
+        "text": " I think that's going to be more of a hobbyist thing and I hope that Apple opens up enough sort of hooks such that this team VR hobbyists can still find a way to play games with immersive VR games with vision pro."
+    },
+    {
+        "start": 912.0,
+        "end": 922.0,
+        "text": " I think they're going to go on all in on casual games things that you can certainly do just with your hands going to social and share play gaming as well with multiple personas in one place."
+    },
+    {
+        "start": 922.0,
+        "end": 927.0,
+        "text": " That to me, if it was like a big enough place that is worth Apple bet."
+    },
+    {
+        "start": 927.0,
+        "end": 929.0,
+        "text": " Yeah, that's fair."
+    },
+    {
+        "start": 929.0,
+        "end": 937.0,
+        "text": " It's funny because like for years, they're always showing AR kit demos at these launches, so the new iPad and to what end?"
+    },
+    {
+        "start": 937.0,
+        "end": 953.0,
+        "text": " Nothing has happened for no, but it's like every single year, they're like, oh, the D&D game is on a table and oh, look everyone with their iPads can see it and at the time obviously it was like you're not going to go meet up with your friends in real life with your iPads and do this the whole time you're hanging out."
+    },
+    {
+        "start": 953.0,
+        "end": 957.0,
+        "text": " But this makes more sense with like the share play you're in different environments, you're in different rooms."
+    },
+    {
+        "start": 957.0,
+        "end": 959.0,
+        "text": " That was part of the videos too."
+    },
+    {
+        "start": 959.0,
+        "end": 970.0,
+        "text": " Yeah, there's no, yeah, that shared experience feels like the obvious next dimension, if you will, of what would make something like this really appealing to people and would want them to use more often."
+    },
+    {
+        "start": 970.0,
+        "end": 978.0,
+        "text": " But yeah, there's a lot of things are like one update away that I think could be really cool about this, this type of headset."
+    },
+    {
+        "start": 979.0,
+        "end": 985.0,
+        "text": " Okay, I want to go through some of your your takes in your blog post that I would consider hot takes."
+    },
+    {
+        "start": 985.0,
+        "end": 994.0,
+        "text": " And I don't know if you would agree, obviously you have a lot of thoughts and you've much more experience than I do, but some of these to me read as like really fascinating that may or may not turn out to be true."
+    },
+    {
+        "start": 994.0,
+        "end": 996.0,
+        "text": " So I want to go through some of them with people may or may not these agree with."
+    },
+    {
+        "start": 996.0,
+        "end": 998.0,
+        "text": " Yeah, well, we'll see a lot of emails."
+    },
+    {
+        "start": 998.0,
+        "end": 999.0,
+        "text": " We'll see."
+    },
+    {
+        "start": 999.0,
+        "end": 1002.0,
+        "text": " Okay, all right, here's the first one I sell that I read."
+    },
+    {
+        "start": 1002.0,
+        "end": 1010.0,
+        "text": " Apple intentionally made the display blurry to hide the screen door effect."
+    },
+    {
+        "start": 1010.0,
+        "end": 1018.0,
+        "text": " Now, just to clarify what the screen door effect is because these displays in the Vision Pro are incredible."
+    },
+    {
+        "start": 1018.0,
+        "end": 1023.0,
+        "text": " And the screen door effect is most often noticed in displays that are lacking resolution."
+    },
+    {
+        "start": 1024.0,
+        "end": 1029.0,
+        "text": " Break it down. Why do you think Apple would do something like this and why would it happen on a display with such high resolution?"
+    },
+    {
+        "start": 1029.0,
+        "end": 1032.0,
+        "text": " So first of all, hugely controversial point."
+    },
+    {
+        "start": 1032.0,
+        "end": 1038.0,
+        "text": " There's a very famous blogger in the VR space called Carl Goutog, who's a display expert."
+    },
+    {
+        "start": 1038.0,
+        "end": 1044.0,
+        "text": " And I've I've based a lot of my sort of commentary here on some of his sort of objective findings."
+    },
+    {
+        "start": 1044.0,
+        "end": 1049.0,
+        "text": " I've since learned that there's a lot of people that sort of disagree with the approach that he's taken in some of these things."
+    },
+    {
+        "start": 1049.0,
+        "end": 1051.0,
+        "text": " But I still think that his perspective is really useful."
+    },
+    {
+        "start": 1051.0,
+        "end": 1058.0,
+        "text": " So the the challenge with VR is that the pixels are too close to your face."
+    },
+    {
+        "start": 1058.0,
+        "end": 1070.0,
+        "text": " So even when they're so close at, you know, 3000 PPI, 3000 plus PPI, they're still not close enough that you can't see pixels."
+    },
+    {
+        "start": 1070.0,
+        "end": 1073.0,
+        "text": " There's a whole thing around how you measure resolution in VR."
+    },
+    {
+        "start": 1073.0,
+        "end": 1078.0,
+        "text": " You use angular resolution instead of pixels per inch or pixel display."
+    },
+    {
+        "start": 1078.0,
+        "end": 1081.0,
+        "text": " So it's like pixels per degree."
+    },
+    {
+        "start": 1081.0,
+        "end": 1091.0,
+        "text": " And the you know, even as high resolution as the vision pro is, it's not approaching what you would consider retina display for a VR device."
+    },
+    {
+        "start": 1091.0,
+        "end": 1095.0,
+        "text": " They're like maybe 60 to 70% of the way there."
+    },
+    {
+        "start": 1095.0,
+        "end": 1099.0,
+        "text": " So what that means is pixels are still actually discernible."
+    },
+    {
+        "start": 1099.0,
+        "end": 1116.0,
+        "text": " You can see two pixels apart, which means that things like screened art, effect and aliasing, which are some of these sort of distortions or kind of visual artifacts that make it make things less, less smooth to look at are still mildly present."
+    },
+    {
+        "start": 1116.0,
+        "end": 1129.0,
+        "text": " So my hot take here is that Apple may be tuned their display to add a tiny bit of blur and lose a bit of perceived resolution just so that these little visual artifacts disappeared."
+    },
+    {
+        "start": 1129.0,
+        "end": 1139.0,
+        "text": " And they would get a softer look on the display, which to me is kind of like a matter of taste, right, which is obviously something that we respect Apple for."
+    },
+    {
+        "start": 1139.0,
+        "end": 1151.0,
+        "text": " So I support that decision if that's how they went because it does make for something that just feels a bit more pleasant and less harsh than these visible things."
+    },
+    {
+        "start": 1151.0,
+        "end": 1155.0,
+        "text": " I think that's a good word. Here's the parallel I was going to draw."
+    },
+    {
+        "start": 1155.0,
+        "end": 1161.0,
+        "text": " When I'm shooting a video about a smartphone, I'm pointing an 8K camera and a lens at a screen."
+    },
+    {
+        "start": 1161.0,
+        "end": 1176.0,
+        "text": " Yep. And these screens are incredibly high resolution and you can actually see when I pull focus on the lens when I hit the exact focus plane of the lens because there's this harsh, banded crisp like display."
+    },
+    {
+        "start": 1176.0,
+        "end": 1190.0,
+        "text": " And it's not like you're seeing individual pixels, but it is harsh. And I found that if I turn it just another fraction of a degree and it's slightly out of focus, it's a little smoother and easier to look at, especially with macros."
+    },
+    {
+        "start": 1190.0,
+        "end": 1202.0,
+        "text": " And so I was thinking about that when reading that I was like, OK, I don't know if Apple is, you know, necessarily making their display blurrier or maybe just tuning the lenses to be slightly beyond the plane of focus of the display or whatever they're doing."
+    },
+    {
+        "start": 1202.0,
+        "end": 1209.0,
+        "text": " But as a taste decision, I feel like I also support it because overall, you don't want to I fatigue."
+    },
+    {
+        "start": 1209.0,
+        "end": 1216.0,
+        "text": " And as much as I want to see all the pixels on the pixel snob, I kind of like I like it to be a little more pleasing to look at. So I get it. I feel like I get it."
+    },
+    {
+        "start": 1216.0,
+        "end": 1230.0,
+        "text": " Yeah, so that is I agree with the take. I like that one. All right, we're going to take a quick break for ads. We'll be right back to talk about how maybe Apple Vision Pro is the best thing to happen to the quest. See you soon."
+    },
+    {
+        "start": 1230.0,
+        "end": 1250.0,
+        "text": " Support for this episode of waveform comes from Shopify. So selling things used to be a huge hassle. You have to load all your spices or jewelry or whatever onto a horse drawn wagon and take a dangerous journey that would take weeks."
+    },
+    {
+        "start": 1250.0,
+        "end": 1258.0,
+        "text": " Now we can sell things on the internet. The entire process takes like 15 minutes. And so you don't even have to leave your house. It's all thanks to platforms like Shopify."
+    },
+    {
+        "start": 1258.0,
+        "end": 1270.0,
+        "text": " So Shopify is the global commerce platform that's flexible enough to help your business sell at every stage of growth, whether that means getting your new soda brand off the ground or a racing to increase production of your stuffed crocodile dolls due to international demand."
+    },
+    {
+        "start": 1270.0,
+        "end": 1289.0,
+        "text": " No matter what you're making, Shopify can help you sell it everywhere from their all in one e-commerce platform to their in person point of sale system. Shopify offers a flexibility to support your operation. And right now it's easier to stress less and sell more with Shopify magic and AI powered helper created to give you a little boost."
+    },
+    {
+        "start": 1289.0,
+        "end": 1296.0,
+        "text": " So you can try it for yourself and see why companies like some of our favorites Ridge and Adams have used the platform to power their growth."
+    },
+    {
+        "start": 1296.0,
+        "end": 1308.0,
+        "text": " Send it for a $1 per month trial period at Shopify.com slash waveform go to shopify.com slash waveform now to grow your business no matter what stage you're in shopify.com slash waveform."
+    },
+    {
+        "start": 1308.0,
+        "end": 1318.0,
+        "text": " Support for this show comes from net suite and that's exactly what net suite provides support. But they really provide a support where you need it because no one needs help where they don't need it."
+    },
+    {
+        "start": 1318.0,
+        "end": 1333.0,
+        "text": " So net suite wants to provide you with products and services that are tailor made for your business help where you need it. Net suite is a top rated cloud financial system bringing accounting financial management inventory and HR into one platform and one source of truth."
+    },
+    {
+        "start": 1333.0,
+        "end": 1344.0,
+        "text": " With net suite you reduce it costs because net suite lives in the cloud with no hardware required accessible from anywhere you cut the cost of maintaining multiple systems because you've got one unified business management suite."
+    },
+    {
+        "start": 1344.0,
+        "end": 1354.0,
+        "text": " You improve efficiency by bringing all of your major business processes into one platform slash manual tasks and errors over 37,000 companies have already made the move."
+    },
+    {
+        "start": 1354.0,
+        "end": 1362.0,
+        "text": " So do the math see how you'll profit with net suite by popular demand net suite has extended their one of a kind flexible financing program for a few more weeks."
+    },
+    {
+        "start": 1362.0,
+        "end": 1381.0,
+        "text": " So head to net suite.com slash waveform that's net suite.com slash waveform net suite.com slash waveform. Well, we we've already went over this, but I'll sort of phrase it in the way that you did, which is Appalvision Pro is the best thing that ever happened to VR, including for meta who has made their own headsets."
+    },
+    {
+        "start": 1381.0,
+        "end": 1393.0,
+        "text": " So this is probably like the highest confidence sort of take that I have having been in sort of the middle of the thing when I used to work at Oculus at meta."
+    },
+    {
+        "start": 1393.0,
+        "end": 1403.0,
+        "text": " You know side note is I used to joke or semi joke I would say and like company all hands and stuff that like the best thing that could happen to us was if Apple decided to enter."
+    },
+    {
+        "start": 1403.0,
+        "end": 1408.0,
+        "text": " You know VR and we know we've been they've been rumors about this for a long time."
+    },
+    {
+        "start": 1408.0,
+        "end": 1421.0,
+        "text": " Because I really do think that as I said when Apple cares everybody cares was going to be a thing that would help us terminus it like massively floats all boats massively gross the pie."
+    },
+    {
+        "start": 1421.0,
+        "end": 1427.0,
+        "text": " And it was interesting to even see Mark Mark Zuckerberg's video recently where he talks about the elephant in the room."
+    },
+    {
+        "start": 1427.0,
+        "end": 1432.0,
+        "text": " Yeah, obviously he cares about what's happening. So why not talk about it, which I give him huge props for."
+    },
+    {
+        "start": 1432.0,
+        "end": 1438.0,
+        "text": " And it's just so interesting, you know, putting aside whether you agree or disagree with things he said I mostly agree."
+    },
+    {
+        "start": 1438.0,
+        "end": 1450.0,
+        "text": " But putting that aside for a second, it's so interesting to see how meta, you know, in the voice of marking this case has now shifted from evangelized."
+    },
+    {
+        "start": 1450.0,
+        "end": 1462.0,
+        "text": " To competing right so before it was like hey VR school like you got to try this you got please please try it like go try it here's some cool things that you can do with it to like no longer."
+    },
+    {
+        "start": 1462.0,
+        "end": 1467.0,
+        "text": " Consumers don't need to be convinced that the art school they now know that the art school."
+    },
+    {
+        "start": 1467.0,
+        "end": 1477.0,
+        "text": " Yeah, so now it's like why do we have a better product and I love that because now it's all focus is on the teams that build the product and how to make it better."
+    },
+    {
+        "start": 1477.0,
+        "end": 1481.0,
+        "text": " And chasing your competitor whether they're in front of you or in your rear view mirror."
+    },
+    {
+        "start": 1481.0,
+        "end": 1484.0,
+        "text": " It's kind of like Android versus iOS."
+    },
+    {
+        "start": 1484.0,
+        "end": 1490.0,
+        "text": " That's the comparison I think a lot of people would make and obviously it's Apple so it makes sense that this is the iPhone of it."
+    },
+    {
+        "start": 1490.0,
+        "end": 1498.0,
+        "text": " But the competitor to the iPhone often needs to come up with the reason why you would choose it over the iPhone, especially in this country."
+    },
+    {
+        "start": 1498.0,
+        "end": 1500.0,
+        "text": " This is a very popular thing you have to do."
+    },
+    {
+        "start": 1500.0,
+        "end": 1505.0,
+        "text": " And so sometimes it's price sometimes it's a couple features that this one doesn't have."
+    },
+    {
+        "start": 1505.0,
+        "end": 1516.0,
+        "text": " Sometimes it's some customization that this one doesn't have and there are a lot of really good reasons why people would buy a quest 3 over a vision pro despite being a 7th of the price or whatever it is."
+    },
+    {
+        "start": 1516.0,
+        "end": 1518.0,
+        "text": " So I think that's a comparison."
+    },
+    {
+        "start": 1518.0,
+        "end": 1525.0,
+        "text": " Yeah, on that note where you you know where you say like now that we have competitors that like legitimizes everything."
+    },
+    {
+        "start": 1525.0,
+        "end": 1538.0,
+        "text": " The interesting thing that I've noticed about this that you actually said in your blog was that this is one of the first Apple products that didn't really meet the build it and they will come mindset for developers, which I also find weird."
+    },
+    {
+        "start": 1538.0,
+        "end": 1546.0,
+        "text": " Right because Apple announced it eight months before it came out something like that and they were like, you know, we've got these dev kits available."
+    },
+    {
+        "start": 1546.0,
+        "end": 1554.0,
+        "text": " You can build these apps and it seems like you would have developers rushing to make Apple vision pro versions of apps."
+    },
+    {
+        "start": 1554.0,
+        "end": 1561.0,
+        "text": " Exactly. When it launched there were like 600 that were native. Everything else was iPad, which cool you can natively port over stuff."
+    },
+    {
+        "start": 1561.0,
+        "end": 1567.0,
+        "text": " But why do you think developers have not garnered so much interest in making native vision pro apps?"
+    },
+    {
+        "start": 1567.0,
+        "end": 1575.0,
+        "text": " Yeah, it seems worth it to do now so that when the second generation is out you already have something you can build on with your take on that."
+    },
+    {
+        "start": 1575.0,
+        "end": 1590.0,
+        "text": " Yeah, so I totally agree with everything you said and I think that it's likely that Apple just really underestimated the sort of the Apple magic influence over developers by thinking that more things would show up of those 600."
+    },
+    {
+        "start": 1590.0,
+        "end": 1597.0,
+        "text": " So, frankly, Apple probably had to even lower its bar for approving the apps because there's a lot of like random clock and time and things."
+    },
+    {
+        "start": 1597.0,
+        "end": 1600.0,
+        "text": " Yeah, yeah. So you can put on walls."
+    },
+    {
+        "start": 1600.0,
+        "end": 1607.0,
+        "text": " Yeah, collection of widgets makes sense. Widgets as like maybe individual apps are just not as interesting."
+    },
+    {
+        "start": 1607.0,
+        "end": 1619.0,
+        "text": " So I think they did underestimate their or overestimate their power over developers and didn't actively do what they possibly could to get some of these key apps in the system."
+    },
+    {
+        "start": 1619.0,
+        "end": 1622.0,
+        "text": " So I think that's really the way to get these key apps in the store."
+    },
+    {
+        "start": 1622.0,
+        "end": 1627.0,
+        "text": " Even if they had to pay developers or give them all sorts of incentives, I think they probably should have done that."
+    },
+    {
+        "start": 1627.0,
+        "end": 1630.0,
+        "text": " They thought the incentive would just be where Apple were Apple, right?"
+    },
+    {
+        "start": 1630.0,
+        "end": 1636.0,
+        "text": " And I'll mention my favorite example of where Apple missed a beautiful opportunity."
+    },
+    {
+        "start": 1636.0,
+        "end": 1639.0,
+        "text": " Have you guys tried piano vision on Quest 3?"
+    },
+    {
+        "start": 1639.0,
+        "end": 1641.0,
+        "text": " I think the latest has."
+    },
+    {
+        "start": 1641.0,
+        "end": 1642.0,
+        "text": " Yes."
+    },
+    {
+        "start": 1642.0,
+        "end": 1644.0,
+        "text": " Ellis, what do you think of that app?"
+    },
+    {
+        "start": 1644.0,
+        "end": 1648.0,
+        "text": " It's one of those things that like, wow, this would be so cool."
+    },
+    {
+        "start": 1648.0,
+        "end": 1652.0,
+        "text": " It's a really good way of phrasing it."
+    },
+    {
+        "start": 1652.0,
+        "end": 1659.0,
+        "text": " And there's like a piano vision like clone in the, in the vision pro store, which is like really not that good."
+    },
+    {
+        "start": 1659.0,
+        "end": 1662.0,
+        "text": " It's called piano frames, I think."
+    },
+    {
+        "start": 1662.0,
+        "end": 1667.0,
+        "text": " But piano vision is like a legitimate tool for learning how to play piano."
+    },
+    {
+        "start": 1667.0,
+        "end": 1673.0,
+        "text": " I learned piano as a child and I forgot it all and I sort of went back to learning it with that app."
+    },
+    {
+        "start": 1673.0,
+        "end": 1679.0,
+        "text": " And it's just like, I can't think of a better example of an augmented reality app."
+    },
+    {
+        "start": 1679.0,
+        "end": 1680.0,
+        "text": " But that one."
+    },
+    {
+        "start": 1680.0,
+        "end": 1682.0,
+        "text": " So why isn't it available in vision pro?"
+    },
+    {
+        "start": 1682.0,
+        "end": 1683.0,
+        "text": " Right."
+    },
+    {
+        "start": 1683.0,
+        "end": 1685.0,
+        "text": " It's so weird."
+    },
+    {
+        "start": 1685.0,
+        "end": 1688.0,
+        "text": " Like maybe it's because the price is expensive and developers don't know."
+    },
+    {
+        "start": 1688.0,
+        "end": 1694.0,
+        "text": " But my sort of take on that was that I just felt like developers didn't know what to do yet."
+    },
+    {
+        "start": 1694.0,
+        "end": 1706.0,
+        "text": " And I think that that's why you're seeing so much kind of shovelware apps is because people don't understand yet what the paradigm of spatial computing is versus just something in virtual reality."
+    },
+    {
+        "start": 1706.0,
+        "end": 1709.0,
+        "text": " And at Oculus, we had to save developers a lot."
+    },
+    {
+        "start": 1709.0,
+        "end": 1710.0,
+        "text": " Like we sat down with them."
+    },
+    {
+        "start": 1710.0,
+        "end": 1712.0,
+        "text": " We helped make the app better."
+    },
+    {
+        "start": 1712.0,
+        "end": 1717.0,
+        "text": " We put a lot of budget to work towards, you know, funding this developments."
+    },
+    {
+        "start": 1717.0,
+        "end": 1720.0,
+        "text": " And I think maybe Apple could have done a bit more of that."
+    },
+    {
+        "start": 1720.0,
+        "end": 1721.0,
+        "text": " Maybe there's still time to do it."
+    },
+    {
+        "start": 1721.0,
+        "end": 1722.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1722.0,
+        "end": 1729.0,
+        "text": " When we talked Apple about this, they, I mean, maybe they're not talking to us about it, but they talk so much about the development of the hardware."
+    },
+    {
+        "start": 1729.0,
+        "end": 1731.0,
+        "text": " How amazing the hardware is."
+    },
+    {
+        "start": 1731.0,
+        "end": 1734.0,
+        "text": " How long they spent inventing new technologies."
+    },
+    {
+        "start": 1734.0,
+        "end": 1739.0,
+        "text": " And building new things materials inside this to make it physically possible."
+    },
+    {
+        "start": 1739.0,
+        "end": 1741.0,
+        "text": " We had to invent this to make it fit in this."
+    },
+    {
+        "start": 1741.0,
+        "end": 1742.0,
+        "text": " So we could do it."
+    },
+    {
+        "start": 1742.0,
+        "end": 1743.0,
+        "text": " I'm like, that's all amazing."
+    },
+    {
+        "start": 1743.0,
+        "end": 1745.0,
+        "text": " But people have to use it now."
+    },
+    {
+        "start": 1745.0,
+        "end": 1746.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1746.0,
+        "end": 1751.0,
+        "text": " We don't want to actually do in the headset that are kind of lacking at the moment."
+    },
+    {
+        "start": 1751.0,
+        "end": 1755.0,
+        "text": " Like there's a couple big apps, Netflix YouTube, things that just aren't here."
+    },
+    {
+        "start": 1755.0,
+        "end": 1759.0,
+        "text": " That I think if they were, that I can more easily answer the question, what does it do?"
+    },
+    {
+        "start": 1759.0,
+        "end": 1763.0,
+        "text": " Because that would have a couple more things to say that, oh, you already know about Netflix."
+    },
+    {
+        "start": 1763.0,
+        "end": 1764.0,
+        "text": " You know what this does."
+    },
+    {
+        "start": 1764.0,
+        "end": 1766.0,
+        "text": " And it's just right there."
+    },
+    {
+        "start": 1766.0,
+        "end": 1770.0,
+        "text": " It's just right on the doorstep of like being easy to explain."
+    },
+    {
+        "start": 1770.0,
+        "end": 1772.0,
+        "text": " Here's another one of your hot takes."
+    },
+    {
+        "start": 1772.0,
+        "end": 1774.0,
+        "text": " I'll read to you."
+    },
+    {
+        "start": 1774.0,
+        "end": 1779.0,
+        "text": " The battery, this thing right here, the battery hanging off the Vision Pro."
+    },
+    {
+        "start": 1779.0,
+        "end": 1787.0,
+        "text": " I thought it was, you know, a compromise for weight and heat, but you're saying it's actually an intentional decision"
+    },
+    {
+        "start": 1787.0,
+        "end": 1794.0,
+        "text": " and that they will keep it this way for the foreseeable future to tell their other things and get you used to the idea of tethering to the Vision Pro."
+    },
+    {
+        "start": 1794.0,
+        "end": 1795.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1795.0,
+        "end": 1796.0,
+        "text": " Please explain."
+    },
+    {
+        "start": 1796.0,
+        "end": 1799.0,
+        "text": " And this is a super controversial one."
+    },
+    {
+        "start": 1799.0,
+        "end": 1804.0,
+        "text": " I do really, really think that it's one of the most important things that Apple did."
+    },
+    {
+        "start": 1804.0,
+        "end": 1808.0,
+        "text": " It's like number two in my list of thank you Apple things."
+    },
+    {
+        "start": 1808.0,
+        "end": 1810.0,
+        "text": " The first one is Gaze and Pinch and introducing the world to that."
+    },
+    {
+        "start": 1810.0,
+        "end": 1812.0,
+        "text": " It's just a gift to humanity."
+    },
+    {
+        "start": 1812.0,
+        "end": 1816.0,
+        "text": " This one is not quite a gift to humanity, but it sets the right tone for VR."
+    },
+    {
+        "start": 1817.0,
+        "end": 1827.0,
+        "text": " Taking the battery off is the first step in the journey of reducing the weight by pulling components, but also pulling heat generation out of the headset."
+    },
+    {
+        "start": 1827.0,
+        "end": 1830.0,
+        "text": " Just to give you an idea, I don't know how much this thing weighs."
+    },
+    {
+        "start": 1830.0,
+        "end": 1835.0,
+        "text": " Obviously, there's a lot of, a lot there besides the battery, but the, the Quest 3 battery is 69 grams."
+    },
+    {
+        "start": 1835.0,
+        "end": 1836.0,
+        "text": " Nice."
+    },
+    {
+        "start": 1836.0,
+        "end": 1839.0,
+        "text": " Right, which is like, but 15% maybe of its weight?"
+    },
+    {
+        "start": 1839.0,
+        "end": 1841.0,
+        "text": " 69 grams."
+    },
+    {
+        "start": 1841.0,
+        "end": 1842.0,
+        "text": " Yeah, it's about, yeah, 500 grams."
+    },
+    {
+        "start": 1842.0,
+        "end": 1843.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1843.0,
+        "end": 1844.0,
+        "text": " Something like that, right?"
+    },
+    {
+        "start": 1845.0,
+        "end": 1859.0,
+        "text": " But when you start to take off 70 grams for the battery and you take out a whole PCB, and now all of a sudden you can take out the fan because you don't have heat on that thing anymore."
+    },
+    {
+        "start": 1859.0,
+        "end": 1867.0,
+        "text": " Like you start to find a path to that magical 300 grams, which I think is where things really turn."
+    },
+    {
+        "start": 1867.0,
+        "end": 1876.0,
+        "text": " And people stop saying that this headset is too heavy to wear, but also it starts making their face, you know, hot and at least I hear you totally on that."
+    },
+    {
+        "start": 1876.0,
+        "end": 1879.0,
+        "text": " Totally, totally, totally hear you on that."
+    },
+    {
+        "start": 1881.0,
+        "end": 1889.0,
+        "text": " So the only way to do that is to set expectation with V1 that there's a tether brick off this thing."
+    },
+    {
+        "start": 1889.0,
+        "end": 1895.0,
+        "text": " All the way to inventing a, you know, a belt clip and sell it in your store."
+    },
+    {
+        "start": 1895.0,
+        "end": 1899.0,
+        "text": " Despite the ridicule that that may seem, I think that's all worth it."
+    },
+    {
+        "start": 1899.0,
+        "end": 1915.0,
+        "text": " So, okay, the foreseeable future of Vision Pro then is battery is always tethered, but also getting people used to that idea also allows them to in the future possibly take more pieces of Vision Pro out of the headset and tether them as well so that you get this lighter and lighter face computer."
+    },
+    {
+        "start": 1915.0,
+        "end": 1916.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1916.0,
+        "end": 1917.0,
+        "text": " It's a good idea."
+    },
+    {
+        "start": 1917.0,
+        "end": 1929.0,
+        "text": " And not only moving things to this brick, but at some point you may not need the brick anymore because you can just plug it into your MacBook or your iPad or even your iPhone."
+    },
+    {
+        "start": 1929.0,
+        "end": 1930.0,
+        "text": " Sure. Definitely."
+    },
+    {
+        "start": 1930.0,
+        "end": 1934.0,
+        "text": " Well, I guess the magic right now is that you just look at your Mac and it appears and that's super cool."
+    },
+    {
+        "start": 1934.0,
+        "end": 1945.0,
+        "text": " But if you, if you get, let's say, because we expect there to be a non pro of this headset at some point, an Apple Vision Pro is 3,500 and Apple Vision Air or whatever."
+    },
+    {
+        "start": 1945.0,
+        "end": 1952.0,
+        "text": " 15 is somewhere down the road, which has a certain different feature set that enables it to be cheaper."
+    },
+    {
+        "start": 1952.0,
+        "end": 1953.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1953.0,
+        "end": 1959.0,
+        "text": " Maybe it doesn't do the wireless stuff as well, but you can plug it right into your Mac and they still have the tether and it's everyone's usage tether."
+    },
+    {
+        "start": 1959.0,
+        "end": 1966.0,
+        "text": " I think getting that headset to $1,500 without getting rid of the compute is going to be a really tall challenge."
+    },
+    {
+        "start": 1967.0,
+        "end": 1975.0,
+        "text": " What do you think is, okay, if you were to start now chopping things out of Vision Pro to get to the magical $1,500 headset, what do you get rid of right off the bat?"
+    },
+    {
+        "start": 1975.0,
+        "end": 1977.0,
+        "text": " I feel like you have to get rid of the eyesight."
+    },
+    {
+        "start": 1977.0,
+        "end": 1979.0,
+        "text": " I think with today's tech."
+    },
+    {
+        "start": 1979.0,
+        "end": 1980.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 1980.0,
+        "end": 1985.0,
+        "text": " I think, yeah, eyesight, I don't know how much that weighs, but it is a bit of dead weight."
+    },
+    {
+        "start": 1985.0,
+        "end": 1994.0,
+        "text": " You might argue, I think the, the, what's with their depth camera, not the lighter, but the other camera."
+    },
+    {
+        "start": 1994.0,
+        "end": 1995.0,
+        "text": " True depth."
+    },
+    {
+        "start": 1995.0,
+        "end": 1998.0,
+        "text": " The true depth camera, which I think they only use for the personal enrollment."
+    },
+    {
+        "start": 1998.0,
+        "end": 2000.0,
+        "text": " It might be another thing you can get rid of."
+    },
+    {
+        "start": 2000.0,
+        "end": 2003.0,
+        "text": " Use that user iPhone, just to chop that off altogether."
+    },
+    {
+        "start": 2003.0,
+        "end": 2004.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2004.0,
+        "end": 2010.0,
+        "text": " I think, you know, they can probably use four or five tracking cameras instead of six."
+    },
+    {
+        "start": 2010.0,
+        "end": 2017.0,
+        "text": " I have to think about your mouth because that's almost exclusively where I have the face and the camera is facing down that anyway."
+    },
+    {
+        "start": 2018.0,
+        "end": 2025.0,
+        "text": " But then I think, so then the next thing I would move out is the M2 chip and that whole thing."
+    },
+    {
+        "start": 2025.0,
+        "end": 2026.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2026.0,
+        "end": 2030.0,
+        "text": " The last thing to go would probably be the R1 chip and everything around it because of, because that's when you really are."
+    },
+    {
+        "start": 2030.0,
+        "end": 2032.0,
+        "text": " It needs to be there because it's a sensor."
+    },
+    {
+        "start": 2032.0,
+        "end": 2033.0,
+        "text": " Right, right."
+    },
+    {
+        "start": 2033.0,
+        "end": 2043.0,
+        "text": " I wanted to drill down into that a little bit further into the plugging in paradigm because Apple specifically, it seems like they want this to feel like it's computer."
+    },
+    {
+        "start": 2044.0,
+        "end": 2045.0,
+        "text": " Don't need your MacBook anymore."
+    },
+    {
+        "start": 2045.0,
+        "end": 2046.0,
+        "text": " You don't need it."
+    },
+    {
+        "start": 2046.0,
+        "end": 2047.0,
+        "text": " You know, it's, it's a whole thing."
+    },
+    {
+        "start": 2047.0,
+        "end": 2049.0,
+        "text": " It has an M2 chip in it."
+    },
+    {
+        "start": 2049.0,
+        "end": 2051.0,
+        "text": " It's just as powerful as a MacBook Air."
+    },
+    {
+        "start": 2051.0,
+        "end": 2052.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2052.0,
+        "end": 2055.0,
+        "text": " So it's a, it's a weird paradigm, right?"
+    },
+    {
+        "start": 2055.0,
+        "end": 2059.0,
+        "text": " Because they're, they're basically selling it as a whole separate computer."
+    },
+    {
+        "start": 2059.0,
+        "end": 2064.0,
+        "text": " But they're also selling it as a, a headset, which we don't traditionally see as a computer."
+    },
+    {
+        "start": 2064.0,
+        "end": 2065.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2065.0,
+        "end": 2072.0,
+        "text": " And I know that Oculus, you know, they, they have a standalone chip inside of it too, but you're not doing, you're not like running a browser on that general."
+    },
+    {
+        "start": 2072.0,
+        "end": 2075.0,
+        "text": " You know, but, but Apple has Safari in there."
+    },
+    {
+        "start": 2075.0,
+        "end": 2078.0,
+        "text": " They've got, you know, I message in there and all of these different apps."
+    },
+    {
+        "start": 2078.0,
+        "end": 2085.0,
+        "text": " Do you see a point in time where they, I know that you said that they're just going to like remove it and switch to plug."
+    },
+    {
+        "start": 2085.0,
+        "end": 2087.0,
+        "text": " Could they possibly do that?"
+    },
+    {
+        "start": 2087.0,
+        "end": 2093.0,
+        "text": " You know, and have like a cheaper one that doesn't have its own computer and is powered by a separate computer?"
+    },
+    {
+        "start": 2093.0,
+        "end": 2096.0,
+        "text": " You, you could sell this as an accessory, right?"
+    },
+    {
+        "start": 2096.0,
+        "end": 2102.0,
+        "text": " This is essentially an iPad Pro in a box, you know, probably with some additional processing capability."
+    },
+    {
+        "start": 2102.0,
+        "end": 2108.0,
+        "text": " Maybe not even because if you want to make it pluggable into an iPad, you then have to move that into the iPad anyway, right?"
+    },
+    {
+        "start": 2108.0,
+        "end": 2111.0,
+        "text": " So this is like, you could literally sell the computer as an auction."
+    },
+    {
+        "start": 2111.0,
+        "end": 2112.0,
+        "text": " Right?"
+    },
+    {
+        "start": 2112.0,
+        "end": 2125.0,
+        "text": " That turns your headset into a fully, you know, enclosed spatial computer that gives you the equivalent of an iPad Pro in terms of compute capabilities and power and so on and so on and so forth."
+    },
+    {
+        "start": 2125.0,
+        "end": 2131.0,
+        "text": " And I think that's a very viable computer to have with you."
+    },
+    {
+        "start": 2131.0,
+        "end": 2132.0,
+        "text": " In fact, many in a way."
+    },
+    {
+        "start": 2132.0,
+        "end": 2134.0,
+        "text": " And we're very close, isn't that a screen?"
+    },
+    {
+        "start": 2134.0,
+        "end": 2141.0,
+        "text": " We're very close to this being a spatial iPad Pro that's very usable and suitable for a lot of different tasks."
+    },
+    {
+        "start": 2141.0,
+        "end": 2143.0,
+        "text": " We've got the price, right?"
+    },
+    {
+        "start": 2143.0,
+        "end": 2146.0,
+        "text": " But as far as job to do, I think we're very close."
+    },
+    {
+        "start": 2146.0,
+        "end": 2153.0,
+        "text": " We're maybe two software updates away plus filling the app store gap from being there, which is very exciting."
+    },
+    {
+        "start": 2153.0,
+        "end": 2158.0,
+        "text": " Could we get rid of the speakers and have consumers be happy?"
+    },
+    {
+        "start": 2158.0,
+        "end": 2160.0,
+        "text": " You have to use AirPods."
+    },
+    {
+        "start": 2160.0,
+        "end": 2169.0,
+        "text": " You have to use something else, but that just feels like something, you know, in 99% of other electronic times we're using devices, we're using not the speakers on the device."
+    },
+    {
+        "start": 2169.0,
+        "end": 2171.0,
+        "text": " But it seems like VR headsets."
+    },
+    {
+        "start": 2171.0,
+        "end": 2177.0,
+        "text": " I don't know a lot of people that feel the way that wear specifically headphones and they're doing VR."
+    },
+    {
+        "start": 2177.0,
+        "end": 2184.0,
+        "text": " I think you probably don't need to because I don't think it necessarily buys you that much in terms of weight reduction and cost reduction."
+    },
+    {
+        "start": 2184.0,
+        "end": 2190.0,
+        "text": " And I think it does take away from that magical put it on in your good-to-go kind of thing."
+    },
+    {
+        "start": 2190.0,
+        "end": 2194.0,
+        "text": " So that probably would rank a lot lower in my priority list."
+    },
+    {
+        "start": 2194.0,
+        "end": 2198.0,
+        "text": " I have very existential questions that are like future out."
+    },
+    {
+        "start": 2198.0,
+        "end": 2200.0,
+        "text": " I don't know if you want to jump into this."
+    },
+    {
+        "start": 2200.0,
+        "end": 2202.0,
+        "text": " I could pitch one if you want."
+    },
+    {
+        "start": 2202.0,
+        "end": 2203.0,
+        "text": " Sure, go for it."
+    },
+    {
+        "start": 2204.0,
+        "end": 2212.0,
+        "text": " Okay, so I remember when I was reporting on Oculus stuff way back in the day and they, I think, acquired..."
+    },
+    {
+        "start": 2212.0,
+        "end": 2214.0,
+        "text": " What company did they acquire?"
+    },
+    {
+        "start": 2214.0,
+        "end": 2227.0,
+        "text": " It was some VR 360 storytelling company and they basically made a couple of movies that you could watch in VR and it was like immersive because it would be all around you and you had to do all this stuff."
+    },
+    {
+        "start": 2227.0,
+        "end": 2230.0,
+        "text": " Where do you see the..."
+    },
+    {
+        "start": 2230.0,
+        "end": 2235.0,
+        "text": " Do things like that actually pull users in and make it a paradigm that people want to use?"
+    },
+    {
+        "start": 2235.0,
+        "end": 2239.0,
+        "text": " Because I always thought when I was reporting on that, it's a cool little experience."
+    },
+    {
+        "start": 2239.0,
+        "end": 2244.0,
+        "text": " But just like this launched with the Alicia Keys experience."
+    },
+    {
+        "start": 2244.0,
+        "end": 2246.0,
+        "text": " And I'm sure that they'll launch..."
+    },
+    {
+        "start": 2246.0,
+        "end": 2248.0,
+        "text": " Yeah, and it's amazing, right? It's amazing."
+    },
+    {
+        "start": 2248.0,
+        "end": 2254.0,
+        "text": " But it's sort of like a demo of what the headset is good for in general."
+    },
+    {
+        "start": 2255.0,
+        "end": 2263.0,
+        "text": " Do you think that Apple investing in more of those kind of experiences is something you would actually get people to buy the headset?"
+    },
+    {
+        "start": 2263.0,
+        "end": 2274.0,
+        "text": " Because with the Oculus thing, it was a cool couple of movies but it didn't feel like someone was going to buy an Oculus to watch these movies because not that many of them are going to be produced."
+    },
+    {
+        "start": 2274.0,
+        "end": 2278.0,
+        "text": " Yeah. And then how many times are you going to want to watch that same movie again?"
+    },
+    {
+        "start": 2278.0,
+        "end": 2279.0,
+        "text": " Right."
+    },
+    {
+        "start": 2279.0,
+        "end": 2281.0,
+        "text": " So you almost need like an infinite..."
+    },
+    {
+        "start": 2281.0,
+        "end": 2285.0,
+        "text": " It's part of the appeal but it was also something that we would get old kind of fast."
+    },
+    {
+        "start": 2285.0,
+        "end": 2288.0,
+        "text": " Yeah, I don't know. I've watched the Alicia Keys video like 12 times now."
+    },
+    {
+        "start": 2288.0,
+        "end": 2290.0,
+        "text": " Really? It's great. No, no."
+    },
+    {
+        "start": 2290.0,
+        "end": 2292.0,
+        "text": " But yeah, that's..."
+    },
+    {
+        "start": 2292.0,
+        "end": 2296.0,
+        "text": " It reminds me of the 3D phase."
+    },
+    {
+        "start": 2296.0,
+        "end": 2298.0,
+        "text": " We did the whole 3D TV for a while."
+    },
+    {
+        "start": 2298.0,
+        "end": 2302.0,
+        "text": " Or even when the Red Hydrogen came out and it was like, look at this amazing video on the Red Hydrogen."
+    },
+    {
+        "start": 2302.0,
+        "end": 2306.0,
+        "text": " And it would look pretty cool and then you'd be done and be like, okay, what else?"
+    },
+    {
+        "start": 2306.0,
+        "end": 2307.0,
+        "text": " To tech demo."
+    },
+    {
+        "start": 2307.0,
+        "end": 2309.0,
+        "text": " That's it. Yeah, it's a party trick."
+    },
+    {
+        "start": 2309.0,
+        "end": 2310.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2310.0,
+        "end": 2322.0,
+        "text": " I think that's something Mark Zuckerberg talked a lot about which is they have invested so much in not just games but also content, library, and just partnerships in general for things for people to do in Quest."
+    },
+    {
+        "start": 2322.0,
+        "end": 2323.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2323.0,
+        "end": 2325.0,
+        "text": " And that's a big part of why Quest is pretty good."
+    },
+    {
+        "start": 2325.0,
+        "end": 2332.0,
+        "text": " But to me that still feels like a way for trying to get people to stick around but not necessarily the reason people show up."
+    },
+    {
+        "start": 2332.0,
+        "end": 2333.0,
+        "text": " You know what I mean?"
+    },
+    {
+        "start": 2333.0,
+        "end": 2334.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2334.0,
+        "end": 2335.0,
+        "text": " So..."
+    },
+    {
+        "start": 2335.0,
+        "end": 2337.0,
+        "text": " Boy do I have a lot to say about that."
+    },
+    {
+        "start": 2337.0,
+        "end": 2338.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2338.0,
+        "end": 2344.0,
+        "text": " So first of all, and this is a bit of a hot take, I don't think this is not exactly what you asked but it's background."
+    },
+    {
+        "start": 2344.0,
+        "end": 2345.0,
+        "text": " Okay."
+    },
+    {
+        "start": 2345.0,
+        "end": 2350.0,
+        "text": " I don't think that rectilinear video watching in VR is a thing that retains."
+    },
+    {
+        "start": 2350.0,
+        "end": 2353.0,
+        "text": " We've tested it extensively and it's really cool."
+    },
+    {
+        "start": 2353.0,
+        "end": 2354.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2354.0,
+        "end": 2358.0,
+        "text": " But over time, you're like, I know I'm just going to watch another TV or on my phone or on my iPad and so on."
+    },
+    {
+        "start": 2358.0,
+        "end": 2361.0,
+        "text": " So you know, rectilinear video which is rectangular whether it's 3D or not."
+    },
+    {
+        "start": 2361.0,
+        "end": 2362.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2362.0,
+        "end": 2365.0,
+        "text": " I don't think it's a major appeal."
+    },
+    {
+        "start": 2365.0,
+        "end": 2370.0,
+        "text": " I mean, you don't create a device that's just for people to watch TV in it."
+    },
+    {
+        "start": 2370.0,
+        "end": 2371.0,
+        "text": " Right."
+    },
+    {
+        "start": 2371.0,
+        "end": 2375.0,
+        "text": " So then you go into the immersive video format which is what you're talking about."
+    },
+    {
+        "start": 2375.0,
+        "end": 2376.0,
+        "text": " Yes."
+    },
+    {
+        "start": 2376.0,
+        "end": 2378.0,
+        "text": " Which is incredible but it's also like, what do you do it?"
+    },
+    {
+        "start": 2378.0,
+        "end": 2380.0,
+        "text": " What is the reason to buy the device?"
+    },
+    {
+        "start": 2380.0,
+        "end": 2386.0,
+        "text": " So there's three things that I can think of all of which my guess is that Apple will experiment with."
+    },
+    {
+        "start": 2386.0,
+        "end": 2389.0,
+        "text": " The first one is storytelling and it's TV shows."
+    },
+    {
+        "start": 2389.0,
+        "end": 2390.0,
+        "text": " Right?"
+    },
+    {
+        "start": 2390.0,
+        "end": 2394.0,
+        "text": " Because the magic with TV shows is that if you're into it, there's like seasons and seasons and seasons that you can keep making."
+    },
+    {
+        "start": 2394.0,
+        "end": 2397.0,
+        "text": " Kind of exploring the same characters and so on and so forth."
+    },
+    {
+        "start": 2397.0,
+        "end": 2402.0,
+        "text": " I think dramatic storytelling in immersive format is going to be difficult to do."
+    },
+    {
+        "start": 2402.0,
+        "end": 2412.0,
+        "text": " And you talk about about this in one of the way of form podcasts early on about sort of how storytelling in 360 was so much harder and I agree with all of that."
+    },
+    {
+        "start": 2412.0,
+        "end": 2420.0,
+        "text": " So yes, they'll experiment but I just don't see it being that good from like a cinema and artistic perspective."
+    },
+    {
+        "start": 2420.0,
+        "end": 2423.0,
+        "text": " The two things that I am excited about."
+    },
+    {
+        "start": 2423.0,
+        "end": 2429.0,
+        "text": " One is music which I think proven by the Alicia Keys sort of intimate studio concert."
+    },
+    {
+        "start": 2429.0,
+        "end": 2431.0,
+        "text": " And I think there's a lot to do there."
+    },
+    {
+        "start": 2431.0,
+        "end": 2435.0,
+        "text": " And the other one is sports and especially live sports."
+    },
+    {
+        "start": 2435.0,
+        "end": 2436.0,
+        "text": " I need that."
+    },
+    {
+        "start": 2436.0,
+        "end": 2437.0,
+        "text": " I need that."
+    },
+    {
+        "start": 2437.0,
+        "end": 2442.0,
+        "text": " That's the one that's the number one thing I cannot wait to actually get to use in this thing."
+    },
+    {
+        "start": 2442.0,
+        "end": 2445.0,
+        "text": " And so many people have told me I'm wrong on this."
+    },
+    {
+        "start": 2445.0,
+        "end": 2446.0,
+        "text": " And you know, time will tell."
+    },
+    {
+        "start": 2446.0,
+        "end": 2452.0,
+        "text": " But I could not be more convinced that the biggest thing that the R will change."
+    },
+    {
+        "start": 2452.0,
+        "end": 2457.0,
+        "text": " Or I should say the big thing that the R will change first is not gaming."
+    },
+    {
+        "start": 2457.0,
+        "end": 2459.0,
+        "text": " It's not productivity."
+    },
+    {
+        "start": 2459.0,
+        "end": 2461.0,
+        "text": " It's spectator sports."
+    },
+    {
+        "start": 2461.0,
+        "end": 2473.0,
+        "text": " And I was personally involved in shooting that Oculus go Adam Levine, John A Hill, like court side at the NBA, you know, add from a long time ago."
+    },
+    {
+        "start": 2473.0,
+        "end": 2476.0,
+        "text": " Of course, we couldn't deliver all that product experience."
+    },
+    {
+        "start": 2476.0,
+        "end": 2478.0,
+        "text": " That's a different thing."
+    },
+    {
+        "start": 2478.0,
+        "end": 2483.0,
+        "text": " But it really, really, really transforms the experience of watching sports."
+    },
+    {
+        "start": 2483.0,
+        "end": 2486.0,
+        "text": " And it's so complicated technically and artistically."
+    },
+    {
+        "start": 2486.0,
+        "end": 2491.0,
+        "text": " Technically because you have to figure out a way to do like 8K live broadcast, which is super complicated."
+    },
+    {
+        "start": 2491.0,
+        "end": 2494.0,
+        "text": " You know, you guys know a lot more about this than I do."
+    },
+    {
+        "start": 2494.0,
+        "end": 2499.0,
+        "text": " And artistically because each sport is different, like where do you put the camera, where do you put the big screen."
+    },
+    {
+        "start": 2500.0,
+        "end": 2504.0,
+        "text": " You know, when you change angles, you know, how do you do replace and so on and so forth."
+    },
+    {
+        "start": 2504.0,
+        "end": 2508.0,
+        "text": " But I'm so convinced just look how much money people spend to go to a game."
+    },
+    {
+        "start": 2508.0,
+        "end": 2510.0,
+        "text": " That's what I, it's exactly what I was saying."
+    },
+    {
+        "start": 2510.0,
+        "end": 2511.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2511.0,
+        "end": 2517.0,
+        "text": " You know, there are infinite ways that I've thought of that I would like to participate in live sports in the Vision Pro."
+    },
+    {
+        "start": 2517.0,
+        "end": 2521.0,
+        "text": " But one that came to mind because there was that like demo reel where I think it was there's a basketball game."
+    },
+    {
+        "start": 2521.0,
+        "end": 2525.0,
+        "text": " And there's a soccer one where you were like above the net."
+    },
+    {
+        "start": 2525.0,
+        "end": 2527.0,
+        "text": " That's not even a real seat you can buy."
+    },
+    {
+        "start": 2527.0,
+        "end": 2532.0,
+        "text": " But it's better than any seat you can buy, but you're above the net and you can see the play developing in front of you."
+    },
+    {
+        "start": 2532.0,
+        "end": 2537.0,
+        "text": " And it's like, you know that there are people with disposable incomes spending $3,000 on a headset."
+    },
+    {
+        "start": 2537.0,
+        "end": 2544.0,
+        "text": " That would love to spend an extra hundred bucks to watch that game live from the best seat in the house."
+    },
+    {
+        "start": 2544.0,
+        "end": 2547.0,
+        "text": " Like that's a real obvious opportunity."
+    },
+    {
+        "start": 2547.0,
+        "end": 2552.0,
+        "text": " The other one that comes to mind is basketball, where if you're at a, I don't know, quartz-side seat, which is very expensive,"
+    },
+    {
+        "start": 2552.0,
+        "end": 2561.0,
+        "text": " you don't actually get the best view, but it is super cool because you get to see the size of the players and the coaches right in front of you and the ref runs past you and all this fun stuff."
+    },
+    {
+        "start": 2561.0,
+        "end": 2574.0,
+        "text": " And I wish, I don't know how technically difficult it actually is to execute on, but I wish that there was a little rig right next to the scores table that would let me sit there and look around as if I was sitting in that seat."
+    },
+    {
+        "start": 2574.0,
+        "end": 2576.0,
+        "text": " But it's not a real thing yet."
+    },
+    {
+        "start": 2576.0,
+        "end": 2578.0,
+        "text": " And I just keep waiting for someone to pull it off."
+    },
+    {
+        "start": 2578.0,
+        "end": 2580.0,
+        "text": " Well, Apple bought that company."
+    },
+    {
+        "start": 2580.0,
+        "end": 2583.0,
+        "text": " Yeah, there was a company called NextVR 2020."
+    },
+    {
+        "start": 2583.0,
+        "end": 2587.0,
+        "text": " These guys are absolute geniuses. They've been doing this for, you know, a decade."
+    },
+    {
+        "start": 2587.0,
+        "end": 2601.0,
+        "text": " So they know the ins and outs of shooting in 183D, including that dual 8K crazy format that they've just launched, but also they've really invested into thinking about the broadcast pipeline because they want to get to live sports."
+    },
+    {
+        "start": 2601.0,
+        "end": 2610.0,
+        "text": " And like, it's not even that hard to do something simple that already works, even the center court seat, you know, basketball NBA center court,"
+    },
+    {
+        "start": 2610.0,
+        "end": 2617.0,
+        "text": " a court side seat with a big S projected TV just on top that shows the regular broadcast."
+    },
+    {
+        "start": 2617.0,
+        "end": 2618.0,
+        "text": " Exactly."
+    },
+    {
+        "start": 2618.0,
+        "end": 2621.0,
+        "text": " Man, that's good enough for a lot of people. You don't have to go much further."
+    },
+    {
+        "start": 2621.0,
+        "end": 2622.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2622.0,
+        "end": 2624.0,
+        "text": " And then you go all the way to like the Formula One craziness."
+    },
+    {
+        "start": 2624.0,
+        "end": 2626.0,
+        "text": " You guys talked about that in a pod as well."
+    },
+    {
+        "start": 2626.0,
+        "end": 2627.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2627.0,
+        "end": 2631.0,
+        "text": " And that just is a different world that requires a lot more production."
+    },
+    {
+        "start": 2631.0,
+        "end": 2633.0,
+        "text": " So it's, I think it's coming."
+    },
+    {
+        "start": 2633.0,
+        "end": 2641.0,
+        "text": " I am convinced that when Apple was negotiating its MLS rights, and they got like the full package, they got it all."
+    },
+    {
+        "start": 2641.0,
+        "end": 2642.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2642.0,
+        "end": 2647.0,
+        "text": " They were already thinking about this and people have been seeing cameras, courtside and MLS games for a long time."
+    },
+    {
+        "start": 2647.0,
+        "end": 2648.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2648.0,
+        "end": 2649.0,
+        "text": " There's a film coming."
+    },
+    {
+        "start": 2649.0,
+        "end": 2654.0,
+        "text": " Question is, how long until we can watch an MLS match live in immersive?"
+    },
+    {
+        "start": 2655.0,
+        "end": 2658.0,
+        "text": " I'm, that will make this purchase worth it for me."
+    },
+    {
+        "start": 2658.0,
+        "end": 2659.0,
+        "text": " Just that."
+    },
+    {
+        "start": 2659.0,
+        "end": 2664.0,
+        "text": " I think Apple could sell millions of headsets if they can nail live sports."
+    },
+    {
+        "start": 2664.0,
+        "end": 2668.0,
+        "text": " I guess the benefit of that is that their sports happening all the time."
+    },
+    {
+        "start": 2668.0,
+        "end": 2674.0,
+        "text": " So it's not like you have to wait for Apple to develop a new movie with the storytelling and the shooting and the production."
+    },
+    {
+        "start": 2674.0,
+        "end": 2676.0,
+        "text": " It's just like repetitive."
+    },
+    {
+        "start": 2676.0,
+        "end": 2683.0,
+        "text": " I remember back when the HTC Vive was out and it was pretty new, Valve released."
+    },
+    {
+        "start": 2683.0,
+        "end": 2686.0,
+        "text": " I don't know if you're privy to like Dota 2, the video game."
+    },
+    {
+        "start": 2686.0,
+        "end": 2687.0,
+        "text": " Yeah."
+    },
+    {
+        "start": 2687.0,
+        "end": 2688.0,
+        "text": " Okay."
+    },
+    {
+        "start": 2688.0,
+        "end": 2690.0,
+        "text": " So I played Dota for like 12 years."
+    },
+    {
+        "start": 2690.0,
+        "end": 2691.0,
+        "text": " And they did."
+    },
+    {
+        "start": 2691.0,
+        "end": 2692.0,
+        "text": " You like Dota?"
+    },
+    {
+        "start": 2692.0,
+        "end": 2693.0,
+        "text": " Like, it's crazy."
+    },
+    {
+        "start": 2693.0,
+        "end": 2701.0,
+        "text": " And Valve, because they worked so tightly with HTC early on because SteamVR and all that stuff, they've always been into VR."
+    },
+    {
+        "start": 2701.0,
+        "end": 2712.0,
+        "text": " They released like a special Dota 3D mode that you could spectate in where you could look at the map from above and kind of tilt the map around."
+    },
+    {
+        "start": 2712.0,
+        "end": 2714.0,
+        "text": " Wow, the live pro match was happening."
+    },
+    {
+        "start": 2714.0,
+        "end": 2715.0,
+        "text": " Amazing."
+    },
+    {
+        "start": 2715.0,
+        "end": 2718.0,
+        "text": " And you could like zoom in on the players moon around and stuff."
+    },
+    {
+        "start": 2718.0,
+        "end": 2720.0,
+        "text": " And I thought it was super cool."
+    },
+    {
+        "start": 2720.0,
+        "end": 2725.0,
+        "text": " But it didn't feel like a better way to watch the live game."
+    },
+    {
+        "start": 2725.0,
+        "end": 2732.0,
+        "text": " Like it again sort of felt like that like tech demo party trick thing for me where I liked watching one game in it."
+    },
+    {
+        "start": 2732.0,
+        "end": 2737.0,
+        "text": " And then after that, I was like, I would rather watch this the regular way."
+    },
+    {
+        "start": 2737.0,
+        "end": 2740.0,
+        "text": " And this is not a real, well, real sport."
+    },
+    {
+        "start": 2740.0,
+        "end": 2741.0,
+        "text": " It's an esport."
+    },
+    {
+        "start": 2741.0,
+        "end": 2745.0,
+        "text": " Very different from like people jumping in front of you."
+    },
+    {
+        "start": 2745.0,
+        "end": 2750.0,
+        "text": " But I wonder like it just makes me wonder whether or not that has that much appeal."
+    },
+    {
+        "start": 2750.0,
+        "end": 2752.0,
+        "text": " But then you guys say that it does."
+    },
+    {
+        "start": 2752.0,
+        "end": 2754.0,
+        "text": " So I guess I should just believe you."
+    },
+    {
+        "start": 2754.0,
+        "end": 2756.0,
+        "text": " Yeah, I don't know."
+    },
+    {
+        "start": 2756.0,
+        "end": 2766.0,
+        "text": " I guess that if you could have a better watching experience every single week, people would probably buy these even if they could just only use it to watch the live sport once a week."
+    },
+    {
+        "start": 2766.0,
+        "end": 2774.0,
+        "text": " I think the Vision Pro and any high quality VR heads can be a single purpose device for a lot of different people."
+    },
+    {
+        "start": 2774.0,
+        "end": 2776.0,
+        "text": " Live sports is one thing."
+    },
+    {
+        "start": 2776.0,
+        "end": 2779.0,
+        "text": " Teleportation is another thing."
+    },
+    {
+        "start": 2779.0,
+        "end": 2782.0,
+        "text": " An external monitor is another thing."
+    },
+    {
+        "start": 2782.0,
+        "end": 2785.0,
+        "text": " It just has to get good enough for those things to be reliable."
+    },
+    {
+        "start": 2785.0,
+        "end": 2787.0,
+        "text": " All right, we're going to take one more quick break."
+    },
+    {
+        "start": 2787.0,
+        "end": 2792.0,
+        "text": " But when we come back a lot more on how Apple has been marketing and packaging Vision Pro."
+    },
+    {
+        "start": 2796.0,
+        "end": 2804.0,
+        "text": " Support for this episode of waveform comes from gigabyte."
+    },
+    {
+        "start": 2804.0,
+        "end": 2808.0,
+        "text": " There's a lot of talk out there about how AI is revolutionizing our world."
+    },
+    {
+        "start": 2808.0,
+        "end": 2815.0,
+        "text": " Computers are writing newsletters, robotic bees are pollinating flowers and a whole new wave of driverless taxes are popping up in cities all over the world."
+    },
+    {
+        "start": 2815.0,
+        "end": 2818.0,
+        "text": " But how can AI power our passions and what we do for fun?"
+    },
+    {
+        "start": 2818.0,
+        "end": 2821.0,
+        "text": " That's where gigabytes AI gaming laptops come in."
+    },
+    {
+        "start": 2821.0,
+        "end": 2829.0,
+        "text": " So their range of powerful and portable new laptops deliver cutting edge performance for anyone looking to explore the brave new world of AI powered gaming."
+    },
+    {
+        "start": 2829.0,
+        "end": 2838.0,
+        "text": " So every 2024 or is machine comes equipped with the gigabyte AI Nexus, which is like a central hub located with all the AI powered features you could hope for."
+    },
+    {
+        "start": 2838.0,
+        "end": 2846.0,
+        "text": " So that includes super useful tools like AI power gear, which automatically throttles and extends your computer's battery life depending on your power source and usage."
+    },
+    {
+        "start": 2846.0,
+        "end": 2855.0,
+        "text": " You also get access to AI boost, which optimizes performance based on what you're doing in that moment, whether you're ripping through an FPS or running your own large language model."
+    },
+    {
+        "start": 2855.0,
+        "end": 2861.0,
+        "text": " AI boost automatically adjusts the GPU and processors to maximize responsiveness and deliver unparalleled efficiency."
+    },
+    {
+        "start": 2861.0,
+        "end": 2866.0,
+        "text": " Lastly, AI generator includes various generative AI apps for quick start up."
+    },
+    {
+        "start": 2866.0,
+        "end": 2873.0,
+        "text": " And all 2024 gigabyte models seamlessly integrate with tools like open AI and Microsoft's co pilot AI chatbot."
+    },
+    {
+        "start": 2873.0,
+        "end": 2883.0,
+        "text": " But the orists 16X and the gigabyte G6 X take it to the next level with a dedicated co pilot key allowing users to swiftly tap into productivity and generative AI capabilities."
+    },
+    {
+        "start": 2883.0,
+        "end": 2888.0,
+        "text": " I also keep hearing AI is going to change a lot in the gaming world. Andrew can you think of anything about that?"
+    },
+    {
+        "start": 2888.0,
+        "end": 2904.0,
+        "text": " Not just optimization, like you said, but like more personal optimization, I could see happening where like maybe you're playing a competitive game like Valorant and you want higher FPS and lower resolution like you're okay versus like the Witcher where you might want 4K, crispy resolution and like a lower frame rate."
+    },
+    {
+        "start": 2904.0,
+        "end": 2911.0,
+        "text": " I think finding that between your computer specs and what you want might help out a lot."
+    },
+    {
+        "start": 2911.0,
+        "end": 2919.0,
+        "text": " So all of the models that I've been talking about are available right now at oris.com slash laptops slash gigabyte dash AI."
+    },
+    {
+        "start": 2919.0,
+        "end": 2936.0,
+        "text": " So that's a or us.com slash laptops slash gigabyte dash AI gigabyte team up fight on in an apple kind of like they kind of twisted their marketing for the vision pro to be more focused around media consumption more recently, right?"
+    },
+    {
+        "start": 2936.0,
+        "end": 2943.0,
+        "text": " Because they kind of realized that the workspace thing wasn't really built out yet in the apps weren't coming."
+    },
+    {
+        "start": 2943.0,
+        "end": 2950.0,
+        "text": " Yep. So a lot of their verbiage you wrote about that in your blog post. Can you expand on that a little bit?"
+    },
+    {
+        "start": 2950.0,
+        "end": 2957.0,
+        "text": " Yeah, I call their marketing like 60 40 60 initially at least 60% productivity 40% video."
+    },
+    {
+        "start": 2957.0,
+        "end": 2962.0,
+        "text": " And I think that may have flipped. Yeah, look at some of the latest assets that they've put out and so on."
+    },
+    {
+        "start": 2962.0,
+        "end": 2971.0,
+        "text": " And and you're totally right. I think that Apple pulled the product marketing rabbit out of their hole out of their their hat."
+    },
+    {
+        "start": 2971.0,
+        "end": 2977.0,
+        "text": " Knowing how little they had for this launch. They were already committed to it right. Developers didn't come."
+    },
+    {
+        "start": 2977.0,
+        "end": 2988.0,
+        "text": " So what do you do? So you go all in on something that is magical and that demos really well, which is video watching like watching 60 FPS avatar in 3D 60 FPS I think right?"
+    },
+    {
+        "start": 2988.0,
+        "end": 2995.0,
+        "text": " Yeah, it's like some weird switches between 48 and 16 96 96 difference."
+    },
+    {
+        "start": 2995.0,
+        "end": 3003.0,
+        "text": " It's it's literally not the same frame rate throughout the movie. It switches frame rate. I wonder what it's like if it's also like that."
+    },
+    {
+        "start": 3003.0,
+        "end": 3009.0,
+        "text": " I mean, it must be right probably is it's dynamic. It was it was a headache to watch in the theater. I'll tell you that. Yeah."
+    },
+    {
+        "start": 3009.0,
+        "end": 3016.0,
+        "text": " Yeah, it's funny. I think I could sense something but my eye was nowhere near as well trained as yours to like notice. Oh, that's a frame rate."
+    },
+    {
+        "start": 3016.0,
+        "end": 3023.0,
+        "text": " Yeah, when they would switch to like running scenes where it was moving fast, it would switch to 60 FPS and it felt like a video game cut scene."
+    },
+    {
+        "start": 3023.0,
+        "end": 3031.0,
+        "text": " I think it was 24 to 48 by the way 24 to 48. Okay, which is what the hobbit was filmed in for the entire movie and the entire movie looks like a video game cut."
+    },
+    {
+        "start": 3031.0,
+        "end": 3038.0,
+        "text": " So they put high frame rate videos and Apple TV plus, you know, and did all the things that they could to make this as appealing as it could be."
+    },
+    {
+        "start": 3038.0,
+        "end": 3042.0,
+        "text": " I just I just don't think it's going to sustain the product for very long."
+    },
+    {
+        "start": 3042.0,
+        "end": 3053.0,
+        "text": " Yeah. Here's another context question with Apple Vision Pro. What is the what is the ideal weight to to actually feel like you've successfully made something that people can wear for a long time."
+    },
+    {
+        "start": 3053.0,
+        "end": 3064.0,
+        "text": " Because this is a notoriously heavy headset. It's aluminum has some plastic and glass. It's around 600 grams, right. We've seen lighter headsets. A lot of people reference the quest three."
+    },
+    {
+        "start": 3064.0,
+        "end": 3076.0,
+        "text": " The quest three happens to be around about 500 grams. But if you could keep going down, is there like a magical weight that you hit where you just feel like you can wear it forever like sunglasses."
+    },
+    {
+        "start": 3076.0,
+        "end": 3088.0,
+        "text": " And if so, is that anywhere in because I think about like what tech is actually possible with what we have now. Is that actually possible with the tech we have to make a light enough headset that's still good but also light."
+    },
+    {
+        "start": 3088.0,
+        "end": 3095.0,
+        "text": " I think it is if you can get if you can work really hard on your sensors, if you can move the compute and the battery off the headset."
+    },
+    {
+        "start": 3095.0,
+        "end": 3101.0,
+        "text": " Okay. Work for a couple of generations. I think you can you can break the 300 through 150 grams."
+    },
+    {
+        "start": 3101.0,
+        "end": 3106.0,
+        "text": " 300 50 kind of territory, which can I show my toy. I would love to. Yeah, please."
+    },
+    {
+        "start": 3106.0,
+        "end": 3124.0,
+        "text": " Which funny enough is where Oculus started. This is an original Oculus DK1 from 2016, I believe. And this this is just a display. It's nothing else. Right. And it's 380 grams."
+    },
+    {
+        "start": 3124.0,
+        "end": 3140.0,
+        "text": " You know, put this thing on and it's a little bit strange. The foam is not exactly super comfortable and so on. But you feel okay. Like this is a like qualitative difference from wearing any of the headsets that exist today."
+    },
+    {
+        "start": 3140.0,
+        "end": 3152.0,
+        "text": " So I think 350 grams is kind of where it starts to look really interesting. That's like about a smartphone weight. I think wait, how many? Let me Google that iPhone 15 pro max weight."
+    },
+    {
+        "start": 3152.0,
+        "end": 3167.0,
+        "text": " About 260, right? Yeah, I think 220. Yeah. Okay. So like it's so one and a half smartphones. Yeah. Now this is this is even lighter. What is the matrix? What are you wearing now? And this is what some people call the ready player one headset."
+    },
+    {
+        "start": 3167.0,
+        "end": 3177.0,
+        "text": " This is called the big screen beyond to be clear. I have no affiliation with company or anything. I just think they're bad asses. This is 127 grams. Wow."
+    },
+    {
+        "start": 3177.0,
+        "end": 3206.0,
+        "text": " Yeah. Which is lighter than most ski goggles or many ski goggles. Yeah. Half iPhone 15 pro max. Yeah. That's lighter than most phones. Yeah. So that but that's just a screen. And that's it. No. This is just a screen with a custom facial interface that's made for my face. And it's not like one of 28 that was chosen for me. It's actually custom printed for my face. And this is just a screen with. It's a micro led display like in the vision pro with a pancake lens like in the vision pro."
+    },
+    {
+        "start": 3206.0,
+        "end": 3234.0,
+        "text": " It's a tethered headset to be clear. It has no sensors. No pass through. So obviously it's a very different subclass of the our product. But what I like about this product and the fact that it exists. It that it kind of shows us what sort of this desirable and state is like where do we think that this thing could ultimately go when all of the technologies that need to be invented are finally there. Yeah. And this would be a beautiful future. Yeah. I made a video."
+    },
+    {
+        "start": 3234.0,
+        "end": 3263.0,
+        "text": " Kind of talking about this collision course that we're on and it may not be a collision. But on one side there's VR headsets with a ton of technology in them that way 500 grams and we're trying to make them smaller and smaller and lighter every year. But on the other side is smart glasses. And it's something you can wear today and look normal. But you can't fit much tech in them. So they're trying to fit more and more and more tech cameras sensors compute while keeping them the size of smart glasses. And they're kind of just doing this. They're going at each other."
+    },
+    {
+        "start": 3264.0,
+        "end": 3281.0,
+        "text": " This feels right about in the middle. I don't know if you have a thought about which one might end up winning people over faster or which one could win. I tend to feel like smart glasses are more approachable to more people. They're also less tech so they're more affordable. Yeah. But what are your thoughts on that?"
+    },
+    {
+        "start": 3281.0,
+        "end": 3306.0,
+        "text": " I think there is a theoretical form factor right in the middle there which is the ski goggles optical pass through theoretical product. It's actually a lot of the ready player one headsets look like they you can see the person's eyes and they're their optical pass through their transparent displays."
+    },
+    {
+        "start": 3306.0,
+        "end": 3321.0,
+        "text": " That to me would be one of the most revolutionary form factors. It's very unclear if one can build a wide FOV transparent display that would be sort of all the good things that we need."
+    },
+    {
+        "start": 3321.0,
+        "end": 3331.0,
+        "text": " That was a pun. I don't know if he was that on purpose. It was very unclear. That was good. It was great pun. They just come up."
+    },
+    {
+        "start": 3331.0,
+        "end": 3350.0,
+        "text": " So that to me and that would be like a 300 to 300 gram device ideally. That's a beautiful thing. I think the optical pass through glasses form factor where there's an actual display that's more than just a notification screen."
+    },
+    {
+        "start": 3350.0,
+        "end": 3363.0,
+        "text": " I worry that product may never exist because it's just phenomenally difficult to build an actual display into such a small form factor where everything is so close to your eye and so on and so forth."
+    },
+    {
+        "start": 3363.0,
+        "end": 3373.0,
+        "text": " So there's prototypes of that out there. I've seen some of them. Will that product exist in the next 10 to 15 years? I'm not sure if it will."
+    },
+    {
+        "start": 3373.0,
+        "end": 3381.0,
+        "text": " Yeah. That feels like one of those sci-fi things that is hard to imagine with what we know about technology today. Yeah. Even though it seems really cool."
+    },
+    {
+        "start": 3381.0,
+        "end": 3396.0,
+        "text": " As quickly as the headset and glasses things are like approaching each other, it still feels like they're on their own track because especially with what Meta's doing with its AI assistance that you can have in your Meta Ray bands now."
+    },
+    {
+        "start": 3396.0,
+        "end": 3408.0,
+        "text": " It's more about contextual awareness of your everyday life and not necessarily manipulating your everyday life. Whereas this is more focused on manipulating your everyday life, but obviously it's a giant headset."
+    },
+    {
+        "start": 3408.0,
+        "end": 3421.0,
+        "text": " And so I'm sure that there's some sort of like in between that because they want to get those smaller Meta wants to get those more powerful. But like you said, the technology required just weight wise. You can't have a pair of Ray bands that have an M2 chip inside."
+    },
+    {
+        "start": 3421.0,
+        "end": 3431.0,
+        "text": " Yeah. So I have a question around the sort of like developers build it and they will come mindset because that didn't happen in the Vision Pro."
+    },
+    {
+        "start": 3431.0,
+        "end": 3449.0,
+        "text": " Yeah. But it especially is not happening now, I feel, because when there was hype around the Vision Pro when it first came out, we saw a lot of developers that were making Vision Pro apps as soon as they got their Vision Pro because they needed to understand the paradigm of how a spatial computing worked better."
+    },
+    {
+        "start": 3449.0,
+        "end": 3459.0,
+        "text": " But now it feels like it's been out for a while. People aren't talking about it every week anymore. And there was already a way less developer hype than Apple assumes there would be."
+    },
+    {
+        "start": 3459.0,
+        "end": 3475.0,
+        "text": " Now, how does Apple get people more excited about this device? And do you think that people are still going to be working on like stuff for it? Or is it going to take until a generation two to reignite developers to actually think maybe this is worth building for?"
+    },
+    {
+        "start": 3475.0,
+        "end": 3489.0,
+        "text": " Yeah. I think the organic creating organic excitement is going to be very tough because as you said, a lot of that wave of excitement of curiosity of interest and the product from consumers is starting to go away."
+    },
+    {
+        "start": 3489.0,
+        "end": 3501.0,
+        "text": " So I believe Apple will just have to use money. They'll have to fund some of these startups, some of these game developer studios and others."
+    },
+    {
+        "start": 3501.0,
+        "end": 3511.0,
+        "text": " Plus, do ambitious partnerships which require like executive level conversations and so on to really bring some of these new things to life."
+    },
+    {
+        "start": 3511.0,
+        "end": 3519.0,
+        "text": " It's not a known playbook in developer relations. It's just one that I don't think Apple uses that often because they have such incredible market power."
+    },
+    {
+        "start": 3519.0,
+        "end": 3523.0,
+        "text": " But I think it's a rounding error to zero in."
+    },
+    {
+        "start": 3523.0,
+        "end": 3525.0,
+        "text": " So you have to open the old wallet."
+    },
+    {
+        "start": 3525.0,
+        "end": 3529.0,
+        "text": " And then they got to get Final Cut Pro in 3D."
+    },
+    {
+        "start": 3529.0,
+        "end": 3532.0,
+        "text": " Thank you. Thank you. That just needs to exist."
+    },
+    {
+        "start": 3532.0,
+        "end": 3537.0,
+        "text": " I'm tired of marrying from my Mac and having one monitor. I need spatial Final Cut."
+    },
+    {
+        "start": 3537.0,
+        "end": 3542.0,
+        "text": " Yeah. I'm just saying, Tim, you could make it happen tomorrow if you wanted to."
+    },
+    {
+        "start": 3542.0,
+        "end": 3548.0,
+        "text": " No, I also think it's also part of it is Apple could have gone two different directions with like attracting people to this VR idea."
+    },
+    {
+        "start": 3548.0,
+        "end": 3556.0,
+        "text": " One of them was super, super high end amazing tech. The other, which is a little bit less Apple like, is super, super accessible available, cheaper."
+    },
+    {
+        "start": 3556.0,
+        "end": 3560.0,
+        "text": " And I think they typically go with this before they go with that."
+    },
+    {
+        "start": 3560.0,
+        "end": 3565.0,
+        "text": " So ideally, drum up excitement. People get to experience this, which that's what they're doing."
+    },
+    {
+        "start": 3565.0,
+        "end": 3568.0,
+        "text": " You can go to an Apple store today and experience the fun thing."
+    },
+    {
+        "start": 3568.0,
+        "end": 3576.0,
+        "text": " But someday when there is a Apple Vision Pro SE, whatever, that's going to be another exciting moment for,"
+    },
+    {
+        "start": 3576.0,
+        "end": 3580.0,
+        "text": " okay, the developers have gotten the thing to the form factor."
+    },
+    {
+        "start": 3580.0,
+        "end": 3582.0,
+        "text": " Now it'll start to be available for the masses."
+    },
+    {
+        "start": 3582.0,
+        "end": 3585.0,
+        "text": " But that's TBD. We'll have to see."
+    },
+    {
+        "start": 3585.0,
+        "end": 3597.0,
+        "text": " Yeah. Yeah. There was something really fun that I found very interesting in your blog post, kind of piggybacking off that about how Apple like over engineered this thing on purpose."
+    },
+    {
+        "start": 3597.0,
+        "end": 3600.0,
+        "text": " Can you like expand on that idea a little bit?"
+    },
+    {
+        "start": 3600.0,
+        "end": 3607.0,
+        "text": " Yeah. So I think we all know that Vision Pro has just been under development for years and years at Apple."
+    },
+    {
+        "start": 3607.0,
+        "end": 3610.0,
+        "text": " And I'm sure they've gone through like, you know, hundreds of prototypes and so on."
+    },
+    {
+        "start": 3610.0,
+        "end": 3618.0,
+        "text": " And a lot of these technologies that sort of became good enough to ship, became good enough to ship like a couple of years ago, right?"
+    },
+    {
+        "start": 3618.0,
+        "end": 3630.0,
+        "text": " And the way that Apple does their kind of pipeline for launched product is like you have to start, you know, de-resking it and making it like production ready, you know, sometimes years in advance."
+    },
+    {
+        "start": 3630.0,
+        "end": 3633.0,
+        "text": " So I think what happened is they just, it's like a train, right?"
+    },
+    {
+        "start": 3633.0,
+        "end": 3639.0,
+        "text": " So they just onboarded a bunch of these technologies, you know, a few years ago onto a train, continued to work on them."
+    },
+    {
+        "start": 3640.0,
+        "end": 3652.0,
+        "text": " And today there's ways to do, you know, less answers, lighter sensors and so on. But like that stuff isn't ready to go internally at Apple, at least at the level of quality and the integration that they need."
+    },
+    {
+        "start": 3652.0,
+        "end": 3656.0,
+        "text": " So they just got to ship the stuff that's been on the shelf for a while. So I think that's one component, right?"
+    },
+    {
+        "start": 3656.0,
+        "end": 3662.0,
+        "text": " It's just like it's technology that was built a couple of years ago that leads to like higher weight and so on and so forth."
+    },
+    {
+        "start": 3662.0,
+        "end": 3671.0,
+        "text": " The other thing is like this being the first time they were launching this product into the world, they have to make it almost like unbreakable, right?"
+    },
+    {
+        "start": 3671.0,
+        "end": 3680.0,
+        "text": " And then they have to make it extra everything so that no matter what developers throw at it, no matter what reviewers throw at it, no matter what users throw at it, it will sustain."
+    },
+    {
+        "start": 3680.0,
+        "end": 3690.0,
+        "text": " So I really think that that's part of what they're doing is like an overdoing a little bit, overplaying a little bit, just so that they are in a kind of a safe position before starting to take some risks."
+    },
+    {
+        "start": 3690.0,
+        "end": 3693.0,
+        "text": " You know, that could be a lot of crack gate type things that you can do that."
+    },
+    {
+        "start": 3693.0,
+        "end": 3699.0,
+        "text": " Yeah. Yeah. Well, there's always people will find gates no matter what they have a habit of doing that."
+    },
+    {
+        "start": 3699.0,
+        "end": 3711.0,
+        "text": " I have a maybe an existential question to finish this, which is, okay, we want to make this the most incredible piece of technology of all time, super immersive, best field of view, highest resolution."
+    },
+    {
+        "start": 3711.0,
+        "end": 3721.0,
+        "text": " Let's fast forward a little bit. Let's get, let's get 10 years down the line with the highest end best possible VR headset."
+    },
+    {
+        "start": 3721.0,
+        "end": 3729.0,
+        "text": " If people are able to successfully deliver retina resolution and as a bonus, let's throw in other senses too."
+    },
+    {
+        "start": 3729.0,
+        "end": 3739.0,
+        "text": " It's got incredible speakers and it can make you feel heat or cold and the wind in your hair. Let's say you can give people all of the senses through a VR headset."
+    },
+    {
+        "start": 3739.0,
+        "end": 3747.0,
+        "text": " Yeah. And you go out to this virtually reconstructed grand canyon in the headset and you look at it and you really think you're looking at the grand canyon."
+    },
+    {
+        "start": 3747.0,
+        "end": 3756.0,
+        "text": " Like all of your senses are fully tricked. You hear the birds chirping. You hear the feel the wind in your hair and you feel the heat on the top of your head through the headset."
+    },
+    {
+        "start": 3756.0,
+        "end": 3768.0,
+        "text": " And you know it's through the headset, but it is a perfect reconstruction. Do you still feel, and there's no right answer to this, but do you still feel like you have to go see the real thing or do you feel like you've seen it?"
+    },
+    {
+        "start": 3768.0,
+        "end": 3779.0,
+        "text": " Are you in the oasis at that point? Basically. I think the more all the story is watch ready player one because it's kind of how it feels sometimes, but I wonder what your thoughts are."
+    },
+    {
+        "start": 3779.0,
+        "end": 3793.0,
+        "text": " Yeah. You know, I, I think that it's like mostly great that people, you know, will be able to get to places that they otherwise maybe couldn't afford to go or can travel, you know, all that far take the vacation to go to and so on."
+    },
+    {
+        "start": 3793.0,
+        "end": 3803.0,
+        "text": " But I think there's just a little bit of like, okay, that's like a philosophical challenge for humanity. Like, you know, it is, it is kind of the oasis at the, at its fullest state."
+    },
+    {
+        "start": 3803.0,
+        "end": 3809.0,
+        "text": " But, you know, I think it's mostly great and you're still not going to be able to like hug in VR."
+    },
+    {
+        "start": 3809.0,
+        "end": 3815.0,
+        "text": " Yeah, I never know. I thought have to have the gloves are pretty good. They're just getting me terrible."
+    },
+    {
+        "start": 3815.0,
+        "end": 3835.0,
+        "text": " And yeah, I, I think at the end state of this is teleportation, you know, you and Cleo talked about that in that video that she put out a few weeks ago. I think that's the greatest contribution to humanity of this new computing paradigm is just being able to just be with other people in their house or in your house or in some other place."
+    },
+    {
+        "start": 3835.0,
+        "end": 3844.0,
+        "text": " It's going to take a while to get there. Yeah, that's pretty powerful. Yeah. Well, I have one more question for you. How fast can you type the alphabet?"
+    },
+    {
+        "start": 3844.0,
+        "end": 3852.0,
+        "text": " Oh, man, it's been such a long time since I think I measured that last. I may have to try it again."
+    },
+    {
+        "start": 3852.0,
+        "end": 3865.0,
+        "text": " Well, boy, do we have the test for you? This is a bit of a tradition around here where we have our guests type the alphabet a through Z as fast as you can. You can be as competitive or non competitive as you like, but we will offer you."
+    },
+    {
+        "start": 3865.0,
+        "end": 3878.0,
+        "text": " Yeah, we have three style keyboard three different keyboard types. You can either use the keyboard built in. There's a mechanical keyboard or there's like a Apple magic keyboard. Yeah, whatever your best."
+    },
+    {
+        "start": 3878.0,
+        "end": 3889.0,
+        "text": " I think I'm going to go Apple magic Apple magic. Yeah. Okay. Just do you do you spend a lot of time typing on like Apple keyboards like chick little style keyboards like that. I have that exact same magic keyboard."
+    },
+    {
+        "start": 3889.0,
+        "end": 3902.0,
+        "text": " That's perfect. Home feel. And I also have a DJ key. Thanks to Andrew convincing me that mechanical keyboards are better. He's gotten into all of our heads at some point and definitely got us the bug."
+    },
+    {
+        "start": 3902.0,
+        "end": 3909.0,
+        "text": " I just bought a mechanical keyboard because of Andrew. I went backwards. I used to be in a mechanical keyboards. And now I'm like, give me the magic keyboard."
+    },
+    {
+        "start": 3909.0,
+        "end": 3924.0,
+        "text": " It's already screen recording. Amazing. Okay. Well, it's pretty simple. All you got to do is hit the letter A and then hit the letter B and then hit the letter C. And then when you hit Z, don't hit enter. Just that's it. Yeah."
+    },
+    {
+        "start": 3924.0,
+        "end": 3935.0,
+        "text": " And if I made a mistake, if you make a mistake, it will not continue until you hit the appropriate letter. So you don't have to backspace. You just have to hit every letter in order. So you have to watch the screen while you're typing to make sure you. Okay. Do I get one practice?"
+    },
+    {
+        "start": 3935.0,
+        "end": 3947.0,
+        "text": " We will give you three total runs. Okay. Most people tend to improve as they go. You know, no pressure. Okay. I'm glad we're not recording. All right. Here we go."
+    },
+    {
+        "start": 3947.0,
+        "end": 3959.0,
+        "text": " You know, there's one challenge here, which is."
+    },
+    {
+        "start": 3959.0,
+        "end": 3970.0,
+        "text": " Forget about. I'm going to do it in five seconds, five point five seconds. I think that's pretty good. That's already pretty good. Five point five. Yeah. It's better than you think."
+    },
+    {
+        "start": 3970.0,
+        "end": 3980.0,
+        "text": " All right. It's pretty good. We have a little leaderboard."
+    },
+    {
+        "start": 3980.0,
+        "end": 3990.0,
+        "text": " Five point seven. Nice. Staying one on a mass one more. All right. I feel like you're pretty high on a leaderboard."
+    },
+    {
+        "start": 3990.0,
+        "end": 3996.0,
+        "text": " And you have the leaderboard available. It does. I have it both up."
+    },
+    {
+        "start": 3996.0,
+        "end": 4008.0,
+        "text": " 4.83. Whoa, whoa, whoa, whoa, four point eight three. Whoa, whoa, drop in tens of a second off at that time. Okay. So 4.83 puts you right after Marquez."
+    },
+    {
+        "start": 4008.0,
+        "end": 4020.0,
+        "text": " And ahead of Josh Wardle. So you are the inventor of word. Oh, my gosh. Top five. Top five. Wow. Well done. Well done. You go. And in not that many tries."
+    },
+    {
+        "start": 4020.0,
+        "end": 4034.0,
+        "text": " Top five on the leaderboard is very impressive. Yeah. This would be a news kill. I didn't know about. Yeah. You never know. And this is just this like first three tries. You might go try this later and get to you. Add it to your resume at point two. All right. That's good. I will take that. If you're curious about some other times."
+    },
+    {
+        "start": 4034.0,
+        "end": 4055.0,
+        "text": " The list is very extensive. Who's Tom Scott 3.5 seconds. Wow. Tom Scott was very prepared. Here's very competitive. Broke out his own keyboard. Here's the list. And the list goes. I don't think there's any double digits on there. But look at Cleo 4.3. Yeah. Damn. That's good. Yeah. And Quinn. Yeah."
+    },
+    {
+        "start": 4055.0,
+        "end": 4085.0,
+        "text": " So you know, people who type a lot, people spend a lot of time around keyboards. Yeah. You might be surprised if I asked you to type the alphabet. Huh. That's it. That's where we end it. So thank you for. Thank you for your time. And of course for all the insight. Well, we'd love to have you back. Obviously we talk about stuff like this all the time. Not just the current tech, but the history and the context of it. So this is super fun. And hopefully we get to do it again sometime. It's a dream come true to be here. Thank you guys. Great work. Appreciate it. So that's about it. That was that was really fun. Thanks again to Hugo for coming to the studio."
+    },
+    {
+        "start": 4085.0,
+        "end": 4115.0,
+        "text": " And for sharing the time, the expertise. So it's fun having conversations with people who are very knowledgeable about this stuff. And I feel like this is still very early. Like as much as we've talked about VR for the past 10 years. Like this is rapidly developing. We didn't even touch spatial. What are they called spatial personas in this conversation and like all the weird stuff that's been happening with hardware. Since that conversation, Brandon's vision pro has like cracked up. Yeah. All this stuff is going to be pretty constant."
+    },
+    {
+        "start": 4115.0,
+        "end": 4145.0,
+        "text": " But I feel like this is a fun spot for this episode and this conversation is a good time. So thanks again, leave any comments of anything that you learned maybe while listening to this episode. But maybe Hugo will be in the comments. Maybe he maybe he will. That would actually put it pretty sick. But I think this is a part where we sign out. Oh yeah. Waveformers produce actually I think David did this already. Let's start to do. Waveformers, please. Madame Leon and Ellis Revan. We are associated with the box media podcast network and our intro to music is by vain."
+    },
+    {
+        "start": 4145.0,
+        "end": 4165.38,
+        "text": " So close enough. Pretty well. Well, too well taken. We'll keep."
+    }
+]

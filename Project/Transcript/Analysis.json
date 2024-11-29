@@ -1,0 +1,1802 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.5,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 2.5,
+        "end": 11.5,
+        "text": " This is the BBC."
+    },
+    {
+        "start": 11.5,
+        "end": 20.14,
+        "text": " Hello and welcome to Podcasting House."
+    },
+    {
+        "start": 20.14,
+        "end": 22.900000000000002,
+        "text": " If this is your first time listening, let me explain what's going on."
+    },
+    {
+        "start": 22.900000000000002,
+        "end": 28.22,
+        "text": " The BBC makes tons of podcasts and it can be hard to know what's out there, what's new,"
+    },
+    {
+        "start": 28.22,
+        "end": 30.98,
+        "text": " it's good, what we try to do is simplify that."
+    },
+    {
+        "start": 30.98,
+        "end": 35.5,
+        "text": " Twice a week we find a BBC podcast we think you should know about and we play you an episode."
+    },
+    {
+        "start": 35.5,
+        "end": 40.46,
+        "text": " If you like it, you can search for it using whatever app or webpage you're using right"
+    },
+    {
+        "start": 40.46,
+        "end": 41.46,
+        "text": " now."
+    },
+    {
+        "start": 41.46,
+        "end": 46.9,
+        "text": " My name's Eli and as always I'm joined by Rian and I guess this is the study of Podcasting"
+    },
+    {
+        "start": 46.9,
+        "end": 50.06,
+        "text": " House because we've got a fairly intellectual podcast today."
+    },
+    {
+        "start": 50.06,
+        "end": 55.86,
+        "text": " Yeah, I'm bringing analysis to you which is a long running radio program on Radio 4 and"
+    },
+    {
+        "start": 55.86,
+        "end": 62.5,
+        "text": " this is the podcast episode and the one I've got is about unconscious bias and it's presented"
+    },
+    {
+        "start": 62.5,
+        "end": 64.46,
+        "text": " by Mary Ann C. Cart."
+    },
+    {
+        "start": 64.46,
+        "end": 70.78,
+        "text": " So every of analysis takes a different theme, a kind of current theme and she is looking"
+    },
+    {
+        "start": 70.78,
+        "end": 77.7,
+        "text": " at unconscious bias but it's about how women can be biased against women and she looks"
+    },
+    {
+        "start": 77.7,
+        "end": 79.14,
+        "text": " at the various reasons."
+    },
+    {
+        "start": 79.14,
+        "end": 82.18,
+        "text": " It's all about your reptilian reign, can I?"
+    },
+    {
+        "start": 82.18,
+        "end": 87.74000000000001,
+        "text": " She talks about, she talks to neuroscientists and various people who've done experiments"
+    },
+    {
+        "start": 87.74000000000001,
+        "end": 93.10000000000001,
+        "text": " around unconscious bias and helps you to understand which questions to ask yourself to try and"
+    },
+    {
+        "start": 93.10000000000001,
+        "end": 99.82000000000001,
+        "text": " check against it and it's really quite scary when you realise how much of your behaviour"
+    },
+    {
+        "start": 99.82000000000001,
+        "end": 104.42000000000002,
+        "text": " is driven by these stone age motivations."
+    },
+    {
+        "start": 104.42000000000002,
+        "end": 106.74000000000001,
+        "text": " Right, all right so let's give it a listen."
+    },
+    {
+        "start": 106.74000000000001,
+        "end": 107.74000000000001,
+        "text": " Analysis"
+    },
+    {
+        "start": 107.74000000000001,
+        "end": 110.86000000000001,
+        "text": " Hello and welcome to a shiny new series of analysis."
+    },
+    {
+        "start": 110.86,
+        "end": 114.54,
+        "text": " The series which tries to understand the ideas behind the news."
+    },
+    {
+        "start": 114.54,
+        "end": 118.58,
+        "text": " If you haven't yet subscribed to our podcast feed, well what are you waiting for?"
+    },
+    {
+        "start": 118.58,
+        "end": 122.82,
+        "text": " I'm the editor Hugh Levinson and little while ago I was talking to the journalist Mary"
+    },
+    {
+        "start": 122.82,
+        "end": 124.18,
+        "text": " Ann C. Cart."
+    },
+    {
+        "start": 124.18,
+        "end": 127.86,
+        "text": " She was starting work on a book about bias against women."
+    },
+    {
+        "start": 127.86,
+        "end": 131.94,
+        "text": " I asked her what she thought was the most surprising aspect of her research and this"
+    },
+    {
+        "start": 131.94,
+        "end": 134.42,
+        "text": " programme is based on her reply."
+    },
+    {
+        "start": 134.42,
+        "end": 140.66,
+        "text": " I hope you enjoy it."
+    },
+    {
+        "start": 140.66,
+        "end": 146.02,
+        "text": " I've been a feminist all my life because I get infuriated by how often men are biased"
+    },
+    {
+        "start": 146.02,
+        "end": 152.34,
+        "text": " against women, yet even I probably have an unconscious bias against other women too."
+    },
+    {
+        "start": 152.34,
+        "end": 154.54,
+        "text": " Are you surprised by that?"
+    },
+    {
+        "start": 154.54,
+        "end": 159.74,
+        "text": " Well I certainly am and that's what this programme is going to be all about, women's"
+    },
+    {
+        "start": 159.74,
+        "end": 161.42,
+        "text": " own bias."
+    },
+    {
+        "start": 161.42,
+        "end": 163.1,
+        "text": " How does it show itself?"
+    },
+    {
+        "start": 163.1,
+        "end": 164.1,
+        "text": " Where does it come from?"
+    },
+    {
+        "start": 164.1,
+        "end": 166.85999999999999,
+        "text": " And what can we do about it?"
+    },
+    {
+        "start": 166.85999999999999,
+        "end": 171.66,
+        "text": " It's not just me."
+    },
+    {
+        "start": 171.66,
+        "end": 176.82,
+        "text": " Hollywood actor Ann Hathaway recently admitted to implicit sexist bias when she was working"
+    },
+    {
+        "start": 176.82,
+        "end": 180.82,
+        "text": " on the film One Day, directed by Lona Scherfig."
+    },
+    {
+        "start": 180.82,
+        "end": 188.77999999999997,
+        "text": " I really regret not trusting her more easily and I am to this day scared that the reason"
+    },
+    {
+        "start": 188.78,
+        "end": 192.06,
+        "text": " I didn't trust her the way I trust some of the other directors I've worked with is"
+    },
+    {
+        "start": 192.06,
+        "end": 193.66,
+        "text": " because she's a woman."
+    },
+    {
+        "start": 193.66,
+        "end": 197.5,
+        "text": " She was speaking on ABC's Popcorn with Peter Travis show."
+    },
+    {
+        "start": 197.5,
+        "end": 202.34,
+        "text": " I'm so scared that I treated her with internalised misogyny."
+    },
+    {
+        "start": 202.34,
+        "end": 207.18,
+        "text": " When I see a film, a first film directed by a woman, I have in the past focused on what"
+    },
+    {
+        "start": 207.18,
+        "end": 211.42000000000002,
+        "text": " was wrong with it and when I see a film directed first film directed by a man, I focus"
+    },
+    {
+        "start": 211.42000000000002,
+        "end": 212.86,
+        "text": " on what's right with it."
+    },
+    {
+        "start": 212.86,
+        "end": 217.42000000000002,
+        "text": " I wonder whether some literary agents who are disproportionately female might be doing"
+    },
+    {
+        "start": 217.42,
+        "end": 219.29999999999998,
+        "text": " the same thing."
+    },
+    {
+        "start": 219.29999999999998,
+        "end": 224.01999999999998,
+        "text": " Focusing on what's wrong with a woman's work, rather than what's right with it."
+    },
+    {
+        "start": 224.01999999999998,
+        "end": 228.42,
+        "text": " That could explain what happened to Catherine Nichols, a writer based in Boston."
+    },
+    {
+        "start": 228.42,
+        "end": 234.77999999999997,
+        "text": " I was looking for a literary agent and the way that's done is you put together a letter"
+    },
+    {
+        "start": 234.77999999999997,
+        "end": 241.82,
+        "text": " that describes your book and the first few pages and friends who were themselves accomplished"
+    },
+    {
+        "start": 241.82,
+        "end": 242.82,
+        "text": " writers."
+    },
+    {
+        "start": 242.82,
+        "end": 245.94,
+        "text": " We're saying this is good to go, this is good work."
+    },
+    {
+        "start": 245.94,
+        "end": 250.62,
+        "text": " And I only got two responses from agents asking to see the entire manuscript."
+    },
+    {
+        "start": 250.62,
+        "end": 252.82,
+        "text": " And how many initial letters did you send?"
+    },
+    {
+        "start": 252.82,
+        "end": 253.82,
+        "text": " 50."
+    },
+    {
+        "start": 253.82,
+        "end": 255.34,
+        "text": " So two out of 50."
+    },
+    {
+        "start": 255.34,
+        "end": 256.82,
+        "text": " Wanted to see the manuscript."
+    },
+    {
+        "start": 256.82,
+        "end": 259.1,
+        "text": " It was really depressing, yeah."
+    },
+    {
+        "start": 259.1,
+        "end": 261.94,
+        "text": " And that's, it was very disparaging."
+    },
+    {
+        "start": 261.94,
+        "end": 263.78,
+        "text": " And that wasn't even wanting to represent me."
+    },
+    {
+        "start": 263.78,
+        "end": 266.22,
+        "text": " That was even wanting to see the manuscript at all."
+    },
+    {
+        "start": 266.22,
+        "end": 268.65999999999997,
+        "text": " And I just felt like I had run into a wall."
+    },
+    {
+        "start": 268.65999999999997,
+        "end": 275.1,
+        "text": " Like I had nothing to lose by just trying this kind of, this kind of nutty plan to just"
+    },
+    {
+        "start": 275.1,
+        "end": 277.26000000000005,
+        "text": " try it under a different name."
+    },
+    {
+        "start": 277.26000000000005,
+        "end": 283.06,
+        "text": " So she chose a male name and submitted exactly the same novel again as a man."
+    },
+    {
+        "start": 283.06,
+        "end": 286.42,
+        "text": " And remember, most of the agents she sent it to were women."
+    },
+    {
+        "start": 286.42,
+        "end": 292.38,
+        "text": " I used the same letter, the same description of the novel, the same opening pages."
+    },
+    {
+        "start": 292.38,
+        "end": 298.3,
+        "text": " And even within hours of sending out those letters through email, I was getting manuscript"
+    },
+    {
+        "start": 298.3,
+        "end": 299.3,
+        "text": " requests."
+    },
+    {
+        "start": 299.3,
+        "end": 304.54,
+        "text": " It was shocking how fast it became obvious that there was a big difference."
+    },
+    {
+        "start": 304.54,
+        "end": 309.02000000000004,
+        "text": " So did you send 50 of these letters out under the male name?"
+    },
+    {
+        "start": 309.02000000000004,
+        "end": 310.58000000000004,
+        "text": " I did, yeah."
+    },
+    {
+        "start": 310.58000000000004,
+        "end": 314.58000000000004,
+        "text": " And how many people said they wanted to see the manuscript when you had a male name?"
+    },
+    {
+        "start": 314.58000000000004,
+        "end": 315.58000000000004,
+        "text": " 17."
+    },
+    {
+        "start": 315.58000000000004,
+        "end": 322.02000000000004,
+        "text": " So 17 compared to two, which suggests that you were eight and a half times better writer"
+    },
+    {
+        "start": 322.02000000000004,
+        "end": 324.06,
+        "text": " under a male name than a female name."
+    },
+    {
+        "start": 324.06,
+        "end": 326.26,
+        "text": " Yeah, I was shocked."
+    },
+    {
+        "start": 326.26,
+        "end": 329.14000000000004,
+        "text": " I'm not surprised."
+    },
+    {
+        "start": 329.14000000000004,
+        "end": 331.62,
+        "text": " What about sort of critical reactions?"
+    },
+    {
+        "start": 331.62,
+        "end": 337.74,
+        "text": " That was where I went from feeling flattered to feeling angry."
+    },
+    {
+        "start": 337.74,
+        "end": 344.38,
+        "text": " As a man, I felt like the critical responses, they'd get into the structure of the book"
+    },
+    {
+        "start": 344.38,
+        "end": 351.3,
+        "text": " or the thought processes of the characters, the mechanics of how the plot is controlled"
+    },
+    {
+        "start": 351.3,
+        "end": 352.3,
+        "text": " or explodes."
+    },
+    {
+        "start": 352.3,
+        "end": 357.14,
+        "text": " And all of that felt like it was making me a better writer."
+    },
+    {
+        "start": 357.14,
+        "end": 363.26,
+        "text": " So what this suggests is that young male aspiring writers get far more help, don't they?"
+    },
+    {
+        "start": 363.26,
+        "end": 366.74,
+        "text": " Not only do they get more interest in the first place, but they also get more coaching"
+    },
+    {
+        "start": 366.74,
+        "end": 368.58,
+        "text": " and more encouragement."
+    },
+    {
+        "start": 368.58,
+        "end": 371.65999999999997,
+        "text": " Absolutely, yeah, yeah."
+    },
+    {
+        "start": 371.65999999999997,
+        "end": 375.14,
+        "text": " Did it give you an insight into what it must feel like to be a man?"
+    },
+    {
+        "start": 375.14,
+        "end": 380.62,
+        "text": " My strong sense is it must feel amazing to be a man."
+    },
+    {
+        "start": 380.62,
+        "end": 397.7,
+        "text": " You might be thinking this is just one woman's story, it's anecdotal."
+    },
+    {
+        "start": 397.7,
+        "end": 401.7,
+        "text": " But there's scientific evidence of women's gender bias too."
+    },
+    {
+        "start": 401.7,
+        "end": 407.34000000000003,
+        "text": " In one experiment, researchers sent out identical application forms for a lab manager position"
+    },
+    {
+        "start": 407.34000000000003,
+        "end": 410.54,
+        "text": " to male and female science professors."
+    },
+    {
+        "start": 410.54,
+        "end": 416.14000000000004,
+        "text": " The studies were exactly the same, but half had a male name and the other half a female."
+    },
+    {
+        "start": 416.14000000000004,
+        "end": 420.98,
+        "text": " The study was co-authored by Professor John DeVideo of Yale University."
+    },
+    {
+        "start": 420.98,
+        "end": 426.14000000000004,
+        "text": " We looked at their interest in terms of hiring the person, their perceptions of competence"
+    },
+    {
+        "start": 426.14000000000004,
+        "end": 430.78000000000003,
+        "text": " of the person, and things like how much money they would pay the person if they hired"
+    },
+    {
+        "start": 430.78000000000003,
+        "end": 432.98,
+        "text": " them for the job as a lab manager."
+    },
+    {
+        "start": 432.98,
+        "end": 434.62,
+        "text": " And what was the result?"
+    },
+    {
+        "start": 434.62,
+        "end": 441.46,
+        "text": " The result was that gender bias still exists and professors and the sciences were more likely"
+    },
+    {
+        "start": 441.46,
+        "end": 445.54,
+        "text": " to see the male as more horrible than the female."
+    },
+    {
+        "start": 445.54,
+        "end": 450.62,
+        "text": " They were more likely to see the male as more competent than the female and they were"
+    },
+    {
+        "start": 450.62,
+        "end": 458.06,
+        "text": " also more likely to pay the male lab manager more money even though their CVs were identical."
+    },
+    {
+        "start": 458.06,
+        "end": 462.66,
+        "text": " Did you not ask also whether this professor would be interested in mentoring the candidate?"
+    },
+    {
+        "start": 463.14000000000004,
+        "end": 467.62,
+        "text": " Yes, we also looked at mentoring and mentoring as well, different."
+    },
+    {
+        "start": 467.62,
+        "end": 470.74,
+        "text": " And were these differences statistically significant?"
+    },
+    {
+        "start": 470.74,
+        "end": 477.62,
+        "text": " They were all statistically significant and the gender of the professor who received the CVs"
+    },
+    {
+        "start": 477.62,
+        "end": 478.82000000000005,
+        "text": " didn't make a difference."
+    },
+    {
+        "start": 478.82000000000005,
+        "end": 484.42,
+        "text": " The bias was of the same magnitude, whether the professor was a woman or a man."
+    },
+    {
+        "start": 484.42,
+        "end": 489.06,
+        "text": " So you've got not just men being biased against women and not promoting them in science,"
+    },
+    {
+        "start": 489.06,
+        "end": 490.70000000000005,
+        "text": " but also other women?"
+    },
+    {
+        "start": 490.78,
+        "end": 495.82,
+        "text": " And that tends to perpetuate it even more because we've done some other research with respect"
+    },
+    {
+        "start": 495.82,
+        "end": 502.3,
+        "text": " to race, but if you have people making a joint decision and a member of the minority group"
+    },
+    {
+        "start": 502.3,
+        "end": 508.3,
+        "text": " goes along with members of the majority group who have these subtle biases, it legitimizes"
+    },
+    {
+        "start": 508.3,
+        "end": 512.22,
+        "text": " the response where you're going to continue to hire the man more than the woman."
+    },
+    {
+        "start": 512.22,
+        "end": 518.38,
+        "text": " So in fact, when women exhibit the subtle bias, it actually frees up men to express the"
+    },
+    {
+        "start": 518.38,
+        "end": 525.42,
+        "text": " subtle bias more, women tend to conform to that expectation and you tend to agratimate"
+    },
+    {
+        "start": 525.42,
+        "end": 526.7,
+        "text": " or perpetuate the bias."
+    },
+    {
+        "start": 527.42,
+        "end": 530.46,
+        "text": " Scientific experiments can only test a small number of people,"
+    },
+    {
+        "start": 531.1,
+        "end": 535.74,
+        "text": " but you find indicators of women's own bias in bigger groups too in the real world."
+    },
+    {
+        "start": 535.74,
+        "end": 536.54,
+        "text": " Look at Twitter."
+    },
+    {
+        "start": 537.02,
+        "end": 540.22,
+        "text": " My name's Adam Parker, I'm the founder of Listed."
+    },
+    {
+        "start": 540.22,
+        "end": 543.98,
+        "text": " A Listed is a software application that looks at who's influential on social media."
+    },
+    {
+        "start": 544.54,
+        "end": 549.34,
+        "text": " Adam did a survey of who were the most influential British political journalists on Twitter"
+    },
+    {
+        "start": 549.34,
+        "end": 551.5,
+        "text": " during the recent general election campaign."
+    },
+    {
+        "start": 552.22,
+        "end": 557.02,
+        "text": " How many times were their tweets light or retweeted, in other words, spread around the Twitter"
+    },
+    {
+        "start": 557.02,
+        "end": 561.5,
+        "text": " network specifically by influencers who were people with lots of Twitter followers?"
+    },
+    {
+        "start": 562.3000000000001,
+        "end": 566.94,
+        "text": " To his surprise, he found that not a single woman made it into the top 10."
+    },
+    {
+        "start": 567.58,
+        "end": 570.7,
+        "text": " Not even the most powerful political journalist in the country,"
+    },
+    {
+        "start": 570.7,
+        "end": 573.4200000000001,
+        "text": " the BBC's political editor, Laura Coonsberg."
+    },
+    {
+        "start": 573.98,
+        "end": 578.46,
+        "text": " So you looked at these influencers and you asked, are they following and retweeting"
+    },
+    {
+        "start": 579.26,
+        "end": 582.3000000000001,
+        "text": " male political journalists more than female political journalists?"
+    },
+    {
+        "start": 582.3000000000001,
+        "end": 583.1,
+        "text": " Absolutely."
+    },
+    {
+        "start": 583.1,
+        "end": 589.02,
+        "text": " So what we found was the male group as a whole was retweeted and light nearly five times,"
+    },
+    {
+        "start": 589.02,
+        "end": 592.7,
+        "text": " 4.9 times more than the female group by Twitter users generally,"
+    },
+    {
+        "start": 593.26,
+        "end": 597.1800000000001,
+        "text": " and 4.3 times more by the influencers specifically."
+    },
+    {
+        "start": 597.4200000000001,
+        "end": 601.1800000000001,
+        "text": " And once you corrected for the fact that there are more men, that they're a bit more"
+    },
+    {
+        "start": 601.18,
+        "end": 605.26,
+        "text": " opinionated, that they tweet a bit more often, what did you find in the end?"
+    },
+    {
+        "start": 605.26,
+        "end": 609.8199999999999,
+        "text": " Yes, you find about half and half, but half of the disparity is explained by the factors you've"
+    },
+    {
+        "start": 609.8199999999999,
+        "end": 614.78,
+        "text": " just mentioned. The other half was accounted for by that following and retweeting behaviour."
+    },
+    {
+        "start": 615.42,
+        "end": 621.0999999999999,
+        "text": " In both cases, we also found that that apparent bias that was being displayed was actually"
+    },
+    {
+        "start": 621.0999999999999,
+        "end": 624.9399999999999,
+        "text": " displayed by the majority of both male and female influencers."
+    },
+    {
+        "start": 624.9399999999999,
+        "end": 629.0999999999999,
+        "text": " Though it was more pronounced in the male group, it still existed in the female group."
+    },
+    {
+        "start": 629.1800000000001,
+        "end": 632.94,
+        "text": " So women are following female political journalists,"
+    },
+    {
+        "start": 632.94,
+        "end": 636.5400000000001,
+        "text": " less than male political journalists and then retweeting them less."
+    },
+    {
+        "start": 636.5400000000001,
+        "end": 641.5,
+        "text": " Yes, as a whole, obviously it does vary, but as a group, yes."
+    },
+    {
+        "start": 641.5,
+        "end": 646.86,
+        "text": " I did actually ask you to measure my behaviour and I promised to publish it however bad it was"
+    },
+    {
+        "start": 646.86,
+        "end": 649.82,
+        "text": " and luckily it turned out that I was exactly 50-50."
+    },
+    {
+        "start": 649.82,
+        "end": 653.34,
+        "text": " Yeah, having adjusted for demographics and that yours was bang on 50-50."
+    },
+    {
+        "start": 653.9,
+        "end": 654.7,
+        "text": " Well, that's a relief."
+    },
+    {
+        "start": 655.58,
+        "end": 660.7,
+        "text": " It's easy to detect your Twitter bias, just have a look at who you follow and retweet,"
+    },
+    {
+        "start": 660.7,
+        "end": 666.38,
+        "text": " but it's much harder to spot your wider bias because it's largely unconscious, otherwise known as"
+    },
+    {
+        "start": 666.38,
+        "end": 672.22,
+        "text": " implicit. Unless we know the bias is there in the first place, it's hard to correct for it in our"
+    },
+    {
+        "start": 672.22,
+        "end": 678.62,
+        "text": " conscious actions, particularly as our unconscious brain has hugely more processing power than our"
+    },
+    {
+        "start": 678.62,
+        "end": 679.5,
+        "text": " conscious brain."
+    },
+    {
+        "start": 679.9,
+        "end": 688.06,
+        "text": " So it's essentially in charge of most of our day-to-day functioning, including very complex social"
+    },
+    {
+        "start": 688.06,
+        "end": 689.02,
+        "text": " processes."
+    },
+    {
+        "start": 689.02,
+        "end": 695.02,
+        "text": " Teenu Cornish is a charted occupational psychologist at the equality challenge unit."
+    },
+    {
+        "start": 695.02,
+        "end": 702.86,
+        "text": " There's a process called categorisation where when we see someone approaching, we have to work out"
+    },
+    {
+        "start": 702.86,
+        "end": 707.66,
+        "text": " what we can expect from them, whether they're going to be a friend or a foe, how we're going to"
+    },
+    {
+        "start": 707.66,
+        "end": 708.86,
+        "text": " respond to them."
+    },
+    {
+        "start": 708.86,
+        "end": 714.4599999999999,
+        "text": " And so our unconscious brain instantly categorises people into, are they like me,"
+    },
+    {
+        "start": 714.4599999999999,
+        "end": 720.06,
+        "text": " are they in a high status group, or are they not like me, or are they in a low status group,"
+    },
+    {
+        "start": 720.06,
+        "end": 725.42,
+        "text": " and then they associate positive characteristics towards people who are like us, or who are"
+    },
+    {
+        "start": 725.42,
+        "end": 732.54,
+        "text": " high status, negative characteristics towards people who are not like us, then comes an association"
+    },
+    {
+        "start": 733.5,
+        "end": 739.26,
+        "text": " of emotions warmth towards people who are like us, part of our in-group, and cold towards people"
+    },
+    {
+        "start": 739.26,
+        "end": 746.78,
+        "text": " who are not like us or are in our out-group. And it's this process of categorisation that drives our"
+    },
+    {
+        "start": 746.78,
+        "end": 747.18,
+        "text": " behaviour."
+    },
+    {
+        "start": 747.98,
+        "end": 751.18,
+        "text": " Now I've always been a staunch feminist and I've had a career."
+    },
+    {
+        "start": 751.9,
+        "end": 757.66,
+        "text": " Yet when I took an implicit bias test, it suggested that I was biased against working women."
+    },
+    {
+        "start": 757.66,
+        "end": 758.62,
+        "text": " Well how can that be?"
+    },
+    {
+        "start": 758.62,
+        "end": 760.06,
+        "text": " They're my in-group after all."
+    },
+    {
+        "start": 760.6199999999999,
+        "end": 767.66,
+        "text": " The confusion arises because our in-group is not just people who look like us, but also is the"
+    },
+    {
+        "start": 767.66,
+        "end": 777.0999999999999,
+        "text": " people who we see have high status. And despite our beliefs, if every time you come to work,"
+    },
+    {
+        "start": 777.0999999999999,
+        "end": 784.9399999999999,
+        "text": " every time you switch on the tele or you listen to the radio, men are associated with high status"
+    },
+    {
+        "start": 785.0200000000001,
+        "end": 790.62,
+        "text": " leadership and competency. That is what our unconscious brain is going to learn."
+    },
+    {
+        "start": 791.5,
+        "end": 797.4200000000001,
+        "text": " It can be helpful to think of our unconscious brains as our mammalian or our rectilian brain."
+    },
+    {
+        "start": 797.4200000000001,
+        "end": 802.86,
+        "text": " They're not reasoning things out in words. They're learning what things are associated together."
+    },
+    {
+        "start": 802.86,
+        "end": 808.5400000000001,
+        "text": " And when two events are associated together, our brain actually lays down neurons to connect them."
+    },
+    {
+        "start": 809.42,
+        "end": 815.8199999999999,
+        "text": " And if our social territory is think leader, think male, then that's what's going to get"
+    },
+    {
+        "start": 815.8199999999999,
+        "end": 821.9,
+        "text": " reinforced in our unconscious mind despite our dearly held beliefs to the country."
+    },
+    {
+        "start": 822.54,
+        "end": 825.5799999999999,
+        "text": " And that's how implicit bias is formed too."
+    },
+    {
+        "start": 825.9,
+        "end": 830.4599999999999,
+        "text": " Says Professor Maserine Banagy, Chair of the Department of Psychology at Harvard."
+    },
+    {
+        "start": 831.02,
+        "end": 837.8199999999999,
+        "text": " Implicit bias comes from our social world, from our culture, because the content of what the brain"
+    },
+    {
+        "start": 837.82,
+        "end": 845.34,
+        "text": " knows is what it sees in the world. So I see that men do certain kinds of work and women do"
+    },
+    {
+        "start": 845.34,
+        "end": 851.34,
+        "text": " other kinds of work. If I had seen in my world that women were largely construction workers and"
+    },
+    {
+        "start": 851.34,
+        "end": 857.2600000000001,
+        "text": " engineers, that's what my brain would have learned. And if I had seen in my world that men largely"
+    },
+    {
+        "start": 857.2600000000001,
+        "end": 862.0600000000001,
+        "text": " took care of children at home and cooked and cleaned for them, then that's what my brain would have"
+    },
+    {
+        "start": 862.06,
+        "end": 869.9,
+        "text": " learned. So the content is absolutely socially given, but the process by which thinking happens"
+    },
+    {
+        "start": 869.9,
+        "end": 874.6199999999999,
+        "text": " that leads to implicit bias is something that is a part of our evolutionary history."
+    },
+    {
+        "start": 875.26,
+        "end": 880.8599999999999,
+        "text": " And it's because it goes back so far in our evolution that this process has now slipped from our"
+    },
+    {
+        "start": 880.8599999999999,
+        "end": 888.3,
+        "text": " awareness, says Tina Cornish. The challenge is that because it's been largely driven by the unconscious,"
+    },
+    {
+        "start": 888.3,
+        "end": 895.9,
+        "text": " then we may not literally realise what is actually guiding how we respond and how we behave"
+    },
+    {
+        "start": 895.9,
+        "end": 902.54,
+        "text": " in social situations. So we could actually think that we are incredibly unbiased and liberal"
+    },
+    {
+        "start": 902.54,
+        "end": 908.3,
+        "text": " in our conscious minds, but end up being biased in our unconscious minds. Exactly. And I think this"
+    },
+    {
+        "start": 908.3,
+        "end": 914.78,
+        "text": " is a real challenge for many people because we all think that discrimination or bias is something"
+    },
+    {
+        "start": 914.78,
+        "end": 921.5,
+        "text": " that bad people with nasty values do. And I became interested in unconscious bias. When I was"
+    },
+    {
+        "start": 921.5,
+        "end": 928.4599999999999,
+        "text": " carrying out an evaluation of training with a social services team, they were the nicest,"
+    },
+    {
+        "start": 928.4599999999999,
+        "end": 934.6999999999999,
+        "text": " most caring, most politically correct bunch of people I had ever met. And yet bias was happening"
+    },
+    {
+        "start": 934.6999999999999,
+        "end": 940.62,
+        "text": " within their organisation. They were in good company. It was the single most important and"
+    },
+    {
+        "start": 940.62,
+        "end": 945.26,
+        "text": " transformative day of my life when I came face to face with my own bias."
+    },
+    {
+        "start": 945.82,
+        "end": 953.02,
+        "text": " Maserim Banaji of Harvard again. Actually coming face to face with the fact that my mind and my"
+    },
+    {
+        "start": 953.02,
+        "end": 961.26,
+        "text": " hands were unable to associate female with leadership as well as male with leadership."
+    },
+    {
+        "start": 961.9,
+        "end": 969.26,
+        "text": " When I come face to face with the fact that I cannot associate dark skin people with good"
+    },
+    {
+        "start": 969.26,
+        "end": 975.74,
+        "text": " as quickly as I can associate light skinned people's faces with good things, that's very different"
+    },
+    {
+        "start": 975.74,
+        "end": 983.26,
+        "text": " from just awareness. That's like somebody putting a little dagger into me and turning it a little"
+    },
+    {
+        "start": 983.26,
+        "end": 988.9399999999999,
+        "text": " bit and asking me to sit up and take notice. She's talking about the implicit association test"
+    },
+    {
+        "start": 988.9399999999999,
+        "end": 994.06,
+        "text": " that she with some colleagues developed. It's the one that suggested I was biased too."
+    },
+    {
+        "start": 994.9399999999999,
+        "end": 999.3399999999999,
+        "text": " You can hear a whole programme about the test on the analysis website or podcast."
+    },
+    {
+        "start": 1000.38,
+        "end": 1005.42,
+        "text": " Now there are other versions of the test to identify racial bias, but this one asks you to"
+    },
+    {
+        "start": 1005.42,
+        "end": 1012.06,
+        "text": " associate male and female words with words connected with work and home. Most people find it"
+    },
+    {
+        "start": 1012.06,
+        "end": 1018.8599999999999,
+        "text": " easier to associate men with careers and women with family. We call it the gender career test"
+    },
+    {
+        "start": 1018.94,
+        "end": 1025.74,
+        "text": " and we look at the difference in time it takes to do this and the number of mistakes you make as"
+    },
+    {
+        "start": 1025.74,
+        "end": 1032.6200000000001,
+        "text": " you're doing this on a computer of course. And that number, that difference is a meaningful one"
+    },
+    {
+        "start": 1032.6200000000001,
+        "end": 1039.58,
+        "text": " because it says that the thumbprint of the culture has been left on my brain, that I carry around"
+    },
+    {
+        "start": 1039.58,
+        "end": 1046.54,
+        "text": " in my head, what I see in my world, above and beyond my own personal experience."
+    },
+    {
+        "start": 1046.54,
+        "end": 1049.42,
+        "text": " What do the figures actually show when you're comparing men and women?"
+    },
+    {
+        "start": 1049.42,
+        "end": 1056.22,
+        "text": " Right, so the figures show that something like 75% of men and 80% of women show this bias."
+    },
+    {
+        "start": 1057.02,
+        "end": 1062.1399999999999,
+        "text": " Wow, so women actually more than men. A little bit more I would say statistically"
+    },
+    {
+        "start": 1062.1399999999999,
+        "end": 1067.82,
+        "text": " roughly the same, but if anything, a tad bit more. And I think that what might slow them down"
+    },
+    {
+        "start": 1067.82,
+        "end": 1075.34,
+        "text": " is the difficulty of associating male and home. So these associations and biases,"
+    },
+    {
+        "start": 1075.34,
+        "end": 1081.5,
+        "text": " a thought to have been pretty much mapped onto our brains from childhood. Here's Dr. Lily Jampol"
+    },
+    {
+        "start": 1081.5,
+        "end": 1089.1,
+        "text": " of Humu, a company that aims to make us happier at work. We have neurons and neurons have connections,"
+    },
+    {
+        "start": 1089.1,
+        "end": 1095.74,
+        "text": " they have dendrites and the connections are formed with other neurons when we have an experience"
+    },
+    {
+        "start": 1095.74,
+        "end": 1102.06,
+        "text": " doing something and we're learning what that experience means. Stereotypes work in a very"
+    },
+    {
+        "start": 1102.06,
+        "end": 1106.7,
+        "text": " similar way. However, stereotypes are not necessarily based in our own experience,"
+    },
+    {
+        "start": 1106.7,
+        "end": 1111.26,
+        "text": " they can be based in either the experience of others and the way that that's communicated to us,"
+    },
+    {
+        "start": 1111.26,
+        "end": 1113.82,
+        "text": " or just through media and through culture."
+    },
+    {
+        "start": 1122.1399999999999,
+        "end": 1127.4199999999998,
+        "text": " Neural connections also help the unconscious brain to make quick associations without having to"
+    },
+    {
+        "start": 1127.42,
+        "end": 1133.1000000000001,
+        "text": " engage the conscious brain. These are called heuristics. These are cognitive shortcuts that our"
+    },
+    {
+        "start": 1133.1000000000001,
+        "end": 1138.8600000000001,
+        "text": " brain takes essentially to help us navigate the world without having to attend to everything in"
+    },
+    {
+        "start": 1138.8600000000001,
+        "end": 1145.66,
+        "text": " the world at once. So we use heuristics to categorize things. So we're social animals,"
+    },
+    {
+        "start": 1145.66,
+        "end": 1150.54,
+        "text": " we tend to categorize things based on fear, based on things that are going to kill us."
+    },
+    {
+        "start": 1150.54,
+        "end": 1155.02,
+        "text": " It's all about survival. Our brain is constantly trying to protect us from things that could"
+    },
+    {
+        "start": 1155.02,
+        "end": 1161.18,
+        "text": " threaten us. And so to do that, basically, we create these very quick ways of assessing our"
+    },
+    {
+        "start": 1161.18,
+        "end": 1166.22,
+        "text": " environment, deciding whether or not they are threatening. We did this way, way, way back,"
+    },
+    {
+        "start": 1166.22,
+        "end": 1170.62,
+        "text": " and we're able to very quickly assess by things like facial characteristics, whether or not"
+    },
+    {
+        "start": 1170.62,
+        "end": 1175.82,
+        "text": " someone is a threat. Now, our brain takes these shortcuts, but they aren't necessarily accurate or"
+    },
+    {
+        "start": 1175.82,
+        "end": 1182.54,
+        "text": " based again in actual experiences or real threat. One type is called the representative heuristic."
+    },
+    {
+        "start": 1182.54,
+        "end": 1189.8999999999999,
+        "text": " So here's an experiment. I'd like you to imagine a hijacker who's burst into a plane's cabin"
+    },
+    {
+        "start": 1189.8999999999999,
+        "end": 1194.54,
+        "text": " and is holding a gun to the head of the pilot. So just picture the scene."
+    },
+    {
+        "start": 1196.06,
+        "end": 1203.18,
+        "text": " Now here's the question. In your picture is the pilot male. If so, your brain used the"
+    },
+    {
+        "start": 1203.18,
+        "end": 1208.3799999999999,
+        "text": " representative heuristic of automatically linking the concept of pilot with that of man."
+    },
+    {
+        "start": 1209.1000000000001,
+        "end": 1213.9,
+        "text": " And I'm guessing he was probably white too. Now there's a well-known riddle about this sort of"
+    },
+    {
+        "start": 1213.9,
+        "end": 1220.22,
+        "text": " heuristic. I'll let Mazareen Benaji tell it. Father and a son are in a car accident. The father dies."
+    },
+    {
+        "start": 1220.22,
+        "end": 1225.3400000000001,
+        "text": " The son is taken to a hospital. The attending surgeon says, I can't operate on this boy. He's my"
+    },
+    {
+        "start": 1225.3400000000001,
+        "end": 1233.2600000000002,
+        "text": " son. You ask people how is this possible? And people like me go through enormously creative"
+    },
+    {
+        "start": 1233.34,
+        "end": 1238.78,
+        "text": " incorrect paths to come up with answers like the one I did, which is the father who died was the"
+    },
+    {
+        "start": 1238.78,
+        "end": 1242.78,
+        "text": " adoptive father and the father who was the surgeon could have been the biological father."
+    },
+    {
+        "start": 1242.78,
+        "end": 1248.86,
+        "text": " When a very simple answer is staring me in the face that I am incapable of getting to,"
+    },
+    {
+        "start": 1248.86,
+        "end": 1254.78,
+        "text": " which is that the surgeon is the boy's mother. These days of course there is a second correct"
+    },
+    {
+        "start": 1254.78,
+        "end": 1261.02,
+        "text": " answer, which is that this is two dads. It's a gay couple. And people are just as likely to give"
+    },
+    {
+        "start": 1261.26,
+        "end": 1266.94,
+        "text": " you that answer as mother, even though the likelihood of gay parents is so much lower than that of a"
+    },
+    {
+        "start": 1266.94,
+        "end": 1273.18,
+        "text": " woman who is a surgeon. Now to me what is interesting is that personal experience seems not to matter"
+    },
+    {
+        "start": 1273.18,
+        "end": 1279.9,
+        "text": " here. I have had a number of people say to me I was really shocked because things like my mother"
+    },
+    {
+        "start": 1279.9,
+        "end": 1284.94,
+        "text": " was a surgeon and I couldn't come up with the right answer. That to me is a great example"
+    },
+    {
+        "start": 1284.94,
+        "end": 1290.78,
+        "text": " of the power of the culture that it can set aside your own deep personal experience."
+    },
+    {
+        "start": 1291.1,
+        "end": 1295.66,
+        "text": " And that is an important idea for us to take forward if we want to think about change,"
+    },
+    {
+        "start": 1295.66,
+        "end": 1300.62,
+        "text": " that your mother being a surgeon is not going to protect you from gender bias,"
+    },
+    {
+        "start": 1300.62,
+        "end": 1307.42,
+        "text": " but what you see in the world is what's driving that. So I'm hitting the road to earn your vote"
+    },
+    {
+        "start": 1308.3,
+        "end": 1312.78,
+        "text": " because it's your time and I hope you'll join me on this journey."
+    },
+    {
+        "start": 1316.3,
+        "end": 1320.06,
+        "text": " If it's that hard to get our heads around the idea of a female surgeon,"
+    },
+    {
+        "start": 1320.06,
+        "end": 1323.8999999999999,
+        "text": " then perhaps it's not surprising that not enough Americans, even women,"
+    },
+    {
+        "start": 1323.8999999999999,
+        "end": 1329.6599999999999,
+        "text": " were able to get their heads around the idea of a female president irrespective of who the woman was."
+    },
+    {
+        "start": 1330.3,
+        "end": 1335.98,
+        "text": " My name is Caroline Heldman. I'm a professor of politics at Occidental College looking at systems of"
+    },
+    {
+        "start": 1335.98,
+        "end": 1342.06,
+        "text": " power. So race, class, and gender in the US political context with a particular emphasis on the"
+    },
+    {
+        "start": 1342.06,
+        "end": 1348.54,
+        "text": " American presidency. Part of our cultural DNA is this idea that men are supposed to be in charge."
+    },
+    {
+        "start": 1348.54,
+        "end": 1355.42,
+        "text": " And so when women seek power, both men and women alike tend to have a diverse reaction to that."
+    },
+    {
+        "start": 1355.42,
+        "end": 1361.82,
+        "text": " We tend to really dislike or in some instances hate power-seeking women. And it affects"
+    },
+    {
+        "start": 1361.82,
+        "end": 1367.1,
+        "text": " men more than it affects women in terms of the hatred, but because it's a cultural norm,"
+    },
+    {
+        "start": 1367.1,
+        "end": 1372.86,
+        "text": " both men and women alike hold this bias against power-seeking women. There's an implicit bias"
+    },
+    {
+        "start": 1372.9399999999998,
+        "end": 1378.3,
+        "text": " on the part of about a third of American women, a majority of those being white women"
+    },
+    {
+        "start": 1378.3,
+        "end": 1380.9399999999998,
+        "text": " against women who seek positions of power."
+    },
+    {
+        "start": 1390.62,
+        "end": 1396.2199999999998,
+        "text": " So we accept the bias as there, even in liberal women. But if we're not aware of it in our conscious"
+    },
+    {
+        "start": 1396.2199999999998,
+        "end": 1402.54,
+        "text": " brains, is there anything we can do about it? Lots of organizations now use unconscious bias"
+    },
+    {
+        "start": 1403.26,
+        "end": 1408.22,
+        "text": " training, like that offered by Professor Bina Candola of Business Psychologist Firm, Pern Candola."
+    },
+    {
+        "start": 1408.86,
+        "end": 1414.94,
+        "text": " I went along to try it out. We're looking at a slide here which shows a checkerboard,"
+    },
+    {
+        "start": 1414.94,
+        "end": 1420.3799999999999,
+        "text": " like a drafts board, and it's got a little cylinder on it which is casting a shadow."
+    },
+    {
+        "start": 1420.3799999999999,
+        "end": 1425.26,
+        "text": " And there are two squares there. There's black square marked A and a white square marked B."
+    },
+    {
+        "start": 1425.98,
+        "end": 1431.74,
+        "text": " Now what do I have to do? Your target is to tell me which of those two squares is darker A or B?"
+    },
+    {
+        "start": 1432.3,
+        "end": 1437.5,
+        "text": " Well obviously A is darker because it's a black square. Yeah, it's obvious. Yeah, clearly it's clearly"
+    },
+    {
+        "start": 1437.5,
+        "end": 1444.6200000000001,
+        "text": " darker. Actually the other same color. No, they're not. Well, as you can see there they are. The colors"
+    },
+    {
+        "start": 1444.6200000000001,
+        "end": 1451.98,
+        "text": " never changes. That is quite extraordinary. They are the same color, but my brain is telling me"
+    },
+    {
+        "start": 1451.98,
+        "end": 1457.02,
+        "text": " that one is black and one is white, but just in the shadow, so it's sort of become grey."
+    },
+    {
+        "start": 1457.1,
+        "end": 1462.94,
+        "text": " There are two things going on here. First of all it's pattern recognition and so it's dark,"
+    },
+    {
+        "start": 1462.94,
+        "end": 1468.78,
+        "text": " white, dark, white. So there's a pattern. So we recognize the pattern and that influences us."
+    },
+    {
+        "start": 1468.78,
+        "end": 1474.06,
+        "text": " And it's also about our experience and our experience tells us when something casts a shadow,"
+    },
+    {
+        "start": 1474.06,
+        "end": 1478.06,
+        "text": " it makes something darker. It's darker if it's in shadow than if it's not in shadow. And both of those"
+    },
+    {
+        "start": 1478.06,
+        "end": 1485.66,
+        "text": " things about pattern recognition and then our experience drive us to see something that is not there."
+    },
+    {
+        "start": 1487.02,
+        "end": 1492.94,
+        "text": " And in employment situations for example at work you can see these things happening all of the"
+    },
+    {
+        "start": 1492.94,
+        "end": 1497.34,
+        "text": " time. Individuals will make up their mind, untrained individuals, make up their minds about a"
+    },
+    {
+        "start": 1497.34,
+        "end": 1502.22,
+        "text": " candidate within fractions of a second. And we based on their appearance, their gender,"
+    },
+    {
+        "start": 1503.34,
+        "end": 1508.46,
+        "text": " their height, the way they dress, their accent. Professor Candola's sessions bring home to us"
+    },
+    {
+        "start": 1508.46,
+        "end": 1513.82,
+        "text": " how our brains have been conditioned to react to our environment in a certain way, even flying"
+    },
+    {
+        "start": 1513.82,
+        "end": 1519.82,
+        "text": " in the face of evidence. In other words how we use heuristics to make stereotypical assumptions"
+    },
+    {
+        "start": 1519.82,
+        "end": 1526.54,
+        "text": " about gender. These courses can be very useful but they don't always work, particularly if"
+    },
+    {
+        "start": 1526.54,
+        "end": 1531.8999999999999,
+        "text": " employees are forced to go on them. They can actually make people more mutinous and therefore more"
+    },
+    {
+        "start": 1531.8999999999999,
+        "end": 1537.74,
+        "text": " biased. And even with the best intention people they're not enough on their own, says Harvard"
+    },
+    {
+        "start": 1537.74,
+        "end": 1545.82,
+        "text": " Professor Maserine Benaghi. If I were to give you a lecture on fat and sugar and how our body"
+    },
+    {
+        "start": 1545.82,
+        "end": 1554.3,
+        "text": " converts that into energy at the end of a three hour training program on that will you have lost"
+    },
+    {
+        "start": 1554.3,
+        "end": 1562.94,
+        "text": " any weight. And so I use this to argue that of course education about our minds, education"
+    },
+    {
+        "start": 1562.94,
+        "end": 1570.78,
+        "text": " about where bias may be coming from. All of that is a necessary step if we want to see change."
+    },
+    {
+        "start": 1570.78,
+        "end": 1578.22,
+        "text": " But it is by no means a sufficient step. And we should stop deluding ourselves that when we do"
+    },
+    {
+        "start": 1578.78,
+        "end": 1585.5,
+        "text": " unconscious bias training or implicit bias training that we are actually changing the workplace."
+    },
+    {
+        "start": 1593.26,
+        "end": 1600.94,
+        "text": " So what else can we do? Everyone I spoke to had suggestions. Occupational psychologist"
+    },
+    {
+        "start": 1600.94,
+        "end": 1608.8600000000001,
+        "text": " Tina Cornish. I challenge the organisations I work with that I am sure they can find 52 role models"
+    },
+    {
+        "start": 1609.42,
+        "end": 1616.3,
+        "text": " that then can be a screensaver. They can be path staff, they can be current staff, they can be"
+    },
+    {
+        "start": 1616.3,
+        "end": 1623.6599999999999,
+        "text": " in a lied organisations. But that will mean that once a week everyone in the organisation is exposed"
+    },
+    {
+        "start": 1623.6599999999999,
+        "end": 1630.46,
+        "text": " to a positive female role model. Social media analyst Adam Parker. How often does one look back at"
+    },
+    {
+        "start": 1630.46,
+        "end": 1635.58,
+        "text": " one's retweets and say have I been balanced in my approach? You just do it in the moment don't you?"
+    },
+    {
+        "start": 1636.1399999999999,
+        "end": 1640.86,
+        "text": " So therefore it does require people to really think about these things and look at who they're"
+    },
+    {
+        "start": 1640.86,
+        "end": 1645.6599999999999,
+        "text": " following, look at who they're retweeting and think is there something I could do to maybe try and"
+    },
+    {
+        "start": 1645.66,
+        "end": 1652.6200000000001,
+        "text": " redress this balance a bit. Harvard psychologist Maserine Benaji. How do I sit in a meeting and decide"
+    },
+    {
+        "start": 1652.6200000000001,
+        "end": 1659.5800000000002,
+        "text": " who is deserving of the promotion? I believe that if we're aware of our bias and make it"
+    },
+    {
+        "start": 1659.5800000000002,
+        "end": 1665.5800000000002,
+        "text": " something that we become aware of in the moment I've been talking a lot about these in the moment"
+    },
+    {
+        "start": 1665.5800000000002,
+        "end": 1672.38,
+        "text": " awareness raising strategies. For example in the United States we know that there is a vast"
+    },
+    {
+        "start": 1672.38,
+        "end": 1678.14,
+        "text": " difference in the level of painkillers that are being given to black and white Americans for"
+    },
+    {
+        "start": 1678.14,
+        "end": 1685.5800000000002,
+        "text": " reporting the same level of pain. I would think that doctors as soon as they type in a prescription"
+    },
+    {
+        "start": 1685.5800000000002,
+        "end": 1691.74,
+        "text": " medication into their computer that a little graph should pop up on the screen simply showing the"
+    },
+    {
+        "start": 1691.74,
+        "end": 1697.5,
+        "text": " doctor the difference in the milligrams that is being given to black and white patients in that"
+    },
+    {
+        "start": 1697.5,
+        "end": 1703.98,
+        "text": " hospital system. You do not tell the doctor the expert what to prescribe, you do not tell them how"
+    },
+    {
+        "start": 1703.98,
+        "end": 1709.42,
+        "text": " they should do their job but you make them aware that the hospital system has that bias and you"
+    },
+    {
+        "start": 1709.42,
+        "end": 1715.42,
+        "text": " don't just do that by telling them that once a year in a training session. You do that by alerting"
+    },
+    {
+        "start": 1715.42,
+        "end": 1722.62,
+        "text": " them to that information in the moment of decision making. That's smart. And lastly business psychologist"
+    },
+    {
+        "start": 1722.62,
+        "end": 1728.3799999999999,
+        "text": " Bina Candola with his wife has designed a phone app which helps people challenge the stereotypes"
+    },
+    {
+        "start": 1728.3799999999999,
+        "end": 1733.6599999999999,
+        "text": " they hold about men and women at work. It takes five minutes a day you can do it on your mobile,"
+    },
+    {
+        "start": 1733.6599999999999,
+        "end": 1738.3799999999999,
+        "text": " it's as easy as we can make it and you have to do it for three weeks or so and we had an organisation"
+    },
+    {
+        "start": 1738.3799999999999,
+        "end": 1744.86,
+        "text": " to say to us we can't imagine that senior leaders doing this we wouldn't do it and we thought well"
+    },
+    {
+        "start": 1744.86,
+        "end": 1749.9799999999998,
+        "text": " actually this is really easy it's five minutes a day if they can't give up five minutes a day it's"
+    },
+    {
+        "start": 1749.98,
+        "end": 1755.42,
+        "text": " nothing to do with ability is actually to do with their motivation. Basically what they're saying is"
+    },
+    {
+        "start": 1755.42,
+        "end": 1763.58,
+        "text": " we could change but we can't be bothered. And there's the rub we have to want to we really should"
+    },
+    {
+        "start": 1763.58,
+        "end": 1770.22,
+        "text": " be bothered women as well as men. Sexism is as vile as racism and it shouldn't have a place in modern"
+    },
+    {
+        "start": 1770.22,
+        "end": 1777.18,
+        "text": " society. So next time you assume that a woman isn't competent until she proves otherwise just"
+    },
+    {
+        "start": 1777.18,
+        "end": 1783.18,
+        "text": " slap yourself on the wrist. Realize that it's your reptilian brain talking and make a conscious"
+    },
+    {
+        "start": 1783.18,
+        "end": 1788.8600000000001,
+        "text": " decision to act like a 21st century person not a caveman or woman."
+    },
+    {
+        "start": 1797.5800000000002,
+        "end": 1803.02,
+        "text": " That was analysis. Now, Rian there's a massive backlog of this podcast. It's for expected"
+    },
+    {
+        "start": 1803.42,
+        "end": 1809.58,
+        "text": " 2005 I think and it's for me it's really neat looking through these past episodes because"
+    },
+    {
+        "start": 1810.3,
+        "end": 1815.02,
+        "text": " they sort of capture what it felt like to be living then you know it's about current events but it"
+    },
+    {
+        "start": 1815.02,
+        "end": 1820.7,
+        "text": " doesn't feel irrelevant or obsolete because it's not just Newsy it's got this level of sort of thought"
+    },
+    {
+        "start": 1820.7,
+        "end": 1825.58,
+        "text": " and reflection put into it. It gives you really useful context but if you're one of these people"
+    },
+    {
+        "start": 1825.58,
+        "end": 1830.22,
+        "text": " a bit like me I get a bit scared by a massive fat catarole. Yeah, no it's true. The next"
+    },
+    {
+        "start": 1830.22,
+        "end": 1835.18,
+        "text": " EPS coming up in this series of analysis they've got some great topics in that I'm looking"
+    },
+    {
+        "start": 1835.18,
+        "end": 1841.42,
+        "text": " forward particularly at the one which looks at how to be an authoritarian dictator. Okay."
+    },
+    {
+        "start": 1842.22,
+        "end": 1846.14,
+        "text": " That's ahead I think in the next three or four weeks. Right okay sort of a how-to."
+    },
+    {
+        "start": 1846.14,
+        "end": 1852.7,
+        "text": " Yeah. Can I just suggest one from the back catalog just so that'll give you another"
+    },
+    {
+        "start": 1852.7,
+        "end": 1857.66,
+        "text": " is it how to live with a different dictator? I give you a specific example of something so you"
+    },
+    {
+        "start": 1857.66,
+        "end": 1861.5800000000002,
+        "text": " don't have to worry about 300 episodes or something you just go back and find this one. Like if you're"
+    },
+    {
+        "start": 1861.5800000000002,
+        "end": 1867.02,
+        "text": " a fan of the assassination the current podcast from the World Service talking about the assassination"
+    },
+    {
+        "start": 1867.02,
+        "end": 1873.42,
+        "text": " of Benazio Bouto Owen Bennett Jones who is the presenter of that podcast has an episode of analysis"
+    },
+    {
+        "start": 1873.42,
+        "end": 1879.02,
+        "text": " from several years ago all about Pakistani religious radicals. That's great. That's all from us."
+    },
+    {
+        "start": 1879.02,
+        "end": 1879.8200000000002,
+        "text": " See you next time."
+    }
+]

@@ -1,0 +1,3312 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.6,
+        "text": " Okay."
+    },
+    {
+        "start": 2.6,
+        "end": 4.2,
+        "text": " All right, well, good evening everybody."
+    },
+    {
+        "start": 4.2,
+        "end": 5.04,
+        "text": " Welcome."
+    },
+    {
+        "start": 5.04,
+        "end": 6.44,
+        "text": " Elon, thanks for being here."
+    },
+    {
+        "start": 6.44,
+        "end": 7.44,
+        "text": " Thank you for having me."
+    },
+    {
+        "start": 7.44,
+        "end": 8.44,
+        "text": " We feel very proud."
+    },
+    {
+        "start": 8.44,
+        "end": 9.88,
+        "text": " We're excited to have you."
+    },
+    {
+        "start": 9.88,
+        "end": 11.36,
+        "text": " Right, so I'm going to start with some questions"
+    },
+    {
+        "start": 11.36,
+        "end": 12.4,
+        "text": " and then we're going to open it up."
+    },
+    {
+        "start": 12.4,
+        "end": 14.16,
+        "text": " Let me get straight into it."
+    },
+    {
+        "start": 14.16,
+        "end": 18.2,
+        "text": " So Bill Gates said, there is no one in our time"
+    },
+    {
+        "start": 18.2,
+        "end": 20.96,
+        "text": " who has done more to push the bounds of science innovation"
+    },
+    {
+        "start": 20.96,
+        "end": 21.64,
+        "text": " than you."
+    },
+    {
+        "start": 21.64,
+        "end": 22.48,
+        "text": " What's going on?"
+    },
+    {
+        "start": 22.48,
+        "end": 25.16,
+        "text": " Well, that's a nice thing to have anyone say about."
+    },
+    {
+        "start": 25.16,
+        "end": 26.48,
+        "text": " You're nice coming from Bill Gates."
+    },
+    {
+        "start": 26.48,
+        "end": 29.52,
+        "text": " But oddly enough, when it comes to AI,"
+    },
+    {
+        "start": 29.52,
+        "end": 32.28,
+        "text": " actually, for around a decade, you've almost"
+    },
+    {
+        "start": 32.28,
+        "end": 34.4,
+        "text": " been in the opposite and saying, hang on,"
+    },
+    {
+        "start": 34.4,
+        "end": 36.52,
+        "text": " we need to think about what we're doing and what we're"
+    },
+    {
+        "start": 36.52,
+        "end": 38.72,
+        "text": " pushing here and what do we do to make this safe."
+    },
+    {
+        "start": 38.72,
+        "end": 40.760000000000005,
+        "text": " And actually, maybe we should be pushing as fast"
+    },
+    {
+        "start": 40.760000000000005,
+        "end": 42.96,
+        "text": " or as hard as we are."
+    },
+    {
+        "start": 42.96,
+        "end": 44.480000000000004,
+        "text": " I mean, you've been doing it for a decade."
+    },
+    {
+        "start": 44.480000000000004,
+        "end": 47.16,
+        "text": " What was it that caused you to think about it that way?"
+    },
+    {
+        "start": 47.16,
+        "end": 50.0,
+        "text": " And why do we need to be worried?"
+    },
+    {
+        "start": 50.0,
+        "end": 53.2,
+        "text": " Yeah, I've been somewhat of a Cassandra for quite a while."
+    },
+    {
+        "start": 53.2,
+        "end": 55.400000000000006,
+        "text": " Where people would tell people, like, we should really"
+    },
+    {
+        "start": 55.400000000000006,
+        "end": 56.2,
+        "text": " be concerned about AI."
+    },
+    {
+        "start": 56.480000000000004,
+        "end": 57.400000000000006,
+        "text": " Like, what are you talking about?"
+    },
+    {
+        "start": 57.400000000000006,
+        "end": 60.52,
+        "text": " Like, they've never really had any experience with AI."
+    },
+    {
+        "start": 60.52,
+        "end": 63.52,
+        "text": " Since I was immersed in technology,"
+    },
+    {
+        "start": 63.52,
+        "end": 65.76,
+        "text": " I have been immersed in technology for a long time,"
+    },
+    {
+        "start": 65.76,
+        "end": 67.88,
+        "text": " I could see it coming."
+    },
+    {
+        "start": 67.88,
+        "end": 71.92,
+        "text": " So, but I think this year was that there"
+    },
+    {
+        "start": 71.92,
+        "end": 73.80000000000001,
+        "text": " have been a number of breakthroughs."
+    },
+    {
+        "start": 73.80000000000001,
+        "end": 77.2,
+        "text": " I mean, the point at which someone can see a dynamically"
+    },
+    {
+        "start": 77.2,
+        "end": 80.76,
+        "text": " created video of themselves, like, it's already"
+    },
+    {
+        "start": 80.76,
+        "end": 84.36,
+        "text": " created a video of you saying anything in real time."
+    },
+    {
+        "start": 84.36,
+        "end": 85.84,
+        "text": " Or me."
+    },
+    {
+        "start": 85.84,
+        "end": 88.44,
+        "text": " And so the sort of the deep-pick video"
+    },
+    {
+        "start": 88.44,
+        "end": 89.76,
+        "text": " is which are really incredibly good,"
+    },
+    {
+        "start": 89.76,
+        "end": 92.64,
+        "text": " in fact, sometimes we're convincing that real ones."
+    },
+    {
+        "start": 92.64,
+        "end": 95.24,
+        "text": " And I'm a bit deep-reel."
+    },
+    {
+        "start": 98.48,
+        "end": 101.68,
+        "text": " And then, obviously, things like charge GBT"
+    },
+    {
+        "start": 101.68,
+        "end": 103.28,
+        "text": " were quite remarkable."
+    },
+    {
+        "start": 103.28,
+        "end": 108.72,
+        "text": " Now, I saw GBT1, GBT2, GBT3, GBT4, the whole sort of lead"
+    },
+    {
+        "start": 108.72,
+        "end": 109.16,
+        "text": " up to that."
+    },
+    {
+        "start": 109.16,
+        "end": 113.2,
+        "text": " So it was easy for me to kind of see where it's going."
+    },
+    {
+        "start": 113.2,
+        "end": 115.60000000000001,
+        "text": " If you just sort of extrapolate the points on a curve,"
+    },
+    {
+        "start": 115.60000000000001,
+        "end": 117.52000000000001,
+        "text": " and I see that trend will continue,"
+    },
+    {
+        "start": 117.52000000000001,
+        "end": 120.96000000000001,
+        "text": " then we will have profound artificial intelligence."
+    },
+    {
+        "start": 120.96000000000001,
+        "end": 124.88,
+        "text": " And obviously, at a level that far exceeds human intelligence."
+    },
+    {
+        "start": 124.88,
+        "end": 130.36,
+        "text": " So, I'm glad to see at this point that people"
+    },
+    {
+        "start": 130.36,
+        "end": 132.2,
+        "text": " are taking safety seriously."
+    },
+    {
+        "start": 132.2,
+        "end": 135.8,
+        "text": " And I'd like to say thank you for holding this AI safety"
+    },
+    {
+        "start": 135.8,
+        "end": 136.32,
+        "text": " conference."
+    },
+    {
+        "start": 136.32,
+        "end": 137.72,
+        "text": " I think actually it will guide on in history"
+    },
+    {
+        "start": 137.72,
+        "end": 139.2,
+        "text": " as being very important."
+    },
+    {
+        "start": 139.2,
+        "end": 142.92000000000002,
+        "text": " I think it's really quite profound."
+    },
+    {
+        "start": 142.92,
+        "end": 147.04,
+        "text": " And I do think, overall, that the potential,"
+    },
+    {
+        "start": 147.04,
+        "end": 149.2,
+        "text": " it's therefore, artificial intelligence,"
+    },
+    {
+        "start": 149.2,
+        "end": 155.16,
+        "text": " AI, to have most likely a positive effect,"
+    },
+    {
+        "start": 155.16,
+        "end": 158.67999999999998,
+        "text": " and to create a future of abundance,"
+    },
+    {
+        "start": 158.67999999999998,
+        "end": 162.32,
+        "text": " where there is no scarcity of goods and services."
+    },
+    {
+        "start": 162.32,
+        "end": 165.76,
+        "text": " But it is somewhat of the magic genie problem,"
+    },
+    {
+        "start": 165.76,
+        "end": 167.39999999999998,
+        "text": " where, if you have a magic genie that"
+    },
+    {
+        "start": 167.39999999999998,
+        "end": 171.95999999999998,
+        "text": " can grant all the wishes, usually those stories don't end well."
+    },
+    {
+        "start": 171.96,
+        "end": 177.92000000000002,
+        "text": " Who cares what you wish for, including wishes?"
+    },
+    {
+        "start": 177.92000000000002,
+        "end": 181.4,
+        "text": " So, you talked a little bit about the summit."
+    },
+    {
+        "start": 181.4,
+        "end": 183.64000000000001,
+        "text": " And thank you for being engaged in it,"
+    },
+    {
+        "start": 183.64000000000001,
+        "end": 186.72,
+        "text": " which has been great, and people enjoyed having you there."
+    },
+    {
+        "start": 186.72,
+        "end": 188.32,
+        "text": " Part of the spending on this dialogue."
+    },
+    {
+        "start": 188.32,
+        "end": 190.08,
+        "text": " Now, one of the things that we achieved today"
+    },
+    {
+        "start": 190.08,
+        "end": 193.92000000000002,
+        "text": " in the meetings between the companies and the leaders"
+    },
+    {
+        "start": 193.92000000000002,
+        "end": 198.32,
+        "text": " was an agreement that externally, ideally, governments"
+    },
+    {
+        "start": 198.32,
+        "end": 201.12,
+        "text": " should be doing safety testing of models"
+    },
+    {
+        "start": 201.12,
+        "end": 202.76,
+        "text": " before they're released."
+    },
+    {
+        "start": 202.76,
+        "end": 204.6,
+        "text": " I think this is something that you've spoken about a little bit."
+    },
+    {
+        "start": 204.6,
+        "end": 206.4,
+        "text": " It was something we worked really hard on,"
+    },
+    {
+        "start": 206.4,
+        "end": 209.44,
+        "text": " because my job in government is to say,"
+    },
+    {
+        "start": 209.44,
+        "end": 211.04,
+        "text": " hang on, there is a potential risk here,"
+    },
+    {
+        "start": 211.04,
+        "end": 213.88,
+        "text": " not a definite risk, but a potential risk"
+    },
+    {
+        "start": 213.88,
+        "end": 215.92000000000002,
+        "text": " of something that could be bad."
+    },
+    {
+        "start": 215.92000000000002,
+        "end": 218.28,
+        "text": " My job is to protect the country."
+    },
+    {
+        "start": 218.28,
+        "end": 221.24,
+        "text": " And we can only do that if we develop the capability"
+    },
+    {
+        "start": 221.24,
+        "end": 223.24,
+        "text": " we need in our safety institute, and then go in"
+    },
+    {
+        "start": 223.24,
+        "end": 226.64000000000001,
+        "text": " and make sure we can test the models before they are released."
+    },
+    {
+        "start": 226.64000000000001,
+        "end": 227.88,
+        "text": " Delighted that happened today."
+    },
+    {
+        "start": 227.88,
+        "end": 230.96,
+        "text": " But what's your view of what we should be doing?"
+    },
+    {
+        "start": 230.96,
+        "end": 232.56,
+        "text": " You've talked about the potential risk, right?"
+    },
+    {
+        "start": 232.56,
+        "end": 233.44,
+        "text": " Again, we don't know."
+    },
+    {
+        "start": 233.44,
+        "end": 235.96,
+        "text": " But what are the types of things governments like us"
+    },
+    {
+        "start": 235.96,
+        "end": 239.48000000000002,
+        "text": " should be doing to manage and mitigate against those risks?"
+    },
+    {
+        "start": 239.48000000000002,
+        "end": 243.08,
+        "text": " Well, I generally think that it is good for government"
+    },
+    {
+        "start": 243.08,
+        "end": 246.44,
+        "text": " to play a role when the public safety is at risk."
+    },
+    {
+        "start": 246.44,
+        "end": 250.32,
+        "text": " So really, for the vast majority of software,"
+    },
+    {
+        "start": 250.32,
+        "end": 251.68,
+        "text": " the public safety is not at risk."
+    },
+    {
+        "start": 251.68,
+        "end": 254.64000000000001,
+        "text": " I mean, if the app crashes on your phone,"
+    },
+    {
+        "start": 254.64000000000001,
+        "end": 258.24,
+        "text": " you will laptop, it's not a massive catastrophe."
+    },
+    {
+        "start": 258.24,
+        "end": 261.16,
+        "text": " But when you're talking about digital super intelligence,"
+    },
+    {
+        "start": 261.16,
+        "end": 265.28000000000003,
+        "text": " I think we'd wish does pose a risk to the public,"
+    },
+    {
+        "start": 265.28000000000003,
+        "end": 267.6,
+        "text": " then there is a role for government to play"
+    },
+    {
+        "start": 267.6,
+        "end": 269.52,
+        "text": " to safeguard the interests of the public."
+    },
+    {
+        "start": 269.52,
+        "end": 275.2,
+        "text": " And this is, of course, true in many fields, aviation, cars."
+    },
+    {
+        "start": 275.2,
+        "end": 278.28000000000003,
+        "text": " I do what regulators throughout the world"
+    },
+    {
+        "start": 278.28000000000003,
+        "end": 282.08,
+        "text": " because of installing big communications, rockets,"
+    },
+    {
+        "start": 282.08,
+        "end": 286.32,
+        "text": " being aerospace, and cars being transports."
+    },
+    {
+        "start": 286.32,
+        "end": 289.12,
+        "text": " So I'm very familiar with dealing with regulators."
+    },
+    {
+        "start": 289.12,
+        "end": 291.04,
+        "text": " And I actually agree with the vast majority of regulations."
+    },
+    {
+        "start": 291.04,
+        "end": 292.71999999999997,
+        "text": " There's a few that I disagree with from time to time,"
+    },
+    {
+        "start": 292.71999999999997,
+        "end": 295.15999999999997,
+        "text": " but point one to the sand probably."
+    },
+    {
+        "start": 295.15999999999997,
+        "end": 296.88,
+        "text": " Well, that's the one percent of regulations"
+    },
+    {
+        "start": 296.88,
+        "end": 297.92,
+        "text": " I disagree with."
+    },
+    {
+        "start": 297.92,
+        "end": 302.76,
+        "text": " So there is some concern from people in Silicon Valley"
+    },
+    {
+        "start": 302.76,
+        "end": 305.32,
+        "text": " who have never dealt with regulators before,"
+    },
+    {
+        "start": 305.32,
+        "end": 308.24,
+        "text": " and they think that this is going to just crush innovation"
+    },
+    {
+        "start": 308.24,
+        "end": 310.71999999999997,
+        "text": " and slow them down and be annoying."
+    },
+    {
+        "start": 310.71999999999997,
+        "end": 311.56,
+        "text": " But..."
+    },
+    {
+        "start": 312.56,
+        "end": 315.96,
+        "text": " And it will be annoying, it's true."
+    },
+    {
+        "start": 315.96,
+        "end": 317.96,
+        "text": " They're not wrong about that."
+    },
+    {
+        "start": 317.96,
+        "end": 321.2,
+        "text": " But I think we've learnt over the years"
+    },
+    {
+        "start": 321.2,
+        "end": 325.76,
+        "text": " that having a referee is a good thing."
+    },
+    {
+        "start": 325.76,
+        "end": 329.36,
+        "text": " And if you look at any sports game, there's always a referee."
+    },
+    {
+        "start": 329.36,
+        "end": 333.36,
+        "text": " And nobody's suggesting I think to have a sports game without one."
+    },
+    {
+        "start": 333.36,
+        "end": 337.56,
+        "text": " And I think that's the right way to think about this is for..."
+    },
+    {
+        "start": 337.56,
+        "end": 340.36,
+        "text": " for government to be a referee to make sure"
+    },
+    {
+        "start": 340.36,
+        "end": 347.36,
+        "text": " that the sportsman like conduct and the public safety is..."
+    },
+    {
+        "start": 347.36,
+        "end": 351.36,
+        "text": " you know, is addressed that we care about public safety."
+    },
+    {
+        "start": 351.36,
+        "end": 353.36,
+        "text": " Because I think there might be at times"
+    },
+    {
+        "start": 353.36,
+        "end": 354.96000000000004,
+        "text": " too much optimism about technology."
+    },
+    {
+        "start": 354.96000000000004,
+        "end": 356.76,
+        "text": " And I say that as a technologist."
+    },
+    {
+        "start": 356.76,
+        "end": 359.76,
+        "text": " I mean, so I ought to know."
+    },
+    {
+        "start": 359.76,
+        "end": 363.76,
+        "text": " And likes that on balance, I think,"
+    },
+    {
+        "start": 363.76,
+        "end": 368.36,
+        "text": " that AI will be a forceful good, most likely."
+    },
+    {
+        "start": 368.36,
+        "end": 371.36,
+        "text": " But the probability of it going bad is not 0%."
+    },
+    {
+        "start": 371.36,
+        "end": 374.36,
+        "text": " So we just need to mitigate the downside potential."
+    },
+    {
+        "start": 374.36,
+        "end": 375.36,
+        "text": " And then how..."
+    },
+    {
+        "start": 375.36,
+        "end": 377.36,
+        "text": " You talk about referee and that's what..."
+    },
+    {
+        "start": 377.36,
+        "end": 378.36,
+        "text": " Demis right there."
+    },
+    {
+        "start": 378.36,
+        "end": 379.36,
+        "text": " Yeah, well..."
+    },
+    {
+        "start": 379.36,
+        "end": 381.36,
+        "text": " I mean, you know, and we talk about this,"
+    },
+    {
+        "start": 381.36,
+        "end": 383.36,
+        "text": " and Demis and I discuss this the long time ago."
+    },
+    {
+        "start": 383.36,
+        "end": 386.36,
+        "text": " I'm like literally facing right Adam."
+    },
+    {
+        "start": 386.36,
+        "end": 389.36,
+        "text": " And actually, you know, Demis to his credit"
+    },
+    {
+        "start": 389.36,
+        "end": 391.36,
+        "text": " and the credit of people in the industry did say that to him."
+    },
+    {
+        "start": 391.36,
+        "end": 393.36,
+        "text": " But the other Demis says, not right,"
+    },
+    {
+        "start": 393.36,
+        "end": 395.36,
+        "text": " that Demis and his colleagues are marking their own homework."
+    },
+    {
+        "start": 395.36,
+        "end": 397.36,
+        "text": " Right, they need to be someone independent."
+    },
+    {
+        "start": 397.36,
+        "end": 400.36,
+        "text": " That's why we've developed a safety institute here."
+    },
+    {
+        "start": 400.36,
+        "end": 403.36,
+        "text": " Do you think governments can develop the expertise?"
+    },
+    {
+        "start": 403.36,
+        "end": 406.36,
+        "text": " One of the things we need to do is they hang on, you know,"
+    },
+    {
+        "start": 406.36,
+        "end": 409.36,
+        "text": " Demis and Sam and all the others have got a lot of very smart people"
+    },
+    {
+        "start": 409.36,
+        "end": 410.36,
+        "text": " doing this."
+    },
+    {
+        "start": 410.36,
+        "end": 414.36,
+        "text": " Governments need to quickly tool up capability-wise, personnel-wise."
+    },
+    {
+        "start": 414.36,
+        "end": 415.36,
+        "text": " Which is what we're doing."
+    },
+    {
+        "start": 415.36,
+        "end": 418.36,
+        "text": " I mean, do you think it is possible for governments to do that fast enough,"
+    },
+    {
+        "start": 418.36,
+        "end": 420.36,
+        "text": " given how quickly the technology is developing?"
+    },
+    {
+        "start": 420.36,
+        "end": 423.36,
+        "text": " Or what do we need to do to make sure we do do it quick enough?"
+    },
+    {
+        "start": 423.36,
+        "end": 426.36,
+        "text": " No, I think it's a great point you're making."
+    },
+    {
+        "start": 426.36,
+        "end": 432.36,
+        "text": " The pace of AI is faster than any technology I've seen in history by far."
+    },
+    {
+        "start": 432.36,
+        "end": 437.36,
+        "text": " And it seems to be growing in capability by at least five full,"
+    },
+    {
+        "start": 437.36,
+        "end": 439.36,
+        "text": " perhaps ten full per year."
+    },
+    {
+        "start": 439.36,
+        "end": 443.36,
+        "text": " It'll certainly grow by an order of magnitude next year."
+    },
+    {
+        "start": 443.36,
+        "end": 444.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 444.36,
+        "end": 449.36,
+        "text": " So, and government isn't used to moving at that speed."
+    },
+    {
+        "start": 449.36,
+        "end": 454.36,
+        "text": " But I think even if there are not firm regulations,"
+    },
+    {
+        "start": 454.36,
+        "end": 457.36,
+        "text": " even if there isn't an important capability,"
+    },
+    {
+        "start": 457.36,
+        "end": 460.36,
+        "text": " so we're having insight and being able to highlight concerns to the public"
+    },
+    {
+        "start": 460.36,
+        "end": 463.36,
+        "text": " will be very powerful."
+    },
+    {
+        "start": 463.36,
+        "end": 466.36,
+        "text": " So, even if that's all that's accomplished,"
+    },
+    {
+        "start": 466.36,
+        "end": 468.36,
+        "text": " I think that will be very, very good."
+    },
+    {
+        "start": 468.36,
+        "end": 469.36,
+        "text": " Okay."
+    },
+    {
+        "start": 469.36,
+        "end": 471.36,
+        "text": " Yeah, well, hopefully we can do better than that."
+    },
+    {
+        "start": 471.36,
+        "end": 472.36,
+        "text": " Hopefully, yeah."
+    },
+    {
+        "start": 472.36,
+        "end": 473.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 473.36,
+        "end": 474.36,
+        "text": " No, but that's how I share it."
+    },
+    {
+        "start": 474.36,
+        "end": 475.36,
+        "text": " We were talking before."
+    },
+    {
+        "start": 475.36,
+        "end": 477.36,
+        "text": " It was striking, you know, you're someone who spent their life and technology,"
+    },
+    {
+        "start": 477.36,
+        "end": 479.36,
+        "text": " living Moore's Law."
+    },
+    {
+        "start": 479.36,
+        "end": 482.36,
+        "text": " And what was interesting over the last couple of days,"
+    },
+    {
+        "start": 482.36,
+        "end": 485.36,
+        "text": " talking everyone who's doing the development of this,"
+    },
+    {
+        "start": 485.36,
+        "end": 489.36,
+        "text": " and I think you can go with this, is it's just the pace of advancement here,"
+    },
+    {
+        "start": 489.36,
+        "end": 491.36,
+        "text": " is unlike anything,"
+    },
+    {
+        "start": 491.36,
+        "end": 493.36,
+        "text": " all of you have seen in your careers in technology."
+    },
+    {
+        "start": 493.36,
+        "end": 494.36,
+        "text": " Is that fair?"
+    },
+    {
+        "start": 494.36,
+        "end": 497.36,
+        "text": " Because you've got these kind of compounding effects from the hardware"
+    },
+    {
+        "start": 497.36,
+        "end": 500.36,
+        "text": " and the data and the personnel."
+    },
+    {
+        "start": 500.36,
+        "end": 502.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 502.36,
+        "end": 504.36,
+        "text": " I mean, the two,"
+    },
+    {
+        "start": 504.36,
+        "end": 509.36,
+        "text": " currently the two leading centers for AI development are the San Francisco Bay Area"
+    },
+    {
+        "start": 509.36,
+        "end": 511.36,
+        "text": " and the sort of London area."
+    },
+    {
+        "start": 511.36,
+        "end": 513.36,
+        "text": " And there are many other places where it's being done,"
+    },
+    {
+        "start": 513.36,
+        "end": 514.36,
+        "text": " but those are the two leading areas."
+    },
+    {
+        "start": 514.36,
+        "end": 522.36,
+        "text": " So I think if, you know, if the United States and the UK and China"
+    },
+    {
+        "start": 522.36,
+        "end": 525.36,
+        "text": " are sort of aligned on safety,"
+    },
+    {
+        "start": 525.36,
+        "end": 526.36,
+        "text": " that's all going to be a good thing."
+    },
+    {
+        "start": 526.36,
+        "end": 530.36,
+        "text": " That's really, that's where the leadership is generally."
+    },
+    {
+        "start": 530.36,
+        "end": 532.36,
+        "text": " I mean, you actually, you mentioned China there."
+    },
+    {
+        "start": 532.36,
+        "end": 536.36,
+        "text": " So I took a decision to invite China to summit over the last few days."
+    },
+    {
+        "start": 536.36,
+        "end": 537.36,
+        "text": " Very good."
+    },
+    {
+        "start": 537.36,
+        "end": 538.36,
+        "text": " And it was not an easy decision."
+    },
+    {
+        "start": 538.36,
+        "end": 540.36,
+        "text": " A lot of people criticized me for it."
+    },
+    {
+        "start": 540.36,
+        "end": 543.36,
+        "text": " You know, my view is if you're going to try a serious conversation,"
+    },
+    {
+        "start": 543.36,
+        "end": 544.36,
+        "text": " you need to."
+    },
+    {
+        "start": 544.36,
+        "end": 545.36,
+        "text": " But what would your thoughts?"
+    },
+    {
+        "start": 545.36,
+        "end": 546.36,
+        "text": " You do business all around the world."
+    },
+    {
+        "start": 546.36,
+        "end": 547.36,
+        "text": " You just talked about it there."
+    },
+    {
+        "start": 547.36,
+        "end": 548.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 548.36,
+        "end": 549.36,
+        "text": " You know, should we be engaging with them?"
+    },
+    {
+        "start": 549.36,
+        "end": 550.36,
+        "text": " Can we trust them?"
+    },
+    {
+        "start": 550.36,
+        "end": 552.36,
+        "text": " Is that the right thing to have done?"
+    },
+    {
+        "start": 552.36,
+        "end": 556.36,
+        "text": " If China is not on board with AI safety,"
+    },
+    {
+        "start": 556.36,
+        "end": 559.36,
+        "text": " it's somewhat of a mood situation."
+    },
+    {
+        "start": 559.36,
+        "end": 562.36,
+        "text": " It's the single biggest objection that I get to,"
+    },
+    {
+        "start": 562.36,
+        "end": 565.36,
+        "text": " and kind of AI regulation or sort of safety controls,"
+    },
+    {
+        "start": 565.36,
+        "end": 567.36,
+        "text": " well, China's not going to do it."
+    },
+    {
+        "start": 567.36,
+        "end": 571.36,
+        "text": " And therefore, they will just jump into the lead and exceed us all."
+    },
+    {
+        "start": 571.36,
+        "end": 577.36,
+        "text": " But actually China is willing to to spate an AI safety."
+    },
+    {
+        "start": 577.36,
+        "end": 579.36,
+        "text": " And thank you for inviting them."
+    },
+    {
+        "start": 579.36,
+        "end": 585.36,
+        "text": " And they, you know, I think we should thank China for attending."
+    },
+    {
+        "start": 585.36,
+        "end": 588.36,
+        "text": " When I was in China earlier this year,"
+    },
+    {
+        "start": 588.36,
+        "end": 593.36,
+        "text": " the main subject of discussion with this leadership in China was AI safety."
+    },
+    {
+        "start": 594.36,
+        "end": 598.36,
+        "text": " And saying that this is really something that they should care about."
+    },
+    {
+        "start": 598.36,
+        "end": 599.36,
+        "text": " And they took it seriously."
+    },
+    {
+        "start": 599.36,
+        "end": 603.36,
+        "text": " And you are too, which is great."
+    },
+    {
+        "start": 603.36,
+        "end": 606.36,
+        "text": " And having them here, I think, was essential."
+    },
+    {
+        "start": 606.36,
+        "end": 609.36,
+        "text": " If they're not participants, it's pointless."
+    },
+    {
+        "start": 609.36,
+        "end": 610.36,
+        "text": " It's pointless."
+    },
+    {
+        "start": 610.36,
+        "end": 611.36,
+        "text": " Yeah, I know that."
+    },
+    {
+        "start": 611.36,
+        "end": 612.36,
+        "text": " And I think we were pleased."
+    },
+    {
+        "start": 612.36,
+        "end": 614.36,
+        "text": " They were engaged yesterday in the discussions,"
+    },
+    {
+        "start": 614.36,
+        "end": 617.36,
+        "text": " and actually ended up signing the same community that everyone else did."
+    },
+    {
+        "start": 617.36,
+        "end": 618.36,
+        "text": " That's great."
+    },
+    {
+        "start": 618.36,
+        "end": 619.36,
+        "text": " Which is a good stop."
+    },
+    {
+        "start": 619.36,
+        "end": 622.36,
+        "text": " And as we need everyone to approach us in a similar way,"
+    },
+    {
+        "start": 622.36,
+        "end": 625.36,
+        "text": " if we're going to have, I think, a realistic chance of resolving it."
+    },
+    {
+        "start": 625.36,
+        "end": 629.36,
+        "text": " I was going to tell you, you talked about innovation earlier and regulation being annoying."
+    },
+    {
+        "start": 629.36,
+        "end": 632.36,
+        "text": " There was a good debate today we had about open source."
+    },
+    {
+        "start": 632.36,
+        "end": 636.36,
+        "text": " And I think you've kind of been a proponent of algorithmic transparency"
+    },
+    {
+        "start": 636.36,
+        "end": 639.36,
+        "text": " and making some of the ex-algorithms public."
+    },
+    {
+        "start": 639.36,
+        "end": 643.36,
+        "text": " And you know, actually, we were talking about every hint on the way in."
+    },
+    {
+        "start": 643.36,
+        "end": 644.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 644.36,
+        "end": 649.36,
+        "text": " He's particularly, he's been very concerned about open source models being used by bad actors."
+    },
+    {
+        "start": 649.36,
+        "end": 655.36,
+        "text": " You've got a group of people who say they are critical to innovation happening in that distributed way."
+    },
+    {
+        "start": 655.36,
+        "end": 659.36,
+        "text": " Look, there's probably no perfect answer, and there's a tricky balance."
+    },
+    {
+        "start": 659.36,
+        "end": 662.36,
+        "text": " What are your thoughts on how we should approach this open source question?"
+    },
+    {
+        "start": 662.36,
+        "end": 669.36,
+        "text": " Or where should we be targeting whatever regulatory or monitoring that we're going to do?"
+    },
+    {
+        "start": 669.36,
+        "end": 678.36,
+        "text": " Well, the open source algorithms and data tend to lag the closed source by six to 12 months."
+    },
+    {
+        "start": 679.36,
+        "end": 687.36,
+        "text": " But so that given the rate of improvement, that this actually, therefore, quite a big difference between the closed source and the open."
+    },
+    {
+        "start": 687.36,
+        "end": 694.36,
+        "text": " If things are improving by a factor of the T5 or more than being a year behind is your five times worse."
+    },
+    {
+        "start": 694.36,
+        "end": 696.36,
+        "text": " So it's a pretty big difference."
+    },
+    {
+        "start": 696.36,
+        "end": 700.36,
+        "text": " And that might be actually an okay situation."
+    },
+    {
+        "start": 700.36,
+        "end": 707.36,
+        "text": " But it certainly will get the point where you've got open source AI that can do,"
+    },
+    {
+        "start": 707.36,
+        "end": 712.36,
+        "text": " that will start to approach human level intelligence, or perhaps exceed it."
+    },
+    {
+        "start": 712.36,
+        "end": 714.36,
+        "text": " I don't know quite what to do about it."
+    },
+    {
+        "start": 714.36,
+        "end": 717.36,
+        "text": " I think in somewhat inevitable, there'll be some amount of open source."
+    },
+    {
+        "start": 717.36,
+        "end": 723.36,
+        "text": " And I guess I would have a slight bias towards open source, because at least you can see what's going on."
+    },
+    {
+        "start": 723.36,
+        "end": 724.36,
+        "text": " There was a closed source."
+    },
+    {
+        "start": 724.36,
+        "end": 726.36,
+        "text": " You don't know what's going on."
+    },
+    {
+        "start": 726.36,
+        "end": 730.36,
+        "text": " It should be said with AI that even if it's open source, do you actually know what's going on?"
+    },
+    {
+        "start": 730.36,
+        "end": 741.36,
+        "text": " Because if you've got a gigantic data file and sort of billions of data points or weights and parameters,"
+    },
+    {
+        "start": 741.36,
+        "end": 744.36,
+        "text": " you can't just read it and see what it's going to do."
+    },
+    {
+        "start": 744.36,
+        "end": 748.36,
+        "text": " It's a gigantic file of inscrutable numbers."
+    },
+    {
+        "start": 748.36,
+        "end": 750.36,
+        "text": " You can test it when you run it."
+    },
+    {
+        "start": 750.36,
+        "end": 753.36,
+        "text": " You can run a bunch of tests to see what it's going to do."
+    },
+    {
+        "start": 753.36,
+        "end": 759.36,
+        "text": " But it's probabilistic as opposed to deterministic."
+    },
+    {
+        "start": 759.36,
+        "end": 766.36,
+        "text": " It's not like traditional programming where you've got discreet logic and the outcome is very predictable."
+    },
+    {
+        "start": 766.36,
+        "end": 771.36,
+        "text": " And you can read each line and see what each line's going to do."
+    },
+    {
+        "start": 771.36,
+        "end": 776.36,
+        "text": " And neural net is just a whole bunch of probabilities."
+    },
+    {
+        "start": 776.36,
+        "end": 779.36,
+        "text": " It sort of ends up being a giant comma separated value file."
+    },
+    {
+        "start": 779.36,
+        "end": 782.36,
+        "text": " It's like our digital guide is a CSP file, really?"
+    },
+    {
+        "start": 782.36,
+        "end": 785.36,
+        "text": " Okay."
+    },
+    {
+        "start": 785.36,
+        "end": 788.36,
+        "text": " That is kind of what it is."
+    },
+    {
+        "start": 788.36,
+        "end": 795.36,
+        "text": " Now, at that point, you've just made it's one that we have been talking about a lot because, again,"
+    },
+    {
+        "start": 795.36,
+        "end": 799.36,
+        "text": " the conversation with the people developing their technology make the point that you've just made,"
+    },
+    {
+        "start": 799.36,
+        "end": 804.36,
+        "text": " it is not like normal software where there's predictability about inputs improving,"
+    },
+    {
+        "start": 804.36,
+        "end": 807.36,
+        "text": " leading to this particular output improving."
+    },
+    {
+        "start": 807.36,
+        "end": 812.36,
+        "text": " And as the models iterate and improve, we don't quite know what's going to come out the other end."
+    },
+    {
+        "start": 812.36,
+        "end": 824.36,
+        "text": " The demos would agree with that, which is why I think there is this bias for that we need to get in there while the training runs are being done before the models are released to understand what is this new iteration brought about in terms of capability,"
+    },
+    {
+        "start": 824.36,
+        "end": 827.36,
+        "text": " which it sounds like you would really agree with."
+    },
+    {
+        "start": 827.36,
+        "end": 829.36,
+        "text": " I was going to shift gears a little bit."
+    },
+    {
+        "start": 829.36,
+        "end": 839.36,
+        "text": " You know, you've talked a lot about human consciousness, human agency, which actually might strike people as a strange given that you are known for being such a brilliant innovator in technologists,"
+    },
+    {
+        "start": 839.36,
+        "end": 847.36,
+        "text": " but it's quite heartfelt when I hear you talk about it and the importance of maintaining that agency in technology and preserving human consciousness."
+    },
+    {
+        "start": 847.36,
+        "end": 853.36,
+        "text": " Now, it kind of links the thing I was going to ask is when I do interviews or talk to people out and about in this job of that AI,"
+    },
+    {
+        "start": 853.36,
+        "end": 858.36,
+        "text": " the thing that comes up most actually is it's probably not so much the stuff we've been talking about, but jobs."
+    },
+    {
+        "start": 858.36,
+        "end": 865.36,
+        "text": " It's what does AI mean for my job? Is it going to mean that I don't have a job or my kids are not going to have a job?"
+    },
+    {
+        "start": 865.36,
+        "end": 875.36,
+        "text": " Now, my answer as a policymaker is a leader is actually AI is already creating jobs and you can see that in the companies that are starting."
+    },
+    {
+        "start": 875.36,
+        "end": 882.36,
+        "text": " Also, the way it's being used is a little bit more as a co-pilot, necessarily versus replacing the person."
+    },
+    {
+        "start": 882.36,
+        "end": 887.36,
+        "text": " There's still human agency, but it's helping you do your job better, which is a good thing."
+    },
+    {
+        "start": 887.36,
+        "end": 893.36,
+        "text": " And as we've seen with technological revolutions in the past, clearly there's change in the labor market, in the amount of jobs."
+    },
+    {
+        "start": 893.36,
+        "end": 902.36,
+        "text": " Now, it's quoting an MIT study today that they did a couple of years ago, something like 60% of the jobs at that moment didn't exist 40 years ago, so hard predict."
+    },
+    {
+        "start": 902.36,
+        "end": 914.36,
+        "text": " And my job is to create an incredible education system, whether it's at school, whether it's retraining people at any point in their career, because ultimately if we've got a skilled population, they ought to keep up with the pace of change and have a good life."
+    },
+    {
+        "start": 914.36,
+        "end": 927.36,
+        "text": " But it's still a concern. What would your observation be on AI and the impact on labor markets and people's jobs and how they should feel about that as they think about this?"
+    },
+    {
+        "start": 927.36,
+        "end": 934.36,
+        "text": " Well, I think we are seeing the most disruptive force in history here."
+    },
+    {
+        "start": 934.36,
+        "end": 941.36,
+        "text": " We have for the first time, we will have the first time something that is smarter than the smartest human."
+    },
+    {
+        "start": 941.36,
+        "end": 950.36,
+        "text": " And that, I mean, it's hard to say exactly what that moment is, but there will come a point where no job is needed."
+    },
+    {
+        "start": 950.36,
+        "end": 957.36,
+        "text": " So, you have a job if you want to have a job, sort of personal satisfaction, but the AI will be able to do everything."
+    },
+    {
+        "start": 957.36,
+        "end": 962.36,
+        "text": " So, I don't know if that makes people comfortable on comfortable."
+    },
+    {
+        "start": 962.36,
+        "end": 978.36,
+        "text": " That's why I say, if you wish for a magic genie that gives you any wishes you want, and there's no limit, you don't have those three limits, three wishes limit, not since you have many wishes you want."
+    },
+    {
+        "start": 978.36,
+        "end": 990.36,
+        "text": " So, it's both good and bad. One of the challenges in the future will be how do we find meaning in life if you have a magic genie that can do everything you want?"
+    },
+    {
+        "start": 990.36,
+        "end": 1004.36,
+        "text": " I do think we, it's hard, you know, when this new technology tends to have, usually follow an S-Cov, in this case we're going to be on the exponential portion of the S-Cov for a long time."
+    },
+    {
+        "start": 1004.36,
+        "end": 1012.36,
+        "text": " So, you're able to ask for anything, and we want to have universal basic income, we'll have universal high income."
+    },
+    {
+        "start": 1012.36,
+        "end": 1021.36,
+        "text": " So, in some sense it will be somewhat of a leveler, or an equalizer, because really I think everyone will have access to this magic genie."
+    },
+    {
+        "start": 1021.36,
+        "end": 1029.3600000000001,
+        "text": " And you're able to ask any questions, it'll be certainly good for education, it'll be the best tutor, you could end the most patient tutor."
+    },
+    {
+        "start": 1029.36,
+        "end": 1039.36,
+        "text": " So, they're all there. And there will be no shortage of goods and services, will be an age of abundance."
+    },
+    {
+        "start": 1039.36,
+        "end": 1052.36,
+        "text": " I think if I'd recommend people read in banks, the banks, culture books are probably the best in visioning, in fact not probably, they're definitely by far the best in visioning of an AI future."
+    },
+    {
+        "start": 1052.36,
+        "end": 1064.36,
+        "text": " There's nothing even close. So, I'd recommend, really recommend banks, a very big fan. All these books are good. They're which one, all of them."
+    },
+    {
+        "start": 1064.36,
+        "end": 1078.36,
+        "text": " So, that'll give you a sense of what is a, I guess, a fairly utopian or protopian future with AI."
+    },
+    {
+        "start": 1079.36,
+        "end": 1087.36,
+        "text": " Which is good from a, as you said, it's a universal high income which is a nice phrase, and it's good from a materialistic sense, an even abundance."
+    },
+    {
+        "start": 1087.36,
+        "end": 1092.36,
+        "text": " Actually, it can then leads to the question that you pose, right? I'm somebody who believes, you know, work gives you meaning."
+    },
+    {
+        "start": 1092.36,
+        "end": 1098.36,
+        "text": " Right. Right. A lot about that, as you know, I think work is a good thing, it gives people purpose in their lives."
+    },
+    {
+        "start": 1098.36,
+        "end": 1103.36,
+        "text": " And if you then remove a large chunk of that, you know, what does that mean? And where do you get that?"
+    },
+    {
+        "start": 1103.36,
+        "end": 1108.36,
+        "text": " Where do you get that drive, that motivation, that purpose, I mean, you were talking about it, you work a lot of hours."
+    },
+    {
+        "start": 1108.36,
+        "end": 1115.36,
+        "text": " As I was mentioning, when we were talking earlier, I have to somewhat engage in deliberate suspension of disbelief."
+    },
+    {
+        "start": 1115.36,
+        "end": 1122.36,
+        "text": " Because I'm putting so much blood sweat and tears into a work project and burning the three AM oil."
+    },
+    {
+        "start": 1122.36,
+        "end": 1128.36,
+        "text": " Then, I'm like, why am I doing this? I just wait for the AI to do it."
+    },
+    {
+        "start": 1128.36,
+        "end": 1135.36,
+        "text": " I'm just lashing myself in a reason. I'm just like, be glad for punishment, is that?"
+    },
+    {
+        "start": 1135.36,
+        "end": 1140.36,
+        "text": " So we call, call, call, call, damn us and tell them to hurry up and then you can have a holiday, right?"
+    },
+    {
+        "start": 1140.36,
+        "end": 1152.36,
+        "text": " It's a plan. Yeah. No, it's, I look as a tricky, it's a tricky thing because I think, you know, part of our job is to make sure that we can navigate to that very, I think, largely positive place at your disposal."
+    },
+    {
+        "start": 1152.36,
+        "end": 1159.36,
+        "text": " And it is, I think, largely positive, you know. And it helps people through it between now and then because these things bring a lot of change in the labor market, as we've seen."
+    },
+    {
+        "start": 1159.36,
+        "end": 1168.36,
+        "text": " Yeah. I think it's probably is generally a good thing because, you know, there are a lot of jobs that are uncomfortable or dangerous or which sort of tedious."
+    },
+    {
+        "start": 1168.36,
+        "end": 1172.36,
+        "text": " And the computer will have no problem doing that. They're happy to do that all day long."
+    },
+    {
+        "start": 1172.36,
+        "end": 1177.36,
+        "text": " So, you know, it's fun to cook food, but it's not that fun to wash dishes."
+    },
+    {
+        "start": 1177.36,
+        "end": 1198.36,
+        "text": " But the computer is perfectly happy to wash dishes. I guess there is, you know, we still have sports like where humans compete and like the Olympics and obviously a machine can go faster than any human, but we still have, we still humans race against each other."
+    },
+    {
+        "start": 1198.36,
+        "end": 1207.36,
+        "text": " And have, you know, have these sports competitions against each other where even though the machines are better, I guess, the computer can be the best human at something."
+    },
+    {
+        "start": 1207.36,
+        "end": 1214.36,
+        "text": " And people do find a performance. And so, I guess that's perhaps a good example of how even when machines are faster than us stronger than us."
+    },
+    {
+        "start": 1214.36,
+        "end": 1219.36,
+        "text": " We still find a way. We saw, we saw, we saw, enjoy competing against other humans, at least the humans the best human."
+    },
+    {
+        "start": 1219.36,
+        "end": 1224.36,
+        "text": " But it's a good analogy. And we've been talking a lot about managing the risks."
+    },
+    {
+        "start": 1224.36,
+        "end": 1234.36,
+        "text": " Just before we move on, finish on AI, it's just talking a little bit about the opportunities. You know, you're engaged in lots of different companies, you're developing an obvious one."
+    },
+    {
+        "start": 1234.36,
+        "end": 1242.36,
+        "text": " Which is doing some exciting stuff. You touch on the thing that I'm probably most excited about, which is in education."
+    },
+    {
+        "start": 1242.36,
+        "end": 1248.36,
+        "text": " And I think many people will have seen South Khan's video from earlier this year, as Ted talked about."
+    },
+    {
+        "start": 1248.36,
+        "end": 1250.36,
+        "text": " You talked about it. It's that personal tutor."
+    },
+    {
+        "start": 1250.36,
+        "end": 1252.36,
+        "text": " An amazing personal tutor."
+    },
+    {
+        "start": 1252.36,
+        "end": 1258.36,
+        "text": " An amazing personal tutor. And we know the difference in learning having that personal tutor is incredible compared to class from learning."
+    },
+    {
+        "start": 1258.36,
+        "end": 1263.36,
+        "text": " If you can have every child have a personal tutor specifically for them that then just evolves with them over time."
+    },
+    {
+        "start": 1263.36,
+        "end": 1269.36,
+        "text": " It could be extraordinary. And so that, you know, for me, I look at, I think, gosh, that is within reach at this point."
+    },
+    {
+        "start": 1269.36,
+        "end": 1272.36,
+        "text": " And that's one of the benefits I'm most excited about."
+    },
+    {
+        "start": 1272.36,
+        "end": 1279.36,
+        "text": " When you look at the landscape of things that you see as possible, what is it that you are particularly excited about?"
+    },
+    {
+        "start": 1279.36,
+        "end": 1283.36,
+        "text": " I think certainly AI tutors are going to be amazing."
+    },
+    {
+        "start": 1283.36,
+        "end": 1292.36,
+        "text": " Perhaps already are. I think there's also perhaps companionship, which may seem odd because how can the computer really be your friend?"
+    },
+    {
+        "start": 1292.36,
+        "end": 1302.36,
+        "text": " But if you have an AI that has memory, you know, and remembers all of your interactions and has read everything, you're going to say, like, give it permission to read everything you've ever done."
+    },
+    {
+        "start": 1302.36,
+        "end": 1306.36,
+        "text": " So really, we'll know you better than anyone, perhaps even yourself."
+    },
+    {
+        "start": 1306.36,
+        "end": 1311.36,
+        "text": " And where you can talk to it every day and those conversations bother point each other."
+    },
+    {
+        "start": 1311.36,
+        "end": 1314.36,
+        "text": " You will actually have a great friend."
+    },
+    {
+        "start": 1314.36,
+        "end": 1319.36,
+        "text": " As long as that friend can stay, your friend did not get turned off or something."
+    },
+    {
+        "start": 1319.36,
+        "end": 1322.36,
+        "text": " I'm not sure if you're going to turn off my friend."
+    },
+    {
+        "start": 1322.36,
+        "end": 1326.36,
+        "text": " But I think that will actually be a real thing."
+    },
+    {
+        "start": 1326.36,
+        "end": 1334.36,
+        "text": " And one of my sons has some learning disabilities and has trouble making friends, actually."
+    },
+    {
+        "start": 1334.36,
+        "end": 1339.36,
+        "text": " And I was like, well, you know, he, me and my friend would actually be a great friend."
+    },
+    {
+        "start": 1339.36,
+        "end": 1344.36,
+        "text": " That was a surprising answer. That's actually worth reflecting on."
+    },
+    {
+        "start": 1344.36,
+        "end": 1354.36,
+        "text": " So it's really interesting. But we're already seeing it actually as we deliver, you know, psychotherapy anyway, now doing farm all of the bite digitally and by telephone to people."
+    },
+    {
+        "start": 1354.36,
+        "end": 1361.36,
+        "text": " And it's making a huge difference. And you can see a world in which actually, you know, AI can provide that social benefit to people."
+    },
+    {
+        "start": 1361.36,
+        "end": 1366.36,
+        "text": " Just a quick question on on X, and then we should open it up to everybody."
+    },
+    {
+        "start": 1366.36,
+        "end": 1370.36,
+        "text": " You made a change in one of the many changes."
+    },
+    {
+        "start": 1370.36,
+        "end": 1373.36,
+        "text": " One of the, one of the, one of the changes. You love that letter."
+    },
+    {
+        "start": 1373.36,
+        "end": 1377.36,
+        "text": " Yeah. I've got a real thing about it. You really do."
+    },
+    {
+        "start": 1377.36,
+        "end": 1387.36,
+        "text": " You really do. One of the changes, which it kind of, it goes into the space that, you know, we have to operate in and this, this balance between free speech and moderation."
+    },
+    {
+        "start": 1387.36,
+        "end": 1391.36,
+        "text": " You know, we grapple with as politicians. You are grappling with your inversion of that."
+    },
+    {
+        "start": 1391.36,
+        "end": 1399.36,
+        "text": " And you, you moved away from a kind of manual human way of doing it, the moderation to the community notes."
+    },
+    {
+        "start": 1399.36,
+        "end": 1402.36,
+        "text": " And, yeah. And I think that's, you know, it was an interesting change, right?"
+    },
+    {
+        "start": 1402.36,
+        "end": 1407.36,
+        "text": " It's not what everyone else has done. It would be good, you know, what's, what was the reasoning behind that?"
+    },
+    {
+        "start": 1407.36,
+        "end": 1410.36,
+        "text": " Why do you think that is a better way to do that?"
+    },
+    {
+        "start": 1410.36,
+        "end": 1419.36,
+        "text": " Yeah. Part of the problem is if you, if you empower people as sensors, then we'll have, that there's going to be some amount of bias they have."
+    },
+    {
+        "start": 1419.36,
+        "end": 1423.36,
+        "text": " And then whoever points the sensors is effectively in control of information."
+    },
+    {
+        "start": 1424.36,
+        "end": 1429.36,
+        "text": " So then the idea behind community notes is, well, how do we have a consensus driven?"
+    },
+    {
+        "start": 1429.36,
+        "end": 1435.36,
+        "text": " I mean, so it's not really censoring it, but consensus driven approach to truth."
+    },
+    {
+        "start": 1435.36,
+        "end": 1440.36,
+        "text": " How do we, how do we make things the least amount on true?"
+    },
+    {
+        "start": 1440.36,
+        "end": 1447.36,
+        "text": " You can say like, what, you can't pass, pass, get to pure truth, but you can aspire to be more truthful."
+    },
+    {
+        "start": 1448.36,
+        "end": 1452.36,
+        "text": " So the thing about community notes is it doesn't actually delete anything."
+    },
+    {
+        "start": 1452.36,
+        "end": 1456.36,
+        "text": " It simply adds context. Now that context could be this thing is untrue for the following reasons."
+    },
+    {
+        "start": 1456.36,
+        "end": 1463.36,
+        "text": " But importantly with community notes, everything is open source, actually."
+    },
+    {
+        "start": 1463.36,
+        "end": 1471.36,
+        "text": " So you can see the software, every line of the software, you can see all of the data that went into a community note."
+    },
+    {
+        "start": 1471.36,
+        "end": 1474.36,
+        "text": " And you can independently create that community note."
+    },
+    {
+        "start": 1475.36,
+        "end": 1482.36,
+        "text": " So if you see manipulation of the data, you can actually highlight that and say, well, there's this, there has to be some gaming of the system."
+    },
+    {
+        "start": 1482.36,
+        "end": 1485.36,
+        "text": " And you can suggest improvements."
+    },
+    {
+        "start": 1485.36,
+        "end": 1494.36,
+        "text": " So it's, it's maximum transparency, which is, I mean, combined with the kind of wisdom of the crowds and transparency to get to a better answer is you."
+    },
+    {
+        "start": 1494.36,
+        "end": 1502.36,
+        "text": " And really one of the key elements of community notes is that in order for a note to be shown, people who have historically disagreed must agree."
+    },
+    {
+        "start": 1503.36,
+        "end": 1514.36,
+        "text": " And there is a bit of AI usage here. So there's populated parameter space around each contributor to community notes and then parameter space."
+    },
+    {
+        "start": 1514.36,
+        "end": 1521.36,
+        "text": " So everyone's got basically these, these vectors associated with them, which, so it's not as simple as as right or left."
+    },
+    {
+        "start": 1521.36,
+        "end": 1528.36,
+        "text": " It's saying it's more, it's several hundred vectors that, because things are more complicated than something right or left."
+    },
+    {
+        "start": 1529.36,
+        "end": 1538.36,
+        "text": " And, and then we'll do sort of inverse correlation, say like, okay, these, these people generally disagree, but they agree about this note."
+    },
+    {
+        "start": 1538.36,
+        "end": 1542.36,
+        "text": " Okay, so then that, so then that, that gives the note credibility."
+    },
+    {
+        "start": 1542.36,
+        "end": 1543.36,
+        "text": " Okay."
+    },
+    {
+        "start": 1543.36,
+        "end": 1544.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 1544.36,
+        "end": 1545.36,
+        "text": " That's, that's the, that's the core of it."
+    },
+    {
+        "start": 1545.36,
+        "end": 1546.36,
+        "text": " And it's working quite well."
+    },
+    {
+        "start": 1546.36,
+        "end": 1547.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 1547.36,
+        "end": 1553.36,
+        "text": " I get to see a note actually be, be present for more than a few hours that, that is incorrect."
+    },
+    {
+        "start": 1553.36,
+        "end": 1555.36,
+        "text": " So the batting average is extremely good."
+    },
+    {
+        "start": 1555.36,
+        "end": 1560.36,
+        "text": " And, and when I ask people, say, oh, they're worried about community notes, sort of being disinformation like send me one."
+    },
+    {
+        "start": 1560.36,
+        "end": 1562.36,
+        "text": " And then they can't."
+    },
+    {
+        "start": 1562.36,
+        "end": 1565.36,
+        "text": " So, so I think it's quite good."
+    },
+    {
+        "start": 1565.36,
+        "end": 1575.36,
+        "text": " I mean, the general aspiration is, with the X platform is to inform and entertain the public and to be as accurate as possible and as truthful as possible."
+    },
+    {
+        "start": 1575.36,
+        "end": 1580.36,
+        "text": " Even if someone doesn't like the truth, you know, this is not people that always like the truth."
+    },
+    {
+        "start": 1580.36,
+        "end": 1581.36,
+        "text": " No."
+    },
+    {
+        "start": 1581.36,
+        "end": 1583.36,
+        "text": " It's not always."
+    },
+    {
+        "start": 1583.36,
+        "end": 1584.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 1584.36,
+        "end": 1586.36,
+        "text": " But that's, that's, that's the aspiration."
+    },
+    {
+        "start": 1586.36,
+        "end": 1600.36,
+        "text": " And I think if, if we are, if we stay true to the truth, then I think we'll find that people use, use the system to learn what is going on and to, to let it, I think actually truth pays."
+    },
+    {
+        "start": 1600.36,
+        "end": 1610.36,
+        "text": " So, I think it will be worth, I mean, assuming you don't want to engage in self-delusion, then, then, I think it's, it's the smart move."
+    },
+    {
+        "start": 1610.36,
+        "end": 1611.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 1611.36,
+        "end": 1612.36,
+        "text": " Excellent. Very helpful."
+    },
+    {
+        "start": 1612.36,
+        "end": 1615.36,
+        "text": " Right. Let's open it up to all our guests here."
+    },
+    {
+        "start": 1615.36,
+        "end": 1623.36,
+        "text": " We've got some microphones. They'll come, put your hands up. They'll come and find you. We've got, yes. Go for it. Thank you."
+    },
+    {
+        "start": 1623.36,
+        "end": 1626.36,
+        "text": " Good evening. Alice Benting from Entrepreneur First."
+    },
+    {
+        "start": 1626.36,
+        "end": 1630.36,
+        "text": " Thank you for a fascinating conversation. I suppose a question for each of you."
+    },
+    {
+        "start": 1630.36,
+        "end": 1635.36,
+        "text": " And Prime Minister, the UK has some of the best universities in the world. We have the talent."
+    },
+    {
+        "start": 1635.36,
+        "end": 1641.36,
+        "text": " What will it take for the UK to be a real breeding ground for unicorn companies?"
+    },
+    {
+        "start": 1641.36,
+        "end": 1648.36,
+        "text": " And Elon, being a founder in the UK is still a non-obvious career choice for the most exceptional, technical talent."
+    },
+    {
+        "start": 1648.36,
+        "end": 1652.36,
+        "text": " What are the cultural elements that we need to put into place to change this?"
+    },
+    {
+        "start": 1652.36,
+        "end": 1653.36,
+        "text": " Thank you, Bo."
+    },
+    {
+        "start": 1653.36,
+        "end": 1655.36,
+        "text": " You want to go first? Go for it."
+    },
+    {
+        "start": 1655.36,
+        "end": 1665.36,
+        "text": " Sure. Well, you're right that there are cultural elements where you, you know, the culture should celebrate creating new companies."
+    },
+    {
+        "start": 1665.36,
+        "end": 1678.36,
+        "text": " And there should be a bias towards supporting small companies, because the other ones that need nurturing, the larger companies really don't need nurturing."
+    },
+    {
+        "start": 1678.36,
+        "end": 1684.36,
+        "text": " So, you know, just think of it sort of like a god. And if it's a little sprout, it needs nurturing."
+    },
+    {
+        "start": 1684.36,
+        "end": 1687.36,
+        "text": " If it's a mighty oak, it doesn't need quite as much."
+    },
+    {
+        "start": 1687.36,
+        "end": 1692.36,
+        "text": " So I think that is a mindset change that is important."
+    },
+    {
+        "start": 1692.36,
+        "end": 1702.36,
+        "text": " But I should mention that London is, you know, London and San Francisco, or the Bay Area, are really the two senses for AI."
+    },
+    {
+        "start": 1702.36,
+        "end": 1706.36,
+        "text": " So London is actually doing very well on that front."
+    },
+    {
+        "start": 1706.36,
+        "end": 1714.36,
+        "text": " I say the two leading locations on a, you know, San Francisco is probably head of London, but London is really very strong."
+    },
+    {
+        "start": 1714.36,
+        "end": 1718.36,
+        "text": " But London area, great London, home county, I guess."
+    },
+    {
+        "start": 1718.36,
+        "end": 1722.36,
+        "text": " Keep going, keep going."
+    },
+    {
+        "start": 1722.36,
+        "end": 1728.36,
+        "text": " So, I'm just saying it objectively, this is the case."
+    },
+    {
+        "start": 1728.36,
+        "end": 1739.36,
+        "text": " But you do need that, you need the infrastructure. You need landlords who are willing to rent to new companies, you need law firms and accountants that are willing to support new companies."
+    },
+    {
+        "start": 1739.36,
+        "end": 1742.36,
+        "text": " And it's generally a mind, it is a mindset change."
+    },
+    {
+        "start": 1742.36,
+        "end": 1749.36,
+        "text": " And I think some of that is happening, but I think really it's just culturally people need to decide this is a good thing."
+    },
+    {
+        "start": 1749.36,
+        "end": 1754.36,
+        "text": " Well, thanks for what you said about the UK. It's something that we work hard on."
+    },
+    {
+        "start": 1754.36,
+        "end": 1760.36,
+        "text": " Lots of people in the room are part of what makes this a fabulous place for innovative companies, including Alice."
+    },
+    {
+        "start": 1760.36,
+        "end": 1769.36,
+        "text": " So, Alice, why I'd say is, you know, my job is to get all the nuts and bolts right, make sure that all of you are starting companies can raise a capital that you need."
+    },
+    {
+        "start": 1769.36,
+        "end": 1779.36,
+        "text": " Everything from, you know, your seed funding with our incredible, you know, EIS tax reliefs all the way through to, you know, your late stage rounds and we need reform of our pension funds."
+    },
+    {
+        "start": 1779.36,
+        "end": 1787.36,
+        "text": " And the chancellor has got a bunch of incredible reforms that unlock capital from all the people who have it and deploy it into growth equity, right?"
+    },
+    {
+        "start": 1787.36,
+        "end": 1791.36,
+        "text": " That is a work in progress, we're not there yet, but I think we're making good progress."
+    },
+    {
+        "start": 1791.36,
+        "end": 1801.36,
+        "text": " We need talent, we need people, you know, it's that means an education system that prioritizes the things that matter and you've seen my reforms I go on about more maths, more maths, more maths."
+    },
+    {
+        "start": 1801.36,
+        "end": 1805.36,
+        "text": " But I think that is important, but also attracting the best and the brightest here."
+    },
+    {
+        "start": 1805.36,
+        "end": 1814.36,
+        "text": " If you look at our fastest growing companies in this country, and I think it's probably the same in the US, over half of them have a non-British founder."
+    },
+    {
+        "start": 1814.36,
+        "end": 1820.36,
+        "text": " Right, and that tells you we've got to be a place that is open to the world's best and brightest entrepreneurial talent."
+    },
+    {
+        "start": 1820.36,
+        "end": 1825.36,
+        "text": " So the visa regime that we've put in place, I think does that, makes it easy for those people to come here."
+    },
+    {
+        "start": 1825.36,
+        "end": 1829.36,
+        "text": " And then actually it's the thing that we've spent the beginning of the session talking about the regulation, right?"
+    },
+    {
+        "start": 1829.36,
+        "end": 1841.36,
+        "text": " Making sure that we've got a regulatory system that's pro-innovation, that yeah, of course we always need guardrails on the things that will worry us, but we've got to create a space for people to innovate and do different things."
+    },
+    {
+        "start": 1842.36,
+        "end": 1847.36,
+        "text": " You know, those are all my jobs. The thing that is tougher is the thing that Elon talked about, which is culture."
+    },
+    {
+        "start": 1847.36,
+        "end": 1861.36,
+        "text": " Right, it's how do you transpose that culture from places like Silicon Valley across the world, where people are unafraid to give up the security of a regular paycheck to go and start something and be comfortable with failure."
+    },
+    {
+        "start": 1861.36,
+        "end": 1865.36,
+        "text": " You talk about that a lot. I think you talk about it more in when you're playing games, right?"
+    },
+    {
+        "start": 1865.36,
+        "end": 1875.36,
+        "text": " You've got to be comfortable failing and knowing that that's just part of the process. And that is a tricky cultural thing to do overnight, but it's an important part of creating that kind of environment."
+    },
+    {
+        "start": 1875.36,
+        "end": 1880.36,
+        "text": " Yeah, if you don't succeed with your first startup, it shouldn't be a catastrophic career ending."
+    },
+    {
+        "start": 1880.36,
+        "end": 1881.36,
+        "text": " Exactly."
+    },
+    {
+        "start": 1881.36,
+        "end": 1888.36,
+        "text": " It should be, I think you gave it a good shot and now try again."
+    },
+    {
+        "start": 1888.36,
+        "end": 1889.36,
+        "text": " Exactly."
+    },
+    {
+        "start": 1889.36,
+        "end": 1897.36,
+        "text": " One thing I was going to mention is that obviously creating a company is a high risk, high reward situation."
+    },
+    {
+        "start": 1897.36,
+        "end": 1905.36,
+        "text": " I don't know quite what this, how it works in the UK, I think it's probably better than continental Europe."
+    },
+    {
+        "start": 1905.36,
+        "end": 1910.36,
+        "text": " But stock options are very difficult in most parts of Europe."
+    },
+    {
+        "start": 1910.36,
+        "end": 1918.36,
+        "text": " Not sure how it is in the UK, but if somebody is going to risk their life savings and the vast majority of startups fail."
+    },
+    {
+        "start": 1918.36,
+        "end": 1930.36,
+        "text": " So, I mean, you hear about the startups that succeed, but most startups consist of a massive amount of work followed by failure."
+    },
+    {
+        "start": 1930.36,
+        "end": 1933.36,
+        "text": " That's actually most companies."
+    },
+    {
+        "start": 1933.36,
+        "end": 1939.36,
+        "text": " And so the higher reward part does need to be there for it to make it a sense."
+    },
+    {
+        "start": 1939.36,
+        "end": 1944.36,
+        "text": " I think that was a very soft pitch for a tax policy."
+    },
+    {
+        "start": 1944.36,
+        "end": 1947.36,
+        "text": " But actually I can tell you, so like AI agree."
+    },
+    {
+        "start": 1947.36,
+        "end": 1956.36,
+        "text": " So we have, I think, relative to certainly European countries, but certainly the US, definitely California, a much lower rate of capital gains tax."
+    },
+    {
+        "start": 1956.36,
+        "end": 1964.36,
+        "text": " So for those people who are risking and growing something, we think the reward should be there at the end, so 20% capital gains tax rate."
+    },
+    {
+        "start": 1964.36,
+        "end": 1969.36,
+        "text": " And on stock options, I don't know if we've got anyone from index ventures in the room."
+    },
+    {
+        "start": 1969.36,
+        "end": 1971.36,
+        "text": " So index one of our leading VC funds here."
+    },
+    {
+        "start": 1971.36,
+        "end": 1979.36,
+        "text": " They do a regular report looking at most countries tax treatment of stock options."
+    },
+    {
+        "start": 1979.36,
+        "end": 1985.36,
+        "text": " And when I was Chancellor of Treasury Secretary of equivalent, we were I think down."
+    },
+    {
+        "start": 1985.36,
+        "end": 1990.36,
+        "text": " We were pretty good, but we were a fourth or fifth and I said we need to, for exactly the reason that you mentioned,"
+    },
+    {
+        "start": 1990.36,
+        "end": 1992.36,
+        "text": " this has got to be the best place renovated."
+    },
+    {
+        "start": 1992.36,
+        "end": 1993.36,
+        "text": " We need to move that up."
+    },
+    {
+        "start": 1993.36,
+        "end": 2001.36,
+        "text": " And I think in the last iteration of that report, we had, because of the changes that Jeremy and I have made, we have moved up to I think second from them."
+    },
+    {
+        "start": 2001.36,
+        "end": 2006.36,
+        "text": " So I think that should give you and everyone else some comfort that we recognize that's important."
+    },
+    {
+        "start": 2006.36,
+        "end": 2010.36,
+        "text": " Because when people work hard and risk things, they should be able to enjoy the rewards of that."
+    },
+    {
+        "start": 2010.36,
+        "end": 2011.36,
+        "text": " I risk I reward."
+    },
+    {
+        "start": 2011.36,
+        "end": 2015.36,
+        "text": " And I think we have a, we very much have a tax system that supports that."
+    },
+    {
+        "start": 2015.36,
+        "end": 2017.36,
+        "text": " And those are the values that I believe in."
+    },
+    {
+        "start": 2017.36,
+        "end": 2019.36,
+        "text": " And I think most of us in this room probably do as well."
+    },
+    {
+        "start": 2019.36,
+        "end": 2021.36,
+        "text": " Right. Next question."
+    },
+    {
+        "start": 2021.36,
+        "end": 2023.36,
+        "text": " I've got seven front of the end and I'll come over here."
+    },
+    {
+        "start": 2023.36,
+        "end": 2024.36,
+        "text": " Go on. Go on."
+    },
+    {
+        "start": 2024.36,
+        "end": 2025.36,
+        "text": " So."
+    },
+    {
+        "start": 2025.36,
+        "end": 2028.36,
+        "text": " Thanks very much."
+    },
+    {
+        "start": 2028.36,
+        "end": 2033.36,
+        "text": " We've talked about some really big ideas, global changing ideas."
+    },
+    {
+        "start": 2033.36,
+        "end": 2038.36,
+        "text": " I'm really interested, particularly in the context of creation of science and technology, superhubs and so on."
+    },
+    {
+        "start": 2038.36,
+        "end": 2047.36,
+        "text": " How does that map onto the everyday lives of people living in, say, Austin, Texas, to choose one around you and more in my case, not to East Midlands?"
+    },
+    {
+        "start": 2047.36,
+        "end": 2052.3599999999997,
+        "text": " What is, how do you see that evolving for people, you know, everyday?"
+    },
+    {
+        "start": 2052.3599999999997,
+        "end": 2055.3599999999997,
+        "text": " Be sort of everyday effects of AI."
+    },
+    {
+        "start": 2055.3599999999997,
+        "end": 2059.3599999999997,
+        "text": " For context, Elon."
+    },
+    {
+        "start": 2059.3599999999997,
+        "end": 2064.3599999999997,
+        "text": " So Seb, Seb runs our equivalent of CVS, right, or Wolverine."
+    },
+    {
+        "start": 2064.3599999999997,
+        "end": 2071.3599999999997,
+        "text": " So, you know, when, as I visited, right, so he's got many of the people coming in his shops every day and it's making sure how do we make this relevant, I think Seb is your question."
+    },
+    {
+        "start": 2071.3599999999997,
+        "end": 2073.3599999999997,
+        "text": " How is this relevant to that person?"
+    },
+    {
+        "start": 2074.36,
+        "end": 2079.36,
+        "text": " You know, maybe actually, let me go first on that because I think it's a fair point."
+    },
+    {
+        "start": 2079.36,
+        "end": 2087.36,
+        "text": " I was just going over the team a couple of things that we're doing because I was saying, how are we doing AI right now that it's making a difference to people's lives?"
+    },
+    {
+        "start": 2087.36,
+        "end": 2094.36,
+        "text": " And we have this thing called Gov.uk, which is, which is, when it happened several years ago, it was a pioneering thing."
+    },
+    {
+        "start": 2094.36,
+        "end": 2107.36,
+        "text": " All the government information brought together on one website, Gov.uk, so you need to get a driving license, passport, any interaction with government, it was centralized in a very easy, relatively easy to use way."
+    },
+    {
+        "start": 2107.36,
+        "end": 2111.36,
+        "text": " Better than most, yeah."
+    },
+    {
+        "start": 2111.36,
+        "end": 2115.36,
+        "text": " So we are about to deploy AI across that platform."
+    },
+    {
+        "start": 2115.36,
+        "end": 2120.36,
+        "text": " So that is something that I think, you know, several million people a day use, right?"
+    },
+    {
+        "start": 2120.36,
+        "end": 2126.36,
+        "text": " So a large chunk of the population is interacting with Gov.uk every single day to do all these day-to-day tasks, right?"
+    },
+    {
+        "start": 2126.36,
+        "end": 2128.36,
+        "text": " Every one of your customers is doing all those things."
+    },
+    {
+        "start": 2128.36,
+        "end": 2135.36,
+        "text": " And so we're about to deploy AI into that to make that whole process so much easier."
+    },
+    {
+        "start": 2135.36,
+        "end": 2141.36,
+        "text": " Because, you know, some people will be like, well, I'm currently here and I've lost my passport and my flights in five hours."
+    },
+    {
+        "start": 2141.36,
+        "end": 2145.36,
+        "text": " At the moment, that would require, you know, how many steps to figure out what you do."
+    },
+    {
+        "start": 2145.36,
+        "end": 2153.36,
+        "text": " You know, when we deploy the AI, it should be that you could just literally say that and boom, boom, boom, boom, boom, this is what we're going to do walking through it."
+    },
+    {
+        "start": 2153.36,
+        "end": 2156.36,
+        "text": " And that's going to benefit millions and millions of people every single day, right?"
+    },
+    {
+        "start": 2156.36,
+        "end": 2166.36,
+        "text": " Because that's a very practical way in my seat that I can start using this technology to help people in their day-to-day lives, not just healthcare discoveries and everything else that we're also doing."
+    },
+    {
+        "start": 2166.36,
+        "end": 2177.36,
+        "text": " But I thought that's quite a powerful demonstration of literally your day-to-day customer seeing actually their day-to-day life get a little bit easier because of something that, you know, Elon Demis and others in this room have helped create."
+    },
+    {
+        "start": 2177.36,
+        "end": 2179.36,
+        "text": " Yeah, exactly."
+    },
+    {
+        "start": 2179.36,
+        "end": 2193.36,
+        "text": " The most immediate thing is just being able to ask, like having a very smart friend that you can ask anything, you know, ask how to make something, how to solve any problem and it'll tell you."
+    },
+    {
+        "start": 2193.36,
+        "end": 2197.36,
+        "text": " So, and obviously companies are going to adopt this."
+    },
+    {
+        "start": 2197.36,
+        "end": 2205.36,
+        "text": " So, I think maybe we'll have much better customer service, I guess, essentially. That'll probably be the first thing you notice."
+    },
+    {
+        "start": 2205.36,
+        "end": 2210.36,
+        "text": " And then we talked about education."
+    },
+    {
+        "start": 2210.36,
+        "end": 2223.36,
+        "text": " So having a tutor, so if you're trying to understand the subject, like having a phenomenal tutor on any subject, that's really pretty much there already almost."
+    },
+    {
+        "start": 2223.36,
+        "end": 2236.36,
+        "text": " So, I think you need to, obviously, I need to stop hallucinating before, you know, it can't give you, I mean, we still have a little bit of a problem where it can give you an answer that's competently wrong with great grammar."
+    },
+    {
+        "start": 2236.36,
+        "end": 2242.36,
+        "text": " And, you know, it's in a bold points and everything in citations, it was not real."
+    },
+    {
+        "start": 2242.36,
+        "end": 2248.36,
+        "text": " So that's to be okay, we need to make sure it's not to giving you competently wrong tutor answers."
+    },
+    {
+        "start": 2248.36,
+        "end": 2253.36,
+        "text": " But that's going to happen pretty quickly where it is actually correct."
+    },
+    {
+        "start": 2253.36,
+        "end": 2254.36,
+        "text": " So, yeah."
+    },
+    {
+        "start": 2254.36,
+        "end": 2263.36,
+        "text": " Yeah, for any parent who was homeschooling during COVID and realizing what their kids needed to be helped with, that will come as an enormous relief, I think."
+    },
+    {
+        "start": 2263.36,
+        "end": 2267.36,
+        "text": " Yeah. Very, very good. Right. And we got, let's go questions over here."
+    },
+    {
+        "start": 2267.36,
+        "end": 2271.36,
+        "text": " We got, we want microphones or brand, are you there? Perfect."
+    },
+    {
+        "start": 2271.36,
+        "end": 2277.36,
+        "text": " Hi, the brand, Herman. So, you know, you've spoken eloquently about abundance and the age of abundance."
+    },
+    {
+        "start": 2277.36,
+        "end": 2282.36,
+        "text": " So, it feels obviously with AI, it's everything everywhere, everywhere, all at once."
+    },
+    {
+        "start": 2282.36,
+        "end": 2290.36,
+        "text": " But with, yeah. With robots. And to get the age of abundance, we'll need a lot of robots. I know you're working a lot on robots as well."
+    },
+    {
+        "start": 2290.36,
+        "end": 2298.36,
+        "text": " Are there sort of constraints that we should think of and our politicians should be thinking of that we might get one country might get heavily behind in robots."
+    },
+    {
+        "start": 2298.36,
+        "end": 2304.36,
+        "text": " So, they can do all of these things and enter the age of abundance and therefore be it a strategic disadvantage."
+    },
+    {
+        "start": 2304.36,
+        "end": 2311.36,
+        "text": " Well, really anything that can be actuated by a computer is effectively a robot."
+    },
+    {
+        "start": 2311.36,
+        "end": 2324.36,
+        "text": " So, you can think of, frankly, Tesla cars are robots on wheels. Anything that's connected to the internet is effectively an endpoint actuator for artificial intelligence."
+    },
+    {
+        "start": 2324.36,
+        "end": 2333.36,
+        "text": " So, you've got Boston Dynamics, obviously they've been making impressive robots for a while."
+    },
+    {
+        "start": 2333.36,
+        "end": 2348.36,
+        "text": " So, I think there are, at this point, mostly owned by Hyundai. So, I guess Hyundai is probably going to make robots that are humanoid and some rather interesting shapes that I wasn't just being like the one that looks like a, has wheels and looks sort of like a kangaroo on wheels."
+    },
+    {
+        "start": 2348.36,
+        "end": 2360.36,
+        "text": " I'm sure what that is. But, it looks a little divanted, frankly, but there's going to be also sorts of robots."
+    },
+    {
+        "start": 2360.36,
+        "end": 2367.36,
+        "text": " You have a company Dyson in the UK which I think is some pretty impressive things."
+    },
+    {
+        "start": 2367.36,
+        "end": 2383.36,
+        "text": " I think the UK will not be behind, actually, on that front. UK also has ARM, which is really the best, one of the best paths the best in chip design in the world."
+    },
+    {
+        "start": 2383.36,
+        "end": 2389.36,
+        "text": " Tesla uses a lot of ARM technology. It almost everyone does, actually."
+    },
+    {
+        "start": 2389.36,
+        "end": 2396.36,
+        "text": " So, I think UK is in a strong position. Germany obviously makes a lot of robots, national robots."
+    },
+    {
+        "start": 2396.36,
+        "end": 2407.36,
+        "text": " I think generally countries that make robots of any kind, even if they seem somewhat conventional, will be fine."
+    },
+    {
+        "start": 2407.36,
+        "end": 2419.36,
+        "text": " I do think there is a safety concern, especially with humanoid robots, because at least the car can't chase you into this building, not easily."
+    },
+    {
+        "start": 2419.36,
+        "end": 2427.36,
+        "text": " Or chase you off a tree, or you can sort of run up a flight of stairs and get away from Tesla."
+    },
+    {
+        "start": 2427.36,
+        "end": 2434.36,
+        "text": " I think there's a Stephen King movie about that. If your car gets possessed."
+    },
+    {
+        "start": 2434.36,
+        "end": 2439.36,
+        "text": " But if you have a humanoid robot, it can basically chase you anywhere."
+    },
+    {
+        "start": 2439.36,
+        "end": 2448.36,
+        "text": " I think we should have some kind of hard-wired local cutoff that you can't update from the internet."
+    },
+    {
+        "start": 2448.36,
+        "end": 2452.36,
+        "text": " So, anything that can be software updated from the internet, obviously, can be overwritten."
+    },
+    {
+        "start": 2452.36,
+        "end": 2461.36,
+        "text": " But if you have a local sort of off switch where you have say a keyword or something, and then that puts the robot into a safe state,"
+    },
+    {
+        "start": 2461.36,
+        "end": 2471.36,
+        "text": " some kind of localized, safe state ability, an off switch where you don't have to get too close to the robot."
+    },
+    {
+        "start": 2471.36,
+        "end": 2477.36,
+        "text": " I don't know. So, if we've got millions of these things going over the place, you're not selling it."
+    },
+    {
+        "start": 2477.36,
+        "end": 2485.36,
+        "text": " No, I know. I'm saying it's something we should be quite concerned about, because the robot can follow you anywhere."
+    },
+    {
+        "start": 2485.36,
+        "end": 2491.36,
+        "text": " What if they just one day get a software update and they're not so readily anymore?"
+    },
+    {
+        "start": 2491.36,
+        "end": 2496.36,
+        "text": " We've got a James Cameron movie on our heads."
+    },
+    {
+        "start": 2496.36,
+        "end": 2503.36,
+        "text": " It's funny you're saying that, because in our session that we had today, we'd say, who?"
+    },
+    {
+        "start": 2503.36,
+        "end": 2507.36,
+        "text": " They made exactly the same point, right, Dennis, who were talking about movies."
+    },
+    {
+        "start": 2507.36,
+        "end": 2511.36,
+        "text": " Actually, without mentioning James Cameron, they're talking about James Cameron movies."
+    },
+    {
+        "start": 2511.36,
+        "end": 2521.36,
+        "text": " If you think about it, it's not just those movies, but any of these movies trains, subways, metros, bars, buses."
+    },
+    {
+        "start": 2521.36,
+        "end": 2529.36,
+        "text": " They said all these movies were the same plot, fundamentally, all end with the person turning it off, right, or finding a way to shut the thing down,"
+    },
+    {
+        "start": 2529.36,
+        "end": 2535.36,
+        "text": " and they were making the same point that you were about the importance of actual physical off switches."
+    },
+    {
+        "start": 2535.36,
+        "end": 2539.36,
+        "text": " The technology is great, but fundamentally, this same movie has played out 50 times."
+    },
+    {
+        "start": 2539.36,
+        "end": 2543.36,
+        "text": " We've all watched it, and it all fundamentally, you know, point of revenge, right?"
+    },
+    {
+        "start": 2543.36,
+        "end": 2547.36,
+        "text": " It all ends in pretty much the same way when someone's finding their way and they're just doing the wrong thing."
+    },
+    {
+        "start": 2547.36,
+        "end": 2551.36,
+        "text": " Which is an interesting thing that you said, similar point, right?"
+    },
+    {
+        "start": 2551.36,
+        "end": 2553.36,
+        "text": " It's not the obvious place you'd go to, but..."
+    },
+    {
+        "start": 2553.36,
+        "end": 2555.36,
+        "text": " Maybe that could be one of the tests for the AI."
+    },
+    {
+        "start": 2555.36,
+        "end": 2559.36,
+        "text": " We should say, like, blank is your favorite James Cameron movie."
+    },
+    {
+        "start": 2559.36,
+        "end": 2561.36,
+        "text": " It's an end of blank."
+    },
+    {
+        "start": 2565.36,
+        "end": 2567.36,
+        "text": " Excellent, right. Yes."
+    },
+    {
+        "start": 2567.36,
+        "end": 2569.36,
+        "text": " We got over there, yep, perfect."
+    },
+    {
+        "start": 2571.36,
+        "end": 2573.36,
+        "text": " Hi, a question for you both."
+    },
+    {
+        "start": 2573.36,
+        "end": 2579.36,
+        "text": " So I'm a founder of AI and ML Scaleup in the third centre for AI, which is Leeds in the North England, a bit biased."
+    },
+    {
+        "start": 2579.36,
+        "end": 2588.36,
+        "text": " Since the launch of chat GBT, three months after that, we saw a real increase in fishing attacks using much more sophisticated language patterns."
+    },
+    {
+        "start": 2588.36,
+        "end": 2594.36,
+        "text": " What do we do to protect businesses, consumers, so they trust this technology better?"
+    },
+    {
+        "start": 2594.36,
+        "end": 2598.36,
+        "text": " And how do we bring them along that journey with us?"
+    },
+    {
+        "start": 2598.36,
+        "end": 2602.36,
+        "text": " Well, I think we shouldn't trust it that much, actually."
+    },
+    {
+        "start": 2602.36,
+        "end": 2612.36,
+        "text": " It is actually quite a significant challenge because we're going to the point where even open source AI can pass human capture tests."
+    },
+    {
+        "start": 2612.36,
+        "end": 2614.36,
+        "text": " So, you know, this is, are you a human?"
+    },
+    {
+        "start": 2614.36,
+        "end": 2616.36,
+        "text": " Identify all the traffic lights in this picture."
+    },
+    {
+        "start": 2616.36,
+        "end": 2618.36,
+        "text": " You're like, okay."
+    },
+    {
+        "start": 2618.36,
+        "end": 2620.36,
+        "text": " And I was going to have no problem doing that."
+    },
+    {
+        "start": 2620.36,
+        "end": 2624.36,
+        "text": " In fact, it'll do it better than the human and faster than the human."
+    },
+    {
+        "start": 2624.36,
+        "end": 2632.36,
+        "text": " So we're like, how do you, you know, it's the point at which it's better, a better human, better passing human tests than humans, then, or what tests actually make sense."
+    },
+    {
+        "start": 2632.36,
+        "end": 2636.36,
+        "text": " That is a real problem. I don't actually have a good solution to it."
+    },
+    {
+        "start": 2636.36,
+        "end": 2656.36,
+        "text": " That one of the things we're trying to figure out on the X platform is how to deal with that because it really, we really are at the point where even with open source, you know, readily available AI, you don't need to be sort of leading the field, you can actually be better than humans at passing these tests."
+    },
+    {
+        "start": 2656.36,
+        "end": 2660.36,
+        "text": " And that's sort of why we think, well, perhaps we should sort of charge a dollar or a pound a year."
+    },
+    {
+        "start": 2660.36,
+        "end": 2668.36,
+        "text": " It's a very tiny amount of money, but it still makes it privately expensive to make a million bots."
+    },
+    {
+        "start": 2668.36,
+        "end": 2676.36,
+        "text": " So, especially if you need a million payment methods, then you run out of sort of stolen credit cards pretty quickly."
+    },
+    {
+        "start": 2676.36,
+        "end": 2692.36,
+        "text": " So that's sort of where we're thinking, like, we might have to sort of just charge some very tiny amount of money, 0.3 cents a day effectively to deal with the onslaught of AI powered bots."
+    },
+    {
+        "start": 2692.36,
+        "end": 2700.36,
+        "text": " And that is still a growing problem, but it will be, I think, perhaps an insurmountable problem next year."
+    },
+    {
+        "start": 2700.36,
+        "end": 2714.36,
+        "text": " And then you have to worry about well, manipulation of information, making something seem very popular when it factors is not because it's getting boosted by all these likes and reposts from AI powered bots."
+    },
+    {
+        "start": 2714.36,
+        "end": 2724.36,
+        "text": " So that's why I sort of think somewhat inevitably it leads to some small payment in order to dramatically increase the cost of a bot."
+    },
+    {
+        "start": 2724.36,
+        "end": 2732.36,
+        "text": " So I think probably any social media system that doesn't do that will simply be overrun by bots."
+    },
+    {
+        "start": 2732.36,
+        "end": 2744.36,
+        "text": " I think my general answer would be, we need to show that we are on top of mitigating the risks for rights of people who can trust the technology."
+    },
+    {
+        "start": 2744.36,
+        "end": 2756.36,
+        "text": " That's what actually the last couple of days has been about on the safety summit is just showing, you know, we're investing in the safety institute, having the people who can do the research on these things to figure out how we mitigate against them."
+    },
+    {
+        "start": 2756.36,
+        "end": 2768.36,
+        "text": " And we have to do it fast and we have to keep iterating it because all of us probably in this room believe that the technology can be incredibly powerful, but we've got to make sure we bring people along that journey with us that we're handling the risks that are there."
+    },
+    {
+        "start": 2768.36,
+        "end": 2776.36,
+        "text": " And as a job to do and the last couple of days, I think we make good progress on it because we want to focus on the positives and manage these things."
+    },
+    {
+        "start": 2776.36,
+        "end": 2780.36,
+        "text": " But that requires action and that's what the last couple of days has been about."
+    },
+    {
+        "start": 2780.36,
+        "end": 2794.36,
+        "text": " Your analogy there was part of the research that actually, you know, the team working on the task force here, published and presented, yes, I don't know if you saw it, which is essentially that."
+    },
+    {
+        "start": 2794.36,
+        "end": 2806.36,
+        "text": " It was using AI to create a ton of fake profiles on social media and infiltrate particular groups with particular information."
+    },
+    {
+        "start": 2806.36,
+        "end": 2809.36,
+        "text": " And at the moment, that is the set to your point."
+    },
+    {
+        "start": 2809.36,
+        "end": 2811.36,
+        "text": " It's like cost free."
+    },
+    {
+        "start": 2811.36,
+        "end": 2816.36,
+        "text": " It's getting to the point where it's like really you're going to have 100 for a penny for a thing ridiculous."
+    },
+    {
+        "start": 2816.36,
+        "end": 2823.36,
+        "text": " You think about some of these social networks that are in neighborhood or town levels, not that many fake profiles that you need to quickly create."
+    },
+    {
+        "start": 2823.36,
+        "end": 2830.36,
+        "text": " Suddenly they're everywhere and there's some local issue that might be of importance and the team have run versions of how that looks like."
+    },
+    {
+        "start": 2830.36,
+        "end": 2834.36,
+        "text": " And suddenly they're interacting with everybody and then spreading misinformation around."
+    },
+    {
+        "start": 2834.36,
+        "end": 2835.36,
+        "text": " That's a real challenge."
+    },
+    {
+        "start": 2835.36,
+        "end": 2841.36,
+        "text": " We literally as part of the research that we published on misinformation yesterday, it's a real challenge."
+    },
+    {
+        "start": 2841.36,
+        "end": 2854.36,
+        "text": " Exactly, the two point, I mean, the images, you don't even need to steal somebody's picture because that's traceable, but you can actually just say create a new image of a person realistic looking, but doesn't exist."
+    },
+    {
+        "start": 2854.36,
+        "end": 2858.36,
+        "text": " And then create a biography realistic, but doesn't exist."
+    },
+    {
+        "start": 2858.36,
+        "end": 2864.36,
+        "text": " And do that on mass. And practically the only way of able to tell is that the grandma is too good."
+    },
+    {
+        "start": 2864.36,
+        "end": 2866.36,
+        "text": " Take a boy."
+    },
+    {
+        "start": 2866.36,
+        "end": 2868.36,
+        "text": " No typos? Come on."
+    },
+    {
+        "start": 2868.36,
+        "end": 2871.36,
+        "text": " Now I'm getting wavedack, because I think we are out of time."
+    },
+    {
+        "start": 2871.36,
+        "end": 2875.36,
+        "text": " I don't we take one very brief last question and let's make a go on."
+    },
+    {
+        "start": 2875.36,
+        "end": 2878.36,
+        "text": " Yes sir, go on your right in front of me."
+    },
+    {
+        "start": 2878.36,
+        "end": 2880.36,
+        "text": " Thank you very much."
+    },
+    {
+        "start": 2880.36,
+        "end": 2882.36,
+        "text": " You have a question for you."
+    },
+    {
+        "start": 2882.36,
+        "end": 2884.36,
+        "text": " Related to the X platform."
+    },
+    {
+        "start": 2884.36,
+        "end": 2887.36,
+        "text": " Are there simple things we can do, especially when it comes to visual media."
+    },
+    {
+        "start": 2887.36,
+        "end": 2895.36,
+        "text": " You alluded to the fact that it's fairly short forward and effectively free to make people like yourself say and do things that you never said or did."
+    },
+    {
+        "start": 2895.36,
+        "end": 2898.36,
+        "text": " Can we do something like cryptographically signed media?"
+    },
+    {
+        "start": 2898.36,
+        "end": 2900.36,
+        "text": " I'm from Adobe for working on this project."
+    },
+    {
+        "start": 2900.36,
+        "end": 2901.36,
+        "text": " Twitter was a member."
+    },
+    {
+        "start": 2901.36,
+        "end": 2903.36,
+        "text": " I'd love to see X come back."
+    },
+    {
+        "start": 2903.36,
+        "end": 2908.36,
+        "text": " Did you really sign media to indicate not only what was created by AI, but what came from a camera?"
+    },
+    {
+        "start": 2908.36,
+        "end": 2909.36,
+        "text": " What was real?"
+    },
+    {
+        "start": 2909.36,
+        "end": 2910.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 2910.36,
+        "end": 2912.36,
+        "text": " To view a sense of trust in media that can go viral."
+    },
+    {
+        "start": 2912.36,
+        "end": 2914.36,
+        "text": " That sounds like a good idea actually."
+    },
+    {
+        "start": 2914.36,
+        "end": 2919.36,
+        "text": " So if, in some way, a photo-cating would be good."
+    },
+    {
+        "start": 2919.36,
+        "end": 2924.36,
+        "text": " So yeah, that sounds like a good idea, which we should probably do it."
+    },
+    {
+        "start": 2924.36,
+        "end": 2927.36,
+        "text": " There you go."
+    },
+    {
+        "start": 2927.36,
+        "end": 2934.36,
+        "text": " Actually, on that point, so I've already, and this is particularly pertinent for people in my job."
+    },
+    {
+        "start": 2934.36,
+        "end": 2940.36,
+        "text": " And I've already had a situation happen to me with a doctored image that goes everywhere negative."
+    },
+    {
+        "start": 2940.36,
+        "end": 2946.36,
+        "text": " By the time everyone realises all that's fake and we should stop sending it, the damage is done."
+    },
+    {
+        "start": 2946.36,
+        "end": 2949.36,
+        "text": " And actually, we were again reflecting today."
+    },
+    {
+        "start": 2949.36,
+        "end": 2957.36,
+        "text": " Next year, you've got elections in, you know, I think, you know, the US, India, I think Indonesia, probably here."
+    },
+    {
+        "start": 2957.36,
+        "end": 2958.36,
+        "text": " There you go."
+    },
+    {
+        "start": 2958.36,
+        "end": 2960.36,
+        "text": " Massive news."
+    },
+    {
+        "start": 2960.36,
+        "end": 2966.36,
+        "text": " And actually, you've got just an enormous chunk of the world's population is voting next year."
+    },
+    {
+        "start": 2966.36,
+        "end": 2967.36,
+        "text": " Right?"
+    },
+    {
+        "start": 2967.36,
+        "end": 2969.36,
+        "text": " And you got EU elections as well."
+    },
+    {
+        "start": 2969.36,
+        "end": 2973.36,
+        "text": " You know, as you just, these issues are right in front of us."
+    },
+    {
+        "start": 2973.36,
+        "end": 2978.36,
+        "text": " Next year is where big elections across the globe, probably the first set of elections where this has been a real issue."
+    },
+    {
+        "start": 2978.36,
+        "end": 2987.36,
+        "text": " So, figuring out how we manage that is, I think, kind of mission critical for the people who want, you know, your integrity of our democracy."
+    },
+    {
+        "start": 2987.36,
+        "end": 2988.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 2988.36,
+        "end": 2992.36,
+        "text": " I mean, it's quite, it's quite entertaining, like the Pope in the Puffer jacket, have you seen that one?"
+    },
+    {
+        "start": 2992.36,
+        "end": 2993.36,
+        "text": " I don't know."
+    },
+    {
+        "start": 2993.36,
+        "end": 2994.36,
+        "text": " That's amazing."
+    },
+    {
+        "start": 2994.36,
+        "end": 2997.36,
+        "text": " But I mean, I still manage people who think that's real."
+    },
+    {
+        "start": 2997.36,
+        "end": 3002.36,
+        "text": " I'm like, well, what are the odds he's wearing a Puffer jacket in July in Rome?"
+    },
+    {
+        "start": 3002.36,
+        "end": 3007.36,
+        "text": " You know, he's wearing, but it actually looked quite, quite dashing, I don't think."
+    },
+    {
+        "start": 3007.36,
+        "end": 3010.36,
+        "text": " In fact, I think AI fashion is going to be a real thing."
+    },
+    {
+        "start": 3010.36,
+        "end": 3011.36,
+        "text": " So, I've been doing glimpses."
+    },
+    {
+        "start": 3011.36,
+        "end": 3018.36,
+        "text": " Like, we look at the most interesting times, and I think this is, you know, 80% likely to be good and 20% bad."
+    },
+    {
+        "start": 3018.36,
+        "end": 3025.36,
+        "text": " I think we're, if we're cognizant and careful about the bad part on balance, actually, it will be the future that we want."
+    },
+    {
+        "start": 3025.36,
+        "end": 3028.36,
+        "text": " Or the future that is profitable."
+    },
+    {
+        "start": 3028.36,
+        "end": 3036.36,
+        "text": " And it actually will be somewhat of a level in equalizer in the sense that, you know, I think everyone will have access to goods and services and education."
+    },
+    {
+        "start": 3036.36,
+        "end": 3041.36,
+        "text": " And so, you know, I think probably it leads to more human happiness."
+    },
+    {
+        "start": 3041.36,
+        "end": 3045.36,
+        "text": " So, I guess I'd probably leave on an optimistic note."
+    },
+    {
+        "start": 3045.36,
+        "end": 3046.36,
+        "text": " Yeah."
+    },
+    {
+        "start": 3046.36,
+        "end": 3048.36,
+        "text": " Well, that's it."
+    },
+    {
+        "start": 3048.36,
+        "end": 3049.36,
+        "text": " That is a great note to end on."
+    },
+    {
+        "start": 3049.36,
+        "end": 3052.36,
+        "text": " I think we're all on that, that better future."
+    },
+    {
+        "start": 3052.36,
+        "end": 3053.36,
+        "text": " I think it's there."
+    },
+    {
+        "start": 3053.36,
+        "end": 3054.36,
+        "text": " The promise of it is certainly there."
+    },
+    {
+        "start": 3054.36,
+        "end": 3057.36,
+        "text": " Lots of people in this room, including yourselves, are working hard to make it happen."
+    },
+    {
+        "start": 3057.36,
+        "end": 3060.36,
+        "text": " Our job and government is to make sure it happens safely."
+    },
+    {
+        "start": 3060.36,
+        "end": 3065.36,
+        "text": " But on the basis of this conversation in the last couple of days, I'm certainly leaving more confident that we can make that happen."
+    },
+    {
+        "start": 3066.36,
+        "end": 3069.36,
+        "text": " No, it's been a huge privilege and pleasure to have you here."
+    },
+    {
+        "start": 3069.36,
+        "end": 3071.36,
+        "text": " Well, thank you very much for having me."
+    }
+]
