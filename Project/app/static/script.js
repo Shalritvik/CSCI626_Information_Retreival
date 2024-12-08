@@ -15,13 +15,11 @@ document.getElementById("searchForm").addEventListener("submit", async (e) => {
     const resultsDiv = document.getElementById("results");
     resultsDiv.innerHTML = "";
 
-    // Check if no results or a specific message is returned
     if (results.message) {
         resultsDiv.innerHTML = `<p class="text-warning">${results.message}</p>`;
     } else if (results.error) {
         resultsDiv.innerHTML = `<p class="text-danger">${results.error}</p>`;
     } else {
-        // Display results if available
         results.forEach((result, index) => {
             const div = document.createElement("div");
             div.className = "result";
@@ -40,15 +38,31 @@ document.getElementById("searchForm").addEventListener("submit", async (e) => {
             resultsDiv.appendChild(div);
         });
 
-        // Add event listeners to play buttons
+        // Add event listeners to Play buttons for each result
         document.querySelectorAll(".play-button").forEach((button) => {
-            button.addEventListener("click", (event) => {
+            button.addEventListener("click", async (event) => {
                 const file = button.getAttribute("data-file");
                 const start = button.getAttribute("data-start");
 
                 const audioPlayer = document.getElementById("audioPlayer");
                 const audioSource = document.getElementById("audioSource");
+                const transcriptionContainer = document.getElementById("transcription");
                 const mp3PlayerDiv = document.getElementById("mp3-player");
+
+                // Fetch transcription for the selected file
+                const transcriptionResponse = await fetch(`/transcription?file=${encodeURIComponent(file)}`);
+                const transcription = await transcriptionResponse.json();
+
+                // Populate the transcription container
+                transcriptionContainer.innerHTML = "";
+                transcription.forEach((segment, index) => {
+                    const li = document.createElement("li");
+                    li.className = "transcription-segment";
+                    li.dataset.start = segment.start;
+                    li.dataset.end = segment.end;
+                    li.innerText = segment.text;
+                    transcriptionContainer.appendChild(li);
+                });
 
                 // Set the source of the audio player
                 audioSource.src = `/play?file=${encodeURIComponent(file)}`;
@@ -56,11 +70,45 @@ document.getElementById("searchForm").addEventListener("submit", async (e) => {
 
                 // Load the audio and set the start time
                 audioPlayer.load();
-                audioPlayer.addEventListener("loadedmetadata", () => {
-                    audioPlayer.currentTime = parseFloat(start);
-                    audioPlayer.play();
+                audioPlayer.currentTime = parseFloat(start);
+                audioPlayer.play();
+
+                // Highlight transcription during playback and scroll to the active line
+                audioPlayer.addEventListener("timeupdate", () => {
+                    const currentTime = audioPlayer.currentTime;
+                    document.querySelectorAll(".transcription-segment").forEach((segment) => {
+                        const start = parseFloat(segment.dataset.start);
+                        const end = parseFloat(segment.dataset.end);
+
+                        if (currentTime >= start && currentTime <= end) {
+                            segment.style.backgroundColor = "#00d67d";
+                            segment.style.color = "#000";
+
+                            // Scroll the active segment into view
+                            segment.scrollIntoView({ behavior: "smooth", block: "center" });
+                        } else {
+                            segment.style.backgroundColor = "transparent";
+                            segment.style.color = "#ddd";
+                        }
+                    });
                 });
             });
+        });
+
+        // MP3 Player Controls
+        const audioPlayer = document.getElementById("audioPlayer");
+
+        document.getElementById("playButton").addEventListener("click", () => {
+            audioPlayer.play();
+        });
+
+        document.getElementById("pauseButton").addEventListener("click", () => {
+            audioPlayer.pause();
+        });
+
+        document.getElementById("stopButton").addEventListener("click", () => {
+            audioPlayer.pause();
+            audioPlayer.currentTime = 0; // Reset to the beginning
         });
     }
 });
