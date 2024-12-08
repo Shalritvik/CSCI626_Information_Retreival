@@ -8,7 +8,7 @@ bp = Blueprint("routes", __name__)
 
 # Paths for data
 folder_path = "Transcripts"  # Path to the folder containing JSON transcripts
-mp3_folder =  r"D:\Shal_PG\NYIT\CSCI626_info_retreival\Project\Podcast_MP3"
+mp3_folder =  r"D:\Shal_PG\NYIT\CSCI626_info_retreival\Project\Podcast_MP3"  #mention absolute paths
 # Path to the MP3 files
 
 # Initialize the search engine
@@ -61,7 +61,7 @@ import json
 @bp.route("/transcription", methods=["GET"])
 def get_transcription():
     file_name = request.args.get("file")
-    transcription_path = os.path.join(r"D:\Shal_PG\NYIT\CSCI626_info_retreival\Project\Transcripts", f"{os.path.splitext(file_name)[0]}.json")
+    transcription_path = os.path.join(r"D:\Shal_PG\NYIT\CSCI626_info_retreival\Project\Transcripts", f"{os.path.splitext(file_name)[0]}.json") #Mention absolute paths
 
     if not os.path.exists(transcription_path):
         return jsonify({"error": "Transcription not found"}), 404
