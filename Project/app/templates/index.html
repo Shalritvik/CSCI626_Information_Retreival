@@ -51,25 +51,29 @@
             <button type="submit" class="btn btn-green ms-2">Search</button>
         </form>
     </div>
-
+    
     <div class="container">
         <div id="results" class="mt-5"></div>
     
         <!-- MP3 Player -->
         <div id="mp3-player" style="display: none;">
             <h5 class="text-green">Now Playing</h5>
-            <audio id="audioPlayer" controls>
-                <source id="audioSource" src="" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            <button class="btn btn-green" id="playButton">Play</button>
-            <button class="btn btn-secondary" id="pauseButton">Pause</button>
-            <button class="btn btn-secondary" id="stopButton">Stop</button>
-        </div>
+    <audio id="audioPlayer" controls style="width: 100%;">
+        <source id="audioSource" src="" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <div id="transcription-container" style="max-height: 200px; overflow-y: auto; padding: 10px; background: #1a1a1a; border-radius: 8px; margin-top: 15px;">
+        <ul id="transcription" style="list-style-type: none; padding: 0; margin: 0;">
+            <!-- Transcription segments will be added here dynamically -->
+        </ul>
+    </div>
+    <div class="button-group">
+        <button class="btn btn-green" id="playButton">Play</button>
+        <button class="btn btn-secondary" id="pauseButton">Pause</button>
+        <button class="btn btn-secondary" id="stopButton">Stop</button>
+    </div>
+</div>
         
-        
-    
-
     <footer class="text-center py-4 bg-dark">
         <p class="text-light">&copy; 2024 Podcast Explorer. All rights reserved.</p>
     </footer>
