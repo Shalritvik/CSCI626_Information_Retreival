@@ -93,5 +93,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 4. Open a pull request.
 
 ## Contact
-For any inquiries, feel free to contact [your_email@example.com].
+For any inquiries, feel free to contact [shalritvik.work@gmail.com].
 
