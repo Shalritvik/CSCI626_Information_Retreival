@@ -70,7 +70,7 @@ Below are screenshots of the working application:
 
 
 ### 3. Audio Playback
-![Audio Playback](https://github.com/user-attachments/assets/cc330faa-2bbb-4fa0-b845-e28d6d76304f)
+![Result_playback](https://github.com/user-attachments/assets/bf3ad498-e488-4431-95e1-acab6eda8fd2)
 
 
 
