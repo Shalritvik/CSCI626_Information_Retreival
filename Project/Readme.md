@@ -12,6 +12,7 @@ Podcast Explorer is a web-based tool that allows users to search for specific co
 ## Requirements
 - Python 3.8+
 - Flask
+- CUDA
 - Scikit-learn
 - Numpy
 - HTML/CSS for the frontend
