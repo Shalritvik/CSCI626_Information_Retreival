@@ -63,7 +63,7 @@ Podcast Explorer is a web-based tool that allows users to search for specific co
 Below are screenshots of the working application:
 
 ### 1. Search Page
-![Search Page](https://github.com/Shalritvik/CSCI626_Information_Retreival/blob/main/Project/Home.png))
+![Search Page](https://github.com/Shalritvik/CSCI626_Information_Retreival/blob/main/Project/Home.png)
 
 ### 2. Search Results
 ![Search Results](./images/search_results.png)
