@@ -66,11 +66,11 @@ Below are screenshots of the working application:
 ![Search Page](https://github.com/Shalritvik/CSCI626_Information_Retreival/blob/main/Project/Home.png)
 
 ### 2. Search Results
-![Search Results]![Result](https://github.com/user-attachments/assets/edc8c0f3-a0c8-4f12-b068-31adef420da4)
+![Search Results](https://github.com/user-attachments/assets/edc8c0f3-a0c8-4f12-b068-31adef420da4)
 
 
 ### 3. Audio Playback
-![Audio Playback]![Result_playback](https://github.com/user-attachments/assets/8add3b91-2967-4ddc-875f-2949abbacef5)
+![Audio Playback](https://github.com/user-attachments/assets/8add3b91-2967-4ddc-875f-2949abbacef5)
 
 
 ## License
