@@ -24,8 +24,8 @@ document.getElementById("searchForm").addEventListener("submit", async (e) => {
             const div = document.createElement("div");
             div.className = "result";
             div.innerHTML = `
-                <h5 class="text-green">Result ${index + 1}</h5>
-                <p><strong>File:</strong> ${result.file}</p>
+                <h5 class="text-green">Title ${result.file}</h5>
+              
                 <p><strong>Start:</strong> ${result.start}s | <strong>End:</strong> ${result.end}s</p>
                 <p><strong>Snippet:</strong> ${result.text}</p>
                 <p><strong>Relevance Score:</strong> ${result.score.toFixed(4)}</p>
